@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: lt-LT
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383381"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Ištrinti vartotojai](/AlchemyInsights/deleting-users) | modifikuoto |
 | 1/11/2019 | [Įdiegti vientisą bendrosios autentifikacijos](/AlchemyInsights/deploy-seamless-single-sign-on) | modifikuoto |
 | 1/11/2019 | [Panaikinti prieigą prie "Yammer"](/AlchemyInsights/disable-access-to-yammer) | modifikuoto |
+
+
+## <a name="week-of-january-14-2019"></a>Savaitę nuo 2019 m. sausio 14
+
+
+| Paskelbta |Temos pavadinimą | Keisti |
+|------|------------|--------|
+| 1/14/2019 | Alchemija vietos rezervavimo ženklas | pašalinti |
+| 1/14/2019 | Pridėti domeno Alchemija | pašalinti |
+| 1/14/2019 | [Alchemija įžvalgos namuose](/AlchemyInsights/index) | modifikuoto |
+| 1/17/2019 | [tas pats kaip failo vardas yra geriausia [taisyklė #-Aprašymas]](/AlchemyInsights/1-alchemy-insight-template) | pridėta |
