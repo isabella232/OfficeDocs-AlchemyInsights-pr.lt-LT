@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383381"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454438"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383381"
 ## <a name="week-of-january-07-2019"></a>Savaitę nuo 2019 m. sausio 07
 
 
-| Paskelbta |Temos pavadinimą | Keisti |
+| Paskelbta |Temos pavadinimą | Keisti. |
 |------|------------|--------|
 | 1/7/2019 | [Pakeisti slaptažodį](/AlchemyInsights/change-your-password-in-outlook.com) | pridėta |
 | 1/7/2019 | [Keisti teises pašto dėžutės](/AlchemyInsights/changing-permissions-on-a-mailbox) | pridėta |
@@ -302,7 +302,7 @@ ms.locfileid: "29383381"
 | 1/10/2019 | [Bendravimo svetainės kūrimas](/AlchemyInsights/create-a-communication-site) | pridėta |
 | 1/10/2019 | [Sukurti srautą](/AlchemyInsights/create-a-flow) | pridėta |
 | 1/10/2019 | [Šiuolaikinės komandos svetainės sukūrimas](/AlchemyInsights/create-a-modern-team-site) | pridėta |
-| 1/10/2019 | [Sukurti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-a-shared-mailbox) | pridėta |
+| 1/10/2019 | Bendrinamos pašto dėžutės kūrimas | pridėta |
 | 1/10/2019 | [SharePoint svetainės kūrimas](/AlchemyInsights/create-a-sharepoint-site) | pridėta |
 | 1/10/2019 | [Sukurti svetainę, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | pridėta |
 | 1/10/2019 | [Sukurti ir naudoti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | pridėta |
@@ -599,7 +599,7 @@ ms.locfileid: "29383381"
 | 1/11/2019 | [Bendravimo svetainės kūrimas](/AlchemyInsights/create-a-communication-site) | modifikuoto |
 | 1/11/2019 | [Sukurti srautą](/AlchemyInsights/create-a-flow) | modifikuoto |
 | 1/11/2019 | [Šiuolaikinės komandos svetainės sukūrimas](/AlchemyInsights/create-a-modern-team-site) | modifikuoto |
-| 1/11/2019 | [Sukurti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-a-shared-mailbox) | modifikuoto |
+| 1/11/2019 | Bendrinamos pašto dėžutės kūrimas | modifikuoto |
 | 1/11/2019 | [SharePoint svetainės kūrimas](/AlchemyInsights/create-a-sharepoint-site) | modifikuoto |
 | 1/11/2019 | [Sukurti svetainę, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modifikuoto |
 | 1/11/2019 | [Sukurti ir naudoti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modifikuoto |
@@ -637,7 +637,7 @@ ms.locfileid: "29383381"
 ## <a name="week-of-january-14-2019"></a>Savaitę nuo 2019 m. sausio 14
 
 
-| Paskelbta |Temos pavadinimą | Keisti |
+| Paskelbta |Temos pavadinimą | Keisti. |
 |------|------------|--------|
 | 1/14/2019 | Alchemija vietos rezervavimo ženklas | pašalinti |
 | 1/14/2019 | Pridėti domeno Alchemija | pašalinti |
