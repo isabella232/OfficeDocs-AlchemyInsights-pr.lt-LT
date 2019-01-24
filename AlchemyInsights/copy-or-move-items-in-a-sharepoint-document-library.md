@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28301139"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480197"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="09fe8-102">Kopijuoti ar perkelti elementus SharePoint dokumentų bibliotekoje</span><span class="sxs-lookup"><span data-stu-id="09fe8-102">Copy or move items in a SharePoint document library</span></span>
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="75b22-102">Kopijuoti ar perkelti elementus SharePoint dokumentų bibliotekoje</span><span class="sxs-lookup"><span data-stu-id="75b22-102">Copy or move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="09fe8-p101">Galite kopijuoti ir perkelti failus, aplankus ir nuorodas į kitas vietas per dokumentų biblioteką. Taip pat galite kopijuoti elementus svetainėse. Jei [nustatyti tikslinės išleidimo galimybė](https://go.microsoft.com/fwlink/?linkid=622980), galite perkelti elementus svetainėse, taip pat.</span><span class="sxs-lookup"><span data-stu-id="09fe8-p101">You can copy and move files, folders, and links to different locations within a document library. You can also copy items across sites. If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can move items across sites, too.</span></span>
+<span data-ttu-id="75b22-p101">Galite kopijuoti ir perkelti failus, aplankus ir nuorodas į kitas vietas per dokumentų biblioteką. Taip pat galite kopijuoti elementus svetainėse. Jei [nustatyti tikslinės išleidimo galimybė](https://go.microsoft.com/fwlink/?linkid=622980), galite perkelti elementus svetainėse, taip pat.</span><span class="sxs-lookup"><span data-stu-id="75b22-p101">You can copy and move files, folders, and links to different locations within a document library. You can also copy items across sites. If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can move items across sites, too.</span></span>
   
-1. <span data-ttu-id="09fe8-106">Naršyklėje, eikite į failus, aplankus ar nuorodos, kurią norite perkelti, ir tada spustelėkite **Kopijuoti** arba **perkelti**.</span><span class="sxs-lookup"><span data-stu-id="09fe8-106">In a browser, browse to the files, folders, or links you want to move, and then click **Copy to** or **Move to**.</span></span>
+1. <span data-ttu-id="75b22-106">Naršyklėje, eikite į failus, aplankus ar nuorodos, kurią norite perkelti, ir tada spustelėkite **Kopijuoti** arba **perkelti**.</span><span class="sxs-lookup"><span data-stu-id="75b22-106">In a browser, browse to the files, folders, or links you want to move, and then click **Copy to** or **Move to**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="09fe8-107">**Kopijuoti** ir **perkelti** negalima, jei naudojate SharePoint Online klasikinis patirtis.</span><span class="sxs-lookup"><span data-stu-id="09fe8-107">**Copy to** and **Move to** aren't available if you're using the classic experience of SharePoint Online.</span></span> 
+    > <span data-ttu-id="75b22-107">**Kopijuoti** ir **perkelti** negalima, jei naudojate SharePoint Online klasikinis patirtis.</span><span class="sxs-lookup"><span data-stu-id="75b22-107">**Copy to** and **Move to** aren't available if you're using the classic experience of SharePoint Online.</span></span> 
   
-2. <span data-ttu-id="09fe8-108">Dalyje **pasirinkti kelionės tikslą**, pasirinkite vietą, į kurią norite kopijuoti arba perkelti elementus arba spustelėkite **Naršyti svetaines** pamatyti pilną sąrašą.</span><span class="sxs-lookup"><span data-stu-id="09fe8-108">Under **Choose a destination**, select the location to which you want to copy or move the items or click **Browse sites** to see the full list of sites.</span></span> 
+2. <span data-ttu-id="75b22-108">Dalyje **pasirinkti kelionės tikslą**, pasirinkite vietą, į kurią norite kopijuoti arba perkelti elementus arba spustelėkite **Naršyti svetaines** pamatyti pilną sąrašą.</span><span class="sxs-lookup"><span data-stu-id="75b22-108">Under **Choose a destination**, select the location to which you want to copy or move the items or click **Browse sites** to see the full list of sites.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="09fe8-p102">Jei nematote kitų svetainių, išvardytų kopijuojant elementus, nebuvo sukonfigūruoti kopijavimo svetainėse. Norėdami ją įjungti, eikite į nustatymų puslapį su SharePoint administravimo centro ir spustelėkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="09fe8-p102">If you don't see other sites listed when you copy items, copying across sites hasn't been configured. To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
+    > <span data-ttu-id="75b22-p102">Jei nematote kitų svetainių, išvardytų kopijuojant elementus, nebuvo sukonfigūruoti kopijavimo svetainėse. Norėdami ją įjungti, eikite į nustatymų puslapį su SharePoint administravimo centro ir spustelėkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="75b22-p102">If you don't see other sites listed when you copy items, copying across sites hasn't been configured. To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
   
-    <span data-ttu-id="09fe8-111">Norėdami sukurti naują aplanką, pasirinkite vietą aplanko hierarchijos, spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir spustelėkite žymės langelį įrašyti pavadinimą.</span><span class="sxs-lookup"><span data-stu-id="09fe8-111">To create a new folder, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="75b22-111">Norėdami sukurti naują aplanką, pasirinkite vietą aplanko hierarchijos, spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir spustelėkite žymės langelį įrašyti pavadinimą.</span><span class="sxs-lookup"><span data-stu-id="75b22-111">To create a new folder, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
     
-3. <span data-ttu-id="09fe8-112">Spustelėkite **Kopijuoti čia** arba **perkelti čia**.</span><span class="sxs-lookup"><span data-stu-id="09fe8-112">Click **Copy here** or **Move here**.</span></span>
+3. <span data-ttu-id="75b22-112">Spustelėkite **Kopijuoti čia** arba **perkelti čia**.</span><span class="sxs-lookup"><span data-stu-id="75b22-112">Click **Copy here** or **Move here**.</span></span>
     
 > [!NOTE]
->  <span data-ttu-id="09fe8-p103">Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > Kopijuojant dokumentus, kuriuose yra versijų retrospektyva, kopijuojamas tik naujausią versiją. Kai perkeliate dokumentus, taip pat perkeliamas savo istoriją.</span><span class="sxs-lookup"><span data-stu-id="09fe8-p103">You can copy up to 500 MB of files and folders at one time. >  When you copy documents that have version history, only the latest version is copied. When you move documents, their history is also moved.</span></span> 
+>  <span data-ttu-id="75b22-p103">Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > kopijuojant dokumentus, kuriuose yra versijų retrospektyva, tik naujausią kopijuojamas. Kai perkeliate dokumentus, taip pat perkeliamas savo istoriją.</span><span class="sxs-lookup"><span data-stu-id="75b22-p103">You can copy up to 500 MB of files and folders at one time. >  When you copy documents that have version history, only the latest version is copied. When you move documents, their history is also moved.</span></span> 
   
 
