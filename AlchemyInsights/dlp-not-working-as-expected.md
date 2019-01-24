@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28301492"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480213"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP, neveikia kaip tikėtasi
 
@@ -36,7 +36,7 @@ Naudojant **įmontuotą slaptos informacijos tipai** Office 365 saugos ir atitik
     
     Jei norite kurti pasirinktinius slaptos informacijos tipus, naudokite šį straipsnį informacijos apie tai, kaip kurti pasirinktinį jautrus tipo: [sukurti pasirinktinį slaptos informacijos tipas](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **Pranešimai:**
+ Ataskaitos
   
 - Gaukite įžvalgų slaptų duomenų su [DLP ataskaitas.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     

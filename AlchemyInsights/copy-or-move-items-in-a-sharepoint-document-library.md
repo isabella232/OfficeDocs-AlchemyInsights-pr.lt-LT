@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28301139"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480197"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopijuoti ar perkelti elementus SharePoint dokumentų bibliotekoje
 
@@ -37,6 +37,6 @@ Galite kopijuoti ir perkelti failus, aplankus ir nuorodas į kitas vietas per do
 3. Spustelėkite **Kopijuoti čia** arba **perkelti čia**.
     
 > [!NOTE]
->  Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > Kopijuojant dokumentus, kuriuose yra versijų retrospektyva, kopijuojamas tik naujausią versiją. Kai perkeliate dokumentus, taip pat perkeliamas savo istoriją. 
+>  Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > kopijuojant dokumentus, kuriuose yra versijų retrospektyva, tik naujausią kopijuojamas. Kai perkeliate dokumentus, taip pat perkeliamas savo istoriją. 
   
 
