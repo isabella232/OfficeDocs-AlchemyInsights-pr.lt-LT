@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.openlocfilehash: a19483823c14ee491e51218e75bcc89087d15fb6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28301535"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480984"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="f3f1d-102">Problemos sinchronizuojant savo kalendoriuje, kad įrenginiai</span><span class="sxs-lookup"><span data-stu-id="f3f1d-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="0c0c7-102">Problemos sinchronizuojant savo kalendoriuje, kad įrenginiai</span><span class="sxs-lookup"><span data-stu-id="0c0c7-102">Issues synchronizing your calendar to devices</span></span>
 
-<span data-ttu-id="f3f1d-103">Triktims sinchronizuoti kalendoriaus prietaisus, matyti [negalite sinchronizuoti kalendoriaus ir kontaktų su savo telefone ar planšetiniame kompiuteryje](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span><span class="sxs-lookup"><span data-stu-id="f3f1d-103">To troubleshoot issues synchronizing you calendar to devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span></span>
+<span data-ttu-id="0c0c7-103">Triktims sinchronizuoti kalendoriaus prietaisus, matyti [negalite sinchronizuoti kalendoriaus ir kontaktų su savo telefone ar planšetiniame kompiuteryje](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span><span class="sxs-lookup"><span data-stu-id="0c0c7-103">To troubleshoot issues synchronizing you calendar to devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span></span>
   
 
