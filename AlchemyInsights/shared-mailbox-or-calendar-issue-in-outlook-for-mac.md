@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
 ms.openlocfilehash: f704f4cf41008734da9f0ad8bace8ed1226b5945
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302025"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480551"
 ---
 # <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Bendrai naudojamą pašto dėžutę arba kalendoriaus problemą programoje "Outlook" skirtas "Mac"?
 

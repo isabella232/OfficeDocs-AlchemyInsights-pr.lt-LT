@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: 4e88b66a-d1d8-4f07-be4d-de3849a6d248
 description: Pradėti jūsų straipsnis yra labai trumpas įvadas (1 sakinys). Pastatykite save skaitytojo vietoje - kodėl jie čia? Ką jie daro?
 ms.openlocfilehash: a55cab0383aa0a3de6c6c4a50ffd8c51e1673c44
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302399"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480329"
 ---
 Pradėti jūsų straipsnis yra labai trumpas įvadas (1 sakinys). Pastatykite save skaitytojo vietoje - kodėl jie čia? Ką jie daro? 
   
