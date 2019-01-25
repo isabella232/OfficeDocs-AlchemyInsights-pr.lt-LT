@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
 ms.openlocfilehash: 3a236072479b58b729f7a3cd752cae32e6b9728b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28301119"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480559"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="6a060-102">Dėmesio gauta Outlook Mobile</span><span class="sxs-lookup"><span data-stu-id="6a060-102">Focused Inbox for Outlook mobile</span></span>
+# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="3a53f-102">Dėmesio gauta Outlook Mobile</span><span class="sxs-lookup"><span data-stu-id="3a53f-102">Focused Inbox for Outlook mobile</span></span>
 
-[<span data-ttu-id="6a060-103">Kas yra orientuota pašto dėžutę?</span><span class="sxs-lookup"><span data-stu-id="6a060-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[<span data-ttu-id="3a53f-103">Kas yra orientuota pašto dėžutę?</span><span class="sxs-lookup"><span data-stu-id="3a53f-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[<span data-ttu-id="6a060-104">Kaip redaguoti taisykles, kurios perkelti savo el. paštą ir iš daugiausia gauta?</span><span class="sxs-lookup"><span data-stu-id="6a060-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[<span data-ttu-id="3a53f-104">Kaip redaguoti taisykles, kurios perkelti savo el. paštą ir iš daugiausia gauta?</span><span class="sxs-lookup"><span data-stu-id="3a53f-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[<span data-ttu-id="6a060-105">Kaip išjungti daugiausia gauta arba pakeisti, ar mano ženklelis skaičius ir pranešimai sinchronizuojami su daugiausia gauta?</span><span class="sxs-lookup"><span data-stu-id="6a060-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[<span data-ttu-id="3a53f-105">Kaip išjungti daugiausia gauta arba pakeisti, ar mano ženklelis skaičius ir pranešimai sinchronizuojami su daugiausia gauta?</span><span class="sxs-lookup"><span data-stu-id="3a53f-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[<span data-ttu-id="6a060-106">Kaip išjungti daugiausia gauta arba pakeisti, ar pranešimai sinchronizuojami su daugiausia gauta?</span><span class="sxs-lookup"><span data-stu-id="6a060-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[<span data-ttu-id="3a53f-106">Kaip išjungti daugiausia gauta arba pakeisti, ar pranešimai sinchronizuojami su daugiausia gauta?</span><span class="sxs-lookup"><span data-stu-id="3a53f-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[<span data-ttu-id="6a060-107">Kaip perjungti susitelkti ir kiti?</span><span class="sxs-lookup"><span data-stu-id="6a060-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[<span data-ttu-id="3a53f-107">Kaip perjungti susitelkti ir kiti?</span><span class="sxs-lookup"><span data-stu-id="3a53f-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-<span data-ttu-id="6a060-108">Sužinokite daugiau: [pagalba programoje "Outlook", "iOS" ir "Android"](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="6a060-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
+<span data-ttu-id="3a53f-108">Sužinokite daugiau: [pagalba programoje "Outlook", "iOS" ir "Android"](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="3a53f-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
   
 
