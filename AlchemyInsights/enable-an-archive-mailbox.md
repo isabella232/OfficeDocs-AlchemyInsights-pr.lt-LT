@@ -1,5 +1,5 @@
 ---
-title: Archyvuoti
+title: Archyvo pašto dėžutės įgalinimas
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
@@ -9,13 +9,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28301652"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29480321"
 ---
-# <a name="enable-an-archive-mailbox"></a>Archyvuoti
+# <a name="enable-an-archive-mailbox"></a>Archyvo pašto dėžutės įgalinimas
 
 Archyvo pašto dėžutes "Office 365" (dar vadinamą *Interneto archyvų* ) suteikia vartotojams papildomo el. pašto saugojimo. Vartotojai gali perkelti arba kopijuoti elementus į archyvo pašto dėžutę, ir administratoriai gali sukurti archyvavimo strategija, kuri automatiškai perkelia elementus į archyvo pašto dėžutėse. 
   
