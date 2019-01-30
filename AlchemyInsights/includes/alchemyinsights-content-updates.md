@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454438"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454438"
 ## <a name="week-of-january-07-2019"></a>Savaitę nuo 2019 m. sausio 07
 
 
-| Paskelbta |Temos pavadinimą | Keisti. |
+| Paskelbta |Temos pavadinimą | Keisti |
 |------|------------|--------|
 | 1/7/2019 | [Pakeisti slaptažodį](/AlchemyInsights/change-your-password-in-outlook.com) | pridėta |
 | 1/7/2019 | [Keisti teises pašto dėžutės](/AlchemyInsights/changing-permissions-on-a-mailbox) | pridėta |
@@ -302,7 +294,7 @@ ms.locfileid: "29454438"
 | 1/10/2019 | [Bendravimo svetainės kūrimas](/AlchemyInsights/create-a-communication-site) | pridėta |
 | 1/10/2019 | [Sukurti srautą](/AlchemyInsights/create-a-flow) | pridėta |
 | 1/10/2019 | [Šiuolaikinės komandos svetainės sukūrimas](/AlchemyInsights/create-a-modern-team-site) | pridėta |
-| 1/10/2019 | Bendrinamos pašto dėžutės kūrimas | pridėta |
+| 1/10/2019 | [Sukurti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-a-shared-mailbox) | pridėta |
 | 1/10/2019 | [SharePoint svetainės kūrimas](/AlchemyInsights/create-a-sharepoint-site) | pridėta |
 | 1/10/2019 | [Sukurti svetainę, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | pridėta |
 | 1/10/2019 | [Sukurti ir naudoti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | pridėta |
@@ -599,7 +591,7 @@ ms.locfileid: "29454438"
 | 1/11/2019 | [Bendravimo svetainės kūrimas](/AlchemyInsights/create-a-communication-site) | modifikuoto |
 | 1/11/2019 | [Sukurti srautą](/AlchemyInsights/create-a-flow) | modifikuoto |
 | 1/11/2019 | [Šiuolaikinės komandos svetainės sukūrimas](/AlchemyInsights/create-a-modern-team-site) | modifikuoto |
-| 1/11/2019 | Bendrinamos pašto dėžutės kūrimas | modifikuoto |
+| 1/11/2019 | [Sukurti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-a-shared-mailbox) | modifikuoto |
 | 1/11/2019 | [SharePoint svetainės kūrimas](/AlchemyInsights/create-a-sharepoint-site) | modifikuoto |
 | 1/11/2019 | [Sukurti svetainę, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modifikuoto |
 | 1/11/2019 | [Sukurti ir naudoti bendrai naudojamą pašto dėžutę](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modifikuoto |
@@ -637,9 +629,25 @@ ms.locfileid: "29454438"
 ## <a name="week-of-january-14-2019"></a>Savaitę nuo 2019 m. sausio 14
 
 
-| Paskelbta |Temos pavadinimą | Keisti. |
+| Paskelbta |Temos pavadinimą | Keisti |
 |------|------------|--------|
 | 1/14/2019 | Alchemija vietos rezervavimo ženklas | pašalinti |
 | 1/14/2019 | Pridėti domeno Alchemija | pašalinti |
 | 1/14/2019 | [Alchemija įžvalgos namuose](/AlchemyInsights/index) | modifikuoto |
 | 1/17/2019 | [tas pats kaip failo vardas yra geriausia [taisyklė #-Aprašymas]](/AlchemyInsights/1-alchemy-insight-template) | pridėta |
+
+
+## <a name="week-of-january-21-2019"></a>Savaitę nuo 2019 m. sausio 21
+
+
+| Paskelbta |Temos pavadinimą | Keisti |
+|------|------------|--------|
+| 1/22/2019 | [1047 antiSpam 550 5.7.708 tarnyba nepasiekiama. Prieiga uždrausta, nebuvo priimtas iš šio IP eismo](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modifikuoto |
+| 1/22/2019 | [1049 antiSpam 4.5.3 per daug gavėjų (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modifikuoto |
+| 1/22/2019 | [1050 antispam 4.7.500 serveris užimtas. Bandykite dar kartą vėliau iš [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modifikuoto |
+| 1/22/2019 | [1051 antispam 4.7.500 prieiga uždrausta, bandykite dar kartą vėliau](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | modifikuoto |
+| 1/22/2019 | [Relės laišką per "Office 365"](/AlchemyInsights/relay-email-through-office-365) | modifikuoto |
+| 1/24/2019 | [Valdymo grupės sukūrimas](/AlchemyInsights/control-creation-of-groups) | modifikuoto |
+| 1/24/2019 | ["Outlook" problemas, susijusias su Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | pridėta |
+| 1/24/2019 | [Atkurti Office 365 grupę naudodami Exchange administratorius centro](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | pervardyti |
+| 1/24/2019 | [Šalinkite triktis naudodami Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | pervardyti |
