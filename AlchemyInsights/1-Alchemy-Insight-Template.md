@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454222"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662938"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Neveikia reikia klientų susiduria su H1, H2
 Pavyzdys teksto blokas - vadovaukitės šiomis instrukcijomis:
 
-1. Failus į aplanką **AlchemyInsights** į mane turėtų būti taisyklė ID ir taisyklės pavadinimas [Alchemija partnerių portale](https://alchemyportal.azurewebsites.net) .
+1. Failus į aplanką **AlchemyInsights** turėtų būti taisyklė ID ir taisyklės pavadinimas [Alchemija partnerių portale](https://alchemyportal.azurewebsites.net) failo vardas.
     1. pvz ***976-How-to-enable-litigation-hold***
 1. Naudoti metaduomenų šio failo viršuje jūsų šabloną. Daugiau nieko nereikia.
 1. [Alchemija partnerių portale](https://alchemyportal.azurewebsites.net)naršyti žemyn į skiltį **klientų supratimą pavadinimas:** ir naudoti, kad pradžios taškas H1 pavadinimo už supratimą. 
@@ -34,3 +34,8 @@ Pavyzdys teksto blokas - vadovaukitės šiomis instrukcijomis:
     1. Nuorodas visada turi būti arba **"nuorodos ä¯ interneto" / užsienio** arba **giliai nuorodos į vartotojo sąsajos elementai**, ne vidaus ryšius.
 
 Ir tai tikrai jau yra šiek tiek per ilgas. Geriausia praktika yra apie 400 simbolių---
+
+Kai jūsų turinys yra pasirengusi, traukti į gyvos apatinės šakos. Tada eikite į [Alchemija partnerių portale](https://alchemyportal.azurewebsites.net) ir url lauke įveskite failo vardą. Įsitikinkite, kad pažvelgti peržiūrėjo ir paskelbė sako "taip" ir tada spustelėkite naujinimo taisyklė. (Tai atrodys gražiau naują versiją portalas - Atleidus Netrukus).
+
+![URL lauką](media/for-content-team.PNG)
+

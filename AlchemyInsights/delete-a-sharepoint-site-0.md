@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480826"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646391"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Panaikinti svetaines, kuriose yra "Office 365" grupei priklauso:
 
@@ -30,7 +30,7 @@ Vartotojams sukurti naują komandos svetainę, SharePoint namuose (arba galite s
     
 Pastaba: Panaikinus grupę, ten gali būti atidėtas iki svetainės pašalinamas iš SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Naikinti ryšių svetainėse ar klasikinis svetainėse:
+**Naikinti ryšių svetainėse ar klasikinis svetainėse:**
 
 1. Eikite į svetainę.
   
@@ -38,7 +38,7 @@ Pastaba: Panaikinus grupę, ten gali būti atidėtas iki svetainės pašalinamas
   
 3. Spustelėkite **Svetainės parametrai**. **Svetainės informaciją** arba **Svetainės veiksmai**, spustelėkite **panaikinti šią svetainę**, ir tada spustelėkite **Naikinti**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Panaikinkite SharePoint svetainių rinkinio:
+**Panaikinkite SharePoint svetainių rinkinio:**
 
 Norėdami panaikinti klasikinis svetainių rinkinio:
   
@@ -46,7 +46,7 @@ Norėdami panaikinti klasikinis svetainių rinkinio:
     
 2. Skirtuką svetainių rinkinius, pasirinkite **Naikinti.**
     
-## <a name="deleted-a-site-by-accident"></a>Panaikinti svetainę dėl nelaimingo atsitikimo?
+**Panaikinti svetainę dėl nelaimingo atsitikimo?**
 
 Žiūrėkite [atkurti panaikintą svetainių rinkinį](https://go.microsoft.com/fwlink/?linkid=867660).
   

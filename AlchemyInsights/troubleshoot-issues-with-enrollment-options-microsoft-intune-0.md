@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
-ms.openlocfilehash: 13e840e5ed413359ba32498fd6e7a2f6312c1e85
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03c8a26d66eef67009ab0230ab4ede25fa0a3817
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480547"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659887"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Šalinkite triktis naudodami įtraukimo galimybes Microsoft Intune
 
 Peržiūrėkite žemiau siekiama išspręsti jūsų problemą dabar ištekliai. 
   
-- [Peržiūra Intune TechNet rasti atsakymus ir dažnų problemų sprendimus](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Peržiūra Intune TechNet rasti atsakymus ir dažnų problemų sprendimus](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Naudoti [Intune trikčių šalinimo portalas](https://aka.ms/intunetroubleshooting) diagnozuoti ir išspręsti bendras registracijos nesėkmių. Peržiūrėti daugiau informacijos [šiame dokumente](https://docs.microsoft.com/en-us/intune/help-desk-operators) . 
+- Naudoti [Intune trikčių šalinimo portalas](https://aka.ms/intunetroubleshooting) diagnozuoti ir išspręsti bendras registracijos nesėkmių. Peržiūrėti daugiau informacijos [šiame dokumente](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-- Peržiūrėti [šį dokumentą](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) bendrosios klaidos, kurios neleis registracijos ir rezoliucijas į kiekvieną sąrašą. 
+- Peržiūrėti [šį dokumentą](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) bendrosios klaidos, kurios neleis registracijos ir rezoliucijas į kiekvieną sąrašą. 
     
-- [Sužinokite daugiau apie įtraukimo pasirinktis į Microsoft Intune](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [Sužinokite daugiau apie įtraukimo pasirinktis į Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

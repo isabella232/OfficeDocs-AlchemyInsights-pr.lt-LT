@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: 8d19bbd5a5782c7793c87499baf62b2eb7de82ae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8c5e7cc502d016ad658383685523dc240dfb4dc6
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480629"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661559"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Šalinkite triktis naudodami werbowania į Microsoft Intune "Windows" įrenginiai
 
@@ -26,9 +26,9 @@ Kai kurių įprastinių klaidos prane imų ir sprendimo veiksmai:
   
  **Klaidos kodas 0x801c0003:** Klaida gali atsirasti šie scenarijai: 
   
-1. Vartotojas turi daugiau įrenginius, užregistruotus nei įrenginio. Peržiūrėkite šiuos dokumentus [pašalinti įrenginį](https://docs.microsoft.com/en-us/intune/devices-wipe) arba [pakeisti įrenginio](https://docs.microsoft.com/en-us/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+1. Vartotojas turi daugiau įrenginius, užregistruotus nei įrenginio. Peržiūrėkite šiuos dokumentus [pašalinti įrenginį](https://docs.microsoft.com/intune/devices-wipe) arba [pakeisti įrenginio](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-2. "Vartotojai gali prisijungti prie įrenginių Azure AD" nustatykite "none". Nustatyti visiems arba pasirinkite vartotojai. Peržiūrėkite [šiuos dokumentus](https://docs.microsoft.com/en-us/azure/active-directory/device-management-azure-portal#configure-device-settings) daugiau informacijos. 
+2. "Vartotojai gali prisijungti prie įrenginių Azure AD" nustatykite "none". Nustatyti visiems arba pasirinkite vartotojai. Peržiūrėkite [šiuos dokumentus](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) daugiau informacijos. 
     
 3. Prietaisas jau mokosi kitas vartotojas. Jei tai byla, pašalinti įrenginį iš Azure Intune konsolės arba rankiniu būdu unenroll įrenginį, prieš bandydami dar kartą.
     
@@ -36,10 +36,10 @@ Kai kurių įprastinių klaidos prane imų ir sprendimo veiksmai:
     
 Papildomų išteklių, kurie padės išspręsti jūsų problemą:
   
-1. Naudoti [Intune trikčių šalinimo portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendras registracijos nesėkmių. Peržiūrėti daugiau informacijos [šiame dokumente](https://docs.microsoft.com/en-us/intune/help-desk-operators) . 
+1. Naudoti [Intune trikčių šalinimo portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendras registracijos nesėkmių. Peržiūrėti daugiau informacijos [šiame dokumente](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Peržiūrėkite šiuos dokumentus bendrosios klaidos, kurios neleis registracijos ir rezoliucijas į kiekvieną sąrašą: [trikčių diagnostikos vadovas](https://support.microsoft.com/en-us/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ir [trikčių diagnostika doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Peržiūrėkite šiuos dokumentus bendrosios klaidos, kurios neleis registracijos ir rezoliucijas į kiekvieną sąrašą: [trikčių diagnostikos vadovas](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ir [trikčių diagnostika doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-[Sužinokite, kaip įtraukti į Microsoft Intune "Windows" įrenginiuose](https://docs.microsoft.com/en-us/intune/windows-enroll).
+[Sužinokite, kaip įtraukti į Microsoft Intune "Windows" įrenginiuose](https://docs.microsoft.com/intune/windows-enroll).
   
 

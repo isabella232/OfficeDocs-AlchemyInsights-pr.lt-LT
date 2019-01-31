@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4b8897c5cc8286bc4bd49860658a5a94ad17380d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481067"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657475"
 ---
 Ar iškilo problemų su **Duomenų praradimo prevencijos (DLP)** ne darbo turinio su **Kredito kortelės numerį** , naudojant DLP slaptos informacijos tipo O365? Jei taip, įsitikinkite, kad jūsų turinys yra reikalingą informaciją sukelti į DLP strategijos, kai jis yra vertinamas. Pvz., **kredito kortelės politikos** , suderintas su 85 % pasikliovimo lygmeniu, toliau yra vertinami ir turi būti nustatytas būtų sukelti taisyklė: 
   
-- **[Formatas:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 skaitmenų, kurie gali būti suformatuoti arba Neformatuotas (dddddddddddddddd) ir turi atitikti Luhn bandymo. 
+- **[Formatas:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 skaitmenų, kurie gali būti suformatuoti arba Neformatuotas (dddddddddddddddd) ir turi atitikti Luhn bandymo. 
     
-- **[Modelis:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Labai sudėtingas ir tvirtą modelį, kuris aptinka korteles iš visų pagrindinių markių visame pasaulyje, įskaitant Visa, Mastercard, atrasti kortelę, JCB, American Express, dovanų kortelės, ir valgyklą korteles. 
+- **[Modelis:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Labai sudėtingas ir tvirtą modelį, kuris aptinka korteles iš visų pagrindinių markių visame pasaulyje, įskaitant Visa, Mastercard, atrasti kortelę, JCB, American Express, dovanų kortelės, ir valgyklą korteles. 
     
-- **[Kontrolinė suma:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Taip, Luhn kontrolinė suma 
+- **[Kontrolinė suma:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Taip, Luhn kontrolinė suma 
     
-- **[Raiškos:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP politika yra 85 % tikimybė, kad jis aptiko tokia slaptos informacijos jei per arti 300 simbolių: 
+- **[Raiškos:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP politika yra 85 % tikimybė, kad jis aptiko tokia slaptos informacijos jei per arti 300 simbolių: 
     
   - Func_credit_card funkcija suranda turinį, atitinkantį modelį.
     
@@ -44,8 +44,8 @@ Ar iškilo problemų su **Duomenų praradimo prevencijos (DLP)** ne darbo turini
     
   - Galiojimo laikas: 2/2009
     
-Norėdami gauti daugiau informacijos apie tai, kas reikalinga **Kreditinės kortelės numerį** , galima aptikti jūsų turinį, skaitykite kitame skyriuje šiame straipsnyje: [Kas the jautrios informacijos tipus ieškokite kreditinės kortelės #](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Norėdami gauti daugiau informacijos apie tai, kas reikalinga **Kreditinės kortelės numerį** , galima aptikti jūsų turinį, skaitykite kitame skyriuje šiame straipsnyje: [Kas the jautrios informacijos tipus ieškokite kreditinės kortelės #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
-Naudojant įvairių įmontuota slapta informacija tipo, skaitykite šį straipsnį informacijos apie tai, kas yra reikalingi kitokie: [kas the jautrios informacijos tipus ieškokite](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Naudojant įvairių įmontuota slapta informacija tipo, skaitykite šį straipsnį informacijos apie tai, kas yra reikalingi kitokie: [kas the jautrios informacijos tipus ieškokite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 

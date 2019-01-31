@@ -2,44 +2,28 @@
 title: Aktyvinimo trikčių šalinimas
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Pradėti jūsų straipsnis yra labai trumpas įvadas (1 sakinys). Pastatykite save skaitytojo vietoje - kodėl jie čia? Ką jie daro?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498274"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646967"
 ---
-Pradėti jūsų straipsnis yra labai trumpas įvadas (1 sakinys). Pastatykite save skaitytojo vietoje - kodėl jie čia? Ką jie daro? 
-  
-1. Gauti tiesiai į trumpą sąrašą veiksmus atlikti užduotį.
-    
-    Jei jums reikia paaiškinti sąvoką, ar jie turi daryti būtina sąlyga žingsniai, pridėkite trumpą informaciją žemiau žingsnis kur reikia, ir [nuorodą](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) į koncepcija arba veiksmų. 
-    
-2. Išlaikyti tvarką trumpas – pageidautina 5 arba mažiau žingsnių, ne daugiau kaip 8.
-    
-3. Naudoti **Ui stilių** , vartotojo sąsajos elementų arba teksto žmonėms reikės įvesti. 
-    
-4. Naudoti veiksmažodžiai pasirinkti, pasirinkite, arba įvesti kaip veiksmai ir meniu Formatuoti kaip **meniu** \> **komandą**.
-    
-5. Pasirinktinai įtraukite ekrano kontekstui (jei vartotojo sąsaja yra sunku surasti, ar reikia atlikti užduotis).
-    
-    Maksimalus plotis: 520 pikselių. Naudoti standartinę temą, ne parodyti bet kokią asmeninę informaciją ir apkarpyti parodyti tik tai, kas yra svarbu. 
-    
-    ![Vietos rezervavimo ženklas - didžiausias plotis SOC straipsnio meno yra 520 pikselių](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Jei norite pridėti vaizdo įrašą arba paveikslėlį, naudokite dviejų stulpelių tinklelį ir žingsnius į kairę ir vaizdo arba ekrano dešinėje - Peržiūrėkite [veiksmus ir video tinklo pavyzdys](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Taikyti ne daugiau kaip 500 žodžių straipsnį.
-  
-# <a name="example-article"></a>Pavyzdys straipsnio
+# <a name="activation-troubleshooting"></a>Aktyvinimo trikčių šalinimas
 
-[Mano nuotraukos keitimas](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+**Valdymo** skyde \> **programos ir funkcijos**, ieškoti Office. Turėtumėte matyti "Microsoft" "Office 365 ProPlus" arba "Microsoft" Office 365 Business. Jei daugiau nei viena versija išvardytų, pašalinti nenaudojamus versija. 
   
-
+Jei jums nepavyksta sėkmingai naudodami valdymo skydą, naudoti [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy) pašalinti nenaudojamus versiją. 
+  
+Jei Office yra dar nelicencijuotų, grįžti į **Valdymo skydas** \> **programos ir funkcijos**. Dešiniuoju pelės mygtuku spustelėkite likusias Office diegimą, pasirinkite **keisti** (arba keisti), ir tada pasirinkti **Online remonto**. Online remonto gali užtrukti. Tada iš naujo paleiskite Office ir prisijungti naudodami savo darbo arba mokymo įstaigos paskyra, paraginti.
+  
+Jei biuras yra vis dar be leidimų, atsisiųskite ir paleiskite [aktyvinimo trikčių diagnostikos priemonė](https://aka.ms/SARA-OfficeActivation-Alchemy) įtakos mašina kad aktyvinimo problemos. 
+  
+Daugiau informacijos rasite: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

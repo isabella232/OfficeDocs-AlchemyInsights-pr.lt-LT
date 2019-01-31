@@ -2,51 +2,30 @@
 title: Naikinti SharePoint svetainės
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480981"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660024"
 ---
 # <a name="delete-a-sharepoint-site"></a>Naikinti SharePoint svetainės
-
- **Panaikinti svetaines, kuriose yra "Office 365" grupei priklauso:**
+ **Naikinti svetainės naują SharePoint administravimo centrą**
   
-Vartotojams sukurti naują komandos svetainę, SharePoint namuose (arba galite sukurti naują komandos svetainę iš naujo SharePoint administravimo centro peržiūra), automatiškai sukuriamas atitinkamas "Office 365" grupė. Kurdami "Office 365" grupė ar komanda Microsoft Teams, taip pat kuriami Biuro 365 grupės susijusios komandos svetaines. Norėdami panaikinti SharePoint svetainės, kuri priklauso "Office 365" grupei, reikia naikinti "Office 365" grupė pati. 
+Norėdami panaikinti aktyvioji svetainė, eikite į dabartinės SharePoint administravimo centro, spustelėkite "Išbandyti" viršutiniame dešiniajame kampe. Pasirinkite **aktyvus svetaines**, pasirinkite svetainę ir pasirinkite **Naikinti**. [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), pasirinkite **ištrinti svetainių**. Norėdami gauti daugiau informacijos, peržiūrėkite [tvarkyti svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Eikite į ["Office 365" administravimo centro puslapį grupių](https://portal.office.com/adminportal/home#/groups).
+**Svarbu:** Jei svetainė yra saugojimo politikos dalis, gali nepavykti jį ištrinti, kol svetainė yra pašalinama iš į [saugumo &amp; atitikties administravimo centrą](https://protection.office.com/?rfr=AdminCenter#/homepage). Daugiau informacijos ieškokite [Saugojimo strategijos apžvalga](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Pažymėkite žymės langelį šalia grupės.
-  
-3. Pasirinkite **ištrinti**. 
-  
-Pastaba: Panaikinus grupę, ten gali būti atidėtas iki svetainės pašalinamas iš SharePoint.
-  
- **Naikinti ryšių svetainėse ar klasikinis svetainėse:**
-  
-1. Eikite į svetainę.
-  
-2. Spustelėkite į ** parametrus ** (krumpliaratis piktograma) viršutiniame dešiniajame kampe. 
-  
-3. Spustelėkite **Svetainės parametrai**. **Svetainės informaciją** arba **Svetainės veiksmai**, spustelėkite **panaikinti šią svetainę**, ir tada spustelėkite **Naikinti**. 
-  
- **Panaikinkite SharePoint svetainių rinkinio:**
-  
-Norėdami panaikinti klasikinis svetainių rinkinio:
-  
-1. Klasikinis SharePoint administravimo centro svetainės kolekcijos puslapyje, pažymėkite **žymės langelį** šalia svetainių rinkinio. 
-  
-2. Skirtuką svetainių rinkinius, pasirinkite **Naikinti.**
-  
- **Panaikinti svetainę dėl nelaimingo atsitikimo?**
-  
-Žiūrėkite [atkurti panaikintą svetainių rinkinį](https://go.microsoft.com/fwlink/?linkid=867660).
+Patarimai:
+- Pasaulio admins ir SharePoint administratoriai dabar galite panaikinti svetaines, kurios yra **Office 365 grupei**priklauso. Bus panaikinti grupę ir visus savo išteklius, įskaitant "Outlook" pašto dėžutė ir kalendoriaus ir komandos kanalų. Daugiau informacijos ieškokite [SharePoint svetainės panaikinti](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Galite atkurti panaikintus svetainių 93 dienas. Atkreipkite dėmesį, kad panaikinti grupės turi būti atkurtas per 30 dienų. Daugiau informacijos, rasite [Peržiūrėti ir atkurti ištrintas vietas](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Visiškai pašalinti svetainę su "PowerShell", peržiūrėkite [Šalinti-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet pavyzdys. 
   
 

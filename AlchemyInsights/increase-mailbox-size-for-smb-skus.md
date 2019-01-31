@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481080"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660895"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Jungiklis planuoja didinti pašto dėžutės dydis
 
-Jei pašto dėžutės dydis yra 50 GB, galite padidinti pašto dėžutės dydį 100 GB pereina į [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) "arba" [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Atlikite šiuos veiksmus, Norėdami perjungti į kitą "Office 365" planą:
+Jei pašto dėžutės dydis yra 50 GB, galite padidinti pašto dėžutės dydį 100 GB pereina į [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) "arba" [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Atlikite šiuos veiksmus, Norėdami perjungti į kitą "Office 365" planą:
   
 1. Į "Office 365" administravimo centro, eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba pasirinkti **atsiskaitymo** \> **prenumeratos**.
     

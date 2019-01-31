@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: cbc3a97debc70ce7be02f651253c71651bbb2643
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481016"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661255"
 ---
 # <a name="file-open-read-only"></a>Failo atidaryti tik skaityti
 
@@ -30,7 +30,7 @@ Jūs Patikrinkite failo ypatybes, dešiniuoju pelės mygtuku spustelėdami ant f
   
  **Turinys yra apsaugotas rodinys**
   
-Failuose iš interneto ir kitų potencialiai nesaugių vietų gali būti virusų, kirminų, ar kitų rūšių kenkėjiškų programų, kurios gali pakenkti jūsų kompiuteriui. Tai taip pat paprastai su el. laiškų priedus ir failus, kuriuos atsisiuntėte. Norėdami padėti apsaugoti jūsų kompiuterį, failus iš potencialiai nesaugių vietų yra atidaryti apsaugotame rodinyje. Naudodami apsaugotąjį rodinį galite skaityti failą ir matyti jų turinį, tuo pačiu sumažinant riziką. Daugiau informacijos apie apsaugotasis rodinys ir kaip pakeisti nustatymus, skaitykite šį straipsnį: [kas yra apsaugotame rodinyje?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Failuose iš interneto ir kitų potencialiai nesaugių vietų gali būti virusų, kirminų, ar kitų rūšių kenkėjiškų programų, kurios gali pakenkti jūsų kompiuteriui. Tai taip pat paprastai su el. laiškų priedus ir failus, kuriuos atsisiuntėte. Norėdami padėti apsaugoti jūsų kompiuterį, failus iš potencialiai nesaugių vietų yra atidaryti apsaugotame rodinyje. Naudodami apsaugotąjį rodinį galite skaityti failą ir matyti jų turinį, tuo pačiu sumažinant riziką. Daugiau informacijos apie apsaugotasis rodinys ir kaip pakeisti nustatymus, skaitykite šį straipsnį: [kas yra apsaugotame rodinyje?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Kupina "OneDrive"?**
   
@@ -38,7 +38,7 @@ Jei failas saugomas "OneDrive" ir "OneDrive" saugyklos vietą yra pilnas, jūs n
   
  **Tarnyba įjungta?**
   
-Jei tarnyba neįjungta, arba jei jūsų abonemento galiojimas baigėsi, jums gali būti skirtas tik skaityti sumažinto funkcionalumo režimu. Informacijos, kaip suaktyvinti Office, žr.: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/en-us/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jei tarnyba neįjungta, arba jei jūsų abonemento galiojimas baigėsi, jums gali būti skirtas tik skaityti sumažinto funkcionalumo režimu. Informacijos, kaip suaktyvinti Office, žr.: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Jei visa kita nepavyksta...**
   

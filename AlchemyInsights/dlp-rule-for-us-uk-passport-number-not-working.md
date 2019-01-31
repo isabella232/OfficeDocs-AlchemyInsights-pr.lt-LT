@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 716d1030d93ce006c36d7925fb132e974ae8feb4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480634"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656431"
 ---
 Turite problemų su **Duomenų praradimo prevencijos (DLP)** ne darbo turinio turinčių a **JAV / UK paso numeris** naudojant DLP slaptos informacijos tipo O365? Jei taip, įsitikinkite, kad jūsų turinys yra reikalingą informaciją, DLP strategijos ieško kai ji įvertinta. 
   
 Pvz., per **US / UK paso numeris** politikos suderintas su 75 % pasikliovimo lygmeniu, tokios yra vertinami ir turi būti nustatyta taisyklė – sukelti 
   
-- **[Formatas:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Devyni skaičiai 
+- **[Formatas:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Devyni skaičiai 
     
-- **[Modelis:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Devynios iš eilės skaitmenų 
+- **[Modelis:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Devynios iš eilės skaitmenų 
     
-- **[Kontrolinė suma:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Ne, nėra jokių kontrolinė suma 
+- **[Kontrolinė suma:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Ne, nėra jokių kontrolinė suma 
     
-- **[Raiškos:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** DLP politika yra 75 % tikimybė, kad jis aptiko tokia slaptos informacijos jei per arti 300 simbolių: 
+- **[Raiškos:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** DLP politika yra 75 % tikimybė, kad jis aptiko tokia slaptos informacijos jei per arti 300 simbolių: 
     
   - Func_usa_uk_passport funkcija suranda turinį, atitinkantį modelį.
     
@@ -34,8 +34,8 @@ Pvz., per **US / UK paso numeris** politikos suderintas su 75 % pasikliovimo lyg
     
     Pavyzdžiui, Šis pavyzdys paskatintų už į **JAV / UK paso numeris** politika: JAV paso numeris 123456789 
     
-Norėdami gauti daugiau informacijos apie tai, kas yra reikalinga JAV / UK paso numerį būtų galima aptikti turiniu, skaitykite kitame skyriuje šiame straipsnyje: [kas the jautrios informacijos tipus ieškokite JAV / UK paso numeris](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
+Norėdami gauti daugiau informacijos apie tai, kas yra reikalinga JAV / UK paso numerį būtų galima aptikti turiniu, skaitykite kitame skyriuje šiame straipsnyje: [kas the jautrios informacijos tipus ieškokite JAV / UK paso numeris](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
   
-Naudojant įvairių įmontuota slapta informacija tipo, skaitykite šį straipsnį informacijos apie tai, kas yra reikalingi kitokie: [kas the jautrios informacijos tipus ieškokite](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Naudojant įvairių įmontuota slapta informacija tipo, skaitykite šį straipsnį informacijos apie tai, kas yra reikalingi kitokie: [kas the jautrios informacijos tipus ieškokite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 
