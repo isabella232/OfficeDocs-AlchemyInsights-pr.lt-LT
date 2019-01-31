@@ -2,44 +2,28 @@
 title: Aktyvinimo trikčių šalinimas
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Pradėti jūsų straipsnis yra labai trumpas įvadas (1 sakinys). Pastatykite save skaitytojo vietoje - kodėl jie čia? Ką jie daro?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498274"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646967"
 ---
-<span data-ttu-id="04da2-p102">Pradėti jūsų straipsnis yra labai trumpas įvadas (1 sakinys). Pastatykite save skaitytojo vietoje - kodėl jie čia? Ką jie daro?</span><span class="sxs-lookup"><span data-stu-id="04da2-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
-  
-1. <span data-ttu-id="04da2-108">Gauti tiesiai į trumpą sąrašą veiksmus atlikti užduotį.</span><span class="sxs-lookup"><span data-stu-id="04da2-108">Get straight to a quick list of steps to accomplish the task.</span></span>
-    
-    <span data-ttu-id="04da2-109">Jei jums reikia paaiškinti sąvoką, ar jie turi daryti būtina sąlyga žingsniai, pridėkite trumpą informaciją žemiau žingsnis kur reikia, ir [nuorodą](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) į koncepcija arba veiksmų.</span><span class="sxs-lookup"><span data-stu-id="04da2-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
-    
-2. <span data-ttu-id="04da2-110">Išlaikyti tvarką trumpas – pageidautina 5 arba mažiau žingsnių, ne daugiau kaip 8.</span><span class="sxs-lookup"><span data-stu-id="04da2-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
-    
-3. <span data-ttu-id="04da2-111">Naudoti **Ui stilių** , vartotojo sąsajos elementų arba teksto žmonėms reikės įvesti.</span><span class="sxs-lookup"><span data-stu-id="04da2-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
-    
-4. <span data-ttu-id="04da2-112">Naudoti veiksmažodžiai pasirinkti, pasirinkite, arba įvesti kaip veiksmai ir meniu Formatuoti kaip **meniu** \> **komandą**.</span><span class="sxs-lookup"><span data-stu-id="04da2-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
-    
-5. <span data-ttu-id="04da2-113">Pasirinktinai įtraukite ekrano kontekstui (jei vartotojo sąsaja yra sunku surasti, ar reikia atlikti užduotis).</span><span class="sxs-lookup"><span data-stu-id="04da2-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
-    
-    <span data-ttu-id="04da2-p103">Maksimalus plotis: 520 pikselių. Naudoti standartinę temą, ne parodyti bet kokią asmeninę informaciją ir apkarpyti parodyti tik tai, kas yra svarbu.</span><span class="sxs-lookup"><span data-stu-id="04da2-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
-    
-    ![Vietos rezervavimo ženklas - didžiausias plotis SOC straipsnio meno yra 520 pikselių](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-<span data-ttu-id="04da2-117">Jei norite pridėti vaizdo įrašą arba paveikslėlį, naudokite dviejų stulpelių tinklelį ir žingsnius į kairę ir vaizdo arba ekrano dešinėje - Peržiūrėkite [veiksmus ir video tinklo pavyzdys](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span><span class="sxs-lookup"><span data-stu-id="04da2-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
-  
-<span data-ttu-id="04da2-118">Taikyti ne daugiau kaip 500 žodžių straipsnį.</span><span class="sxs-lookup"><span data-stu-id="04da2-118">Target no more than 500 words for an article.</span></span>
-  
-# <a name="example-article"></a><span data-ttu-id="04da2-119">Pavyzdys straipsnio</span><span class="sxs-lookup"><span data-stu-id="04da2-119">Example article</span></span>
+# <a name="activation-troubleshooting"></a><span data-ttu-id="75b54-102">Aktyvinimo trikčių šalinimas</span><span class="sxs-lookup"><span data-stu-id="75b54-102">Activation troubleshooting</span></span>
 
-[<span data-ttu-id="04da2-120">Mano nuotraukos keitimas</span><span class="sxs-lookup"><span data-stu-id="04da2-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+<span data-ttu-id="75b54-p101">**Valdymo** skyde \> **programos ir funkcijos**, ieškoti Office. Turėtumėte matyti "Microsoft" "Office 365 ProPlus" arba "Microsoft" Office 365 Business. Jei daugiau nei viena versija išvardytų, pašalinti nenaudojamus versija.</span><span class="sxs-lookup"><span data-stu-id="75b54-p101">In **Control Panel** \> **Programs and Features**, search for Office. You should see Microsoft Office 365 ProPlus or Microsoft Office 365 Business. If you see more than one version of Office listed, uninstall the version you aren't using.</span></span> 
   
-
+<span data-ttu-id="75b54-106">Jei jums nepavyksta sėkmingai naudodami valdymo skydą, naudoti [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy) pašalinti nenaudojamus versiją.</span><span class="sxs-lookup"><span data-stu-id="75b54-106">If you can't uninstall successfully using the Control Panel, use the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) to uninstall the version you aren't using.</span></span> 
+  
+<span data-ttu-id="75b54-p102">Jei Office yra dar nelicencijuotų, grįžti į **Valdymo skydas** \> **programos ir funkcijos**. Dešiniuoju pelės mygtuku spustelėkite likusias Office diegimą, pasirinkite **keisti** (arba keisti), ir tada pasirinkti **Online remonto**. Online remonto gali užtrukti. Tada iš naujo paleiskite Office ir prisijungti naudodami savo darbo arba mokymo įstaigos paskyra, paraginti.</span><span class="sxs-lookup"><span data-stu-id="75b54-p102">If Office is still unlicensed, go back to the **Control Panel** \> **Programs and Features**. Right-click the remaining Office install, select **Modify** (or Change), and then select **Online Repair**. The online repair might take awhile. Then, restart Office and sign in using your work or school account, if prompted.</span></span>
+  
+<span data-ttu-id="75b54-111">Jei biuras yra vis dar be leidimų, atsisiųskite ir paleiskite [aktyvinimo trikčių diagnostikos priemonė](https://aka.ms/SARA-OfficeActivation-Alchemy) įtakos mašina kad aktyvinimo problemos.</span><span class="sxs-lookup"><span data-stu-id="75b54-111">If Office is still unlicensed, download and then run the [Activation troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) on the affected machine to fix the activation issues.</span></span> 
+  
+<span data-ttu-id="75b54-112">Daugiau informacijos rasite: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="75b54-112">For more information, see: [Unlicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>

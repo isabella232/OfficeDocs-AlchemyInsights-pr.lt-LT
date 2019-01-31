@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 75f10db95224f6f29cbeb186fd082410ff562d43
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 51c177c0878d86100c63644df67c1c9419df07b0
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480434"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658327"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="c0a96-102">Priskirkite ar pašalinkite vartotojų licencijos</span><span class="sxs-lookup"><span data-stu-id="c0a96-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="eb19e-102">Priskirkite ar pašalinkite vartotojų licencijos</span><span class="sxs-lookup"><span data-stu-id="eb19e-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="c0a96-p101">Kaip administratorius, galite nustatyti vartotojų licencijos pagal poreikį. Dirbiniai žemiau jums parodysiu, kaip valdyti jūsų naudotojų licencijas, įskaitant:</span><span class="sxs-lookup"><span data-stu-id="c0a96-p101">As an admin, you can adjust your users' licenses as needed. The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="eb19e-p101">Kaip administratorius, galite nustatyti vartotojų licencijos pagal poreikį. Dirbiniai žemiau jums parodysiu, kaip valdyti jūsų naudotojų licencijas, įskaitant:</span><span class="sxs-lookup"><span data-stu-id="eb19e-p101">As an admin, you can adjust your users' licenses as needed. The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="c0a96-105">Licencijų priskyrimas vartotojams "Office 365" verslui</span><span class="sxs-lookup"><span data-stu-id="c0a96-105">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/en-us/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="eb19e-105">Licencijų priskyrimas vartotojams "Office 365" verslui</span><span class="sxs-lookup"><span data-stu-id="eb19e-105">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [<span data-ttu-id="c0a96-106">Pašalinti licencijos iš vartotojų "Office 365" verslui</span><span class="sxs-lookup"><span data-stu-id="c0a96-106">Remove licenses from users in Office 365 for business</span></span>](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
+- [<span data-ttu-id="eb19e-106">Pašalinti licencijos iš vartotojų "Office 365" verslui</span><span class="sxs-lookup"><span data-stu-id="eb19e-106">Remove licenses from users in Office 365 for business</span></span>](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
     
-<span data-ttu-id="c0a96-p102">Atsakyti į jūsų klausimą? jokių problemų! Naudokite pasirinktį "Mes jums paskambinsime" pasikalbėti su aptarnaujančiu techniku.</span><span class="sxs-lookup"><span data-stu-id="c0a96-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="eb19e-p102">Atsakyti į jūsų klausimą? jokių problemų! Naudokite pasirinktį "Mes jums paskambinsime" pasikalbėti su aptarnaujančiu techniku.</span><span class="sxs-lookup"><span data-stu-id="eb19e-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
