@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5911d57786dfc512eade1c74831d4260e85b8a1c
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480967"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758100"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>Pridedant Išoriniai vartotojai paskirstymo grupę?
 
@@ -21,7 +21,7 @@ ms.locfileid: "29480967"
   
 1. Išorės vartotojo pašto kontakto kūrimas:
     
-1. Spustelėkite [čia](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Contact) Norėdami pereiti į puslapio kontaktas redagavimo administravimo portalo. 
+1. Spustelėkite [čia](https://admin.microsoft.com/adminportal/home#/Contact) Norėdami pereiti į puslapio kontaktas redagavimo administravimo portalo. 
     
 2. Spustelėkite **pridėti kontaktą**.
     
@@ -29,7 +29,7 @@ ms.locfileid: "29480967"
     
 2. Pridėti pašto kontakto savo generalinis direktoratas:
     
-1. Spustelėkite [čia](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/groups) Norėdami pereiti į grupių puslapyje. 
+1. Spustelėkite [čia](https://admin.microsoft.com/adminportal/home#/groups) Norėdami pereiti į grupių puslapyje. 
     
 2. Rasti GD, kurį norite įtraukti į išorinis vartotojas, ir spustelėkite jį, kad atidarytumėte redagavimo dialogo langą.
     
@@ -39,8 +39,8 @@ ms.locfileid: "29480967"
     
 5. Pasirinkite pašto kontaktą, kurį sukūrėte ankstesniame žingsnyje, ir spustelėkite **įrašyti**.
     
-Jei net atlikus šiuos veiksmus išorės vartotojai negali siųsti el. laiškų GD ar nenorite gauti laiškus iš jos, gali būti, kad GD pažymėtas leisti tik laiškus iš vidaus vartotojams. Galite patikrinti šią konfigūraciją ir pataisyti pateiktus nurodymus [čia](https://support.office.com/article/https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+Jei net atlikus šiuos veiksmus išorės vartotojai negali siųsti el. laiškų GD ar nenorite gauti laiškus iš jos, gali būti, kad GD pažymėtas leisti tik laiškus iš vidaus vartotojams. Galite patikrinti šią konfigūraciją ir pataisyti pateiktus nurodymus [čia](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
   
- **Pastaba:** Šie nurodymai netaikomi jei jūsų grupės tipas yra "" Office 365 "grupė" vietoj "Paskirstymo grupę." Jei tai byla, galite pridėti Išoriniam vartotojui tiesiogiai į grupę iš "Outlook" arba "Outlook" žiniatinklyje. [Šiame](https://support.office.com/article/https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)straipsnyje rasite išsamų paaiškinimą dėl O365 dalyvauja svečiai, taip pat nurodymai, kaip pridėti užsienio svečiai.
+ **Pastaba:** Šie nurodymai netaikomi jei jūsų grupės tipas yra "" Office 365 "grupė" vietoj "Paskirstymo grupę." Jei tai byla, galite pridėti Išoriniam vartotojui tiesiogiai į grupę iš "Outlook" arba "Outlook" žiniatinklyje. [Šiame](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)straipsnyje rasite išsamų paaiškinimą dėl O365 dalyvauja svečiai, taip pat nurodymai, kaip pridėti užsienio svečiai.
   
 

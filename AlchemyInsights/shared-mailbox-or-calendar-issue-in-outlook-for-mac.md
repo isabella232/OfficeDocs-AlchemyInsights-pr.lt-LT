@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: 94f1c6954ff2f1ae7ed1d273fbe1310799a1adea
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 0e919195c599c94c458f6a36310705ad58a2f173
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661525"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759336"
 ---
 # <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Bendrai naudojamą pašto dėžutę arba kalendoriaus problemą programoje "Outlook" skirtas "Mac"?
 
 Mes galime padėti jums greičiau jei kreipsitės tiesiai iš programos. **Eikite į reikalingą vartotojo "Mac", atidarykite "Outlook" ir spustelėkite Žinynas \> kreiptis pagalbos**. 
   
-Norėdami sužinoti daugiau apie naudojant "Outlook", "Mac" programoje parama, skaitykite šį straipsnį: [naują kontaktą palaikymo funkcija Outlook 2016 skirta "Mac"](https://support.office.com/article/https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Norėdami sužinoti daugiau apie naudojant "Outlook", "Mac" programoje parama, skaitykite šį straipsnį: [naują kontaktą palaikymo funkcija Outlook 2016 skirta "Mac"](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

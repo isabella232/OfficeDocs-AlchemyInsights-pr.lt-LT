@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
-ms.openlocfilehash: 219486963e7205ad0ded6c9292297de5da7bcf8f
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 2a57196363b1551c70bd4775fb3a355ad1dd5e42
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29653933"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759216"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Sukurti ir naudoti bendrai naudojamą pašto dėžutę
 
@@ -21,6 +21,6 @@ Bendrinamos pašto dėžutės leidžia keliems asmenims siųsti ir gauti el. pa�
   
 - [Eiti čia Norėdami pradėti](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
     
-Taip pat galite perskaityti [sukurti bendrai naudojamą pašto dėžutę](https://support.office.com/article/https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) straipsnį, kuri jums pasakys viską, ką reikia žinoti apie bendrai naudojamos pašto dėžutės, įskaitant tai, kaip juos naudoti. 
+Taip pat galite perskaityti [sukurti bendrai naudojamą pašto dėžutę](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) straipsnį, kuri jums pasakys viską, ką reikia žinoti apie bendrai naudojamos pašto dėžutės, įskaitant tai, kaip juos naudoti. 
   
 

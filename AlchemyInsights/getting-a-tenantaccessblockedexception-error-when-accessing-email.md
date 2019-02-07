@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: 4082c39a3b2bfa7fc34bda963b83857670547547
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 576d4a0fbe80b804be9739479e53d94067debda8
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480855"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29760008"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?
 
 Taip yra dėl kelių skirtingų priežasčių, kodėl galite gauti klaidos pranešimą, kad prieiga prie jūsų nuomininkas blokuojama. Norėdami išspręsti šią problemą, galite pabandyti atlikti šiuos veiksmus:
   
-- Patikrinkite, ar jūsų prenumerata galios [prenumeratos](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions) puslapyje. 
+- Patikrinkite, ar jūsų prenumerata galios [prenumeratos](https://admin.microsoft.com/adminportal/home#/subscriptions) puslapyje. 
     
-- Ieškoti ankstesnio mokesčius į [atsiskaitymo](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/billoverview) puslapį savo sąskaitoje. 
+- Ieškoti ankstesnio mokesčius į [atsiskaitymo](https://admin.microsoft.com/adminportal/home#/billoverview) puslapį savo sąskaitoje. 
     
 - Jei jūsų paskyra yra, kad dabar, bet neseniai buvo pakeistas, gali užtrukti šiek tiek laiko keisti platinti visus serverius. Suteikti jam dar kartą pabandyti per kelias minutes, o jei problema išlieka, susisiekite su mumis.
     

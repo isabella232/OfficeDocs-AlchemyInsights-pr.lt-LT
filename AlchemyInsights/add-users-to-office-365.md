@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: f6d93a59996009e070438d942afd92204f636abf
-ms.sourcegitcommit: 3fd1c87a75450e598de6ea10d9a5937ceaf51d20
+ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/05/2019
-ms.locfileid: "29735304"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758568"
 ---
 # <a name="add-a-user-to-office-365"></a>Įtraukti vartotoją į "Office 365"
 
 Atlikite šiuos veiksmus, Norėdami pridėti vartotoją prie "Office 365":
   
-1. Eikite į [Aktyvūs vartotojai](https://portal.office.com/adminportal/home.aspx#/users) (ar kairės ga pasirinkite **vartotojai** \> **aktyvių vartotojų**).
+1. Eikite į [Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (ar kairės ga pasirinkite **vartotojai** \> **aktyvių vartotojų**).
     
 2. Spustelėkite **Pridėti vartotoją**.
     

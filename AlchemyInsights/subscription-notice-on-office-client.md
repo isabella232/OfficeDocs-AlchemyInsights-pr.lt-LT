@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 0ab0f05a871f338a283ecc10aad958455c19db19
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ef79cb324393bae05b53d207748da960162015b1
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655603"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759756"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Prenumeratos pranešimas jūsų Office programoje?
 
-Atrodo, kad pranešimas yra rodomas jūsų Office programoje, jūsų "Office 365" abonemento būsena. Galite rasti informacijos apie tai, kaip spręsti problemą šiame straipsnyje: [prenumeratą pranešimą pasirodo, kai aš atidaryti programėlę "Office 365"](https://support.office.com/article/https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Atrodo, kad pranešimas yra rodomas jūsų Office programoje, jūsų "Office 365" abonemento būsena. Galite rasti informacijos apie tai, kaip spręsti problemą šiame straipsnyje: [prenumeratą pranešimą pasirodo, kai aš atidaryti programėlę "Office 365"](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Jei naujausia "Office 365" prenumeratą, jums gali turite paspausti laikina problema, kuri sukelia jūsų Office aktyvinimo žlugti. Yra paprastas veiksmų galite imtis, kad tokių pranešimų, kaip patikrinti jūsų kompiuterio laiko, veikia biuro administratoriaus ir aktyvuoti prisijungimą. Jūs galite rasti išsamius veiksmus Norėdami išspręsti šias problemas šiame straipsnyje: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). 
+Jei naujausia "Office 365" prenumeratą, jums gali turite paspausti laikina problema, kuri sukelia jūsų Office aktyvinimo žlugti. Yra paprastas veiksmų galite imtis, kad tokių pranešimų, kaip patikrinti jūsų kompiuterio laiko, veikia biuro administratoriaus ir aktyvuoti prisijungimą. Jūs galite rasti išsamius veiksmus Norėdami išspręsti šias problemas šiame straipsnyje: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). 
   
 Jei tai neveikia, jums, susisiekite su mumis žemiau esančių nuorodų ir mums bus malonu padėti.
   
