@@ -7,31 +7,31 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 9fa81486e91315ace890c2d71a28ebf4fd60c6e4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480931"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29930523"
 ---
-# <a name="deal-with-phishing-scams-in-your-inbox"></a><span data-ttu-id="be431-102">Kovoti su sukčiavimo apsimetant aplanke Gauta</span><span class="sxs-lookup"><span data-stu-id="be431-102">Deal with phishing scams in your inbox</span></span>
+# <a name="deal-with-phishing-scams-in-your-inbox"></a><span data-ttu-id="e2ece-102">Kovoti su sukčiavimo apsimetant aplanke Gauta</span><span class="sxs-lookup"><span data-stu-id="e2ece-102">Deal with phishing scams in your inbox</span></span>
 
-<span data-ttu-id="be431-103">Jei gavote el. laišką, kuris atrodo kaip sukčiavimo aferą, galite apie ją pranešti.</span><span class="sxs-lookup"><span data-stu-id="be431-103">If you get an email that looks like a phishing scam, you can report it.</span></span>
+<span data-ttu-id="e2ece-103">Jei gavote el. laišką, kuris atrodo kaip sukčiavimo aferą, galite apie ją pranešti.</span><span class="sxs-lookup"><span data-stu-id="e2ece-103">If you get an email that looks like a phishing scam, you can report it.</span></span>
   
-1. <span data-ttu-id="be431-104">Dešiniuoju pelės mygtuku spustelėkite pranešimą ir pasirinkite **pa¾ymìti kaip nepageidaujamas el. paštas**.</span><span class="sxs-lookup"><span data-stu-id="be431-104">Right-click the message and select **Mark as junk**.</span></span> 
+1. <span data-ttu-id="e2ece-104">Dešiniuoju pelės mygtuku spustelėkite pranešimą ir pasirinkite **pa¾ymìti kaip nepageidaujamas el. paštas**.</span><span class="sxs-lookup"><span data-stu-id="e2ece-104">Right-click the message and select **Mark as junk**.</span></span> 
     
-2. <span data-ttu-id="be431-105">Eikite į aplanką Nepageidaujamas el. paštas ir pasirinkite pranešimą.</span><span class="sxs-lookup"><span data-stu-id="be431-105">Go to the Junk Email folder and select the message.</span></span>
+2. <span data-ttu-id="e2ece-105">Eikite į aplanką Nepageidaujamas el. paštas ir pasirinkite pranešimą.</span><span class="sxs-lookup"><span data-stu-id="e2ece-105">Go to the Junk Email folder and select the message.</span></span>
     
-3. <span data-ttu-id="be431-106">Puslapio viršuje pasirinkite rodyklę šalia **pageidaujamą** ir pasirinkite **apsimestinių svetainių**.</span><span class="sxs-lookup"><span data-stu-id="be431-106">At the top of the page, select the arrow next to **Not junk** and then select **Phishing**.</span></span> 
+3. <span data-ttu-id="e2ece-106">Puslapio viršuje pasirinkite rodyklę šalia **pageidaujamą** ir pasirinkite **apsimestinių svetainių**.</span><span class="sxs-lookup"><span data-stu-id="e2ece-106">At the top of the page, select the arrow next to **Not junk** and then select **Phishing**.</span></span> 
     
-<span data-ttu-id="be431-107">Sužinokite daugiau apie tai, kaip elgtis [su piktnaudžiavimo, sukčiavimo, arba parodijos](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="be431-107">Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
+<span data-ttu-id="e2ece-107">Sužinokite daugiau apie tai, kaip elgtis [su piktnaudžiavimo, sukčiavimo, arba parodijos](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="e2ece-107">Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
   
-<span data-ttu-id="be431-108">Jei matote padidinti šlamštas, skaityti kaip [šlamštas](https://go.microsoft.com/fwlink/p/?linkid=873140)ir nepageidaujamo el. pašto gautuosiuose.</span><span class="sxs-lookup"><span data-stu-id="be431-108">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="e2ece-108">Jei matote padidinti šlamštas, skaityti kaip [šlamštas](https://go.microsoft.com/fwlink/p/?linkid=873140)ir nepageidaujamo el. pašto gautuosiuose.</span><span class="sxs-lookup"><span data-stu-id="e2ece-108">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
-<span data-ttu-id="be431-p101">Blokuoti elektroninio pašto adresą, eikite į **Parametrai**![parametrai](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **funkcijos** \> **blokuojami siuntėjai**. Norėdami pridėti adresus ar domenų patikimų siuntėjų sąraše, pasirinkite **Patikimi siuntėjai**.</span><span class="sxs-lookup"><span data-stu-id="be431-p101">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="e2ece-p101">Blokuoti elektroninio pašto adresą, eikite į **Parametrai**![parametrai](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **funkcijos** \> **blokuojami siuntėjai**. Norėdami pridėti adresus ar domenų patikimų siuntėjų sąraše, pasirinkite **Patikimi siuntėjai**.</span><span class="sxs-lookup"><span data-stu-id="e2ece-p101">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
 
