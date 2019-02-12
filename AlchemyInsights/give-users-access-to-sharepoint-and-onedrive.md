@@ -7,28 +7,28 @@ ms.date: 11/14/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 5a1cdeefa4474e8ce0e6a7a37be016cc87b9791d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498022"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933848"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a><span data-ttu-id="a38bb-102">Suteikti vartotojams prieigą prie SharePoint ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="a38bb-102">Give users access to SharePoint and OneDrive</span></span>
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a><span data-ttu-id="22166-102">Suteikti vartotojams prieigą prie SharePoint ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="22166-102">Give users access to SharePoint and OneDrive</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="a38bb-p101">Jei "OneDrive" arba SharePoint svetainėje nėra keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikinai skundams. [Patikrinkite tarnybų sveikatos stebėjimo skydas](https://portal.office.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="a38bb-p101">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue. [Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="22166-p101">Jei "OneDrive" arba SharePoint svetainėje nėra keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikinai skundams. [Patikrinkite tarnybų sveikatos stebėjimo skydas](https://portal.office.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="22166-p101">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue. [Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth)</span></span>
   
-<span data-ttu-id="a38bb-p102">Jei organizacijoje būtų galima prisijungti ir naudoti SharePoint ir "OneDrive", kad žmonės, jums reikia pridėti sąskaitas už juos ir gauti licenciją, kuri suteikia jiems prieigą prie SharePoint ir "OneDrive". Lengviausias būdas pridėti vartotojus yra "Office 365" administravimo centro.</span><span class="sxs-lookup"><span data-stu-id="a38bb-p102">If you want people in your organization to be able to sign in and use SharePoint and OneDrive, you need to add accounts for them and make sure they have a license that gives them access to SharePoint and OneDrive. The easiest way to add users is in the Office 365 admin center.</span></span>
+<span data-ttu-id="22166-p102">Jei organizacijoje būtų galima prisijungti ir naudoti SharePoint ir "OneDrive", kad žmonės, jums reikia pridėti sąskaitas už juos ir gauti licenciją, kuri suteikia jiems prieigą prie SharePoint ir "OneDrive". Lengviausias būdas pridėti vartotojus yra "Office 365" administravimo centro.</span><span class="sxs-lookup"><span data-stu-id="22166-p102">If you want people in your organization to be able to sign in and use SharePoint and OneDrive, you need to add accounts for them and make sure they have a license that gives them access to SharePoint and OneDrive. The easiest way to add users is in the Office 365 admin center.</span></span>
   
-1. <span data-ttu-id="a38bb-107">Eikite į ["Office 365" administravimo centro puslapį aktyvių vartotojų](https://portal.office.com/adminportal/home#/users), ir tada spustelėkite **Pridėti vartotoją**.</span><span class="sxs-lookup"><span data-stu-id="a38bb-107">Go to the [Active users page in the Office 365 admin center](https://portal.office.com/adminportal/home#/users), and then click **Add a user**.</span></span>
+1. <span data-ttu-id="22166-107">Eikite į ["Office 365" administravimo centro puslapį aktyvių vartotojų](https://portal.office.com/adminportal/home#/users), ir tada spustelėkite **Pridėti vartotoją**.</span><span class="sxs-lookup"><span data-stu-id="22166-107">Go to the [Active users page in the Office 365 admin center](https://portal.office.com/adminportal/home#/users), and then click **Add a user**.</span></span>
     
-2. <span data-ttu-id="a38bb-108">Užpildykite informaciją vartotojui, ir įsitikinkite, kad pagal **produkto licencijos**, priskirta licencija ir **SharePoint Online** yra pažymėtas.</span><span class="sxs-lookup"><span data-stu-id="a38bb-108">Fill in the information for the user, and make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="22166-108">Užpildykite informaciją vartotojui, ir įsitikinkite, kad pagal **produkto licencijos**, priskirta licencija ir **SharePoint Online** yra pažymėtas.</span><span class="sxs-lookup"><span data-stu-id="22166-108">Fill in the information for the user, and make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
-<span data-ttu-id="a38bb-p103">Atkreipkite dėmesį, kad jei leisite išorinį bendrinimą jūsų organizacijoje, vartotojai gali pasidalinti SharePoint ir "OneDrive" turinį su žmonėmis už organizacijos ribų. Jums nereikia suteikti šias licencijas išoriniams vartotojams. Jums taip pat nereikia pridėti abonementų, nebent bendrinimas yra lygi "Tik esamų išorės vartotojų." Tuo atveju, jei žmonės ne jūsų organizacijos katalogą, jums reikia pridėti juos kaip vartotojams Azure AD administravimo centro.</span><span class="sxs-lookup"><span data-stu-id="a38bb-p103">Note that if you allow external sharing in your organization, users can share SharePoint and OneDrive content with people outside the organization. You don't need to give these external users licenses. You also don't need to add accounts for them, unless sharing is set to "Only existing external users." In that case, if the people aren't in your organization's directory, you need to add them as guest users in the Azure AD admin center.</span></span>
+<span data-ttu-id="22166-p103">Atkreipkite dėmesį, kad jei leisite išorinį bendrinimą jūsų organizacijoje, vartotojai gali pasidalinti SharePoint ir "OneDrive" turinį su žmonėmis už organizacijos ribų. Jums nereikia suteikti šias licencijas išoriniams vartotojams. Jums taip pat nereikia pridėti abonementų, nebent bendrinimas yra lygi "Tik esamų išorės vartotojų." Tuo atveju, jei žmonės ne jūsų organizacijos katalogą, jums reikia pridėti juos kaip vartotojams Azure AD administravimo centro.</span><span class="sxs-lookup"><span data-stu-id="22166-p103">Note that if you allow external sharing in your organization, users can share SharePoint and OneDrive content with people outside the organization. You don't need to give these external users licenses. You also don't need to add accounts for them, unless sharing is set to "Only existing external users." In that case, if the people aren't in your organization's directory, you need to add them as guest users in the Azure AD admin center.</span></span>
   
 

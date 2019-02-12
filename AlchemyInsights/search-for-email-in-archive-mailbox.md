@@ -7,17 +7,17 @@ ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 6146c6ea9c6a67ab03f8cda7e1fae627698a05e9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656166"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915446"
 ---
-<span data-ttu-id="5456a-p101">Įgalinus archyvo pašto dėžutę, galite **el. duomenų aptikimo ieškos ir eksporto** atrasti pirminės ir archyvo pašto dėžutės turinį. Informacijos apie **el. duomenų aptikimo ieškos eksporto** rasti tą turinį, atlikite į veiksmus pažymėta [čia](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span><span class="sxs-lookup"><span data-stu-id="5456a-p101">When an Archive mailbox is enabled, you can use **eDiscovery Search and Export** to discover content in the both the Primary and Archive mailbox. For information on using **eDiscovery Search Export** to find that content, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
+<span data-ttu-id="8b96c-p101">Įgalinus archyvo pašto dėžutę, galite **el. duomenų aptikimo ieškos ir eksporto** atrasti pirminės ir archyvo pašto dėžutės turinį. Informacijos apie **el. duomenų aptikimo ieškos eksporto** rasti tą turinį, atlikite į veiksmus pažymėta [čia](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span><span class="sxs-lookup"><span data-stu-id="8b96c-p101">When an Archive mailbox is enabled, you can use **eDiscovery Search and Export** to discover content in the both the Primary and Archive mailbox. For information on using **eDiscovery Search Export** to find that content, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
   
-<span data-ttu-id="5456a-p102">Taip pat galite palikti tą turinį, pridedant pašto dėžutės saugojimo strategija. Tai bus vieta turinio sulaikymo pirminės ir archyvo pašto dėžutę. Daugiau informacijos apie saugojimo strategijos išlaikyti emailsee į veiksmus pažymėta [čia](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).</span><span class="sxs-lookup"><span data-stu-id="5456a-p102">You can also retain that content by adding the mailbox to a Retention policy. This will place content in both the Primary and Archive mailbox on a hold. For more information on creating Retention Policies to retain emailsee the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).</span></span>
+<span data-ttu-id="8b96c-p102">Taip pat galite palikti tą turinį, pridedant pašto dėžutės saugojimo strategija. Tai bus vieta turinio sulaikymo pirminės ir archyvo pašto dėžutę. Daugiau informacijos apie saugojimo strategijos išlaikyti emailsee į veiksmus pažymėta [čia](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).</span><span class="sxs-lookup"><span data-stu-id="8b96c-p102">You can also retain that content by adding the mailbox to a Retention policy. This will place content in both the Primary and Archive mailbox on a hold. For more information on creating Retention Policies to retain emailsee the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).</span></span>
   
 
