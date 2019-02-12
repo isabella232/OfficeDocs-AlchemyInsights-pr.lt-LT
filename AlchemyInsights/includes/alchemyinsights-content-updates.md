@@ -838,3 +838,57 @@
 | 1/30/2019 | [123 gauti sąskaitą išjungta OWA klaida?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | modifikuoto |
 | 2/1/2019 | [tas pats kaip failo vardas yra geriausia [taisyklė #-Aprašymas]](/AlchemyInsights/1-alchemy-insight-template) | modifikuoto |
 | 2/1/2019 | [Keisti teises pašto dėžutės](/AlchemyInsights/changing-permissions-on-a-mailbox) | modifikuoto |
+
+
+## <a name="week-of-february-04-2019"></a>Savaitę, vasario 04, 2019
+
+
+| Paskelbta |Temos pavadinimą | Keisti |
+|------|------------|--------|
+| 2/4/2019 | [Įtraukti vartotojus į "Office 365"](/AlchemyInsights/add-users-to-office-365) | modifikuoto |
+| 2/6/2019 | [Darbuotojas palieka](/AlchemyInsights/employee-leaving) | modifikuoto |
+| 2/6/2019 | [Admin perėmimo](/AlchemyInsights/admin-takeover) | modifikuoto |
+| 2/6/2019 | [127 gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modifikuoto |
+| 2/6/2019 | [959 keisti rodomą vardą](/AlchemyInsights/959-change-display-name) | modifikuoto |
+| 2/6/2019 | [Pridėti arba pašalinti vartotojo el. pašto pseudonimas](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modifikuoto |
+| 2/6/2019 | Įtraukite vietų į iš anksto apmokėtos prenumeratos | pašalinti |
+| 2/6/2019 | [Įtraukti vartotojus į "Office 365"](/AlchemyInsights/add-users-to-office-365) | modifikuoto |
+| 2/6/2019 | [Pridedant Išoriniai vartotojai paskirstymo grupę?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modifikuoto |
+| 2/6/2019 | Admin - pasaulinės "Office 365" sąranka ir administracija | pašalinti |
+| 2/6/2019 | Admin - vartotojai, grupės ir ištekliams valdyti | pašalinti |
+| 2/6/2019 | Admin - Setup domeno ir DNS parametrus | pašalinti |
+| 2/6/2019 | Admin - prisijungimo ir slaptažodžių problemos | pašalinti |
+| 2/6/2019 | ["Office 365" prenumeratos atšaukimas](/AlchemyInsights/cancel-office-365-subscription) | modifikuoto |
+| 2/6/2019 | [Vartotojo vardą ir el. pašto adreso keitimas](/AlchemyInsights/change-a-user-s-name-and-email-address) | modifikuoto |
+| 2/6/2019 | Komercijos - tvarkyti sąskaitas, mokėjimų, prenumeratas ir licencijas, | pašalinti |
+| 2/6/2019 | [Gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modifikuoto |
+| 2/6/2019 | [Turintys el. pašto pristatymo klausimais?](/AlchemyInsights/having-email-delivery-issues-0) | modifikuoto |
+| 2/6/2019 | [Turintys el. pašto pristatymo klausimais?](/AlchemyInsights/having-email-delivery-issues) | modifikuoto |
+| 2/6/2019 | [Kyla problemų gauti Outlook prisijungti?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modifikuoto |
+| 2/6/2019 | [Kyla problemų gauti Outlook prisijungti?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modifikuoto |
+| 2/6/2019 | Intune - parsisiųsti, įdiegti ir naudoti Intune | pašalinti |
+| 2/6/2019 | [Problema su "Skype" verslui?](/AlchemyInsights/issue-with-skype-for-business) | modifikuoto |
+| 2/6/2019 | ODSP | pašalinti |
+| 2/6/2019 | Biuras klientas - "Excel" | pašalinti |
+| 2/6/2019 | [Atkurti panaikintus vartotojo](/AlchemyInsights/restore-deleted-user) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress-0) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress-1) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress-2) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress-3) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress-4) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress-5) | modifikuoto |
+| 2/6/2019 | [Paslaugos įvykio vyksta](/AlchemyInsights/service-incident-in-progress) | modifikuoto |
+| 2/6/2019 | [Kuriant projekto](/AlchemyInsights/setting-up-project) | modifikuoto |
+| 2/6/2019 | Sąrankos atitikties funkcijų, pavyzdžiui, Archyvas, saugojimo, bylinėjimasis, el. duomenų aptikimas ir MDM | pašalinti |
+| 2/6/2019 | Naudojant diegimo neprisijungus programą Office | pašalinti |
+| 2/6/2019 | "Yammer" - Setup ir naudokite "Yammer" paslaugos | pašalinti |
+| 2/7/2019 | [Excel kritimo?](/AlchemyInsights/excel-crashing) | modifikuoto |
+| 2/7/2019 | [Kaip pridėti ar redaguoti per VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | modifikuoto |
+| 2/7/2019 | [Minecraft versijos su "Office 365" švietimo nemokamai](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | modifikuoto |
+| 2/7/2019 | [606 delegacijos informacija](/AlchemyInsights/606-information-on-delegation) | modifikuoto |
+| 2/7/2019 | [Jūsų grupė nesimato grupių sąrašas](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | modifikuoto |
+| 2/8/2019 | [DLP strategijos patarimai neveikia](/AlchemyInsights/dlp-policy-tips-not-working) | modifikuoto |
+| 2/8/2019 | [DLP taisyklė, JAV / UK paso numeris ne darbo](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | modifikuoto |
+| 2/8/2019 | ["Office 365" švietimo nemokamai](/AlchemyInsights/office-365-education-for-free) | modifikuoto |
+| 2/8/2019 | [Reikalingas licencijas "Microsoft" ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | modifikuoto |
+| 2/8/2019 | [Saugojimo strategijos, Exchange administravimo centro neveikia](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | modifikuoto |
