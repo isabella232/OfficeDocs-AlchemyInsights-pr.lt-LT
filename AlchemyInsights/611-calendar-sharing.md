@@ -7,23 +7,23 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 322a7c38c48678a47d25676d11c4d0b10441b9b5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 71cc6ce7995cec618f2c6ae0f00f5dde0e0a37a0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480659"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926216"
 ---
-# <a name="calendar-sharing"></a><span data-ttu-id="14aa5-102">Kalendoriaus bendrinimas</span><span class="sxs-lookup"><span data-stu-id="14aa5-102">Calendar sharing</span></span>
+# <a name="calendar-sharing"></a><span data-ttu-id="ae689-102">Kalendoriaus bendrinimas</span><span class="sxs-lookup"><span data-stu-id="ae689-102">Calendar sharing</span></span>
 
-<span data-ttu-id="14aa5-103">Norėdami gauti daugiau informacijos, peržiūrėkite šias temas:</span><span class="sxs-lookup"><span data-stu-id="14aa5-103">For more information, see these topics:</span></span>
+<span data-ttu-id="ae689-103">Norėdami gauti daugiau informacijos, peržiūrėkite šias temas:</span><span class="sxs-lookup"><span data-stu-id="ae689-103">For more information, see these topics:</span></span>
   
-- [<span data-ttu-id="14aa5-104">"Outlook" kalendoriaus bendrinimas su kitais žmonėmis</span><span class="sxs-lookup"><span data-stu-id="14aa5-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="ae689-104">"Outlook" kalendoriaus bendrinimas su kitais žmonėmis</span><span class="sxs-lookup"><span data-stu-id="ae689-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
-- [<span data-ttu-id="14aa5-105">Bendrai naudoti kalendorių programoje "Outlook" internete verslui</span><span class="sxs-lookup"><span data-stu-id="14aa5-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [<span data-ttu-id="ae689-105">Bendrai naudoti kalendorių programoje "Outlook" internete verslui</span><span class="sxs-lookup"><span data-stu-id="ae689-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
     
 
