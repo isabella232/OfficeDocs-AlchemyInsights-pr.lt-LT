@@ -7,16 +7,16 @@ ms.date: 5/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 57437156030b7f66bd5cc1b01cc708e742a6e33f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29480446"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29937155"
 ---
 # <a name="unable-to-send-group-emails"></a>Neįmanoma siųsti el. laiškus grupei
 
@@ -26,7 +26,7 @@ Jei jūs negalite siųsti el. laišką kontaktų sąrašus ar kontaktų grupes, 
     
 2. Jei jums vis dar kyla problemų, el. laišką su savo grupe, eiti [žmonės](https://outlook.live.com/people/), pasirinkite kontaktų sąrašo arba grupės, o tada pasirinkite **Siųsti el. laiškus**.
     
- Pastabos.
+ **Pastabos.**
   
 1. Įsitikinkite, kad jūs neturite iššokantieji langai užblokuoti: siuntimas el. paštas iš kontaktų sąrašo puslapį atidaro naują langą.
     
