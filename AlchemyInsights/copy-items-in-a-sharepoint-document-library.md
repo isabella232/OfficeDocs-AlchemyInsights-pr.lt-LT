@@ -7,34 +7,34 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2bea9fea9ddaca686a5c4fb1cf629cb1a0ebea63
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481089"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917935"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a><span data-ttu-id="e65d0-102">Kopijuoti elementus SharePoint dokumentų bibliotekoje</span><span class="sxs-lookup"><span data-stu-id="e65d0-102">Copy items in a SharePoint document library</span></span>
+# <a name="copy-items-in-a-sharepoint-document-library"></a><span data-ttu-id="5acf7-102">Kopijuoti elementus SharePoint dokumentų bibliotekoje</span><span class="sxs-lookup"><span data-stu-id="5acf7-102">Copy items in a SharePoint document library</span></span>
 
-1. <span data-ttu-id="e65d0-103">Naudodami žiniatinklio naršyklę, eikite į failus, aplankus ar nuorodos, kurį norite kopijuoti, ir tada spustelėkite **Kopijuoti į**.</span><span class="sxs-lookup"><span data-stu-id="e65d0-103">In a web browser, browse to the files, folders, or links that you want to copy, and then click **Copy to**.</span></span>
+1. <span data-ttu-id="5acf7-103">Naudodami žiniatinklio naršyklę, eikite į failus, aplankus ar nuorodos, kurį norite kopijuoti, ir tada spustelėkite **Kopijuoti į**.</span><span class="sxs-lookup"><span data-stu-id="5acf7-103">In a web browser, browse to the files, folders, or links that you want to copy, and then click **Copy to**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="e65d0-104">**Kopijuoti** negalima, jei jūs naudojate SharePoint Online klasikinis patirtis.</span><span class="sxs-lookup"><span data-stu-id="e65d0-104">**Copy to** isn't available if you're using the classic experience of SharePoint Online.</span></span> 
+    > <span data-ttu-id="5acf7-104">**Kopijuoti** negalima, jei jūs naudojate SharePoint Online klasikinis patirtis.</span><span class="sxs-lookup"><span data-stu-id="5acf7-104">**Copy to** isn't available if you're using the classic experience of SharePoint Online.</span></span> 
   
-2. <span data-ttu-id="e65d0-p101">Dalyje **pasirinkti kelionės tikslą**, pasirinkite vietą, į kurią norite kopijuoti elementus. Jei kopijuojate į kitą svetainę, arba antrinės svetainės ir nematau jos sąraše, spustelėkite **Naršyti svetaines** pamatyti visą sąrašą svetainių, kuriose galite kopijuoti į.</span><span class="sxs-lookup"><span data-stu-id="e65d0-p101">Under **Choose a destination**, select the location to which you want to copy the items. If you're copying to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can copy to.</span></span> 
+2. <span data-ttu-id="5acf7-p101">Dalyje **pasirinkti kelionės tikslą**, pasirinkite vietą, į kurią norite kopijuoti elementus. Jei kopijuojate į kitą svetainę, arba antrinės svetainės ir nematau jos sąraše, spustelėkite **Naršyti svetaines** pamatyti visą sąrašą svetainių, kuriose galite kopijuoti į.</span><span class="sxs-lookup"><span data-stu-id="5acf7-p101">Under **Choose a destination**, select the location to which you want to copy the items. If you're copying to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can copy to.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="e65d0-p102">Jei nematote kitų svetainių, išvardytų kopijuojant elementus, nebuvo sukonfigūruoti kopijavimo svetainėse. Norėdami ją įjungti, eikite į nustatymų puslapį su SharePoint administravimo centro ir spustelėkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="e65d0-p102">If you don't see other sites listed when you copy items, copying across sites hasn't been configured. To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
+    > <span data-ttu-id="5acf7-p102">Jei nematote kitų svetainių, išvardytų kopijuojant elementus, nebuvo sukonfigūruoti kopijavimo svetainėse. Norėdami ją įjungti, eikite į nustatymų puslapį su SharePoint administravimo centro ir spustelėkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="5acf7-p102">If you don't see other sites listed when you copy items, copying across sites hasn't been configured. To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
   
-    <span data-ttu-id="e65d0-109">Norėdami sukurti naują aplanką kopijuoti failus, pasirinkite vietą aplanko hierarchijos, spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir spustelėkite žymės langelį įrašyti pavadinimą.</span><span class="sxs-lookup"><span data-stu-id="e65d0-109">To create a new folder to copy the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="5acf7-109">Norėdami sukurti naują aplanką kopijuoti failus, pasirinkite vietą aplanko hierarchijos, spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir spustelėkite žymės langelį įrašyti pavadinimą.</span><span class="sxs-lookup"><span data-stu-id="5acf7-109">To create a new folder to copy the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
     
-3. <span data-ttu-id="e65d0-110">Spustelėkite **Kopijuoti čia**.</span><span class="sxs-lookup"><span data-stu-id="e65d0-110">Click **Copy here**.</span></span>
+3. <span data-ttu-id="5acf7-110">Spustelėkite **Kopijuoti čia**.</span><span class="sxs-lookup"><span data-stu-id="5acf7-110">Click **Copy here**.</span></span>
     
 > [!NOTE]
->  <span data-ttu-id="e65d0-p103">Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > kai naudojate **kopiją** su dokumentais, kurie turi versijų retrospektyva, tik naujausią kopijuojamas.</span><span class="sxs-lookup"><span data-stu-id="e65d0-p103">You can copy up to 500 MB of files and folders at one time. >  When you use **Copy to** with documents that have version history, only the latest version is copied.</span></span> 
+>  <span data-ttu-id="5acf7-p103">Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > kai naudojate **kopiją** su dokumentais, kurie turi versijų retrospektyva, tik naujausią kopijuojamas.</span><span class="sxs-lookup"><span data-stu-id="5acf7-p103">You can copy up to 500 MB of files and folders at one time. >  When you use **Copy to** with documents that have version history, only the latest version is copied.</span></span> 
   
 
