@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926288"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210033"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="0aeaa-102">Panaikinti svetaines, kuriose yra "Office 365" grupei priklauso:</span><span class="sxs-lookup"><span data-stu-id="0aeaa-102">Delete sites that belong to an Office 365 group:</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="552fe-102">Panaikinti svetaines, kuriose yra "Office 365" grupei priklauso:</span><span class="sxs-lookup"><span data-stu-id="552fe-102">Delete sites that belong to an Office 365 group:</span></span>
 
-<span data-ttu-id="0aeaa-p101">Vartotojams sukurti naują komandos svetainę, SharePoint namuose (arba galite sukurti naują komandos svetainę iš naujo SharePoint administravimo centro peržiūra), automatiškai sukuriamas atitinkamas "Office 365" grupė. Kurdami "Office 365" grupė ar komanda Microsoft Teams, taip pat kuriami Biuro 365 grupės susijusios komandos svetaines. Norėdami panaikinti SharePoint svetainės, kuri priklauso "Office 365" grupei, reikia naikinti "Office 365" grupė pati.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="552fe-p101">Vartotojams sukurti naują komandos svetainę, SharePoint namuose (arba galite sukurti naują komandos svetainę iš naujo SharePoint administravimo centro peržiūra), automatiškai sukuriamas atitinkamas "Office 365" grupė. Kurdami "Office 365" grupė ar komanda Microsoft Teams, taip pat kuriami Biuro 365 grupės susijusios komandos svetaines. Norėdami panaikinti SharePoint svetainės, kuri priklauso "Office 365" grupei, reikia naikinti "Office 365" grupė pati.</span><span class="sxs-lookup"><span data-stu-id="552fe-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="0aeaa-106">Eikite į ["Office 365" administravimo centro puslapį grupių](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="0aeaa-106">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="552fe-106">Eikite į [grupės puslapį su "Microsoft" 365 administravimo centro](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="552fe-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="0aeaa-107">Pažymėkite žymės langelį šalia grupės.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="552fe-107">Pažymėkite žymės langelį šalia grupės.</span><span class="sxs-lookup"><span data-stu-id="552fe-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="0aeaa-108">Pasirinkite **ištrinti**.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="552fe-108">Pasirinkite **ištrinti**.</span><span class="sxs-lookup"><span data-stu-id="552fe-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="0aeaa-109">Pastaba: Panaikinus grupę, ten gali būti atidėtas iki svetainės pašalinamas iš SharePoint.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="552fe-109">Pastaba: Panaikinus grupę, ten gali būti atidėtas iki svetainės pašalinamas iš SharePoint.</span><span class="sxs-lookup"><span data-stu-id="552fe-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="0aeaa-110">**Naikinti ryšių svetainėse ar klasikinis svetainėse:**</span><span class="sxs-lookup"><span data-stu-id="0aeaa-110">**Delete communication sites or classic sites:**</span></span>
+<span data-ttu-id="552fe-110">**Naikinti ryšių svetainėse ar klasikinis svetainėse:**</span><span class="sxs-lookup"><span data-stu-id="552fe-110">**Delete communication sites or classic sites:**</span></span>
 
-1. <span data-ttu-id="0aeaa-111">Eikite į svetainę.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-111">Go to the site.</span></span>
+1. <span data-ttu-id="552fe-111">Eikite į svetainę.</span><span class="sxs-lookup"><span data-stu-id="552fe-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="0aeaa-112">Spustelėkite į \*\* parametrus \*\* piktogramą, esančią viršutiniame dešiniajame kampe.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-112">Click the \*\* Settings \*\* icon in the upper right.</span></span> 
+2. <span data-ttu-id="552fe-112">Spustelėkite į \*\* parametrus \*\* piktogramą, esančią viršutiniame dešiniajame kampe.</span><span class="sxs-lookup"><span data-stu-id="552fe-112">Click the \*\* Settings \*\* icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="0aeaa-p102">Spustelėkite **Svetainės parametrai**. **Svetainės informaciją** arba **Svetainės veiksmai**, spustelėkite **panaikinti šią svetainę**, ir tada spustelėkite **Naikinti**.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="552fe-p102">Spustelėkite **Svetainės parametrai**. **Svetainės informaciją** arba **Svetainės veiksmai**, spustelėkite **panaikinti šią svetainę**, ir tada spustelėkite **Naikinti**.</span><span class="sxs-lookup"><span data-stu-id="552fe-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="0aeaa-115">**Panaikinkite SharePoint svetainių rinkinio:**</span><span class="sxs-lookup"><span data-stu-id="0aeaa-115">**Delete a SharePoint site collection:**</span></span>
+<span data-ttu-id="552fe-115">**Panaikinkite SharePoint svetainių rinkinio:**</span><span class="sxs-lookup"><span data-stu-id="552fe-115">**Delete a SharePoint site collection:**</span></span>
 
-<span data-ttu-id="0aeaa-116">Norėdami panaikinti klasikinis svetainių rinkinio:</span><span class="sxs-lookup"><span data-stu-id="0aeaa-116">To delete a classic site collection:</span></span>
+<span data-ttu-id="552fe-116">Norėdami panaikinti klasikinis svetainių rinkinio:</span><span class="sxs-lookup"><span data-stu-id="552fe-116">To delete a classic site collection:</span></span>
   
-1. <span data-ttu-id="0aeaa-117">Klasikinis SharePoint administravimo centro svetainės kolekcijos puslapyje, pažymėkite **žymės langelį** šalia svetainių rinkinio.</span><span class="sxs-lookup"><span data-stu-id="0aeaa-117">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
+1. <span data-ttu-id="552fe-117">Klasikinis SharePoint administravimo centro svetainės kolekcijos puslapyje, pažymėkite **žymės langelį** šalia svetainių rinkinio.</span><span class="sxs-lookup"><span data-stu-id="552fe-117">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
     
-2. <span data-ttu-id="0aeaa-118">Skirtuką svetainių rinkinius, pasirinkite **Naikinti.**</span><span class="sxs-lookup"><span data-stu-id="0aeaa-118">On the Site Collections tab, select **Delete.**</span></span>
+2. <span data-ttu-id="552fe-118">Skirtuką svetainių rinkinius, pasirinkite **Naikinti.**</span><span class="sxs-lookup"><span data-stu-id="552fe-118">On the Site Collections tab, select **Delete.**</span></span>
     
-<span data-ttu-id="0aeaa-119">**Panaikinti svetainę dėl nelaimingo atsitikimo?**</span><span class="sxs-lookup"><span data-stu-id="0aeaa-119">**Deleted a site by accident?**</span></span>
+<span data-ttu-id="552fe-119">**Panaikinti svetainę dėl nelaimingo atsitikimo?**</span><span class="sxs-lookup"><span data-stu-id="552fe-119">**Deleted a site by accident?**</span></span>
 
-<span data-ttu-id="0aeaa-120">Žiūrėkite [atkurti panaikintą svetainių rinkinį](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="0aeaa-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="552fe-120">Žiūrėkite [atkurti panaikintą svetainių rinkinį](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="552fe-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 
