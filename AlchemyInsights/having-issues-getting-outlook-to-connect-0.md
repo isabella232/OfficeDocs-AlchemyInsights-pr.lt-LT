@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: cbd3893c439c2e1f24ac959374db51919e753f0c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918404"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209277"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Kyla problemų gauti Outlook prisijungti?
 
@@ -23,7 +23,7 @@ Aptikome, kad programa Outlook sukonfigūruota tinkamai veiktų pagal šiuos dom
   
 NS ar CNAME įrašus domenų (DNS) parametrus nėra nustatyta teisingai. [Atnaujinti DNS įrašai "Office 365"](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) galite nurodyti išsamias instrukcijas. 
   
-Norėdami ją išspręsti, eikite į į Office 365 administravimo centro puslapį [domenai](https://admin.microsoft.com/adminportal/home#/Domains) , ir mes padėsime jums su juo. 
+Norėdami ją išspręsti, prašome kreiptis į "Microsoft" 365 administravimo centro puslapį [domenai](https://admin.microsoft.com/adminportal/home#/Domains) , ir mes padėsime jums su juo. 
   
 [Peržiūrėkite DUK domenai](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) kitų bendrų sprendimų. 
   

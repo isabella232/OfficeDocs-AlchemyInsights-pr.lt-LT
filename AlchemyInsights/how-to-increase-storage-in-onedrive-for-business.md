@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906416"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207765"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kaip padidinti saugojimas "OneDrive" verslui
 
@@ -27,7 +27,7 @@ Jei norite pakeisti numatytąjį saugykla, skirta naujiems ir esamiems "OneDrive
   
 Norėdami padidinti jūsų "OneDrive" verslui saugykla, pasirinkite "Office 365" planą, kuriame yra **"OneDrive" verslui planą 2** arba **Office 365 Enterprise E3**. 
   
-Norėdami pakeisti planus, į "Office 365" administravimo centro, eikite į **atsiskaitymo** \> **prenumerata**, ir tada pasirinkite **Perjungti planus.**
+Norėdami pakeisti planus, į "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> **prenumerata**, ir tada pasirinkite **Perjungti planus.**
   
 Daugiau informacijos apie perjungimo planų ir "OneDrive" verslui saugykla, ieškokite [pereiti prie skirtingų "Office 365" verslui skirtą planą](https://go.microsoft.com/fwlink/?LinkId=2031117) ir ["OneDrive" verslui paslaugų Aprašymas](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

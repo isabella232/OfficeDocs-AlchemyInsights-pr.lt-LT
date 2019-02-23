@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941120"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209853"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Vartotojų teises, naudodami SharePoint ir "OneDrive"
 
 Jei jūsų organizacijoje vartotojo galimybę prieiti prie SharePoint arba "OneDrive", įsitikinkite, kad jie turi licenciją, kurioje yra SharePoint ir "OneDrive". 
   
-1. Eikite į [aktyvūs vartotojai "Office 365" administravimo centro puslapį](https://portal.office.com/adminportal/home#/users) ir pasirinkite vartotoją. 
+1. Eikite į ["Microsoft" 365 administravimo centro puslapį aktyvių vartotojų](https://portal.office.com/adminportal/home#/users) ir pasirinkite vartotoją. 
     
 2. Įsitikinkite, kad pagal **produkto licencijos**, priskirta licencija ir **SharePoint Online** yra pažymėtas. 
     

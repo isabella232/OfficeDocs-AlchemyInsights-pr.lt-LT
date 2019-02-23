@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900887"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207693"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Spręsti problemas, dalytis SharePoint turinio su išoriniais vartotojais
 
 Įsitikinkite, kad išorinis bendrinimas yra įjungtas, jūsų organizacija:
   
-1. Eikite į į [paslaugos &amp; priedai "Office 365" administravimo centro puslapį](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), spustelėkite **svetainės**.
+1. Eikite į į [paslaugos &amp; priedai "Microsoft 365" administravimo centro puslapį](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), spustelėkite **svetainės**.
     
-2. Įsitikinkite, kad parametras yra įjungta "Įjungtas." Jei pažymėtas "Tik esamos išoriniams vartotojams", įsitikinkite, kad išorinis vartotojas yra įtraukta į "Office 365" administravimo centrą.
+2. Įsitikinkite, kad parametras yra įjungta "Įjungtas." Jei pažymėtas "Tik esamos išoriniams vartotojams", įsitikinkite, kad išorinis vartotojas yra įtraukta į "Microsoft" 365 administravimo centro.
     
 Įsitikinkite, kad svetainės įjungta išorės dalintis ja. Klasikiniai svetainės rinkinio:
   

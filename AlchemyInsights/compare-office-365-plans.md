@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919448"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208091"
 ---
 # <a name="compare-office-365-plans"></a>"Office 365" planų palyginimas
 
@@ -26,7 +26,7 @@ Palyginti, pakeitimas arba įsigyti "Office 365" planai
   
 Jei jūsų organizacija domisi lyginant visus planus ir kainas, peržiūrėkite ["Office 365" planų palyginimas](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jei jūsų organizacija jau įsigijo "Office 365" planą ir domisi pereina į kitą planą galite tiek Office 365 administravimo centrą, eikite į [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054), arba pasirinkti **atsiskaitymo** \> **prenumeratos**. Pasirinkite **jungiklis planų** sąrašą naujus planus, kurie yra prieinami. 
+Jei jūsų organizacija jau įsigijo "Office 365" planą ir domisi pereina į kitą planą galite taip "Microsoft 365" administravimo centrą, eikite į [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054), arba pasirinkti **atsiskaitymo** \> **prenumeratos**. Pasirinkite **jungiklis planų** sąrašą naujus planus, kurie yra prieinami. 
   
 Jūsų organizacija taip pat galima maišyti ir rungtynės "Office 365" planus patenkinti vartotojų reikalavimus funkciją ir poreikius. Office 365 administravimo, eikite į puslapį [Pirkimas tarnybos](https://go.microsoft.com/fwlink/p/?linkid=868433) arba pasirinkti **atsiskaitymo** \> **Pirkimo paslaugas**.
   
