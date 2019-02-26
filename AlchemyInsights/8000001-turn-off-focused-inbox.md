@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: a4a4399d1fbf9cf2696c912c6ff51c36390dbb60
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9d4b55c9a7c955031568b384a1fa89f5478f091b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906488"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243905"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="1bdfb-102">Išjungti daugiausia gauta</span><span class="sxs-lookup"><span data-stu-id="1bdfb-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="5a586-102">Išjungti daugiausia gauta</span><span class="sxs-lookup"><span data-stu-id="5a586-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="1bdfb-103">Pasirinkite **Parametrai**![parametrai](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **orientuota Gautieji**.</span><span class="sxs-lookup"><span data-stu-id="1bdfb-103">Select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="5a586-103">Pasirinkite **Parametrai** \> **orientuota Gautieji**.  </span><span class="sxs-lookup"><span data-stu-id="5a586-103">Select **Settings**  \> **Focused Inbox**.</span></span>
     
-2. <span data-ttu-id="1bdfb-104">**Kai gaunamas el. paštas**, pasirinkite **nereikia rūšiuoti pranešimus**.</span><span class="sxs-lookup"><span data-stu-id="1bdfb-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="5a586-104">**Kai gaunamas el. paštas**, pasirinkite **nereikia rūšiuoti pranešimus**.</span><span class="sxs-lookup"><span data-stu-id="5a586-104">Under **When email is received**, select **Don't sort messages**.</span></span>
     
-3. <span data-ttu-id="1bdfb-105">Pasirinkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="1bdfb-105">Select **OK**.</span></span>
+3. <span data-ttu-id="5a586-105">Pasirinkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="5a586-105">Select **OK**.</span></span>
     
-<span data-ttu-id="1bdfb-106">Norėdami sužinoti daugiau, peržiūrėkite [Orientuota pašto dėžutę programoje Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="1bdfb-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
+<span data-ttu-id="5a586-106">Norėdami sužinoti daugiau, peržiūrėkite [Orientuota pašto dėžutę programoje Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="5a586-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
   
 
