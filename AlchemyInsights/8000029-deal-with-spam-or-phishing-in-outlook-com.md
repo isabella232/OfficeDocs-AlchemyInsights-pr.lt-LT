@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920132"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244733"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Susidoroti su šlamšto arba sukčiavimo aferų aplanke Gauta
 
@@ -26,7 +26,7 @@ Nepageidaujamo el. pašto filtrus programoje "Outlook.com" pagerinti, kai pažym
   
 Jei manote, kad gavote sukčiavimo arba parodijos sukčiai, pažymėti el. laišką kaip nepageidaujamas el. paštas, pereikite į aplanką Nepageidaujamas el. paštas ir pasirinkite **ne šlamštas** \> **Phishing** pažymėti jį kaip sukčiavimo aferą. Sužinokite daugiau apie tai, kaip elgtis [su piktnaudžiavimo, sukčiavimo, arba parodijos](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Blokuoti elektroninio pašto adresą, eikite į **Parametrai**![parametrai](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **funkcijos** \> **blokuojami siuntėjai**. Norėdami pridėti adresus ar domenų patikimų siuntėjų sąraše, pasirinkite **Patikimi siuntėjai**. 
+Blokuoti elektroninio pašto adresą, eikite į **Parametrai** \> **funkcijos** \> **blokuojami siuntėjai**. Norėdami pridėti adresus ar domenų patikimų siuntėjų sąraše, pasirinkite **Patikimi siuntėjai**. 
   
 Jei matote padidinti šlamštas, skaityti kaip [šlamštas](https://go.microsoft.com/fwlink/p/?linkid=873140)ir nepageidaujamo el. pašto gautuosiuose.
   
