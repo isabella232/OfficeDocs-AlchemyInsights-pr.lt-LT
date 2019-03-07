@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941588"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468491"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="d0bf0-102">"Microsoft" komandos - svečio abonentą</span><span class="sxs-lookup"><span data-stu-id="d0bf0-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="ba671-102">"Microsoft" komandos - svečio abonentą</span><span class="sxs-lookup"><span data-stu-id="ba671-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="ba671-103">Jums reikia padėti įjungimas ir sukurkite svečio abonentą funkcija, "Microsoft" Teams?</span><span class="sxs-lookup"><span data-stu-id="ba671-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="d0bf0-103">Jei norite įgalinti ar konfigūruoti Svečių prieigos vaidmenį Microsoft Teams, mes turime jums žingsnis po žingsnio instrukcija vadovas: [Svečių prieigą kontrolinis sąrašas](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="d0bf0-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="d0bf0-104">Jums gali tekti palaukti iki 24 valandų komandos konfigūracijos pakeitimai įsigaliotų.</span><span class="sxs-lookup"><span data-stu-id="d0bf0-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="ba671-104">Štai ką jums reikia padaryti:</span><span class="sxs-lookup"><span data-stu-id="ba671-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="ba671-105">Leisti svečio abonentą.</span><span class="sxs-lookup"><span data-stu-id="ba671-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="ba671-106">Pridėti Svečių vartotojus į savo komandą.</span><span class="sxs-lookup"><span data-stu-id="ba671-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="ba671-107">Nustatyti Svečių vartotojo teises.</span><span class="sxs-lookup"><span data-stu-id="ba671-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="ba671-108">Norėdami gauti daugiau informacijos, įskaitant instrukcijų vaizdo įrašai, žr. [svečio abonentą į "Microsoft" komandomis](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="ba671-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span></span>
 
