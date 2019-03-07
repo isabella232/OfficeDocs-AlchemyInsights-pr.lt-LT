@@ -8,17 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1382cb840a768afac42ac5a521ee44ef380341a5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb1b75df37b38635ba101b1f2cd9f678e631a7f9
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930724"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468527"
 ---
 # <a name="restoring-a-deleted-team-site"></a>Atkurti ištrintus komandos svetainę
 
-Kaip komandos savininkui, netyčia ištrinti komanda? Tai atsitinka, bet jūs vis dar galite gauti jį atgal.
-  
-Norėdami atkurti ištrintus komanda Microsoft Teams, atlikite veiksmus čia: [atkurti ištrintus komanda](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
+Ar jūs netyčia ištrinti komanda? Jei praėjo mažiau nei 30 dienų nuo panaikinote komanda, jūs laimingos; galite jį atkurti. Norėdami tai padaryti, atlikite veiksmus čia: [atkurti ištrintus komanda](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
   
 
