@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: cdac247b0a60af9d74481dfffba9b06c07c837e3
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 566a12c192e117401a9d49486b468b0f4af93d5c
+ms.sourcegitcommit: 53ac59b8afb80cac084eeeec9d2f65591ebcb232
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347559"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30701507"
 ---
 # <a name="action-confirmations"></a>Veiksmų patvirtinimai
 
-"Outlook.com" veiksmo patvirtinimo funkcija leidžia anuliuoti judėti arba pranešimo naikinimo, kad ką tik padarė klaidą. Atšaukti dialogo langas ekrano apačioje maždaug 5 sekundes, ir pakeisti perkelti arba pranešimą pašalinote.
+"Outlook.com" veiksmų patvirtinimai funkcija leidžia anuliuoti judėti arba pranešimo naikinimo, kad ką tik padarė klaidą. Atšaukti dialogo langas ekrano apačioje maždaug 5 sekundes, ir bus pakeisti perkelti arba ištrinti veiksmus.
 
-Galite išjungti tai pagal **Parametrai** > **bendrojo** > **pranešimai** > **[Veiksmų patvirtinimai](https://outlook.live.com/mail/options/general/notifications)**.
+Jūs galite išjungti tai [veiksmų patvirtinimai](https://outlook.live.com/mail/options/general/notifications) (**Parametrai** > **Peržiūrėti visus "Outlook" parametrai** > **bendrojo** > **pranešimai**).
 
-Pastaba: Negalima atšaukti pranešimo siuntimą. Skaityti, [aš noriu atšaukti laiško programoje "Outlook.com"](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) Norėdami gauti daugiau informacijos.
+Pastaba: Negalima atšaukti pranešimo siuntimą. Norėdami gauti daugiau informacijos, peržiūrėkite [noriu atšaukti laiško programoje "Outlook.com"](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
