@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 1f43e05b38c4a3240c959ddcda055e17182224c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce624516e0fc34245f23a066276ce0e1d2dd99fb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906092"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756206"
 ---
 # <a name="declined-credit-card"></a>Atmestą kredito kortelės
 
-Jei mokate kreditine kortele, ar kredito kortelė atmesta, gausite el. laišką, pranešantį, kad mes negalime apdoroti mokėjimo. Dar kartą patikrinkite, kad [kreditinės kortelės duomenys](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortelės numeris, galiojimo data, vardas ir pavardė kreditine kortele, ir adresas, miestas, valstybės ir ZIP kodas - atrodo tiksliai taip, kaip jie kredito korteles ir jūsų kredito kortelės išraše. Jūs galite atnaujinti savo kreditinės kortelės informaciją ir nedelsiant pateikti mokėjimo naudojant mygtuką **apmokėti dabar** puslapyje [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Daugiau informacijos rasite "ką daryti, jei mano kredito kortelė nebegalioja ir mokėjimas vėluoja atiduoti due?" – [sumokėti už savo "Office 365" verslui prenumerata](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+Jei mokate kreditine kortele, ar kredito kortelė atmesta, gausite el. laišką, pranešantį, kad mes negalime apdoroti mokėjimo. Dar kartą patikrinkite, kad [kreditinės kortelės duomenys](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortelės numeris, galiojimo data, vardas ir pavardė kreditine kortele, ir adresas, miestas, valstybės ir ZIP kodas - atrodo tiksliai taip, kaip jie kredito korteles ir jūsų kredito kortelės išraše. Jūs galite atnaujinti savo kreditinės kortelės informaciją ir nedelsiant pateikti mokėjimo naudojant mygtuką **apmokėti dabar** puslapyje [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Daugiau informacijos, ieškokite "ką daryti, jei mano kredito kortelė nebegalioja ir mokėjimas yra pradelstas?" – [mokėti už jūsų "Office 365" verslui prenumerata](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   
 Jei ir toliau matote pranešimą "atmestas", susisiekite su banku. Gali būti, kad jūsų kreditinės kortelės yra neaktyvi, pavyzdžiui, jei neseniai gavote kreditinę kortelę paštu su atnaujinta galiojimo, jums gali reikėti jį suaktyvinti. Jūsų bankas gali taip pat pasakyti, jei jūsų kredito kortelės nėra patvirtinta internete, tarptautinių ar pasikartojančios operacijos.
   

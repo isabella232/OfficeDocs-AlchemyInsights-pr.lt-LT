@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913508"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764628"
 ---
 # <a name="how-to-share-in-onedrive"></a>Kaip bendrinti "OneDrive"
 
@@ -33,12 +33,12 @@ ms.locfileid: "29913508"
   - **Tam tikriems žmonėms** suteikia prieigą tik tiems, jūs nurodote, nors kiti žmonės jau gali naudotis. Jei žmonės siunčia kvietimą bendrai naudotis, tik žmonės, kurie jau turi prieigą prie elemento galės naudoti nuorodą. 
     
     > [!NOTE]
-    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje. [Sužinoti daugiau](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje. [sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Pagal numatytuosius nustatymus, leisti redagavimas** yra įjungtas. Jei norite žmonėms tik peržiūrėti jūsų failus, atžymėkite žymimąjį langelį. 
     
 5. Įveskite vardus asmenų, kuriuos norite bendrinti su, ir tada spustelėkite **Siųsti**.
     
-[Sužinokite daugiau](https://go.microsoft.com/fwlink/?linkid=871861)
+[sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

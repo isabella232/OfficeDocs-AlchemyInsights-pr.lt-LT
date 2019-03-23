@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917864"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754442"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>"OneDrive" failų bendrinimas su organizacijai nepriklausančiais žmonėmis
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917864"
   - **Tam tikriems žmonėms** suteikia prieigą tik tiems, jūs nurodote, nors kiti žmonės jau gali naudotis. Jei žmonės siunčia kvietimą bendrai naudotis, tik žmonės, kurie jau turi prieigą prie elemento galės naudoti nuorodą. 
     
     > [!NOTE]
-    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje. [Sužinoti daugiau](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje. [sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Pagal numatytuosius nustatymus, leisti redagavimas** yra įjungtas. Jei norite žmonėms tik peržiūrėti jūsų failus, atžymėkite žymimąjį langelį. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917864"
     
 6. Kai būsite pasiruošę siųsti saitą, spustelėkite **Siųsti**. 
     
-[Sužinokite daugiau](https://go.microsoft.com/fwlink/?linkid=871861)
+[sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
