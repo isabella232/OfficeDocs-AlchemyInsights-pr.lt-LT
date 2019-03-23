@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208305"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752138"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Jungiklis planuoja didinti pašto dėžutės dydis
 
@@ -34,4 +34,4 @@ Jei pašto dėžutės dydis yra 50 GB, galite jį padidinti iki 100 GB pereina �
     
 Daugiau informacijos ieškokite [Perjungti į kitą "Office 365" planą](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Jei turite [O365 planą, kuris palaiko vietinį archyvą](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), taip pat galite gauti papildomų el. pašto saugojimo suteikiant archyvo pašto dėžutę.  Archyvo pašto dėžutės suteikia papildomą saugyklą ir leidžia jums perkelti, kopijuoti ir ieškoti laiškus, tiek pagrindine ir archyvo pašto dėžutę. Veiksmus tam, kad archyvo pašto dėžutę, ieškokite [archyvuoti](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
