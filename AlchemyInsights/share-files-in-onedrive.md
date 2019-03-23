@@ -9,36 +9,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913508"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764628"
 ---
-# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="0898b-102">Kaip bendrinti "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="0898b-102">How to share in OneDrive</span></span>
+# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="3a152-102">Kaip bendrinti "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="3a152-102">How to share in OneDrive</span></span>
 
-1. <span data-ttu-id="0898b-103">Naudokite programų paleidimo priemonėje eikite į "OneDrive" žiniatinklio naršyklėje.</span><span class="sxs-lookup"><span data-stu-id="0898b-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
+1. <span data-ttu-id="3a152-103">Naudokite programų paleidimo priemonėje eikite į "OneDrive" žiniatinklio naršyklėje.</span><span class="sxs-lookup"><span data-stu-id="3a152-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
     
-2. <span data-ttu-id="0898b-104">Pasirinkite failą arba aplanką, kurį norite bendrinti, ir tada pasirinkite **bendrinti**.</span><span class="sxs-lookup"><span data-stu-id="0898b-104">Select the file or folder you want to share, and then select **Share**.</span></span>
+2. <span data-ttu-id="3a152-104">Pasirinkite failą arba aplanką, kurį norite bendrinti, ir tada pasirinkite **bendrinti**.</span><span class="sxs-lookup"><span data-stu-id="3a152-104">Select the file or folder you want to share, and then select **Share**.</span></span>
     
-3. <span data-ttu-id="0898b-105">(Pasirinktinai) Jei saito tipas nėra norimas, spustelėkite rodyklę žemyn, pasirinkite kito tipo:</span><span class="sxs-lookup"><span data-stu-id="0898b-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+3. <span data-ttu-id="3a152-105">(Pasirinktinai) Jei saito tipas nėra norimas, spustelėkite rodyklę žemyn, pasirinkite kito tipo:</span><span class="sxs-lookup"><span data-stu-id="3a152-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="0898b-p101">**Kas** suteikia prieigą visiems, kurie gauna šią nuorodą gauti tiesiogiai iš jūsų ar nebūtų kažkam kitam. Tai gali būti ne savo organizacijos žmonėms.</span><span class="sxs-lookup"><span data-stu-id="0898b-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="3a152-106">**Kas** suteikia prieigą visiems, kurie gauna šią nuorodą gauti tiesiogiai iš jūsų ar nebūtų kažkam kitam.</span><span class="sxs-lookup"><span data-stu-id="3a152-106">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="3a152-107">Tai gali būti ne savo organizacijos žmonėms.</span><span class="sxs-lookup"><span data-stu-id="3a152-107">This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="0898b-108">\*\*Žmonių \<savo organizacijos\> \*\* suteikia visiems jūsų organizacijai prieigą į nuorodą, ar jie gauti tiesiogiai iš jūsų ar nebūtų kažkam kitam.</span><span class="sxs-lookup"><span data-stu-id="0898b-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="3a152-108">\*\*Žmonių \<savo organizacijos\> \*\* suteikia visiems jūsų organizacijai prieigą į nuorodą, ar jie gauti tiesiogiai iš jūsų ar nebūtų kažkam kitam.</span><span class="sxs-lookup"><span data-stu-id="3a152-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="0898b-p102">**Tam tikriems žmonėms** suteikia prieigą tik tiems, jūs nurodote, nors kiti žmonės jau gali naudotis. Jei žmonės siunčia kvietimą bendrai naudotis, tik žmonės, kurie jau turi prieigą prie elemento galės naudoti nuorodą.</span><span class="sxs-lookup"><span data-stu-id="0898b-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="3a152-109">**Tam tikriems žmonėms** suteikia prieigą tik tiems, jūs nurodote, nors kiti žmonės jau gali naudotis.</span><span class="sxs-lookup"><span data-stu-id="3a152-109">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="3a152-110">Jei žmonės siunčia kvietimą bendrai naudotis, tik žmonės, kurie jau turi prieigą prie elemento galės naudoti nuorodą.</span><span class="sxs-lookup"><span data-stu-id="3a152-110">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="0898b-p103">Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje. [Sužinoti daugiau](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="0898b-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
+    > <span data-ttu-id="3a152-111">Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje.</span><span class="sxs-lookup"><span data-stu-id="3a152-111">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane.</span></span> [<span data-ttu-id="3a152-112">sužinoti daugiau, sužinok daugiau</span><span class="sxs-lookup"><span data-stu-id="3a152-112">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. <span data-ttu-id="0898b-p104">**Pagal numatytuosius nustatymus, leisti redagavimas** yra įjungtas. Jei norite žmonėms tik peržiūrėti jūsų failus, atžymėkite žymimąjį langelį.</span><span class="sxs-lookup"><span data-stu-id="0898b-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
+4. <span data-ttu-id="3a152-113">**Pagal numatytuosius nustatymus, leisti redagavimas** yra įjungtas.</span><span class="sxs-lookup"><span data-stu-id="3a152-113">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="3a152-114">Jei norite žmonėms tik peržiūrėti jūsų failus, atžymėkite žymimąjį langelį.</span><span class="sxs-lookup"><span data-stu-id="3a152-114">If you want people to only view your files, uncheck the check box.</span></span> 
     
-5. <span data-ttu-id="0898b-115">Įveskite vardus asmenų, kuriuos norite bendrinti su, ir tada spustelėkite **Siųsti**.</span><span class="sxs-lookup"><span data-stu-id="0898b-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
+5. <span data-ttu-id="3a152-115">Įveskite vardus asmenų, kuriuos norite bendrinti su, ir tada spustelėkite **Siųsti**.</span><span class="sxs-lookup"><span data-stu-id="3a152-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
     
-[<span data-ttu-id="0898b-116">Sužinokite daugiau</span><span class="sxs-lookup"><span data-stu-id="0898b-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
+[<span data-ttu-id="3a152-116">sužinoti daugiau, sužinok daugiau</span><span class="sxs-lookup"><span data-stu-id="3a152-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

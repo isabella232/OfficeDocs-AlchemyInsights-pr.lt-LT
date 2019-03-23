@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 1e1e80839b167fc7c99ad94daca10c9affa427a1
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: e966b80c8709ae24b9600b63e089d8ca06c1e131
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209781"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758654"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a><span data-ttu-id="f42fb-102">Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint</span><span class="sxs-lookup"><span data-stu-id="f42fb-102">Turn external sharing on or off for SharePoint</span></span>
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a><span data-ttu-id="c69c1-102">Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint</span><span class="sxs-lookup"><span data-stu-id="c69c1-102">Turn external sharing on or off for SharePoint</span></span>
 
-1. <span data-ttu-id="f42fb-103">"Microsoft" 365 administravimo centro, eikite į [paslaugos &amp; priedai puslapis](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), spustelėkite **svetainės**.</span><span class="sxs-lookup"><span data-stu-id="f42fb-103">In the Microsoft 365 admin center, go to [the Services &amp; add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
+1. <span data-ttu-id="c69c1-103">"Microsoft" 365 administravimo centro, eikite į [paslaugos &amp; priedai puslapis](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), spustelėkite **svetainės**.</span><span class="sxs-lookup"><span data-stu-id="c69c1-103">In the Microsoft 365 admin center, go to [the Services &amp; add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
     
-2. <span data-ttu-id="f42fb-104">Įjunkite arba išjunkite parametrą arba pasirinkite bendrinimo parinktį, jei jis įjungtas.</span><span class="sxs-lookup"><span data-stu-id="f42fb-104">Turn the setting on or off, or select a sharing option if it's turned on.</span></span>
+2. <span data-ttu-id="c69c1-104">Įjunkite arba išjunkite parametrą arba pasirinkite bendrinimo parinktį, jei jis įjungtas.</span><span class="sxs-lookup"><span data-stu-id="c69c1-104">Turn the setting on or off, or select a sharing option if it's turned on.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="f42fb-p101">Išjungti bendrinimą SharePoint paverčia jį OneDrive. Leisti išorės dalintis bet kurioje svetainėje, visos organizacijos parametras turi būti. > leisti išorinį bendrinimą "OneDrive" ar bet kurios atskiros SharePoint svetainės, turite įjungti jį visos organizacijos SharePoint. Jūs galite išjungti ją konkrečių svetainių rinkinių. Valdyti išorinio bendrinimo parametrai ryšio svetainėms bei svetainėms, kurios priklauso "Office 365" grupes, turite naudoti naują SharePoint administravimo centro (beta versijos) arba "PowerShell". Daugiau informacijos apie išorinio bendrinimo parametrų valdymas, ieškokite [įjungti išorinio bendrinimo įjungimas arba išjungimas](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="f42fb-p101">Turning off sharing for SharePoint turns it off for OneDrive. To allow external sharing on any site, your organization-wide setting must be on. > To allow external sharing for OneDrive or any individual SharePoint sites, you must turn it on organization-wide for SharePoint. You can then turn it off for specific site collections. To manage external sharing settings for communication sites and sites that belong to Office 365 groups, you need to use the new SharePoint admin center (preview) or PowerShell. For more info about managing external sharing settings, see [Turn external sharing on or off](https://go.microsoft.com/fwlink/?linkid=866426).</span></span> 
+> <span data-ttu-id="c69c1-105">Išjungti bendrinimą SharePoint paverčia jį OneDrive.</span><span class="sxs-lookup"><span data-stu-id="c69c1-105">Turning off sharing for SharePoint turns it off for OneDrive.</span></span> <span data-ttu-id="c69c1-106">Leisti išorės dalintis bet kurioje svetainėje, visos organizacijos parametras turi būti.</span><span class="sxs-lookup"><span data-stu-id="c69c1-106">To allow external sharing on any site, your organization-wide setting must be on.</span></span> <span data-ttu-id="c69c1-107">> leisti išorinį bendrinimą "OneDrive" ar bet kurios atskiros SharePoint svetainės, turite įjungti jį visos organizacijos SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c69c1-107">> To allow external sharing for OneDrive or any individual SharePoint sites, you must turn it on organization-wide for SharePoint.</span></span> <span data-ttu-id="c69c1-108">Jūs galite išjungti ją konkrečių svetainių rinkinių.</span><span class="sxs-lookup"><span data-stu-id="c69c1-108">You can then turn it off for specific site collections.</span></span> <span data-ttu-id="c69c1-109">Valdyti išorinio bendrinimo parametrai ryšio svetainėms bei svetainėms, kurios priklauso "Office 365" grupes, turite naudoti naują SharePoint administravimo centro (beta versijos) arba "PowerShell".</span><span class="sxs-lookup"><span data-stu-id="c69c1-109">To manage external sharing settings for communication sites and sites that belong to Office 365 groups, you need to use the new SharePoint admin center (preview) or PowerShell.</span></span> <span data-ttu-id="c69c1-110">Daugiau informacijos apie išorinio bendrinimo parametrų valdymas, ieškokite [įjungti išorinio bendrinimo įjungimas arba išjungimas](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="c69c1-110">For more info about managing external sharing settings, see [Turn external sharing on or off](https://go.microsoft.com/fwlink/?linkid=866426).</span></span> 
   
-[<span data-ttu-id="f42fb-111">Sužinokite daugiau apie išorinį bendrinimą programoje "SharePoint"</span><span class="sxs-lookup"><span data-stu-id="f42fb-111">Learn more about external sharing in SharePoint</span></span>](https://go.microsoft.com/fwlink/?linkid=734908)
+[<span data-ttu-id="c69c1-111">Sužinokite daugiau apie išorinį bendrinimą programoje "SharePoint"</span><span class="sxs-lookup"><span data-stu-id="c69c1-111">Learn more about external sharing in SharePoint</span></span>](https://go.microsoft.com/fwlink/?linkid=734908)
   
 
