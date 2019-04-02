@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-perform-eDiscovery-and-content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | pervardyti |
 
 
-## <a name="week-of-february-18-2019"></a>Savaitę, vasario 18, 2019
+## <a name="week-of-march-25-2019"></a>Savaitę kovo 25, 2019
 
 
 | Paskelbta |Temos pavadinimą | Keisti |
 |------|------------|--------|
-| 2/19/2019 | [Gavau klaidos pranešimą "Negalima rasti parametro"?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modifikuoto |
-| 2/19/2019 | [Perkelti el. paštą į "Office 365"](/AlchemyInsights/move-email-to-office-365) | modifikuoto |
-| 2/19/2019 | [Atkurti panaikintus pašto dėžutės](/AlchemyInsights/restore-deleted-mailbox) | modifikuoto |
-| 2/21/2019 | [Kaip įdiegti Mac Office iš portalo](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | pervardyti |
-| 2/22/2019 | [1048 5.7.750 tarnyba nepasiekiama. Kliento blokuojamas siuntimas iš neregistruota domenai](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modifikuoto |
-| 2/22/2019 | [125 gauti neteisingas license klaida programoje "Outlook" internete?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | modifikuoto |
-| 2/22/2019 | [126 gauti pa to dė˛utės nepavyksta rasti klaida OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | modifikuoto |
-| 2/22/2019 | [127 gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modifikuoto |
-| 2/22/2019 | [128 gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modifikuoto |
-| 2/22/2019 | [Kurti paskirstymo sąrašą arba grupės 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | modifikuoto |
-| 2/22/2019 | [912 konfigūruoti kryptingai gauta kiekvienam jūsų organizacijoje](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | modifikuoto |
-| 2/22/2019 | [Pašalinti domeno](/AlchemyInsights/remove-domain) | modifikuoto |
-| 2/22/2019 | [Pridėti grupę prie SharePoint svetainės](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | modifikuoto |
-| 2/22/2019 | [Pridėti kitą el. pašto pseudonimas](/AlchemyInsights/add-another-email-alias) | modifikuoto |
-| 2/22/2019 | [Kontaktų įtraukimas į O365 grupę](/AlchemyInsights/add-contacts-to-o365-group) | modifikuoto |
-| 2/22/2019 | [Pakeisti UPN](/AlchemyInsights/change-upn) | modifikuoto |
-| 2/22/2019 | [Keičiant viešojo aplanko teises](/AlchemyInsights/changing-public-folder-permissions) | modifikuoto |
-| 2/22/2019 | [Keisti bendrai naudojamą pašto dėžutę siųsti kaip elgesio](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modifikuoto |
-| 2/22/2019 | [Patikrinkite AAD tapatybės sinchronizavimo būsena](/AlchemyInsights/check-aad-identity-sync-status) | modifikuoto |
-| 2/22/2019 | ["Office 365" planų palyginimas](/AlchemyInsights/compare-office-365-plans) | modifikuoto |
-| 2/22/2019 | [Klasikiniai svetainės kūrimas](/AlchemyInsights/create-a-classic-site) | modifikuoto |
-| 2/22/2019 | [Sukurti svetainę, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modifikuoto |
-| 2/22/2019 | [Viešųjų aplankų kūrimas](/AlchemyInsights/creating-public-folders) | modifikuoto |
-| 2/22/2019 | [Naikinti SharePoint svetainės](/AlchemyInsights/delete-a-sharepoint-site-0) | modifikuoto |
-| 2/22/2019 | [Suteikti vartotojams prieigą prie SharePoint ir "OneDrive"](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | modifikuoto |
-| 2/22/2019 | [Gavau klaidos pranešimą "Negalima rasti parametro"?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modifikuoto |
-| 2/22/2019 | [Turintys el. pašto pristatymo klausimais?](/AlchemyInsights/having-email-delivery-issues-0) | modifikuoto |
-| 2/22/2019 | [Turintys el. pašto pristatymo klausimais?](/AlchemyInsights/having-email-delivery-issues) | modifikuoto |
-| 2/22/2019 | [Kyla problemų gauti Outlook prisijungti?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modifikuoto |
-| 2/22/2019 | [Kyla problemų gauti Outlook prisijungti?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modifikuoto |
-| 2/22/2019 | [Kaip paskirti Office licencijos "Mac" vartotojams](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | modifikuoto |
-| 2/22/2019 | [Kaip įsigyti licencijų savo "Office 365" verslui prenumerata](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | modifikuoto |
-| 2/22/2019 | [Kaip padidinti saugojimas "OneDrive" verslui](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | modifikuoto |
-| 2/22/2019 | [Kaip iš naujo suaktyvinti prenumeratą](/AlchemyInsights/how-to-reactivate-a-subscription) | modifikuoto |
-| 2/22/2019 | [Padidinti dėžutės dydis Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | modifikuoto |
-| 2/22/2019 | [Padidinti dėžutės dydis SMB SKU](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | modifikuoto |
-| 2/22/2019 | [Padidinti pašto dėžutės dydis](/AlchemyInsights/increase-mailbox-size) | modifikuoto |
-| 2/22/2019 | [Problema su "Skype" verslui?](/AlchemyInsights/issue-with-skype-for-business) | modifikuoto |
-| 2/22/2019 | [Sinchronizuoto vartotojo sąskaitų valdymas](/AlchemyInsights/manage-synchronized-user-accounts) | modifikuoto |
-| 2/22/2019 | [Stebėti "OneDrive" ir "SharePoint" naudojimo ir veiklos](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | modifikuoto |
-| 2/22/2019 | [Iš naujo suaktyvinti prenumeratą](/AlchemyInsights/reactivate-a-subscription) | modifikuoto |
-| 2/22/2019 | [Atkurti panaikintus "OneDrive"](/AlchemyInsights/restore-a-deleted-onedrive) | modifikuoto |
-| 2/22/2019 | [Atkurti Office 365 grupę naudodami Exchange administratorius centro](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | modifikuoto |
-| 2/22/2019 | [Sukurti prenumeratos O365 verslo pagrindai](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | modifikuoto |
-| 2/22/2019 | [Dalintis su išoriniais vartotojais neveikia](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modifikuoto |
-| 2/22/2019 | [Bando rasti teismą?](/AlchemyInsights/trying-to-find-a-trial) | modifikuoto |
-| 2/22/2019 | [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modifikuoto |
-| 2/22/2019 | [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modifikuoto |
-| 2/22/2019 | [Vartotojo teises](/AlchemyInsights/user-permissions) | modifikuoto |
-| 2/22/2019 | [Kada sugeneruojamas atsiskaitymo ataskaitą?](/AlchemyInsights/when-is-the-billing-statement-generated) | modifikuoto |
-| 2/22/2019 | [Kaip patikrinti savo domeną "Office 365"](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modifikuoto |
+| 3/25/2019 | ["Outlook.com" pakeisti kalbą](/AlchemyInsights/outlook-com-change-language) | modifikuoto |
+| 3/27/2019 | [Naikinti SharePoint svetainės](/AlchemyInsights/delete-a-sharepoint-site) | modifikuoto |
+| 3/28/2019 | Klasikinis būdas apriboti SharePoint Online | pridėta |
+| 3/28/2019 | [Negalima įtraukti numatytąjį 2010 patvirtinimo darbo eiga](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | modifikuoto |
+| 3/28/2019 | [Klasikinis būdas apriboti SharePoint Online](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | pervardyti |
 
 
 ## <a name="week-of-february-25-2019"></a>Savaitę, vasario 25, 2019
