@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941768"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747858"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Bendrinti failą ar aplanką SharePoint arba "OneDrive"
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941768"
   - **Tam tikriems žmonėms** suteikia prieigą tik tiems, jūs nurodote, nors kiti žmonės jau gali naudotis. Jei žmonės siunčia kvietimą bendrai naudotis, tik žmonės, kurie jau turi prieigą prie elemento galės naudoti nuorodą. 
     
     > [!NOTE]
-    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus nuėję į klasikinis SharePoint administravimo centro ir spustelėkite **bendrinimas** kairiojoje srityje. [Sužinoti daugiau](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus nuėję į naują SharePoint administravimo centro ir spustelėkite **bendrinimas** kairiojoje srityje. [sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **Pagal numatytuosius nustatymus, leisti redagavimas** yra įjungtas. Jei norite žmonėms tik peržiūrėti jūsų failus, išvalykite žymės langelį. 
     

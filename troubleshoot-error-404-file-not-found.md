@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044047"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747246"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Šalinti triktis klaida 404, Failas nerastas
 
@@ -23,7 +23,7 @@ Norėdami išspręsti klaida 404 svetainės, kurios buvo pervadintas, perkeltas 
 Klasikiniai svetaines, kurios yra klasikinis administravimo centrą, ieškokite [atkurti panaikintą svetainių rinkinį](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 
-Modernus svetaines (komunikacijos, grupės prisijungę, ar kitas svetaines), naujas admin centras peržiūra, rasite [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Modernus svetaines (komunikacijos, grupės prisijungę, ar kitas svetaines), į naują SharePoint administravimo centro, rasite [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 Norėdami išspręsti klaida 404 rinkmenos (ar kitų elementų), kuris buvo pervardytas, perkeltas arba panaikintas:
 

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 9e46335584c21d3d464a68a85f52a2f6c3c91a28
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 6bd3ae49d26594200ed6c46bb7f6138f1ae6100c
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762648"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747714"
 ---
 # <a name="restore-a-deleted-subsite"></a>Atkurti panaikintus antrinės svetainės
 
 Panaikintus antrinės svetainės siunčiamas į svetainių rinkinio šiukšlinę, kur jie laikomi 93 dienas. Kaip atkurti panaikintus antrinės svetainės:
   
-1. Nauja SharePoint administravimo centro (peržiūra) arba klasikinis SharePoint administravimo centro, rasti iš kurios buvo panaikintas antrinėje svetainėje svetainių rinkinio ir įsitikinkite, kad svetainių rinkinio administratorius. 
+1. Nauja SharePoint administravimo centro, rasti svetainę, iš kurios buvo panaikintas antrinėje svetainėje ir įsitikinkite, kad svetainių rinkinio administratorius. 
     
-2. Eiti į svetainių rinkinį. Kairiojoje srityje spustelėkite **Šiukšlinė** . (Jei nematote šiukšlinės, spustelėkite nustatymų piktogramą, o tada spustelėkite **svetainės turinys**. Šiukšlinė yra kraštutinių dešiniųjų komandų juostos viršuje.)
+2. Eikite į svetainę. Kairiojoje srityje spustelėkite **Šiukšlinė** . (Jei nematote šiukšlinės, spustelėkite nustatymų piktogramą, o tada spustelėkite **svetainės turinys**. Šiukšlinė yra kraštutinių dešiniųjų komandų juostos viršuje.)
     
 3. Puslapio apačioje spustelėkite **antrojo etapo šiukšlinė**.
     
