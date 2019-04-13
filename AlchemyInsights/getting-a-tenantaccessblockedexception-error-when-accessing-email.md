@@ -13,21 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754262"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858392"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?
 
 Taip yra dėl kelių skirtingų priežasčių, kodėl galite gauti šį klaidos. Pavyzdžiui:
-  
-- Patikrinti, ar galioja **atsiskaitymo** prenumeratą \> "Microsoft" 365 administravimo centro puslapį **prenumeratos** ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
-    
-- Tikrinti, ar visas nesumokėtas pranešimus į **atsiskaitymo** \> "Microsoft" 365 administravimo centro puslapį **sąskaitas** ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
-    
-- Jei neseniai atnaujintos atsiskaitymo ir prenumeratos abonemento, gali užtrukti laiko keisti platinti. Pabandykite dar kartą po kelių minučių, o jei problema išlieka, susisiekite su mumis.
-    
 
+- Patikrinti, ar galioja **atsiskaitymo** prenumeratą \> į ["Microsoft" 365 administravimo centro](https://portal.office.com/adminportal/home#/subscriptions)puslapį **prenumeratos** .
+
+- Tikrinti, ar visas nesumokėtas pranešimus į **atsiskaitymo** \> **sąskaitos** ["Microsoft 365" administravimo centro](https://portal.office.com/adminportal/home#/billoverview)puslapį.
+
+- Jei neseniai atnaujintos atsiskaitymo ir prenumeratos abonemento, gali užtrukti laiko keisti platinti. Pabandykite dar kartą po kelių minučių, o jei problema išlieka, susisiekite su mumis.

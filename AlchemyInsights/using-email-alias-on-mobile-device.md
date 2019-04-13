@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 725
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 9fc309c8749af81f378ce51bcd65fa8e8021c465
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4a8d5baa9f917339277b01c6560356ca3cad1c0b
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785644"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858500"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>El. pašto pseudonimus mobiliuosiuose įrenginiuose
 
 El. pašto adreso pseudonimą yra tik dar vienas el. pašto adresas, yra sukonfigūruoti pašto dėžutės, todėl pranešimai siunčiami į vartotojo pseudonimas bus pristatytas į pašto dėžutę ir bus galima skaityti savo mobiliajame prietaise. Nereikia jokių papildomų konfigūracija.
-  
-Tačiau, vartotojas negali atsakyti į pranešimus arba siųsti naujus laiškus naudojant pseudonimą kaip savo adresą. Visi jūsų laiškai bus iš savo elektroninio pašto adresą.
-  
 
+Tačiau, vartotojas negali atsakyti į pranešimus arba siųsti naujus laiškus naudojant pseudonimą kaip savo adresą. Visi jūsų laiškai bus iš savo elektroninio pašto adresą.
