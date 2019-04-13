@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: d884521e69e3767889c037c1c135af0cdf313c4b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d7f7c84ed506a5d6a4e36db2186d074c995c7268
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779694"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859292"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="adcbe-102">Sužinokite daugiau apie išoriniam kalendoriaus bendrinimo parinktis</span><span class="sxs-lookup"><span data-stu-id="adcbe-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="7f224-102">Sužinokite daugiau apie išoriniam kalendoriaus bendrinimo parinktis</span><span class="sxs-lookup"><span data-stu-id="7f224-102">Learn about external calendar sharing options</span></span>
 
-[<span data-ttu-id="adcbe-103">Bendrinkite kalendorius su išoriniais vartotojais</span><span class="sxs-lookup"><span data-stu-id="adcbe-103">Share calendars with external users</span></span>](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
-  
-
+[<span data-ttu-id="7f224-103">Bendrinkite kalendorius su išoriniais vartotojais</span><span class="sxs-lookup"><span data-stu-id="7f224-103">Share calendars with external users</span></span>](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
