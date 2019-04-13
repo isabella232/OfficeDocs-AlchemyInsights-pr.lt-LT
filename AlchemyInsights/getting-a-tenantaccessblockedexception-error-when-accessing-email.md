@@ -13,21 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754262"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858392"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="e0171-102">Gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?</span><span class="sxs-lookup"><span data-stu-id="e0171-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="f2f62-102">Gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?</span><span class="sxs-lookup"><span data-stu-id="f2f62-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="e0171-103">Taip yra dėl kelių skirtingų priežasčių, kodėl galite gauti šį klaidos.</span><span class="sxs-lookup"><span data-stu-id="e0171-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="e0171-104">Pavyzdžiui:</span><span class="sxs-lookup"><span data-stu-id="e0171-104">For example:</span></span>
-  
-- <span data-ttu-id="e0171-105">Patikrinti, ar galioja **atsiskaitymo** prenumeratą \> "Microsoft" 365 administravimo centro puslapį **prenumeratos** ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="e0171-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
-    
-- <span data-ttu-id="e0171-106">Tikrinti, ar visas nesumokėtas pranešimus į **atsiskaitymo** \> "Microsoft" 365 administravimo centro puslapį **sąskaitas** ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="e0171-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
-    
-- <span data-ttu-id="e0171-107">Jei neseniai atnaujintos atsiskaitymo ir prenumeratos abonemento, gali užtrukti laiko keisti platinti.</span><span class="sxs-lookup"><span data-stu-id="e0171-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="e0171-108">Pabandykite dar kartą po kelių minučių, o jei problema išlieka, susisiekite su mumis.</span><span class="sxs-lookup"><span data-stu-id="e0171-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
-    
+<span data-ttu-id="f2f62-103">Taip yra dėl kelių skirtingų priežasčių, kodėl galite gauti šį klaidos.</span><span class="sxs-lookup"><span data-stu-id="f2f62-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="f2f62-104">Pavyzdžiui:</span><span class="sxs-lookup"><span data-stu-id="f2f62-104">For example:</span></span>
 
+- <span data-ttu-id="f2f62-105">Patikrinti, ar galioja **atsiskaitymo** prenumeratą \> į ["Microsoft" 365 administravimo centro](https://portal.office.com/adminportal/home#/subscriptions)puslapį **prenumeratos** .</span><span class="sxs-lookup"><span data-stu-id="f2f62-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
+
+- <span data-ttu-id="f2f62-106">Tikrinti, ar visas nesumokėtas pranešimus į **atsiskaitymo** \> **sąskaitos** ["Microsoft 365" administravimo centro](https://portal.office.com/adminportal/home#/billoverview)puslapį.</span><span class="sxs-lookup"><span data-stu-id="f2f62-106">Check for any past due notifications in the **Billing** \> **Bills** page in the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/billoverview).</span></span>
+
+- <span data-ttu-id="f2f62-107">Jei neseniai atnaujintos atsiskaitymo ir prenumeratos abonemento, gali užtrukti laiko keisti platinti.</span><span class="sxs-lookup"><span data-stu-id="f2f62-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="f2f62-108">Pabandykite dar kartą po kelių minučių, o jei problema išlieka, susisiekite su mumis.</span><span class="sxs-lookup"><span data-stu-id="f2f62-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
