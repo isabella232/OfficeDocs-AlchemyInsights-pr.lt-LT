@@ -1,5 +1,5 @@
 ---
-title: Prašo Dynamics 365 palaikymas
+title: Pateikti „Dynamics 365“ palaikymo užklausą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404719"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767148"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>Prašo Dynamics 365 palaikymas
+# <a name="submit-dynamics-365-support-requests"></a>Pateikti „Dynamics 365“ palaikymo užklausą
 
-Jei esate klientas **Microsoft Dynamics klientų įtraukimą** pateikite savo bilietą per naują [energijos platforma administravimo centrą](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+Jei esate **„Microsoft Dynamics Customer Engagement“** klientas, pateikite kvitą naudodami naująjį [„Power“ platformos administravimo centrą](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-Naujasis portalas suteikia daugiau Tiesaus kelio į palaikymo, optimizuotą Dynamics klientų įtraukimą ir kitų galios platforma.
+Naujasis portalas suteikia tiesioginį kelią prie pagalbos ir palaikymo, jos pritaikytas „Dynamics Customer Engagement“ ir kitiems „Power“ platformos produktams.
   
 

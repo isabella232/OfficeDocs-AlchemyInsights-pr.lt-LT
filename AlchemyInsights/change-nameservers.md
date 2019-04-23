@@ -1,5 +1,5 @@
 ---
-title: Pakeisti vardų serveriai
+title: Vardų serverių keitimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405331"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754694"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Atnaujinti savo domeno vardų serveriai Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Domeno vardų serverių atnaujinimas į „Office 365“
 
-Pastaba: Vardų serverio pakeitimai kartais gali užtrukti iki 48 valandų skleisti.
+Pastaba. Vardų serverių pakeitimų išplatinimas kartais gali trukti iki 48 valandų.
   
-Norėdami nustatyti savo domeną "Office 365", vardų serveriai jūsų registratoriuje reikia atnaujinti. Kurti arba redaguoti jūsų vardų serverio įrašus domenų registratoriuje.
+Norėdami nustatyti domeną „Office 365“, būtina atnaujinti vardų serverius registratoriaus svetainėje. Sukurkite arba redaguokite vardų serverio įrašus domeno registratoriaus svetainėje.
   
-1. Eikite į savo domenų registratoriaus žiniatinklio svetainėje ir rasti sritis, kur galite redaguoti vardų serveriai.
+1. Eikite į domeno registratoriaus svetainę ir raskite sritį, kurioje galima redaguoti domeno vardų serverius.
     
-2. Kurti arba redaguoti dviejų vardų serverio įrašus, kad atitiktų šias reikšmes:
+2. Sukurkite arba redaguokite du vardų serverio įrašus, kad jie atitiktų šias reikšmes:
     
   - ns1.bdm.microsoftonline.com
     
   - ns2.bdm.microsoftonline.com
     
-3. Įrašyti keitimus.
+3. Įrašyti pakeitimus.
     
-Šiame straipsnyje rasite išsamius nurodymus: [pakeisti vardų serverių nustatyti "Office 365" su bet kuriuo domenų registratorių](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Šiame straipsnyje taip pat rasite išsamesnės informacijos: [Vardų serverių keitimas norint nustatyti „Office 365“ domenų registratorių](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

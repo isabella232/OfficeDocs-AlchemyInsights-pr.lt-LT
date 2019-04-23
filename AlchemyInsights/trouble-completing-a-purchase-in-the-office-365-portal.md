@@ -1,5 +1,5 @@
 ---
-title: Sunku užbaigti pirkimą "Office 365" portale
+title: Pirkimo „Office 365“ portale užbaigimo problemos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405151"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754766"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Sunku užbaigti pirkimą "Office 365" portale
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Pirkimo „Office 365“ portale užbaigimo problemos
 
-Bandant ką nors įsigyti, jei jūs buvote paraginti prisijungti prie "Office 365" portale kelis kartus, arba galite gauti pranešimą, kad problema buvo rastas, geriausias pirmasis žingsnis yra pabandyti naudoti naršyklės "InPrivate" / inkognito režimu. Atidarius "InPrivate" / inkognito langą, eikite į [portal.office.com](https://portal.office.com) svetainę ir prisijunkite naudodami administratoriaus kredencialus. Tada pereikite prie užbaigti pirkimą. 
+Jei bandant nusipirkti buvote paraginti kelis kartus prisijungti prie „Office 365“ portalo arba gavote pranešimą, kad yra trikčių, geriausia pirma pabandyti naudoti naršyklės režimą „InPrivate“ / „Incognito“. Kai atsidarys langas „InPrivate“ / Inkognito, eikite į svetainę [portal.office.com](https://portal.office.com) ir prisijunkite naudodami administratoriaus kredencialus. Tada pereikite prie pirkimo užbaigimo. 
   
 

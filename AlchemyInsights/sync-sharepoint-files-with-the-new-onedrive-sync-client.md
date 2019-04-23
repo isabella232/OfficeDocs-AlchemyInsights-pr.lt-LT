@@ -1,5 +1,5 @@
 ---
-title: Sinchronizuoti su nauja "OneDrive" sinchronizavimo klientas SharePoint failai
+title: „SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469031"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747354"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinchronizuoti su nauja "OneDrive" sinchronizavimo klientas SharePoint failai
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą
 
-1. Klasikinis SharePoint administravimo centrą, pasirinkite **Parametrai**.
+1. „SharePoint“ administravimo centre pasirinkite **Parametrai**.
     
-2. Įsitikinkite, kad "" OneDrive "sinchronizavimo mygtuką" nustatyti "Rodyti mygtuką Sync".
+2. Įsitikinkite, kad „OneDrive“ sinchronizavimo mygtukas nustatytas rodyti sinchronizavimo mygtuką. 
     
-3. "Sinchronizavimo klientas SharePoint," pasirinkite **pradėti naują klientą**.
+3. Norėdami sinchronizuoti „SharePoint“ klientą, pasirinkite **Paleisti naują klientą**.
     
     > [!NOTE]
-    > Jei ši parinktis nerodoma, jūsų organizacija jau nustatytas naudoti naują "OneDrive" sinchronizavimo klientas SharePoint failų. 
+    > Jei ši parinktis nerodoma, jūsų organizacija jau nustatyta naudoti naująjį „OneDrive“ sinchronizavimo klientą „SharePoint“ failams sinchronizuoti. 
   
 4. Spustelėkite **Gerai**.
     
-Daugiau informacijos rasite [leidžia vartotojams sinchronizuoti su nauja "OneDrive" sinchronizavimo klientas SharePoint failai](https://go.microsoft.com/fwlink/?linkid=866433). Nurodymai, kaip suteikti savo vartotojams, pamatysite [Naujas "OneDrive" sinchronizavimo klientas failų sinchronizavimo SharePoint](https://go.microsoft.com/fwlink/?linkid=866427).
+Daugiau informacijos žr. [Vartotojų įgalinimas sinchronizuoti „SharePoint“ failus naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866433). Daugiau instrukcijų, kurias galite pateikti vartotojams, žr. [„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

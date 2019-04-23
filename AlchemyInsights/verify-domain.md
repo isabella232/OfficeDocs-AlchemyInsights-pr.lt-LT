@@ -1,5 +1,5 @@
 ---
-title: Patikrinkite, ar domeno
+title: Patvirtinti domeną
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404863"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760418"
 ---
-# <a name="trying-to-verify-your-domain"></a>Bando patikrinti savo domeno?
+# <a name="trying-to-verify-your-domain"></a>Bandote patvirtinti domeną?
 
-Jums reikia pridėti TXT įrašą domenų registratoriaus įsitikinti, kad domenas priklauso jums. Sekite įtraukti domeną, spustelėdami **Parametrai** \> **, ir tada **Pridėti domenų****. 
+Jeigu norite patvirtinti, kad domenas priklauso jums, būtina įtraukti TXT įrašą į domeno registratorių. Vykdykite vediklio Įtraukti domeną veiksmus spustelėdami **Parametrai** \> **Domenas**, tada **Įtraukti domeną**. 
   
-Vykdykite nurodymus žemiau esančiame straipsnyje pridėti TXT įrašą, kad patikrinti savo domeno. Pasirinkite savo domeno registratoriaus už konkrečius nurodymus savo domeno.
+Atsižvelkite į tolesniame straipsnyje pateiktas instrukcijas, kad įtrauktumėte TXT įrašą siekdami patvirtinti domeną. Pasirinkite domeno registratorių, kad matytumėte konkrečias domeno instrukcijas.
   
-[DNS įrašų kūrimas "Office 365"](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[DNS įrašų kūrimas „Office 365“](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
