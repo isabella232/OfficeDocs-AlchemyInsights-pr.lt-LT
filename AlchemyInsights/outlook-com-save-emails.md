@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779169"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903744"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Įrašyti el. laiškus į "Outlook.com"
 
@@ -29,4 +29,4 @@ Jūs negalite išsaugoti el. laiškus į "Outlook.com", bet galite atsispausdint
 4. Pasirinkite **Spausdinti**.
 5. Įveskite failo vardą, tada pasirinkite **įrašyti**.
 
-**Pastaba:** Tai nėra rekomenduojama bendrai naudojamą arba viešąjį kompiuteriuose kaip kiti vartotojai gali turėti prieigą prie bet kurios PDF failus galite įrašyti į kompiuterį ir nepanaikinkite.
+**Pastaba:** Tai nėra rekomenduojama bendrai naudojamą arba viešąjį kompiuteriuose kaip kiti vartotojai gali turėti prieigą prie bet kurios PDF failus galite įrašyti į kompiuterį ir nenaikinkite.
