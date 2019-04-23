@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Savaitę nuo 2019 m. kovo 04
-
-
-| Paskelbta |Temos pavadinimą | Keisti |
-|------|------------|--------|
-| 3/4/2019 | 8000011 "Outlook.com" atkurti panaikintus el. laiškus | pridėta |
-| 3/4/2019 | [8000034 perskaitymo pažymos "Outlook.com"](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modifikuoto |
-| 3/4/2019 | [8000047 kaip sukurti el. laiško parašą "Outlook.com"](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | modifikuoto |
-| 3/4/2019 | [8000086 "Outlook.com" Įterpti vaizdą](/AlchemyInsights/80000860-outlook-com-insert-image) | pridėta |
-| 3/4/2019 | [8000087 "Outlook.com" spartieji klavišai](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | pridėta |
-| 3/4/2019 | [8000088 Išsaugoti el. laiškus į "Outlook.com"](/AlchemyInsights/8000088-outlook-com-save-emails) | modifikuoto |
-| 3/4/2019 | [8000089 "Outlook.com" saugi siuntėjų](/AlchemyInsights/8000089-outlook-com-safe-senders) | pridėta |
-| 3/4/2019 | 8000011 "Outlook.com" atkurti panaikintus el. laiškus | pašalinti |
-| 3/4/2019 | 1575-PowerApps ir "Microsoft" Flow plano pratęsimo | pridėta |
-| 3/4/2019 | [Pakeisti domeno "Office 365" grupės](/AlchemyInsights/change-domain-for-group) | pervardyti |
-| 3/4/2019 | [1575-PowerApps ir "Microsoft" Flow plano pratęsimo](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | pervardyti |
-| 3/4/2019 | [Įgalinti pasauliniuose autentifikavimas](/AlchemyInsights/enable-multifactor-authentication) | modifikuoto |
-| 3/4/2019 | [8000054 "Outlook.com" saugyklos limitas viršijamas](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | pridėta |
-| 3/4/2019 | [423 Org saugos - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | modifikuoto |
-| 3/4/2019 | [8000029 susidoroti su šlamštas arba sukčiavimas programoje "Outlook.com"](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modifikuoto |
-| 3/4/2019 | [Pašalinti domeno](/AlchemyInsights/remove-domain) | modifikuoto |
-| 3/4/2019 | [Įtraukti vartotojus į "Office 365"](/AlchemyInsights/add-users-to-office-365) | modifikuoto |
-| 3/4/2019 | [Ar jūs gaunate per daug šlamšto arba sukčiavimo atvejį į jūsų pašto dėžutę?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | modifikuoto |
-| 3/4/2019 | [Pakeisti vardų serveriai](/AlchemyInsights/change-nameservers) | modifikuoto |
-| 3/4/2019 | [Kurti programas, PowerApps](/AlchemyInsights/create-apps-in-powerapps) | modifikuoto |
-| 3/4/2019 | [Paprastasis migracija į "Office 365"](/AlchemyInsights/cutover-migrations-to-office-365) | modifikuoto |
-| 3/4/2019 | [Turintys el. pašto pristatymo klausimais?](/AlchemyInsights/having-email-delivery-issues-0) | modifikuoto |
-| 3/4/2019 | [Turintys el. pašto pristatymo klausimais?](/AlchemyInsights/having-email-delivery-issues) | modifikuoto |
-| 3/4/2019 | [Kaip pridėti kreditine kortele?](/AlchemyInsights/how-do-i-add-a-credit-card) | modifikuoto |
-| 3/4/2019 | [Kaip man atnaujinti savo kreditinės kortelės informaciją?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modifikuoto |
-| 3/4/2019 | [Kaip įdiegti "Office"](/AlchemyInsights/how-to-install-office) | modifikuoto |
-| 3/4/2019 | [El. pašto perkėlimas iš IMAP](/AlchemyInsights/migrate-email-from-imap) | modifikuoto |
-| 3/4/2019 | [Mokėjimo būdai](/AlchemyInsights/payment-options) | modifikuoto |
-| 3/4/2019 | [Rekomenduojamus veiksmus reikia atlikti, jei paskyra būtų pažeista](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modifikuoto |
-| 3/4/2019 | [Siuntėjo užblokuotas siuntimo per daug šlamšto](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | modifikuoto |
-| 3/4/2019 | [Prašo Dynamics 365 palaikymas](/AlchemyInsights/submit-dynamics-365-support-requests) | modifikuoto |
-| 3/4/2019 | [Domenas jau naudojamas](/AlchemyInsights/the-domain-is-already-in-use) | modifikuoto |
-| 3/4/2019 | [Sunku užbaigti pirkimą "Office 365" portale](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | modifikuoto |
-| 3/4/2019 | [Atnaujinti DNS įrašus](/AlchemyInsights/update-dns-records-0) | modifikuoto |
-| 3/4/2019 | [Atnaujinti DNS įrašus](/AlchemyInsights/update-dns-records) | modifikuoto |
-| 3/4/2019 | [Atnaujinti mokėjimo informaciją](/AlchemyInsights/update-payment-details) | modifikuoto |
-| 3/4/2019 | [Patikrinkite, ar domeno](/AlchemyInsights/verify-domain) | modifikuoto |
-| 3/4/2019 | [Nustatyti peradresavimą į kelis el. pašto adresus](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | modifikuoto |
-| 3/4/2019 | [Sprendžiant pagal "Nėra pripažintas domenas" klaida](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | modifikuoto |
-| 3/6/2019 | [1581 atidaryti ir naudotis bendrai naudojamos pašto dėžutės programoje "Outlook" žiniatinklyje](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | modifikuoto |
-| 3/6/2019 | [Komandos pamainos](/AlchemyInsights/1686-teams-shifts) | pridėta |
-| 3/6/2019 | [1703 reikalinga informacija apie komandas ir Polycom telefonai](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | pridėta |
-| 3/6/2019 | [Komandos PS modulis įdiegti ir nuoroda](/AlchemyInsights/1787-teams-ps-module-install-ref) | pridėta |
-| 3/6/2019 | [615 pasidalijimo tipus ir kaip juos nustatyti.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | modifikuoto |
-| 3/6/2019 | [Komandos Freemium](/AlchemyInsights/997-teams-freemium) | pridėta |
-| 3/6/2019 | [Ar turite teisėti laiškai nebūtų žymimi kaip šlamštas?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | modifikuoto |
-| 3/6/2019 | ["Microsoft" komandas](/AlchemyInsights/enable-microsoft-teams) | modifikuoto |
-| 3/6/2019 | [Jau įgalinote grupės savo studentams?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | modifikuoto |
-| 3/6/2019 | [Kaip iš naujo suaktyvinti prenumeratą](/AlchemyInsights/how-to-reactivate-a-subscription) | modifikuoto |
-| 3/6/2019 | Intune programėlės diegimas - taisyklė Id 991 | pašalinti |
-| 3/6/2019 | [Problema su "Skype" verslui?](/AlchemyInsights/issue-with-skype-for-business) | modifikuoto |
-| 3/6/2019 | ["Microsoft" komandos - svečio abonentą](/AlchemyInsights/microsoft-teamsguest-access) | modifikuoto |
-| 3/6/2019 | ["Microsoft" komandos - atkurti ištrintus komandos svetainę](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | modifikuoto |
-| 3/6/2019 | [Relės laišką per "Office 365"](/AlchemyInsights/relay-email-through-office-365) | modifikuoto |
-| 3/6/2019 | [Sinchronizuoti su nauja "OneDrive" sinchronizavimo klientas SharePoint failai](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | modifikuoto |
-| 3/6/2019 | [Atnaujinimas iki pilnos versijos "Microsoft" Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | modifikuoto |
-| 3/7/2019 | [8000064 "Outlook.com" pašto nepavyksta sinchronizuoti - ispanų](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | pridėta |
-| 3/7/2019 | [8000065 "Outlook.com" nepageidaujamo pašto šiukšlių - ispanų](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | pridėta |
-| 3/7/2019 | [8000066 - 1 taisyklės - "Outlook.com" nulaužė - ispanų](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | pridėta |
-| 3/7/2019 | [8000066 - 2 taisyklės - "Outlook.com" nulaužė - ispanų](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | pridėta |
-| 3/7/2019 | [8000067 - "Outlook.com" uždaryti paskyrą - ispanų](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | pridėta |
-| 3/7/2019 | [8000068 - "Outlook.com" įtraukti abonementą - ispanų](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | pridėta |
-| 3/7/2019 | [8000069 - "Outlook.com" blokuoti siuntėjas - ispanų](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | pridėta |
-| 3/7/2019 | [8000070 - "Outlook.com" negalima prisijungti - ispanų](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | pridėta |
-| 3/7/2019 | [Atkurti panaikintus vartotojo](/AlchemyInsights/restore-deleted-user) | modifikuoto |
-| 3/8/2019 | 8000043 POP, IMAP ir SMTP parametrai "Outlook.com" | pašalinti |
-| 3/8/2019 | [8000043 POP, IMAP ir SMTP parametrai "Outlook.com"](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | pervardyti |
-| 3/8/2019 | [8000071 "Outlook.com" nustatyti el. pašto sinchronizavimas - prancūzų](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | pridėta |
-| 3/8/2019 | [8000072 "Outlook.com" nepageidaujamo pašto - prancūzų](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | pridėta |
-| 3/8/2019 | [8000073 "Outlook.com" abonementą įsilaužta - prancūzų](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | pridėta |
-| 3/8/2019 | [8000074 "Outlook.com" uždaryti paskyrą - prancūzų](/AlchemyInsights/8000074-outlook-com-close-account-french) | pridėta |
-| 3/8/2019 | [8000075 "Outlook.com" slaptažodį - prancūzų](/AlchemyInsights/8000075-outlook-com-change-password-french) | pridėta |
-| 3/8/2019 | [8000076 "Outlook.com" blokuoti siuntėjas - prancūzų](/AlchemyInsights/8000076-outlook-com-block-sender-french) | pridėta |
-
-
 ## <a name="week-of-march-11-2019"></a>Savaitę nuo 2019 m. kovo 11
 
 
@@ -91,7 +11,7 @@
 | 3/12/2019 | 8000054 "Outlook.com" aplanką Gauta, įkėlimo ekrane. | pridėta |
 | 3/12/2019 | [8000078 "Outlook.com" aplanką Gauta, įkėlimo ekrane.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | pervardyti |
 | 3/12/2019 | [8000078 "Outlook.com" aplanką Gauta, įkėlimo ekrane.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modifikuoto |
-| 3/13/2019 | [Relės laišką per "Office 365"](/AlchemyInsights/relay-email-through-office-365) | modifikuoto |
+| 3/13/2019 | [Perdavimas el. paštu per „Office 365“](/AlchemyInsights/relay-email-through-office-365) | modifikuoto |
 | 3/14/2019 | [tas pats kaip failo vardas yra geriausia [taisyklė #-Aprašymas]](/AlchemyInsights/1-alchemy-insight-template) | modifikuoto |
 | 3/14/2019 | [Padidinti pašto dėžutės dydis](/AlchemyInsights/increase-mailbox-size) | modifikuoto |
 | 3/15/2019 | ["Outlook" darbalaukio atšaukti ar keisti el. paštu](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | pridėta |
@@ -134,7 +54,7 @@
 | 3/22/2019 | [Įtraukite vietų į iš anksto apmokėtos prenumeratos](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | modifikuoto |
 | 3/22/2019 | [1800018 pridėti/el. pašto abonementų nustatymas](/AlchemyInsights/add-set-up-email-accounts) | pervardyti |
 | 3/22/2019 | [764 pridėti/Setup pašto dėžutes](/AlchemyInsights/add-setup-email-accounts) | pervardyti |
-| 3/22/2019 | [Įtraukti vartotojus į "Office 365"](/AlchemyInsights/add-users-to-office-365) | modifikuoto |
+| 3/22/2019 | [Vartotojų įtraukimas į „Office 365“](/AlchemyInsights/add-users-to-office-365) | modifikuoto |
 | 3/22/2019 | [8000040 įtraukti "Outlook.com" abonementą į "Outlook" skirtą "Windows"](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | pervardyti |
 | 3/22/2019 | [713 pridėti papildomą el. pašto adresą į siuntimo sąrašą](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | pervardyti |
 | 3/22/2019 | [718 įtraukti išorinius kontaktus / žmonių ne organizacijos siuntimo sąrašą](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | pervardyti |
@@ -196,7 +116,7 @@
 | 3/22/2019 | [8000013 keisti šriftą programoje "Outlook.com"](/AlchemyInsights/change-font-in-outlook-com) | pervardyti |
 | 3/22/2019 | [Keisti, kaip dažnai Jūs mokate](/AlchemyInsights/change-how-often-you-pay) | modifikuoto |
 | 3/22/2019 | [8000010 pakeisti savo el. pašto adresą "Outlook.com"](/AlchemyInsights/change-my-email-address-in-outlook-com) | pervardyti |
-| 3/22/2019 | [Pakeisti vardų serveriai](/AlchemyInsights/change-nameservers) | modifikuoto |
+| 3/22/2019 | [Vardų serverių keitimas](/AlchemyInsights/change-nameservers) | modifikuoto |
 | 3/22/2019 | [Keisti "OneDrive" verslui saugyklos kvota](/AlchemyInsights/change-onedrive-for-business-storage-quota) | modifikuoto |
 | 3/22/2019 | [Keisti mokėjimo būdą](/AlchemyInsights/change-payment-method) | modifikuoto |
 | 3/22/2019 | [SharePoint sąrašo arba bibliotekos teisių keitimas](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | modifikuoto |
@@ -210,7 +130,7 @@
 | 3/22/2019 | [8000002 pakeisti slaptažodį į "Outlook.com"](/AlchemyInsights/change-your-password-in-outlook-com) | pervardyti |
 | 3/22/2019 | [8000036 pakeisti savo profilio vardą į "Outlook.com"](/AlchemyInsights/change-your-profile-name-in-outlook-com) | pervardyti |
 | 3/22/2019 | [Išorinių vartotojų prieigos pakeitimai](/AlchemyInsights/changes-to-external-user-access) | modifikuoto |
-| 3/22/2019 | [8000026 pasikeičia į "Outlook.com"](/AlchemyInsights/changes-to-outlook-com) | pervardyti |
+| 3/22/2019 | [8000026: „Outlook.com“ pokyčiai](/AlchemyInsights/changes-to-outlook-com) | pervardyti |
 | 3/22/2019 | [Keičiant viešojo aplanko teises](/AlchemyInsights/changing-public-folder-permissions) | modifikuoto |
 | 3/22/2019 | [Keisti bendrai naudojamą pašto dėžutę siųsti kaip elgesio](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modifikuoto |
 | 3/22/2019 | [Patikrinkite AAD tapatybės sinchronizavimo būsena](/AlchemyInsights/check-aad-identity-sync-status) | modifikuoto |
@@ -243,7 +163,7 @@
 | 3/22/2019 | [CTRL + H rodo rasti, neturėtų pakeisti į "Excel" 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | modifikuoto |
 | 3/22/2019 | [8000029 kovoti su sukčiavimo apsimetant "Outlook.com"](/AlchemyInsights/deal-with-phishing-in-outlook-com) | pervardyti |
 | 3/22/2019 | [8000029 kovoti su nepageidaujamu e. paštu į "Outlook.com"](/AlchemyInsights/deal-with-spam-in-outlook-com) | pervardyti |
-| 3/22/2019 | [8000029 susidoroti su šlamštas arba sukčiavimas programoje "Outlook.com"](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | pervardyti |
+| 3/22/2019 | [8000029: apsauga nuo pašto šiukšlių ir sukčiavimo apsimetant „Outlook.com“](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | pervardyti |
 | 3/22/2019 | [Atmestą kredito kortelės](/AlchemyInsights/declined-credit-card) | modifikuoto |
 | 3/22/2019 | [8000012 panaikinti kontaktą į "Outlook.com"](/AlchemyInsights/delete-a-contact-in-outlook-com) | pervardyti |
 | 3/22/2019 | [8000016 ištrinti aplanką programoje "Outlook.com"](/AlchemyInsights/delete-a-folder-in-outlook-com) | pervardyti |
@@ -384,7 +304,7 @@
 | 3/22/2019 | [Elementus perkelti į SharePoint dokumentų bibliotekoje](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | modifikuoto |
 | 3/22/2019 | [8000062 perkelti į "Outlook.com" aplanką](/AlchemyInsights/moving-a-folder-in-outlook-com) | pervardyti |
 | 3/22/2019 | [Bandė apmokestinti interneto mokėjimo priemonės](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | modifikuoto |
-| 3/22/2019 | [1703 reikalinga informacija apie komandas ir Polycom telefonai](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | pervardyti |
+| 3/22/2019 | [1703: reikia informacijos apie „Teams“ ir „Polycom“ telefonus](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | pervardyti |
 | 3/22/2019 | [122 reikia parašo kūrimas programoje "Outlook" internete?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | pervardyti |
 | 3/22/2019 | [8000037 nėra gavę elektroninį laišką į "Outlook.com"](/AlchemyInsights/not-receiving-email-in-outlook-com) | pervardyti |
 | 3/22/2019 | ["Office 365" verslo planus ir kainas](/AlchemyInsights/office-365-for-business-plans-and-pricing) | modifikuoto |
@@ -396,11 +316,11 @@
 | 3/22/2019 | [Vienas iš jūsų vietinio federacijos paslaugų sertifikatai nustos galioti](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | modifikuoto |
 | 3/22/2019 | ["OneDrive" saugykloje](/AlchemyInsights/onedrive-storage) | modifikuoto |
 | 3/22/2019 | [Failų naršyklę atidarykite SharePoint bibliotekoje](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | modifikuoto |
-| 3/22/2019 | [1581 atidaryti ir naudotis bendrai naudojamos pašto dėžutės programoje "Outlook" žiniatinklyje](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | pervardyti |
+| 3/22/2019 | [1581 Bendrinamos internetinės „Outlook“ pašto dėžutės atidarymas ir naudojimas](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | pervardyti |
 | 3/22/2019 | [Atidaryti naudojant Explorer mygtuką yra išjungtas](/AlchemyInsights/open-with-explorer-button-is-disabled) | modifikuoto |
 | 3/22/2019 | [Atidaryti naudojant Explorer mygtuką trūksta](/AlchemyInsights/open-with-explorer-button-missing) | modifikuoto |
 | 3/22/2019 | [Atidaryti naudojant "Internet Explorer" neveikia](/AlchemyInsights/open-with-explorer-doesn-t-work) | modifikuoto |
-| 3/22/2019 | [423 Org saugos - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | pervardyti |
+| 3/22/2019 | [423 organizacijos sauga – EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | pervardyti |
 | 3/22/2019 | [424 Org saugumo - šlamštas klaidingai teigiami](/AlchemyInsights/org-securityspam-false-positive) | pervardyti |
 | 3/22/2019 | [8000073 "Outlook.com" abonementą įsilaužta - prancūzų](/AlchemyInsights/outlook-com-account-hacked-french) | pervardyti |
 | 3/22/2019 | [8000039 "Outlook.com" paskyra nulaužė](/AlchemyInsights/outlook-com-account-hacked) | pervardyti |
@@ -504,3 +424,109 @@
 | 4/2/2019 | Svetainės ir turinio struktūrą, pašalinti | pridėta |
 | 4/2/2019 | Šalinti triktis klaida 404, Failas nerastas | pridėta |
 | 4/3/2019 | [Klaidos kodas 550 5.7.705 prieiga uždrausta, nuomininkas viršijo ribinę vertę](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modifikuoto |
+
+
+## <a name="week-of-april-08-2019"></a>Savaitę nuo 2019 m. balandžio 08
+
+
+| Paskelbta |Temos pavadinimą | Keisti |
+|------|------------|--------|
+| 4/9/2019 | [Perkelti el. laiškus į archyvo pašto dėžutę](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | modifikuoto |
+| 4/9/2019 | [Anoniminis dalintis](/AlchemyInsights/anonymous-sharing) | modifikuoto |
+| 4/9/2019 | [Patikrinkite kelis failus vienu metu](/AlchemyInsights/check-in-several-files-at-once) | modifikuoto |
+| 4/9/2019 | [Klasikinis SharePoint komandos svetainės prisijungti prie grupės](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | modifikuoto |
+| 4/9/2019 | [Sukurti svetainę, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modifikuoto |
+| 4/9/2019 | [Kurti svetainę](/AlchemyInsights/create-a-site) | pervardyti |
+| 4/9/2019 | [Naikinti SharePoint svetainės](/AlchemyInsights/delete-a-sharepoint-site-0) | modifikuoto |
+| 4/9/2019 | [Naikinti svetainės](/AlchemyInsights/delete-site-collection) | modifikuoto |
+| 4/9/2019 | [Klaidos pranešimas, kai failų bendrinimas](/AlchemyInsights/error-message-when-sharing-files) | modifikuoto |
+| 4/9/2019 | [Išorinis bendrinimas su komandos svetainę](/AlchemyInsights/external-sharing-with-a-team-site) | modifikuoto |
+| 4/9/2019 | [Kaip naudoti SharePoint Online terminų saugykloje](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | modifikuoto |
+| 4/9/2019 | [Tvarkyti ieškos žodynai SharePoint Online](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | modifikuoto |
+| 4/9/2019 | [Tvarkykite savo SharePoint arba "OneDrive" saugyklą](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | modifikuoto |
+| 4/9/2019 | [Atkurti ištrintus svetainė](/AlchemyInsights/restore-a-deleted-site-collection) | modifikuoto |
+| 4/9/2019 | [Atkurti panaikintus antrinės svetainės](/AlchemyInsights/restore-a-deleted-subsite) | modifikuoto |
+| 4/9/2019 | [Bendrinti failą ar aplanką SharePoint arba "OneDrive"](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | modifikuoto |
+| 4/9/2019 | [SharePoint saugykla](/AlchemyInsights/sharepoint-storage) | modifikuoto |
+| 4/9/2019 | [Dalintis su išoriniais vartotojais neveikia](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modifikuoto |
+| 4/9/2019 | [„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | modifikuoto |
+| 4/9/2019 | [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas dėl svetainės](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | modifikuoto |
+| 4/9/2019 | [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modifikuoto |
+| 4/9/2019 | [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modifikuoto |
+| 4/9/2019 | Šalinti triktis klaida 404, Failas nerastas | modifikuoto |
+| 4/9/2019 | [Įeiti į Project Web App svetainės](/AlchemyInsights/access-denied-to-a-project-online-site) | pridėta |
+| 4/9/2019 | [Projektas internete yra tik skaityti](/AlchemyInsights/project-online-is-in-a-read-only-state) | pridėta |
+| 4/9/2019 | [Nėra SharePoint svetainių rinkinio projekto Web App](/AlchemyInsights/project-web-app-missing-from-site-collection) | pridėta |
+| 4/12/2019 | [1048 5.7.750 tarnyba nepasiekiama. Kliento blokuojamas siuntimas iš neregistruota domenai](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modifikuoto |
+| 4/12/2019 | [713 pridėti papildomą el. pašto adresą į siuntimo sąrašą](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | modifikuoto |
+| 4/12/2019 | [718 įtraukti išorinius kontaktus / žmonių ne organizacijos siuntimo sąrašą](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | modifikuoto |
+| 4/12/2019 | [714 leidimas Išoriniams siuntėjams elektroninio pašto siuntimo sąrašai](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | modifikuoto |
+| 4/12/2019 | [717 leidimas vartotojams siųsti el. pašto siuntimo sąrašą](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | modifikuoto |
+| 4/12/2019 | [1049 antiSpam 4.5.3 per daug gavėjų (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | modifikuoto |
+| 4/12/2019 | [1051 antispam 4.7.500 prieiga uždrausta, bandykite dar kartą vėliau](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | modifikuoto |
+| 4/12/2019 | [1050 antispam 4.7.500 serveris užimtas. Bandykite dar kartą vėliau iš [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modifikuoto |
+| 4/12/2019 | [1047 antiSpam 550 5.7.708 tarnyba nepasiekiama. Prieiga uždrausta, nebuvo priimtas iš šio IP eismo](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modifikuoto |
+| 4/12/2019 | [500 programėlių slaptažodžiai](/AlchemyInsights/app-passwords) | modifikuoto |
+| 4/12/2019 | [726 blokavimas el. pašto persiuntimas](/AlchemyInsights/blocking-email-forwarding) | modifikuoto |
+| 4/12/2019 | [763 blokuoja Exchange Online "PowerShell" prieigos vartotojams](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | modifikuoto |
+| 4/12/2019 | [608 kalendoriaus informaciją Hibridinės konfigūracijos](/AlchemyInsights/calendar-information-on-hybrid-setups) | modifikuoto |
+| 4/12/2019 | [613 kalendoriaus informacijos publikavimo](/AlchemyInsights/calendar-publishing-information) | modifikuoto |
+| 4/12/2019 | [618 kalendoriaus bendrinimo strategijos](/AlchemyInsights/calendar-sharing-policy) | modifikuoto |
+| 4/12/2019 | [398 kalendorius - užsakymas](/AlchemyInsights/calendarbooking) | modifikuoto |
+| 4/12/2019 | [399 kalendorius - atstovas](/AlchemyInsights/calendardelegate) | modifikuoto |
+| 4/12/2019 | [400 kalendorius - FreeBusy](/AlchemyInsights/calendarfreebusy) | modifikuoto |
+| 4/12/2019 | [402 kalendorius - O365Groups](/AlchemyInsights/calendaro365groups) | modifikuoto |
+| 4/12/2019 | [1081 kalendorius - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | modifikuoto |
+| 4/12/2019 | [912 konfigūruoti kryptingai gauta kiekvienam jūsų organizacijoje](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | modifikuoto |
+| 4/12/2019 | [761 jungiamasi prie Exchange Online "PowerShell" Įgalinus URM](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | modifikuoto |
+| 4/12/2019 | [760 jungiantis keistis internete "PowerShell"](/AlchemyInsights/connecting-to-exchange-online-powershell) | modifikuoto |
+| 4/12/2019 | [712, perskaičiuoti siuntimo sąrašą į "Office 365" grupę](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | modifikuoto |
+| 4/12/2019 | [Kurti paskirstymo sąrašą arba grupės 711](/AlchemyInsights/creating-a-distribution-list-or-group) | modifikuoto |
+| 4/12/2019 | [744 kūrimas vartotojams, kai organizacija yra hibridinis režimas](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | modifikuoto |
+| 4/12/2019 | [743 kūrimas vartotojams be licencijos](/AlchemyInsights/creating-users-without-a-license) | modifikuoto |
+| 4/12/2019 | [1065 EOP nuteistųjų siuntimo IP adresas rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | modifikuoto |
+| 4/12/2019 | [1314 dubliuoti objekto atkūrimo](/AlchemyInsights/duplicate-object-remediation) | modifikuoto |
+| 4/12/2019 | [934 Įgalinti POP ir IMAP abonementai](/AlchemyInsights/enable-pop-and-imap-accounts) | modifikuoto |
+| 4/12/2019 | [Klaidos kodas 550 5.7.501 prieiga uždrausta, šlamštas piktnaudžiavimo aptiktas](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | modifikuoto |
+| 4/12/2019 | [Klaidos kodas 550 5.7.705 prieiga uždrausta, nuomininkas viršijo ribinę vertę](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modifikuoto |
+| 4/12/2019 | [126 gauti pa to dė˛utės nepavyksta rasti klaida OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | modifikuoto |
+| 4/12/2019 | [127 gauti TenantAccessBlockedException klaida, kai prieiga prie el. pašto?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modifikuoto |
+| 4/12/2019 | [646 kaip sukonfigūruoti AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | modifikuoto |
+| 4/12/2019 | [955 kaip sukonfigūruoti DTS](/AlchemyInsights/how-to-configure-mfa) | modifikuoto |
+| 4/12/2019 | [614 kaip sukurti ir valdyti pašto dėžutės](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | modifikuoto |
+| 4/12/2019 | [401 hibridas - FreeBusy](/AlchemyInsights/hybridfreebusy) | modifikuoto |
+| 4/12/2019 | [929 gauta taisyklių deflectTransport taisyklės](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | modifikuoto |
+| 4/12/2019 | [922 aplanko Gauta taisykles](/AlchemyInsights/inbox-rules) | modifikuoto |
+| 4/12/2019 | [Padidinti EWS užklausų buferizavimas pašto migracijos ribos](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | pridėta |
+| 4/12/2019 | [1264 IP blokuoja siuntimo per daug šiukšlių (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | modifikuoto |
+| 4/12/2019 | [322 problemos, kai vartotojas yra kyla problemų siunčiant](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | modifikuoto |
+| 4/12/2019 | [321 problemos, kai vartotojas negauna el. pašto](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | modifikuoto |
+| 4/12/2019 | [323 vilkinima el. pašto problemos](/AlchemyInsights/issues-with-delays-in-email) | modifikuoto |
+| 4/12/2019 | [324 problemų su email(s) vyksta į neteisingą vietą](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | modifikuoto |
+| 4/12/2019 | [898 susipažinti su išoriniais kalendoriaus bendrinimo parinktis](/AlchemyInsights/learn-about-external-calendar-sharing-options) | modifikuoto |
+| 4/12/2019 | [617 sužinoti apie išorinio bendrinimo parinktis](/AlchemyInsights/learn-about-external-sharing-options) | modifikuoto |
+| 4/12/2019 | [610 Sužinokite apie "Office 365" grupes](/AlchemyInsights/learn-about-office-365-groups) | modifikuoto |
+| 4/12/2019 | [612 sužinoti kaip apie kalendorius ir viešuosius aplankus](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | modifikuoto |
+| 4/12/2019 | [603 Sužinokite, kaip nustatyti darbotvarkę parametrus](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | modifikuoto |
+| 4/12/2019 | [723 padaryti el. pašto adreso pseudonimą, elektroninio pašto adresas, kad vartotojas](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | modifikuoto |
+| 4/12/2019 | [597 "Microsoft" užsakymų programa](/AlchemyInsights/microsoft-bookings-app) | modifikuoto |
+| 4/12/2019 | [973 migracijos StalledDueTo * taisykle](/AlchemyInsights/migration-stalleddueto-rule) | modifikuoto |
+| 4/12/2019 | [1581 Bendrinamos internetinės „Outlook“ pašto dėžutės atidarymas ir naudojimas](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | modifikuoto |
+| 4/12/2019 | [423 organizacijos sauga – EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | modifikuoto |
+| 4/12/2019 | [424 Org saugumo - šlamštas klaidingai teigiami](/AlchemyInsights/org-securityspam-false-positive) | modifikuoto |
+| 4/12/2019 | [1332 OWA - aplankui Gauta yra ne vykdančiajai pašto dėžutės](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modifikuoto |
+| 4/12/2019 | [182 vykdykite SaRA diagnozuoti &amp; išspręsti Outlook autentiškumo klausimus](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modifikuoto |
+| 4/12/2019 | [412 politikos klaidos, kai bendrinate kalendorių](/AlchemyInsights/policy-error-when-sharing-calendar) | modifikuoto |
+| 4/12/2019 | [408 RBA](/AlchemyInsights/rba) | modifikuoto |
+| 4/12/2019 | [1336 RecoverableItems aplankas yra visiškai](/AlchemyInsights/recoverableitems-folder-is-full) | modifikuoto |
+| 4/12/2019 | [1374 išspręsti dvi dėžutes howto](/AlchemyInsights/resolve-two-mailboxes-howto) | modifikuoto |
+| 4/12/2019 | [924 taisyklė apriboja](/AlchemyInsights/rule-limits) | modifikuoto |
+| 4/12/2019 | [414 paieškos patirtį, atnaujinta](/AlchemyInsights/search-experience-updated) | modifikuoto |
+| 4/12/2019 | [902 (sinchronizavimo klaidų dėl pasikartojančių objektų)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | modifikuoto |
+| 4/12/2019 | [Bandomąją "Office 365" nuomininkas, Spamhaus užblokuotas](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | modifikuoto |
+| 4/12/2019 | [911 išjungus daugiausia gauta kliento](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | modifikuoto |
+| 4/12/2019 | [615 bendrinimo tipai ir kaip juos nustatyti.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | modifikuoto |
+| 4/12/2019 | [413 supratimą darbotvarkės paštas](/AlchemyInsights/understanding-agenda-mail) | modifikuoto |
+| 4/12/2019 | [932 atnaujinimas AADConnect](/AlchemyInsights/upgrading-aadconnect) | modifikuoto |
+| 4/12/2019 | [725 naudojant el. pašto pseudonimas mobiliajame įrenginyje](/AlchemyInsights/using-email-alias-on-mobile-device) | modifikuoto |
+| 4/12/2019 | [1554 Winsock klaida 10061](/AlchemyInsights/winsock-error-10061) | modifikuoto |
