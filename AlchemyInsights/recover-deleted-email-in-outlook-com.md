@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773744"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980638"
 ---
 # <a name="recover-deleted-email"></a>Atkurti panaikintus el. paštas
 
@@ -26,7 +26,7 @@ ms.locfileid: "30773744"
   
  **Pastaba**: jei žymite visas jei visi pranešimai yra matomas. Taip siekiama išvengti atsitiktinio veiksmus su žinutėmis, jūs negalite matyti. **CTRL + spustelėkite** pasirenka atskirus pranešimus, **SHIFT + SPUSTELĖJIMAS** pasirenka viską, tarp dviejų paspaudimų. 
     
-3. Jei pranešimas nėra panaikinta, pasirinkite **Atkurti panaikintus elementus** lango viršuje. 
+3. Jei pranešimas nėra panaikinta, pasirinkite **atkurti elementus panaikinti šio aplanko** lango viršuje. 
     
  **Svarbi informacija apie panaikintus elementus:**
   
