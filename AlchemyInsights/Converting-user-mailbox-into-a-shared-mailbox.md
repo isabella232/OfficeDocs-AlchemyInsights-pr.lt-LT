@@ -10,11 +10,11 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906740"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374331"
 ---
 Tik galite konvertuoti vartotojo pašto dėžutės bendrinamos pašto dėžutės jei vartotojas turi keistis licenciją. Konvertavus į pašto dėžutę, ji ir toliau bus rodomi į aktyvių vartotojų sąrašą, nes tame sąraše yra bendrai naudojamos pašto dėžutės. Vis dėlto konvertuoti pašto dėžutės taip pat pasirodys sąraše bendrai naudojamos pašto dėžutės. 
   
