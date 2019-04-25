@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
 ms.openlocfilehash: b1e91d783e620a65ba5af533f067da55912fb269
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763764"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407364"
 ---
-# <a name="create-a-shared-mailbox"></a>Sukurti bendrai naudojamą pašto dėžutę
+# <a name="create-a-shared-mailbox"></a>Bendrinamos pašto dėžutės kūrimas
 
 Bendrinamos pašto dėžutės leidžia keliems asmenims siųsti ir gauti el. pašto adreso pseudonimą, pavyzdžiui, sales@contoso.com, nepriskirdami kitą licenciją. Norėdami sukurti bendrai naudojamos pašto dėžutės, eikite į [Bendrai naudojamą pašto vadovas](https://portal.office.com/adminportal/home).
   
