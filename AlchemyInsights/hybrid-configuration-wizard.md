@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
 ms.openlocfilehash: bc5fe90eda19c500b947fdde91a395805a1feee0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940970"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417018"
 ---
-# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="fdb51-102">Hibridinių konfigūravimo vedlį</span><span class="sxs-lookup"><span data-stu-id="fdb51-102">Hybrid Configuration wizard</span></span>
+# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="d200b-102">Hibridinių konfigūravimo vedlį</span><span class="sxs-lookup"><span data-stu-id="d200b-102">Hybrid Configuration wizard</span></span>
 
-<span data-ttu-id="fdb51-p101">Hibridinės konfigūracijos vedlys yra programa, kuri padeda jums nustatyti naują hibridinę įdiegtį tarp jūsų vietinėje "Exchange" organizacijoje ir Office 365. Jei jau turite sukurti hibridinę įdiegtį, vedlys padeda jums atnaujinti savo hibridinių diegimo parametrus. Norėdami gauti daugiau informacijos, patikrinkite:</span><span class="sxs-lookup"><span data-stu-id="fdb51-p101">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365. If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings. For more information, check out:</span></span>
+<span data-ttu-id="d200b-103">Hibridinės konfigūracijos vedlys yra programa, kuri padeda jums nustatyti naują hibridinę įdiegtį tarp jūsų vietinėje "Exchange" organizacijoje ir Office 365.</span><span class="sxs-lookup"><span data-stu-id="d200b-103">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365.</span></span> <span data-ttu-id="d200b-104">Jei jau turite sukurti hibridinę įdiegtį, vedlys padeda jums atnaujinti savo hibridinių diegimo parametrus.</span><span class="sxs-lookup"><span data-stu-id="d200b-104">If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings.</span></span> <span data-ttu-id="d200b-105">Norėdami gauti daugiau informacijos, patikrinkite:</span><span class="sxs-lookup"><span data-stu-id="d200b-105">For more information, check out:</span></span>
   
-- [<span data-ttu-id="fdb51-106">Vykdyti hibridinių konfigūravimo vedlį</span><span class="sxs-lookup"><span data-stu-id="fdb51-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="d200b-106">Vykdyti hibridinių konfigūravimo vedlį</span><span class="sxs-lookup"><span data-stu-id="d200b-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="fdb51-107">Hibridinių konfigūravimo vedlį</span><span class="sxs-lookup"><span data-stu-id="fdb51-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="d200b-107">Hibridinių konfigūravimo vedlį</span><span class="sxs-lookup"><span data-stu-id="d200b-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="fdb51-108">Hibridinės konfigūracijos vedlys DUK</span><span class="sxs-lookup"><span data-stu-id="fdb51-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="d200b-108">Hibridinės konfigūracijos vedlys DUK</span><span class="sxs-lookup"><span data-stu-id="d200b-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
     
 
