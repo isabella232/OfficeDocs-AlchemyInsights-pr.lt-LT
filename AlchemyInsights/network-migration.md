@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904688"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417703"
 ---
 # <a name="network-migration"></a>Tinklo migracijos
 
@@ -31,6 +31,6 @@ Atkreipkite dėmesį:
   
 - **Tinklo migracijos migruoja tik aktyvios ir kol vartotojai.** Kartu su aktyvių vartotojų, naudotojų informaciją, pvz., vardas ir profilio nuotrauka, taip pat perkelti. Tinklo turinio, įskaitant grupes, yra perkelti. 
     
-- **Migracijos tinklas negali būti atstatomi.** Jums nebus suteikta galimybė naudotis savo dukterinių įmonių tinklo ir jo turinys po perkėlimo. Taigi, prieš tai perkėlimą, jūs norite atid iai planuoti. 
+- **Tinklo migracijos atšaukti negalima.** Jums nebus suteikta galimybė naudotis savo dukterinių įmonių tinklo ir jo turinys po perkėlimo. Taigi, prieš tai perkėlimą, jūs norite atid iai planuoti. 
     
 
