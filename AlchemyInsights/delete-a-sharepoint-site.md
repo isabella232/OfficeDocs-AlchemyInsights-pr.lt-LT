@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935609"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405632"
 ---
 # <a name="delete-a-sharepoint-site"></a>Naikinti SharePoint svetainės
 **Naikinti svetainės naują SharePoint administravimo centrą** Naudodami naują SharePoint administravimo centro, naikina tiek klasikinių ir modernių interneto svetainių. Pasirinkite **aktyvus svetaines**, pasirinkite svetainę ir pasirinkite **Naikinti**. [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), pasirinkite **ištrinti svetainių**. Daugiau informacijos rasite [Naikinti naują SharePoint administravimo centro svetainės](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
