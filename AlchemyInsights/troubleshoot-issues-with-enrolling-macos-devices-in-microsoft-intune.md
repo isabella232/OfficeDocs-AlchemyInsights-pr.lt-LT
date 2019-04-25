@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.openlocfilehash: 787037983d026fa159fc64f2f0bfc283462c291e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941228"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420277"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a><span data-ttu-id="b8e3b-102">Šalinkite triktis naudodami mokosi macOS įrenginius sistemoje Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b8e3b-102">Troubleshoot issues with enrolling macOS devices in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a><span data-ttu-id="a116a-102">Šalinkite triktis naudodami mokosi macOS įrenginius sistemoje Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="a116a-102">Troubleshoot issues with enrolling macOS devices in Microsoft Intune</span></span>
 
-<span data-ttu-id="b8e3b-103">Peržiūrėkite žemiau siekiama išspręsti jūsų problemą dabar ištekliai.</span><span class="sxs-lookup"><span data-stu-id="b8e3b-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="a116a-103">Peržiūrėkite žemiau siekiama išspręsti jūsų problemą dabar ištekliai.</span><span class="sxs-lookup"><span data-stu-id="a116a-103">Review the resources listed below to resolve your issue now.</span></span> 
   
-1. <span data-ttu-id="b8e3b-p101">Naudoti [Intune trikčių šalinimo portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendras registracijos nesėkmių. Peržiūrėti daugiau informacijos [šiame dokumente](https://docs.microsoft.com/intune/help-desk-operators) .</span><span class="sxs-lookup"><span data-stu-id="b8e3b-p101">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+1. <span data-ttu-id="a116a-104">Naudoti [Intune trikčių šalinimo portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendras registracijos nesėkmių.</span><span class="sxs-lookup"><span data-stu-id="a116a-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="a116a-105">Peržiūrėti daugiau informacijos [šiame dokumente](https://docs.microsoft.com/intune/help-desk-operators) .</span><span class="sxs-lookup"><span data-stu-id="a116a-105">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-2. <span data-ttu-id="b8e3b-106">Peržiūrėti [šį dokumentą](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) bendrosios klaidos, kurios neleis registracijos ir rezoliucijas į kiekvieną sąrašą.</span><span class="sxs-lookup"><span data-stu-id="b8e3b-106">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+2. <span data-ttu-id="a116a-106">Peržiūrėti [šį dokumentą](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) bendrosios klaidos, kurios neleis registracijos ir rezoliucijas į kiekvieną sąrašą.</span><span class="sxs-lookup"><span data-stu-id="a116a-106">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-3. <span data-ttu-id="b8e3b-107">[Išmokite registruotis macOS įrenginius sistemoje Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span><span class="sxs-lookup"><span data-stu-id="b8e3b-107">[Learn how to enroll macOS devices in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span></span>
+3. <span data-ttu-id="a116a-107">[Išmokite registruotis macOS įrenginius sistemoje Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span><span class="sxs-lookup"><span data-stu-id="a116a-107">[Learn how to enroll macOS devices in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span></span>
     
-[<span data-ttu-id="b8e3b-108">Patikrinti galutinio vartotojo vadovas registruotis macOS įrenginį į Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b8e3b-108">Check out end-user guide to enroll macOS device in Microsoft Intune</span></span>](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[<span data-ttu-id="a116a-108">Patikrinti galutinio vartotojo vadovas registruotis macOS įrenginį į Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="a116a-108">Check out end-user guide to enroll macOS device in Microsoft Intune</span></span>](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
 
