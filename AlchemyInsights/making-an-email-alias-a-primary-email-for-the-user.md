@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: 723
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
 ms.openlocfilehash: fcd588428ef75efa81763f1fa418304e692a7b5c
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859040"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409374"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="a4f1f-102">Padaryti pagrindinį adresą vartotojo el. pašto adreso pseudonimą</span><span class="sxs-lookup"><span data-stu-id="a4f1f-102">Make an email alias the primary address for a user</span></span>
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="07b24-102">Padaryti pagrindinį adresą vartotojo el. pašto adreso pseudonimą</span><span class="sxs-lookup"><span data-stu-id="07b24-102">Make an email alias the primary address for a user</span></span>
 
-<span data-ttu-id="a4f1f-103">Instrukcijų ieškokite [Įtraukti kitą el. pašto pseudonimas vartotojui](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span><span class="sxs-lookup"><span data-stu-id="a4f1f-103">For instructions, see [Add another email alias for a user](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span></span>
+<span data-ttu-id="07b24-103">Instrukcijų ieškokite [Įtraukti kitą el. pašto pseudonimas vartotojui](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span><span class="sxs-lookup"><span data-stu-id="07b24-103">For instructions, see [Add another email alias for a user](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span></span>
 
-<span data-ttu-id="a4f1f-104">**Pastaba**: jei jūsų organizacija yra hibridinis režimas, jums reikia pakeisti elektroninio pašto adresą į jūsų vietinėje "Exchange" organizacijoje.</span><span class="sxs-lookup"><span data-stu-id="a4f1f-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="a4f1f-105">Daugiau informacijos rasite [pridėti arba šalinti el. pašto adresai pašto dėžutės](https://technet.microsoft.com/library/bb123794.aspx).</span><span class="sxs-lookup"><span data-stu-id="a4f1f-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
+<span data-ttu-id="07b24-104">**Pastaba**: jei jūsų organizacija yra hibridinis režimas, jums reikia pakeisti elektroninio pašto adresą į jūsų vietinėje "Exchange" organizacijoje.</span><span class="sxs-lookup"><span data-stu-id="07b24-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="07b24-105">Daugiau informacijos rasite [pridėti arba šalinti el. pašto adresai pašto dėžutės](https://technet.microsoft.com/library/bb123794.aspx).</span><span class="sxs-lookup"><span data-stu-id="07b24-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
