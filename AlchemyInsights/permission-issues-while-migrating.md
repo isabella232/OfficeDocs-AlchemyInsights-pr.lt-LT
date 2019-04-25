@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.openlocfilehash: 3f420a0f930ccb227ad6d2b4b88a9726627bbdb7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932336"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372208"
 ---
-# <a name="permissions-issues-while-migrating"></a><span data-ttu-id="a6935-102">Teisės klausimais, o perėjimas</span><span class="sxs-lookup"><span data-stu-id="a6935-102">Permissions issues while migrating</span></span>
+# <a name="permissions-issues-while-migrating"></a><span data-ttu-id="832c2-102">Teisės klausimais, o perėjimas</span><span class="sxs-lookup"><span data-stu-id="832c2-102">Permissions issues while migrating</span></span>
 
-<span data-ttu-id="a6935-103">Informacijos dėl bendrų teisių problemų perkeliant į SharePoint Online ieškokite [suprasti teises ir perkėlimo įrankis SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)</span><span class="sxs-lookup"><span data-stu-id="a6935-103">For information regarding common permission issues during migration to SharePoint Online, see [Understanding Permissions and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)</span></span>
+<span data-ttu-id="832c2-103">Informacijos dėl bendrų teisių problemų perkeliant į SharePoint Online ieškokite [suprasti teises ir perkėlimo įrankis SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)</span><span class="sxs-lookup"><span data-stu-id="832c2-103">For information regarding common permission issues during migration to SharePoint Online, see [Understanding Permissions and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)</span></span>
   
 
