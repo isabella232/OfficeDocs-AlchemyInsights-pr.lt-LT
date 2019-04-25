@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Savaitę nuo 2019 m. kovo 11
-
-
-| Paskelbta |Temos pavadinimą | Keisti |
-|------|------------|--------|
-| 3/12/2019 | 8000054 "Outlook.com" aplanką Gauta, įkėlimo ekrane. | pridėta |
-| 3/12/2019 | [8000078 "Outlook.com" aplanką Gauta, įkėlimo ekrane.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | pervardyti |
-| 3/12/2019 | [8000078 "Outlook.com" aplanką Gauta, įkėlimo ekrane.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modifikuoto |
-| 3/13/2019 | [Perdavimas el. paštu per „Office 365“](/AlchemyInsights/relay-email-through-office-365) | modifikuoto |
-| 3/14/2019 | [tas pats kaip failo vardas yra geriausia [taisyklė #-Aprašymas]](/AlchemyInsights/1-alchemy-insight-template) | modifikuoto |
-| 3/14/2019 | [Padidinti pašto dėžutės dydis](/AlchemyInsights/increase-mailbox-size) | modifikuoto |
-| 3/15/2019 | ["Outlook" darbalaukio atšaukti ar keisti el. paštu](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | pridėta |
-
-
 ## <a name="week-of-march-18-2019"></a>Savaitę, kovo 18, 2019
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 atnaujinimas AADConnect](/AlchemyInsights/upgrading-aadconnect) | modifikuoto |
 | 4/12/2019 | [725 naudojant el. pašto pseudonimas mobiliajame įrenginyje](/AlchemyInsights/using-email-alias-on-mobile-device) | modifikuoto |
 | 4/12/2019 | [1554 Winsock klaida 10061](/AlchemyInsights/winsock-error-10061) | modifikuoto |
+
+
+## <a name="week-of-april-15-2019"></a>2019 balandžio 15 savaitė
+
+
+| Paskelbta |Temos pavadinimą | Keisti |
+|------|------------|--------|
+| 4/15/2019 | [Alchemija - diagnozuoti ir išspręsti "Outlook" jungiamumo problemos](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modifikuoto |
+| 4/15/2019 | [Alchemija - atkurti savo "Outlook" profilį](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modifikuoto |
+| 4/15/2019 | [DLP gali prireikti pasirinktinį tipas](/AlchemyInsights/dlp-might-need-custom-type) | pridėta |
+| 4/15/2019 | [DLP, neveikia kaip tikėtasi](/AlchemyInsights/dlp-not-working-as-expected) | modifikuoto |
+| 4/15/2019 | [DLP strategijos patarimai neveikia](/AlchemyInsights/dlp-policy-tips-not-working) | modifikuoto |
+| 4/15/2019 | ["Outlook.com" klaida 550](/AlchemyInsights/outlook-com-error-550) | pridėta |
+| 4/15/2019 | ["Outlook.com" viršyta kvota](/AlchemyInsights/outlook-com-over-quota) | pridėta |
+| 4/15/2019 | ["Skype" Outlook.com "pašalinti"](/AlchemyInsights/outlook-com-remove-skype-rule-1) | pridėta |
+| 4/15/2019 | ["Skype" Outlook.com "pašalinti"](/AlchemyInsights/outlook-com-remove-skype-rule-2) | pridėta |
+| 4/15/2019 | [182 vykdykite SaRA diagnozuoti &amp; išspręsti Outlook autentiškumo klausimus](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modifikuoto |
+| 4/16/2019 | [9000233 "Outlook.com" PIN](/AlchemyInsights/outlook-com-pin) | modifikuoto |
+| 4/16/2019 | ["Skype" Outlook.com "pašalinti"](/AlchemyInsights/outlook-com-remove-skype-rule-1) | modifikuoto |
+| 4/16/2019 | [8000088 Išsaugoti el. laiškus į "Outlook.com"](/AlchemyInsights/outlook-com-save-emails) | modifikuoto |
+| 4/16/2019 | [8000052 pridėti failus naudodami "Outlook.com"](/AlchemyInsights/attach-files-in-outlook-com) | modifikuoto |
+| 4/16/2019 | [8000015 blokuoti arba neblokuoti siuntėjai](/AlchemyInsights/block-or-unblock-senders) | modifikuoto |
+| 4/16/2019 | [8000014 kaip pakeisti kalbą į "Outlook.com"](/AlchemyInsights/how-to-change-language-in-outlook-com) | modifikuoto |
+| 4/16/2019 | [8000059 kaip pakeisti maketą](/AlchemyInsights/how-to-change-your-layout) | modifikuoto |
+| 4/16/2019 | [8000033 kaip atsakyti į arba persiųsti laiškus į "Outlook.com" beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modifikuoto |
+| 4/16/2019 | [8000055 kaip prisijungti į arba iš "Outlook.com"](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | modifikuoto |
+| 4/16/2019 | [8000062 perkelti į "Outlook.com" aplanką](/AlchemyInsights/moving-a-folder-in-outlook-com) | modifikuoto |
+| 4/16/2019 | [Auto-taikyti jautrumo etiketės](/AlchemyInsights/auto-apply-sensitivity-labels) | pridėta |
+| 4/16/2019 | [Nėra rodomi jautrumo ženklai](/AlchemyInsights/sensitivity-labels-not-appearing) | pridėta |
+| 4/16/2019 | [Naujos saugojimo etiketėms, automatiškai](/AlchemyInsights/new-retention-labels-created-automatically) | pridėta |
+| 4/16/2019 | [SharePoint ir OneDrive audito žurnalai](/AlchemyInsights/classic-sharepoint-audit-log-reports) | pridėta |
+| 4/16/2019 | [Nustatyti ištrinti pranešimą įvykių audito žurnalai](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | pridėta |
+| 4/16/2019 | [Nustatyti išorinės pašto persiuntimo pašto dėžučių audito žurnaluose](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | pridėta |
+| 4/16/2019 | [Nustatyti aplanko Gauta taisyklę veiklos audito žurnaluose](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | pridėta |
+| 4/16/2019 | [Nustatyti IP adresą ir kliento audito žurnaluose](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | pridėta |
+| 4/16/2019 | [Remonto .pst failą prieš importuodami](/AlchemyInsights/repair-pst-before-importing) | pridėta |
+| 4/16/2019 | [Klasikinis SharePoint audito žurnalų ataskaitos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | pridėta |
+| 4/16/2019 | [Klasikinis SharePoint audito žurnalų ataskaitos](/AlchemyInsights/classic-sharepoint-audit-log-reports) | modifikuoto |
+| 4/16/2019 | [Nustatyti išorinės pašto persiuntimo pašto dėžučių audito žurnaluose](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modifikuoto |
+| 4/16/2019 | [Nustatyti aplanko Gauta taisyklę veiklos audito žurnaluose](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modifikuoto |
+| 4/16/2019 | [Klasikinis SharePoint audito žurnalų ataskaitos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modifikuoto |
+| 4/17/2019 | [El. pašto pristatymo problemų sprendimas į pašto viešųjų aplankų](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | pridėta |
+| 4/17/2019 | [Komandos pamainos](/AlchemyInsights/teams-shifts) | modifikuoto |
+| 4/18/2019 | [8000011 atkurti panaikintus el. laiškus į "Outlook.com"](/AlchemyInsights/recover-deleted-email-in-outlook-com) | modifikuoto |
