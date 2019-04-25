@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: 607
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
 ms.openlocfilehash: 59ebad4c8b5f26c6e75103f1a611f360af62f091
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786554"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401048"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Matyti kalendoriaus užimtumo informacijos klausimais
 
-Jei jūs negalite matyti kalendoriaus užimtumo informacijos – kiti vadovai arba kiti matys laisvas/užsiėmęs informaciją savo kalendoriuje, naudokite ["Microsoft" palaikymo ir atkūrimo asistentas "Office 365"](https://diagnostics.office.com/).
+Jei nematote kalendoriaus užimtumo informacijos kitų kalendoriuose arba kiti žmonės negali matyti užimtumo informacijos jūsų kalendoriuje, naudokite [„Microsoft Office 365“ palaikymo ir atkūrimo pagalbinę priemonę](https://diagnostics.office.com/).
   
 
