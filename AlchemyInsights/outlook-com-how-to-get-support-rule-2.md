@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
 ms.openlocfilehash: e1d2739ad5e1e3d2c3d5f19aee344ee1ee2ab458
-ms.sourcegitcommit: 0b6e9470c6b73616ba8bacef7010f739b7fac332
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30742432"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418861"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a><span data-ttu-id="0cdbb-102">Kaip gauti paramą "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="0cdbb-102">How to get support in Outlook.com</span></span>
+# <a name="how-to-get-support-in-outlookcom"></a><span data-ttu-id="cdc51-102">Kaip gauti paramą "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="cdc51-102">How to get support in Outlook.com</span></span>
 
-<span data-ttu-id="0cdbb-103">Atsiprašome, "Outlook.com" siūlo pagalbos telefonu ne, bet mes turime specialią komandos, kurie gali jums padėti.</span><span class="sxs-lookup"><span data-stu-id="0cdbb-103">Sorry, Outlook.com doesn't offer phone support, but we do have dedicated teams who can help you.</span></span>
-<span data-ttu-id="0cdbb-104">Įveskite klausimą arba Aprašykite problemą **padėtų** laukelį viršuje ir pasirinkite **gauti pagalbos**.</span><span class="sxs-lookup"><span data-stu-id="0cdbb-104">Enter your question or describe your issue in the **Help** box above, and then select **Get help**.</span></span>
+<span data-ttu-id="cdc51-103">Atsiprašome, "Outlook.com" siūlo pagalbos telefonu ne, bet mes turime specialią komandos, kurie gali jums padėti.</span><span class="sxs-lookup"><span data-stu-id="cdc51-103">Sorry, Outlook.com doesn't offer phone support, but we do have dedicated teams who can help you.</span></span>
+<span data-ttu-id="cdc51-104">Įveskite klausimą arba Aprašykite problemą **padėtų** laukelį viršuje ir pasirinkite **gauti pagalbos**.</span><span class="sxs-lookup"><span data-stu-id="cdc51-104">Enter your question or describe your issue in the **Help** box above, and then select **Get help**.</span></span>
 
 
