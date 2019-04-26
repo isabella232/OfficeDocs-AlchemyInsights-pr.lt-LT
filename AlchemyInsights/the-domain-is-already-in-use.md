@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405403"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370262"
 ---
 # <a name="the-domain-is-already-in-use"></a>Domenas jau naudojamas
 
-Domeno, kurį bandote pridėti jau priklauso kitos organizacijos. Pirmiausia turite pašalinti domeno iš tos organizacijos prieš įtraukdami jį į šią organizaciją. Straipsniai toliau nurodys šiuos procesus.
+Bandote įtraukti domeną, kuris jau priklauso kitai organizacijai. Iš pradžių reikia pašalinti domeną iš tos organizacijos, tada įtraukti jį į šią organizaciją. Tolesni straipsniai padės atlikti šiuos procesus.
   
-- [Pašalinti domeno iš "Office 365"](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [Domeno pašalinimas iš „Office 365“](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [Pridėti domeno ir DNS įrašų kūrimas](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [Domeno įtraukimas ir DNS įrašų kūrimas](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 

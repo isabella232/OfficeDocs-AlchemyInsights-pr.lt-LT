@@ -1,5 +1,5 @@
 ---
-title: Ar turite teisėti laiškai nebūtų žymimi kaip šlamštas?
+title: Ar teisėti pranešimai pažymėti kaip pašto šiukšlės?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469067"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399149"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Ar turite teisėti laiškai nebūtų žymimi kaip šlamštas?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Ar teisėti pranešimai pažymėti kaip pašto šiukšlės?
 
 
-Išbandykite aukščiau diagnostikos arba pabandykite šis [žingsnis po žingsnio vadovas apie trikčių šalinimą geras laiškai nebūtų žymimi kaip šlamštas](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Išbandykite aukščiau pateikiamą diagnostiką arba pamėginkite šį [nuoseklų gerų pranešimų žymėjimo kaip pašto šiukšlių problemos šalinimo vadovą](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Geriausias būdas pranešti apie šių tipų klausimai yra:
+Geriausias būdas pranešti apie tokio tipo problemas yra:
   
-1. [Įgalinti ir ataskaitų pridėti](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) vartotoją. 
+1. Vartotojui [įgalinti ataskaitų pateikimo papildinį](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in). 
     
-2. Turite vartotojo [pranešimą pranešimą kaip ne nepageidaujamas](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Vartotojui [nurodyti, kad pranešimas nėra brukalas](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Jei norite atidaryti a support ticket, pridėkite pilną pašto antraštes iš ne mažiau kaip **vieną visą pradinį pranešimą** žemiau. 
+Jei norite pateikti palaikymo kvitą, toliau pridėkite bent **vieno pirminio pranešimo** visą el. laiško antraštę. 
   
 
