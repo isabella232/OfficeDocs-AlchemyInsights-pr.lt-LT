@@ -1,5 +1,5 @@
 ---
-title: Problemos su „Skype“ verslui?
+title: Problemos dėl „Skype“ verslui?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -15,7 +15,7 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32409914"
 ---
-# <a name="issue-with-skype-for-business"></a>Problemos su „Skype“ verslui?
+# <a name="issue-with-skype-for-business"></a>Problemos dėl „Skype“ verslui?
 
 Nustatėme, kad šie domenai turi problemų, kurios gali neleisti tinkamai veikti „Skype“ verslui:
   

@@ -1,5 +1,5 @@
 ---
-title: Ar teisėti pranešimai pažymėti kaip pašto šiukšlės?
+title: Ar pasitaiko, kad teisėti pranešimai pažymimi kaip pašto šiukšlės?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -16,7 +16,7 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32399149"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Ar teisėti pranešimai pažymėti kaip pašto šiukšlės?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Ar pasitaiko, kad teisėti pranešimai pažymimi kaip pašto šiukšlės?
 
 
 Išbandykite aukščiau pateikiamą diagnostiką arba pamėginkite šį [nuoseklų gerų pranešimų žymėjimo kaip pašto šiukšlių problemos šalinimo vadovą](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
@@ -27,6 +27,6 @@ Geriausias būdas pranešti apie tokio tipo problemas yra:
     
 2. Vartotojui [nurodyti, kad pranešimas nėra brukalas](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Jei norite pateikti palaikymo kvitą, toliau pridėkite bent **vieno pirminio pranešimo** visą el. laiško antraštę. 
+Jei norite pateikti palaikymo kvitą, toliau pridėkite bent **vieno ištiso pirminio pranešimo** visą el. laiško antraštę. 
   
 
