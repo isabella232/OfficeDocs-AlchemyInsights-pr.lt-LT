@@ -16,14 +16,14 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32397232"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="e1fd0-102">Ar gaunate per daug pašto šiukšlių arba sukčiavimo apsimetant el. laiškų į savo pašto dėžutę?</span><span class="sxs-lookup"><span data-stu-id="e1fd0-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="1b00d-102">Ar gaunate per daug pašto šiukšlių arba sukčiavimo apsimetant el. laiškų į savo pašto dėžutę?</span><span class="sxs-lookup"><span data-stu-id="1b00d-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="e1fd0-103">Norėdami išspręsti pašto šiukšlių problemą, peržiūrėkite [Kaip sumažinti el. pašto šiukšlių kiekį „Office 365“](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email).</span><span class="sxs-lookup"><span data-stu-id="e1fd0-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
+<span data-ttu-id="1b00d-103">Norėdami išspręsti pašto šiukšlių problemą, peržiūrėkite straipsnį [Kaip sumažinti el. pašto šiukšlių kiekį „Office 365“](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email).</span><span class="sxs-lookup"><span data-stu-id="1b00d-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
   
-<span data-ttu-id="e1fd0-104">Geriausias būdas pranešti apie tokio tipo problemas yra:</span><span class="sxs-lookup"><span data-stu-id="e1fd0-104">The best way to report these types of issues is to:</span></span> 
+<span data-ttu-id="1b00d-104">Geriausias būdas pranešti apie tokio tipo problemas yra:</span><span class="sxs-lookup"><span data-stu-id="1b00d-104">The best way to report these types of issues is to:</span></span> 
   
-1. <span data-ttu-id="e1fd0-105">Vartotojui [įgalinti ataskaitų pateikimo papildinį](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in).</span><span class="sxs-lookup"><span data-stu-id="e1fd0-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="1b00d-105">Vartotojui [įgalinti ataskaitų pateikimo papildinį](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in).</span><span class="sxs-lookup"><span data-stu-id="1b00d-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="e1fd0-106">[Vartotojui nurodyti, kad pranešimas](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) yra brukalas.</span><span class="sxs-lookup"><span data-stu-id="e1fd0-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
+2. <span data-ttu-id="1b00d-106">[Vartotojui nurodyti, kad pranešimas](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) yra nepageidaujamas el. paštas.</span><span class="sxs-lookup"><span data-stu-id="1b00d-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
     
 
