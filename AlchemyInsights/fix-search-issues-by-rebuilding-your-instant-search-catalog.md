@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401192"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867946"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Paieška: problemų sprendimas iš naujo Momentinės ieškos katalogas
+# <a name="troubleshoot-search-issues"></a>Šalinti ieškos problemas
 
-1. Uždarykite "Outlook" ir atidarykite **Valdymo skydą**.
-    
-    > [!NOTE]
-    > Priklausomai nuo programos versiją naudojate Office, gali tekti **pradėti** mygtuką ir meniu **pradėti** , dešiniuoju pelės mygtuku spustelėkite **Valdymo skydas**. 
-  
-2. Atlikite vieną iš šių veiksmų:
-    
-  - Pasirinkite **indeksavimo parinktys**.
-    
-  - **Ieškos** lauke įveskite *indeksavimas* ir pasirinkite **Indeksavimo parinktys**.
-    
-3. **Indeksuotos vietos** dialogo lange, skirtuke **Keisti pasirinktas vietas**, pasirinkite vietą, kurią norite modifikuoti, žymės langelius, ir spustelėkite **gerai**.
-    
-4. Dialogo lange **Papildomos parinktys** skirtuką **Rodyklės parametrai** , pagal **trikčių šalinimas**, spustelėkite **atkurti**.
-    
-    > [!NOTE]
-    > **Perkurti indeksą** dialogo langas atsidaro, perspėjimas, kad į "indeksas gali užtrukti ilgą laiką užbaigti." Pasirinkite **gerai** Norėdami pradėti atkurti indekso. 
-  
-Norėdami gauti daugiau informacijos, peržiūrėkite žinomas [POP/IMAP abonementų ieškos rezultatų](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Jei kyla su ieška susijusias problemas, rasite nuorodas apačioje padėti trikčių šalinimas.
 
+Tai yra labiausiai paplitusių problemų, ir yra gera vieta pradėti:
+- ["Outlook" paieškos negrąžina jokių rezultatų](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- ["Outlook" paieškos grįžta neišsami rezultatai](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- ["Outlook" ieška neranda vyresnio amžiaus laiškus](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Įmanoma mažiau dažniausių problemų sprendimus rasite čia:
+- ["Outlook 2016" tik: paieškos skirtuke yra neprieinama,](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Bendrai naudojamos pašto dėžutės: Problemos su paieškos rezultatais](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Klaida: Ieškos rezultatų bus paveikė dėl problemų su "Outlook" konfigūraciją](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Ieškos aplankai rodomi elementai su nei PersonMetadata netikėta](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
