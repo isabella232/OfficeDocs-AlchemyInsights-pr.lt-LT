@@ -1,0 +1,22 @@
+---
+title: Tvarkyti ieškos žodynai SharePoint Online
+ms.author: kirks
+author: Techwriter40
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
+ms.openlocfilehash: 4b51c6d44940c1a65ecf93a149430f05882452ba
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: lt-LT
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34715359"
+---
+# <a name="search-in-sharepoint-online"></a>Paieška: SharePoint internete
+
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black; background: white;">Turinys turi būti nuskaityti ir įtraukiamas į ieškos rodyklę vartotojams rasti ką jie ieško SharePoint Online. Turinys automatiškai Naršoma pagal iš anksto nustatytus nuskaitymo tvarkaraštį (nuskaitymo tvarkaraštį pakeisti negalima). Aptikimo robotui susitvarko turinį, kuris buvo pakeistas nuo paskutiniojo aptikimo ir atnaujina rodyklę.</span> Siekiant užtikrinti nuskaityti turinys ir rodyklė yra atnaujinama, atlikite toliau nurodytus veiksmus.</p> <ol style="margin-top: 0in;" start="1" type="1"> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;">Įsitikinkite, kad turinys gali būti rasti darant svetainės turinio paieškai. Daugiau informacijos rasite <a href="https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable">turinio svetainėje ieškomumo įgalinimas</a>. <br /><br /></span></li> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;"><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Kai pakeičiate valdoma ypatybė, arba pakeitėte aptiktos ir valdomos ypatybės atvaizdavimą, <strong>svetainės turi būti iš naujo nuskaityti</strong> iki jūsų keitimai atsispindės paieškos indeksą. <span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Todėl, kad jūsų keitimai bus atlikti ieškos schemos, o ne į faktinį svetainėje, skaitytuvas bus ne automatiškai iš naujo indeksuoti svetainę.</span> </span> </span> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: windowtext;">Daugiau informacijos ieškokite <a href="https://docs.microsoft.com/en-us/sharepoint/crawl-site-content">rankiniu būdu prašymą ir iš naujo indeksuodama svetainę, biblioteką ar sąrašą</a>.&nbsp;<br /><br /></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Pastaba:</span> </strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"> ne mažiau kaip 24 val. po rankiniu būdu prašančioji aptikimo ir visiškai iš naujo indeksuoti Norėdami pamatyti, jei vis dar kyla problema. <span style="color: black; background: white;">Jei daugiau nei 24 valandų praėjo nuo galite pradėti nuskaityti ir visiškai iš naujo indeksuoti, prašome prisijungti palaikymo bylą. Daugeliu atvejų, mes jau dirbame išeitį. Nurodykite bent 24 valandas atlikti sprendimą.<br /><br /></span></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Svarbu:</span></strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Jei svetainę, dokumentą (biblioteka) arba sąraše buvo panaikintas ir vis dar rodo paieškos rezultatus, vartotojai turėtų gauti su klaida 404 Failas nerastas bandant pasiekti. Ši problema turėtų būti registruojami aptarnavimo tolesnių tyrimų. </span></li> </ol>
+
+
+
