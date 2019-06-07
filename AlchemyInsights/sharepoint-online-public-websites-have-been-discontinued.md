@@ -11,13 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 044820bc6bce19ea1235bffa49b46f92d778b157
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 69f43d060d4ca8d99f25cf6813baa1b2fb35125f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719419"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758878"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="d0de3-102">SharePoint Online visuomenės svetainės buvo nutrauktas</span><span class="sxs-lookup"><span data-stu-id="d0de3-102">SharePoint Online public websites have been discontinued</span></span>
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="f97e1-102">SharePoint Online visuomenės svetainės buvo nutrauktas</span><span class="sxs-lookup"><span data-stu-id="f97e1-102">SharePoint Online public websites have been discontinued</span></span>
 
-<p><span data-ttu-id="d0de3-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">SharePoint Online visuomenės svetainės buvo nutrauktas.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="d0de3-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">SharePoint Online public websites have been discontinued.&nbsp;</span></span></span></p> <p><span data-ttu-id="d0de3-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Jei sukūrėte SharePoint Online visuomenės svetainės, jums buvo suteikta galimybė toliau jį naudoti per 2018 m. kovo 31 d. Jei norite tęsti, turintys viešosios interneto svetainėje, jums reikia sukurti naują su naują paslaugų teikėją. Savo SharePoint Online visuomenės svetainės turinys buvo panaikintas.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="d0de3-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018. If you want to continue having a public website, you need to create a new one with a new provider. The content on your SharePoint Online public website has been deleted.&nbsp;</span></span></span></p> <p><span data-ttu-id="d0de3-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Informacijos apie vartojimą viešoje interneto svetainėje, peržiūrėti <a href="https://go.microsoft.com/fwlink/?linkid=866980">išsamią informaciją apie funkcija nutraukti procesą</a>.</span></span><span class="sxs-lookup"><span data-stu-id="d0de3-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">For info about the public website discontinuation, see <a href="https://go.microsoft.com/fwlink/?linkid=866980">Details about the feature discontinuation process</a>.</span></span></span></p>
+<span data-ttu-id="f97e1-103">SharePoint Online visuomenės svetainės buvo nutrauktas.</span><span class="sxs-lookup"><span data-stu-id="f97e1-103">SharePoint Online public websites have been discontinued.</span></span>
+
+<span data-ttu-id="f97e1-104">Jei sukūrėte SharePoint Online visuomenės svetainės, jums buvo suteikta galimybė toliau jį naudoti per 2018 m. kovo 31 d.</span><span class="sxs-lookup"><span data-stu-id="f97e1-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="f97e1-105">Jei norite tęsti, turintys viešosios interneto svetainėje, jums reikia sukurti naują su naują paslaugų teikėją.</span><span class="sxs-lookup"><span data-stu-id="f97e1-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="f97e1-106">Savo SharePoint Online visuomenės svetainės turinys buvo panaikintas.</span><span class="sxs-lookup"><span data-stu-id="f97e1-106">The content on your SharePoint Online public website has been deleted.</span></span>
+
+<span data-ttu-id="f97e1-107">Informacijos apie vartojimą viešoje interneto svetainėje, peržiūrėti [išsamią informaciją apie funkcija nutraukti procesą](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="f97e1-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>
