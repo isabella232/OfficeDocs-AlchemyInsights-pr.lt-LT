@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408726"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769550"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto-taikyti jautrumo etiketės
 
@@ -25,7 +25,7 @@ Automatiškai taikyti jautrumo etiketės pašalina būtinybę Apmokydama vartoto
 Norėdami automatiškai taikyti etiketes, taip yra reikalaujama:
 
 - Azure abonemento informacijos apsaugos P2
-- [Atsisiųsti ir įdiegti Azure duomenų apsaugos vieningos ženklinimo klientas](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Atsisiųsti ir įdiegti Azure duomenų apsaugos vieningos ženklinimo klientas](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Mes dirbame palaikoma, kad nereikalaus Azure duomenų apsaugos vieningos ženklinimo klientas ateityje.
 
@@ -33,5 +33,5 @@ Mes dirbame palaikoma, kad nereikalaus Azure duomenų apsaugos vieningos ženkli
 
 Daugiau informacijos apie jautrumo etiketes ir taikydami juos automatiškai turinį, ieškokite:
 
-- [Jautrumo etiketės apžvalga](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Taikyti jautrumo etiketės turinį automatiškai](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Jautrumo etiketės apžvalga](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Taikyti jautrumo etiketės turinį automatiškai](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

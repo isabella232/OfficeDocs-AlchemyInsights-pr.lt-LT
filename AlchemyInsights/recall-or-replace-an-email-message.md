@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096566"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770816"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Atšaukti arba pakeisti el. paštu
 
@@ -36,7 +36,7 @@ Daugiau informacijos, įskaitant tai, kaip galima sužinoti apie platintojus ras
 
 ***Ieškoti ir naikinti el. laiškus į jūsų organizacijos*** Norėdami ieškoti ir panaikinti el. laiškus į jūsų organizaciją, jis yra lengviausias, jei esate visuotinis administratorius. Jei nesate visuotinio administravimo, paskyroje turi būti pridėta eDiscovery Manager vaidmenų grupę arba atitikties paieškos valdymo vaidmuo. Norėdami ištrinti pranešimus, jums reikia prisijungti prie vaidmenų grupės organizacijos valdymas arba paieškos ir prapūtimo valdymo vaidmuo. Teises rolėms priskirti [saugos & atitikties užtikrinimo centre](https://protection.office.com/).
 
-1. [Kurti turinio ieškoti](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) ir rasti žinutę ištrinti.
-2. [Prisijungti prie saugumo & atitikties užtikrinimo centre "PowerShell"](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Kurti turinio ieškoti](https://docs.microsoft.com/office365/securitycompliance/content-search) ir rasti žinutę ištrinti.
+2. [Prisijungti prie saugumo & atitikties užtikrinimo centre "PowerShell"](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Jei naudojate URM, rasite [prisijungimas prie "Office 365" sauga & atitikties centro "PowerShell" naudojimas kelių dalių autentifikavimas](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Jei naudojate URM, rasite [prisijungimas prie "Office 365" sauga & atitikties centro "PowerShell" naudojimas kelių dalių autentifikavimas](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

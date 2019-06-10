@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756649"
+ms.locfileid: "34770640"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Turinio paieška įrankį, rasti reikalingą informaciją
 
 Naudojant turinio paieškos įrankį, saugos & atitikties užtikrinimo centre greitai surasti elektroninio pašto dėžutėmis, dokumentus į "SharePoint" svetaines ir "OneDrive" vietų ir tiesioginių pranešimų pokalbiuose Skype verslui. Turinio paiešką galite ieškoti el. pašto, dokumentų ir tiesioginių pranešimų pokalbiuose, "Office 365" bendradarbiavimo priemones, pvz., "Microsoft" Teams ir Office 365 grupes.
 
 
-Prieš naudojant [Turinio paieškos](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iš [saugumo & atitikties užtikrinimo centre](https://sip.protection.office.com/homepage), jūs norite baigti [konfigūruoti teises](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [nustatyti atsisiuntimo greitis](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ir [eksportuoti parametrus](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results)s±rankos parametrai.
+Prieš naudojant [Turinio paieškos](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iš [saugumo & atitikties užtikrinimo centre](https://sip.protection.office.com/homepage), jūs norite baigti [konfigūruoti teises](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [nustatyti atsisiuntimo greitis](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ir [eksportuoti parametrus](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)s±rankos parametrai.
 
 Suprasti daugiau apie turinio paieškos peržiūrėti [reikalavimus ir apribojimus](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [nagrinėjanti iš dalies indeksuoti elementus](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ir kiti rezultatai turi žinoti.
 
