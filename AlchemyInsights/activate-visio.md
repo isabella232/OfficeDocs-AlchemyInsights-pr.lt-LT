@@ -12,22 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765235"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883168"
 ---
 # <a name="activate-visio"></a>Aktyvinti "Visio"
 
-Administratorius turi paskirti ["Visio" licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) vartotojui prieš darbalaukio "Visio" darbalaukio programėlę, kartu su "Visio" interneto planas 2 gali būti įdiegta ir suaktyvinta. ("Visio" interneto plano 1 nėra kompiuterio "Visio" versiją).
+Kol vartotojas gali įdiegti ir aktyvuoti darbalaukį "Visio" darbalaukio programėlę, kartu su savo "Visio" interneto planas 2, vartotojas turi būti paskirtas ["Visio" licencijų](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+
+**Pastaba** "Visio" interneto plano 1 nėra kompiuterio "Visio" versiją.
+
+Kaip įjungti "Visio":
 
 1. [Įdiegti "Visio"](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) jei ji dar neįdiegta.
-2. Kai diegimas bus baigtas, atidarykite programėlę. Daugeliu atvejų app bus automatiškai įjungti ir vartotojas gali pradėti naudoti "Visio" iš karto.
-    Jei esate raginami prisijungti, vartotojas, turite prisijungti su paties darbo arba mokyklos abonementą, kuris buvo paskirtas į "Visio" licencijų. 
+2. Kai diegimas bus baigtas, atidaryti "Visio". Daugeliu atvejų programa automati¹kai aktyvina ir galėsite pradėti naudoti "Visio" iš karto. Jei esate raginami prisijungti, būtinai prisijunkite su paties darbo arba mokyklos abonementą, kuris buvo priskirtas "Visio" licencijų. 
 
-Išsamios informacijos ieškokite:<br>
+Aktyvinimo problemų, paleiskite [aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy) dėl nukentėjusių kompiuterio.
+
+Dėl išsamesnės informacijos žr.:<br>
 [Suaktyvinti "Office" kompiuterio](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Prenumeratą pranešimą pasirodo, kai aš atidaryti programėlę "Office 365"](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Biuro klaidos "negalima naudoti produktų, mes radome savo paskyros aktyvavimui <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
