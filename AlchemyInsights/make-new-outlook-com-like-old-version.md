@@ -1,35 +1,33 @@
 ---
-title: 8000035 kaip padaryti naują "Outlook.com" atrodo kaip senas
+title: Kaip padaryti naują "Outlook.com" atrodo kaip senas
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409410"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117621"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kaip padaryti naują "Outlook.com" atrodo kaip sena versija
 
-Čia rasite kai kuriuos parametrus ir peržiūros galite pakeisti į naują "Outlook.com" atrodo kaip sena versija.
+Štai kai kurie parametrai, galite pakeisti į naują "Outlook.com" atrodo kaip ir senojoje versijoje:
 
-1. Pasirinkite krumpliaračio piktogramą, kad atidarytumėte nustatymų puslapio viršuje.
-2. Pasirinkite savo mėgstamą **temą**.
-3. Keisti **pokalbių rodinį** į **naujausias žinutes ant viršaus**.
-4. Pakeisti **skaitymo srities** **paslėpti**.
-5. Persijungti **į aplanką Gauta** į **išjungti**.
-6. Perjungti **siuntėjo vaizdas** į **išjungta**. 
-7. Perjungti **Grupuoti pranešimus pagal datą** į **išjungta**. 
-8. Perjungti **priedų peržiūrą** į **išjungta**. 
-9. Įjunkite **pranešimų peržiūros tekstas** **apie**.
+1. Pasirinkite [išdėstymo parametrai](https://outlook.live.com/mail/options/mail/layout).
+1. **Į pašto dėžutę**, pasirinkite **nereikia rūšiuoti savo el. laiškų**.
+1. **Pranešimas organizacija**, pasirinkite **Naujausi pranešimai į viršų**.
+1. **Siuntėjo vaizdas**, pasirinkite **nerodyti siuntėjo vaizdus**.
+1. Dalyje **skaitymo sritis**, pasirinkite **Slėpti skaitymo srityje**.
+1. Dalyje **pranešimo peržiūros tekstą**, pasirinkite **Rodyti peržiūros tekstas**.
+1. Būdami **Inline peržiūras**, pasirinkite **nerodyti pranešimų sąrašo priedų**.
 
-Pastaba: Čia yra tik keletas rekomenduojamus parametrus, kurie gali suteikti artimiausia galimų išdėstymo klasikinis versija "Outlook.com". Vis dar priklausys nuo jϋsψ norimus parametrus.
-
-Jūsų pašto parametrų keitimas taip atrodo ir elgiasi taip, kaip norite jį, pamatyti [personalizuoti savo naują pašto patirtį naudodami "Outlook.com"](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)aplanko Gauta.
+Pakeisti jūsų pašto parametrus, kad jūsų Gautieji atrodo ir elgiasi taip, kaip norite jį, rasite [keisti pašto dėžutės programoje "Outlook.com" ir naują "Outlook" žiniatinklyje išvaizdą](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

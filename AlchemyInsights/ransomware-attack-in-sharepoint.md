@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 4cd7db1d9a6a1c86e64cee040d9dc3c1d180832f
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132660"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199353"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Išpirkos ataka SharePoint arba "OneDrive"
 
@@ -33,7 +33,8 @@ Daugiau informacijos apie tai, kaip atkurti "OneDrive", rasite:
 
 Papildoma informacija:
 
-[Virusų aptikimas SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
+[Viruso aptikimo SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
 [Duomenų šifravimas ODB ir SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[SharePoint duomenų apsauga](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) ][Išpirkos apsauga nuo grėsmių](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
+[apsaugoti jūsų duomenis į SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+[Apsauga nuo grėsmių išpirkos](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
 [virusui aptikti ir susigrąžinti failus](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
