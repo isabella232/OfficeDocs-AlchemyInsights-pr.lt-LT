@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 3227f10270148c0e515b687c48058affa4d2be70
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: db84f77208dca60c6dee98cdb0c7f1ea7fa8fe17
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759088"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223720"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Apriboti prieigos SharePoint arba "OneDrive"
 
 Yra daug būdų, kaip apriboti prieigą prie SharePoint Online "OneDrive" paslaugas. Šie įvairių prieigos apribojimo metodai yra aprašytos žemiau. 
 
-Teisių apribojimas
+**Teisių apribojimas**
 
 SharePoint Online ir "OneDrive" verslui, ribojame prieigą prie daiktų, pavyzdžiui, interneto svetainių, failus ir aplankus iš tik suteikiant prieigą prie šių grupių arba asmenų, kuriems reikia.
 
-[Pritaikyti teises į SharePoint sąraše arba bibliotekoje](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Pritaikyti teises į SharePoint sąraše arba bibliotekoje](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-[Konfigūruoti SharePoint svetainės teisės](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Konfigūruoti SharePoint svetainės teisės](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-[Keisti teises poaplankis](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Keisti teises poaplankis](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-[Valdyti prieigą iš nevaldomų įrenginių](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Valdyti prieigą iš nevaldomų įrenginių](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
 Kaip SharePoint arba Globalus administratorius "Office 365", galite blokuoti arba apriboti prieigą prie SharePoint ir "OneDrive" turinį iš nevaldomų įrenginių (tų ne hibridas sujungtos arba suderinamas Intune AD).
 
-Tinklo vieta apribojimas
+**Tinklo vieta apribojimas**
 
 Kaip IT administratorius gali valdyti prieigą prie SharePoint ir "OneDrive" ištekliai iš nustatytų tinklo vietas, kuriomis pasitikite. Tai taip pat žinomas kaip vietos nustatymo politiką. Norėdami gauti daugiau informacijos, žiūrėkite [Valdyti prieigą prie SharePoint Online ir "OneDrive" duomenų, atsižvelgiant į tinklo vietą](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-Svetainės užrakto apribojimas 
+**Svetainės užrakto apribojimas** 
 
 Per SharePoint Online turite galimybę užrakinti žemyn svetainių rinkinio, todėl niekas neturi prieigos. Tai nustatoma per "PowerShell" ir [SharePoint Online valdymo aplinką](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) naudojant [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState nuosavybė.
 
-Apriboti svetainės arba antrinės svetainės
+**Apriboti svetainės arba antrinės svetainės**
 
 Kaip SharePoint administravimo arba "Office 365" Globalus administratorius, galite leisti vartotojams kurti ir administruoti savo SharePoint svetaines, nustatyti, kokio pobūdžio svetainėse jie sukurti, ir nurodyti vietą svetaines. Norėdami gauti daugiau informacijos, žiūrėkite [tvarkyti svetainių kūrimą SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

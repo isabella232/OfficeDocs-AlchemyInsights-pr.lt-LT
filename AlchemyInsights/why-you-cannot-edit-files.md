@@ -1,5 +1,5 @@
 ---
-title: Failo atidaryti tik skaityti
+title: Failai yra užrakintas redaguoti
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757101"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222676"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Kodėl gali nepavykti redaguoti failus?
 
@@ -24,9 +24,9 @@ Pastaba: Bibliotekos naudojant "Checkout", reikia stulpelių ir metaduomenys, ar
 
 Bibliotekoms "OneDrive", "OneDrive" bus rodomas užrakto piktogramos, esančios šalia sinchronizavimo ir vartotojo negalėsite sinchronizuoti biblioteką, kol bus pašalintos minėtus parametrus.
 
-Daugiau informacijos apie užrakintas failus Word/Excel prašome nuoroda straipsnius.
+Norėdami gauti daugiau informacijos apie užrakintas failus Word arba Excel prašome nuoroda straipsnius.
 
-["Excel" failą užrakino redaguoti kitas vartotojas](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- ["Excel" failą užrakino redaguoti kitas vartotojas](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-["Word" failą užrakino redaguoti kitas vartotojas](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- ["Word" failą užrakino redaguoti kitas vartotojas](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

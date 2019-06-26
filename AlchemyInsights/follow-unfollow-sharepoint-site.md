@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119766"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222748"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Sekite ir JT sekti SharePoint svetainėje
 
@@ -23,4 +23,4 @@ Yra keletą būdų, kaip sekti jus domina programoje "SharePoint" svetainę. Tai
 
 Jei jūs negalite sekti arba JT sekti svetainės ir jaustis rezultatas netenkina, ko tikimasi, pamatyti, jei problema yra susijusi su vieno vartotojo arba visiems vartotojams jūsų organizacijoje. Jei problema aptinkama visų vartotojų, gali būti laikinai skundams. 
 
-Patikrinkite [Tarnybų sveikatos stebėjimo skydas](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)Norėdami pamatyti, jei jūsų organizacija smūgiuoja.
+Patikrinkite [Tarnybų sveikatos stebėjimo skydas](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Norėdami pamatyti, jei jūsų organizacija smūgiuoja.

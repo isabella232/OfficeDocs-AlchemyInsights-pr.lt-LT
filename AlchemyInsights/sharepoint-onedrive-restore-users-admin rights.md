@@ -1,5 +1,5 @@
 ---
-title: Suteikti vartotojams prieigą prie SharePoint ir "OneDrive"
+title: Prieiga uždrausta pranešimų į "OneDrive" verslo svetainėms
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759263"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223432"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Suteikti vartotojams prieigą prie SharePoint ir "OneDrive"
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Prieiga uždrausta pranešimų į "OneDrive" verslo svetainėms
 
 Ši problema dažniausiai kyla, kai vartotojas yra panaikinti ir iš naujo sukurti patį vartotojo vardą (UPN). Sukūrus abonementą sukuriamas naudojant skirtingus PUID (paso unikalų ID) reikšmę. Kai vartotojas bando prieiti prie svetainių rinkinio arba jų "OneDrive", vartotojas turi neteisingą PUID. Antrasis scenarijus apima katalogų sinchronizavimą su Active Directory organizacinio vieneto (OU). Jei vartotojai turi jau prisijungę prie SharePoint, tada persikėlė į skirtingas OU ir resynced su "SharePoint", jie gali kilti ši problema.
 
