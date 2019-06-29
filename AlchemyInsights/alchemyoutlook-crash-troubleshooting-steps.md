@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883135"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357577"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Trikčių šalinimo veiksmus Outlook gedimas
 
@@ -25,10 +27,9 @@ Jei turite "Outlook" darbalaukio gedimų klausimais, pradėti 3 toliau nurodytus
   
 1 veiksmas: Ištirti galimi problemų su priedais.
   
-2 veiksmas: Remontas "Outlook" ir vykdyti [paramos ir atkūrimo asistentas priemonė spręsti "Outlook" paleisties triktis](https://aka.ms/SaRA-OutlookWontStart) pažeistą mašina. 
+2 veiksmas: Remontas "Outlook" ir vykdyti [paramos ir atkūrimo asistentas priemonė spręsti "Outlook" paleisties triktis](https://aka.ms/SaRA-OutlookWontStart) pažeistą mašina.
   
-3 veiksmas: Sukurkite naują "Outlook" profilį arba galite paleisti ["Outlook" profilio įrankis](https://aka.ms/SaRA-OutlookSetupProfile) pažeistą mašina. 
+3 veiksmas: Sukurkite naują "Outlook" profilį arba galite paleisti ["Outlook" profilio įrankis](https://aka.ms/SaRA-OutlookSetupProfile) pažeistą mašina.
   
 Jei problema įvyko Baigus naujinti ir minėti veiksmai neveikia, gali tekti grįžti prie ankstesnės versijos. Sužinokite, [kaip atkurti ankstesnę versiją Office 2013 arba Office 2016 Click-į-Run](https://support.microsoft.com/help/2770432).
   
-
