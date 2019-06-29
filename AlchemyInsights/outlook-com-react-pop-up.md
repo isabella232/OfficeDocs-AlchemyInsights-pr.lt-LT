@@ -8,18 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000091
-ms.openlocfilehash: f68a4d947c1698eadae9b4a8f8f4e01331c5211d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1412"
+- "1413"
+- "8000091"
+ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392125"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373169"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="77383-102">"Outlook.com" yra pasirengęs pirmininko laiko</span><span class="sxs-lookup"><span data-stu-id="77383-102">Outlook.com is ready for prime time</span></span>
+# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="e0dbb-102">"Outlook.com" yra pasirengęs pirmininko laiko</span><span class="sxs-lookup"><span data-stu-id="e0dbb-102">Outlook.com is ready for prime time</span></span>
 
-<span data-ttu-id="77383-103">Mes žinome, kad kai kurie klientai gali matyti "" Outlook.com "yra pasirengę žiūrimiausiu laiku" pop-up kiekvieną kartą jie prisijungti, ir mes dirbame ją išspręsti.</span><span class="sxs-lookup"><span data-stu-id="77383-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
+<span data-ttu-id="e0dbb-103">Mes žinome, kad kai kurie klientai gali matyti "" Outlook.com "yra pasirengę žiūrimiausiu laiku" pop-up kiekvieną kartą jie prisijungti, ir mes dirbame ją išspręsti.</span><span class="sxs-lookup"><span data-stu-id="e0dbb-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
 
-<span data-ttu-id="77383-104">Atsiprašau dėl to.</span><span class="sxs-lookup"><span data-stu-id="77383-104">Sorry about that.</span></span>
+<span data-ttu-id="e0dbb-104">Atsiprašau dėl to.</span><span class="sxs-lookup"><span data-stu-id="e0dbb-104">Sorry about that.</span></span>
 
-[<span data-ttu-id="77383-105">Sužinokite daugiau apie naują "Outlook.com".</span><span class="sxs-lookup"><span data-stu-id="77383-105">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001300)
+[<span data-ttu-id="e0dbb-105">Sužinokite daugiau apie naują "Outlook.com".</span><span class="sxs-lookup"><span data-stu-id="e0dbb-105">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001300)
