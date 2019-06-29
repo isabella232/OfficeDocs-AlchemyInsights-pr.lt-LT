@@ -8,17 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1081
+ms.custom:
+- "1081"
+- "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: fc2fcbeb3f40660b4abd5f45ef8eb1838d1d42a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec385fcc57ff3b32575ec0232c3ed623887461fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751782"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361429"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="cb6aa-102">Sukurti ir valdyti pašto dėžutės</span><span class="sxs-lookup"><span data-stu-id="cb6aa-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="b21e2-102">Sukurti ir valdyti pašto dėžutės</span><span class="sxs-lookup"><span data-stu-id="b21e2-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="cb6aa-103">Norėdami kurti ir modifikuoti pašto dėžutės, peržiūrėkite [kurti ir tvarkyti pašto dėžutės](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="cb6aa-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="b21e2-103">Norėdami kurti ir modifikuoti pašto dėžutės, peržiūrėkite [kurti ir tvarkyti pašto dėžutės](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="b21e2-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="cb6aa-104">Norėdami sužinoti daugiau apie kambarių ir įrangos pašto dėžutėms (taip pat žinomas kaip išteklių pašto dėžutes), ieškokite [kambarių ir įrangos pašto dėžutėms](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="cb6aa-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="b21e2-104">Norėdami sužinoti daugiau apie kambarių ir įrangos pašto dėžutėms (taip pat žinomas kaip išteklių pašto dėžutes), ieškokite [kambarių ir įrangos pašto dėžutėms](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="b21e2-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
