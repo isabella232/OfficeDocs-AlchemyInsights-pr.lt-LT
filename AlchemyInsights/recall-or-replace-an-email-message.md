@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770816"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356605"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Atšaukti arba pakeisti el. paštu
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770816"
 - Jei esate administratorius, galite **Atšaukti pranešimų vardu vartotojai naudodami "PowerShell"**. Jūs negalite prisiminti pranešimus administravimo centrą. Slinkite žemyn iki "Ieškoti ir naikinti el. laiškus į jūsų organizacijos" Norėdami gauti daugiau informacijos.
 
 ***Atšaukti arba pakeisti, kuriuo siuntėte el. laišką***
+
 1. Aplanką "Outlook" lango kairėje srityje pasirinkite aplanką Išsiųsta.
 2. Atidarykite pranešimą, kurį norite atšaukti. Jūs turite dukart spustelėkite atidaryti pranešimą. Pažymėdami jį, jis rodomas skaitymo srityje neleis jums priminti pranešimą.
 3. Laiško skirtuko lape pasirinkite **veiksmų** > **Atšaukti šį pranešimą**.
 4. Pasirinkite **Naikinti neskaitytas šio pranešimo kopijas** arba **Neskaitytas kopijas naikinti ir keisti nauju pranešimu**, tada pasirinkite **gerai**.
 5. Jei siunčiate žinutę pakeitimo, parašyti žinutę ir pasirinkite **Siųsti**.
-6. Sėkmę ar nesėkmę, pranešimo atšaukimas priklauso nuo gavėjo parametrus programoje "Outlook". 
+6. Sėkmę ar nesėkmę, pranešimo atšaukimas priklauso nuo gavėjo parametrus programoje "Outlook".
 
 Daugiau informacijos, įskaitant tai, kaip galima sužinoti apie platintojus rasite [Atšaukti arba pakeisti, kuriuo siuntėte el. laišką](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

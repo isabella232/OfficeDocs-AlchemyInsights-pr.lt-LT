@@ -1,38 +1,38 @@
 ---
-title: 8000060 "Outlook.com" MSA įrodymai
+title: "\"Outlook.com\" MSA įrodymai"
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392371"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373889"
 ---
 # <a name="security-info-and-security-codes"></a>Saugos informaciją ir saugos kodus
 
-1. Prisijunkite prie savo [saugos pagrindai](https://account.microsoft.com/security) puslapio naudodami savo "Microsoft" abonementą. 
-    
-2. Pasirinkite **informacijos atnaujinimas**. 
-    
-3. Jūsų gali paprašyti įvesti saugos kodą, kad ir toliau. Jei jūs neturite prieigos prie jūsų alternatyvaus el. pašto arba telefono numerį, pasirinkite **aš neturiu nė vieno iš jų** ir vykdykite nurodymus, kad pakeisti savo saugos informaciją. 
-    
-4. Pasirinkite **įtraukti saugos informaciją** vykdykite nurodymus ir įveskite naują el. pašto arba telefono numerį. 
-    
-5. Išsiųsime saugos kodą į tą naują el. pašto arba telefono numerį. Įveskite tą saugos kodą ir pasirinkite **kitą**. Jūsų nauja saugos informacija bus rodomas sąraše. 
-    
-6. Pasirinkite **pašalinti** , kuriuos norite pašalinti. 
-    
-7. Jei norite atnaujinti kurioje saugos informaciją, atsiųsime įspėjimus, pasirinkite **keisti perspėjimo parinktis** ir panaikinkite žymimojo laukelio žymėjimą, tas, kurį jau nori gauti įspėjimus apie, išskyrus atvejus, kai jie yra ypatingos svarbos. 
-    
-Sužinokite daugiau apie [saugos informaciją ir saugos kodus](https://support.microsoft.com/help/12428/).
-  
+Įtraukti saugos informaciją į savo abonementą:
 
+1. Su "Microsoft" abonementą, prisijunkite prie [saugos pagrindai](https://account.microsoft.com/security) .
+1. Pasirinkite **draudimo kontaktinė informacija**.
+1. Pasirinkite **įtraukti saugos informacijos** ir vykdydami instrukcijas įveskite telefono numerį arba el. pašto adresą.
+1. Galite gauti saugos kodą, telefono numerį arba el. pašto adresą. Įveskite saugos kodą, kuris buvo **įtraukti saugos informacijos** lange ir pasirinkite **kitą**.
+
+Jei norite pašalinti telefono numerį arba el. pašto adresą, pasirinkite **pašalinti** šalia jo.
+
+Jei norite pakeisti kurios telefono numerį arba el. pašto adresą gauna saugos įspėjimų, pasirinkite **keisti perspėjimo parinktis**.
+
+Norėdami sužinoti daugiau, perskaitykite ["Microsoft" abonemento saugos informacijos ir patikros kodus](https://support.microsoft.com/help/12428/).
