@@ -1,26 +1,34 @@
 ---
-title: "\"Outlook.com\" stop pranešimus vykimui į nepageidaujamo el. pašto aplanką"
+title: Sustabdyti pranešimų vykimui į "Outlook.com" nepageidaujamo el. pašto aplanką
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373252"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371801"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Sustabdyti pranešimų, eikite į aplanką Nepageidaujamas el. paštas
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Sustabdyti pranešimų vykimui į nepageidaujamo el. pašto aplanką
 
-Jei pastebėsite, kad el. laišką į aplanką Nepageidaujamas el. paštas nebuvo šlamštas arba šiukšlių:
+Jei pastebėsite, kad el. laišką į aplanką Nepageidaujamas el. paštas nėra šiukšlių:
 
-1. Atidarykite savo [nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail) ir pasirinkite pranešimą. (Savo nepageidaujamo pašto aplanke esančių elementų yra ištrinami po 30 dienų).
+1. Atidarykite savo [nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail).
+1. Pasirinkite pranešimą. (*Pastaba:* savo nepageidaujamo pašto aplanke esančių elementų yra ištrinami po 30 dienų.)
 1. Virš pranešimų sąrašo, pasirinkite **pageidaujamą** > **pageidaujamą**.
+
+Jei norite neleisti jokių pranešimų iš siuntėjo į aplanką Nepageidaujamas el. paštas, įtraukite siuntėją į patikimų siuntėjų sąrašą:
+
 1. Atidarykite savo [nepageidaujamo el. pašto parametrus](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Dalyje **Patikimi siuntėjai**, įveskite el. pašto adresą arba domeną, kurį norite pridėti ir pasirinkite **įtraukti**. El. pašto adresų ar domenų dėl patikimų siuntėjų sąraše negalima bus perkelti į nepageidaujamo el. pašto aplanką.
+1. Pagal **siuntėjus ir domenus**, pasirinkite **įtraukti**, įveskite el. pašto adresą arba domeną, kurį norite pridėti ir pasirinkite **įrašyti**.
+
+Norėdami sužinoti daugiau, skaitykite [pažymėti laišką kaip nepageidaujamo ar blokuoti siuntėjus "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
