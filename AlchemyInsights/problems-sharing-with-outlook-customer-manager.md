@@ -10,21 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000274"
 - "1868"
+- "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 11a1bf07a081ce074dd9ab1fccb001f0bd3e39af
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 53f3dcc9e5ae1cde1f856bcd7c218afcbc6231da
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629988"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371080"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Bendrinimas su "Outlook" kliento vadybininkas problemos 
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Bendrinimas su "Outlook" kliento vadybininkas problemos
 
 Jei kyla bendrinimo problemų su "Outlook" kliento vadybininkas mes rekomenduojame, kad jūs pirmiausia pabandykite išvalyti naršyklės talpyklą. Pvz., "Internet Explorer" būtų:
+
 1. Eikite į **Parametrai** > **bendrojo** > parametrai dalyje **Naršymo retrospektyva** > **talpyklos ir duomenų bazių**.
 2. Ištrinti talpyklos failus žiniatinklio svetainės "outlookapps.com."
 3. Iš naujo paleiskite "Outlook".
 
-Daugiau informacijos apie bendrinimą, ieškokite [dalintis informacija, "Outlook" kliento vadybininkas](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20). 
+Daugiau informacijos apie bendrinimą, ieškokite [dalintis informacija, "Outlook" kliento vadybininkas](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

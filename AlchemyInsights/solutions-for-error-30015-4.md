@@ -10,30 +10,30 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "834"
+- "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: bc9f0c6f14ccacf739749545626ebd4e783ef9c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 27d6d7432860425231168b6712e4603c82fb618d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370043"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354697"
 ---
 # <a name="solutions-for-error-30015-4"></a>Sprendimai dėl klaidos 30015-4
 
-
 - Iš naujo paleiskite kompiuterį ir bandykite [diegti Office](https://portal.office.com/OLS/MySoftware.aspx).
-    
+
 - Atsisiųskite ir įdiekite [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy).
-    
-1. Kai ji atveria, **pašalinti "Office" produktai** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **kitą**. 
-    
+
+1. Kai ji atveria, **pašalinti "Office" produktai** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **kitą**.
+
 2. Toliau vyksta per ekranus ir iš naujo paleiskite kompiuterį kai pasirodys.
-    
+
     Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai iš naujo atidaro atlikti pašalinimo procesas.
-    
-3. Atlikite likusius raginimų, ir [iš naujo įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx) arba uždaryti asistentas. 
-    
+
+3. Atlikite likusius raginimų, ir [iš naujo įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx) arba uždaryti asistentas.
+
 [Office diegimo klaidų taisymas](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
-
