@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "833"
+- "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 07c593d439a9954c70c1a41539a624a7a97c47e3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373792"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368161"
 ---
-# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="a45f5-102">Sprendimai dėl klaidos 30068-39</span><span class="sxs-lookup"><span data-stu-id="a45f5-102">Solutions for error 30068-39</span></span>
+# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="18659-102">Sprendimai dėl klaidos 30068-39</span><span class="sxs-lookup"><span data-stu-id="18659-102">Solutions for error 30068-39</span></span>
 
-<span data-ttu-id="a45f5-103">Pabandykite šiuos problemos sprendimus išspręsti klaida [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="a45f5-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="18659-103">Pabandykite šiuos problemos sprendimus išspręsti klaida [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="18659-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="a45f5-104">Iš naujo paleiskite kompiuterį ir bandykite [diegti Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="a45f5-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
-    
-- <span data-ttu-id="a45f5-105">Patikrinti, ar **"Microsoft" spustelėkite ir naudokitės**[paslauga išjungta](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) ir jei ji išjungta, keisti būseną **Rankinis** arba **Automatinis**.</span><span class="sxs-lookup"><span data-stu-id="a45f5-105">Check if the **Microsoft Click-to-Run**[service is disabled ](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
-    
-- <span data-ttu-id="a45f5-106">Atsisiųskite ir įdiekite [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a45f5-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
-    
-1. <span data-ttu-id="a45f5-107">Kai ji atveria, **pašalinti "Office" produktai** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="a45f5-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
-    
-2. <span data-ttu-id="a45f5-108">Toliau vyksta per ekranus ir iš naujo paleiskite kompiuterį kai pasirodys.</span><span class="sxs-lookup"><span data-stu-id="a45f5-108">Continue going through screens and restart your computer when prompted.</span></span>
-    
-    <span data-ttu-id="a45f5-109">Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai iš naujo atidaro atlikti pašalinimo procesas.</span><span class="sxs-lookup"><span data-stu-id="a45f5-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
-    
-3. <span data-ttu-id="a45f5-110">Atlikite likusius raginimų, ir [iš naujo įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx) arba uždaryti asistentas.</span><span class="sxs-lookup"><span data-stu-id="a45f5-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
-    
+- <span data-ttu-id="18659-104">Iš naujo paleiskite kompiuterį ir bandykite [diegti Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="18659-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
+- <span data-ttu-id="18659-105">Patikrinti, ar **"Microsoft" spustelėkite ir naudokitės**[paslauga išjungta](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) ir jei ji išjungta, keisti būseną **Rankinis** arba **Automatinis**.</span><span class="sxs-lookup"><span data-stu-id="18659-105">Check if the **Microsoft Click-to-Run**[service is disabled](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
+
+- <span data-ttu-id="18659-106">Atsisiųskite ir įdiekite [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="18659-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+
+1. <span data-ttu-id="18659-107">Kai ji atveria, **pašalinti "Office" produktai** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="18659-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+
+2. <span data-ttu-id="18659-108">Toliau vyksta per ekranus ir iš naujo paleiskite kompiuterį kai pasirodys.</span><span class="sxs-lookup"><span data-stu-id="18659-108">Continue going through screens and restart your computer when prompted.</span></span>
+
+    <span data-ttu-id="18659-109">Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai iš naujo atidaro atlikti pašalinimo procesas.</span><span class="sxs-lookup"><span data-stu-id="18659-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+
+3. <span data-ttu-id="18659-110">Atlikite likusius raginimų, ir [iš naujo įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx) arba uždaryti asistentas.</span><span class="sxs-lookup"><span data-stu-id="18659-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
