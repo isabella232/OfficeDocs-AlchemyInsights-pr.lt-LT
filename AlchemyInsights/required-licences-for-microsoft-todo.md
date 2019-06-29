@@ -1,5 +1,5 @@
 ---
-title: Reikalingas licencijas "Microsoft" ToDo
+title: Licencijos dėl Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "164"
+- "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2f368be8419e9b3ed949ace9c26562a66db6113e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383999"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370034"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licencijos dėl Microsoft ToDo
 
@@ -25,37 +27,36 @@ ms.locfileid: "32383999"
 Vartotojas turi būti viena iš šių licencijų naudoti "Microsoft" ToDo:
   
 - Verslo pagrindai
-    
+
 - Verslo klasės Premium
-    
+
 - "Microsoft" 365 Firstline F1
-    
+
 - Bet kokios Office 365 Enterprise planas
-    
+
 - Saugios gamybos verslo
-    
+
 - Užtikrinti produktyvios Enterprise E3
-    
+
 - Užtikrinti gamybos įmonė E5
-    
+
 - Bet kokios Office 365 ugdymo planas
-    
+
 - "Microsoft" 365 A3
-    
+
 - "Microsoft" 365 A5
-    
-Be tinkamą produkto licenciją, vieną iš šių versijų Exchange Online reikia ToDo galėtų sinchronizuoti vartotojo duomenis: 
+
+Be tinkamą produkto licenciją, vieną iš šių versijų Exchange Online reikia ToDo galėtų sinchronizuoti vartotojo duomenis:
   
 - Keičiasi interneto plano 1
-    
+
 - Keičiasi interneto planas 2
-    
+
 - Keitimo pagrindai
-    
+
 - Mainų interneto kioskas
-    
+
 - Mainų internete POP
-    
+
 [Priskirti licencijas su "PowerShell" Office 365 "vartotojų abonementai](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
-

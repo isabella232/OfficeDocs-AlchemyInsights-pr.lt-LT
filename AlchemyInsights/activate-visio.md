@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883168"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358909"
 ---
 # <a name="activate-visio"></a>Aktyvinti "Visio"
 
@@ -27,8 +27,8 @@ Kol vartotojas gali įdiegti ir aktyvuoti darbalaukį "Visio" darbalaukio progra
 
 Kaip įjungti "Visio":
 
-1. [Įdiegti "Visio"](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) jei ji dar neįdiegta.
-2. Kai diegimas bus baigtas, atidaryti "Visio". Daugeliu atvejų programa automati¹kai aktyvina ir galėsite pradėti naudoti "Visio" iš karto. Jei esate raginami prisijungti, būtinai prisijunkite su paties darbo arba mokyklos abonementą, kuris buvo priskirtas "Visio" licencijų. 
+1. Įdiegti "Visio" iš jūsų [mano paskyra portale](https://portal.office.com/account#installs) , jei ji dar neįdiegta. Pagalbos rasite [Įdiegti "Visio"](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Kai diegimas bus baigtas, atidarykite programėlę "Visio". "Visio" gali automatiškai įjungti ir jūs galite pradėti naudoti iš karto. Jei ne, jūs būsite paraginti prisijungti. Būtinai Prisijunkite prie paties darbo arba mokyklos abonementą, kuris buvo priskirtas "Visio" licencijų. Vykdykite nurodymus Norėdami tęsti aktyvinimo. 
 
 Aktyvinimo problemų, paleiskite [aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy) dėl nukentėjusių kompiuterio.
 
