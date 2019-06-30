@@ -1,34 +1,29 @@
 ---
-title: "\"Outlook.com\" pašto šiukšlių ir nepageidaujamo"
+title: Šlamštas ir šiukšlių "Outlook.com"
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373540"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372017"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Šlamštas ir nepageidaujamo el. laiškų "Outlook.com"
+# <a name="mark-email-messages-as-junk"></a>Laiškų žymėjimas kaip nepageidaujamo
 
-Norėdami pažymėti laišką kaip nepageidaujamo ar šlamšto:
+Norėdami pažymėti pranešimą kaip nepageidaujamo ar šlamšto, pasirinkite pranešimą iš pranešimų sąrašo ir pasirinkite **nepageidaujamo** > **šiukšlių**.
 
-1. Pranešimų sąraše pasirinkite žinutė.
-1. Virš pranešimų sąrašo, pasirinkite **Junk** > **šiukšlių**.
+Blokuoti visus laiškus iš konkrečių el. pašto adreso, pasirinkite laišką ar laiškus, pranešimų sąraše ir pasirinkite **Junk** > **blokas**.
 
-**Pastaba:** Jei pastebėsite, kad el. paštu nebuvo šlamštas, pasirinkite pranešimą dar kartą (tai bus jūsų nepageidaujamo el. pašto aplanką) ir pasirinkite **pageidaujamą** > **pageidaujamą**. Nepageidautino el. pašto aplanke esančių elementų yra ištrinami po 30 dienų.  [Sužinoti daugiau apie tai, kaip padėti išlaikyti elektroninio pašto šiukšlių ir nepageidaujamą el. paštą iš savo "Outlook.com" aplanko Gauta.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Jei jūs netyčia pažymėti laišką kaip nepageidaujamas el. paštas, pasirinkite pranešimą į [nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail) ir pasirinkite **pageidaujamą** > **pageidaujamą**. (*Pastaba:* savo nepageidaujamo pašto aplanke esančių elementų yra ištrinami po 30 dienų.)
 
-Blokuoti visus pranešimus iš konkrečių el. pašto adresai ar domenai:
-
-1. Pranešimų sąraše pasirinkite žinutė ir **šiukšlių** > **blokas** > **gerai**. (Jei el. laiške yra jau atidaryti naujame lange, **blokas** atrodo kaip alternatyva lango viršuje.)
-1. Atidarykite savo [nepageidaujamo el. pašto parametrus](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), įveskite el. pašto adresą arba domeną, kurį norite blokuoti, ir pasirinkite **įtraukti** > **Išsaugoti**.
-1. [Nepageidaujamo el. pašto filtrus](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), galite pasirinkti tik pasitikėti el. pašto adresus į savo patikimų siuntėjų ir domenų sąrašas ir saugūs adresatų sąrašai.
-
-[Sužinokite daugiau apie tai, kaip blokuoti arba neblokuoti siuntėjai "Outlook.com".](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Norėdami sužinoti daugiau, skaitykite [pažymėti laišką kaip nepageidaujamo ar blokuoti siuntėjus "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

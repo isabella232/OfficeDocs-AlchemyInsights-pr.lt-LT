@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914114"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381881"
 ---
 # <a name="install-visio"></a>Įdiegti "Visio"
 
 "Visio" yra parduodamas, kaip naudojant atskirą programą, jei jūs neturite dar, [PPT "Visio"](https://products.office.com/visio). 
 
-Jei prenumeruojate "Visio" interneto planas 2, vartotojai nematys galimybė įdiegti "Visio" iš **mano įdiegia** [mano paskyra portale](https://portal.office.com/account#installs) , nebent turite [priskirti juos licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Pastaba**: Visio Online planas 1 nėra darbalaukio versiją, "Visio", todėl galima diegti.
 
-Konkrečių nurodymų, atsisiųsti ir įdiegti "Visio", rasite [Įdiegti "Visio"](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Jei turite Visio Online Plan 2 prenumeratą, turite [Priskirti licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) vartotojui ar they papratimas turite galimybę įdiegti "Visio" iš **mano įdiegia** [mano paskyrą portale](https://portal.office.com/account#installs). 
 
-Jei turite galiojančią prenumeratą/licenciją ir yra kyla problemų atliekant sąranką, pabandykite įdiegti "Visio" [palaikymo ir atkūrimo asistentas](https://aka.ms/SaRA-VisioSetupScenario).
+Non-bendrosios licencijos versijos Visio standartas ir Visio Professional yra susietas su "Microsoft" abonementų ir negali būti tvarkomi administravimo centrą. Jei norite įdiegti šias versijas, vartotojai turi Prisijunkite prie [account.microsoft.com su "Microsoft" paskyrą, susietą su šiuo "Visio" versiją.](https://account.microsoft.com)
+
+Išsamesnę pagalbą rasite [Įdiegti "Visio"](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ir atlikite veiksmus, taikomus jūsų "Visio" versiją.
 
 Daugiau informacijos rasite:<br>
 [Visuotinio diegimo vadovą "Visio"](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
