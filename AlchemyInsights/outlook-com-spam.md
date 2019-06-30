@@ -1,34 +1,29 @@
 ---
-title: "\"Outlook.com\" pašto šiukšlių ir nepageidaujamo"
+title: Šlamštas ir šiukšlių "Outlook.com"
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373540"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372017"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="19507-102">Šlamštas ir nepageidaujamo el. laiškų "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="19507-102">Spam and junk email in Outlook.com</span></span>
+# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="9f751-102">Laiškų žymėjimas kaip nepageidaujamo</span><span class="sxs-lookup"><span data-stu-id="9f751-102">Mark email messages as junk</span></span>
 
-<span data-ttu-id="19507-103">Norėdami pažymėti laišką kaip nepageidaujamo ar šlamšto:</span><span class="sxs-lookup"><span data-stu-id="19507-103">To mark an email as junk or spam:</span></span>
+<span data-ttu-id="9f751-103">Norėdami pažymėti pranešimą kaip nepageidaujamo ar šlamšto, pasirinkite pranešimą iš pranešimų sąrašo ir pasirinkite **nepageidaujamo** > **šiukšlių**.</span><span class="sxs-lookup"><span data-stu-id="9f751-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
 
-1. <span data-ttu-id="19507-104">Pranešimų sąraše pasirinkite žinutė.</span><span class="sxs-lookup"><span data-stu-id="19507-104">Select the message or messages in your message list.</span></span>
-1. <span data-ttu-id="19507-105">Virš pranešimų sąrašo, pasirinkite **Junk** > **šiukšlių**.</span><span class="sxs-lookup"><span data-stu-id="19507-105">Above the message list, select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="9f751-104">Blokuoti visus laiškus iš konkrečių el. pašto adreso, pasirinkite laišką ar laiškus, pranešimų sąraše ir pasirinkite **Junk** > **blokas**.</span><span class="sxs-lookup"><span data-stu-id="9f751-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="19507-106">**Pastaba:** Jei pastebėsite, kad el. paštu nebuvo šlamštas, pasirinkite pranešimą dar kartą (tai bus jūsų nepageidaujamo el. pašto aplanką) ir pasirinkite **pageidaujamą** > **pageidaujamą**.</span><span class="sxs-lookup"><span data-stu-id="19507-106">**Note:** If you discover that an email message was not spam, select the message again (it will be in your Junk Email folder) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="19507-107">Nepageidautino el. pašto aplanke esančių elementų yra ištrinami po 30 dienų.  [Sužinoti daugiau apie tai, kaip padėti išlaikyti elektroninio pašto šiukšlių ir nepageidaujamą el. paštą iš savo "Outlook.com" aplanko Gauta.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span><span class="sxs-lookup"><span data-stu-id="19507-107">Items in your Junk Email folder are deleted after 30 days. [Learn more about how to Help keep spam and junk email out of your Outlook.com inbox.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span></span>
+<span data-ttu-id="9f751-105">Jei jūs netyčia pažymėti laišką kaip nepageidaujamas el. paštas, pasirinkite pranešimą į [nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail) ir pasirinkite **pageidaujamą** > **pageidaujamą**.</span><span class="sxs-lookup"><span data-stu-id="9f751-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="9f751-106">(*Pastaba:* savo nepageidaujamo pašto aplanke esančių elementų yra ištrinami po 30 dienų.)</span><span class="sxs-lookup"><span data-stu-id="9f751-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
 
-<span data-ttu-id="19507-108">Blokuoti visus pranešimus iš konkrečių el. pašto adresai ar domenai:</span><span class="sxs-lookup"><span data-stu-id="19507-108">To block all messages from specific email addresses or domains:</span></span>
-
-1. <span data-ttu-id="19507-109">Pranešimų sąraše pasirinkite žinutė ir **šiukšlių** > **blokas** > **gerai**.</span><span class="sxs-lookup"><span data-stu-id="19507-109">Select the message or messages in your message list and then select **Junk** > **Block** > **OK**.</span></span> <span data-ttu-id="19507-110">(Jei el. laiške yra jau atidaryti naujame lange, **blokas** atrodo kaip alternatyva lango viršuje.)</span><span class="sxs-lookup"><span data-stu-id="19507-110">(If the email message is already open in a new window, **Block** appears as an option at the top of the window.)</span></span>
-1. <span data-ttu-id="19507-111">Atidarykite savo [nepageidaujamo el. pašto parametrus](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), įveskite el. pašto adresą arba domeną, kurį norite blokuoti, ir pasirinkite **įtraukti** > **Išsaugoti**.</span><span class="sxs-lookup"><span data-stu-id="19507-111">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), enter the email address or domain you want to block, and select **Add** > **Save**.</span></span>
-1. <span data-ttu-id="19507-112">[Nepageidaujamo el. pašto filtrus](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), galite pasirinkti tik pasitikėti el. pašto adresus į savo patikimų siuntėjų ir domenų sąrašas ir saugūs adresatų sąrašai.</span><span class="sxs-lookup"><span data-stu-id="19507-112">In your [Junk email filters](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), you can select to only trust email from addresses in my Safe senders and domains list and Safe mailing lists.</span></span>
-
-[<span data-ttu-id="19507-113">Sužinokite daugiau apie tai, kaip blokuoti arba neblokuoti siuntėjai "Outlook.com".</span><span class="sxs-lookup"><span data-stu-id="19507-113">Learn more about how to block or unblock senders in Outlook.com.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+<span data-ttu-id="9f751-107">Norėdami sužinoti daugiau, skaitykite [pažymėti laišką kaip nepageidaujamo ar blokuoti siuntėjus "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="9f751-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
