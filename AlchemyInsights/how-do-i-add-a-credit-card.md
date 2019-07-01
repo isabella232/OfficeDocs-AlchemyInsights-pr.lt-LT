@@ -1,5 +1,5 @@
 ---
-title: Kaip pridėti kreditine kortele?
+title: Kaip pridėti kredito kortelę?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom:
+- "432"
+- "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 5bf7010a406bde8f6eff034ce7dcfe464d8e6ec5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404611"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386237"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Kaip pridėti kreditine kortele?
+# <a name="how-do-i-add-a-credit-card"></a>Kaip pridėti kredito kortelę?
 
-1. Administravimo centro, eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba pasirinkti **atsiskaitymo** \> **prenumeratos**.
-    
-2. Pasirinkite prenumeratą, kurią norite mokėti už naują kredito kortelės arba banko sąskaitos, tada pasirinkite **atnaujinti mokėjimo informaciją**.
-    
-3. Pasirinkti meniu rodyklę **įtraukti**arba pasirinkite mokėjimo būdą, tada pasirinkite **naują kredito kortelę** arba **naują banko sąskaitą**.
-    
-4. Įveskite naują kredito kortelės ar banko sąskaitos informaciją, tada pasirinkite pateikti.
-    
+1. Administravimo centre eikite į puslapį ](https://go.microsoft.com/fwlink/p/?linkid=842054)Prenumeratos[ arba pasirinkite **Atsiskaitymas** \> **Prenumeratos**.
 
+2. Pasirinkite prenumeratą, už kurią norite mokėti naudodami naują kredito kortelę arba banko sąskaitą, tada pasirinkite **Mokėjimo informacijos naujinimas**.
+
+3. Pasirinkite išplečiamąją rodyklę, esančią po **Įtraukti arba pasirinkti mokėjimo būdą**, tada pasirinkite **Nauja kredito kortelė** arba **Nauja banko sąskaita**.
+
+4. Įveskite naujos kredito kortelės arba banko sąskaitos informaciją, tada pasirinkite Pateikti.
