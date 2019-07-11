@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377705"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614106"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Pridėti į "Outlook.com" el. pašto adreso pseudonimą
 
@@ -30,6 +30,6 @@ Jei norite pridėti el. pašto adresą:
     2. Įtraukti esamą el. pašto adresą kaip pseudonimą.
 3. Pasirinkite **įtraukti pseudonimą**.
 
-Skaityti daugiau apie tai, kaip [pridėti](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)arba pašalinti el. pašto adreso pseudonimą į "Outlook.com".  
+Skaityti daugiau apie tai, kaip [pridėti](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)arba pašalinti el. pašto adreso pseudonimą į "Outlook.com".  
 
-Skaityti [kaip prisijungti kitą el. pašto paskyrą](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) "Outlook.com" paskyros.
+Skaityti [kaip prisijungti kitą el. pašto paskyrą](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) "Outlook.com" paskyros.
