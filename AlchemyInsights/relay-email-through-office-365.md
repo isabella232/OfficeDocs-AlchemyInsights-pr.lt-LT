@@ -13,17 +13,17 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: b34e1b3d5e45fcebb8c2e3b8b8e37cf4a5a0ec8b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c056f5c78935adcf0b64779f9632f9336080a40
+ms.sourcegitcommit: dce9cf9bb05d29f0f9bab61fe3fc25e99f0cebf1
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370431"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630749"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Daugiafunkcio įrenginio arba programos, skirtos siųsti el. laiškus naudojant „Office 365“, nustatymas
 
 Jei norite sužinoti apie galimas parinktis ir veiksmus, žr. [Kaip nustatyti daugiafunkcį įrenginį arba programą siųsti el. laiškus naudojant „Office 365“](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
-**Pastaba:** jei turite įrenginį arba taikomąją programą, kuri neseniai nustojo veikti, atkreipkite dėmesį, kad mes neseniai, kaip planuota, pradėjome [išjungti 3DES šifravimą](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption).  **„Windows Server 2003“ IIS SMTP daugiau nebeveiks – reikalinga naujesnė „Windows“ versija.**
-
-Dažnai pasitaikančios klaidos gali būti panašios į tokias: autentifikavimo triktis / klaida, TLS triktis / klaida, šifravimo algoritmo neatitikimas, ryšio praradimas.  Patikrinkite savo programoje ar susisiekę su įrenginio tiekėju, ar palaikomas šiuolaikiškas šifras, o galbūt yra naujinimas.
+**Pastaba:** jei turite įrenginį arba taikomąją programą, kuri neseniai nustojo veikti, atkreipkite dėmesį, kad mes neseniai, kaip planuota, pradėjome [išjungti 3DES šifravimą](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption). Norėdami peržiūrėti susijusius įrenginius, eikite į [SMTP autentifikavimo klientų ataskaitą](https://protection.office.com/mailflow/dashboard). Dažnai pasitaikančios klaidos gali būti panašios į tokias: autentifikavimo triktis / klaida, TLS triktis / klaida, šifravimo algoritmo neatitikimas, ryšio praradimas. Norėdami išspręsti problemą:
+ - **„Windows Server 2003“ IIS SMTP daugiau nebeveiks – reikalinga naujesnė „Windows“ versija.**  
+ - Patikrinkite savo programoje ar susisiekę su įrenginio tiekėju, ar palaikomas šiuolaikiškas šifras, o galbūt yra naujinimas.
