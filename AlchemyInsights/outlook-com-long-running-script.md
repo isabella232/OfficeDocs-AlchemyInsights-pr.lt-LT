@@ -12,16 +12,16 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: d60efa1f6438276cefd6208abc1df3d763f45995
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e43fc15553d41dab8636935f9b5557291cd1192a
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373997"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35703920"
 ---
-# <a name="long-running-script"></a><span data-ttu-id="ceacc-102">Ilgai veikiančio scenarijaus</span><span class="sxs-lookup"><span data-stu-id="ceacc-102">Long running script</span></span>
+# <a name="long-running-script"></a><span data-ttu-id="a4a05-102">Ilgai veikiančio scenarijaus</span><span class="sxs-lookup"><span data-stu-id="a4a05-102">Long running script</span></span>
 
-<span data-ttu-id="ceacc-103">Mes žinome apie problemų "ilgai veikia scenarijų" ir "Outlook.com".</span><span class="sxs-lookup"><span data-stu-id="ceacc-103">We're aware of issues with "long running script" in Outlook.com.</span></span> <span data-ttu-id="ceacc-104">Laikinas problemos sprendimas, prašome naudoti "Outlook.com" beta versiją.</span><span class="sxs-lookup"><span data-stu-id="ceacc-104">As a workaround, please use the Outlook.com beta.</span></span>
+<span data-ttu-id="a4a05-103">Mes žinome apie problemų "ilgai veikia scenarijų" ir "Outlook.com".</span><span class="sxs-lookup"><span data-stu-id="a4a05-103">We're aware of issues with "long running script" in Outlook.com.</span></span> <span data-ttu-id="a4a05-104">Laikinas problemos sprendimas, prašome naudoti "Outlook.com" beta versiją.</span><span class="sxs-lookup"><span data-stu-id="a4a05-104">As a workaround, please use the Outlook.com beta.</span></span>
   
-[<span data-ttu-id="ceacc-105">Sužinokite daugiau apie "Outlook.com" beta versiją.</span><span class="sxs-lookup"><span data-stu-id="ceacc-105">Learn more about the Outlook.com beta.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[<span data-ttu-id="a4a05-105">Sužinokite daugiau apie "Outlook.com" beta versiją.</span><span class="sxs-lookup"><span data-stu-id="a4a05-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   
