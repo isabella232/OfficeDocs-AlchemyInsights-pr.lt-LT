@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372017"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697127"
 ---
 # <a name="mark-email-messages-as-junk"></a>Laiškų žymėjimas kaip nepageidaujamo
 
@@ -26,4 +26,4 @@ Blokuoti visus laiškus iš konkrečių el. pašto adreso, pasirinkite laišką 
 
 Jei jūs netyčia pažymėti laišką kaip nepageidaujamas el. paštas, pasirinkite pranešimą į [nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail) ir pasirinkite **pageidaujamą** > **pageidaujamą**. (*Pastaba:* savo nepageidaujamo pašto aplanke esančių elementų yra ištrinami po 30 dienų.)
 
-Norėdami sužinoti daugiau, skaitykite [pažymėti laišką kaip nepageidaujamo ar blokuoti siuntėjus "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Norėdami sužinoti daugiau, skaitykite [pažymėti laišką kaip nepageidaujamo ar blokuoti siuntėjus "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
