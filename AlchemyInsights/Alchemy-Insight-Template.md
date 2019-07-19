@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366339"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786421"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Reikia Alchemy antraštės H1, H2, neveikia.
 Geriausia praktika ir rengti gaires Alchemija kūrimo:
@@ -37,4 +37,6 @@ Geriausia praktika ir rengti gaires Alchemija kūrimo:
 
 Ir tai tikrai jau yra šiek tiek per ilgas. Geriausia praktika yra apie 400 simbolių---
 
-Kai jūsų turinys yra pasirengusi, traukti į gyvos apatinės šakos. Tada eikite į [Alchemija partnerių portale](https://alchemyportal.azurewebsites.net) ir url lauke įveskite failo vardą. M
+Kai jūsų turinys yra pasirengusi, traukti į gyvos apatinės šakos. Tada eikite į [Alchemija partnerių portale](https://alchemyportal.azurewebsites.net) ir url lauke įveskite failo vardą. 
+
+
