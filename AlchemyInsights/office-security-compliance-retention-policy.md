@@ -1,25 +1,24 @@
 ---
-title: Naujos saugojimo etiketėms, automatiškai
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Daugiau informacijos apie saugojimo strategijos
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223000"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448843"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Naujos saugojimo etiketėms, automatiškai
+# <a name="more-info-about-retention-policies"></a>Daugiau informacijos apie saugojimo strategijos
 
 Nes dauguma organizacijų, apimties ir sudėtingumo, jų duomenys yra didėja kasdien - el. paštas, dokumentai, tiesioginius pranešimus, ir dar daugiau.
-
-Efektyviai valdyti arba reglamentuojančių šią informaciją svarbu, saugojimo strategija gali padėti jums pasiekti šių tikslų. Daugiau informacijos apie saugojimo strategijos, apsilankykite žemiau esančią nuorodą.
+Efektyviai valdyti arba reglamentuojančių šią informaciją yra svarbu, ir saugojimo strategija gali padėti jums pasiekti šių tikslų. Daugiau informacijos apie saugojimo strategijos, aplankykite šias nuorodas:
 
 - [Saugojimo strategijos apžvalga](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
