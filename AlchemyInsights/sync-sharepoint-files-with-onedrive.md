@@ -20,7 +20,7 @@ ms.locfileid: "35803046"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>„Atidaryti naudojant „Explorer“ problemų šalinimas naudojant „Sharepoint Online“
 
-Komanda Atidaryti naudojant „Explorer“ atidaro vietinį „Windows Explorer“ egzempliorių, kuriame rodoma aplanko struktūra serveryje, kuriame yra „SharePoint“ svetainė. Atsižvelgiant į tai, rekomenduojame [sinchronizuoti „SharePoint“ failus su naujuoju „OneDrive“ sinchronizavimo klientu](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, kuris teikia [failus pagal pareikalavimą](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), nes jis suteikia vietinę prieigą prie jūsų failų ir siūlo geriausią našumą.
+Komanda Atidaryti naudojant „Explorer“ atidaro vietinį „Windows Explorer“ egzempliorių, kuriame rodoma aplanko struktūra serveryje, kuriame yra „SharePoint“ svetainė. Atsižvelgdami į tai, rekomenduojame [sinchronizuoti „SharePoint“ failus su naujuoju „OneDrive“ sinchronizavimo klientu](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, kuris teikia [failus pagal pareikalavimą](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), nes jis suteikia vietinę prieigą prie jūsų failų ir siūlo geriausią našumą.
 
 
 Jei pasirinkote naudoti „Explorer“ rodinį, o ne naująjį „OneDrive“ sinchronizavimo klientą, būtinai atlikite toliau pateiktuose straipsniuose nurodytus veiksmus ir naudokitės ten aprašytais geriausios praktikos pavyzdžiais:
