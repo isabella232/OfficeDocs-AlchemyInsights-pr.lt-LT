@@ -1,31 +1,34 @@
 ---
-title: Teisių klausimais, o perėjimas
-ms.author: kirks
-author: Techwriter40
+title: Klausimus, o perkelti duomenis į SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735465"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232549"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Klausimus, o perkelti duomenis į SharePoint Online
 
-Atrodo, kad daugiau nei 100TB duomenų migruoja į SharePoint Online.
+Atrodo, kad daugiau nei 100TB duomenų migruoja į SharePoint Online. Atlikite toliau nurodytus veiksmus, kad galėtumėme jums padėti kuo greičiau. 
 
-Spustelėkite **Naujas paslaugos užklausos** iš telefonu arba elektroniniu paštu žemiau ir palikite užklausą kaip SharePoint migracijos daugiau nei 100 TB teksto lauke.
+1. Pasirinkite **naują paslaugos užklausos**, o **naujos paslaugos užklausos**. 
+2. Palikti pavadinimą ir aprašymą kaip **SharePoint migracijos daugiau nei 100 TB**.
+3. Pateikus bilietą, prašome atnaujinti šią informaciją: 
 
-Pateikus bilietą, prašome atnaujinti šią informaciją: 
-
-- Jūsų įmonės pavadinimas ir nuomininkas URL
-- Apskaičiuotas dydis savo migracijos
-- Kada norite pradėti ir užbaigti perkėlimą sąmata
-- Apibūdinti, jei perkeliate turinį iš, pvz., SharePoint Server, dėžutė, GDrive, failų bendrinimo, ir tt.
+    - Apskaičiuotas dydis perkėlimą.
+    - Kada norite pradėti ir užbaigti savo migracijos įvertinimas.
+    - Apibūdinti, jei perkeliate turinį iš, pvz., SharePoint Server, dėžutė, GDrive, failų bendrinimo, ir tt...
 
 
   

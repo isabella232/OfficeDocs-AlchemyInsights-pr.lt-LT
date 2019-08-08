@@ -1,20 +1,24 @@
 ---
-title: Sąraše arba bibliotekoje versijų kūrimo įgalinimas
-ms.author: kirks
-author: Techwriter40
+title: Versijų kūrimą SharePoint ir "OneDrive"
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223612"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232666"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>SharePoint sąrašo arba bibliotekos versijų kūrimo įgalinimas
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Versijų kūrimą SharePoint ir "OneDrive" 
 
 
 Įgalinus atsarginių versijų kūrimą SharePoint sąraše arba bibliotekoje, galite saugoti, sekti ir atkurti sąrašo elementus ir failus į biblioteką, kai jie buvo pakeisti. Atsarginių versijų kūrimas, kartu su kitų parametrų, pvz., kasos, suteikia jums kontroliuoti turinio, kuris yra paskelbtas svetainėje ir gali suteikti realią vertę, jei jūs kada nors pažvelgti arba Atkurkite senos versijos elemento arba failo reikia daug.
