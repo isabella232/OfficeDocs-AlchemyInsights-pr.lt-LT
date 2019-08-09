@@ -1,9 +1,9 @@
 ---
 title: „Atidaryti naudojant „Explorer“ problemų šalinimas naudojant „SharePoint Online“
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803046"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270716"
 ---
-# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>„Atidaryti naudojant „Explorer“ problemų šalinimas naudojant „Sharepoint Online“
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>„Atidaryti naudojant „Explorer“ problemų šalinimas naudojant „SharePoint Online“
 
 Komanda Atidaryti naudojant „Explorer“ atidaro vietinį „Windows Explorer“ egzempliorių, kuriame rodoma aplanko struktūra serveryje, kuriame yra „SharePoint“ svetainė. Atsižvelgdami į tai, rekomenduojame [sinchronizuoti „SharePoint“ failus su naujuoju „OneDrive“ sinchronizavimo klientu](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, kuris teikia [failus pagal pareikalavimą](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), nes jis suteikia vietinę prieigą prie jūsų failų ir siūlo geriausią našumą.
 
@@ -31,9 +31,9 @@ Jei pasirinkote naudoti „Explorer“ rodinį, o ne naująjį „OneDrive“ si
 
 > [!Note]  
 > Mygtukas **Atidaryti naudojant „Explorer“** nerodomas naujojoje bibliotekos sąsajoje. Viršutiniame dešiniajame kampe spustelėkite išplečiamąjį sąrašą **Rodinys** (išplečiamojo sąrašo pavadinimas keičiasi, atsižvelgiant į dabartinį rodinį), tada failų naršyklėje spustelėkite **Peržiūrėti failų naršyklėje**.
-
+>
  >„SharePoint“ komanda Atidaryti naudojant „Explorer“ naudoja „ActiveX“ valdiklius, todėl ji palaikoma tik „Internet Explorer“ 10 arba 11 versijoje. Komanda Atidaryti naudojant „Explorer“ neveikia sistemoje „Windows“ su „Microsoft Edge“, „Google Chrome“ ir „Mozilla Firefox“ arba „Mac“ platformoje. Dėl šios priežasties „Explorer“ rodinio parinktis gali būti papilkinta.
-
+>
 > - [Kodėl „SharePoint“ juostelės mygtukai nepasiekiami arba papilkinti](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 
