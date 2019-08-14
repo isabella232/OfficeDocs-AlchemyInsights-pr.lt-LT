@@ -13,16 +13,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386021"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389004"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kaip atnaujinti savo kredito kortelės informaciją?
 
-1. Administravimo centre eikite į puslapį ](https://go.microsoft.com/fwlink/p/?linkid=842054)Prenumeratos[ arba pasirinkite **Atsiskaitymas** \> **Prenumeratos**.
+1. Administravimo centre eikite į **Atsiskaitymas** \> [Prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
 2. Pasirinkite prenumeratą, kurią įsigijote naudodami kredito kortelę arba banko sąskaitą ir kurią norite atnaujinti, tada pasirinkite **Mokėjimo informacijos naujinimas**.
 
@@ -32,5 +32,6 @@ ms.locfileid: "35386021"
 
 5. Turėtų būti rodomas patvirtinimo pranešimas.
 
-Papildomos informacijos žr. [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+Papildomos informacijos žr. [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/lt-LT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+
+Ar naudojate naująjį administravimo centrą? Norėdami rasti naujausią informaciją, žr. [Kredito kortelės arba banko sąskaitos įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://docs.microsoft.com/lt-LT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

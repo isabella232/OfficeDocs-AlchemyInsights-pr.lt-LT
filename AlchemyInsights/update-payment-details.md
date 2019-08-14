@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903716"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387769"
 ---
 # <a name="update-payment-details"></a>Mokėjimo informacijos naujinimas
 
-1. Administravimo centre eikite į puslapį [Mokėjimo metodai](https://go.microsoft.com/fwlink/p/?linkid=2018806) arba pasirinkite **Atsiskaitymas** \>**Mokėjimo metodai**.
+1. Administravimo centre eikite į **Atsiskaitymas** \> [Mokėjimo metodų](https://go.microsoft.com/fwlink/p/?linkid=2018806) puslapyje.
 
     > [!NOTE]
     > Jei patekote į ciklą, kai esate grąžinami į administratoriaus pagrindinį puslapį iki atnaujinimai užbaigiami, pabandykite „Inprivate“ arba inkognito režimą.
@@ -37,4 +37,4 @@ ms.locfileid: "35903716"
 
 5. Norėdami pašalinti šį mokėjimo būdą, pasirinkite **Naikinti**.
 
-Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://docs.microsoft.com/lt-LT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/lt-LT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
