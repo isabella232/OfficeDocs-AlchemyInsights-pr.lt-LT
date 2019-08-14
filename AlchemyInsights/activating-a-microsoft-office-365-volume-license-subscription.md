@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358837"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385873"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktyvinti "Microsoft Office 365" apimtis licencijos prenumeratą
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358837"
 
 5. Prisijunkite prie "Office 365" ([https://portal.office.com](https://portal.office.com)) naudodami esamą "Office 365" administratoriaus kredencialus. Po to, kai sėkmingai prisijungsite, gausite kitą el. laišką, patvirtinantį jūsų pirkti.
 
-6. Po to, kai esate prisijungę, galite eiti į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba pasirinkti **atsiskaitymo**  - \> **prenumeratos** įsitikinti, kad jūsų įsigytas Office 365 prenumeratos yra aktyvuotas per savo nuomotojo. (Galite taip pat pasirinkti skirtuką **prenumerata** Norėdami peržiūrėti išsamią informaciją, patikrinti, kad atidavė savo prenumeratą VLSC.) 
+6. Po to, kai esate prisijungę, galite pereiti prie **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis įsitikinti, kad jūsų įsigytas Office 365 prenumeratos yra aktyvuotas per savo nuomotojo. (Galite taip pat pasirinkti skirtuką **prenumerata** Norėdami peržiūrėti išsamią informaciją, patikrinti, kad atidavė savo prenumeratą VLSC.)

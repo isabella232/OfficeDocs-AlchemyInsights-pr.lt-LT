@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 58b6c9baef1d0f30045a7a02433b3b9e422bd07d
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606820"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389872"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Kaip peržiūrėti ir tvarkyti programas
 
-Norėdami peržiūrėti programėlių, jūs turite būti administratorius centro peržiūros režimu.  Galite perjungti tai pagrindiniame puslapyje.  
+Norėdami peržiūrėti programėlių, jūs turite būti naujas administravimo centro.  Galite perjungti tai dėl administravimo centro puslapį.  
 
-1. Su įjungta peržiūra, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Su nauja administravimo centro įjungtas, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
 2. **Prekių ir paslaugų &** puslapyje, pasirinkite skirtuką **programos** .

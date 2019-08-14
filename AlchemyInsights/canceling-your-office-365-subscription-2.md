@@ -13,20 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 411dc6f93c605e87f1b76c880a05ad4256ddedea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4e18a07b54a3d47767998c7680d92f741b0fb5c6
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361573"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387265"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Atšaukti "Office 365" prenumeratą?
 
 Mes labai Atsiprašome, jei priimtumėte!
   
-Remiantis jūsų organizacijos duomenis, manome, kad visos jūsų dabartinės prenumeratos yra daugiau nei 25 priskirti licencijas. Galite pašalinti vartotojus, kol turi mažiau nei 25, tada eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba eikite į **atsiskaitymo** \> **prenumerata**, ir tada pasirinkite **daugiau veiksmų** \> **atšaukti prenumeratą**.
+Remiantis jūsų organizacijos duomenis, manome, kad visos jūsų dabartinės prenumeratos yra daugiau nei 25 priskirti licencijas. Galite pašalinti vartotojų tol, kol jūs turite mažiau nei 25, tada eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis, ir pasirinkite **daugiau veiksmų** \> **atšaukti prenumeratą**.
   
 Taip pat galite naudoti pasirinktį "Mes jums paskambinsime" pasikalbėti su aptarnaujančiu techniku.
   
-Norėdami sužinoti daugiau apie atšaukti prenumeratą arba žingsnis po žingsnio instrukcijas, skaitykite šį straipsnį: [Atšaukti "Office 365" verslui](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+Norėdami sužinoti daugiau apie atšaukti prenumeratą arba žingsnis po žingsnio instrukcijas, skaitykite šį straipsnį: [prenumeratos atsisakymas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

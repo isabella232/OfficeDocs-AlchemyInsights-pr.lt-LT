@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 89178c32cfd9d5b7cd5985122b1509b0d9c5d648
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365110"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387537"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Kai mano kredito kortelės nuskaičiuoti?
 
@@ -26,4 +26,4 @@ Su pradinio pirkimo, tai gali užtrukti iki dviejų dienų pasitaiko įkrovos.
   
 Pasikartojančios mokesčiai įvykti per vieną dieną buvo sukurtos.
   
-Jei mokestis yra nesėkmingas, sistema bus toliau bandyti įsikurti likutis per ateinančias kelias savaites. Jūs galite atnaujinti savo mokėjimo informaciją bet kuriuo metu užtikrinti kitą mokestį bandymas yra sėkmingas. Norėdami gauti daugiau informacijos, žiūrėkite [pridėti, atnaujinti arba pašalinti kredito kortelės arba banko sąskaitos "Office 365" verslui](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Jei mokestis yra nesėkmingas, sistema bus toliau bandyti įsikurti likutis per ateinančias kelias savaites. Jūs galite atnaujinti savo mokėjimo informaciją bet kuriuo metu užtikrinti kitą mokestį bandymas yra sėkmingas. Norėdami gauti daugiau informacijos, žiūrėkite [pridėti, atnaujinti arba pašalinti kredito kortelės arba banko sąskaitos "Office 365" verslui](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

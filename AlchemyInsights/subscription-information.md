@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: cac2ecccd3026671ef557f0d91264929abf441cc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c455489f1daadee74eca909e1a974887227039f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354157"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388320"
 ---
 # <a name="subscription-information"></a>Informacijos prenumerata
 
-Informacijos apie prenumeratos galite savo, eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba pasirinkti **atsiskaitymo** \> **prenumeratos**.
+Informacijos apie savo prenumeratas, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
   
 Pagrindinė informacija apie kiekvieną prenumeratos:
   

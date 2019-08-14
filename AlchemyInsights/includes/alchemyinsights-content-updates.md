@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Savaitę nuo 2019 m. liepos 01
-
-
-| Paskelbta |Temos pavadinimą | Keisti |
-|------|------------|--------|
-| 7/1/2019 | [Klasikinis SharePoint audito žurnalų ataskaitos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modifikuoto |
-| 7/2/2019 | [Daugiau informacijos apie saugojimo strategijos](/AlchemyInsights/office-security-compliance-retention-policy) | modifikuoto |
-
-
 ## <a name="week-of-july-08-2019"></a>Savaitę nuo 2019 m. liepos 08
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Tvarkyti el. paštą programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-organize-email) | modifikuoto |
 | 8/2/2019 | [Spausdinti el. paštas, kalendorius ir priedus programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-print-email-calendars-attachments) | modifikuoto |
 | 8/2/2019 | [Perskaitymo pažymų programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-read-receipts) | modifikuoto |
+
+
+## <a name="week-of-august-05-2019"></a>Savaitę rugpjūčio 05, 2019
+
+
+| Paskelbta |Temos pavadinimą | Keisti |
+|------|------------|--------|
+| 8/5/2019 | [Kaip atsakyti į arba persiųsti laiškus programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-reply-forward-messages) | modifikuoto |
+| 8/5/2019 | [8000003 paieškos paštas ir žmonės programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-search-mail-and-people) | modifikuoto |
+| 8/5/2019 | [Parašo kūrimas programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-signature) | modifikuoto |
+| 8/5/2019 | [S/MIME programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-smime) | modifikuoto |
+| 8/5/2019 | [Sustabdyti pranešimų vykimui į nepageidaujamo el. pašto aplanką programoje "Outlook" žiniatinklyje](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | modifikuoto |
+| 8/5/2019 | [Išjungti daugiausia gauta](/AlchemyInsights/owa-turn-off-focused-inbox) | modifikuoto |
+| 8/5/2019 | [1332 OWA - aplankui Gauta yra ne vykdančiajai pašto dėžutės](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modifikuoto |
+| 8/6/2019 | [Bandymų Alchemija įdėtųjų vaizdų](/AlchemyInsights/testing-alchemy-inline-images) | modifikuoto |
+| 8/6/2019 | [Apsauga nuo pažangių grėsmių SharePoint ir "OneDrive"](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modifikuoto |
+| 8/6/2019 | [Išpirkos ataka SharePoint arba "OneDrive"](/AlchemyInsights/ransomware-attack-in-sharepoint) | modifikuoto |
+| 8/6/2019 | [Modernus svetainės kaip šakninė svetainė](/AlchemyInsights/modern-site-as-the-root-site) | modifikuoto |
+| 8/6/2019 | [Klausimus, o perkelti duomenis į SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | modifikuoto |
+| 8/6/2019 | [Atsisiųsti arba užkirsti kelią atsisiųsti failus iš "OneDrive" arba SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modifikuoto |
+| 8/6/2019 | [Prieiga uždrausta pranešimų į "OneDrive" verslo svetainėms](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | modifikuoto |
+| 8/6/2019 | [Panaikinto failo arba aplanko atkūrimas](/AlchemyInsights/sharepoint-deleted-items-restore) | modifikuoto |
+| 8/6/2019 | [Versijų kūrimą SharePoint ir "OneDrive"](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modifikuoto |
+| 8/6/2019 | ["OneDrive" saugojimo ir naikinimo informacija](/AlchemyInsights/one-drive-retention-and-deletion) | modifikuoto |
+| 8/7/2019 | [Neleisti atsisiųsti SharePoint arba "OneDrive" failus](/AlchemyInsights/prevent-download) | modifikuoto |
+| 8/7/2019 | [Panaikinto failo arba aplanko atkūrimas](/AlchemyInsights/sharepoint-deleted-items-restore) | modifikuoto |
+| 8/7/2019 | [Įgalinti išorinį bendrinimą SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | modifikuoto |
+| 8/7/2019 | [Taisyti "OneDrive" sinchronizavimo problemas](/AlchemyInsights/fix-onedrive-sync-issues) | modifikuoto |
+| 8/7/2019 | ["OneDrive" sinchronizavimo problemų](/AlchemyInsights/fix-onedrive-sync-problems) | modifikuoto |
+| 8/7/2019 | [Darbo eigos paštu nesiunčiamas](/AlchemyInsights/workflow-email-not-being-sent) | modifikuoto |
+| 8/7/2019 | [Darbo eigos nepasileidžia](/AlchemyInsights/workflow-is-not-starting) | modifikuoto |
+| 8/7/2019 | [Apsauga nuo pažangių grėsmių SharePoint ir "OneDrive"](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modifikuoto |
+| 8/7/2019 | [Susieti koncentratoriaus svetainė](/AlchemyInsights/associate-a-hub-site) | modifikuoto |
+| 8/7/2019 | [SharePoint svetainės kūrimas](/AlchemyInsights/create-a-sharepoint-site) | modifikuoto |
+| 8/7/2019 | [Modernus svetainės kaip šakninė svetainė](/AlchemyInsights/modern-site-as-the-root-site) | modifikuoto |
+| 8/7/2019 | ["OneDrive" saugojimas ir naikinimas](/AlchemyInsights/one-drive-retention-and-deletion) | modifikuoto |
+| 8/7/2019 | ["OneDrive" bendros problemos ir sprendimai](/AlchemyInsights/onedrive-common-issues-and-resolutions) | modifikuoto |
+| 8/7/2019 | [Išpirkos ataka SharePoint arba "OneDrive"](/AlchemyInsights/ransomware-attack-in-sharepoint) | modifikuoto |
+| 8/7/2019 | [Išorės pasidalijimo SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | modifikuoto |
+| 8/7/2019 | [Versijų kūrimą SharePoint ir "OneDrive"](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modifikuoto |
+| 8/7/2019 | [Išorinio kontakto yra neįmanoma priimti bendrinimo kvietimą](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | modifikuoto |
+| 8/7/2019 | [SharePoint Online bendros problemos ir sprendimai](/AlchemyInsights/sharepoint-get-started-faq) | modifikuoto |
+| 8/7/2019 | [Modernus svetainės kaip šakninė svetainė](/AlchemyInsights/sharepoint-modernize-classic-site) | modifikuoto |
+| 8/7/2019 | [Atsisiųsti arba užkirsti kelią atsisiųsti failus iš "OneDrive" arba SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modifikuoto |
+| 8/7/2019 | [Įdiegti sąrankos ir sinchronizavimas "OneDrive" arba SharePoint failus "Mac"](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | modifikuoto |
+| 8/7/2019 | [Trikčių diagnostika "atviros su" Explorer "" SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modifikuoto |
+| 8/8/2019 | [Apsauga nuo pažangių grėsmių SharePoint ir "OneDrive"](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modifikuoto |
+| 8/8/2019 | [Susieti koncentratoriaus svetainė](/AlchemyInsights/associate-a-hub-site) | modifikuoto |
+| 8/8/2019 | [SharePoint svetainės kūrimas](/AlchemyInsights/create-a-sharepoint-site) | modifikuoto |
+| 8/8/2019 | [404 klaida: Failas nerastas](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | modifikuoto |
+| 8/8/2019 | ["OneDrive" sinchronizavimo problemų sprendimas "Mac"](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | modifikuoto |
+| 8/8/2019 | [SharePoint bibliotekoje susieti tinklo diską](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | modifikuoto |
+| 8/8/2019 | [Modernus svetainės kaip šakninė svetainė](/AlchemyInsights/modern-site-as-the-root-site) | modifikuoto |
+| 8/8/2019 | ["OneDrive" saugojimas ir naikinimas](/AlchemyInsights/one-drive-retention-and-deletion) | modifikuoto |
+| 8/8/2019 | [Išpirkos ataka SharePoint arba "OneDrive"](/AlchemyInsights/ransomware-attack-in-sharepoint) | modifikuoto |
+| 8/8/2019 | [Panaikinto failo arba aplanko atkūrimas](/AlchemyInsights/sharepoint-deleted-items-restore) | modifikuoto |
+| 8/8/2019 | [Išorinis vartotojas yra neįmanoma pasiekti SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | modifikuoto |
+| 8/8/2019 | [SharePoint koncentratoriaus svetainių apžvalga](/AlchemyInsights/sharepoint-hub-sites) | modifikuoto |
+| 8/8/2019 | [Atsisiųsti arba užkirsti kelią atsisiųsti failus iš "OneDrive" arba SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modifikuoto |
+| 8/8/2019 | [Tvarkyti ieškos schemos SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | modifikuoto |
+| 8/8/2019 | [Veiksmus, Norėdami sukurti SharePoint darbo eigos](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | modifikuoto |
+| 8/8/2019 | [Apsikeitimo savo klasikinis šakninė svetainė su moderni svetainė](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | modifikuoto |
+| 8/8/2019 | [Trikčių diagnostika "atviros su" Explorer "" SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modifikuoto |
+| 8/8/2019 | [Darbo eigos trikčių šalinimas](/AlchemyInsights/workflow-troubleshooting) | modifikuoto |
+| 8/8/2019 | [Sudarytos sąlygos bei paieška: audito žurnalo](/AlchemyInsights/enable-auditing) | modifikuoto |
+| 8/8/2019 | [Įgalinti ir ieškoti audito žurnalas](/AlchemyInsights/enable-auditing) | modifikuoto |

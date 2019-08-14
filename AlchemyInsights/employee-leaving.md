@@ -13,16 +13,16 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 93e354494902d7ca52f5c3d6117be895975f52f0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388721"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386376"
 ---
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Ar darbuotojui paliekant ir reikia blokuoti prieigą prie duomenų ir elektroninio pašto adresą?
   
-1. Eikite į [aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Administravimo centro, eikite į **vartotojai** \> [Aktyvių vartotojų](https://go.microsoft.com/fwlink/p/?linkid=834822) puslapis.
 
 2. Pasirinkite vartotoją, kurį norite blokuoti.
 
@@ -30,4 +30,4 @@ ms.locfileid: "35388721"
 
 4. Pasirinkti, kad **užblokuotumėte naudotoją ir neleistumėte prisijungti** \> **Išsaugoti**.
 
- **Pastaba**: atsijungimo, kai kurios programos gali būti ne iškart. Su daugiau veiksmų šiame straipsnyje: [pašalinti buvęs darbuotojas iš "Office 365"](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+**Pastaba**: atsijungimo, kai kurios programos gali būti ne iškart. Su daugiau veiksmų šiame straipsnyje: [pašalinti buvęs darbuotojas iš "Office 365"](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
