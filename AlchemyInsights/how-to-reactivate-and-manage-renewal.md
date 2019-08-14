@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383537"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389944"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kaip iš naujo suaktyvinti ir valdyti pasikartojančių sąskaitų
 
 Atrodo, kad turite abonementą, kuris baigėsi. Jei norite vėl ją, o čia kaip.
   
-1. Administravimo centro, eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba eikite į **atsiskaitymo** \> **prenumeratos**.
+1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
 
 2. Pasirinkite abonementą, kuris yra **negaliojantys** arba **išjungta**.
 
@@ -36,11 +36,10 @@ Atrodo, kad turite abonementą, kuris baigėsi. Jei norite vėl ją, o čia kaip
 
 Valdyti, kas mėnesį arba kasmet atsiskaitymo jūs galite įjungti **pasikartojančios atsiskaitymo** arba išjungti.
   
-1. Administravimo centro, eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba eikite į **atsiskaitymo** \> **prenumeratos**.
+1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
 
 2. Pasirinkite abonemento, kurį norite valdyti pasikartojančių sąskaitų.
 
 3. Perjungti **pasikartojančios atsiskaitymo** perjungiklį **įjungti** arba **išjungti**.
 
-Daugiau informacijos rasite: [tvarkyti periodinių mokesčių už prenumeratą](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Norėdami gauti daugiau informacijos, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
