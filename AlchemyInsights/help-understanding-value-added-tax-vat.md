@@ -13,18 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386345"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390520"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a><span data-ttu-id="09197-102">Padėti suprasti vertės pridėti mokesčių (PVM)</span><span class="sxs-lookup"><span data-stu-id="09197-102">Help understanding value added tax (VAT)</span></span>
+# <a name="help-understanding-value-added-tax-vat"></a><span data-ttu-id="704cf-102">Padėti suprasti vertės pridėti mokesčių (PVM)</span><span class="sxs-lookup"><span data-stu-id="704cf-102">Help understanding value added tax (VAT)</span></span>
 
-<span data-ttu-id="09197-103">Jei esate šalyje, kuri naudoja pridėtinės vertės mokesčio (PVM), pvz., Jungtinėje Karalystėje, "Microsoft" Invoicing apskaičiuoja PVM už jus, ir taikoma suma sąskaitas faktūras.</span><span class="sxs-lookup"><span data-stu-id="09197-103">If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span>
+<span data-ttu-id="704cf-103">Jei esate šalyje, kuri naudoja pridėtinės vertės mokesčio (PVM), pvz., Jungtinėje Karalystėje, "Microsoft" Invoicing apskaičiuoja PVM už jus, ir taikoma suma sąskaitas faktūras.</span><span class="sxs-lookup"><span data-stu-id="704cf-103">If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span>
   
-<span data-ttu-id="09197-104">Dėl mokestinių priežasčių, taip pat turi nurodyti PVM registracijos numeris parametruose, duomenys į SF.</span><span class="sxs-lookup"><span data-stu-id="09197-104">For tax reasons, you must also specify your VAT registration number in the settings for Invoicing.</span></span>
+<span data-ttu-id="704cf-104">Dėl mokestinių priežasčių, taip pat turi nurodyti PVM registracijos numeris parametruose, duomenys į SF.</span><span class="sxs-lookup"><span data-stu-id="704cf-104">For tax reasons, you must also specify your VAT registration number in the settings for Invoicing.</span></span>
   
-<span data-ttu-id="09197-105">Negalite įtraukti arba pašalinti PVM tarifų, bet galite pakeisti numatytasis PVM tarifo parametruose.</span><span class="sxs-lookup"><span data-stu-id="09197-105">You can't add or remove VAT rates, but you can change the default VAT rate in Settings.</span></span> <span data-ttu-id="09197-106">Pagal numatytuosius nustatymus, duomenys į SF naudoja paslaugų PVM registravimo numeriams tikrinti, tačiau mes rekomenduojame jums perskaityti [VIES atsakomybės](https://go.microsoft.com/fwlink/?LinkID=841741) Europos Komisija paskelbė.</span><span class="sxs-lookup"><span data-stu-id="09197-106">By default, Invoicing uses a service to validate VAT registration numbers, but we recommend that you read [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span> <span data-ttu-id="09197-107">Jei pasirinksite išjungti paslaugą, jūs turite patikrinti visų PVM registravimo numeriams.</span><span class="sxs-lookup"><span data-stu-id="09197-107">If you choose to disable the service, you must verify all VAT registration numbers.</span></span>
-  
+<span data-ttu-id="704cf-105">Negalite įtraukti arba pašalinti PVM tarifų, bet galite pakeisti numatytasis PVM tarifo parametruose.</span><span class="sxs-lookup"><span data-stu-id="704cf-105">You can't add or remove VAT rates, but you can change the default VAT rate in Settings.</span></span> <span data-ttu-id="704cf-106">Pagal numatytuosius nustatymus, duomenys į SF naudoja paslaugų PVM registravimo numeriams tikrinti, tačiau mes rekomenduojame jums perskaityti [VIES atsakomybės](https://go.microsoft.com/fwlink/?LinkID=841741) Europos Komisija paskelbė.</span><span class="sxs-lookup"><span data-stu-id="704cf-106">By default, Invoicing uses a service to validate VAT registration numbers, but we recommend that you read [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span> <span data-ttu-id="704cf-107">Jei pasirinksite išjungti paslaugą, jūs turite patikrinti visų PVM registravimo numeriams.</span><span class="sxs-lookup"><span data-stu-id="704cf-107">If you choose to disable the service, you must verify all VAT registration numbers.</span></span>
