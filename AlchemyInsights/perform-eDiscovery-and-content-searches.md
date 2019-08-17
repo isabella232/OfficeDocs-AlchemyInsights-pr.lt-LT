@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371441"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444780"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio paiešką ir el. duomenų aptikimo paiešką
 
-**Turinio paieška**
+Naudojant turinio paieškos įrankį, saugos & atitikties užtikrinimo centre greitai surasti elektroninio pašto dėžutėmis, dokumentus į "SharePoint" svetaines ir "OneDrive" abonemente ir tiesioginių pranešimų pokalbiuose Skype verslui. Taip pat galite ieškoti el. pašto, dokumentų ir tiesioginių pranešimų pokalbius, "Office 365" bendradarbiavimo priemones, pvz., "Microsoft" Teams ir Office 365 grupės turinio paieškos įrankį.
+
+**Jei norite atlikti turinio paiešką**
 
 1. Eikite į [saugos & atitikties užtikrinimo centre](https://protection.office.com) ir prisijunkite.
-2. Spustelėkite **paieškos & tyrimo > turinio paieškos**.
+2. Spustelėkite **paieškos > turinio paieškos**.
 3. Spustelėkite **nauja paieška** sukurti naują paiešką.
 4. Įveskite reikiamą ieškos sąlygų, įskaitant raktinių žodžių ir turinio vietos.  
 5. Spustelėkite parinktį **įrašyti & paleisti** pavadinimas paieška, paleiskite ją ir tada Peržiūrėti rezultatus.
 
-Išsamias instrukcijas, kaip sukurti paieškos ir eksportuoti rezultatus, ieškokite [šiame straipsnyje](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Išsamios informacijos apie turinio paieškas, eksportuoti rezultatus ir kurti el. duomenų aptikimo bylose laikyti duomenis, peržiūrėkite [Turinį paieškos](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) ir [el. duomenų aptikimo atvejų](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**el. duomenų aptikimo ieškos**
-
-1. Eikite į [saugos & atitikties užtikrinimo centre](https://protection.office.com) ir prisijunkite.
-2. Spustelėkite **paieškos & tyrimo > el. duomenų aptikimą**.
-3. Atidaryti esamą bylos arba sukurti naują.
-4. Byloje pagrindiniame puslapyje, spustelėkite skirtuką **paieškas** .  
-5. Spustelėkite **nauja paieška** sukurti naują paiešką.
-6. Įveskite reikiamą ieškos sąlygų, įskaitant raktinių žodžių ir turinio vietos.  
-7. Spustelėkite parinktį **įrašyti & paleisti** pavadinimas paieška, paleiskite ją ir tada Peržiūrėti rezultatus.
-
-Išsamios informacijos apie paieškos, susijusios su el. duomenų aptikimo atveju ir eksporto rezultatus, skaitykite [šį straipsnį](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Suprasti daugiau apie turinio paieškos peržiūrėti [reikalavimus ir apribojimus](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) ir [tiria dalies indeksavimo elementai](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ir kiti rezultatai turi žinoti.

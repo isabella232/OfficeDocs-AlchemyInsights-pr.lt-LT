@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369673"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444816"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Saugojimo strategijos, Exchange administravimo centro
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369673"
   ```
 
  **Pastaba:** Jei pašto dėžutės yra mažesnis nei 10 MB, valdomojo aplanko asistentas nebus automatiškai apdorojami, pašto dėžutės.
-  
+ 
+Daugiau informacijos apie saugojimo strategijos, Exchange administravimo centro, žr.:
+- [Saugojimo ˛ymes ir saugojimo strategijos](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Taikyti saugojimo strategijos į pašto dėžutes](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Pridėti arba pašalinti saugojimo žymes](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Kaip nustatyti tos rūšies palaikykite ant pašto dėžutės](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
