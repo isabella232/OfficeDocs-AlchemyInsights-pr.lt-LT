@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115603"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513691"
 ---
-# <a name="delete-a-sharepoint-site"></a>Naikinti SharePoint svetainės
-**Naikinti svetainės naują SharePoint administravimo centrą** Naudodami naują SharePoint administravimo centro, naikina tiek klasikinių ir modernių interneto svetainių. Pasirinkite **aktyvus svetaines**, pasirinkite svetainę ir pasirinkite **Naikinti**. [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), pasirinkite **ištrinti svetainių**. Daugiau informacijos rasite [Naikinti naują SharePoint administravimo centro svetainės](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Naikinti svetainės naują SharePoint administravimo centrą
+
+Naudodami naują SharePoint administravimo centro, naikina tiek klasikinių ir modernių interneto svetainių. Pasirinkite **aktyvus svetaines**, pasirinkite svetainę ir pasirinkite **Naikinti**. [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), pasirinkite **ištrinti svetainių**. Daugiau informacijos rasite [Naikinti naują SharePoint administravimo centro svetainės](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Svarbu:** Jei svetainė yra saugojimo politikos dalis, gali nepavykti jį ištrinti, kol svetainė yra pašalinama iš į [saugumo &amp; atitikties administravimo centro politikos](https://protection.office.com/?rfr=AdminCenter#/homepage). Daugiau informacijos ieškokite [Saugojimo strategijos apžvalga](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 

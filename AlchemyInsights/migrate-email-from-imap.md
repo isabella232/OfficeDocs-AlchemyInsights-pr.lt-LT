@@ -11,18 +11,18 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379937"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544691"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Kai gaunamas klaidos pranešimas „nepripažintas domenas“
 
-Bandant įtraukti el. pašto adresą vartotojui arba grupei, arba perkeliant el. pašto dėžutes, galite gauti šį klaidos pranešimą: **Negalite naudoti domeno, nes jis dar nėra pripažintas „Exchange“ sistemos domenas.**
+Bandant įtraukti el. pašto adresą vartotojui arba grupei, arba perkeliant „Office 365“ el. pašto dėžutes, galite gauti šį klaidos pranešimą: **Negalite naudoti domeno, nes jis dar nėra pripažintas „Exchange“ sistemos domenas.**
   
-Daugeliu atvejų ši klaida yra rezultatas domeno vardo *(pvz., contoso.com)*, kurio nustatymas jūsų organizacijoje nėra baigtas.
+Daugeliu atvejų ši klaida susidaro dėl to, kad jūsų organizacijoje dar nėra baigtas nustatyti domeno vardas *(pvz., contoso.com)*.
   
 Vykdydami nurodymus, pateiktus dalyje [Įtraukti domeną į „Office 365“](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611), įsitikinkite, kad domeno nustatymas yra baigtas.
   

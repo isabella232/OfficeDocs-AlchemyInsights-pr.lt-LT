@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388201"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501373"
 ---
 # <a name="subscription-recurring-billing"></a>Prenumeratos pasikartojančių sąskaitų
 
-Jei norite žinoti, kada jūsų mėnesio ar metų prenumeratą apmokės (jei **pasikartojančios atsiskaitymo** įjungta) arba galioti (jei **pasikartojančios atsiskaitymo** išjungtas):
+Jei norite žinoti, kada jūsų kas mėnesį ar kasmet "Office 365" prenumeratos apmokės (jei **pasikartojančios atsiskaitymo** įjungta) arba baigiasi (jei **pasikartojančios atsiskaitymo** išjungtas):
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
-2. Pasirink narystę, kurią norite sužinoti daugiau apie.
+2. Abonemento, kurį norite daugiau sužinoti apie, pagal **atsiskaitymo**, pamatyti **Renews ant** arba **Expiring ant** datos.
 
-3. Abonemento kortelės dešinėje pusėje yra informacija apie prenumeratos būseną, **pasikartojančios atsiskaitymo** nustatymai ir kitą atsiskaitymo arba galiojimo pabaigos datą.
+4. Atlikti keitimus, pasirinkite **Redaguoti** ir tada **pasikartojančios atsiskaitymo** parametrų srityje pasirinkite **Išjungti** jį išjungti. Jei pasikartojančių sąskaitų jau išjungta, pasirinkite **kas mėnesį** ar **kartą** jį įjungti.
 
-4. Toliau naudoti paslaugas anksčiau šios datos, perkelkite **pasikartojančios Atsiskaitymo nustatymai** perjungiklį **įjungtas**. Būsena rodys kitą atsiskaitymo datą už prenumeratą.
-
-5. Sustabdyti tarnybą šią datą, perkelkite **pasikartojančios atsiskaitymo** perjungiklį Norėdami **išjungti**. Būsena rodys dienos prenumeratos galiojimo laikas.
-
-Jūs naudojate naują administravimo centrą? Ieškokite naujų priemonių, [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Norėdami gauti daugiau informacijos, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

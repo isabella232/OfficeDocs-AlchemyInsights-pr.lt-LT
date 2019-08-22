@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383105"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539109"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Nustatyti sukonfigūravus pašto dėžutės išorinio el. pašto peradresavimas
 
-Kai vartotojas konfigūruoja išorės el. laiškų peradresavimas į pašto dėžutę, veiklos auditą kaip į **Set-Mailbox** cmdlet. Jūs galite pamatyti veiklos audito žurnalo paieškos naudojimas – saugos & atitikties užtikrinimo centre.
+Kai "Office 365" vartotojas konfigūruoja išorės el. laiškų peradresavimas į pašto dėžutę, veiklos auditą kaip į **Set-Mailbox** cmdlet. Jūs galite pamatyti veiklos audito žurnalo paieškos naudojimas – saugos & atitikties užtikrinimo centre.
 
-1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/)
+1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/).
 
-2. Spustelėkite **paieškos ir tyrimas** ir pasirinkite **Audito žurnalo paieška**.
+2. Grįžti į **paieškos** > **audito žurnalo paieškos** puslapyje.
 
 3. Pasirinkite datos intervalą laukuose **pradžios data** ir **pabaigos data** . Jums nereikia nurodyti vartotojo vardą. Patikrinkite, ar **veiklos** laukas yra nustatytas **Rodyti visą veiklą, rezultatus**.
 

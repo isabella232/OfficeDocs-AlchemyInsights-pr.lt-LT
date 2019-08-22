@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: d0d5e949a23e9a8570aa0c157d1577ea16270151
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717634"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539361"
 ---
-# <a name="hub-site-limits-and-restrictions"></a>Koncentratoriaus svetainė ribas ir apribojimus
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint koncentratoriaus svetainė ribas ir apribojimus
 
 - Rekomenduojama pasirinkti bendravimo svetainės ar komandos svetainę, kuri naudoja naujas modernus šablonas. Jei naudojate klasikinis komandos svetainę, stebulės navigacijos bus rodoma tik modernios puslapiai ir centro svetainės parametrai rodomas tik modernios puslapiai.
 
