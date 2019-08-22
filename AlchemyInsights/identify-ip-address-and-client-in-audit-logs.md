@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382961"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539037"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Nustatyti IP adresą ir kliento audito žurnaluose
 
-IP adresą, kuris atitinka vartotojo ar administratoriaus veikla yra nurodyta audito žurnalus. Taip pat registruojamas kliento informacija. Atlikite šiuos veiksmus, siekiant nustatyti tokią informaciją
+IP adresą, kuris atitinka "Office 365" vartotojo ar administratoriaus veikla yra nurodyta audito žurnalus. Taip pat registruojamas kliento informacija. Atlikite šiuos veiksmus, siekiant nustatyti tokią informaciją
 
-1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/)
+1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/).
 
-2. Spustelėkite **paieškos ir tyrimas** ir pasirinkite **Audito žurnalo paieška**.
+2. Grįžti į **paieškos** > **audito žurnalo paieškos** puslapyje.
 
    Jei jus domina konkrečiai veiklai, pasirinkite jį iš **veiklos** sąraše. Jei ne, visa veikla bus grąžintas iš pasirinkto vartotojo (numatytasis parametras).
 
