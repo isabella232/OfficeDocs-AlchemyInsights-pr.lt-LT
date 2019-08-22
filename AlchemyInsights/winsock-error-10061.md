@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: e82e90b670235848105636fb2039ed60d3b93c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364921"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530808"
 ---
-# <a name="winsock-error-10061"></a><span data-ttu-id="33ff2-102">Winsock klaida 10061</span><span class="sxs-lookup"><span data-stu-id="33ff2-102">Winsock error 10061</span></span>
+# <a name="winsock-error-10061"></a><span data-ttu-id="09dc2-102">Winsock klaida 10061</span><span class="sxs-lookup"><span data-stu-id="09dc2-102">Winsock error 10061</span></span>
 
-<span data-ttu-id="33ff2-103">Ši klaida reiškia, kad "Office 365" negalėjo sukurti TCP socket (jungtis) su tikslinės priimančiosios.</span><span class="sxs-lookup"><span data-stu-id="33ff2-103">This error code means that Office 365 couldn't establish a TCP socket (connection) with the target host.</span></span> <span data-ttu-id="33ff2-104">Labiausiai tikėtina, dažniausia šios klaidos priežastis yra ugniasienės konfigūracijos problema.</span><span class="sxs-lookup"><span data-stu-id="33ff2-104">The most likely cause of this error is a problem with your firewall configuration.</span></span> <span data-ttu-id="33ff2-105">Norėdami išspręsti šią problemą, patikrinkite šiuos parametrus:</span><span class="sxs-lookup"><span data-stu-id="33ff2-105">To fix the problem, check these settings:</span></span>
+<span data-ttu-id="09dc2-103">Ši klaida reiškia, kad "Office 365" negalėjo sukurti TCP socket (jungtis) su tikslinės priimančiosios.</span><span class="sxs-lookup"><span data-stu-id="09dc2-103">This error code means that Office 365 couldn't establish a TCP socket (connection) with the target host.</span></span> <span data-ttu-id="09dc2-104">Labiausiai tikėtina, dažniausia šios klaidos priežastis yra ugniasienės konfigūracijos problema.</span><span class="sxs-lookup"><span data-stu-id="09dc2-104">The most likely cause of this error is a problem with your firewall configuration.</span></span> <span data-ttu-id="09dc2-105">Norėdami išspręsti šią problemą, patikrinkite šiuos parametrus:</span><span class="sxs-lookup"><span data-stu-id="09dc2-105">To fix the problem, check these settings:</span></span>
 
-- <span data-ttu-id="33ff2-106">Patikrinkite, ar jūsų ugniasienės konfigūracijos informacija iš [Office 365 URL ir IP adresų diapazonas](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="33ff2-106">Verify your firewall configuration with the information in [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span>
+- <span data-ttu-id="09dc2-106">Patikrinkite, ar jūsų ugniasienės konfigūracijos informacija iš [Office 365 URL ir IP adresų diapazonas](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="09dc2-106">Verify your firewall configuration with the information in [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span>
 
-- <span data-ttu-id="33ff2-107">Jei klaidos yra susijusios su Exchange Online Protection (EOP), jums turėtų anksčiau pranešama apie pasikeičia į [Exchange Online apsaugos IP adresus](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span><span class="sxs-lookup"><span data-stu-id="33ff2-107">If the error is specific to Exchange Online Protection (EOP), you should have been previously notified to a change to the [Exchange Online Protection IP addresses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span></span>
+- <span data-ttu-id="09dc2-107">Jei klaidos yra susijusios su Exchange Online Protection (EOP), jums turėtų anksčiau pranešama apie pasikeičia į [Exchange Online apsaugos IP adresus](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span><span class="sxs-lookup"><span data-stu-id="09dc2-107">If the error is specific to Exchange Online Protection (EOP), you should have been previously notified to a change to the [Exchange Online Protection IP addresses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span></span>
 
-- <span data-ttu-id="33ff2-108">Įsitikinkite, kad jūsų interneto paslaugų teikėjas (ISP) neblokuoja uosto.</span><span class="sxs-lookup"><span data-stu-id="33ff2-108">Verify that your Internet Service Provider (ISP) isn't blocking the port.</span></span>
+- <span data-ttu-id="09dc2-108">Įsitikinkite, kad jūsų interneto paslaugų teikėjas (ISP) neblokuoja uosto.</span><span class="sxs-lookup"><span data-stu-id="09dc2-108">Verify that your Internet Service Provider (ISP) isn't blocking the port.</span></span>
 
-- <span data-ttu-id="33ff2-109">Patikrinkite, ar protingas pagrindinio kompiuterio ir paskirties serverio parametrus jūsų jungtys.</span><span class="sxs-lookup"><span data-stu-id="33ff2-109">Verify the smart host and target server settings in your connectors.</span></span>
+- <span data-ttu-id="09dc2-109">Patikrinkite, ar protingas pagrindinio kompiuterio ir paskirties serverio parametrus jūsų jungtys.</span><span class="sxs-lookup"><span data-stu-id="09dc2-109">Verify the smart host and target server settings in your connectors.</span></span>
 
-<span data-ttu-id="33ff2-110">Atkreipkite dėmesį, kad "Office 365" ne blokuoti *priimamus* ryšius, tokiu būdu.</span><span class="sxs-lookup"><span data-stu-id="33ff2-110">Note that Office 365 doesn't block *incoming* connections in this manner.</span></span>
+<span data-ttu-id="09dc2-110">Atkreipkite dėmesį, kad "Office 365" ne blokuoti *priimamus* ryšius, tokiu būdu.</span><span class="sxs-lookup"><span data-stu-id="09dc2-110">Note that Office 365 doesn't block *incoming* connections in this manner.</span></span>
