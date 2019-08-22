@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385394"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522511"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Kaip paskirti Office licencijos "Mac" vartotojams
 
-- "Microsoft" 365 administravimo centro, eikite į [aktyvūs vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) puslapį arba pasirinkti **vartotojai** \> **aktyvių vartotojų**.
+1. Administravimo centro, eikite į **vartotojų** \> [aktyvių vartotojų](https://go.microsoft.com/fwlink/p/?linkid=834822) puslapis.
 
-- Pažymėkite langelį šalia pavadinimo vartotojo, kuriam norite priskirti licenciją.
+2. Pasirinkite vartotojo, kuriam norite priskirti, keisti arba pašalinti licencija.
 
-- Teisę, **produkto licencijos** eilutėje, pasirinkite **Redaguoti**.
+3. **Licencijas ir Apps** skirtuke pasirinkite, kuriuos norite priskirti šio vartotojo licencijos.
 
-- **Produkto licencijos**s srityje, perkelkite perjungiklį į padėtį **ant** už licenciją, kurią norite priskirti šiam vartotojui.
+    Pagal numatytuosius nustatymus visos paslaugos, susijusios su licencija automatiškai priskiriami vartotojui. Norėdami apriboti, kokios paslaugos yra prieinama vartotojui, išvalykite žymės langelį už paslaugas, kurios jūs nenorite, kad vartotojas galėtų turėti.
 
-- **Produkto licencijos** srities apačioje pasirinkite **įrašyti** \> **arti** \> **arti**.
+4. Srities apačioje pasirinkite **Įrašyti keitimus**.
 
 Daugiau informacijos: [priskirti licencijas vartotojams "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

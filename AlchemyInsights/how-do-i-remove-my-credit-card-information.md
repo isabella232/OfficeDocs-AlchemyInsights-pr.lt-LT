@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390304"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523159"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kaip pašalinti savo kreditinės kortelės informaciją?
 
-1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+1. "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [mokėjimo būdų](https://go.microsoft.com/fwlink/p/?linkid=2018806) puslapis.
 
-2. Pasirinkti bet kokį prenumeratą, tada pasirinkite **atnaujinti mokėjimo informaciją**.
+2. **Mokėjimo būdai** puslapyje Pasirinkti kredito kortelės arba banko sąskaitos norite ištrinti.
 
-3. Pasirinkti meniu rodyklę **įtraukti**arba pasirinkite mokėjimo būdą, pasirinkti kredito kortelės arba banko sąskaitos, kurią norite ištrinti, tada pasirinkite **pašalinti**.
-
-4. Pasirinkite **pašalinti** dar kartą panaikinti kredito kortelės arba banko sąskaitos.
+3. Jei norite pašalinti iš kredito kortelės arba banko sąskaitos, pasirinkite **panaikinti mokėjimo būdą.**
 
 > [!NOTE]
-> Galite pašalinti kredito kortelės arba banko sąskaitos, tol, kol jūs neturite kredito kortelės arba banko sąskaitos likučio, o jūs nesinaudojate, tai mokėti už aktyvią prenumeratą.
+> Jūs negalėsite pašalinti kredito kortelės arba banko sąskaitos, jei ji yra šiuo metu naudojama sumokėti už prenumeratą.
 
-Jūs naudojate naują administravimo centrą? Imtis naujų priemonių, žiūrėkite [pridėti, atnaujinti, arba pašalinti kredito kortelės arba banko sąskaitos "Office 365" verslui](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+4. **Naikinti mokėjimo būdą** srityje, pasirinkite **ištrinti**.
+
+Norėdami gauti daugiau informacijos, žiūrėkite [pridėti, atnaujinti, arba pašalinti kredito kortelės arba banko sąskaitos "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

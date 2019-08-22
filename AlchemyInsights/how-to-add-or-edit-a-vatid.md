@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386412"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522619"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Kaip pridėti ar redaguoti per VatID
 
-- Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+1.  "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [gaminiai & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
 
-- **Prenumeratos** puslapyje, pasirinkite abonemento, kurį norite redaguoti, tada pasirinkite **Daugiau veiksmų** \> **Redaguoti PVM mokėtojo kodą**.
+2. Rasti prenumerata kortelę norite atnaujinti prenumeratos.
 
-- **Redaguoti jūsų paslaugos naudojimo adresų** srities apačioje įveskite arba redaguokite jūsų PVM ID lauką **PVM mokėtojo kodas** , o tada pasirinkite **pateikti**.
+3. Skiltyje **Parametrai & veiksmus** pasirinkite **paslaugų naudojimo adresą paredaguokite**.
+
+4. Puslapyje **Redaguoti jūsų paslaugos naudojimo adresą** , **PVM kodo** lauke įveskite jūsų PVM ID, ir tada pasirinkite **įrašyti**.
 
     Kai baigtas, PVM mokėti nereikės kitoje sąskaitoje.
 
-Daugiau informacijos rasite [kas mokestis bus imamas mokestis už "Office 365"?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Jūs naudojate naują administravimo centrą? Imtis naujų priemonių, žiūrėkite [pridėti jūsų PVM ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Daugiau informacijos rasite [kas mokestis bus imamas mokestis už "Office 365"?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) arba [pridėti jūsų PVM ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: e85b0af127ff7c92c7c9e0a42f5084de5de689c6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 47a8c880baf73f848b20847c2f61a7a241690a6c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379433"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522259"
 ---
 # <a name="move-email-to-office-365"></a>Perkelti el. paštą į "Office 365"
 
 Turite kelias parinktis perkelti laišką į "Office 365". ["Office 365" pašto migracijos patarėjas](https://aka.ms/alchemyinsight-mailmigrationadvisor) padės jums pasirinkti tinkamiausią Jūsų aplinką ir taip pat padės jums per pašto migracijos.
   
-Skaityti apie savo galimybes pradėti perkėlimą, žiūrėkite [nuspręsti dėl migracijos kelias](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path).
+Skaityti apie savo galimybes pradėti perkėlimą, žiūrėkite [nuspręsti dėl migracijos kelias](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
 Taip pat patikrinkite puslapio [patvirtina Office 365 FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) remiamose pagalbos migracijos, jei gali būti.
   

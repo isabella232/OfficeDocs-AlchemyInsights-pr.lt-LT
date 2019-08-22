@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386304"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522475"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Kaip priskirti licenciją vartotojui
 
-Vartotojas turi teisę naudotis paslaugomis. Štai žingsniai pridėti, keisti arba pašalinti iš vartotojo licenciją.
+Vartotojas turi "Office 365" licenciją naudotis paslaugomis. Štai žingsniai pridėti, keisti arba pašalinti iš vartotojo licenciją.
   
-1. Administravimo centro, eikite į **vartotojų** \> [Aktyvių vartotojų](https://go.microsoft.com/fwlink/p/?linkid=834822) puslapis.
+1. Administravimo centro, eikite į **vartotojų** \> [aktyvių vartotojų](https://go.microsoft.com/fwlink/p/?linkid=834822) puslapis.
 
-2. Pažymėkite langelį šalia pavadinimo vartotojo, kuriam norite priskirti, keisti arba pašalinti licencija.
+2. Pasirinkite vartotojo, kuriam norite priskirti, keisti arba pašalinti licencija.
 
-3. Teisę, **produkto licencijos** eilutėje, pasirinkite **Redaguoti**.
+3. **Licencijas ir Apps** skirtuke pasirinkite, kuriuos norite priskirti šio vartotojo licencijos.
 
-4. **Produkto licencijos** srityje, perkelkite perjungiklį į padėtį **ant** už licenciją, kurią norite priskirti šiam vartotojui.
+    Pagal numatytuosius nustatymus visos paslaugos, susijusios su licencija automatiškai priskiriami vartotojui. Norėdami apriboti, kokios paslaugos yra prieinama vartotojui, išvalykite žymės langelį už paslaugas, kurios jūs nenorite, kad vartotojas galėtų turėti.
 
-    Pagal numatytuosius nustatymus visos paslaugos, susijusios su licencija automatiškai priskiriami vartotojui. Norėdami apriboti, kokios paslaugos yra prieinama vartotojui, perjungti slepia **Off** poziciją už paslaugas, kad jūs nenorite, kad vartotojas galėtų turėti.
+4. Srities apačioje pasirinkite **Įrašyti keitimus**.
 
-    Perkelkite perjungiklį į padėtį **Off** pašalinti licencija.
-
-5. **Produkto licencijos** srities apačioje pasirinkite **įrašyti** \> **arti** \> **arti**.
-
-Norėdami gauti daugiau informacijos, peržiūrėkite [priskirti licencijas vartotojams "Office 365" verslui](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ir [panaikinti licencijas iš vartotojų "Office 365" verslui](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Norėdami gauti daugiau informacijos, peržiūrėkite [priskirti licencijas vartotojams "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ir [panaikinti licencijas iš vartotojų "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
