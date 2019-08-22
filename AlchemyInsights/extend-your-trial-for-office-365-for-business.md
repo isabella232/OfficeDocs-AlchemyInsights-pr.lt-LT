@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389040"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526147"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Išplėsti naudoti bandomąją versiją "Office 365" verslui
 
@@ -32,4 +32,4 @@ Jei bandomosios prenumeratos yra per 15 dienų, t. y. iki ir teismo nebuvo buvo 
 
 4. Jums reikia pateikti kredito kortelės informaciją, išplėsti savo teismą. Mes nekainuos jūsų kreditinės kortelės bandymus pratęsti.
 
-Norėdami sužinoti daugiau apie išplėsti tyrimus arba žingsnis po žingsnio instrukcijas, ieškokite [išplėsti naudoti bandomąją versiją "Office 365" verslui](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Norėdami sužinoti daugiau apie išplėsti tyrimus arba žingsnis po žingsnio instrukcijas, ieškokite [išplėsti naudoti bandomąją versiją "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

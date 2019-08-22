@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363822"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517039"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Turinys nerodomas SharePoint ieškos rezultatus
 
@@ -28,7 +28,7 @@ Atlikite šiuos trikčių šalinimo veiksmus, kai numatomas turinys nėra rodomi
 
 3. Patikrinti, kad dokumento puslapio ar Pasirinktinis puslapio maketas yra paskelbtas kaip tam **didelių versija.** Sekite žingsnis 3 [paieškos negrąžina visų rezultatų SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Patikrinkite, ar vartotojas turi **teises** peržiūrėti turinį. Vykdykite [supratimą teisių lygius programoje "SharePoint"](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Patikrinkite, ar vartotojas turi **teises** peržiūrėti turinį. Vykdykite [supratimą teisių lygius programoje "SharePoint"](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Jei ieškos schemos buvo pakeistas pridedant naujas valdoma ypatybė, redaguodami valdoma ypatybė arba panaikinant valdomą ypatybę, tada prašo nuskaitymo ir iš naujo indeksuoti bus reikalingas. **Iš naujo indeksuoti** pagal šiuos veiksmus [rankiniu būdu prašymą ir iš naujo indeksuodama svetainę, biblioteką ar sąrašo](https://docs.microsoft.com/sharepoint/crawl-site-content)turinio. Tai gali šiek tiek užtrukti, palaukite 24 valandas iki patikrinimo rezultatai dar kartą.
 
