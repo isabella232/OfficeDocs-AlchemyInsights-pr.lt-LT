@@ -1,5 +1,5 @@
 ---
-title: Pridedant Išoriniai vartotojai paskirstymo grupę?
+title: Išoriniams vartotojams įtraukti į paskirstymo grupę
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,38 +8,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: a5def36fbb662037851158722db60494f00ce850
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: ce0c589e1661fb4607452fe2e8f897758b2718e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34895213"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494535"
 ---
-# <a name="adding-external-users-to-a-distribution-group"></a><span data-ttu-id="650f2-102">Pridedant Išoriniai vartotojai paskirstymo grupę?</span><span class="sxs-lookup"><span data-stu-id="650f2-102">Adding external users to a Distribution Group?</span></span>
+# <a name="add-external-users-to-a-distribution-group"></a><span data-ttu-id="83e18-102">Pridėti išorės vartotojai paskirstymo grupę?</span><span class="sxs-lookup"><span data-stu-id="83e18-102">Add external users to a Distribution Group?</span></span>
 
-<span data-ttu-id="650f2-103">Įrašyta išorinio kontakto į tam paskirstymo grupė (įg) yra atlikti 2 veiksmus:</span><span class="sxs-lookup"><span data-stu-id="650f2-103">Adding an external contact to a Distribution Group (DG) is a 2-step process:</span></span>
+<span data-ttu-id="83e18-103">Įrašyta išorinio kontakto į tam paskirstymo grupė (įg) yra atlikti 2 veiksmus:</span><span class="sxs-lookup"><span data-stu-id="83e18-103">Adding an external contact to a Distribution Group (DG) is a 2-step process:</span></span>
   
-1. <span data-ttu-id="650f2-104">Išorės vartotojo pašto kontakto kūrimas:</span><span class="sxs-lookup"><span data-stu-id="650f2-104">Create a Mail Contact for the external user:</span></span>
+1. <span data-ttu-id="83e18-104">Išorės vartotojo pašto kontakto kūrimas:</span><span class="sxs-lookup"><span data-stu-id="83e18-104">Create a Mail Contact for the external user:</span></span>
     
-1. <span data-ttu-id="650f2-105">Spustelėkite [čia](https://admin.microsoft.com/adminportal/home#/Contact) Norėdami pereiti į puslapio kontaktas redagavimo administravimo portalo.</span><span class="sxs-lookup"><span data-stu-id="650f2-105">Click [here](https://admin.microsoft.com/adminportal/home#/Contact) to navigate to the Contact edit page in the Admin portal.</span></span> 
+    1. <span data-ttu-id="83e18-105">Administravimo centro, eikite į **vartotojų** > [Kontaktai](https://admin.microsoft.com/adminportal/home#/Contact) .</span><span class="sxs-lookup"><span data-stu-id="83e18-105">In the admin center, go to the **Users** > [Contacts](https://admin.microsoft.com/adminportal/home#/Contact) page.</span></span> 
     
-2. <span data-ttu-id="650f2-106">Spustelėkite **pridėti kontaktą**.</span><span class="sxs-lookup"><span data-stu-id="650f2-106">Click on **Add a Contact**.</span></span>
+    2. <span data-ttu-id="83e18-106">Pasirinkite **įtraukti kontaktą**.</span><span class="sxs-lookup"><span data-stu-id="83e18-106">Select **Add a contact**.</span></span>
     
-3. <span data-ttu-id="650f2-107">Įveskite savo kontaktinę informaciją ir spustelėkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="650f2-107">Type the information for your contact and click **Save**.</span></span>
+    3. <span data-ttu-id="83e18-107">Įveskite savo kontaktinę informaciją ir pasirinkite **įtraukti**.</span><span class="sxs-lookup"><span data-stu-id="83e18-107">Type the information for your contact and select **Add**.</span></span>
     
-2. <span data-ttu-id="650f2-108">Pridėti pašto kontakto savo generalinis direktoratas:</span><span class="sxs-lookup"><span data-stu-id="650f2-108">Add the Mail Contact to your DG:</span></span>
+2. <span data-ttu-id="83e18-108">Pridėti pašto kontakto savo generalinis direktoratas:</span><span class="sxs-lookup"><span data-stu-id="83e18-108">Add the Mail Contact to your DG:</span></span>
     
-1. <span data-ttu-id="650f2-109">Spustelėkite [čia](https://admin.microsoft.com/adminportal/home#/groups) Norėdami pereiti į grupių puslapyje.</span><span class="sxs-lookup"><span data-stu-id="650f2-109">Click [here](https://admin.microsoft.com/adminportal/home#/groups) to navigate to the Groups page.</span></span> 
+    1. <span data-ttu-id="83e18-109">Administravimo centro, eikite į **grupes** > [grupių](https://admin.microsoft.com/adminportal/home#/groups) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="83e18-109">In the admin center, go to the **Groups** > [Groups](https://admin.microsoft.com/adminportal/home#/groups) page.</span></span> 
     
-2. <span data-ttu-id="650f2-110">Rasti GD, kurį norite įtraukti į išorinis vartotojas, ir spustelėkite jį, kad atidarytumėte redagavimo dialogo langą.</span><span class="sxs-lookup"><span data-stu-id="650f2-110">Find the DG you want to add the external user to, and click on it to open the edit dialog.</span></span>
+    2. <span data-ttu-id="83e18-110">Rasti DG, kurį norite įtraukti į išorinis vartotojas, ir pasirinkite jį, kad atidarytumėte redagavimo dialogo langą.</span><span class="sxs-lookup"><span data-stu-id="83e18-110">Find the DG you want to add the external user to, and select it to open the edit dialog.</span></span>
     
-3. <span data-ttu-id="650f2-111">Spustelėkite mygtuką **Redaguoti** , **narių** sąraše.</span><span class="sxs-lookup"><span data-stu-id="650f2-111">Click on the **Edit** button in the **Members** list.</span></span> 
+    3. <span data-ttu-id="83e18-111">**Nariai** skirtuką, pasirinkite **® iþrìti visus ir tvarkyti nariai**.</span><span class="sxs-lookup"><span data-stu-id="83e18-111">On the **Members** tab, select **View all and manage members**.</span></span> 
     
-4. <span data-ttu-id="650f2-112">Spustelėkite **įtraukti narius**.</span><span class="sxs-lookup"><span data-stu-id="650f2-112">Click on **Add Members**.</span></span>
+    4. <span data-ttu-id="83e18-112">Pasirinkite **Įtraukti narių**.</span><span class="sxs-lookup"><span data-stu-id="83e18-112">Select **Add members**.</span></span>
     
-5. <span data-ttu-id="650f2-113">Pasirinkite pašto kontaktą, kurį sukūrėte ankstesniame žingsnyje, ir spustelėkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="650f2-113">Select the Mail Contact you created on the previous step and click **Save**.</span></span>
+    5. <span data-ttu-id="83e18-113">Pasirinkite pašto kontaktą, kurį sukūrėte ankstesniame žingsnyje, ir tada pasirinkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="83e18-113">Select the Mail Contact you created on the previous step, and then select **Save**.</span></span>
     
-<span data-ttu-id="650f2-114">Jei net atlikus šiuos veiksmus išorės vartotojai negali siųsti el. laiškų GD ar nenorite gauti laiškus iš jos, gali būti, kad GD pažymėtas leisti tik laiškus iš vidaus vartotojams.</span><span class="sxs-lookup"><span data-stu-id="650f2-114">If even after following these steps your external users can't send emails to the DG or don't receive emails from it, it can be that the DG is marked to only allow emails from internal users.</span></span> <span data-ttu-id="650f2-115">Galite patikrinti šią konfigūraciją ir pataisyti pateiktus nurodymus [čia](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)</span><span class="sxs-lookup"><span data-stu-id="650f2-115">You can check this configuration and fix it following the directions [here](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)</span></span>
+<span data-ttu-id="83e18-114">Jei atlikus šiuos veiksmus išorės vartotojai negali siųsti el. laiškų GD ar nenorite gauti laiškus iš jos, gali būti, kad GD pažymėtas leisti tik laiškus iš vidaus vartotojams.</span><span class="sxs-lookup"><span data-stu-id="83e18-114">If after following these steps your external users can't send emails to the DG or don't receive emails from it, it could be that the DG is marked to only allow emails from internal users.</span></span> <span data-ttu-id="83e18-115">Galite patikrinti šią konfigūraciją ir pataisyti pateiktus nurodymus [čia](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).</span><span class="sxs-lookup"><span data-stu-id="83e18-115">You can check this configuration and fix it following the directions [here](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).</span></span>
   
- <span data-ttu-id="650f2-116">**Pastaba:** Šie nurodymai netaikomi jei jūsų grupės tipas yra "" Office 365 "grupė" vietoj "Paskirstymo grupę."</span><span class="sxs-lookup"><span data-stu-id="650f2-116">**Note:** These instructions don't apply if your group's type is "Office 365 group" instead of "Distribution group."</span></span> <span data-ttu-id="650f2-117">Jei tai byla, galite pridėti Išoriniam vartotojui tiesiogiai į grupę iš "Outlook" arba "Outlook" žiniatinklyje.</span><span class="sxs-lookup"><span data-stu-id="650f2-117">If that is the case, you can add the external user directly to the group from Outlook or Outlook on the Web.</span></span> <span data-ttu-id="650f2-118">[Šiame](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)straipsnyje rasite išsamų paaiškinimą dėl O365 dalyvauja svečiai, taip pat nurodymai, kaip pridėti užsienio svečiai.</span><span class="sxs-lookup"><span data-stu-id="650f2-118">Detailed explanation on O365 groups guests as well as instructions for adding external guests can be found in [this article](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).</span></span>
+ <span data-ttu-id="83e18-116">**Pastaba:** Šie nurodymai netaikomi jei jūsų grupės tipas yra "" Office 365 "grupė" vietoj "Paskirstymo grupę."</span><span class="sxs-lookup"><span data-stu-id="83e18-116">**Note:** These instructions don't apply if your group's type is "Office 365 group" instead of "Distribution group."</span></span> <span data-ttu-id="83e18-117">Jei tai byla, jūs pridėti Išoriniam vartotojui tiesiogiai į grupę iš "Outlook".</span><span class="sxs-lookup"><span data-stu-id="83e18-117">If that is the case, you can add the external user directly to the group from Outlook.</span></span> <span data-ttu-id="83e18-118">[Šiame](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)straipsnyje rasite išsamią informaciją apie "Office 365" dalyvauja svečiai, taip pat nurodymai, kaip pridėti užsienio svečiai.</span><span class="sxs-lookup"><span data-stu-id="83e18-118">Detailed information on Office 365 groups guests as well as instructions for adding external guests can be found in [this article](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).</span></span>
   
