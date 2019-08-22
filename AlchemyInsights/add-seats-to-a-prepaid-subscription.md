@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385620"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495039"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="8ab4b-102">Įtraukite vietų į iš anksto apmokėtos prenumeratos</span><span class="sxs-lookup"><span data-stu-id="8ab4b-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="aa855-102">Įtraukite vietų į iš anksto apmokėtos prenumeratos</span><span class="sxs-lookup"><span data-stu-id="aa855-102">Add seats to a prepaid subscription</span></span>
 
-1. <span data-ttu-id="8ab4b-103">Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.</span><span class="sxs-lookup"><span data-stu-id="8ab4b-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="aa855-103">Išankstinio mokėjimo "Office 365" licencijos yra išduodamos jums kaip 25 simbolių raidinį-skaitmeninį kodą.</span><span class="sxs-lookup"><span data-stu-id="aa855-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="aa855-104">Po to, kai jūs įsigijote licencijų jums reikia, galite įtraukti juos į jūsų prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="aa855-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-2. <span data-ttu-id="8ab4b-104">Pasirinkite iš anksto apmokėtos prenumeratos norite pridėti vartotojus.</span><span class="sxs-lookup"><span data-stu-id="8ab4b-104">Choose the prepaid subscription you would like to add users to.</span></span>
+1. <span data-ttu-id="aa855-105">Administravimo centro, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="aa855-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-3. <span data-ttu-id="8ab4b-105">**Daugiau veiksmų** meniu, pasirinkite **atnaujinti ar papildyti pažymėjimą su žetonu**.</span><span class="sxs-lookup"><span data-stu-id="8ab4b-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
+2. <span data-ttu-id="aa855-106">Raskite prenumeratą, į kurią norite įtraukti licencijas.</span><span class="sxs-lookup"><span data-stu-id="aa855-106">Find the subscription to which you want to add licenses.</span></span> <span data-ttu-id="aa855-107">Pasirinkite **daugiau veiksmų** išplečiamajame sąraše, o tada pasirinkite **atnaujinti ar papildyti pažymėjimą su žetonu**.</span><span class="sxs-lookup"><span data-stu-id="aa855-107">Select the **More actions** drop-down list, and then choose **Renew or add license with token**.</span></span>
 
-4. <span data-ttu-id="8ab4b-106">Pasirinkite parinktį **naujas ir nepanaudotas produkto kodą** .</span><span class="sxs-lookup"><span data-stu-id="8ab4b-106">Select the **new and unused product key** option.</span></span> <span data-ttu-id="8ab4b-107">(Jei šis prenumeratos sukurtas naudojant produkto kodą, perkamos parduotuvėje, jums gali turėti galimybę pridėti vartotojus su kiti mokėjimo būdai.)</span><span class="sxs-lookup"><span data-stu-id="8ab4b-107">(If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span>
+3. <span data-ttu-id="aa855-108">Dėl to **atnaujinti arba pridėti vartotojo licencijų** puslapyje, pasirinkite **naudoti naujas ir nepanaudotas produkto kodą**, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="aa855-108">On the **Renew or add user licenses** page, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-5. <span data-ttu-id="8ab4b-108">Pasirinkti **kitą**.</span><span class="sxs-lookup"><span data-stu-id="8ab4b-108">Choose **Next**.</span></span>
+4. <span data-ttu-id="aa855-109">Įveskite produkto kodą, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="aa855-109">Enter the product key, then select **Next**.</span></span>
 
-6. <span data-ttu-id="8ab4b-109">Įveskite produkto kodą, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="8ab4b-109">Enter the product key, then choose **Next**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="aa855-110">Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Pridėti kitą produkto kodą** į jas patekti.</span><span class="sxs-lookup"><span data-stu-id="aa855-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-7. <span data-ttu-id="8ab4b-110">Pasirinkite parinktį įtraukti daugiau vartotojų, pasirinkite **kitą**, tada pasirinkite **panaudoti**.</span><span class="sxs-lookup"><span data-stu-id="8ab4b-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
+5. <span data-ttu-id="aa855-111">Pasirinkti įtraukti vartotojus į prenumeratą, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="aa855-111">Choose to add users to the subscription, then select **Next**.</span></span>
 
-<span data-ttu-id="8ab4b-111">Jūs naudojate naują administravimo centrą?</span><span class="sxs-lookup"><span data-stu-id="8ab4b-111">Are you using the new admin center?</span></span> <span data-ttu-id="8ab4b-112">Imtis naujų priemonių, žr. [įtraukti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="8ab4b-112">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+6. <span data-ttu-id="aa855-112">Peržiūrėti savo užsakymo duomenis ir pasirinkite **panaudoti**.</span><span class="sxs-lookup"><span data-stu-id="aa855-112">Review your order details, then select **Redeem**.</span></span>
+
+<span data-ttu-id="aa855-113">Daugiau informacijos rasite [pridėti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="aa855-113">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
