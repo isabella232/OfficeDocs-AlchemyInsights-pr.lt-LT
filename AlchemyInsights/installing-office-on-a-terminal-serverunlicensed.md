@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381737"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498423"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Diegti "Office" terminalo serverio
 
@@ -26,7 +26,7 @@ Diegiant "Office 365 ProPlus" naudodami nuotolinio darbalaukio tarnybų (RDS) Wi
 
 - Jums reikia įgalinti [bendrinamo kompiuterio suaktyvinimą](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jei norite įdiegti "Office 365 ProPlus" RDS "Office 365" portale ** *kuri naudoja numatytąjį diegimo parametrus* **, atlikite šiuos veiksmus:
+Jei norite įdiegti "Office 365 ProPlus" RDS "Office 365" portale, ***kuris naudoja numatytąjį diegimo parametrus***, atlikite šiuos veiksmus:
   
 1. Patikrinkite, ką turite "Office 365" planą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Jei norite įdiegti "Office 365 ProPlus" RDS "Office 365" portale ** *kuri naudo
 
 4. RDS serveriu, prisijunkite prie "Office 365" portale su administratoriaus paskyrą ir [įdiegti "Office 365 ProPlus"](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Po to, kai Office yra įdiegta, ** *ne atidaryti arba prisijunkite* ** į visas Office programas.
+5. Po to, kai Office yra įdiegta, ***negalima atidaryti arba prisijungti*** prie bet kurios Office programos.
 
 6. RDS serverio, kad aktyvinimo bendrai naudojamame kompiuteryje iš registro redagavimą, atlikite šiuos veiksmus:
 
@@ -46,7 +46,7 @@ Jei norite įdiegti "Office 365 ProPlus" RDS "Office 365" portale ** *kuri naudo
 
 3. Registro redaktoriaus, pridėti eilutės reikšmė, **SharedComputerLicensing** 1 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, kuriame.
 
-7. RDS serverio, ** *kaip galutinio vartotojo Prisijunkite* ** ir [patikrinkite aktyvinimo bendrai naudojamame kompiuteryje įgalintas, "Office 365 ProPlus"](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS serverio, ***kaip galutinis vartotojas Prisijunkite*** ir [patikrinkite aktyvinimo bendrai naudojamame kompiuteryje įgalintas, "Office 365 ProPlus"](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Daugiau informacijos apie būtinųjų sąlygų, sąrankos nurodymus ir patarimus individualų įrenginių naudodami Office diegimo įrankis, žiūrėkite [Diegti Office 365 ProPlus naudodami nuotolinio darbalaukio tarnybos](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

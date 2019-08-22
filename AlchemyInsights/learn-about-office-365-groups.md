@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 94a243d12e2a3d691b008d111c949ee46ffc3151
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381233"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497703"
 ---
 # <a name="learn-about-office-365-groups"></a>Sužinokite daugiau apie "Office 365" grupes
 
-Daugiau informacijos rasite [sužinoti apie Office 365 grupes](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Tarnyba 365 grupių yra paslauga, kuri veikia su "Office 365" įrankiai, kuriuos naudoti jau, todėl galite bendradarbiauti su savo komandos nariais rašyti dokumentus, kurti skaičiuokles, darbo projektų planus, planuoti susitikimus ar paštu. Daugiau informacijos rasite [sužinoti apie Office 365 grupes](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

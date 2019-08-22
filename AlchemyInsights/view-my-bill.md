@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387762"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506127"
 ---
 # <a name="view-my-bill"></a>Rodyti mano sąskaitą
 
-1. Administravimo centro, eikite į **atsiskaitymo** \> [sąskaitas](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapis.
+1. "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [sąskaitos & mokėjimų](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapyje.
 
-2. Pasirinkite mėnesį ir datą SF norite, ir tada pasirinkite **Rodyti**.
+2. Išplečiamajame sąraše pasirinkite duomenų diapazoną, ir tada pasirinkti, kad norite Rodyti.
 
-3. Pasirinkite užsakymą, o tada pasirinkite **Peržiūrėti išsamią informaciją**.
-
-Daugiau informacijos rasite [Rodyti jūsų sąskaita ar sąskaitos-faktūros](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Daugiau informacijos rasite [Rodyti jūsų sąskaita ar sąskaitos-faktūros](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
