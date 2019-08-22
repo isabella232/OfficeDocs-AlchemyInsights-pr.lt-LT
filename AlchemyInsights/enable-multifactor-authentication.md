@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403683"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527479"
 ---
 # <a name="enable-multi-factor-authentication"></a>Įgalinti kelių dalių autentifikavimas
 
-1. Eikite į **vartotojų** \> **aktyvių vartotojų**
+Jei norite įgalinti kelių dalių autentifikavimas Microsoft 365 administravimo centro:
+
+1. Eikite į **vartotojų** \> **aktyvių vartotojų** puslapis.
     
-2. Spustelėkite **daugiau** \> **sąrankos Azure daugelio faktorių auth**. 
+2. Puslapio viršuje pasirinkite **kelių dalių autentifikavimas**. 
     
-3. Rasti vartotoją ar vartotojų, kurie norite įgalinti URM. Norėdami pamatyti visus vartotojus, gali tekti pakeisti daugelio faktorių Auth statusą vaizdą į viršų.
+3. Rasti vartotoją ar vartotojų, kurie norite įgalinti kelių dalių autentifikavimas. Jei norite pamatyti visus vartotojus, gali tekti pakeisti **daugelio faktorių Auth būsenos** filtras viršuje.
     
-4. Pažymėkite žymimąjį langelį šalia leisti vartotojams.
+4. Pažymėkite žymės langelius šalia kurį norite įgalinti vartotojus.
     
-5.  Teisingas vartotojų informacijos srityje pagal **sparčiuosius veiksmus** jūs rasite ir valdyti vartotojo parametrus. Pasirinkite **įjungti**. 
+5.  Teisingas vartotojų informacijos srityje, dalyje **sparčiuosius veiksmus**, pasirinkite **įjungti**. 
     
-6. Dialogo lange, atsidaro, **spustelėkite Įgalinti kelių dalių autentifikavimas**. 
+6. Atsidariusiame dialogo lange pasirinkite **Įgalinti kelių dalių autentifikavimas**. 
     
 

@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383033"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539181"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Nustatyti aplanko Gauta taisyklę veiklos audito žurnaluose
 
-Audito žurnalo paieška: į saugos & atitikties užtikrinimo centre galite peržiūrėti aplanko Gauta taisyklę įvykių (kurti, keisti ir ištrinti aplanko Gauta taisykles).
+Audito žurnalo paieška: į "Office 365" sauga & atitikties užtikrinimo centre galite peržiūrėti aplanko Gauta taisyklę įvykių (kurti, keisti ir ištrinti aplanko Gauta taisykles).
 
-1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/)
+1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/).
 
-2. Spustelėkite **paieškos ir tyrimas** ir pasirinkite **Audito žurnalo paieška**.
+2. Grįžti į **paieškos** > **audito žurnalo paieškos** puslapyje.
 
 3. Pasirinkite datos intervalą laukuose **pradžios data** ir **pabaigos data** .
 

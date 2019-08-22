@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422723"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531028"
 ---
 # <a name="who-has-a-file-checked-out"></a>Kas yra paimtas ir užrakintas failas?
 
-Norėdami pamatyti, kas yra paėmęs failą galite atlikti vieną iš šių veiksmų:
+Jei norite pamatyti, kas gali paimti ir užrakinti SharePoint failą, galite atlikti vieną iš šių veiksmų:
   
 1. Užveskite pelės žymeklį virš **Paimtą ir** pamatyti patarimą, kuris pasakys, kuris atidarė šį failą paėmėte. 
     
-2. Pridėti į ** patikrinti, iš ** stulpelį į numatytąjį rodinį bibliotekoje. Tokiu būdu, kiekvienas lengvai matyti turintis dokumentas paimtas ir užrakintas. 
+2. **Patikrinti, iš** stulpelio įtraukimas į numatytąjį rodinį bibliotekoje. Tokiu būdu, kiekvienas lengvai matyti turintis dokumentas paimtas ir užrakintas. 
     
 Norėdami sužinoti, kaip patikrinti, iš stulpelio įtraukimas į SharePoint, rasite [sukurti stulpelį į sąrašą ar biblioteką](https://go.microsoft.com/fwlink/?linkid=2019591). 
   

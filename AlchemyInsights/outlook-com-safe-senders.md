@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602007"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535363"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Sustabdyti pranešimų vykimui į nepageidaujamo el. pašto aplanką
 
-Yra kartų, kai nenorite, kad pranešimų iš tam tikram asmeniui ar domeno patekti į nepageidaujamo el. pašto aplanką. Laiškai adresų ar domenų į patikimų siuntėjų sąrašą nebus gauti perkelti į nepageidaujamo el. pašto aplanką.
+Yra kartų, kai nenorite, kad pranešimus iš tam tikram asmeniui ar domeno į galų gale savo nepageidaujamo el. pašto aplanką programoje "Outlook.com". Laiškai adresų ar domenų į patikimų siuntėjų sąrašą nebus gauti perkelti į nepageidaujamo el. pašto aplanką.
 
 1. Atidarykite savo [Patikimų siuntėjų parametrus](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Pagal **siuntėjus ir domenus**, įveskite el. pašto adresą arba domeną, kurį norite pridėti ir pasirinkite **įtraukti**.

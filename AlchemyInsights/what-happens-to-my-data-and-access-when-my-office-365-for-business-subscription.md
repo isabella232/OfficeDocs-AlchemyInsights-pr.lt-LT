@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387589"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531259"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Kas atsitiks su mano ir prieigos, kai "Office 365" verslui prenumerata baigiasi?
 
@@ -26,6 +26,6 @@ Jei jūsų "Office 365" prenumeratai-nes ji baigiasi, arba todėl, kad jūs nusp
   
 Prieš prenumerata iš tikrųjų pasiekia jo galiojimui, turite kelias parinktis valdyti **periodinių mokesčių už prenumeratą**.
   
-- Jei jau įjungta **pasikartojančios atsiskaitymo** , jūs neturite imtis veiksmų. Prenumeratos apmokės jo **pasikartojančios atsiskaitymo** datą, ir jums nereikės mokėti už papildomus metus ar mėnesį, priklausomai nuo jūsų dabartinės mokėjimo dažnumą. Jei dėl kokios nors priežasties išjungėte **pasikartojančios atsiskaitymo** , jūs visada galite [įjungti pasikartojančios atsiskaitymo atgal](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Jei jau įjungta **pasikartojančios atsiskaitymo** , jūs neturite imtis veiksmų. Prenumeratos apmokės jo **pasikartojančios atsiskaitymo** datą, ir jums nereikės mokėti už papildomus metus ar mėnesį, priklausomai nuo jūsų dabartinės mokėjimo dažnumą. Jei dėl kokios nors priežasties išjungėte **pasikartojančios atsiskaitymo** , jūs visada galite [įjungti pasikartojančios atsiskaitymo atgal](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Jei esate atviras bendrojo licencijavimo klientas iš anksto apmokėtos, vienerių metų prenumeratą, susisiekite su savo partneriu, Norėdami įsigyti naują produkto kodą. Jūs gausite instrukcijas el. paštu aktyvuoti savo raktą [Bendrojo licencijavimo paslaugų centro](https://go.microsoft.com/fwlink/p/?LinkID=282016). Norėdami sužinoti, kaip rasti Naujas partneris, arba partnerė jau dirbo su anksčiau, peržiūrėkite [rasti savo "Office 365" partnerių arba pardavėją](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).
+- Jei esate atviras bendrojo licencijavimo klientas iš anksto apmokėtos, vienerių metų prenumeratą, susisiekite su savo partneriu, Norėdami įsigyti naują produkto kodą. Jūs gausite instrukcijas el. paštu aktyvuoti savo raktą [Bendrojo licencijavimo paslaugų centro](https://go.microsoft.com/fwlink/p/?LinkID=282016). Norėdami sužinoti, kaip rasti Naujas partneris, arba partnerė jau dirbo su anksčiau, peržiūrėkite [rasti savo "Office 365" partnerių arba pardavėją](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

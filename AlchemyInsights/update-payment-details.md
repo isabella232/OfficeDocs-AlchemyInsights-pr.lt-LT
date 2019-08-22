@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 174d4f364b9266f8ba8d51522b0956eddc61ea9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387769"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532591"
 ---
 # <a name="update-payment-details"></a>Mokėjimo informacijos naujinimas
 
-1. Administravimo centre eikite į **Atsiskaitymas** \> [Mokėjimo metodų](https://go.microsoft.com/fwlink/p/?linkid=2018806) puslapyje.
+1. „Microsoft 365“ administravimo centre eikite į **Atsiskaitymas** \> [Mokėjimo būdų](https://go.microsoft.com/fwlink/p/?linkid=2018806) puslapyje.
 
     > [!NOTE]
     > Jei patekote į ciklą, kai esate grąžinami į administratoriaus pagrindinį puslapį iki atnaujinimai užbaigiami, pabandykite „Inprivate“ arba inkognito režimą.
@@ -31,10 +31,10 @@ ms.locfileid: "36387769"
     > [!NOTE]
     > Jei mokėjimo metodą pridėjo kitas administratorius, kredito kortelės arba banko sąskaitos informacijos atnaujinti negalėsite. Jeigu greitai baigsis kredito kortelės galiojimas, o kitas administratorius negali jos atnaujinti, sklandų paslaugos teikimą galite užtikrinti įtraukdami į prenumeratą kitą kredito kortelę arba naują banko sąskaitą pasirinkę **Pridėti mokėjimo metodą**.
   
-3.  Puslapyje **Išsami mokėjimo informacija** pasirinkite **Redaguoti mokėjimo išsamią informaciją**. 
+3. Srityje **Mokėjimo būdo informacija** pasirinkite **Redaguoti**.
 
 4. Atnaujinkite, tada pasirinkite **Įrašyti**.
 
 5. Norėdami pašalinti šį mokėjimo būdą, pasirinkite **Naikinti**.
 
-Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://docs.microsoft.com/lt-LT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/lt-LT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

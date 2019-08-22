@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701295"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546095"
 ---
 # <a name="account-locked"></a>Užblokuotas abonementas
 
-Jei bus parodytas pranešimas "jūsų sąskaita buvo užrakintas", kai bandote prisijungti, vadinasi, mes pastebėjome neįprastą veiklą savo sąskaitoje. Siekdami apsisaugoti nuo galimų apgavysčių ir netinkamo elgesio, mes laikinai užrakinti savo sąskaitą. Mes žinome, tai yra varginantis, bet mes padėsime jums grįžti atgal į savo paskyrą naudodami vos už kelių žingsnių.
+Jei bus parodytas pranešimas "jūsų sąskaita buvo užrakintas", bandant prisijungti prie "Outlook.com", vadinasi, mes pastebėjome neįprastą veiklą savo sąskaitoje. Siekdami apsisaugoti nuo galimų apgavysčių ir netinkamo elgesio, mes laikinai užrakinti savo sąskaitą. Mes žinome, tai yra varginantis, bet mes padėsime jums grįžti atgal į savo paskyrą naudodami vos už kelių žingsnių.
 
 1. Eikite į [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ir prisijungti prie paskyros užrakintas.Atrakinti savo paskyros, turite įvesti apsaugos kodas, pateikta teksto žinutę iš "Microsoft". Norėdami gauti teksto žinutę, turite turėti telefoną, kuris palaiko teksto pranešimus. Jei telefone nepalaikoma teksto pranešimai, jūs galite paprašyti draugo ar šeimos nario naudotis savo telefonu. "Microsoft" neįrašo šiuo telefono numeriu, kad gauti šia teksto žinute telefono numeris nebūtinai turi būti susietas su jūsų paskyra.
 2. Jei matote pranešimą "Viršytas naudojimo apribojimą", eikite į [Sąskaitą grąžinimo į darbą](https://go.microsoft.com/fwlink/?linkid=2090483) ir vienas iš mūsų agentų peržiūrės jūsų paskyrą.
