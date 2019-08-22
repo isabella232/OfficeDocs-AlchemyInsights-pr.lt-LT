@@ -8,23 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222964"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519688"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a><span data-ttu-id="88d86-102">Kodėl gali nepavykti redaguoti failus?</span><span class="sxs-lookup"><span data-stu-id="88d86-102">Why you might not be able to edit files?</span></span>
+# <a name="cant-edit-files"></a><span data-ttu-id="01d94-102">Negalite redaguoti failus?</span><span class="sxs-lookup"><span data-stu-id="01d94-102">Can't edit files?</span></span>
 
-<span data-ttu-id="88d86-103">Jei dokumentą, darbalapį arba pristatymą užrakino ir jo negalima atidaryti, gali būti, kad failas jau yra edited by kažkas, ar jie turi paimtą failą. Leiskite priimti greitai pažvelgti į kai kurių priežasčių, [Kodėl gali nepavykti redaguoti failą](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="88d86-103">If a document, worksheet, or presentation is locked for editing and can't be opened, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="01d94-103">Jei dokumentą, darbalapį arba pristatymą užrakino ir negali būti atidarytas naudojant "Windows" darbalaukio programas, gali būti, kad failas jau yra edited by kažkas, ar jie turi paimtą failą. Leiskite priimti greitai pažvelgti į kai kurių priežasčių, [Kodėl gali nepavykti redaguoti failą](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="01d94-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
 
-<span data-ttu-id="88d86-104">Pastaba: Bibliotekos naudojant "Checkout", reikia stulpelių ir metaduomenys, arba kai juodraščio elemento sauga yra nustatyta tik vartotojams, kurie gali redaguoti arba tik vartotojai, galintys patvirtinti elementus versijos parametrai bibliotekos.</span><span class="sxs-lookup"><span data-stu-id="88d86-104">Note:  Libraries with Checkout, required columns/metadata, or when Draft Item Security is set to either Only users who can edit or Only users who can approve items in Version Settings of the library.</span></span>
+<span data-ttu-id="01d94-104">Jei turite bibliotekas su **kasos, reikia** arba **tikrinimo** stulpelių arba metaduomenų, arba kai **Juodraščio elemento sauga** nustatytas kaip **tik tiems vartotojams, kurie gali redaguoti** ar **tik tiems vartotojams, kurie gali patvirtinti elementus** versija parametrus, biblioteka:</span><span class="sxs-lookup"><span data-stu-id="01d94-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
 
-<span data-ttu-id="88d86-105">Bibliotekoms "OneDrive", "OneDrive" bus rodomas užrakto piktogramos, esančios šalia sinchronizavimo ir vartotojo negalėsite sinchronizuoti biblioteką, kol bus pašalintos minėtus parametrus.</span><span class="sxs-lookup"><span data-stu-id="88d86-105">For OneDrive libraries, OneDrive will show a lock icon next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span>
+- <span data-ttu-id="01d94-105">SharePoint dokumentų bibliotekų, šie elementai bus sinchronizuoti tik skaityti.</span><span class="sxs-lookup"><span data-stu-id="01d94-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
 
-<span data-ttu-id="88d86-106">Daugiau informacijos apie užrakintas failus Word/Excel prašome nuoroda straipsnius.</span><span class="sxs-lookup"><span data-stu-id="88d86-106">For more information regarding locked files for Word/Excel please reference the articles below.</span></span>
+- <span data-ttu-id="01d94-106">Bibliotekoms "OneDrive", "OneDrive" bus rodomas užrakto piktograma ("OneDrive" failų užrakinta piktograma) šalia sinchronizuoti būseną ir vartotojo negalėsite sinchronizuoti biblioteką, kol bus pašalintos minėtus parametrus.</span><span class="sxs-lookup"><span data-stu-id="01d94-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
 
-- [<span data-ttu-id="88d86-107">"Excel" failą užrakino redaguoti kitas vartotojas</span><span class="sxs-lookup"><span data-stu-id="88d86-107">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+<span data-ttu-id="01d94-107">Daugiau informacijos apie užrakintas failus Word arba Excel, prašome nuoroda straipsnius.</span><span class="sxs-lookup"><span data-stu-id="01d94-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
 
-- [<span data-ttu-id="88d86-108">"Word" failą užrakino redaguoti kitas vartotojas</span><span class="sxs-lookup"><span data-stu-id="88d86-108">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [<span data-ttu-id="01d94-108">"Excel" failą užrakino redaguoti kitas vartotojas</span><span class="sxs-lookup"><span data-stu-id="01d94-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [<span data-ttu-id="01d94-109">"Word" failą užrakino redaguoti kitas vartotojas</span><span class="sxs-lookup"><span data-stu-id="01d94-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
