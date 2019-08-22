@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364021"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516679"
 ---
-# <a name="control-creation-of-o365-groups"></a>O365 grupių kūrimąsi kontrolės
+# <a name="control-creation-of-office-365-groups"></a>"Office 365" grupių kūrimąsi kontrolės
 
-Pagal numatytuosius nustatymus visi vartotojai įmonėje gali padėti sukurti O365 grupes. Jei reikia, tu gali tai pakeisti, ir priskirti teisės kurti O365 grupes, tam tikrų žmonių jūsų įmonėje. Atkreipkite dėmesį, kad tai turės įtakos kuriant grupių iš bet kurios O365 paslaugos (pvz., "Outlook", komandų, planavimo ir t.t.).
+Pagal numatytuosius nustatymus visi vartotojai įmonėje sugeba kurti grupes. Jei reikia, tu gali tai pakeisti, ir priskirti teisės kurti grupes, tam tikrų žmonių jūsų įmonėje. Atkreipkite dėmesį, kad tai turės poveikio grupes iš bet kurios "Office 365" paslaugą (pvz., "Outlook", komandų, planavimo ir t.t.) sukūrimas.
   
 Instrukcijos: [valdyti, kas gali kurti Office 365 grupes](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397942"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505839"
 ---
 # <a name="outlook-search-not-indexing"></a>"Outlook" ieškos ne indeksuoja
 
 Mes suώinome apie "Outlook" paieškos klausimai susiję su neseniai saugos naujinimų "Windows".
   
-Ieškant aplanke "Outlook", gaunate šį klaidos pranešimą: ** kažkas nutiko ir ieškos nepavyko užbaigti **, arba **ieškos rezultatai gali būti neišsamūs, todėl elementų vis dar indeksuojami**. Nustatyti buvo priimtas kaip Pasirinktinis naujinimas "Windows". Įdiekite vieną atitinkantį matote Ši problema dėl "Windows" versiją: 
+Ieškant aplanke "Outlook", galite gauti vieną iš šių klaidų: **kažkas ne taip ir nepavyko savo paiešką**, arba **ieškos rezultatai gali būti neišsamūs, todėl elementų vis dar indeksuojami**. Nustatyti buvo priimtas kaip Pasirinktinis naujinimas "Windows". Įdiekite vieną atitinkantį matote Ši problema dėl "Windows" versiją: 
   
 > [Windows 7 - 2017 m. birželio 27 atnaujinti](https://support.microsoft.com/kb/4022168.aspx)
     
