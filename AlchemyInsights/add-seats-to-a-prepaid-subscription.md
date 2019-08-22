@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385620"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495039"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Įtraukite vietų į iš anksto apmokėtos prenumeratos
 
-1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+Išankstinio mokėjimo "Office 365" licencijos yra išduodamos jums kaip 25 simbolių raidinį-skaitmeninį kodą. Po to, kai jūs įsigijote licencijų jums reikia, galite įtraukti juos į jūsų prenumeratą. 
 
-2. Pasirinkite iš anksto apmokėtos prenumeratos norite pridėti vartotojus.
+1. Administravimo centro, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
-3. **Daugiau veiksmų** meniu, pasirinkite **atnaujinti ar papildyti pažymėjimą su žetonu**.
+2. Raskite prenumeratą, į kurią norite įtraukti licencijas. Pasirinkite **daugiau veiksmų** išplečiamajame sąraše, o tada pasirinkite **atnaujinti ar papildyti pažymėjimą su žetonu**.
 
-4. Pasirinkite parinktį **naujas ir nepanaudotas produkto kodą** . (Jei šis prenumeratos sukurtas naudojant produkto kodą, perkamos parduotuvėje, jums gali turėti galimybę pridėti vartotojus su kiti mokėjimo būdai.)
+3. Dėl to **atnaujinti arba pridėti vartotojo licencijų** puslapyje, pasirinkite **naudoti naujas ir nepanaudotas produkto kodą**, tada pasirinkite **kitą**.
 
-5. Pasirinkti **kitą**.
+4. Įveskite produkto kodą, tada pasirinkite **kitą**.
 
-6. Įveskite produkto kodą, tada pasirinkite **kitą**.
+    > [!NOTE]
+    > Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Pridėti kitą produkto kodą** į jas patekti.
 
-7. Pasirinkite parinktį įtraukti daugiau vartotojų, pasirinkite **kitą**, tada pasirinkite **panaudoti**.
+5. Pasirinkti įtraukti vartotojus į prenumeratą, tada pasirinkite **kitą**.
 
-Jūs naudojate naują administravimo centrą? Imtis naujų priemonių, žr. [įtraukti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Peržiūrėti savo užsakymo duomenis ir pasirinkite **panaudoti**.
+
+Daugiau informacijos rasite [pridėti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
