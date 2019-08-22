@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 4e18a07b54a3d47767998c7680d92f741b0fb5c6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387265"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520963"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Atšaukti "Office 365" prenumeratą?
 
@@ -28,4 +28,4 @@ Remiantis jūsų organizacijos duomenis, manome, kad visos jūsų dabartinės pr
   
 Taip pat galite naudoti pasirinktį "Mes jums paskambinsime" pasikalbėti su aptarnaujančiu techniku.
   
-Norėdami sužinoti daugiau apie atšaukti prenumeratą arba žingsnis po žingsnio instrukcijas, skaitykite šį straipsnį: [prenumeratos atsisakymas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Norėdami sužinoti daugiau apie atšaukti prenumeratą arba žingsnis po žingsnio instrukcijas, skaitykite šį straipsnį: [prenumeratos atsisakymas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420708"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500420"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Pranešimus Prieiga uždrausta trikčių diagnostika
 
-Jei kas nors turite pranešimą "Prieiga uždrausta" į bendrai naudojamą aplanką, svetainių rinkinio administratorius gali įgalinti "riboto naudojimo vartotojas leidimo lockdown režimas." Išjungti šį parametrą: 
+Jei kas nors turite pranešimą "Prieiga uždrausta" į bendrinamą aplanką programoje "SharePoint", svetainių rinkinio administratorius gali įgalinti "riboto naudojimo vartotojas leidimo lockdown režimas." Išjungti šį parametrą: 
   
 1. Eikite į svetainę, spustelėkite nustatymų piktogramą ir tada spustelėkite **Svetainės parametrai**.
     
