@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389872"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539505"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="9a057-102">Kaip peržiūrėti ir tvarkyti programas</span><span class="sxs-lookup"><span data-stu-id="9a057-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="cad12-102">Kaip peržiūrėti ir tvarkyti programas</span><span class="sxs-lookup"><span data-stu-id="cad12-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="9a057-103">Norėdami peržiūrėti programėlių, jūs turite būti naujas administravimo centro.</span><span class="sxs-lookup"><span data-stu-id="9a057-103">To view your apps, you must be in the new admin center.</span></span>  <span data-ttu-id="9a057-104">Galite perjungti tai dėl administravimo centro puslapį.</span><span class="sxs-lookup"><span data-stu-id="9a057-104">You can toggle this on the admin center Home page.</span></span>  
+<span data-ttu-id="cad12-103">Galite peržiūrėti programėlės į "Microsoft" 365 administravimo centro.</span><span class="sxs-lookup"><span data-stu-id="cad12-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="9a057-105">Su nauja administravimo centro įjungtas, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="9a057-105">With new admin center turned on, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="cad12-104">Administravimo centro, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="cad12-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="9a057-106">**Prekių ir paslaugų &** puslapyje, pasirinkite skirtuką **programos** .</span><span class="sxs-lookup"><span data-stu-id="9a057-106">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="cad12-105">**Prekių ir paslaugų &** puslapyje, pasirinkite skirtuką **programos** .</span><span class="sxs-lookup"><span data-stu-id="cad12-105">On the **Products & Services** page, select the **Apps** tab.</span></span>

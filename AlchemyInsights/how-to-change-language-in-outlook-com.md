@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430560"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541674"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="e21e3-102">Pakeisti kalbą</span><span class="sxs-lookup"><span data-stu-id="e21e3-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="7bf24-102">Pakeisti kalbą</span><span class="sxs-lookup"><span data-stu-id="7bf24-102">Change your language</span></span>
 
-1. <span data-ttu-id="e21e3-103">Eikite į [**kalba ir laiko**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) parametrus (**Parametrai** \> **Peržiūrėti visus "Outlook" parametrų** > **bendrojo** > **kalba ir laiko**).</span><span class="sxs-lookup"><span data-stu-id="e21e3-103">Go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="7bf24-103">Chang kalbą programoje "Outlook", eikite į [**kalbą ir laiko**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) nustatymus (**parametrus** \> **Rodyti visus "Outlook" parametrų** > **bendrojo** > **kalba ir laiko**).</span><span class="sxs-lookup"><span data-stu-id="7bf24-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="e21e3-104">Pasirinkite savo kalbą.</span><span class="sxs-lookup"><span data-stu-id="e21e3-104">Choose your language.</span></span>
+2. <span data-ttu-id="7bf24-104">Pasirinkite savo kalbą.</span><span class="sxs-lookup"><span data-stu-id="7bf24-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="e21e3-105">Pasirinkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="e21e3-105">Select **Save**.</span></span>
+3. <span data-ttu-id="7bf24-105">Pasirinkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="7bf24-105">Select **Save**.</span></span>
 
-<span data-ttu-id="e21e3-106">Norėdami sužinoti daugiau, peržiūrėkite [pakeisti laiko juostą ir kalbos parametrus naudodami "Outlook.com"](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="e21e3-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="7bf24-106">Norėdami sužinoti daugiau, peržiūrėkite [pakeisti laiko juostą ir kalbos parametrus naudodami "Outlook.com"](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="7bf24-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
