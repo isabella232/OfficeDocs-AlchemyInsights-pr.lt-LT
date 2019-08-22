@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 126cfa4e44b3b7e900e47de0b86602c60f3f0dc2
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223900"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504219"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="6b00a-102">IRM apsauga į SharePoint failai</span><span class="sxs-lookup"><span data-stu-id="6b00a-102">IRM Protection to SharePoint files</span></span>
+# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="57a53-102">IRM apsauga į SharePoint failai</span><span class="sxs-lookup"><span data-stu-id="57a53-102">IRM Protection to SharePoint files</span></span>
 
 
-<span data-ttu-id="6b00a-103">Per SharePoint Online, IRM apsauga taikoma failų sąrašą ir bibliotekos lygmenyje.</span><span class="sxs-lookup"><span data-stu-id="6b00a-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="6b00a-104">Organizacijos gali naudoti IRM apsaugą, pirmiausia turite nustatyti teisių valdymo.</span><span class="sxs-lookup"><span data-stu-id="6b00a-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="6b00a-105">IRM remiasi Azure teisių valdymo tarnybos, Azure duomenų apsaugos užšifruoti ir priskirti naudojimo apribojimai.</span><span class="sxs-lookup"><span data-stu-id="6b00a-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="6b00a-106">Kai kurie "Office 365" planus įtraukti Azure teisių valdymo, bet ne visus.</span><span class="sxs-lookup"><span data-stu-id="6b00a-106">Some Office 365 plans include Azure Rights Management, but not all.</span></span> 
+<span data-ttu-id="57a53-103">Per SharePoint Online, IRM apsauga taikoma failų sąrašą ir bibliotekos lygmenyje.</span><span class="sxs-lookup"><span data-stu-id="57a53-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="57a53-104">Organizacijos gali naudoti IRM apsaugą, pirmiausia turite nustatyti teisių valdymo.</span><span class="sxs-lookup"><span data-stu-id="57a53-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="57a53-105">IRM remiasi Azure teisių valdymo tarnybos, Azure duomenų apsaugos užšifruoti ir priskirti naudojimo apribojimai.</span><span class="sxs-lookup"><span data-stu-id="57a53-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="57a53-106">Kai kurie "Office 365" planus įtraukti Azure teisių valdymo, bet ne visus.</span><span class="sxs-lookup"><span data-stu-id="57a53-106">Some Office 365 plans include Azure Rights Management, but not all.</span></span> 
 
-<span data-ttu-id="6b00a-107">Norėdami sužinoti daugiau, žr.:</span><span class="sxs-lookup"><span data-stu-id="6b00a-107">To learn more, see:</span></span>
+<span data-ttu-id="57a53-107">Norėdami sužinoti daugiau, žr.:</span><span class="sxs-lookup"><span data-stu-id="57a53-107">To learn more, see:</span></span>
 
-- <span data-ttu-id="6b00a-108">[Kaip "Office" programoms ir paslaugoms remti Azure teisių valdymą](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span><span class="sxs-lookup"><span data-stu-id="6b00a-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
+- <span data-ttu-id="57a53-108">[Kaip "Office" programoms ir paslaugoms remti Azure teisių valdymą](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span><span class="sxs-lookup"><span data-stu-id="57a53-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
 
-- <span data-ttu-id="6b00a-109">[Nustatyti iki informacijos teisių valdymo (IRM) SharePoint administravimo centro](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="6b00a-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
+- <span data-ttu-id="57a53-109">[Nustatyti iki informacijos teisių valdymo (IRM) SharePoint administravimo centro](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="57a53-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
 
-- <span data-ttu-id="6b00a-110">[IRM įgalinti SharePoint dokumentų bibliotekose ir sąrašuose](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span><span class="sxs-lookup"><span data-stu-id="6b00a-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
+- <span data-ttu-id="57a53-110">[IRM įgalinti SharePoint dokumentų bibliotekose ir sąrašuose](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span><span class="sxs-lookup"><span data-stu-id="57a53-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
 
-- <span data-ttu-id="6b00a-111">[Informacijos teisių valdymo tarnyba](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span><span class="sxs-lookup"><span data-stu-id="6b00a-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
+- <span data-ttu-id="57a53-111">[Informacijos teisių valdymo tarnyba](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span><span class="sxs-lookup"><span data-stu-id="57a53-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
 
-- <span data-ttu-id="6b00a-112">[Informacijos teisių valdymo Exchange internetu](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span><span class="sxs-lookup"><span data-stu-id="6b00a-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span></span>
+- <span data-ttu-id="57a53-112">[Informacijos teisių valdymo Exchange internetu](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span><span class="sxs-lookup"><span data-stu-id="57a53-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span></span>
 
 
