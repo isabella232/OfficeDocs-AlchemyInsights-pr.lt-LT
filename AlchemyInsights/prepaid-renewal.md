@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388608"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554629"
 ---
-# <a name="prepaid-renewal"></a><span data-ttu-id="269af-102">Išankstinio mokėjimo pratęsimo</span><span class="sxs-lookup"><span data-stu-id="269af-102">Prepaid renewal</span></span>
+# <a name="prepaid-office-365-renewal"></a><span data-ttu-id="27af6-102">Išankstinio mokėjimo "Office 365" atnaujinimas</span><span class="sxs-lookup"><span data-stu-id="27af6-102">Prepaid Office 365 renewal</span></span>
 
-1. <span data-ttu-id="269af-103">Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.</span><span class="sxs-lookup"><span data-stu-id="269af-103">In the Admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="27af6-103">Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="27af6-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="269af-104">Pasirinkite iš anksto apmokėtos prenumeratos norite pratęsti, tada pasirinkite **išplėsti**.</span><span class="sxs-lookup"><span data-stu-id="269af-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
+2. <span data-ttu-id="27af6-104">Raskite norimą pratęsti prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="27af6-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="27af6-105">Skiltį **atsiskaitymo** pasirinkite **išplėsti pabaigos data**.</span><span class="sxs-lookup"><span data-stu-id="27af6-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="269af-105">Pasirinkite parinktį įvesti **produkto rakto**.</span><span class="sxs-lookup"><span data-stu-id="269af-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="269af-106">(Jei tai produkto kodą, perkamos parduotuvėje, jums gali turėti galimybę pratęsti kiti mokėjimo būdai.)</span><span class="sxs-lookup"><span data-stu-id="269af-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
+3. <span data-ttu-id="27af6-106">**Pratęsti prenumeratą** srityje, pasirinkite **naudoti naujas ir nepanaudotas produkto kodą**, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="27af6-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="269af-107">Įveskite produkto kodą.</span><span class="sxs-lookup"><span data-stu-id="269af-107">Enter the product key.</span></span>
+4. <span data-ttu-id="27af6-107">Įveskite produkto kodą, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="27af6-107">Enter the product key, then select **Next**.</span></span>
 
-5. <span data-ttu-id="269af-108">Įsitikinkite, kad nurodyta informacija yra teisinga, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="269af-108">Make sure the information is correct, then choose **Next**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="27af6-108">Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Pridėti kitą produkto kodą** į jas patekti.</span><span class="sxs-lookup"><span data-stu-id="27af6-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-6. <span data-ttu-id="269af-109">Pasirinkite radijo mygtuką išplėsti esamas licencijas pabaigos datą, tada pasirinkite **kitą**.</span><span class="sxs-lookup"><span data-stu-id="269af-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
+5. <span data-ttu-id="27af6-109">Peržiūrėti savo užsakymo duomenis ir pasirinkite **panaudoti**.</span><span class="sxs-lookup"><span data-stu-id="27af6-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="269af-110">Jūs naudojate naują administravimo centrą?</span><span class="sxs-lookup"><span data-stu-id="269af-110">Are you using the new admin center?</span></span> <span data-ttu-id="269af-111">Imtis naujų priemonių, žr. [įtraukti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="269af-111">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="27af6-110">Daugiau informacijos rasite [pridėti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="27af6-110">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
