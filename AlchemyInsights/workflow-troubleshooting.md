@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271923"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558085"
 ---
 # <a name="workflow-troubleshooting"></a>Darbo eigos trikčių šalinimas
 
-Darbo eigos trikčių diagnostika ir derinimas:
+Informacijos apie derinimo SharePoint darbo eigos, peržvelkite šiuos parametrus:
 - Derinimo darbo eigos panaši į ankstesnes versijas.  Norėdami gauti daugiau informacijos, peržiūrėkite [derinimo SharePoint darbo eigos](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 - Daugiau informacijos apie trikčių šalinimą, žr [Šalinti SharePoint serverio darbo eigos tikrinimo klaidas](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
