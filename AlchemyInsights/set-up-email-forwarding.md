@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355381"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549947"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Patikrinkite el. pašto peradresavimo parametrus pašto dėžutės
 
-Tai lengva patikrinti, el. pašto peradresavimo parametrus pašto dėžutę! Tiesiog atlikite šiuos veiksmus.
+Tai lengva patikrinti, el. pašto peradresavimo parametrus su "Office 365" pašto dėžutės! Tiesiog atlikite šiuos veiksmus.
   
-> Jei vartotojo pašto dėžutės, eikite į **vartotojai** \> **aktyvių vartotojų** ir pasirinkite vartotojo kurie turi persiunčiamo pašto dėžutės. Pagal pašto parametrus, pasirinkite **Redaguoti** el. pašto peradresavimas.
+> Jei vartotojo pašto dėžutės, eikite į **vartotojai** \> **aktyvių vartotojų** ir pasirinkite vartotojo kurie turi persiunčiamo pašto dėžutės. Dėl to **paštas** skirtukas, pasirinkite **tvarkyti emaill peradresavimą**.
     
-> Jei tai yra bendrai naudojamos pašto dėžutės, eikite į **grupės** \> **bendrinamos pašto dėžutės** ir pasirinkite persiunčiamo bendrai naudojamos pašto dėžutės. Pasirinkite **Redaguoti** el. pašto peradresavimas.
+> Jei tai yra bendrai naudojamos pašto dėžutės, eikite į **grupės** \> **bendrinamos pašto dėžutės** ir pasirinkite persiunčiamo bendrai naudojamos pašto dėžutės. Redaguoti **Redaguoti** el. pašto peradresavimas.
 
 Daugiau informacijos ieškokite [konfigūravimas siųsti į "Office 365"](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   

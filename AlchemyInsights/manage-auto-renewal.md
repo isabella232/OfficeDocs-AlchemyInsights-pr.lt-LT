@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389800"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542446"
 ---
 # <a name="manage-recurring-billing"></a>Valdyti pasikartojančių sąskaitų
 
-Valdyti pasikartojančios atsiskaitymo, galite perjungti **pasikartojančios atsiskaitymo** įjungimas arba išjungimas.
+Galite įjungti pasikartojančios atsiskaitymo įjungti arba išjungti "Microsoft" 365 administravimo centro.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+1. Eiti į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
-2. Pasirinkite abonemento, kurį norite valdyti pasikartojančių sąskaitų.
+2. Pagal **atsiskaitymo**, šalia **Renews ant** arba **Expiring ant**, pasirinkite **Redaguoti**.
 
-3. Perjungti **pasikartojančios atsiskaitymo** perjungiklį **įjungti** arba **išjungti**.
+3. Srityje **pasikartojančios Atsiskaitymo nustatymai** pažymėkite **pasikartojančios atsiskaitymo išjungti** jį išjungti. Jei **pasikartojančios atsiskaitymo** jau išjungta, pasirinkite **kas mėnesį** ar **kartą** jį įjungti.
 
-Norėdami gauti daugiau informacijos, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Pasirinkite **Siųsti pakeisti**.
+
+Norėdami gauti daugiau informacijos, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

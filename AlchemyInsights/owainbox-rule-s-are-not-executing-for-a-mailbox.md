@@ -12,16 +12,16 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 218a05a8d321b76dd07345ea48d6b3e158cc120e
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204068"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555781"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>Aplanko Gauta taisyklę neveikia kaip tikėtasi
 
-Patikrinkite šiuos parametrus:
+Patikrinkite šiuos parametrus programoje "Outlook" žiniatinklyje:
 
 - Pranešimas gali būti nukreipti, persiųsti ar atsakymų į automatiškai remiantis aplanko Gauta taisykles tik vieną kartą. Nukreipiama taisyklė (yra aplanko Gauta taisyklę arba pašto srauto taisyklės, taip pat žinomas kaip transportavimo taisyklę) galite pridėti ne daugiau kaip dešimt persiuntimo gavėjams žinutę. Norėdami gauti daugiau informacijos, peržiūrėkite [žurnalo, transporto ir pašto dėžutę taisyklė apriboja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 

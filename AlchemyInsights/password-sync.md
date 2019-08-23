@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372964"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555385"
 ---
 # <a name="enable-password-sync"></a>Įjungti slaptažodžio sinchronizavimo
 
-1.  Pasirinkti **DirSync būseną** pagrindiniame puslapyje O365 Admin centras. 
+1.  Pasirinkti **DirSync būseną** pagrindiniame puslapyje "Microsoft" 365 administravimo centro. 
     
-     * Taip pat galite eiti į **vartotojų** \> ** aktyvių vartotojų **, ir puslapyje aktyvūs vartotojai pasirinkite **daugiau** \> **katalogų sinchronizavimą.** * 
+     *Taip pat galite eiti į **vartotojų** \> **aktyvių vartotojų**, ir puslapyje aktyvūs vartotojai pasirinkite **daugiau** \> **katalogų sinchronizavimą.*** 
     
 2. Katalogų sinchronizavimo sritį, pasirinkite **Eiti į DirSync valdymo**. 
     
