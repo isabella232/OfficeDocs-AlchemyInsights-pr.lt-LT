@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 5d62e754162f1874f7e19c040d7a049f3d9cbdbe
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904270"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553079"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="f2738-102">Dynamics 365 portalai rekomenduojama sprendimai</span><span class="sxs-lookup"><span data-stu-id="f2738-102">Dynamics 365 portals recommended solutions</span></span>
+# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="ccbaa-102">Dynamics 365 portalai rekomenduojama sprendimai</span><span class="sxs-lookup"><span data-stu-id="ccbaa-102">Dynamics 365 portals recommended solutions</span></span>
 
-* [<span data-ttu-id="f2738-103">Kaip peržiūrėti išsamias serverio klaida rodoma mano portalas</span><span class="sxs-lookup"><span data-stu-id="f2738-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [<span data-ttu-id="ccbaa-103">Kaip peržiūrėti išsamias serverio klaida rodoma mano portalas</span><span class="sxs-lookup"><span data-stu-id="ccbaa-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [<span data-ttu-id="f2738-104">Kaip iš naujo nustatyti portalą</span><span class="sxs-lookup"><span data-stu-id="f2738-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [<span data-ttu-id="ccbaa-104">Kaip iš naujo nustatyti portalą</span><span class="sxs-lookup"><span data-stu-id="ccbaa-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [<span data-ttu-id="f2738-105">Kaip išvalyti serverio talpyklą portalas</span><span class="sxs-lookup"><span data-stu-id="f2738-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [<span data-ttu-id="ccbaa-105">Kaip išvalyti serverio talpyklą portalas</span><span class="sxs-lookup"><span data-stu-id="ccbaa-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [<span data-ttu-id="f2738-106">Kaip pakeisti auditorijos ir tipo Dynamics 365 portalas</span><span class="sxs-lookup"><span data-stu-id="f2738-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [<span data-ttu-id="ccbaa-106">Kaip pakeisti auditorijos ir tipo Dynamics 365 portalas</span><span class="sxs-lookup"><span data-stu-id="ccbaa-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [<span data-ttu-id="f2738-107">Kaip pakeisti bazinis URL portalas</span><span class="sxs-lookup"><span data-stu-id="f2738-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/change-base-url)
+* [<span data-ttu-id="ccbaa-107">Kaip pakeisti bazinis URL portalas</span><span class="sxs-lookup"><span data-stu-id="ccbaa-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [<span data-ttu-id="f2738-108">Kaip sukonfigūruoti išorinės tapatybės teikėją su portalu</span><span class="sxs-lookup"><span data-stu-id="f2738-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [<span data-ttu-id="ccbaa-108">Kaip sukonfigūruoti išorinės tapatybės teikėją su portalu</span><span class="sxs-lookup"><span data-stu-id="ccbaa-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
-* [<span data-ttu-id="f2738-109">Dažnai užduodami klausimai</span><span class="sxs-lookup"><span data-stu-id="f2738-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
+* [<span data-ttu-id="ccbaa-109">Dažnai užduodami klausimai</span><span class="sxs-lookup"><span data-stu-id="ccbaa-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [<span data-ttu-id="f2738-110">Darbo pradžia su mano Dynamics 365 portalas</span><span class="sxs-lookup"><span data-stu-id="f2738-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [<span data-ttu-id="ccbaa-110">Darbo pradžia su mano Dynamics 365 portalas</span><span class="sxs-lookup"><span data-stu-id="ccbaa-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
