@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388392"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551531"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Siųsti el. pašto pseudonimą ar adresas
 
@@ -26,4 +26,4 @@ ms.locfileid: "36388392"
   
 - [Eiti čia Norėdami sukurti bendrai naudojamą pašto dėžutę](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Taip pat galite perskaityti [sukurti bendrai naudojamą pašto dėžutę](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) straipsnį, kuri jums pasakys viską, ką reikia žinoti apie bendrai naudojamos pašto dėžutės, įskaitant tai, kaip juos naudoti.
+Taip pat galite perskaityti [sukurti bendrai naudojamą pašto dėžutę](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) straipsnį, kuri jums pasakys viską, ką reikia žinoti apie bendrai naudojamos pašto dėžutės, įskaitant tai, kaip juos naudoti.

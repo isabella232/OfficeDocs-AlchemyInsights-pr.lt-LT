@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388464"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553584"
 ---
-# <a name="question-about-licenses"></a>Klausimas apie licencijas
+# <a name="questions-about-your-office-365-license"></a>Klausimai apie jūsų "Office 365" licenciją
 
 Jei norite žinoti, kiek licencijų nusipirkote, arba kiek licencijų priskiriamos iš abonemento:
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
-2. Pasirink narystę, kurią norite sužinoti daugiau apie.
+2. Pagal pavadinimą norite sužinoti daugiau apie prenumeratos, matote jūs mokate už licencijas ir kiek yra priskiriamas skaičius.
 
-3. Prenumerata kortelę kairėje pusėje yra informacijos apie jūsų licencijos:
-
-  - **Pirkta** yra jums moka už licencijų skaičiaus.
-
-  - **Priskirtas** numeris yra priskirtas vartotojo licencijų skaičiaus.
-
-4. Jei norite pridėti daugiau licencijų, arba jei turite labai daug, pasirinkite **Pridėti/šalinti licencijas** pakoreguoti sumą įsigyti.
+Jei norite pridėti daugiau licencijų, arba jei turite labai daug, pasirinkite **Pridėti/šalinti licencijas** pakoreguoti sumą įsigyti.

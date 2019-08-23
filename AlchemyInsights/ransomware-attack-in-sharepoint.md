@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269492"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553404"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Išpirkos ataka SharePoint arba "OneDrive"
 
@@ -36,12 +36,12 @@ Norėdami gauti daugiau informacijos apie tai, kaip atkurti, žr.:
 - [Atkurti dokumentų bibliotekoje](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 Norėdami gauti daugiau informacijos apie Advanced Threat apsaugos (ATP), žr.:
-- [ATP SharePoint, "OneDrive" ir komandos](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Grėsmė "Internet Explorer" peržiūros](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [ATP SharePoint, "OneDrive" ir komandos](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Grėsmė "Internet Explorer" peržiūros](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Papildoma informacija:
 
-- [Virusų aptikimas SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Duomenų šifravimas ODB ir SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Virusų aptikimas SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Duomenų šifravimas ODB ir SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Virusui aptikti ir atkurti failus](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Grėsmių naršyklė ir realiu laiku pastebėjimai](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Grėsmių naršyklė ir realiu laiku pastebėjimai](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

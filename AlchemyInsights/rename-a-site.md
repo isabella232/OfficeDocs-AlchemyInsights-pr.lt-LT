@@ -11,14 +11,14 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370106"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552899"
 ---
-# <a name="rename-a-site"></a>Pervardykite svetainę
+# <a name="rename-a-sharepoint-site"></a>Pervardyti SharePoint svetainės
 
 Norėdami pakeisti pavadinimą, vietą, pvz., nuo https://contoso.sharepoint.com/sites/sample1 į https://contoso.sharepoint.com/sites/sample2, jums reikia sukurti naują svetainę ir tada perkelti visą turinį iš senosios svetainės į naująją. Informacijos apie perkelti elementus, dokumentų bibliotekas, rasite [perkelti arba kopijuoti elementus iš SharePoint dokumentų bibliotekoje](https://go.microsoft.com/fwlink/?Linkid=2018691).
   

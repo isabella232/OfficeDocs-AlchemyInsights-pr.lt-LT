@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356605"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553440"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Atšaukti arba pakeisti el. paštu
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Atšaukti arba pakeisti el. laišką programoje "Office 365"
 
 - Jūs galite **tik priminti pranešimus, kurie siunčiami jūsų organizacijos žmonės**. Jei pranešimas buvo išsiųstas į "Gmail" adresą, pvz., jūs negalite prisiminti jį.
 - Jūs galite **tik prisiminti laiškus iš "Outlook" 2016 kompiuteryje**. Jei vartotojo siunčia pranešimą naudodami "Outlook" skirtas "Mac" arba "Outlook" internete, negali prisiminti jį.
 - Jei esate administratorius, galite **Atšaukti pranešimų vardu vartotojai naudodami "PowerShell"**. Jūs negalite prisiminti pranešimus administravimo centrą. Slinkite žemyn iki "Ieškoti ir naikinti el. laiškus į jūsų organizacijos" Norėdami gauti daugiau informacijos.
 
-***Atšaukti arba pakeisti, kuriuo siuntėte el. laišką***
+**Atšaukti arba pakeisti, kuriuo siuntėte el. laišką**
 
 1. Aplanką "Outlook" lango kairėje srityje pasirinkite aplanką Išsiųsta.
 2. Atidarykite pranešimą, kurį norite atšaukti. Jūs turite dukart spustelėkite atidaryti pranešimą. Pažymėdami jį, jis rodomas skaitymo srityje neleis jums priminti pranešimą.

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171366"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557509"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Pakeisti pašto dėžutės išvaizdą
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Pakeisti savo "Outlook" pašto dėžutės išvaizdą
 
 Taip atrodo ir elgiasi taip, kaip norite, galite pakeisti išvaizdą, pranešimų sąraše ir skaitymo sritį. Pasirinkti, ar jūsų pranešimai turėtų būti rodomi atskirai arba kaip pokalbius, jei nauji laiškai rodomi viršuje ar apačioje pranešimų sąraše ir kt.
 

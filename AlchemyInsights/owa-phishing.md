@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683188"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556600"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Kaip kovoti su phishing laišką
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kaip kovoti su phishing laišką programoje "Outlook" žiniatinklyje
 
 Sukčiavimas apsimetant yra el. laišką, kuris atrodo teisėtas, bet iš tiesų bandoma pavogti jūsų asmeninę informaciją arba pinigų. Sukčiai taip pat galite naudoti technika vadinama apsimesti kitu asmeniu, kad jis atsirastų, jei gavote el. laišką iš savęs.
 
