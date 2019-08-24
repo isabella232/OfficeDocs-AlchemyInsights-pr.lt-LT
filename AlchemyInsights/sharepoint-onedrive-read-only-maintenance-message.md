@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840523"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620731"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Tik techninės priežiūros pranešimas, kai bandote naudoti SharePoint arba "OneDrive"
 
-Vartotojai gali gauti **Tik skaityti dėl priežiūros** pranešimą, kai bandote naudoti SharePoint arba "OneDrive".  Jei taip, patikrinti, ar aktyvios techninės priežiūros, vyksta į savo nuomotojo nuskrieti į [pranešimų centras](https://portal.office.com/adminportal/home#/MessageCenter). Be to, įsitikinkite, kad patikrinti [Paslaugų sveikatos](https://portal.office.com/adminportal/home#/servicehealth) stebėjimo skydas ieškoti bet patarimus/incidentų, kurie gali būti įvykę.
+Vartotojai gali gauti **Tik skaityti dėl priežiūros** pranešimą, kai bandote naudoti vieną iš šių scenarijų SharePoint arba "OneDrive". 
 
-Jei nei pranešimų centrą ar paslaugų sveikatos ataskaitų srities turėti pažymėti nieko apie einamoji priežiūra jūsų nuomininkas, tai gali būti naršyklės talpyklą problema.
+-   Suplanuotą arba aktyvios techninės priežiūros veikla.  Patikrinti, ar juos pereiti į [Pranešimų centrą](https://portal.office.com/adminportal/home#/messagecenter).
+-   Prioritetiniu, tarnaujantiems incidentas, kuris gali būti įvykę. Patikrinti visus patarimus ir (arba) incidentus navigacijos [Paslaugas](https://portal.office.com/adminportal/home#/servicehealth)sveikatai.
+-   Nepilnametis Automatinis atsikūrimas atkūrimo scenarijų, kuris gali atsitikti dėl netikėtų įvykių, bet serveriuose, kurie gali trukti mažiau nei 30 min. arba tiek. 
+    
+    Šiuo metu jokių pranešimų centrą arba sveikatos paslaugų pranešimų šių nedidelių sužinojus bet jums reikėtų grįžti prie normalaus labai greitai.
+
+Labai nedaug kartų mes pastebėjo, kad vienas iš pirmiau išvardytų trijų scenarijų buvo priežastis, ir paslauga buvo atkurtas, tačiau vartotojai naršyklės talpyklą nebuvo buvo išvalytas iki.
 
 Prašome pabandyti išvalyti naršyklės talpyklą prieš pereinant į svetainę.
 
