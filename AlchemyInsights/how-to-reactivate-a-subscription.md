@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539937"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574770"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Prenumeratos aktyvinimas iš naujo
 
@@ -26,10 +26,10 @@ Jei baigėsi jūsų prenumeratos galiojimo laikas, prenumerata buvo atšaukta ar
   
 1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Dalyje **Atsiskaitymas**, greta **Atnaujinama ** arba **Baigia galioti**, pasirinkite **Redaguoti**.
+2. Pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti. Sekcijoje**Atsiskaitymas** pasirinkite**Aktyvinti iš naujo**.
 
-3. Srityje **Pasikartojančio atsiskaitymo parametrai** pasirinkite norimą parinktį. Jei pasikartojantis atsiskaitymas jau išjungtas, norėdami jį įjungti, pasirinkite **Kas mėnesį** arba **Vieną kartą**.
+    Jei tarp galimų veiksmų nematote parinkties **Aktyvinti iš naujo**, kreipkitės į palaikymo tarnybą, kad jūsų prenumerata būtų suaktyvinta iš naujo.
 
-4. Pasirinkite **Pateikti keitimą**.
+3. Patvirtinkite savo mokėjimo duomenis. Jau esančią mokėjimo informaciją galite atnaujinti čia. Kai įvesite mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
 
-Daugiau informacijos ieškokite dalyje [„Office 365“ verslui atnaujinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Ar naudojate senąjį administravimo centrą? Jei norite sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
