@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514879"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631824"
 ---
 # <a name="creating-public-folders"></a>Viešųjų aplankų kūrimas
 
 Jūsų vartotojams naudoti viešuosius aplankus į "Office 365", jums reikia sukurti bent vieną viešojo aplanko pašto dėžutės. Jei norite sukurti:
   
-1. O365 portalas, naudodami kairėje naršymo meniu, eikite į **Admin centrų** \> **mainai**.
+1. "Microsoft" 365 administravimo centro, eikite į **Admin centrų** \> **mainai**.
 
 2. Eikite į **viešuosius aplankus** \> **viešųjų aplankų pašto dėžutėms**, o tada spustelėkite **pridėti**.
 
