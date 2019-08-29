@@ -2,7 +2,6 @@
 title: Ar jums reikia perkelti telefono numerį iš vieno teikėjo perkelti į "Office 365"?
 ms.author: heidip
 author: microsoftheidi
-ms.date: 2/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 49a9ae07683c07da7a2d20a5db68123eedfc456b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 77d5699e69e625e03262b8472421e240e5a2e723
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529567"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664688"
 ---
-# <a name="do-you-need-to-move-a-phone-number-from-one-provider-over-to-office-365"></a>Ar jums reikia perkelti telefono numerį iš vieno teikėjo perkelti į "Office 365"?
+# <a name="move-a-phone-number-from-another-provider-to-office-365"></a>Perkelti telefono numerį iš kito paslaugų teikėjo "Office 365"
 
-Ar jums reikia perkelti telefono numerį iš vieno teikėjo perkelti į "Office 365"? Telefono numerius iš skirtingų šalių ar regionų, galima rasti šiuo adresu: [tvarkyti telefono numerius į savo organizacijos](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)
+Ar jums reikia perkelti telefono numerį iš kito paslaugų teikėjo perkelti į "Office 365"? Telefono numeriai įvairių šalių ir regionų galima rasti [tvarkyti telefono numeriai jūsų organizacijai](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Pasirinkite savo šalies ar regiono rasti informacijos apie numerius. 
   

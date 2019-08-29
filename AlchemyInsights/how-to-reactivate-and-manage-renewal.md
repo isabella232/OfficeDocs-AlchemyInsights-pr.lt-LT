@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574550"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663968"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kaip iš naujo suaktyvinti ir valdyti pasikartojančių sąskaitų
 
@@ -32,7 +32,7 @@ Atrodo, kad turite abonementą, kuris baigėsi. Jei norite vėl ją, o čia kaip
 
 3. Patvirtinti savo mokėjimo duomenis. Jūs galite atnaujinti savo esamų mokėjimo informaciją čia. Baigę įvesti mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
 
-Jūs naudojate seną administravimo centrą? Senas veiksmus, arba jei norite sužinoti daugiau, peržiūrėkite [iš naujo aktyvinti savo prenumeratą](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Norėdami sužinoti daugiau, peržiūrėkite [iš naujo aktyvinti savo prenumeratą](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Valdyti, kas mėnesį arba kasmet atsiskaitymo jūs galite įjungti **pasikartojančios atsiskaitymo** arba išjungti.
   
@@ -46,4 +46,4 @@ Valdyti, kas mėnesį arba kasmet atsiskaitymo jūs galite įjungti **pasikartoj
 
 5. Pasirinkite **Siųsti pakeisti**.
 
-Jūs naudojate seną administravimo centrą? Senas veiksmus, arba jei norite sužinoti daugiau, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Jei norite sužinoti daugiau, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

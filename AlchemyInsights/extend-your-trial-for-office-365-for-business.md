@@ -3,7 +3,6 @@ title: Išplėsti naudoti bandomąją versiją "Office 365" verslui
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575640"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665012"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Išplėsti naudoti bandomąją versiją "Office 365" verslui
+# <a name="extend-your-trial-for-office-365-for-business"></a>Išplėsti jūsų bandomoji "Office 365" verslui
 
 Jei bandomosios prenumeratos yra per 15 dienų, t. y. iki ir teismo nebuvo buvo pratęstas prieš, galite išplėsti savo teismą už dar 30 dienų laikotarpiui. Galima padaryti tik šį vienintelį kartą.
   
@@ -32,4 +31,4 @@ Jei bandomosios prenumeratos yra per 15 dienų, t. y. iki ir teismo nebuvo buvo 
 
 4. Jums reikia pateikti kredito kortelės informaciją, išplėsti savo teismą. Mes nekainuos jūsų kreditinės kortelės bandymus pratęsti.
 
-Jūs naudojate seną administravimo centrą? Senas veiksmus, arba jei norite sužinoti daugiau, peržiūrėkite [išplėsti naudoti bandomąją versiją "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Norėdami sužinoti daugiau, peržiūrėkite [išplėsti naudoti bandomąją versiją "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

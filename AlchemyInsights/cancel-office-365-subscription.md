@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576064"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665522"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Jūsų "Office 365" prenumeratos atšaukimas?
 
@@ -28,4 +28,4 @@ Apgailestaujame, jei priimtumėte, bet čia yra jūsų galimybes atšaukti prenu
 
 - Jei turite daugiau nei 25 priskirti licencijas, galite pašalinti vartotojų tol, kol turite mažiau nei 25, arba naudokite pasirinktį "Mes jums paskambinsime" pasikalbėti su aptarnaujančiu techniku.
 
-Jūs naudojate seną administravimo centrą? Senas veiksmus, arba jei norite sužinoti daugiau, peržiūrėkite [atsisakyti prenumeratos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Norėdami sužinoti daugiau, peržiūrėkite [atsisakyti prenumeratos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

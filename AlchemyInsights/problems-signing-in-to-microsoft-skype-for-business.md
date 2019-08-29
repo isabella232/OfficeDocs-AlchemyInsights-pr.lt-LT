@@ -1,9 +1,8 @@
 ---
-title: Problemos prisijungiant prie Microsoft Skype verslui
+title: Problemos prisijungiant prie "Microsoft" Skype verslui
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: 3325d5e331cb1d9cf0168ba4fd744a4f42aaad36
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afe4228d38bf93984be8dece3146c5ce072b6fdc
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509935"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666632"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Problemos prisijungiant prie Microsoft Skype verslui
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Problemos prisijungiant prie "Microsoft" Skype verslui
 
-Atsisiųskite ir [palaikymo ir atkūrimo asistentas (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-Šis įrankis gali padėti jums automatiškai diagnozuoti ir išspręsti įvairių žinomų problemų, susijusių su prisijungti prie "Skype" verslui.
+Atsisiųskite ir naudokite [palaikymo ir atkūrimo asistentas (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+Šis įrankis gali padėti automatiškai diagnozuoti ir išspręsti įvairias žinomas problemas, susijusias su prisijungimas prie "Skype" verslui.

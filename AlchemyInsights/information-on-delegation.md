@@ -1,9 +1,8 @@
 ---
-title: 606 delegacijos informacija
+title: 606 informacija apie delegaciją
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499107"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661736"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegacijos į "Outlook" ir internetinei "Outlook" trikčių šalinimas
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Trikčių diagnostika delegacija programoje "Outlook" ir "Outlook" žiniatinklyje
 
-**Trikčių diagnostika naudojant įrankį SaRA:**
+**Trikčių diagnostika naudojant SaRA įrankis:**
 
-1. Atsisiųsti ir įdiegti SaRA įrankis iš čia
-1. Pasirinkite "Outlook", tada "Man kyla problemų su mano kalendorių"
-1. Sakote taip paveiktų mašina
-1. Pridėti el. pašto adresą, reikalingą vartotojo
-1. Pasirinkite "Turiu problemų su atstovo teises"
-1. Į kitą eilutę, jei asmens teises, įveskite el. pašto adresą jūsų įgaliotas asmuo. Jei gavote teises, ir jūs esate atstovas, įveskite el. pašto adresą asmens, kurio teises gavote.
-1. Kitas meniu, pasirinkite variantą, kuris tinka jūsų atveju.
-1. Kitas meniu, pasirinkite norimą teisių lygį.
-1. Šiame etape, SaRA įrankis atliks automatizuoti sutikrinimai ir jis suteiks jums galimą arba taip pat teiks diagnostinius žurnalą, kuris gali būti naudojamas tolesnę trikčių šalinimo pagalbą.
-1. Jūs galite rasti žurnaluose SaRA rezultatus aplanke, esančiame C:\Users\Username\AppData\Local\SaraResults
+1. Atsisiųskite ir įdiekite SaRA įrankis [čia](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Pasirinkite **"Outlook"**, tada **man kyla problemų su mano kalendoriumi**.
+1. Pasakykite **taip** dėl paveiktos mašinos.
+1. Pridėkite susijusio vartotojo el. pašto adresą.
+1. Pasirinkite **man iškilo problemų su atstovo teises**.
+1. Kitame raginate, jei esate teises suteikęs asmuo, įveskite savo atstovo el. pašto adresą. Jei gavote leidimus ir esate atstovas, įveskite teises suteikusio asmens el. pašto adresą.
+1. Kitame meniu pasirinkite parinktį, atitinkančią jūsų scenarijų.
+1. Kitame meniu pasirinkite teisių lygį.
+1. Šiame etape, SaRA įrankis atliks automatinius patikrinimus ir suteiks jums galimą skiriamąją gebą arba alternatyviai pateiks diagnostinį žurnalą, kuris gali būti naudojamas tolesniam trikčių diagnostika.
+1. Jūs galite rasti žurnalus, SaRA rezultatų aplankas, esantis C:\Users\Username\AppData\Local\SaraResults.

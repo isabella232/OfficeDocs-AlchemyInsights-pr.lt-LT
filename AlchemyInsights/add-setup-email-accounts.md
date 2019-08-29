@@ -1,5 +1,5 @@
 ---
-title: 764 pridėti/Setup pašto dėžutes
+title: 764 pridėti/sukonfigūruoti el. pašto paskyras
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494823"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660908"
 ---
-# <a name="setup-email-accounts"></a>El. pašto abonementų nustatymas
+# <a name="setup-email-accounts"></a>Sąrankos el. pašto abonementai
 
-1. Programoje "Outlook", pasirinkite **failą** \> **Įtraukti abonementą**.
+1. Programoje "Outlook", pasirinkite **failo** > **informacija** > **pridėti abonementą**.
 
-2. Įveskite savo el. pašto adresą ir tada spustelėkite **jungtis**.
+2. Įveskite savo el. pašto adresą ir pasirinkite **jungtis**.
 
-3. Įveskite slaptažodį ir spustelėkite **gerai**.
+3. Įveskite slaptažodį ir pasirinkite **gerai**.
 
-4. Galite pakartoti šiuos veiksmus ir pridėkite kelias paskyras.
+4. Galite pakartoti šiuos veiksmus, kad pridėtumėte kelias paskyras.
 
     > [!NOTE]
-    > Kai kurie el. pašto abonementų, pvz., Gmail, Yahoo ir "iCloud", reikia nustatyti dviejų dalių autentifikavimas, norint naudotis "Outlook" siųsti ir gauti el. laiškus. Daugiau informacijos rasite [pridėti el. pašto abonementą "Outlook"](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx).
+    > Kai kurios el. pašto paskyros, pvz., "Gmail", "Yahoo" ir "iCloud", reikalauja nustatyti dviejų dalių autentifikavimą, kad "Outlook" galėtų siųsti ir gauti el. laiškus. Daugiau informacijos rasite [el. pašto paskyros įtraukimas į "Outlook"](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

@@ -3,25 +3,24 @@ title: 305 padidinti suarchyvuotos pašto dėžutės dydis
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391409"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661808"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Padidinti suarchyvuotos pašto dėžutės dydis
 
 "Office 365" [ribų](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) archyvo pašto dėžutės dydį pagal licenciją, kuri yra priskirta vartotojo abonementą. Suarchyvuotos pašto dėžutės pasiekia 90 % jo leistiną dydį, vartotojas gauna el. pašto pranešimą. Kai archyvo pašto dėžutę pasiekia savo ribą, vartotojo archyvo pašto dėžutės negalima perkelti daugiau elementų. "Office 365" nebus padidinti archyvo pašto dėžutės dydį, pasiekus ribą. Vietoj to, vartotojai gali atlikti šiuos veiksmus, Norėdami atlaisvinti vietos, archyvo pašto dėžutę:
 
-- Eksportuoti į .pst failą programoje "Outlook" elementus,
+- Eksportuoti į .pst failą programoje "Outlook" elementus.
 
 - Ištrinti elementus iš archyvo pašto dėžutę.
 

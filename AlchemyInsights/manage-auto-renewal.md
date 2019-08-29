@@ -1,5 +1,5 @@
 ---
-title: Valdymas Automatinis atnaujinimas
+title: Valdykite automatinį atnaujinimą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576028"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661448"
 ---
-# <a name="manage-recurring-billing"></a>Valdyti pasikartojančių sąskaitų
+# <a name="manage-recurring-billing"></a>Periodinio atsiskaitymo tvarkymas
 
-Galite įjungti pasikartojančios atsiskaitymo įjungti arba išjungti "Microsoft" 365 administravimo centro.
+"Microsoft" 365 administravimo centre galite įjungti arba išjungti periodinį atsiskaitymą.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **atsiskaitymo** \> [produktai _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Pagal **atsiskaitymo**, šalia **Renews ant** arba **Expiring ant**, pasirinkite **Redaguoti**.
+2. Dalyje **atsiskaitymas**, prie parinkties **atsinaujinti** arba **baigiant**, pasirinkite **Redaguoti**.
 
-3. **Pasikartojančios atsiskaitymo nustatymų** srityje pasirinkite **Išjungti** jį išjungti. Jei pasikartojančių sąskaitų jau išjungta, pasirinkite **kas mėnesį** ar **kartą** jį įjungti.
+3. Periodinio **atsiskaitymo parametrų** **srityje pasirinkite išjungti** , kad jį išjungtumėte. Jei periodinis atsiskaitymas jau išjungtas, pasirinkite **kas mėnesį** arba **vieną kartą** , kad įjungtumėte.
 
-4. Pasirinkite **Siųsti pakeisti**.
+4. Pasirinkite **pateikti pakeitimą**.
 
-Jūs naudojate seną administravimo centrą? Senas veiksmus, arba jei norite sužinoti daugiau, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Norėdami sužinoti daugiau, žr., išjungti [arba įjungti periodinį atsiskaitymą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

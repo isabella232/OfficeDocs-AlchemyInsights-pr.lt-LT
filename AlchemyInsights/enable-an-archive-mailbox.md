@@ -1,8 +1,7 @@
 ---
-title: Archyvuoti
+title: Archyvo pašto dėžutės įjungimas
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527803"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665139"
 ---
-# <a name="enable-an-archive-mailbox"></a>Archyvuoti
+# <a name="enable-an-archive-mailbox"></a>Archyvo pašto dėžutės įjungimas
 
-Archyvo pašto dėžutes "Office 365" (dar vadinamą *Interneto archyvų* ) suteikia vartotojams papildomo el. pašto saugojimo. Vartotojai gali perkelti arba kopijuoti elementus į archyvo pašto dėžutę, ir administratoriai gali sukurti archyvavimo strategija, kuri automatiškai perkelia elementus į archyvo pašto dėžutėse.
+Archyvuokite "Office 365" pašto dėžutes (dar vadinamose *internetinėse archyvuose*) Pateikite vartotojams papildomą el. pašto saugyklą. Vartotojai gali perkelti arba nukopijuoti elementus į archyvo pašto dėžutę, o administratoriai gali sukurti archyvavimo strategiją, kuri automatiškai perkelia elementus į archyvo pašto dėžutes.
   
-Štai kaip galite sukurti archyvo pašto dėžutę:
+Štai kaip sukurti archyvo pašto dėžutę:
   
-1. Eikite į [https://protection.office.com](https://protection.office.com).
+1. Eiti į [https://protection.office.com](https://protection.office.com).
 
 2. Prisijunkite prie "Office 365" naudodami administratoriaus paskyrą.
 
-3. Kairiojoje srityje saugumo &amp; atitikties užtikrinimo centre spustelėkite **duomenų valdymo** \> **Archyvas**.
+3. Saugos &amp; atitikties centro kairiojoje srityje pasirinkite **duomenų valdymo** \> **Archyvas**.
 
-4. Pasirinkite vartotojo kurių archyvo pašto dėžutę, kurią norite įgalinti.
+4. Pasirinkite vartotoją, kurio archyvo pašto dėžutę norite įgalinti.
 
-5. Išsamios informacijos srityje, dešinėje, spustelėkite **įgalinti** ir spustelėkite **taip** įspėjimo pranešimą, kad archyvo pašto dėžutę.
+5. Dešiniojoje išsamios informacijos srityje pasirinkite **įjungti** ir pasirinkite **taip** perspėjimo pranešime, kad įgalintumėte archyvo pašto dėžutę.
 
-Galite taip pat urmu-leisti archyvo pašto dėžutėse pasirinkdami kelis vartotojus (naudojant **Shift** ar **Ctrl** klavišus) ir tada spustelėkite **įgalinti** išsamios informacijos srityje.
+Taip pat galite masiškai įgalinti archyvo pašto dėžutes pasirinkdami kelis vartotojus (naudodami **SHIFT** arba **Ctrl** klavišus), o tada išsamios informacijos srityje pasirinkdami **įgalinti** .
   
 Daugiau informacijos žr.
   
-- [Įgalinti archyvo pašto dėžutes "Office 365"](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- ["Office 365" archyvo pašto dėžučių įjungimas](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
 
-- [Nustatyti archyvavimo ir naikinimo politikos "Office 365"](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- ["Office 365" archyvavimo ir naikinimo strategijos nustatymas](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
