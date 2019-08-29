@@ -1,9 +1,8 @@
 ---
-title: Įeiti į Project Web App svetainės
+title: Uždrausta prieiga prie Project Web App svetainės
 ms.author: efrene
 author: efrene
 manager: pamg
-ms.date: 4/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495903"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661232"
 ---
-# <a name="give-users-permissions-in-project-online"></a><span data-ttu-id="d087e-102">Suteikti vartotojams teises Project Online</span><span class="sxs-lookup"><span data-stu-id="d087e-102">Give users permissions in Project Online</span></span>
+# <a name="give-users-permissions-in-project-online"></a><span data-ttu-id="fc86d-102">Suteikite vartotojams teises "Project Online"</span><span class="sxs-lookup"><span data-stu-id="fc86d-102">Give users permissions in Project Online</span></span>
 
-<span data-ttu-id="d087e-103">Suteikti vartotojams prieigą prie projekto Web App svetainės naudodami SharePoint leidimo režimas:</span><span class="sxs-lookup"><span data-stu-id="d087e-103">Give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
+<span data-ttu-id="fc86d-103">Suteikite vartotojams prieigą prie "Project Web App" svetainės naudodami "SharePoint" leidimo režimą.</span><span class="sxs-lookup"><span data-stu-id="fc86d-103">Give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
 
-1. <span data-ttu-id="d087e-104">Prisijunkite prie projekto prisijungę kaip administratorius</span><span class="sxs-lookup"><span data-stu-id="d087e-104">Log in to Project Online as an admin.</span></span>
-2. <span data-ttu-id="d087e-105">Pagrindiniame puslapyje Project Web App ir pasirinkite **dalis**, esančias viršutiniame dešiniajame kampe.</span><span class="sxs-lookup"><span data-stu-id="d087e-105">On the Project Web App home page, select **Share**, available in top right corner.</span></span>
-3. <span data-ttu-id="d087e-106">**Dalis projekto Web App** dialogo lange, įveskite vartotojo vardą asmens, kurį norite suteikti prieigą prie į lauką **Kviesti žmones** .</span><span class="sxs-lookup"><span data-stu-id="d087e-106">In the **Share Project Web App** dialog box, type the user name of the person you want to give access to in the **Invite People** box.</span></span>
-4. <span data-ttu-id="d087e-107">Pasirinkite **Rodyti parinktis**ir meniu **pasirinkite teisių lygį** , **Projekto vadovai, projekto Web App**.</span><span class="sxs-lookup"><span data-stu-id="d087e-107">Select **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
-5. <span data-ttu-id="d087e-108">Ir pasirinkite **bendrinti**.</span><span class="sxs-lookup"><span data-stu-id="d087e-108">Select **Share**.</span></span>
+1. <span data-ttu-id="fc86d-104">Prisijunkite prie "Project Online" kaip administratorius.</span><span class="sxs-lookup"><span data-stu-id="fc86d-104">Log in to Project Online as an admin.</span></span>
+2. <span data-ttu-id="fc86d-105">Projekto Web App pagrindiniame puslapyje, pasirinkite **bendrinti** viršutiniame dešiniajame kampe.</span><span class="sxs-lookup"><span data-stu-id="fc86d-105">On the Project Web App home page, select **Share** in the top right corner.</span></span>
+3. <span data-ttu-id="fc86d-106">Dialogo lange **bendrinti projekto žiniatinklio programą** įveskite asmens, kuriam norite suteikti prieigą, vartotojo vardą lauke **Kviesti žmones** .</span><span class="sxs-lookup"><span data-stu-id="fc86d-106">In the **Share Project Web App** dialog box, type the user name of the person you want to give access to in the **Invite People** box.</span></span>
+4. <span data-ttu-id="fc86d-107">Pasirinkite **Rodyti parinktis**ir **pasirinkite teisių lygio** meniu, pasirinkite projektų **vadovai Project Web App**.</span><span class="sxs-lookup"><span data-stu-id="fc86d-107">Select **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
+5. <span data-ttu-id="fc86d-108">Pasirinkite **bendrinti**.</span><span class="sxs-lookup"><span data-stu-id="fc86d-108">Select **Share**.</span></span>
 
-<span data-ttu-id="d087e-109">Jei naudojate projekto teisės režimą, arba Norėdami gauti daugiau informacijos, žiūrėkite [pridėti žmonių prie Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span><span class="sxs-lookup"><span data-stu-id="d087e-109">If you use Project Permissions mode, or for more information, please see [Add people to Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span></span>
+<span data-ttu-id="fc86d-109">Jei naudojate "Project" teisių režimą arba daugiau informacijos, žiūrėkite [įtraukti žmonių į "Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)".</span><span class="sxs-lookup"><span data-stu-id="fc86d-109">If you use Project Permissions mode, or for more information, please see [Add people to Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span></span>

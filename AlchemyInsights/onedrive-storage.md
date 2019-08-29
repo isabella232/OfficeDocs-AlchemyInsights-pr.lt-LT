@@ -3,7 +3,6 @@ title: "\"OneDrive\" saugykloje"
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,18 +14,18 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 873d610ad4ee8e393eb521972dd335cc26ab4ad0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378209"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661052"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="0ef06-102">Tvarkyti savo "OneDrive" saugykloje</span><span class="sxs-lookup"><span data-stu-id="0ef06-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="abcd6-102">Tvarkyti savo "OneDrive" saugykloje</span><span class="sxs-lookup"><span data-stu-id="abcd6-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="0ef06-103">Jei norite pakeisti numatytąjį saugykla, skirta naujiems ir esamiems "OneDrive" vartotojams:</span><span class="sxs-lookup"><span data-stu-id="0ef06-103">To change the default storage for new and existing OneDrive users:</span></span>
+<span data-ttu-id="abcd6-103">Jei norite pakeisti numatytąjį saugykla, skirta naujiems ir esamiems "OneDrive" vartotojams:</span><span class="sxs-lookup"><span data-stu-id="abcd6-103">To change the default storage for new and existing OneDrive users:</span></span>
   
-- <span data-ttu-id="0ef06-104">Eikite į ["OneDrive" administravimo centro puslapį saugojimo](https://admin.onedrive.com/?v=StorageSettings), ir tada įveskite naują sumą į GB.</span><span class="sxs-lookup"><span data-stu-id="0ef06-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+- <span data-ttu-id="abcd6-104">Eikite į ["OneDrive" administravimo centro puslapį saugojimo](https://admin.onedrive.com/?v=StorageSettings), ir tada įveskite naują sumą į GB.</span><span class="sxs-lookup"><span data-stu-id="abcd6-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
 
-<span data-ttu-id="0ef06-105">Ši saugojimo vietos nustatymas taikomas visiems vartotojams, kuriems nenustatėte konkrečios vietos.</span><span class="sxs-lookup"><span data-stu-id="0ef06-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="0ef06-106">Jei norite pakeisti saugyklos vietos konkretiems vartotojams, turite naudoti Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="0ef06-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="0ef06-107">Informacijos, kaip tai padaryti, rasite [keisti jūsų vartotojai "OneDrive" saugyklos vietos naudodami "PowerShell"](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="0ef06-107">For info on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="0ef06-108">Patikrinti kiek saugyklos naudojate savo "OneDrive", rasite [temoje valdymas "OneDrive" verslui saugykla](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="0ef06-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="0ef06-109">Informacijos saugojimo, kuris pateikiamas kartu su kiekvieno plano, ieškokite ["OneDrive" verslui paslaugų Aprašymas](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="0ef06-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="abcd6-105">Ši saugojimo vietos nustatymas taikomas visiems vartotojams, kuriems nenustatėte konkrečios vietos.</span><span class="sxs-lookup"><span data-stu-id="abcd6-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="abcd6-106">Jei norite pakeisti saugyklos vietos konkretiems vartotojams, turite naudoti Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="abcd6-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="abcd6-107">Informacijos, kaip tai padaryti, rasite [keisti jūsų vartotojai "OneDrive" saugyklos vietos naudodami "PowerShell"](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="abcd6-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="abcd6-108">Patikrinti kiek saugyklos naudojate savo "OneDrive", rasite [temoje valdymas "OneDrive" verslui saugykla](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="abcd6-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="abcd6-109">Informacijos saugojimo, kuris pateikiamas kartu su kiekvieno plano, ieškokite ["OneDrive" verslui paslaugų Aprašymas](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="abcd6-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
   
