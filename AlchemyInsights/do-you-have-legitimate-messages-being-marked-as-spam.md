@@ -12,22 +12,22 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529639"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665145"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="eb146-102">Ar pasitaiko, kad teisėti pranešimai pažymimi kaip pašto šiukšlės?</span><span class="sxs-lookup"><span data-stu-id="eb146-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="a3f1e-102">Ar pasitaiko, kad teisėti pranešimai pažymimi kaip pašto šiukšlės?</span><span class="sxs-lookup"><span data-stu-id="a3f1e-102">Do you have legitimate messages being marked as spam?</span></span>
 
-<span data-ttu-id="eb146-103">Išbandykite aukščiau pateikiamą diagnostiką arba pamėginkite šį [nuoseklų gerų pranešimų žymėjimo kaip pašto šiukšlių problemos šalinimo vadovą](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="eb146-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="a3f1e-103">Išbandykite pirmiau apibūdintą diagnostiką arba išmėginkite šį [nuoseklų gerų pranešimų žymėjimo kaip pašto šiukšlių problemos šalinimo vadovą programoje „Office 365“](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="a3f1e-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="eb146-104">Geriausias būdas pranešti apie tokio tipo problemas yra:</span><span class="sxs-lookup"><span data-stu-id="eb146-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="a3f1e-104">Geriausias būdas pranešti apie tokio tipo problemas yra:</span><span class="sxs-lookup"><span data-stu-id="a3f1e-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="eb146-105">Vartotojui [įgalinti ataskaitų pateikimo papildinį](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in).</span><span class="sxs-lookup"><span data-stu-id="eb146-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="a3f1e-105">Vartotojui [įgalinti ataskaitų pateikimo papildinį](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in).</span><span class="sxs-lookup"><span data-stu-id="a3f1e-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="eb146-106">Vartotojui [nurodyti, kad pranešimas nėra brukalas](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="eb146-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="a3f1e-106">Vartotojui [nurodyti, kad pranešimas nėra brukalas](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="a3f1e-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
 
-<span data-ttu-id="eb146-107">Jei norite pateikti palaikymo kvitą, toliau pridėkite bent **vieno ištiso pirminio pranešimo** visą el. laiško antraštę.</span><span class="sxs-lookup"><span data-stu-id="eb146-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
+<span data-ttu-id="a3f1e-107">Jei norite pateikti palaikymo kvitą, toliau pridėkite bent **vieno ištiso pirminio pranešimo** visą el. laiško antraštę.</span><span class="sxs-lookup"><span data-stu-id="a3f1e-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
   
