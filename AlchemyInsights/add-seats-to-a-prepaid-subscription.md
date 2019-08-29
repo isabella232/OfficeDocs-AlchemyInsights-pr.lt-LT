@@ -13,12 +13,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495039"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661016"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Įtraukite vietų į iš anksto apmokėtos prenumeratos
 
@@ -26,17 +26,15 @@ Išankstinio mokėjimo "Office 365" licencijos yra išduodamos jums kaip 25 simb
 
 1. Administravimo centro, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
 
-2. Raskite prenumeratą, į kurią norite įtraukti licencijas. Pasirinkite **daugiau veiksmų** išplečiamajame sąraše, o tada pasirinkite **atnaujinti ar papildyti pažymėjimą su žetonu**.
+2. Raskite prenumeratą norite pridėti licencijas. **Licencijų** skiltyje pasirinkite **pridėti daugiau licencijų**.
 
-3. Dėl to **atnaujinti arba pridėti vartotojo licencijų** puslapyje, pasirinkite **naudoti naujas ir nepanaudotas produkto kodą**, tada pasirinkite **kitą**.
+3. **Pridėti daugiau licencijų** srityje, pasirinkite **naudoti naujas ir nepanaudotas produkto kodą**, tada pasirinkite **kitą**.
 
 4. Įveskite produkto kodą, tada pasirinkite **kitą**.
 
     > [!NOTE]
     > Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Pridėti kitą produkto kodą** į jas patekti.
 
-5. Pasirinkti įtraukti vartotojus į prenumeratą, tada pasirinkite **kitą**.
+5. Peržiūrėti savo užsakymo duomenis ir pasirinkite **panaudoti**.
 
-6. Peržiūrėti savo užsakymo duomenis ir pasirinkite **panaudoti**.
-
-Daugiau informacijos rasite [pridėti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Norėdami sužinoti daugiau, žr. [įtraukti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
