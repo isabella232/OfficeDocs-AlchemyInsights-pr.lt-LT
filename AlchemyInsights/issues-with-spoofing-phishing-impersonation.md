@@ -1,5 +1,5 @@
 ---
-title: Parodijos, sukčiavimo apsimetant arba apsimetimo problemų?
+title: Problemos dėl imitavimo, sukčiavimo apsimetant ar apsimetimo?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661484"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716111"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Parodijos, sukčiavimo apsimetant arba apsimetimo problemų?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemos dėl imitavimo, sukčiavimo apsimetant ar apsimetimo?
 
-Sužinokite, kaip "Office 365" saugo jus nuo:
+Sužinokite, kaip Office 365 apsaugo jus nuo:
 
-- [Apsimetimas kitu laiško siuntėju](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [Spoofing](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [Sukčiavimo apsimetant ir apsimetimo](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [Sukčiavimas ir apsimetimas](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
 Papildomos rekomendacijos:
 
-- Netikrų siuntėjų, kurie atrodo iš savo domeno, galite padėti SPF ir DKIM.
+- Netikrų siuntėjų, kurie atrodo kilę iš jūsų domeno, gali padėti [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) ir [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) .
 
-- Patikrinkite savo domeno siuntėjų nesukonfigūruoti apeiti apsaugos nuo pašto šiukšlių filtravimas naudojant srauto taisykles (dar vadinamas transportavimo taisyklėmis) arba leisti sąrašo įrašai.
+- Patikrinkite, ar jūsų domene esantys siuntėjai nėra sukonfigūruoti apeiti anti-spam filtravimą, naudojant pašto srauto taisykles (taip pat žinomas kaip transportavimo taisyklės) arba leisti sąrašo įrašus. Daugiau informacijos rasite [Perspinimai dėl apeiti Office 365 šlamšto filtrus](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Patvirtinti, kad vartotojai nėra sukonfigūruotas leisti sąrašo įrašus, kad galėtų leisti Apsimestinių svetainių atakų.
+- Patikrinkite, ar vartotojai nesukonfigūravo [saugių siuntėjų sąrašo](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) įrašų, kurie galėtų leisti naudoti apsimestinius įrašus.
 
-- Mano pristatymo didelio patikimumo elektroninio pašto šiukšlių ir sukčiavimo apsimetant pranešimų karantinui vietoj nepageidaujamo el. pašto aplanką.
+- Apsvarstykite galimybę pateikti didelio patikimumo šlamšto ir Apsimestinių pranešimų karantinui vietoj nepageidaujamo el. pašto aplanko. Daugiau informacijos rasite [karantino el. laiškai Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[Žinučių į "Microsoft"](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) yra geriausias būdas mums žinoti, kaip filtrai atlieka.**
+**[Ataskaitų teikimas bendrovei "Microsoft"](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) yra geriausias būdas mums pranešti, kaip veikia filtrai.**
