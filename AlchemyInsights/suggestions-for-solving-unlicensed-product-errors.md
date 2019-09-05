@@ -1,5 +1,5 @@
 ---
-title: Sprendimo "Nelicencijuotas produktas" klaidų pasiūlymų
+title: "\"Nelicencijuotų produktų\" klaidų sprendimo pasiūlymai"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501051"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743281"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="ab8e4-102">Sprendimo "Nelicencijuotas produktas" klaidų pasiūlymų</span><span class="sxs-lookup"><span data-stu-id="ab8e4-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="d8196-102">"Nelicencijuotų produktų" klaidų sprendimo pasiūlymai</span><span class="sxs-lookup"><span data-stu-id="d8196-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="ab8e4-103">Patikrinkite, ar turite abonementą, kuris leidžia klientui licencijas, pvz., Office 365 Business arba Business Premium ir [užtikrinti, kad vartotojas turi priskirti licenciją](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ab8e4-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="ab8e4-104">[Deactivate įdiegimo](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) patikrinti, jei jūs viršijote įdiegia palaiko jūsų prenumeratos numerį.</span><span class="sxs-lookup"><span data-stu-id="ab8e4-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="d8196-103">Įsitikinkite, kad turite prenumeratą, kuri leidžia kliento licencijas, pvz., Office 365 Business "arba" Business Premium "ir [įsitikinkite, kad vartotojas turi priskirtą licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="d8196-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="d8196-104">[Išjunkite diegimą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , kad patikrinsite, ar viršijote prenumeratų palaikomų įdiegimų skaičių.</span><span class="sxs-lookup"><span data-stu-id="d8196-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="ab8e4-105">Užtikrinti, kad vartotojas yra prisijungę naudodami tą patį abonementą, kuriame yra paims.</span><span class="sxs-lookup"><span data-stu-id="ab8e4-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="d8196-105">Įsitikinkite, kad vartotojas yra prisijungę naudodami tą patį abonementą, kuriam priskirta licencija.</span><span class="sxs-lookup"><span data-stu-id="d8196-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="ab8e4-106">Vykdykite [aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ab8e4-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="d8196-106">Paleiskite [aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d8196-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="ab8e4-107">Patikrinti, jei jūsų prenumerata būsenos laikas baigėsi</span><span class="sxs-lookup"><span data-stu-id="ab8e4-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="d8196-107">Patikrinkite, ar baigėsi prenumeratos būsenos galiojimas</span><span class="sxs-lookup"><span data-stu-id="d8196-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="ab8e4-108">Patikrinkite, ar [Office 365 paslaugos sveikatos puslapis](https://docs.microsoft.com/office365/enterprise/view-service-health) Norėdami sužinoti, ar visas žinomas problemas su paslauga.</span><span class="sxs-lookup"><span data-stu-id="ab8e4-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="d8196-108">Patikrinkite [Office 365 tarnybos sveikatos puslapyje](https://docs.microsoft.com/office365/enterprise/view-service-health) Norėdami pamatyti, jei yra kokių nors žinomų problemų su paslauga.</span><span class="sxs-lookup"><span data-stu-id="d8196-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="ab8e4-109">[Atlikti internete remonto tarnybos](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ab8e4-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="d8196-109">[Atlikti Online remontas Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="d8196-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="ab8e4-110">Papildomi trikčių diagnostikos sprendimų ieškokite: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ab8e4-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="d8196-110">Norėdami gauti papildomų trikčių šalinimo sprendimų, žiūrėkite: [nelicencijuotos produkto ir aktyvinimo klaidos "Office"](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="d8196-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

@@ -1,5 +1,5 @@
 ---
-title: Greitojo aplinkoje nustatymas
+title: Hibridinės aplinkos nustatymas
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509152"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741013"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="d45ac-102">Greitojo aplinkoje nustatymas</span><span class="sxs-lookup"><span data-stu-id="d45ac-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="4a57b-102">Hibridinės aplinkos nustatymas</span><span class="sxs-lookup"><span data-stu-id="4a57b-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="d45ac-103">Jei norite leisti veikti sklandžiai kartu Nesvarbu jei jų duomenys yra saugomi vietiniame serveriuose arba "Office 365" vartotojams, reikia nustatyti greitojo aplinkoje.</span><span class="sxs-lookup"><span data-stu-id="d45ac-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="d45ac-104">Norint peržiūrėti jūsų parinktis, peržiūrėkite ["Office 365" integracija su vietinėje aplinkoje](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="d45ac-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="4a57b-103">Kad jūsų vartotojai sklandžiai veiktų kartu, nesvarbu, ar jų duomenys saugomi vietiniame serveryje, ar Office 365, gali reikėti nustatyti hibridinę aplinką.</span><span class="sxs-lookup"><span data-stu-id="4a57b-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="4a57b-104">Norėdami gauti savo parinkčių apžvalgą, patikrinkite [Office 365 integracija su vietinėje aplinkoje](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="4a57b-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   

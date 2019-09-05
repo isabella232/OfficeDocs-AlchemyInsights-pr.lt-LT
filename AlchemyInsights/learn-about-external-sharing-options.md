@@ -1,5 +1,5 @@
 ---
-title: 617 sužinoti apie išorinio bendrinimo parinktis
+title: 617 Sužinokite apie išorinio bendrinimo parinktis
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497775"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735361"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="b6238-102">Sužinokite daugiau apie išoriniam kalendoriaus bendrinimo parinktis</span><span class="sxs-lookup"><span data-stu-id="b6238-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="ee98f-102">Sužinokite apie išorinio kalendoriaus bendrinimo parinktis</span><span class="sxs-lookup"><span data-stu-id="ee98f-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="b6238-103">Jei norite planuoti susitikimus su jūsų organizacijai nepriklausančiais žmonėmis, "Office 365" suteikia jums galimybę pateikti "išorės vartotojams," tiems, kuriems reikia pamatyti užimtumo kalendoriai laiko, bet neturite abonementų "Office 365" aplinkoje.</span><span class="sxs-lookup"><span data-stu-id="b6238-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="b6238-104">Norėdami gauti daugiau informacijos, peržiūrėkite [bendrinti kalendorių su išoriniais vartotojais](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="b6238-104">For more information, see [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="ee98f-103">Jei jums reikia suplanuoti susitikimus su asmenimis, nepriklausančiais jūsų organizacijai, "Office 365" leidžia jums padaryti kalendorius prieinamus "išoriniams vartotojams" tiems, kuriems reikia Rodyti užimtumo laiką, bet neturi vartotojų abonementų jūsų "Office 365" aplinkai.</span><span class="sxs-lookup"><span data-stu-id="ee98f-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="ee98f-104">Daugiau informacijos ieškokite [kalendorių bendrinimas su išoriniais vartotojais](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="ee98f-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>

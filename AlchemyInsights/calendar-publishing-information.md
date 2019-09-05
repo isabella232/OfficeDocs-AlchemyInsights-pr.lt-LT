@@ -1,5 +1,5 @@
 ---
-title: 613 kalendoriaus informacijos publikavimo
+title: 613 kalendoriaus publikavimo informacija
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 8ada76659ec34018fc7d7854fcc7f28f4f957c61
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c82eaa3717942ff223bb262f8fe7bdbe56cbb17a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517723"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737701"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="ac3b9-102">Kalendoriaus skelbti informaciją</span><span class="sxs-lookup"><span data-stu-id="ac3b9-102">Calendar publishing information</span></span>
+# <a name="calendar-publishing-information"></a><span data-ttu-id="54155-102">Kalendoriaus informacijos publikavimo informacija</span><span class="sxs-lookup"><span data-stu-id="54155-102">Calendar publishing information</span></span>
 
-- <span data-ttu-id="ac3b9-103">"Microsoft 365" administratoriai gali įjungti arba išjungti kalendorių leidyba ir kalendoriaus bendrinimas organizacija.</span><span class="sxs-lookup"><span data-stu-id="ac3b9-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="ac3b9-104">Daugiau informacijos ieškokite [įjungti kalendorių leidyba, žmonės gali dalintis informacija](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) ir [bendrai naudotis kalendoriais su išoriniais vartotojais](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD).</span><span class="sxs-lookup"><span data-stu-id="ac3b9-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD).</span></span>
+- <span data-ttu-id="54155-103">Microsoft 365 administratoriai gali įjungti arba išjungti kalendoriaus publikavimo ir kalendoriaus bendrinimą organizacijoje.</span><span class="sxs-lookup"><span data-stu-id="54155-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="54155-104">Norėdami gauti daugiau informacijos, žiūrėkite [įjungti kalendoriaus publikavimą, kad žmonės galėtų dalytis informacija](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) ir [bendrinti kalendorius su išoriniais vartotojais](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="54155-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
 
-- <span data-ttu-id="ac3b9-105">"Outlook" vartotojai gali bendrinti savo kalendorius.</span><span class="sxs-lookup"><span data-stu-id="ac3b9-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="ac3b9-106">Daugiau informacijos, peržiūrėkite [dalį "Outlook" kalendorių su kitais žmonėmis](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="ac3b9-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+- <span data-ttu-id="54155-105">"Outlook" vartotojai gali bendrinti savo kalendorius.</span><span class="sxs-lookup"><span data-stu-id="54155-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="54155-106">Daugiau informacijos ieškokite ["Outlook" kalendoriaus bendrinimas su kitais žmonėmis](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="54155-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>

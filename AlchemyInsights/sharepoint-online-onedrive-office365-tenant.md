@@ -1,24 +1,24 @@
 ---
-title: SharePoint Online ir "OneDrive" "Nustatymas"
-ms.author: kirks
+title: "\"SharePoint Online\" arba \"OneDrive\" nustatymas"
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535154"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750456"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="c5aee-102">SharePoint Online ir "OneDrive" "Nustatymo"</span><span class="sxs-lookup"><span data-stu-id="c5aee-102">SharePoint Online or OneDrive "Setting up"</span></span>
+# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="a5909-102">"SharePoint Online" arba "OneDrive" nustatymas</span><span class="sxs-lookup"><span data-stu-id="a5909-102">SharePoint Online or OneDrive "Setting up"</span></span>
 
-<span data-ttu-id="c5aee-103">Kai vartotojas įtraukiamas į esamus Office 365 nuomotojo, jie gali matyti SharePoint Online ir "OneDrive" verslo piktogramas, nurodytas kaip "Sukurti", kol parengimo procesas nėra užbaigtas.</span><span class="sxs-lookup"><span data-stu-id="c5aee-103">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons listed as "Setting up" until the provisioning process has been completed.</span></span>
+<span data-ttu-id="a5909-103">Kai vartotojas yra įtraukta į esamą Office 365 nuomotojo, jie gali matyti SharePoint Online arba "OneDrive" verslui piktogramos, išvardytos kaip "nustatymas" kol parengimo procesas bus baigtas.</span><span class="sxs-lookup"><span data-stu-id="a5909-103">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons listed as "Setting up" until the provisioning process has been completed.</span></span>
 
-<span data-ttu-id="c5aee-104">Jei daugiau nei 24 valandų praėjo nuo pirmą kartą pamačiau šią problemą, prašome prisijungti palaikymo bylą.</span><span class="sxs-lookup"><span data-stu-id="c5aee-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span>
+<span data-ttu-id="a5909-104">Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą pamačiau šią problemą, prašome prisijungti palaikymo atvejį.</span><span class="sxs-lookup"><span data-stu-id="a5909-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span>
 
-<span data-ttu-id="c5aee-105">Mes suprantame, kad 24 valandas gali atrodyti ilgą laiką.</span><span class="sxs-lookup"><span data-stu-id="c5aee-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="c5aee-106">Daugeliu atvejų, mes jau dirbame išeitį.</span><span class="sxs-lookup"><span data-stu-id="c5aee-106">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="c5aee-107">Nurodykite bent 24 valandas atlikti sprendimą.</span><span class="sxs-lookup"><span data-stu-id="c5aee-107">Please give us at least 24 hours to complete a solution.</span></span>
+<span data-ttu-id="a5909-105">Mes suprantame, kad 24 valandas gali atrodyti kaip ilgą laiką.</span><span class="sxs-lookup"><span data-stu-id="a5909-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="a5909-106">Daugeliu atvejų jau dirbame su sprendimu.</span><span class="sxs-lookup"><span data-stu-id="a5909-106">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="a5909-107">Prašome pateikti mums bent 24 valandas, kad užbaigtumėte sprendimą.</span><span class="sxs-lookup"><span data-stu-id="a5909-107">Please give us at least 24 hours to complete a solution.</span></span>
 
