@@ -1,30 +1,30 @@
 ---
-title: Duomenų praradimo prevencijos (DLP) apžvalga
-ms.author: kirks
+title: Duomenų praradimo prevencija (DLP) apžvalga
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514411"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755136"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Duomenų praradimo prevencijos (DLP) apžvalga
+# <a name="data-loss-prevention-dlp-overview"></a>Duomenų praradimo prevencija (DLP) apžvalga
 
-Su DLP strategijos, galite:
+Naudodami DLP strategiją galite:
 
-- Nustatyti neskelbtinos informacijos per daug vietų, pavyzdžiui Exchange Online, SharePoint Online ir "OneDrive" verslui.
-
-
-Pvz., galite nustatyti bet kokį dokumentą, kuriame pateikti kreditinės kortelės numerį, kuris saugomas bet OneDrive verslo svetainės, arba galite stebėti į "OneDrive" svetainių konkrečių žmonių.
-
-- Išvengti atsitiktinio keistis slapta informacija.
+- Identifikuokite slaptą informaciją daugelyje vietų, pvz., "Exchange Online", "SharePoint Online" ir "OneDrive" verslui.
 
 
-Norėdami gauti daugiau informacijos prašome perskaityti šį [straipsnį](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Pavyzdžiui, galite nustatyti bet kokį dokumentą, kuriame yra kredito kortelės numeris, saugomas bet kurioje "OneDrive" verslui svetainėje, arba galite stebėti tik konkrečių žmonių "OneDrive" svetaines.
+
+- Neleiskite atsitiktinai dalytis slapta informacija.
+
+
+Norėdami gauti daugiau informacijos, peržiūrėkite toliau esantį [straipsnį](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

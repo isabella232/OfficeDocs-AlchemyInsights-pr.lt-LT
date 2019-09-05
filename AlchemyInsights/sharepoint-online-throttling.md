@@ -1,6 +1,6 @@
 ---
-title: SharePoint internete lėtinimas
-ms.author: kirks
+title: "\"SharePoint Online\" užklausų Buferėjimas"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 9e29823dd40cf9353ade9e32cf5ac4bc7794d154
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4b144e951b1997f9464522d3052dfcba0fa5d198
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503211"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750240"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online lėtinimas
+# <a name="sharepoint-online-throttling"></a>"SharePoint Online" užklausų buferėjimas
 
-SharePoint Online naudoja lėtinimas išlaikyti našumą ir patikimumą SharePoint Online paslauga. Greičio apribojimai vartotojo veiksmus arba vienu metu skaičius ragina (scenarijus arba kodas) siekiant išvengti per daug išteklių. Jei jūs gauti neleista, 99 % laiko, tai dėl pasirinktinio kodo.
+SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos. Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug. Jei jūs gaunate Throttled, 99% laiko tai dėl pasirinktinį kodą.
   
-Daugiau informacijos apie užklausų buferizavimas žr. [išvengti gauti neleista arba užblokuotas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
+Daugiau informacijos apie buferizavimo pamatyti, [išvengti gauti neleista arba užblokuotas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
   
 

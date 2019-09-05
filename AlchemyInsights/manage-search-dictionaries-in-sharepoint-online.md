@@ -1,6 +1,6 @@
 ---
-title: Tvarkyti ieškos žodynai SharePoint Online
-ms.author: kirks
+title: "\"SharePoint Online\" ieškos žodynų tvarkymas"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542115"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754416"
 ---
-# <a name="manage-search-dictionaries"></a>Tvarkyti ieškos žodynai
+# <a name="manage-search-dictionaries"></a>Ieškos žodynų tvarkymas
 
-Paieška: žodynai SharePoint internete valdomi SharePoint Online terminų saugykloje, kuri yra įsikūrusi nauja SharePoint administravimo centro. Norėdami gauti daugiau informacijos apie tai, kaip pridėti arba redaguoti paieškos žodynus, ieškokite [tvarkyti paieškos žodynų](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Ieškoti žodynų "SharePoint Online" valdomi "SharePoint Online" terminų saugykloje, esančioje naujajame "SharePoint" administravimo centre. Norėdami gauti daugiau informacijos apie tai, kaip pridėti arba redaguoti ieškos žodynus, žiūrėkite [Tvarkyti ieškos žodynus](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Jei jūs nematote paieškos žodyno terminų rinkinys terminų saugykloje rodomi, prašome palaukti 24 valandas. Jei žodynas, vis dar nėra įtrauktos po 24 valandų, prašome prisijungti support ticket.
+Jei jūs nematote paieškos žodynas terminų rinkinys rodomas terminų saugykloje, prašome palaukti 24 valandas. Jei žodynas vis dar nerodomas po 24 valandų, prašome prisijungti palaikymo bilietą.
   

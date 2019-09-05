@@ -1,6 +1,6 @@
 ---
-title: Naikinti svetainių rinkinio SharePoint
-ms.author: kirks
+title: Svetainių rinkinio naikinimas programoje "SharePoint"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513115"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748188"
 ---
-# <a name="delete-a-site-collection"></a>Naikinti svetainių rinkinio
+# <a name="delete-a-site-collection"></a>Svetainių rinkinio naikinimas
 
-Kai jūs, kaip globalinė "arba" SharePoint administratorius "Office 365", naikinti svetainės (anksčiau vadintą "svetainių rinkinio"), jis persikėlė į svetainių rinkinio šiukšlinę ir saugomi 93 dienas. 
+Kai jūs, kaip visuotinis arba SharePoint administratorius "Office 365", panaikinkite svetainę (anksčiau vadinta "svetainių rinkiniu"), ji perkeliama į svetainių rinkinio šiukšlinę ir išlaikoma 93 dienų. 
 
-Kai panaikinate svetainę, viskas joje yra išbraukiama, įskaitant:
+Kai ištrinate svetainę, viskas joje ištrinama, įskaitant:
 
 - Dokumentų bibliotekos ir failai.
-- Sąrašus ir sąrašų duomenis.
-- Svetainės parametrai ir istorija.
-- Visas pagalbines svetaines ir jų turinį.
+- Sąrašai ir sąrašų duomenys.
+- Svetainės parametrai ir retrospektyva.
+- Bet kokie antriniai tinklapiai ir jų turinys.
 
-Prieš naikindami svetainę, kad būtų galima perkelti duomenis į kitą vietą, ir taip pat pasakyti vartotojams, kai bus panaikinti svetaines, turėtų pranešti svetainės administratoriai ir bet kokios antrinės svetainės savininkai. 
+Prieš naikindami svetainę, turėtumėte pranešti svetainės administratoriams ir visiems antrinės svetainės savininkams, kad jie galėtų perkelti savo duomenis į kitą vietą, taip pat nurodyti vartotojams, kada svetainės bus ištrintos. 
 
-Daugiau informacijos rasite [Naikinti svetainių rinkinio](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Daugiau informacijos rasite [svetainių rinkinio naikinimas](https://docs.microsoft.com/sharepoint/delete-site-collection). 

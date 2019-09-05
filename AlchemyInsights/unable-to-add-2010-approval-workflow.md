@@ -1,6 +1,6 @@
 ---
-title: Neįmanoma pridėti 2010 patvirtinimo darbo eiga
-ms.author: kirks
+title: Neįmanoma pridėti 2010 patvirtinimo darbo eigos
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,37 +8,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558625"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748692"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Neįmanoma pridėti 2010 patvirtinimo darbo eiga
+# <a name="unable-to-add-2010-approval-workflow"></a>Neįmanoma pridėti 2010 patvirtinimo darbo eigos
 
-Microsoft SharePoint svetainių rinkinio, visame pasaulyje daugkartinio naudojimo darbo eigą (pvz., "patvirtinimo – SharePoint 2010") negalima įtraukti į sąrašą ar biblioteką.
+Microsoft SharePoint svetainių rinkinyje negalite įtraukti visuotinai pakartotinai naudojamos darbo eigos (pvz., "patvirtinimas-SharePoint 2010") į sąrašą arba biblioteką.
   
 Norėdami išspręsti šią problemą, atlikite šiuos veiksmus: 
   
-1. Atidarykite šaknų svetainėje svetainių rinkinio SharePoint Designer 2013.
+1. SharePoint Designer 2013 atidarykite svetainių rinkinio šakninę svetainę.
   
-2. Pagal **Svetainėje objektų**, pasirinkite **darbo eigos**. 
+2. Dalyje **svetainės objektai**pasirinkite **darbo eigos**. 
   
-3. **Darbo eigos** juosta **Naujoji** dalyje pasirinkite **Darbo eigos pakartotinai**. 
+3. **Darbo eigos** juostelės **naujoje** sekcijoje pasirinkite **daugkartinio naudojimo darbo eiga**. 
   
-4. **Sukurti daugkartinio naudojimo darbo eigos** formoje, įvardykite ** *Repair2010* **. **Platformos tipas**, spustelėkite **SharePoint 2010 darbo eigos**, ir tada spustelėkite **gerai**. 
+4. Formoje **kurti pakartotinai naudojamą darbo eigą** įveskite pavadinimą * * *Repair2010* * *. **Platformos tipas**, spustelėkite **SharePoint 2010 darbo eiga**, ir tada spustelėkite **gerai**. 
   
-1. **Įrašyti** **darbo eigos** juosta dalyje pasirinkite **publikuoti**. 
+1. **Darbo eigos** juostelės sekcijoje **įrašyti** pasirinkite **publikuoti**. 
   
-2. **Darbo eigos** juosta sekcijoje **tvarkyti** pasirinkite **Visame pasaulyje skelbia**. Patvirtinimo dialogo lange, kuris pasirodo, pasirinkite **gerai**. 
+2. **Darbo eigos** juostelės sekcijoje **tvarkyti** pasirinkite **publikuoti visuotinai**. Pasirodžiusiame patvirtinimo dialogo lange pasirinkite **gerai**. 
   
-3. Naudodami žiniatinklio naršyklę, raskite šakninio svetainės svetainių rinkinio ir tada naudotis **Svetainės parametrai** \> **Svetainės rinkinio funkcijos**. Perjunkite **darbo eigos** funkcija: 
+3. Žiniatinklio naršyklėje raskite šakninę svetainių rinkinio svetainę ir pasiekite svetainės **parametrų** \> **svetainių rinkinio funkcijas**. Perjunkite **darbo eigų** funkciją: 
   
-· Jei ši funkcija yra *aktyvuota* , spustelėkite **išjungti,** ir tada spustelėkite **Aktyvinti**. 
+· Jei funkcija *suaktyvinta* , spustelėkite **išjungti,** tada spustelėkite **Aktyvinti**. 
   
-· Jei ši funkcija yra *Deactivated* , spustelėkite **Aktyvinti**. 
+· Jei funkcija *išjungiama* , spustelėkite **Aktyvinti**. 
   
-Norėdami gauti daugiau informacijos prašome kreiptis į šį [straipsnį](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Daugiau informacijos rasite šiame [straipsnyje](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

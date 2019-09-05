@@ -1,6 +1,6 @@
 ---
-title: Sekite ir JT sekti SharePoint svetainėje
-ms.author: kirks
+title: Sekite arba nuimkite po "SharePoint" svetainę
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524599"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755712"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sekite ir JT sekti SharePoint svetainėje
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sekite arba nuimkite po "SharePoint" svetainę
 
-Yra keletą būdų, kaip sekti jus domina programoje "SharePoint" svetainę. Tai leis jums lengvai rasti svetainę į savo sąrašą, ir leidžia jums pamatyti veikla iš svetainės. 
+Yra keli būdai, kaip sekti svetainę, kuri jus domina programoje "SharePoint". Tai leis jums lengvai rasti svetainę savo sąraše ir leisti jums matyti veiklą iš svetainės. 
 
-Žiūrėti vaizdo įrašą, Norėdami [sekti SharePoint svetainėje](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Peržiūrėkite vaizdo įrašą, kad galėtumėte [sekti "SharePoint" svetaine](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
 
-Jei jūs negalite sekti arba JT sekti svetainės ir jaustis rezultatas netenkina, ko tikimasi, pamatyti, jei problema yra susijusi su vieno vartotojo arba visiems vartotojams jūsų organizacijoje. Jei problema aptinkama visų vartotojų, gali būti laikinai skundams. 
+Jei negalite sekti arba Nesekti svetainės ir jausti, kad rezultatai nėra tokie, kokių tikimasi, pažiūrėkite, ar problema susijusi su vienu vartotoju ar visais jūsų organizacijos vartotojais. Jei problema kyla dėl visų vartotojų, gali būti laikinai tarnybos problema. 
 
-Patikrinkite [Tarnybų sveikatos stebėjimo skydas](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Norėdami pamatyti, jei jūsų organizacija smūgiuoja.
+Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir pažiūrėkite, ar jūsų organizacijoje yra poveikis.

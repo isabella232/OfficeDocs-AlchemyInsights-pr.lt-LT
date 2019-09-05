@@ -1,6 +1,6 @@
 ---
-title: SharePoint bibliotekoje susieti tinklo diską
-ms.author: kirks
+title: Susieti "SharePoint" biblioteką su tinklo diska
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: ''
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: ''
 ms.custom: ''
 ms.assetid: ''
-ms.openlocfilehash: e0ae8bffe12df1066f27625e2b57e7e2fb11fb2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 740ab160557ee5abbadfa73adf459bfc5872baf9
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496947"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754236"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint bibliotekoje susieti tinklo diską
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Susieti "SharePoint" biblioteką su tinklo diska
 
-Žemėlapių biblioteka kaip tinklo diską yra laikina ir palaikomi tik naudojant "Internet Explorer". Vietoj to, [sinchronizuoti su nauja "OneDrive" sinchronizavimo klientas SharePoint failai](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) skirianti [Failus pagal poreikį](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pasiekti visus savo failus į "OneDrive" naudojant vietos saugojimo vietos.
+Bibliotekos susiejimas su tinklo disku yra laikinas ir palaikomas tik naudojant "Internet Explorer". Vietoj to, [sinchronizuoti SharePoint failus su nauja "OneDrive" sinchronizavimo klientas](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx), kuris teikia [failus pareikalavus](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pasiekite visus savo failus "OneDrive" nenaudodami vietinės saugyklos vietos.
   
-[Gauti pagalbą konfigūravimas ir trikčių šalinimo susieti tinklo diskai](https://go.microsoft.com/fwlink/?linkid=872946)
+[Gaukite pagalbos dėl susietų tinklo loginių diskų konfigūravimo ir trikčių šalinimo](https://go.microsoft.com/fwlink/?linkid=872946)
   
 

@@ -1,6 +1,6 @@
 ---
-title: Vartotojo teises
-ms.author: kirks
+title: Vartotojo leidimai
+ms.author: pebaum
 author: Techwriter40
 ms.date: 5/21/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b5653648d2c5e136cc35e3fe98f777f5932e4ac8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca104d8b5ed2a472faae565a04d1926504b1a95f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502779"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749808"
 ---
-# <a name="user-permissions-in-sharepoint"></a>Vartotojų teises, naudodami SharePoint
+# <a name="user-permissions-in-sharepoint"></a>Vartotojo teises SharePoint
 
-Sukūrę SharePoint svetainę, galite norėti suteikti arba apriboti naudotojo prieigą prie svetainės ar jo turinys. Lengviausias būdas dirbti su teises turi naudoti [numatytąjį grupių](https://support.office.com/article/default-sharepoint-groups-13bb2b6b-dd8c-447e-b71b-0e4bb9efe1d3) bei teisių lygius, kurie apima labiausiai įprasti scenarijai. Tačiau, jei norite, galite nustatyti daugiau išsamios informacijos teisėmis be įsipareigojimų neįvykdymo lygius. Daugiau informacijos rasite [supratimas teisių lygius programoje "SharePoint"](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Sukūrę SharePoint svetainę, galite pateikti arba apriboti vartotojo prieigą prie svetainės ar jos turinio. Lengviausias būdas dirbti su teisėmis yra naudoti [numatytąsias grupes](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ir teisių lygius, kurie apima dažniausiai pasitaikančios situacijos. Tačiau, jei jums reikia, galite nustatyti daugiau smulkiagrūšis teises už numatytuosius lygius. Daugiau informacijos rasite ["SharePoint" teisių lygių supratimas](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-Daugiau informacijos apie konkrečių teisių lygių tvarkymas, apsilankykite į žemiau nuorodų:
+Daugiau informacijos apie konkrečių teisių lygių tvarkymą rasite apsilankę toliau pateiktuose saituose:
 
-- [Redaguoti ir tvarkyti teises SharePoint sąraše arba bibliotekoje](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [SharePoint sąrašo arba bibliotekos teisių redagavimas ir tvarkymas](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [SharePoint grupėms kurti ir tvarkyti](https://support.office.com/article/create-and-manage-sharepoint-groups-b1e3cd23-1a78-4264-9284-87fed7282048)
+- ["SharePoint" grupių kūrimas ir valdymas](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Kaip sukurti ir redaguoti teisių lygius](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+- [Kaip kurti ir redaguoti teisių lygius](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 
-- [Steigti ir valdyti prieigos prašymus](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
+- [Prieigos užklausų nustatymas ir tvarkymas](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-- [Keisti teises poaplankis](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
+- [Teisių poaplankyje keitimas](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [SharePoint failų ir aplankų bendrinimas "Office 365"](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Bendrinkite "SharePoint" failus arba aplankus "Office 365"](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Bendrinkite svetainę](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+- [Svetainės bendrinimas](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

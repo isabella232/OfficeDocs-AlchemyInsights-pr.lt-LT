@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-not-Returning-Expected-results
-ms.author: kirks
+title: 1491-paieška-ne-grąžinimas-numatomas rezultatas-rezultatai
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132695"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753864"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Turinio paieška įrankį, rasti reikalingą informaciją
+# <a name="content-search-tool-to-find-relevant-info"></a>Turinio paieškos priemonė, skirta rasti reikiamą informaciją
 
-Naudojant turinio paieškos įrankį, saugos & atitikties užtikrinimo centre greitai surasti elektroninio pašto dėžutėmis, dokumentus į "SharePoint" svetaines ir "OneDrive" vietų ir tiesioginių pranešimų pokalbiuose Skype verslui. Turinio paiešką galite ieškoti el. pašto, dokumentų ir tiesioginių pranešimų pokalbiuose, "Office 365" bendradarbiavimo priemones, pvz., "Microsoft" Teams ir Office 365 grupes.
+Naudokite turinio ieškos įrankį saugos _-atitikties centre, kad greitai rastumėte el. paštą "Exchange" pašto dėžutėse, dokumentus "SharePoint" svetainėse ir "OneDrive" vietose bei tiesioginių pranešimų pokalbius "Skype" verslui. Naudodami turinio ieškos įrankį galite ieškoti el. laiškų, dokumentų ir tiesioginių pranešimų pokalbių "Office 365" bendradarbiavimo įrankiuose, pvz., "Microsoft teams" ir "Office 365" grupėse.
 
 
-Prieš naudojant [Turinio paieškos](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iš [saugumo & atitikties užtikrinimo centre](https://sip.protection.office.com/homepage), jūs norite baigti [konfigūruoti teises](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [nustatyti atsisiuntimo greitis](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ir [eksportuoti parametrus](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)s±rankos parametrai.
+Prieš naudodami [turinio iešką](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iš [saugos _-atitikties centro](https://sip.protection.office.com/homepage), norėsite baigti konfigūravimo parametrus, įskaitant [konfigūruoti teises](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [atsisiuntimo spartos nustatymą](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ir [eksportavimo parametrus](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Suprasti daugiau apie turinio paieškos peržiūrėti [reikalavimus ir apribojimus](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [nagrinėjanti iš dalies indeksuoti elementus](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ir kiti rezultatai turi žinoti.
+Sužinokite daugiau apie turinio iešką peržiūrėję [reikalavimus ir apribojimus](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [tirdami iš dalies indeksuotus elementus](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ir kitus rezultatus, kuriuos reikia žinoti.
 
-Peržiūrėję s±rankos parametrai ir apribojimai, turinio paieškos, perduoti [naudojant turinio paieškos</a> vietoje elementus, pvz., el. paštas, dokumentai ir tiesioginių pranešimų pokalbiuose organizacijoje "Office 365" ieškoti](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Peržiūrėję turinio ieškos konfigūravimo parametrus ir apribojimus, ieškokite [turinio ieškos</a> naudojimas, kad ieškai vietoje elementų, pvz., el. laiškų, dokumentų ir tiesioginių pranešimų pokalbių "Office 365" organizacijoje](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Viso žingsnis po žingsnio turinio paieškos, daugiau informacijos rasite [paieškos turinį "Office 365"](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .
+Norėdami peržiūrėti visą išsamią turinio iešką, peržiūrėkite ["Office 365" turinio](https://docs.microsoft.com/office365/securitycompliance/search-for-content) ieškokite ieškodami daugiau informacijos.

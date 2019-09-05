@@ -1,6 +1,6 @@
 ---
 title: Patikrinkite kelis failus vienu metu
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 9/17/2018
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e1a2f9068ff787ac835ad665c77bba70cd6b352
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520531"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755208"
 ---
 # <a name="check-in-several-files-at-once"></a>Patikrinkite kelis failus vienu metu
 
-Tikrinti failus į ir iš "SharePoint" bibliotekoje yra puikus būdas stebėti ir kontroliuoti, kaip turinys atnaujinamas. Jei norite atlikti keitimus į failą į svetainę ir norite įsitikinti, kad niekas kitas gali jį redaguoti, Patikrinkite failo. Jei paėmėte failą, galite jį redaguoti internetu arba neprisijungus ir išsaugokite jį kelis kartus, jei reikia.
+Failų tikrinimas SharePoint bibliotekoje ir iš jos yra puikus būdas sekti ir valdyti turinio naujumą. Jei norite keisti failą svetainėje ir norite įsitikinti, kad niekas kitas negali jo redaguoti, peržiūrėkite failą. Kai failas paimtas, galite jį redaguoti prisijungus arba neprisijungus ir, jei reikia, įrašyti kelis kartus.
 
-Žemiau yra keletas naudingų nuorodų dėl šią funkciją.
+Žemiau yra keletas naudingų nuorodų, susijusių su šia funkcija.
 
-- [Kaip patikrinti, patikrinti ar atsisakyti pakeitimų failus](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Kaip patikrinti, patikrinti ar atmesti failų keitimus](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [Svarbiausi klausimai apie paėmimą ir užrakinimą, įregistravimo, o versijos](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [Populiariausi klausimai apie išsiregistravimas, įregistravimas ir versijos](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
 - [Patikrinkite kelis failus vienu metu](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [Įjungti arba išjungti atsarginių versijų kūrimas/žymės ant biblioteka](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Bibliotekos įgalinimas arba išjungimas/išsiregistravimas](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

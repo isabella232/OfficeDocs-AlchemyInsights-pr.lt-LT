@@ -1,5 +1,5 @@
 ---
-title: Kaip įdiegti Mac Office iš portalo
+title: Kaip įdiegti "Mac Office" iš portalo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540441"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735325"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a>Kaip įdiegti Mac Office iš portalo
+# <a name="how-to-install-mac-office-from-the-portal"></a>Kaip įdiegti "Mac Office" iš portalo
 
-1. [Pašalinti Office 2011, skirta "Mac" iš jūsų kompiuterių](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
+1. [Pašalinkite "Office 2011 for Mac" iš savo kompiuterių](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
 
-2. [Užtikrinti "Mac" programinės įrangos siuntos yra įgalinti "Office 365" administravimo portale](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).
+2. [Tvarkyti programinės įrangos atsisiuntimo parametrus Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Priskirkite licencijos Office Mac vartotojams](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).
+3. [Priskirti licencijas vartotojams](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
-4. Vartotojai gali įdiegti tada Office programine įranga, patys, arba galite naudoti [Savo "Mac" vartotojams Office diegti](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
+4. Vartotojai gali patys įdiegti "Office" programinę įrangą arba galite naudoti ["Office" įdiegtį savo "Mac" vartotojams](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).

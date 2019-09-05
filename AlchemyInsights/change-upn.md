@@ -1,5 +1,5 @@
 ---
-title: Pakeisti UPN
+title: Keisti UPN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520855"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738601"
 ---
 # <a name="change-a-users-email-address"></a>Vartotojo el. pašto adreso keitimas
 
-Kieno el. pašto adreso keitimas yra paprasta! Tiesiog atlikite šiuos veiksmus:
+Pakeisti kieno nors el. pašto adresą yra paprasta! Tiesiog atlikite šiuos veiksmus:
   
-1. "Microsoft" 365 administravimo centro, eikite į puslapį, [vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) , arba pasirinkti **vartotojai** \> **Aktyvių vartotojų**.
+1. "Microsoft" 365 administravimo centre eikite į puslapį [vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) arba pasirinkite **vartotojus** \> **aktyvius**vartotojus.
     
 2. Pasirinkite vartotoją.
     
-3. Dešinėje, į į **vartotojo vardas / el slapyvardžiai** eilutės, pasirinkite **Redaguoti**.
+3. Dešinėje, **vartotojo vardas/el. pašto slapyvardžiai** eilutę, pasirinkite **Redaguoti**.
     
-4. Lauke **pseudonimas** įveskite naują el. laišką, tada pasirinkite **pridėti**.
+4. Lauke **pseudonimas** įveskite naują el. laišką, tada pasirinkite **įtraukti**.
     
-    **Svarbu**: Jei gaunate klaidos pranešimą " **parametras nerastas, atitinkančią parametro pavadinimas" EmailAddresses**"tai reiškia, kad tai trunka šiek tiek ilgiau" Office 365 ", kad baigtumėte konfigūruoti savo nuomotojo ar savo pasirinktinį domeną, jei jį neseniai pridėjote . Sąrankos procesas gali užtrukti iki 4 valandų. Palaukite, todėl sąrankos procesą turi laiko baigti, ir tada bandykite dar kartą. Jei problema išlieka, kreiptis į palaikymo tarnybą ir jie bus padaryti visą sinchronizavimo jums.
+    **Svarbu**: Jei gaunate klaidos pranešimą " **parametras negali būti nustatyta, kad sutampa parametro pavadinimas" emailaddresses**"tai reiškia, kad jis šiek tiek ilgiau Office 365 baigti nustatyti savo nuomotojo arba savo pasirinktinį domeną, jei neseniai pridėjote vieną . Sąrankos procesas gali užtrukti iki 4 valandų. Palaukite, kol bus baigta sąrankos procesas, tada bandykite dar kartą. Jei problema išlieka, skambinkite palaikymo ir jie atliks visą sinchronizavimo už jus.
     
-    Jei gaunate klaidos pranešimą " **mes labai Atsiprašome, vartotojas negali būti redaguojami. Peržiūrėti vartotojo informaciją ir bandykite dar kartą**"vadinasi, jūs nesate" Office 365 "visuotinio administravimo ir jūs neturite teisės keisti vartotojo vardas.
+    Jei gaunate klaidos pranešimą " **Apgailestaujame, vartotojas negali būti redaguojamas. Peržiūrėkite vartotojo informaciją ir bandykite dar kartą**"tai reiškia, kad jūs nesate Office 365 visuotinio administravimo ir jūs neturite teisės keisti vartotojo vardą.
     
-5. Pasirinkite **nustatyti kaip pagrindinį** el. pašto adresą, kurį norite nustatyti kaip pagrindinį el. pašto adresą, kai tas asmuo. Jei įsigijote prenumeratą nuo GoDaddy, jums turi prisijungti prie savo valdymo konsolės nustatyti pagrindinį el. pašto adresą. 
+5. Pasirinkite **nustatyti kaip pagrindinį** el. pašto adresą, kurį norite nustatyti kaip pagrindinį to asmens el. pašto adresą. Jei įsigijote savo prenumeratą iš GoDaddy, turite prisijungti prie savo valdymo konsolę nustatyti pagrindinį el. pašto adresą. 
     
-6. Pasirinkite **įrašyti**, tada **uždaryti**, ir viskas!
+6. Pasirinkite **Išsaugoti**, tada **uždarykite**, ir viskas!
     
-Paprasta, ar ne? Daugiau informacijos ir veiksmus su ekrano, check out this straipsnis: [pakeisti vartotojo vardą ir el. pašto adresą į "Office 365"](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Nebuvo, kad lengva? Norėdami gauti daugiau informacijos ir veiksmų su Screenshots, patikrinkite šį straipsnį: [pakeisti vartotojo vardą ir elektroninio pašto adresą Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

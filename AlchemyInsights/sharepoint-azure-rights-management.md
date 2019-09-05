@@ -1,34 +1,34 @@
 ---
-title: Apriboti prieigos SharePoint arba "OneDrive"
-ms.author: kirks
+title: "\"SharePoint\" arba \"OneDrive\" prieigos ribojimas"
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504219"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751752"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>IRM apsauga į SharePoint failai
+# <a name="irm-protection-to-sharepoint-files"></a>IRM apsauga SharePoint failams
 
 
-Per SharePoint Online, IRM apsauga taikoma failų sąrašą ir bibliotekos lygmenyje. Organizacijos gali naudoti IRM apsaugą, pirmiausia turite nustatyti teisių valdymo. IRM remiasi Azure teisių valdymo tarnybos, Azure duomenų apsaugos užšifruoti ir priskirti naudojimo apribojimai. Kai kurie "Office 365" planus įtraukti Azure teisių valdymo, bet ne visus. 
+Per SharePoint Online, IRM apsauga taikoma failų sąrašo ir bibliotekos lygiu. Kad jūsų organizacija galėtų naudoti IRM apsaugą, pirmiausia turite nustatyti teisių valdymą. IRM naudoja "Azure" teisių valdymo tarnybai iš "Azure" informacijos apsaugos, kad šifruotų ir priskirtų naudojimo apribojimus. Kai kurie "Office 365" planai apima "Azure" teisių valdymą, bet ne visus. 
 
-Norėdami sužinoti daugiau, žr.:
+Jei norite sužinoti daugiau, žr.:
 
-- [Kaip "Office" programoms ir paslaugoms remti Azure teisių valdymą](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Kaip "Office" taikomosios programos ir tarnybos palaiko "Azure" teisių valdymą](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Nustatyti iki informacijos teisių valdymo (IRM) SharePoint administravimo centro](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Nustatyti informacijos teisių valdymas (IRM) SharePoint administravimo centras](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- [IRM įgalinti SharePoint dokumentų bibliotekose ir sąrašuose](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM – įgalinkite SharePoint dokumentų bibliotekas ir sąrašus](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [Informacijos teisių valdymo tarnyba](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Informacijos teisių valdymas tarnyboje](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [Informacijos teisių valdymo Exchange internetu](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [Informacijos teisių valdymas "Exchange Online"](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

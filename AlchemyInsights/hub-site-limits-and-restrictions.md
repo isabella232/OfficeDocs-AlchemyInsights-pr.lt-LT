@@ -1,26 +1,26 @@
 ---
-title: Koncentratoriaus svetainė ribas ir apribojimus
-ms.author: kirks
+title: Koncentratoriaus svetainių apribojimai ir apribojimai
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: be714787d426164e9e0d03050c8fe3fc8d858124
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539289"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754704"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint koncentratoriaus svetainė ribas ir apribojimus
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>"SharePoint Hub" svetainės apribojimai ir apribojimai
 
-- Rekomenduojama pasirinkti bendravimo svetainės ar komandos svetainę, kuri naudoja naujas modernus šablonas. Jei naudojate klasikinis komandos svetainę, stebulės navigacijos bus rodoma tik modernios puslapiai ir centro svetainės parametrai rodomas tik modernios puslapiai.
+- Rekomenduojama pasirinkti ryšių svetainę arba komandos svetainę, kuri naudoja naują modernų šabloną. Jei naudojate klasikinę komandos svetainę, koncentratoriaus navigacija bus rodoma tik moderniuose puslapiuose, o koncentratoriaus svetainės parametrai bus rodomi tik moderniuose puslapiuose.
 
-- Svetainių, kurios jau yra susietos su kitą stebulės **negalima** konvertuoti į koncentratoriaus svetainė.
+- Svetainės, kurios jau yra susietos su kitu centru, **negali** būti konvertuotos į koncentratoriaus svetainę.
 
-- Galite sukurti iki 100 habų svetainėse jūsų organizacijai. Svetainių, kurios gali būti susijusios su centrinėje svetainėje skaičius neribojamas.
+- Galite sukurti iki 100 koncentratoriaus svetainių jūsų organizacijai. Svetainių, kurios gali būti susietos su koncentratoriaus svetaine, skaičiaus apribojimų nėra.
 
-- Kai vartotojai sieja savo svetainėse su koncentratoriaus svetainė, tai neturi įtakos koncentratoriaus svetainė arba susijusių svetainių teises. Svarbu įsitikinti, kad visiems vartotojams leisti įtraukti svetaines į hub turi teisę su centru.
+- Kai vartotojai susieja savo svetaines su koncentratoriaus svetaine, tai nedaro įtakos koncentratoriaus svetainės arba susijusių svetainių leidimams. Svarbu užtikrinti, kad visi vartotojai, kuriems leidžiate susieti svetaines su koncentratoriaus, turėtų teisę į koncentratorių.
 

@@ -1,6 +1,6 @@
 ---
-title: Redaguoti failą tik skaityti
-ms.author: kirks
+title: Redaguoti tik skaitomą failą
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528127"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756108"
 ---
-# <a name="edit-a-read-only-file"></a>Redaguoti failą tik skaityti
+# <a name="edit-a-read-only-file"></a>Redaguoti tik skaitomą failą
 
-Galite pastebėti, kad kai atidarote failus, jie atidaryti kaip tik skaitomą. Kai kuriais atvejais tai papildomo saugumo, pavyzdžiui, atidarant failus iš interneto, ir kitais atvejais, tai gali būti dėl parametrą, kuris gali būti pakeistas. [Kodėl nebuvo mano atidaryti failą tik skaityti](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) straipsnyje apžvelgiame, kai kuriais atvejais, kai failas atidaromas skaitymo ir keletas veiksmų, kuriuos galite atlikti Norėdami pakeisti, kad.
+Jūs galite pastebėti, kad atidarant failus, jie atidaryti tik skaitomas. Kai kuriais atvejais tai papildoma sauga, pvz., kai atidarote failus iš interneto, ir kitais laikais, tai gali būti dėl parametro, kuris gali būti pakeistas. Straipsnyje [Kodėl mano failas buvo atidarytas tik skaityti](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) , mes išdėstome kai kuriuos scenarijus, kai failas atidaromas tik skaityti, ir kai kuriuos veiksmus, kurių galite imtis, kad tai pakeistumėte.
 
-Štai kaip atidaryti office failų redagavimui.
+Toliau nurodyta, kaip atidaryti Office failus redagavimui.
 
-Užuot spustelėję dokumento pavadinimo, spustelėkite **Atidaryti meniu** (trys taškai), ir tada spustelėkite **Redaguoti**.
+Užuot spustelėję dokumento pavadinimą, spustelėkite **atidaryti meniu** (trys taškai), tada spustelėkite **Redaguoti**.
 
 Pastabos:
 
-- Jei jūs dokumentus atidaryti redagavimui biure, kai jūs spustelėkite pavadinimą, jums nustatyti bibliotekos tai padaryti (tol, kol turite teisę pakeisti bibliotekos parametrai).
+- Jei spustelėję pavadinimą norite redaguoti "Office" dokumentus, galite nustatyti biblioteką, kad ji būtų (jei turite teisę keisti bibliotekos parametrus).
 
-- Jei turite bibliotekas su kasos, būtinų stulpelių arba kai tik vartotojai, kurie gali redaguoti parametrus versiją "SharePoint" dokumentų biblioteka, šie elementai bus sinchronizuoti tik skaityti.
+- Jei turite bibliotekų su Checkout, reikia stulpelių arba kai tik vartotojai, kurie gali redaguoti versijos parametrus SharePoint dokumentų bibliotekoje, šie elementai bus sinchronizuojami kaip tik skaitomas.
 
-- "Office" dokumentą atidaro apsaugotame rodinyje, nors "Open Office dokumentų skaitymo/rašymo režimu, naršydami" strategijos parametrą įjungsite. Norėdami gauti daugiau informacijos, prašome kreiptis į šį [straipsnio.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Office dokumentas atidaromas apsaugotame rodinyje, net jei įjungsite "Open Office dokumentus kaip skaitymo/rašymo naršydami" strategijos parametrą. Daugiau informacijos rasite šiame [straipsnyje.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

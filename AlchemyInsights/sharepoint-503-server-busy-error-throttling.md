@@ -1,6 +1,6 @@
 ---
-title: SharePoint internete lėtinimas
-ms.author: kirks
+title: "\"SharePoint Online\" užklausų Buferėjimas"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: c7881c0c7331e0aa74fcc439f52157bb75a56160
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9e1400697b1e6435fea78703d2ecadc6733a57f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559849"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751896"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint internete lėtinimas
+# <a name="sharepoint-online-throttling"></a>"SharePoint Online" užklausų Buferėjimas
 
-Vartotojai gali gauti už 503 serveris yra užimtas klaida bandant naršyti "OneDrive" arba SharePoint svetaines. 
+Vartotojai gali gauti 503 serverio yra užimtas klaida bandant pereiti prie SharePoint arba OneDrive svetainių. 
 
-Ši klaida gali sukelti pristabdyta "SharePoint" paslaugoje. SharePoint Online naudoja lėtinimas išlaikyti našumą ir patikimumą SharePoint Online paslauga. Greičio apribojimai vartotojo veiksmus arba vienu metu skaičius ragina (scenarijus arba kodas) siekiant išvengti per daug išteklių. Jei jūs gauti neleista, 99 % laiko, tai dėl pasirinktinio kodo.
+Ši klaida gali kilti dėl buferinės per SharePoint tarnybos. SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos. Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug. Jei jūs gaunate Throttled, 99% laiko tai dėl pasirinktinį kodą.
 
-Daugiau informacijos apie užklausų buferizavimas žr. [išvengti gauti neleista arba užblokuotas SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Daugiau informacijos apie buferizavimo pamatyti, [išvengti gauti neleista arba užblokuotas SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Jei manote, kad ši klaida yra nesusijęs su greičio, galite patikrinti, jei yra aktyvios techninės priežiūros, vyksta į savo nuomotojo nuskrieti į [pranešimų centras](https://portal.office.com/adminportal/home#/MessageCenter).
+Jei manote, kad ši klaida yra nesusijusi su užklausų buferiu, galite patikrinti, ar jūsų nuomininkui yra aktyvi priežiūra, pereidami į [pranešimų centrą](https://portal.office.com/adminportal/home#/MessageCenter).
 
- Galiausiai, užtikrinti, jūs lankotės [Paslaugų sveikatos](https://portal.office.com/adminportal/home#/servicehealth) puslapį patikrinti visus patarimus/incidentus, kurie gali būti įvykę.
+ Galiausiai, įsitikinkite, kad lankotės [tarnybos sveikatos](https://portal.office.com/adminportal/home#/servicehealth) puslapyje patikrinti, ar nėra patarimų/incidentų, kurie gali būti vyksta.
 

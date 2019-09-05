@@ -1,6 +1,6 @@
 ---
-title: Galimybių perkėlimas į SharePoint Online
-ms.author: kirks
+title: Perkelti parinktis į "SharePoint Online"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 379505b6495cdfc8e85caf559031eaff82c58e9d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cc179539dfa99be699fdb17b1a21317e482d978
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544763"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753984"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Galimybių perkėlimas į SharePoint Online
+# <a name="migrate-options-to-sharepoint-online"></a>Perkelti parinktis į "SharePoint Online"
 
-Yra įvairių variantų galima perkelti turinį į SharePoint Online, priklausomai nuo dydžio ir kiekio jums reikia perkelti failus.
+Yra įvairių parinkčių, kurios gali perkelti turinį į "SharePoint Online", atsižvelgiant į failų, kuriuos reikia perkelti, dydį ir kiekį.
   
-Daugiau informacijos ieškokite [migracija į SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)
+Daugiau informacijos žr., [migracija į SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)
   
 
