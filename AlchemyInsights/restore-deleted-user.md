@@ -1,5 +1,5 @@
 ---
-title: Atkurti panaikintus vartotojo
+title: Ištrinto vartotojo atkūrimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551819"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745081"
 ---
-# <a name="restore-a-user-in-office-365"></a>Atkurti vartotojo "Office 365"
+# <a name="restore-a-user-in-office-365"></a>Atkurkite vartotoją "Office 365"
 
-Atkurti vartotojo "Office 365", atlikite šiuos veiksmus:
+Atkurti vartotojo Office 365 naudojant šiuos veiksmus:
   
-1. Eikite į [vartotojų \> panaikinti vartotojų](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Eikite į [vartotojai \> panaikinti vartotojai](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Pasirinkite vartotojo ir pasirinkite **atkurti**.
+2. Pasirinkite vartotoją, tada pasirinkite **atkurti**.
 
-3. Vykdykite nurodymus Norėdami nustatyti slaptažodį.
+3. Vykdykite nurodymus, kad nustatyti slaptažodį.
 
-4. Spustelėkite **Siųsti el. laiškus ir uždaryti**, ir viskas!
+4. Spustelėkite **Siųsti el. laišką ir uždarykite**, ir viskas!
 
-Paprasta, ar ne? Daugiau informacijos ir veiksmus su ekrano nuotraukų, check out this straipsnis: [atkurti vartotojo "Office 365"](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Jei supranti, kad vietoj to reikės atkurti vartotojo pašto dėžutės, peržiūrėkite: [panaikinti arba atkurti vartotojo pašto dėžutės Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Nebuvo, kad lengva? Norėdami gauti daugiau informacijos ir veiksmų su ekrano nuotraukų, patikrinkite šį straipsnį: [atkurti vartotojo Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Jei suprantate, kad reikia atkurti vartotojo pašto dėžutę, žr.: [Naikinti arba atkurti vartotojų pašto dėžutes "Exchange Online"](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
