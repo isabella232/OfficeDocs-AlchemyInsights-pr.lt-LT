@@ -1,5 +1,5 @@
 ---
-title: Atkurti panaikintus vartotojo
+title: Ištrinto vartotojo atkūrimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551819"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745081"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="7ede4-102">Atkurti vartotojo "Office 365"</span><span class="sxs-lookup"><span data-stu-id="7ede4-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="34efb-102">Atkurkite vartotoją "Office 365"</span><span class="sxs-lookup"><span data-stu-id="34efb-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="7ede4-103">Atkurti vartotojo "Office 365", atlikite šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="7ede4-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="34efb-103">Atkurti vartotojo Office 365 naudojant šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="34efb-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="7ede4-104">Eikite į [vartotojų \> panaikinti vartotojų](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="7ede4-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="34efb-104">Eikite į [vartotojai \> panaikinti vartotojai](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="34efb-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
 
-2. <span data-ttu-id="7ede4-105">Pasirinkite vartotojo ir pasirinkite **atkurti**.</span><span class="sxs-lookup"><span data-stu-id="7ede4-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="34efb-105">Pasirinkite vartotoją, tada pasirinkite **atkurti**.</span><span class="sxs-lookup"><span data-stu-id="34efb-105">Choose the user, then select **Restore**.</span></span>
 
-3. <span data-ttu-id="7ede4-106">Vykdykite nurodymus Norėdami nustatyti slaptažodį.</span><span class="sxs-lookup"><span data-stu-id="7ede4-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="34efb-106">Vykdykite nurodymus, kad nustatyti slaptažodį.</span><span class="sxs-lookup"><span data-stu-id="34efb-106">Follow the prompts to set the password.</span></span>
 
-4. <span data-ttu-id="7ede4-107">Spustelėkite **Siųsti el. laiškus ir uždaryti**, ir viskas!</span><span class="sxs-lookup"><span data-stu-id="7ede4-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="34efb-107">Spustelėkite **Siųsti el. laišką ir uždarykite**, ir viskas!</span><span class="sxs-lookup"><span data-stu-id="34efb-107">Click **Send email and close**, and you're done!</span></span>
 
-<span data-ttu-id="7ede4-108">Paprasta, ar ne?</span><span class="sxs-lookup"><span data-stu-id="7ede4-108">Wasn't that easy?</span></span> <span data-ttu-id="7ede4-109">Daugiau informacijos ir veiksmus su ekrano nuotraukų, check out this straipsnis: [atkurti vartotojo "Office 365"](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="7ede4-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="7ede4-110">Jei supranti, kad vietoj to reikės atkurti vartotojo pašto dėžutės, peržiūrėkite: [panaikinti arba atkurti vartotojo pašto dėžutės Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="7ede4-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
+<span data-ttu-id="34efb-108">Nebuvo, kad lengva?</span><span class="sxs-lookup"><span data-stu-id="34efb-108">Wasn't that easy?</span></span> <span data-ttu-id="34efb-109">Norėdami gauti daugiau informacijos ir veiksmų su ekrano nuotraukų, patikrinkite šį straipsnį: [atkurti vartotojo Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="34efb-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span> <span data-ttu-id="34efb-110">Jei suprantate, kad reikia atkurti vartotojo pašto dėžutę, žr.: [Naikinti arba atkurti vartotojų pašto dėžutes "Exchange Online"](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="34efb-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
