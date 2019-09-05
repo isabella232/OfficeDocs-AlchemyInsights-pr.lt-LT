@@ -1,5 +1,5 @@
 ---
-title: 712, perskaičiuoti siuntimo sąrašą į "Office 365" grupę
+title: 712 paskirstymo sąrašo konvertavimas į "Office 365" grupę
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516427"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738349"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="b3cde-102">Paskirstymo grupę konvertuoti į Office 365 grupė</span><span class="sxs-lookup"><span data-stu-id="b3cde-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="739b6-102">Paskirstymo grupės konvertavimas į "Office 365" grupę</span><span class="sxs-lookup"><span data-stu-id="739b6-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="b3cde-103">Paskirstymo grupes galite konvertuoti į Office 365 grupes, jei jie atitinka tam tikrus kriterijus.</span><span class="sxs-lookup"><span data-stu-id="b3cde-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="b3cde-104">Konvertuoti grupę arba konvertavimo trikčių šalinimas, žr. [atnaujinti siuntimo sąrašus į Office 365 dalyvauja programoje "Outlook"](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span><span class="sxs-lookup"><span data-stu-id="b3cde-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span></span>
+<span data-ttu-id="739b6-103">Paskirstymo grupes galite konvertuoti į "Office 365" grupes, jei jos atitinka tam tikrus kriterijus.</span><span class="sxs-lookup"><span data-stu-id="739b6-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="739b6-104">Norėdami konvertuoti grupę arba spręsti konvertavimo problemas, žiūrėkite [atnaujinti paskirstymo sąrašus Office 365 grupės programoje "Outlook"](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="739b6-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

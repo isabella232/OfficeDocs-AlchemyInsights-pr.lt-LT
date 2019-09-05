@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" komandas"
+title: Įgalinti "Microsoft teams"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527597"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736117"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="401b9-102">Įjungti ir naudoti "Microsoft" komandos</span><span class="sxs-lookup"><span data-stu-id="401b9-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="99c37-102">"Microsoft teams" įjungimas ir naudojimas</span><span class="sxs-lookup"><span data-stu-id="99c37-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="401b9-103">Jei jūs neturite prieigos prie "Microsoft" Teams visai, check out [kaip gauti prieigą prie "Microsoft" komandos](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="401b9-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+<span data-ttu-id="99c37-103">Jei neturite prieigos prie "Microsoft teams", Sužinokite, [kaip gauti prieigą prie "Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)".</span><span class="sxs-lookup"><span data-stu-id="99c37-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
 
-<span data-ttu-id="401b9-104">Jei jau turite "Microsoft" Teams ir reikia žinoti, kaip konfigūruoti ir valdyti, peržiūrėti [parametrus administratoriaus "Microsoft" komandos](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="401b9-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
+<span data-ttu-id="99c37-104">Jei jau turite "Microsoft teams" ir turite žinoti, kaip ją konfigūruoti ir valdyti, žr. [savo organizacijos "Microsoft teams" parametrų tvarkymą](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span><span class="sxs-lookup"><span data-stu-id="99c37-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>
