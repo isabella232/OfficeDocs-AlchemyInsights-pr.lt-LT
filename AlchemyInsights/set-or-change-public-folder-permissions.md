@@ -1,5 +1,5 @@
 ---
-title: Nustatyti arba pakeisti viešojo aplanko teises
+title: Viešųjų aplankų teisių nustatymas arba keitimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550163"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734677"
 ---
-# <a name="permissions-and-public-folders"></a>Teises ir viešuosius aplankus
+# <a name="permissions-and-public-folders"></a>Teisės ir viešieji aplankai
 
-Galite keisti teises viešąjį aplanką programoje "Outlook", Exchange administravimo centro (EAC) arba "PowerShell":
+Galite pakeisti teises į viešąjį aplanką naudodami "Outlook", Exchange administravimo centro (EAC) arba "PowerShell":
   
-- Nurodymai, kaip "Outlook", [spustelėkite čia](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Norėdami gauti "Outlook" instrukcijų, [spustelėkite čia](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- Švietimo ir kultūros, ieškokite [šio straipsnio](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) nurodymais. Galite spustelėti [čia](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) Norėdami pereiti į EAC. 
+- EAC, ieškokite [šiame straipsnyje](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) nurodymų. 
     
-- "PowerShell", rasite [šiame straipsnyje](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) , instrukcijas, naudojant Add-PublicFolderClientPermission commandlet. Jei jums reikia instrukcijų prisijungti prie Exchange "PowerShell", spustelėkite [čia](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- "PowerShell", skaitykite [šį straipsnį](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) instrukcijų, kaip naudoti pridėti PublicFolderClientPermission commandlet. Jei jums reikia nurodymų, kaip prisijungti prie Exchange PowerShell, spustelėkite [čia](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Jei **Išoriniai vartotojai negali siųsti el. laiškus į pašto viešųjų aplankų**, priežastis gali kad viešojo aplanko trūksta teises reikalaujama išorės el. pašto pristatymo. Galite nustatyti jį naudojant "Outlook" instrukcijas [čia](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)arba "PowerShell" instrukcijas [čia](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Jei **Išoriniai vartotojai negali siųsti el. laiškų į pašto viešąjį aplanką**, gali būti, kad viešajame aplanke trūksta teisių, reikalingų išoriniam el. pašto pristatymui. Galite išspręsti šią problemą naudodami "Outlook" instrukcijos [čia](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), arba "PowerShell" instrukcijas [čia](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

@@ -1,6 +1,6 @@
 ---
-title: "\"OneDrive\" nėra pateikta šio vartotojo"
-ms.author: kirks
+title: "\"OneDrive\" nekonfigūruota šiam vartotojui"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543640"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753372"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>"OneDrive" nėra pateikta šio vartotojo
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>"OneDrive" nekonfigūruota šiam vartotojui
 
-Naujai sukurtas sąskaitas, vartotojai turi prisijungti prie "Office 365" portalą naudodami savo abonementą ir spustelėkite "OneDrive" rankiniu būdu pradėti teikti "OneDrive" svetainę.
+Naujai sukurtų abonementų vartotojams reikia prisijungti prie "Microsoft" 365 administravimo centro su savo abonementu ir spustelėti "OneDrive", kad neautomatiniu būdu paleistumėte "OneDrive" svetainės nuostatą.
   
-Tačiau, jei vartotojas paspaudžia jau "OneDrive" ir savo asmeninėje svetainėje nėra pateikta per 24 valandas, prašome prisijungti a support ticket dėl tolimesnės pagalbos.
+Tačiau, jei vartotojas jau spustelėjo "OneDrive" ir jų asmeninė svetainė nėra parengta per 24 valandas, prašome prisijungti palaikymo bilietą už tolesnę pagalbą.
   
 
