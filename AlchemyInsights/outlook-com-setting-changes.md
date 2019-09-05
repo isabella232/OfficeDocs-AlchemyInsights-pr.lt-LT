@@ -1,6 +1,6 @@
 ---
-title: "\"Outlook.com\" parametrai"
-ms.author: kirks
+title: Outlook.com parametrai
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535399"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752904"
 ---
-# <a name="settings-in-outlookcom"></a>Parametrus naudodami "Outlook.com"
+# <a name="settings-in-outlookcom"></a>Nustatymai Outlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jei gavėjas yra vidaus arba išorės į jūsų organizaciją ir jei jie naudoja "Office 365" arba "Outlook.com" el. pašto abonementą, šių klientų neturėtų daryti nieko ypatinga atidaryti pranešimą: <strong>"Outlook 2016", internetinė "Outlook" / "Outlook Web App"</strong> <strong>"Outlook" Mobilioji programėlė</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Delegatai</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">vartotojų, kad saugomas laiškas išsiųstas, negali atidaryti apsaugotus pranešimus. Tik pradiniai gavėjai (apsaugoti el. pašto, kuriam buvo išsiųstas į) informaciją galite peržiūrėti el. laišką.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jei gavėjas yra skirtingų interneto paslaugų teikėjui ir jie&nbsp;negali atidaryti pranešimą ir peržiūrėkite a &lsquo;rpmsg&rsquo; priedą, prašome pranešti vadovaudamiesi toliau pateiktomis instrukcijomis:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">pasirinkite <strong style="mso-bidi-font-weight: normal;">skaityti</strong> , laišką.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jie nukreipti į puslapį, kur jie turėtų pasirinkti &lsquo; <strong style="mso-bidi-font-weight: normal;">prisijungti naudodami vienkartinį ryšio</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Vienkartinį kodą siųsti tuo pačiu el. pašto adresu. Įveskite kodą į naršyklės langą ir pasirinkite <strong style="mso-bidi-font-weight: normal;">tęsti</strong> skaityti jūsų pranešimą.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jei negalite į užšifruotą el. laišką iš kitos "Office 365" organizacijos, atlikite sprendimo veiksmus, nurodytus šiame <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">straipsnyje</span></a> .</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jei gavėjo pašto dėžutės yra <strong>Yahoo arba Gmail </strong> <span style="mso-bidi-font-weight: bold;">sekite instrukcijas</span> rasti šiame <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">straipsnyje</span></a>.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Apsaugos politika taikoma tik <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">žinoma failų formatus</span></a>. PDF ir "OneDrive" verslui priedą šifravimo nepalaikomi.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Bendrinamos pašto dėžutės</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">negalite atidaryti šifruotus pranešimus šiuo metu per bet kuriam klientui.</span></li> </ul>
+Jei gavėjas yra vidinis ar išorinis jūsų organizacijoje ir jei jie naudoja Office 365 arba Outlook.com el. pašto abonementą, šie klientai neturėtų daryti nieko ypatingo atidaryti pranešimą: **outlook 2016, interneto Outlook Web App, "Outlook" Mobilioji programėlė**
+
+Vartotojų, kuriems buvo išsiųstas apsaugotas el. laiškas, **delegatai** , negali atidaryti apsaugotų pranešimų. El. laiške informaciją gali peržiūrėti tik pirminiai gavėjai (asmuo, kuriam buvo išsiųstas apsaugotas el. laiškas).
+
+- Jei gavėjas yra kitame interneto paslaugų teikėjas ir jie&nbsp;negali atidaryti pranešimą ir pamatyti "rpmsg" priedą, vykdykite toliau pateiktas instrukcijas:
+    - Pasirinkite **skaityti** pranešimą.
+    - Jie nukreipiami į puslapį, kuriame jie turėtų pasirinkti **prisijungti naudojant vieną laiko kodą**.
+    - Tuo pačiu el. pašto adresu siunčiama vienkartinio naudojimo ryšio kodas. Įveskite kodą naršyklės lange, tada pasirinkite **tęsti** , kad perskaitytumėte pranešimą.
+- Jei negalite užšifruoti pranešimų iš kitos Office 365 organizacijos, atlikite šiame [straipsnyje](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)nurodytus sprendimo veiksmus.
+- Jei gavėjo pašto dėžutė yra " **Yahoo" arba "Gmail**", vykdykite</span> šiame [straipsnyje](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)pateikiamus nurodymus.
+- Apsaugos politika taikoma tik [žinomiems failų formatams](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). PDF ir "OneDrive" verslui priedas nepalaiko šifravimo.
+- Bendrai naudojamos pašto dėžutės **negali atidaryti šifruotų pranešimų šiuo metu per bet kurį klientą**. 

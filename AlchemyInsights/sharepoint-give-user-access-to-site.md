@@ -1,6 +1,6 @@
 ---
-title: Prieigos prašymus funkcija
-ms.author: kirks
+title: Prieigos užklausų funkcija
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503823"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751536"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Vartotojams suteikti prieigą prie SharePoint svetainės
+# <a name="give-users-access-to-sharepoint-site"></a>Suteikite vartotojams prieigą prie "SharePoint" svetainės
 
-Prieigos prašymo funkcija suteikia žmonėms galimybę prašyti prieigos prie turinio, kuris šiuo metu neturi teisės peržiūrėti. Būdami svetainės savininku, galite sukonfigūruoti funkcija siųsti jums el. laiškus, kai kas nors prašo prieigos prie svetainės. Norėdami gauti daugiau informacijos, apsilankykite [nustatyti aukštyn ir valdyti prieigos prašymus](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Prieigos užklausos funkcija leidžia žmonėms prašyti prieigos prie turinio, kurio šiuo metu neturi teisės matyti. Kaip svetainės savininkas, galite sukonfigūruoti funkciją siųsti laiškus, kai kas nors prašo prieigos prie svetainės. Daugiau informacijos rasite apsilankę [nustatyti ir tvarkyti prieigos užklausas](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-Štai kelios bendrosios nuorodos dėl prieigos prašymus:
+Štai keletas bendrų saitų dėl prieigos užklausų:
 
-- [Prieiga uždrausta"prieigos prašymus sąrašą arba"Užklausa nepavyko patvirtinti"kai apdorosite užlaikyto prašymo SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Prieiga uždrausta "prieigos užklausas sąrašą arba" prašyti patvirtinimo nepavyko ", kai jums tvarkyti laukiama užklausą" SharePoint Online "](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Keisti access užklausas parametrai](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Keisti prieigos užklausų parametrus](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Patvirtinti arba atmesti accessrequests svetainės](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Svetainės prieigos užklausų tvirtinimas arba atmetimas](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Organizuoja išorės vartotojams (tik SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Tvarkyti kvietimus išoriniams vartotojams (tik SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Išsiųsti pakvietimą](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Kvietimo pakartotinis sinchronizavimas](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

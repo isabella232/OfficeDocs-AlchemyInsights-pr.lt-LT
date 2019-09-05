@@ -1,6 +1,6 @@
 ---
-title: Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint
-ms.author: kirks
+title: "\"SharePoint\" išorinio bendrinimo įjungimas arba išjungimas"
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507891"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750924"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Perspėjimas: jūsų organizacijos strategijos neleidžia jums pasidalinti su šių vartotojų
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Įspėjamasis pranešimas: jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais
 
-Vartotojai gali patirti perspėjančiu pranešimu, kai bando pasidalinti su išorės vartotojams jūsų organizacijoje. Pranešimas yra **jūsų organizacijos strategijos neleidžia jums pasidalinti su šių vartotojų. Eikite į Išorinis bendrinimas "Office 365" administravimo centro tam, kad**. Taip dažnai nutinka pirmą kartą bando pasidalinti su išorės vartotojais arba su nauja išoriniams vartotojams.
+Vartotojai gali susidurti su įspėjamuoju pranešimu, kai bando bendrinti su išoriniais jūsų organizacijos vartotojais. Pranešimas yra **jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais. Eikite į Išorinis bendrinimas "Office 365" administravimo centre, kad jį įjungtumėte**. Tai dažnai atsitinka pirmą kartą bandant bendrinti su išoriniais vartotojais arba bendrindami su naujais išoriniais vartotojais.
 
-Patikrinkite **SharePoint "ir" išorės "OneDrive" bendrinimo parametrus** jūsų organizacijai.
+Patikrinkite organizacijos " **SharePoint" ir "OneDrive" išorinio bendrinimo parametrus** .
 
-1. Jūsų ["Microsoft" 365 administravimo centrą](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), pasirinkite **SharePoint**.
-3. Pasirinkite **bendrinimo** pamatyti išorinio bendrinimo parametrai.
+1. " [Microsoft" 365 administravimo centras](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), pasirinkite **SharePoint**.
+3. Pasirinkite **bendrinimas** , kad pamatytumėte išorinio bendrinimo nustatymus.
 
-Patikrinkite, ar **išorinio bendrinimo nustatymus** konkrečios svetainės.
+Patikrinkite konkrečios svetainės **išorinius bendrinimo parametrus** .
 
-1. Jūsų ["Microsoft" 365 administravimo centrą](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), pasirinkite **SharePoint**.
-2. Pasirinkite **aktyvus svetaines** pamatyti savo svetaines, kurie yra prieinami.
-3. Pasirinkite svetainę, kurią norite tikrinti, ir tada pasirinkite **bendrinimo** mygtukas, rodantis meniu juostoje patikrinti svetainės parametrus.
+1. " [Microsoft" 365 administravimo centras](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), pasirinkite **SharePoint**.
+2. Pasirinkite **aktyvios svetainės** , kad pamatytumėte galimas svetaines.
+3. Pasirinkite svetainę, kurią norite tikrinti, tada pasirinkite **bendrinimo** mygtuką, kuris rodomas meniu juostoje, kad patikrintumėte svetainės parametrus.
 
-Daugiau informacijos rasite [išorinio bendrinimo apžvalga](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Daugiau informacijos rasite [išorinio bendrinimo apžvalgoje](https://docs.microsoft.com/sharepoint/external-sharing-overview).

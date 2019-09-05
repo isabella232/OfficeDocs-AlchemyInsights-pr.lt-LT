@@ -1,22 +1,22 @@
 ---
-title: "\"OneDrive\" svetainėje Provisioning"
-ms.author: kirks
+title: "\"OneDrive\" svetainės parengimas"
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 47442a6e557e8a06e14898ea77b8faa9b01b0024
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f8e57185da938d10b86f0617182c28526f47f63
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543177"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753120"
 ---
-# <a name="onedrive-site-provisioning"></a>"OneDrive" svetainėje Provisioning
+# <a name="onedrive-site-provisioning"></a>"OneDrive" svetainės parengimas
 
-Naujai sukurtas sąskaitas, vartotojai turi prisijungti prie "Office 365" portalą naudodami savo abonementą ir spustelėkite piktogramą "OneDrive" rankiniu būdu pradėti teikti "OneDrive" svetainę.
+Naujai sukurtų abonementų vartotojams reikia prisijungti prie "Microsoft" 365 administravimo centro su savo abonementu ir spustelėti "OneDrive" piktogramą, kad rankiniu būdu paleistumėte "OneDrive" svetainės nuostatą.
 
-Tačiau, jei vartotojas paspaudžia jau "OneDrive" piktogramą ir savo asmeninę svetainę nėra pateikta per 24 valandas, prašome prisijungti a support ticket dėl tolimesnės pagalbos.
+Tačiau, jei vartotojas jau spustelėjo "OneDrive" piktogramą ir jo asmeninė svetainė nėra parengta per 24 valandas, prašome prisijungti palaikymo bilietą už tolesnę pagalbą.
 

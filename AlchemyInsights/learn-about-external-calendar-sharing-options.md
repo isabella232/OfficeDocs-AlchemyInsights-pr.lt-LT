@@ -1,5 +1,5 @@
 ---
-title: 898 susipažinti su išoriniais kalendoriaus bendrinimo parinktis
+title: 898 Sužinokite daugiau apie išorinio kalendoriaus bendrinimo parinktis
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 564d8ab4c98d793db68aca46087e37414fd5ab55
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497811"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735505"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Sužinokite daugiau apie išoriniam kalendoriaus bendrinimo parinktis
+# <a name="learn-about-external-calendar-sharing-options"></a>Sužinokite apie išorinio kalendoriaus bendrinimo parinktis
 
-Jei norite planuoti susitikimus su jūsų organizacijai nepriklausančiais žmonėmis, "Office 365" suteikia jums galimybę pateikti "išorės vartotojams," tiems, kuriems reikia pamatyti užimtumo kalendoriai laiko, bet neturite abonementų "Office 365" aplinkoje. Norėdami gauti daugiau informacijos, peržiūrėkite [bendrinti kalendorių su išoriniais vartotojais](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Jei jums reikia suplanuoti susitikimus su asmenimis, nepriklausančiais jūsų organizacijai, "Office 365" leidžia jums padaryti kalendorius prieinamus "išoriniams vartotojams" tiems, kuriems reikia Rodyti užimtumo laiką, bet neturi vartotojų abonementų jūsų "Office 365" aplinkai. Daugiau informacijos ieškokite [kalendorių bendrinimas su išoriniais vartotojais](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

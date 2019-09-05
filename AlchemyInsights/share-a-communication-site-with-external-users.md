@@ -1,6 +1,6 @@
 ---
-title: Dalintis bendravimo svetainė su išoriniais vartotojais
-ms.author: kirks
+title: Bendrinkite bendravimo svetainę su išoriniais naudotojais
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 0bdcc0c42cf73f6538de1613d710dd2143dbf887
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508719"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751968"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Dalintis bendravimo svetainė su išoriniais vartotojais
+# <a name="share-a-communication-site-with-external-users"></a>Bendrinkite bendravimo svetainę su išoriniais naudotojais
 
-Norėdami įjungti Išoriniam vartotojui, dalintis bendravimo svetainės, atlikite šiuos veiksmus: 
+Norėdami įjungti išorinį vartotojų bendrinimą, skirtą ryšių svetainėms, atlikite šiuos veiksmus: 
   
-1. Atidaryti **Modernaus administravimo centrą** - jei esate klasikinis administravimo centro pamatysite, **pabandykite jį dabar** arba ** pabandyti peržiūrėti ** mygtuką viršuje dešinėje. Pereisite į modernaus administravimo centrą. 
+1. Atidaryti **modernus administravimo centras** -jei esate klasikinis administratorius centras pamatysite **pabandyti dabar** arba * * pabandykite Peržiūrėti * * mygtukas iš viršutiniame dešiniajame. Tai nuvyks į šiuolaikinės administravimo centro. 
   
-2. Pasirinkite **aktyvių svetainėse.**
+2. Pasirinkite **aktyvios svetainės.**
   
-3. Pasirinkite svetainės, kurioje yra **bendravimo svetainės šabloną**. 
+3. Pasirinkite svetainę, kurioje yra **ryšio svetainės šablonas**. 
   
-4. Pasirinkite **bendrinimo** mygtuką viršutiniame meniu. 
+4. Viršutiniame meniu pasirinkite mygtuką **bendrinimas** . 
   
- **Pastaba:** Jei turite daugiau nei vieną svetainę, atrinkti, **bendrinimo** mygtuką pasirodys su negalia. Pasirinkite tik vienoje vietoje. 
+ **Pastaba:** Jei pasirinkote daugiau nei vieną svetainę, **bendrinimo** mygtukas bus rodomas išjungtas. Pasirinkite tik vieną svetainę. 
   
 

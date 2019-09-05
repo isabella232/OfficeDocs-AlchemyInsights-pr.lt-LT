@@ -1,5 +1,5 @@
 ---
-title: Diegti "office" Terminal Server - be leidimų
+title: Office diegimas terminalų serveryje-nelicencijuotos
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498423"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735397"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Diegti "Office" terminalo serverio
+# <a name="installing-office-on-a-terminal-server"></a>Office diegimas terminalų serveryje
 
-Diegiant "Office 365 ProPlus" naudodami nuotolinio darbalaukio tarnybų (RDS) Windows Server, vadintas terminalų tarnybos:
+Diegti Office 365 ProPlus Windows Server naudojant nuotolinio darbalaukio tarnybos (RDS), anksčiau pavadintas terminalų tarnybos:
   
-- Turite "Office 365" planą, kuris apima "Office 365 ProPlus", pvz., Office 365 Enterprise E3 "arba" Enterprise E5. Office 365 Business "ir" Office 365 Business Premium planus neįeina "Office 365 ProPlus".
+- Turite turėti Office 365 planą, kuriame yra Office 365 ProPlus, pvz., Office 365 Enterprise E3 arba Enterprise E5. Office 365 Business "ir" Office 365 "Business Premium" planai neapima "Office 365 ProPlus".
 
-- Jums reikia įgalinti [bendrinamo kompiuterio suaktyvinimą](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Turite įgalinti [bendrai naudojamą kompiuterio aktyvinimą](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jei norite įdiegti "Office 365 ProPlus" RDS "Office 365" portale, ***kuris naudoja numatytąjį diegimo parametrus***, atlikite šiuos veiksmus:
+Jei norite įdiegti Office 365 ProPlus RDS iš "Microsoft" 365 administravimo centro, ***kuris naudoja numatytuosius diegimo parametrus***, atlikite šiuos veiksmus:
   
-1. Patikrinkite, ką turite "Office 365" planą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Patikrinkite, ką Office 365 planą turite. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Jei reikia, pereiti prie skirtingų "Office 365" planą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Jei reikia, pereikite į kitą Office 365 planą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Jei Office yra įdiegta RDS serverio naudojant kitus "Office 365" planus, pašalinkite ją. Pvz., nuėję į valdymo skydo \> pašalinti programą. Pašalinti, jei kyla problemų naudojant ["Microsoft" palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy) .
+3. Jei Office jau yra įdiegta RDS serveryje naudojant kitus Office 365 planus, pašalinkite jį. Pvz., eikite į valdymo skydo \> išdiegti programą. Pašalinkite naudodami ["Microsoft" palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy) jei jūs naudojate problemų.
 
-4. RDS serveriu, prisijunkite prie "Office 365" portale su administratoriaus paskyrą ir [įdiegti "Office 365 ProPlus"](https://portal.office.com/OLS/MySoftware.aspx).
+4. RDS serveryje Prisijunkite prie "Microsoft" 365 administravimo centro su savo administratoriaus abonementu ir [įdiekite "Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)".
 
-5. Po to, kai Office yra įdiegta, ***negalima atidaryti arba prisijungti*** prie bet kurios Office programos.
+5. Įdiegus "Office", ***neatidarykite arba prisijunkite*** prie jokių "Office" taikomųjų programų.
 
-6. RDS serverio, kad aktyvinimo bendrai naudojamame kompiuteryje iš registro redagavimą, atlikite šiuos veiksmus:
+6. RDS serveryje, įgalinti bendrai kompiuterio aktyvinimas redaguodami registrą atlikdami šiuos veiksmus:
 
-1. Dešiniuoju pelės mygtuku spustelėkite apatiniame kairiajame kampe ekrano "Windows" mygtuką ir pasirinkite paleisti. Lauke Atidaryti įveskite **regedit**, ir pasirinkite Gerai.
+1. Apatiniame kairiajame ekrano kampe dešiniuoju pelės mygtuku spustelėkite "Windows" mygtuką ir pasirinkite vykdyti. Lauke Atidaryti įveskite **regedit**, ir tada pasirinkite Gerai.
 
-2. Pasirinkite taip, kai būsite paprašyti leisti registro redaktorių keisti įrenginio.
+2. Pasirinkite taip, kai paraginama leisti registro rengyklėje atlikti keitimus įrenginyje.
 
-3. Registro redaktoriaus, pridėti eilutės reikšmė, **SharedComputerLicensing** 1 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, kuriame.
+3. Registro rengyklėje pridėkite eilutės reikšmę **Sharedcomputerlicensing** su parametr 1 pagal HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. RDS serverio, ***kaip galutinis vartotojas Prisijunkite*** ir [patikrinkite aktyvinimo bendrai naudojamame kompiuteryje įgalintas, "Office 365 ProPlus"](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS serveryje, ***Prisijunkite kaip galutiniam vartotojui*** ir [patikrinkite, ar bendrai kompiuterio aktyvinimas yra įjungtas Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Daugiau informacijos apie būtinųjų sąlygų, sąrankos nurodymus ir patarimus individualų įrenginių naudodami Office diegimo įrankis, žiūrėkite [Diegti Office 365 ProPlus naudodami nuotolinio darbalaukio tarnybos](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Daugiau informacijos apie Būtinosios sąlygos, sąrankos instrukcijos ir nurodymai dėl individualų įrenginių naudodami Office visuotinio diegimo įrankį, ieškokite [įdiegti Office 365 ProPlus naudojant nuotolinio darbalaukio tarnybos](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Ištaisyti klaidas, susijusias su bendra kompiuterio aktyvinimu, žiūrėkite [trikčių problemas aktyvinamą bendrai naudojamame kompiuteryje, "Office 365 ProPlus"](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Norėdami ištaisyti klaidas, susijusias su bendrai naudojamo kompiuterio aktyvinimu, žiūrėkite [trikčių diagnostika bendrai naudojamame kompiuterio aktyvinimui Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

@@ -1,6 +1,6 @@
 ---
-title: Veiklos klausimais-SharePoint arba "OneDrive"
-ms.author: kirks
+title: Našumo problemos – "SharePoint" arba "OneDrive"
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666740"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752724"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint arba "OneDrive" lėtai, neprieinamas ar nepasiekiamas keliems vartotojams
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>"SharePoint" arba "OneDrive" veikia lėtai, nepasiekiama arba nepasiekiama keliems vartotojams
 
-SharePoint arba "OneDrive" gali būti lėtas, neprieinamas ar nepasiekiamas, dėl kelių priežasčių:
+SharePoint arba OneDrive gali būti lėtas, nepasiekiamas arba nepasiekiamas dėl kelių priežasčių:
   
-- Jei jūsų SharePoint arba "OneDrive" svetainėje yra lėtas ar atidėtas keliems vartotojams, gali būti laikinai tarnybos problema tais atvejais, kai vartotojai patirtis vėlinimų ar naršymo klaidų bandant pasiekti SharePoint svetainių arba "OneDrive" turinį. Patikrinkite [tarnybų sveikatos stebėjimo skydas](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Norėdami pamatyti, jei jūsų organizacija smūgiuoja.
+- Jei SharePoint arba "OneDrive" svetainė yra lėta arba uždelsta keliems vartotojams, gali būti laikina paslaugų problema, dėl kurios vartotojai patiria pertrūkiais uždelsimą arba naršymo klaidas, kai pasiekiate "SharePoint" svetaines arba "OneDrive" turinį. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir pažiūrėkite, ar jūsų organizacija turi įtakos.
   
-- Jei jaučiate lėto veikimo su **klasikinis** SharePoint svetainę ar puslapį, naudodami [Page diagnostikos įrankis](https://aka.ms/perftool) išanalizuoja puslapius.
+- Jei naudodami **klasikinę** "SharePoint" svetainę ar puslapį jaučiate lėto veikimo efektyvumą, pasinaudokite [puslapio diagnostikos įrankiu](https://aka.ms/perftool) ir analizuokite puslapius.
   
-- Jeigu vis dar jaučiate bendrą lėčiau, prašome peržiūrėti išteklius šio straipsnio apačioje: [Įvadas į našumo for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Jei vis dar patirtis apskritai lėto veikimo, prašome peržiūrėti išteklius šio straipsnio apačioje: [Įvadas į veiklos reguliavimas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

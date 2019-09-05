@@ -1,6 +1,6 @@
 ---
-title: Pradėti dirbti su SharePoint Online
-ms.author: kirks
+title: Pradėkite dirbti su "SharePoint Online"
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504003"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751680"
 ---
-# <a name="workflows-in-sharepoint"></a>Darbo eigos SharePoint
+# <a name="workflows-in-sharepoint"></a>Darbo eigos "SharePoint"
 
-Jei SharePoint darbo eigos nesiunčia el. laiškų, jūsų organizacija gali susidūrė Exchange Online siuntėjas ribas.
+Jei SharePoint darbo eigos nesiunčia el. laiškų, jūsų organizacija galėjo susidurti su "Exchange Online" siuntėjų apribojimais.
 
-"Darbo eigos sustabdomas" klaidos pranešimas gali atsirasti, jei turite vieną iš šių elementų:
+"Darbo eiga yra sustabdytas" klaidos pranešimas gali įvykti, jei turite vieną iš šių elementų:
 
-- Jūs turite darbo eigos SharePoint Online, kuri naudoja SharePoint 2010 arba SharePoint 2013 darbo eigos platformos tipo.
+- Jūs turite darbo eigos SharePoint Online, kuris naudoja SharePoint 2010 arba SharePoint 2013 darbo eigos platformos tipas.
 
-- Darbo eiga yra sukonfigūruotas siųsti el. pašto žinutę daugiau kaip 200 vartotojų vienu metu, daugiau nei 10 000 gavėjų per dieną ar daugiau nei 30 lai kai per minutę.
+- Darbo eiga sukonfigūruota siųsti pasirinktinį el. laišką daugiau nei 200 vartotojų vienu metu, daugiau nei 10 000 gavėjų per dieną, arba daugiau nei 30 pranešimų per minutę.
 
-Kai paleidžiate darbo eigą, el. laiškas nesiunčiamas ir klaidos pranešimą, vidaus būsena bus nustatyta kaip pakabinamos arba negalima siųsti gavėjui yra rodomas.
+Paleidus darbo eigą, el. pašto pranešimas nesiunčiamas, ir pastebite klaidos pranešimą, vidinė būsena nustatyta kaip sustabdytas arba negali siųsti gavėjui rodomas.
 
-Norėdami gauti daugiau informacijos, prašome kreiptis į šį [straipsnį](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Daugiau informacijos rasite šiame [straipsnyje](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

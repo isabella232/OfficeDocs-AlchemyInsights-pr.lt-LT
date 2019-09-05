@@ -1,5 +1,5 @@
 ---
-title: Diegimo programos pakimba ar įstringa
+title: Montavimo stringa arba įstringa
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498639"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735433"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office diegimo programos pakimba ar įstringa
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office diegimo pakimba arba įstringa
 
-Galite matyti šią problemą dėl tinklo ryšio, antivirusinę programinę įrangą, ar "Windows" naujinimo parametrų jūsų kompiuteryje. Štai ką galite pabandyti išspręsti problemą.
+Šią problemą galite matyti dėl tinklo ryšio, antivirusinės programinės įrangos arba "Windows Update" parametrų kompiuteryje. Štai keletas dalykų, kuriuos galite pabandyti išspręsti problemą.
   
-- Iš naujo paleiskite kompiuterį ir patikrinkite, ar įdiegtas Office
+- Paleiskite kompiuterį iš naujo ir patikrinkite, ar "Office" įdiegta
 
-- Naudoti laidinį ryšį
+- Laidinio ryšio naudojimas
 
-- Jei esate lėtą interneto ryšį, įdiegti Office [naudojant Office diegimo neprisijungus programą](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Jei naudojatės lėtu interneto ryšiu, įdiekite "Office" [naudodami "Office" diegimo neprisijungę](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
 - Laikinai išjunkite antivirusinę programinę įrangą
 
-- Paleisti internete remonto iš valdymo skydo
+- Iš valdymo skydo paleisti atkūrimą internetu
 
-- Pašalinti ir iš naujo įdiegti Office
+- Pašalinkite ir iš naujo įdiekite "Office"
 
-[Tarnyba ima ilgą įdiegti](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Biuras imasi ilgai įdiegti](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
