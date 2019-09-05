@@ -1,7 +1,7 @@
 ---
-title: Daugiau informacijos apie saugojimo strategijos
+title: Daugiau informacijos apie saugojimo strategijas
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521683"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753768"
 ---
-# <a name="more-info-about-retention-policies"></a>Daugiau informacijos apie saugojimo strategijos
+# <a name="more-info-about-retention-policies"></a>Daugiau informacijos apie saugojimo strategijas
 
-Nes dauguma organizacijų, apimties ir sudėtingumo, jų duomenys yra didėja kasdien - el. paštas, dokumentai, tiesioginius pranešimus, ir dar daugiau. Efektyviai valdyti arba reglamentuojančių šią informaciją yra svarbu, ir saugojimo strategija gali padėti jums pasiekti šių tikslų. Daugiau informacijos apie saugojimo strategijos, aplankykite šias nuorodas:
+Daugumai organizacijų, jų duomenų apimtis ir sudėtingumas didina kasdienį el. paštą, dokumentus, tiesioginius pranešimus ir dar daugiau. Efektyvus šios informacijos valdymas ar tvarkymas yra svarbus, o saugojimo strategija gali padėti jums pasiekti šiuos tikslus. Daugiau informacijos apie saugojimo strategijas rasite apsilankę šiose nuorodose:
 
-## <a name="a-from-security-and-compliance-center"></a>A) iš saugos ir atitikties užtikrinimo centre
+## <a name="a-from-security-and-compliance-center"></a>A) iš saugos ir atitikties centro
 
-- Eikite į saugos ir atitikties > duomenų valdymo > susilaikymas
-  - Žiūrėkite [šią](https://docs.microsoft.com/office365/securitycompliance/retention-policies) straipsnį
+- Eiti į saugos ir atitikties _ Gt_ duomenų valdymas _ Gt_ saugojimas
+  - Peržiūrėkite [šį](https://docs.microsoft.com/office365/securitycompliance/retention-policies) straipsnį
 
-- Eikite į saugos ir atitikties > eDiscovery> Išplėstinis el. duomenų aptikimas 
-  - Žiūrėkite [šią](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) straipsnį
+- Eiti į saugos ir atitikties _ Gt_ eDiscovery> Išplėstinė eDiscovery 
+  - Peržiūrėkite [šį](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) straipsnį
 
-- Eikite į saugos ir atitikties > klasifikacijos > susilaikymas
+- Eiti į saugos ir atitikties _ Gt_ klasifikatoriai _ Gt_ saugojimas
   - Peržiūrėkite šiuos straipsnius
     - [Jautrumo etiketės](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Etiketės apžvalga](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Etikečių apžvalga](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>(B) palikimas eDiscovery politika
+## <a name="b-legacy-ediscovery-policies"></a>B) senstelėjusios įrangos eDiscovery strategijos
 
-- Žiūrėkite [šią](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) straipsnį
+- Peržiūrėkite [šį](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) straipsnį
 
-## <a name="c-site-closure-and-deletion-policies"></a>(C) svetainės uždarymo ir naikinimo strategijas
+## <a name="c-site-closure-and-deletion-policies"></a>C) svetainės uždarymo ir ištrynimo politika
 
-- Žiūrėkite [šią](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) straipsnį  
+- Peržiūrėkite [šį](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) straipsnį  
 
-## <a name="d-information-rights-management-irm"></a>(D) informacijos teisių valdymas (IRM)
+## <a name="d-information-rights-management-irm"></a>D) informacijos teisių valdymas (IRM)
 
 - Peržiūrėkite šiuos straipsnius
-  - [IRM sąrašas/biblioteką](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM sąraše/bibliotekoje](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [IRM apžvalga](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Mes primygtinai rekomenduojame, kad perkelti į saugumo ir atitikties politikos, jei jūs vis dar naudojate palikimas eDiscovery arba IRM arba svetainės uždarymo ir naikinimo strategijas.
+> Primygtinai rekomenduojame perkelti į saugos ir atitikties politiką, jei vis dar naudojate senstelėjusios įrangos eDiscovery arba IRM arba svetainės uždarymo ir naikinimo strategijas.

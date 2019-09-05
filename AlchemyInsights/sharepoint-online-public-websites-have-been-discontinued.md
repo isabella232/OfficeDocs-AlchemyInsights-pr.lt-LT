@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online visuomenės svetainės yra nebebus
-ms.author: kirks
+title: "\"SharePoint Online\" viešosios svetainės nebenaudojama"
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 1/2/2019
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534607"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750312"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online visuomenės svetainės buvo nutrauktas
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>"SharePoint Online" viešųjų svetainių buvo nutrauktas
 
-SharePoint Online visuomenės svetainės buvo nutrauktas.
+SharePoint Online viešųjų svetainių buvo nutrauktas.
 
-Jei sukūrėte SharePoint Online visuomenės svetainės, jums buvo suteikta galimybė toliau jį naudoti per 2018 m. kovo 31 d. Jei norite tęsti, turintys viešosios interneto svetainėje, jums reikia sukurti naują su naują paslaugų teikėją. Savo SharePoint Online visuomenės svetainės turinys buvo panaikintas.
+Jei sukūrėte SharePoint Online visuomenės svetainėje, jums pavyko ir toliau jį naudoti per kovo 31, 2018. Jei norite ir toliau turėti viešą svetainę, turite sukurti naują teikėją. Jūsų SharePoint Online visuomenės svetainėje turinys buvo panaikintas.
 
-Informacijos apie vartojimą viešoje interneto svetainėje, peržiūrėti [išsamią informaciją apie funkcija nutraukti procesą](https://go.microsoft.com/fwlink/?linkid=866980).
+Informacijos apie viešą svetainės nutraukimą ieškokite [išsamios informacijos apie funkcijos nutraukimo procesą](https://go.microsoft.com/fwlink/?linkid=866980).

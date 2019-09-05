@@ -1,5 +1,5 @@
 ---
-title: Administratoriaus vaidmenų ir kaip priskirti
+title: Administratoriaus vaidmuo ir kaip priskirti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493924"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737089"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Kas yra administratoriaus vaidmenys ir kaip jūs juos priskirti?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Kas yra administratoriaus vaidmenys ir kaip juos priskirti?
 
-Atrodo, kad jūs turite kai kuriuos klausimus apie administratoriaus vaidmenys. Šie straipsniai turėtų atsakyti į visus jūsų klausimus.
+Atrodo, kad turite keletą klausimų apie administratoriaus vaidmenis. Šie straipsniai turėtų atsakyti į visus jūsų klausimus.
   
-- [Apie "Office 365" administratoriaus vaidmenys](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Apie administratoriaus vaidmenis](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Priskirti administratoriaus vaidmenys](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Administratoriaus vaidmenų priskyrimas](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Atsakyti į jūsų klausimą? jokių problemų! Naudokite pasirinktį "Mes jums paskambinsime" pasikalbėti su aptarnaujančiu techniku.
+Neradote atsakymo į savo klausimą? jokių problemų! Pasinaudokite parinktimi "Leiskite mums paskambinti" ir pasikalbėkite su palaikymo inžinieriumi.
   

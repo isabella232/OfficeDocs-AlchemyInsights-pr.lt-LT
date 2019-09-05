@@ -1,6 +1,6 @@
 ---
-title: Sukurti svetainę, SharePoint Online
-ms.author: kirks
+title: Svetainės kūrimas SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515006"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755316"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Kurti SharePoint svetaines naudojant šablonus
+# <a name="create-sharepoint-sites-using-templates"></a>"SharePoint" svetainių kūrimas naudojant šablonus
 
-SharePoint svetainės šablonuose yra iš anksto įdėtus apibrėžtis, skirta apie konkretaus verslo poreikiams. Norėdami gauti daugiau informacijos, peržiūrėkite [naudojant šablonus kurti įvairių rūšių "SharePoint" svetaines](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint svetainių šablonai yra iš anksto sukurti apibrėžimai, skirti tam tikram verslo poreikiui. Daugiau informacijos rasite [šablonų naudojimas skirtingoms "SharePoint" svetainių rūšims kurti](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Čia yra kai kurių bendrų klausimų/sprendimų dėl taupymo svetainės ar sąrašo kaip šabloną Sharepoint Online. 
+Čia pateikiamos kelios Dažnos problemos/sprendimai dėl svetainės ar sąrašo įrašymo kaip "SharePoint Online" šablono. 
 
-**Išsaugoti sąraše tinklapis šabloną mygtuką nėra ar ji nėra**
+**Mygtukas įrašyti svetainės/sąrašo šabloną yra neprieinamas arba jo nėra**
 
-Administratoriai reikia leisti Custom scenarijų įgalinti šablono savybės. Išsamius veiksmus, rasite pavyzdžių ir aplinkybes 
+Administratoriams reikės leisti pasirinktinį scenarijų, kad įgalintumėte šablono funkcijas. Išsamius veiksmus, pavyzdžius ir svarstymus žr. 
 
-- [Leisti arba neleisti pasirinktinį scenarijų](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Leisti arba neleisti pasirinktinio scenarijaus](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Įrašyti svetainę kaip šabloną komandą nepalaikomas ir gali kilti problemų dėl svetainių, kurios naudoja SharePoint serverio publikavimo infrastruktūra.
+- Komanda įrašyti svetainę kaip šabloną nepalaikoma ir gali sukelti problemų svetainėse, kurios naudoja SharePoint serverio publikavimo infrastruktūrą.
 
-**Svetainės šablonas negali būti sukurta ar veikia netinkamai**
+**Neįmanoma sukurti svetainės šablono arba tinkamai neveikti**
 
-Šablonas gali trūkti [funkciją](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ir nebus aktyvinta. Jei funkcija nėra įjungti į dabartinio svetainių rinkinio, svetainės šabloną negalite sukurti svetainę.
+Šablone gali trūkti [funkcijos](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ir jos neaktyvinti. Jei šios funkcijos negalima aktyvinti dabartiniame svetainių rinkinyje, svetainės šablono negalite naudoti kurdami svetainę.
 
-- Patikrinkite, jei jokių sąrašų arba bibliotekų viršija [Sąrašo rodinio slenkstį limitas](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) yra 5000 elementų, kaip tai gali blokuoti svetainės šabloną sukurti.
+- Patikrinkite, ar sąrašai ir bibliotekos viršija 5000 elementų [sąrašo rodinio ribinę vertę](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) , nes tai gali blokuoti svetainės šablono kūrimą.
 
-- Svetainės gali naudoti per daug išteklių, ir todėl svetainės šabloną viršija 50 MB limito.
+- Svetainė gali naudoti per daug išteklių, todėl svetainės šablonas viršija 50 MB limitą.
 
 
-- Yra problemų Rodyti duomenis iš sąrašo, kuris naudoja peržvalgos stulpelio. Daugiau informacijos ieškokite [sąrašo šabloną sukurtas nerodo duomenų teisingą peržvalgos sąrašo SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Yra problemų rodant duomenis iš sąrašo, kuris naudoja peržvalgos stulpelį. Daugiau informacijos ieškokite [šablono sugeneruotas sąraše nerodo duomenis iš tinkamą peržvalgos sąrašą SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Išsamesnė informacija apie bendrosios problemos ir jų sprendimai, prašome patikrinti [svetainių šablonų kūrimas ir naudojimas](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Norėdami gauti išsamesnės informacijos apie bendrąsias problemas ir sprendimus, patikrinkite [kurti ir naudoti svetainės šablonus](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

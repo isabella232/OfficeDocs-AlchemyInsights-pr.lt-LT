@@ -1,5 +1,5 @@
 ---
-title: Atkurti ištrintus "Yammer" grupę
+title: Panaikintos "Yammer" grupės atkūrimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753260"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745153"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Atkurti ištrintus "Yammer" grupę
+# <a name="restore-a-deleted-yammer-group"></a>Panaikintos "Yammer" grupės atkūrimas
 
-["Office 365" prijungtas grupių "Yammer"](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) gali būti atkurta per 30 dienų nuo ištrynimo atlikdami nurodytus veiksmus norėdami [atkurti ištrintus Office 365 grupė](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
-Kai kuriais atvejais "Yammer" grupę negali būti prijungtas prie "Office 365" grupės. Jei tai yra atveju, neįmanoma automatiškai atkurti grupę, tačiau galima pasiekti ištrintus duomenis, "Yammer" [duomenų eksportas](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) , jei tinklo [duomenų saugojimo strategija](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) yra *Minkštas naikinti*. Teiraukitės [Administratoriaus patikrinti](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) , "Yammer" tinkle patikrinti duomenų saugojimo strategija arba atlikti duomenų eksportas.
+[Office 365 prijungtas grupes "Yammer"](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) gali būti atkurta per 30 dienų nuo ištrynimo atlikdami veiksmus, Norėdami [atkurti panaikintą Office 365 grupę](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+Kai kuriais atvejais "Yammer" grupė gali būti neprijungta prie "Office 365" grupės. Tokiu atveju neįmanoma automatiškai atkurti grupės, tačiau gali būti įmanoma pasiekti panaikintus duomenis "Yammer" [duomenų eksportavimui](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) , jei tinklo [duomenų saugojimo strategija](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) yra nustatyta kaip *minkštas naikinimas*. Norėdami patikrinti duomenų saugojimo strategiją arba atlikti duomenų eksportavimą, susisiekite su patikrintu "Yammer" tinklo [administratoriumi](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) .

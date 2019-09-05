@@ -1,5 +1,5 @@
 ---
-title: Padidinti dėžutės dydis Enterprise SKU
+title: Padidinkite įmonės SKU pašto dėžutės dydį
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499431"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739285"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ką daryti, jei jūsų pašto dėžutės dydis yra jau 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ką daryti, jei jūsų pašto dėžutės dydis jau 100GB
 
-Su E3 "arba" E5 planas, jūsų pašto dėžutės dydis yra jau 100 GB ir yra ne taip, kaip jį padidinti. Vietoj to, panaikinti seną elektroninio pašto adresą, arba įjungti el. pašto archyvavimas laikyti debesyje. 
+Naudojant E3 arba E5 planą jūsų pašto dėžutės dydis jau yra 100 GB ir nėra jokio būdo jį padidinti. Vietoj to, panaikinkite seną el. laišką arba įjunkite el. pašto archyvavimą, kad galėtumėte saugoti debesyje. 
   
-Jei norite įgalinti el. pašto archyvavimas:
+Jei norite įgalinti el. pašto archyvavimą:
   
-1. "Microsoft" 365 administravimo centro, eikite į **Admin centrų** \> **mainai**. 
+1. Microsoft 365 administravimo centro, eikite į **administravimo centrai** \> **birža**. 
     
-2. Pasirinkti **gavėjus** \> **pašto dėžutes**ir pasirinkite pašto dėžutę. 
+2. Pasirinkite **gavėjų** \> **pašto dėžutes**ir pasirinkite pašto dėžutę. 
     
-3. Išsamios informacijos srityje pagal **Archyvą vietoje**, pasirinkite **įjungti**. 
+3. Išsamios informacijos srityje, esančioje **archyve vietoje**, pasirinkite **įgalinti**. 
     
-4. Po kelių minučių, naujas aplankas pasirodys jūsų vartotojo "Outlook" internete pavadinti *Archyvą vietoje* arba "Outlook" app vadinamas *interneto Archyvas - \<pavadinimas\> * . Jūsų vartotojo galite vilkite ir upuść elektroninio pašto archyvą. 
+4. Po kelių minučių, naujas aplankas bus rodomas jūsų vartotojo "Outlook" žiniatinklyje vadinamas *vietoje archyvą* , arba "Outlook" programą, vadinamą *interneto \<Archyvas-pavadinimas\> * . Vartotojas gali nuvilkti el. laiškus į archyvą. 
     
-Jūs galite naudotis neribotą saugojimo, archyvavimo. Norėdami sužinoti daugiau, peržiūrėkite [įgalinti neribotą archyvavimą](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Galite pasiekti neribotą saugyklos kiekį archyvavimui. Norėdami sužinoti daugiau, žiūrėkite [įgalinti neribotą archyvavimą](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

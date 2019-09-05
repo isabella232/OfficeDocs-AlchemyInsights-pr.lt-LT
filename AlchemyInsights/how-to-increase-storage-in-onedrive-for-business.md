@@ -1,6 +1,6 @@
 ---
-title: Kaip padidinti saugojimas "OneDrive" verslui
-ms.author: kirks
+title: Kaip padidinti saugyklos "OneDrive" verslui
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540729"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755820"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kaip padidinti saugojimas "OneDrive" verslui
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kaip padidinti saugyklos "OneDrive" verslui
 
-Jei norite pakeisti numatytąjį saugykla, skirta naujiems ir esamiems "OneDrive" vartotojams:
+Norėdami pakeisti numatytąją saugyklą naujiems ir esamiems "OneDrive" vartotojams:
   
-- Eikite į ["OneDrive" administravimo centro puslapį saugojimo](https://admin.onedrive.com/?v=StorageSettings), ir tada įveskite naują sumą į GB.
+- Eikite į ["OneDrive" administravimo centro saugyklos puslapį](https://admin.onedrive.com/?v=StorageSettings)ir įveskite naują sumą GB.
     
-Ši saugojimo vietos nustatymas taikomas visiems vartotojams, kuriems nenustatėte konkrečios vietos. Jei norite pakeisti saugyklos vietos konkretiems vartotojams, turite naudoti Microsoft PowerShell. Informacijos, kaip tai padaryti, rasite [keisti jūsų vartotojai "OneDrive" saugyklos vietos naudodami "PowerShell"](https://go.microsoft.com/fwlink/?linkid=866402). 
+Ši saugojimo vietos nuostata taikoma visiems vartotojams, kuriems nenustatėte konkrečių saugyklos apribojimų. Norėdami pakeisti tam tikrų vartotojų saugojimo vietą, turite naudoti "Microsoft PowerShell". Informacijos, kaip tai padaryti, ieškokite [vartotojų "OneDrive" saugyklos vietos keitimas naudojant "PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)". 
   
- **Pastaba**: atrodo, kad jūs neturite planą, kuriame būtų neriboto dydžio saugykla. Informacijos saugojimo, kuris pateikiamas kartu su kiekvieno plano, ieškokite ["OneDrive" verslui paslaugų Aprašymas](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **Pastaba**: atrodo, kad jūs neturite planą, kuris apima neribotą saugojimo. Informacijos apie saugyklą, kuri pateikiama su kiekvienu planu, ieškokite ["OneDrive" verslui tarnybos aprašas](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Norėdami padidinti jūsų "OneDrive" verslui saugykla, pasirinkite "Office 365" planą, kuriame yra **"OneDrive" verslui planą 2** arba **Office 365 Enterprise E3**. 
+Norėdami padidinti saugyklą "OneDrive" verslui, pasirinkite "Office 365" planą, kuriame yra **"OneDrive" verslui 2 planas arba "** **Office 365 Enterprise E3**". 
   
-Norėdami pakeisti planus, į "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> **prenumerata**, ir tada pasirinkite **Perjungti planus.**
+Norėdami keisti planus, Microsoft 365 administravimo centras, eikite į **atsiskaitymo** \> **prenumeratos**, ir tada pasirinkite **Perjungti planus.**
   
-Daugiau informacijos apie perjungimo planų ir "OneDrive" verslui saugykla, ieškokite [pereiti prie skirtingų "Office 365" verslui skirtą planą](https://go.microsoft.com/fwlink/?LinkId=2031117) ir ["OneDrive" verslui paslaugų Aprašymas](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Jei norite gauti daugiau informacijos apie planus ir "OneDrive" verslui saugyklos, peržiūrėkite [Perjungti į kitą Office 365 verslo planą](https://go.microsoft.com/fwlink/?LinkId=2031117) ir ["OneDrive" verslui tarnybos aprašas](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 

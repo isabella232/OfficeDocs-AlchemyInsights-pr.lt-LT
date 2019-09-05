@@ -1,5 +1,5 @@
 ---
-title: Išorinis vartotojas yra neįmanoma pasiekti SharePoint Online
+title: Išorinis vartotojas negali pasiekti turinio SharePoint Online
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503931"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744109"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Išorinis vartotojas yra neįmanoma pasiekti SharePoint Online
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Išorinis vartotojas negali pasiekti turinio SharePoint Online
 
-Jeigu išorinis vartotojas buvo pakviestas ir negali prieiti prie turinio, prašome pabandykite apsilankyti žemiau esančią nuorodą.
+Jei išorinis naudotojas buvo pakviestas ir negali pasiekti turinio, bandykite apsilankyti toliau pateiktuose saituose.
 
-- [Klaidos pranešimas, kai išorinis vartotojas priima SharePoint Online pakvietimą naudodami kitą abonementą](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Klaidos pranešimas, kai išorinis vartotojas priima SharePoint Online kvietimą naudodami kitą abonementą](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Uždrausta prieiga prie bendrai naudojamo aplanko](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Uždrausta prieiga prie bendrai naudojamo aplanko](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE, dalijimosi klaidų Sharepoint ir "OneDrive"](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Bendro naudojimo klaidos "SharePoint" ir "OneDrive"](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

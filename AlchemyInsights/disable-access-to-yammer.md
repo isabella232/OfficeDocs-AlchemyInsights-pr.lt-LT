@@ -1,5 +1,5 @@
 ---
-title: Panaikinti prieigą prie "Yammer"
+title: Uždrausti prieigą prie "Yammer"
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 50f10f68670ca7fd68a771405f07f3bea4220ff4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512871"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740365"
 ---
-# <a name="disable-access-to-yammer"></a>Panaikinti prieigą prie "Yammer"
+# <a name="disable-access-to-yammer"></a>Išjungti prieigą prie "Yammer"
 
-Sprendimas apriboti prieigą prie "Yammer" yra blokuoti ir visų jų priskyrimą pašalinti "Yammer" licencijos "Office 365" vartotojams. Prašome kreiptis į šį straipsnį daugiau informacijos.
+Sprendimas išjungti "Yammer" prieigą yra blokuoti ir nepriskirti "Yammer" licencijų, skirtų "Office 365" vartotojams. Daugiau informacijos rasite šiame straipsnyje.
   
-- ["Yammer" pasiekti "Office 365" vartotojams išjungti](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
+- [Išjunkite "Yammer" prieigą, skirtą "Office 365" vartotojams](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

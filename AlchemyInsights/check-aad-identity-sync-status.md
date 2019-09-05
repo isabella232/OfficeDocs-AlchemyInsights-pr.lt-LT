@@ -1,5 +1,5 @@
 ---
-title: Patikrinkite AAD tapatybės sinchronizavimo būsena
+title: Patikrinti AAD tapatybės sinchronizavimo būseną
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520567"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738529"
 ---
-# <a name="check-aad-identity-sync-status"></a>Jeigu asmens tapatybės sinchronizavimas būsenos tikrinimas
+# <a name="check-aad-identity-sync-status"></a>Patikrinti AAD tapatybės sinchronizavimo būseną
 
-Lengva patikrinti sinchronizavimo būseną:
+Tikrinti sinchronizavimo būseną paprasta:
   
-- Prisijunkite prie "Microsoft" 365 administravimo centro ir pasirinkti **DirSync būseną** pagrindiniame puslapyje.
+- Prisijunkite prie "Microsoft" 365 administravimo centro ir pagrindiniame puslapyje pasirinkite **DirSync būsena** .
 
-- Taip pat galite eiti į vartotojų \> aktyvių vartotojų, ir puslapyje aktyvūs vartotojai pasirinkite daugiau \> katalogų sinchronizavimą.
+- Taip pat galite pereiti į vartotojai \> aktyvūs vartotojai, ir aktyvių vartotojų puslapyje, pasirinkite daugiau \> katalogų sinchronizavimas.
 
-- Katalogų sinchronizavimo sritį, pasirinkite Svarbþs DirSync valdymo.
+- Katalogų sinchronizavimo srityje pasirinkite eiti į DirSync valdymas.
 
-Jei yra problemų su jūsų katalogų sinchronizavimą, klaidų yra išvardyti šiame puslapyje. Daugiau informacijos apie įvairių klaidų gali kilti, ieškokite [nustatyti katalogų sinchronizavimo klaidas "Office 365"](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Jei iškilo problemų dėl katalogų sinchronizavimo, šiame puslapyje pateikiamos klaidos. Daugiau informacijos apie įvairias klaidas, su kuriomis galite susidurti, ieškokite [Office 365 Peržiūrėti katalogų sinchronizavimo klaidas](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online ir "OneDrive" "Nustatymas"
-ms.author: kirks
+title: "\"SharePoint Online\" arba \"OneDrive\" nustatymas"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: df0f6903a504d2fe6e988277e254b7e03910eeb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed1a0a6988cf044a4d1426c9a2c230de3d0636c6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559815"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750348"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ir "OneDrive" "Nustatymo"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>"SharePoint Online" arba "OneDrive" nustatymas
 
-Kai vartotojas įtraukiamas į esamus Office 365 nuomotojo, jie gali matyti SharePoint Online ir "OneDrive" verslo piktogramas, rodomas kaip "Sukurti", kol parengimo procesas nėra užbaigtas.
+Kai vartotojas yra įtraukta į esamą Office 365 nuomotojo, jie gali matyti SharePoint Online arba "OneDrive" verslui piktogramos rodomas kaip "nustatymas" kol parengimo procesas bus baigtas.
   
-Jei daugiau nei 24 valandų praėjo nuo pirmą kartą pamačiau šią problemą, prašome prisijungti palaikymo bylą. Daugeliu atvejų, mes jau dirbame išeitį. Nurodykite bent 24 valandas atlikti sprendimą.
+Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą pamačiau šią problemą, prašome prisijungti palaikymo atvejį. Daugeliu atvejų jau dirbame su sprendimu. Prašome pateikti mums bent 24 valandas, kad užbaigtumėte sprendimą.
   
 

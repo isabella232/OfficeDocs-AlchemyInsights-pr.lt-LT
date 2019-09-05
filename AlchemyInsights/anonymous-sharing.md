@@ -1,6 +1,6 @@
 ---
-title: Anoniminis dalintis
-ms.author: kirks
+title: Anoniminis bendrinimas
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512467"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747836"
 ---
-# <a name="anonymous-sharing"></a>Anoniminis dalintis
+# <a name="anonymous-sharing"></a>Anoniminis bendrinimas
 
  **Anoniminės prieigos įgalinimas**
   
-Nauja SharePoint administravimo centro, spustelėkite **bendrinimas** kairiojoje srityje. 
+Naujajame "SharePoint" administravimo centre kairiojoje srityje spustelėkite **bendrinimas** . 
   
-- Pasirinkite vien± i¹ ¹iù: **leisti keistis patvirtintas išoriniams vartotojams ir naudojant anoniminę prieigą.**
+- Pažymėkite šį: **Leisti bendrai naudoti autentifikuotus išorinius vartotojus ir naudotis anonimine prieiga.**
   
-(Pasirinktinai, galite nustatyti nuorodas į galioti tam tikrą dienų skaičių, ir pasirinkite, kaip gavėjai gali naudoti nuorodas.)
+(Pasirinktinai galite nustatyti, kad nuorodos pasibaigtų tam tikrų dienų skaičiumi, ir pasirinkti, kaip gavėjai gali naudoti saitus.)
     
- **Bendrinti failą ar aplanką anonimiškai**
+ **Failo arba aplanko bendrinimas anonimiškai**
   
 - Pasirinkite failą arba aplanką, kurį norite bendrinti, o tada spustelėkite **bendrinti**. 
     
-- Kas norėtų šią nuorodą į darbą? spustelėkite **visiems.**
+- Kam norėtumėte gauti šią nuorodą į darbą? spustelėkite **bet kas.**
   
- **Pastaba**: **kiekvienas** sukuria nuorodą, kad kiekvienas gali naudoti norėdami pasiekti dokumentą arba aplanką, net jei jie nėra esate prisijungę prie "Office 365" arba "OneDrive". Naudoti norėdami bendrinti su visais, ar už jos ribų jūsų įmonės. Šią nuorodą taip pat gali būti persiunčiami aplink visiems. 
+ **Pastaba**: **kiekvienas** sukuria saitą, kad kiekvienas gali naudoti prieiti prie dokumento ar aplanko, net jei jie nėra prisijungęs prie Office 365 arba OneDrive. Naudokite tai, jei norite bendrinti su bet kuo, savo įmonės viduje arba už jos ribų. Ši nuoroda taip pat gali būti perduodama aplink niekam. 
     
 

@@ -1,5 +1,5 @@
 ---
-title: Probl. sprendimo nustatymas srautas - valdymas Stream licencijavimo
+title: Srauto trikčių šalinimo sąranka – Stream licencijavimo valdymas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559201"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742633"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>"Microsoft" Stream licencijų valdymas
+# <a name="managing-microsoft-stream-licenses"></a>"Microsoft Stream" licencijų tvarkymas
 
-**Svarbu:** Jūs turite būti nuomininkas administratoriaus funkcijas atlikti operacijas šioje temoje aprašytų.
+**Svarbu:** Jūs turite būti nuomininkas administratorius vaidmenį atlikti veiksmus, aprašytus šioje temoje.
 
-Jūs turite būti Globalus administratorius arba vartotojas valdymo admin. Daugiau informacijos rasite [apie "Office 365" administravimo funkcijas](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Jūs turite būti arba visuotinis administratorius arba vartotojo valdymo administratorius. Daugiau informacijos rasite [apie administratoriaus vaidmenis](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Galite priskirti [licencijas į vartotojų abonementus su "PowerShell" Office 365 "](https://go.microsoft.com/fwlink/p/?linkid=850410).
+["Office 365 PowerShell" galite priskirti licencijas vartotojų abonementams](https://go.microsoft.com/fwlink/p/?linkid=850410).

@@ -1,5 +1,5 @@
 ---
-title: Keisti bendrai naudojamą pašto dėžutę siųsti kaip elgesio
+title: Bendrinamų pašto dėžučių keitimas kaip veikimo būdo siuntimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 4d21e638f55bfdd100f5f8a6cf0b48fafe88f76e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520711"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738565"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Keisti bendrai naudojamą pašto dėžutę siųsti kaip elgesio
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Bendrinamų pašto dėžučių keitimas kaip veikimo būdo siuntimas
 
-Pagal numatytuosius nustatymus iš bendrai naudojamos pašto dėžutės išsiųstuose pranešimuose nebus įrašyti į aplanką Išsiųsta iš bendrai naudojamos pašto dėžutės. Vietoj to, jie įrašomi asmens, kuris atsiuntė pranešimą aplanke Išsiųsta.
+Pagal numatytuosius nustatymus iš bendrai naudojamos pašto dėžutės siunčiami pranešimai neįrašomi į bendrai naudojamos pašto dėžutės aplanką Išsiųsta. Vietoj to, jie įrašomi į aplanką Išsiųsta asmens, kuris atsiuntė pranešimą.
   
-Jei norite visiems nariams matyti išsiųsta el. pašto, "Microsoft" 365 administravimo centro, redaguoti bendrai naudojamos pašto dėžutės duomenis, ir pasirinkite **I¹siùstieji, pasirinkite** \> **Redaguoti**.
+Jei norite, kad visi nariai galėtų matyti išsiųstą el. laišką, "Microsoft" 365 administravimo centre redaguokite bendrinamą pašto dėžutės informaciją ir pasirinkite **išsiųsti elementai** \> **Redaguoti**.
   
-Daugiau informacijos rasite [sukurti bendrai naudojamą pašto dėžutę](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).
+Jei norite paskaityti daugiau, peržiūrėkite [bendrai naudojamos pašto dėžutės kūrimas](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   

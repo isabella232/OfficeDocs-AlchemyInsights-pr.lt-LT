@@ -1,5 +1,5 @@
 ---
-title: Perkelti pašto dėžutes tarp dviejų skirtingų nuomininkų
+title: Pašto dėžučių perkėlimas tarp dviejų skirtingų nuomininkų
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544655"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734461"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Perkelti pašto dėžutes tarp dviejų skirtingų nuomininkų
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Pašto dėžučių perkėlimas tarp dviejų skirtingų nuomininkų
 
-Gali tekti perkelti pašto dėžutes tarp dviejų skirtingų nuomininkų "Office 365", pvz., kai yra organizacijos susijungimus. Šie perkėlimai turėtų būti kruopščiai suplanuota. Žiūrėkite šiuos nurodymus:
+Gali reikėti perkelti pašto dėžutes tarp dviejų skirtingų nuomininkų Office 365, pvz., kai yra organizacijos susijungimai. Šie perkėlimai turi būti kruopščiai suplanuoti. Žiūrėkite šias rekomendacijas:
   
-[Kaip perkelti pašto dėžutes iš vienos Office 365 nuomotojo į kitą](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Kaip perkelti pašto dėžutes iš vieno Office 365 nuomotojo į kitą](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

@@ -1,32 +1,32 @@
 ---
 title: Šalinti triktis klaida 404, Failas nerastas
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507279"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749016"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Šalinti triktis klaida 404, Failas nerastas
 
-Klaida 404 gaunamas, kai vartotojai bando pasiekti svetainę arba failą į SharePoint arba "OneDrive". Tai dažnai sukelia svetainę arba failą arba grupės gauti pervadintas, perkeltas arba panaikintas. Pvz.: vartotojai patirs 404 klaida bandant prieiti prie šakninio svetainių rinkinio ir ji buvo panaikinta.
+Klaida 404 gaunama, kai vartotojai bando prieiti prie svetainės arba failo SharePoint arba OneDrive. Tai dažnai sukelia svetainės ar failo ar grupės gauti pervardytas, perkeltas arba panaikintas. Pavyzdžiui: vartotojai patirs 404 klaida bandant prieiti prie šakninio svetainių rinkinio ir jis buvo panaikintas.
 
-Norėdami išspręsti klaida 404 svetainės, kurios buvo pervadintas, perkeltas arba panaikintas:
+Norėdami išspręsti svetainę, kuri buvo pervardyta, perkelta arba panaikinta klaida 404:
 
-Klasikiniai svetaines, kurios yra klasikinis administravimo centrą, ieškokite [atkurti panaikintą svetainių rinkinį](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Klasikinių svetainių, kurios egzistuoja klasikinis administravimo centras, ieškokite [panaikintų svetainių rinkinio atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 
-Modernus svetaines (komunikacijos, grupės prisijungę, ar kitas svetaines), į naują SharePoint administravimo centro, rasite [Peržiūrėti ir atkurti ištrintas svetainės naują SharePoint administravimo centro](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Šiuolaikinės svetainės (ryšių, grupės prijungtas, ar kitų svetainių), kurie yra naujas SharePoint administravimo centras, ieškokite [Peržiūrėti ir atkurti panaikintus svetainių naują SharePoint administravimo centras](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Norėdami išspręsti klaida 404 rinkmenos (ar kitų elementų), kuris buvo pervardytas, perkeltas arba panaikintas:
+Norėdami išspręsti klaidos 404 failą (ar kitą elementą), kuris buvo pervardytas, perkeltas arba panaikintas:
 
-Eikite į svetainę, SharePoint arba "OneDrive" ir peržiūrėti šiukšlinės iš svetainės turinį. Žr., [atkurti elementus iš SharePoint svetainės šiukšlinę](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Eikite į "SharePoint" arba "OneDrive" svetainę ir iš svetainės turinio Peržiūrėkite šiukšlinę. Peržiūrėti, [atkurti elementus šiukšlinės SharePoint svetainėje](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Jei vis tiek negalite rasti elemento galite ieškoti audito žurnale, jeigu įėjimas yra įjungtas matote, [Ieškoti audito prisijungti "Office 365" sauga & atitikties užtikrinimo centre](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Jei vis tiek negalite rasti elemento, galite ieškoti audito žurnale, jei registravimas įgalintas matyti, [ieškokite audito žurnale Office 365 saugos _ ' _ atitikties centras](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

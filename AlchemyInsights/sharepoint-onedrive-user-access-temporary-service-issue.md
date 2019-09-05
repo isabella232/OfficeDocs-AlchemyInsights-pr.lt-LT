@@ -1,6 +1,6 @@
 ---
-title: Veiklos klausimais-SharePoint arba "OneDrive"
-ms.author: kirks
+title: Našumo problemos – "SharePoint" arba "OneDrive"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535183"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750564"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint arba "OneDrive" lėtai, neprieinamas ar nepasiekiamas keliems vartotojams
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>"SharePoint" arba "OneDrive" lėtas, nepasiekiamas arba nepasiekiamas keliems vartotojams
 
-Jei "OneDrive" arba SharePoint svetainėje nėra keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikinai skundams. [Patikrinkite tarnybų sveikatos stebėjimo skydas](https://portal.office.com/adminportal/home#/servicehealth).
+Jei "OneDrive" arba "SharePoint" svetainė nėra prieinama keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikinas tarnybos problema. [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Pridėti ir licencijos vartotojas**
+**Pridėti ir licencijuoti vartotoją**
 
-Užtikrinti, kad jums [priskirti licencijas vartotojams "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Įsitikinkite, kad jums [priskirti licencijas vartotojams Office 365 verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
-**Priskirti teises**
+**Teisių priskyrimas**
 
-Jei vartotojui buvo priskirtas Sharepoint licenciją ir vis dar gauna kad prieiga uždrausta pranešimą, prašome užtikrinti, jie turi priskirtą [atitinkamą teisių lygį](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+Jei vartotojui buvo priskirta "SharePoint" licencija ir vis dar gauna prieigą uždrausta pranešimą, įsitikinkite, kad jie turi [atitinkamą teisių lygį](https://docs.microsoft.com/sharepoint/understanding-permission-levels) priskirtas.
 
-**Apsvarstykite galimybę naudoti prieigos prašymo funkcija**
+**Apsvarstykite galimybę naudoti prieigos užklausos funkciją**
 
-[Prieigos prašymo funkcija](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) suteikia žmonėms galimybę prašyti prieigos prie turinio, kuris šiuo metu neturi teisės peržiūrėti.
+[Prieigos užklausos funkcija](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) leidžia žmonėms prašyti prieigos prie turinio, kurio šiuo metu neturi teisės matyti.
 
 **Leisti pasirinktinį scenarijų gali sukelti prieiga uždrausta problemos**
 
-Šiuo metu tam tikrų scenarijų, kai funkciją *leisti pasirinktinį scenarijų* gali pristatyti kad prieiga uždrausta. Funkcijos, paveikiamos sąrašą, saugumo sumetimais ir išjungti funkciją. Prašome apsilankyti [leisti arba neleisti pasirinktinį scenarijų](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Yra tam tikrų scenarijų, kai *leisti pasirinktinį scenarijų* funkcija gali pateikti prieigos uždrausta. Paveiktų funkcijų sąrašas, saugos sumetimai ir galimybė išjungti funkciją. Apsilankykite [leisti arba neleisti pasirinktinio scenarijaus](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

@@ -1,5 +1,5 @@
 ---
-title: Pakeisti atsiskaitymo pranešimo alternatyvų el. pašto adresą
+title: Pakeiskite pranešimo apie atsiskaitymą alternatyvų el. pašto adresą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520999"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738745"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Pakeisti atsiskaitymo pranešimo alternatyvų el. pašto adresą
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Pakeiskite pranešimo apie atsiskaitymą alternatyvų el. pašto adresą
 
-Lengva keisti atsiskaitymo pranešimo alternatyvų el. pašto adresą. Tiesiog atlikite šiuos veiksmus:
+Pakeisti alternatyvų el. pašto adresą atsiskaitymo pranešimui yra paprasta. Tiesiog atlikite šiuos veiksmus:
   
-1. "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [Pranešimų atsiskaitymo](https://go.microsoft.com/fwlink/p/?linkid=853212) puslapį.  
+1. "Microsoft" 365 administravimo centre eikite į puslapį **atsiskaitymo** \> [atsiskaitymo pranešimai](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
 
 2. Pasirinkite vardą iš sąrašo.
 
@@ -32,5 +32,5 @@ Lengva keisti atsiskaitymo pranešimo alternatyvų el. pašto adresą. Tiesiog a
 
 4. Pasirinkite **įrašyti** ir viskas!
 
-Daugiau informacijos ir veiksmus su ekrano nuotraukų, rasite [keisti atsiskaitymo adresus "Office 365"](https://support.office.com/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+Daugiau informacijos ir veiksmų su ekrano momentu ieškokite ["Office 365" atsiskaitymo adresų keitimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

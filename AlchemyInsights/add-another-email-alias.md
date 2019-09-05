@@ -1,5 +1,5 @@
 ---
-title: Pridėti kitą el. pašto pseudonimas
+title: Pridėti kitą el. pašto pseudonimą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495111"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737341"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Sukurti arba pridėti vartotojo el. pašto pseudonimas
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Kurti arba pridėti vartotojo el. pašto pseudonimą
 
-Reikia sukurti vartotojo el. pašto pseudonimas, arba pridėti papildomą el. pašto adresą? Tiesiog atlikite šiuos veiksmus!
+Reikia sukurti vartotojo el. pašto pseudonimą arba pridėti papildomą el. pašto adresą? Tiesiog atlikite šiuos veiksmus!
   
-1. "Microsoft" 365 administravimo centro, eikite į puslapį, [vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) , arba pasirinkti **vartotojai** \> **Aktyvių vartotojų**.
+1. "Microsoft" 365 administravimo centre eikite į puslapį [vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) arba pasirinkite **vartotojus** \> **aktyvius**vartotojus.
     
-2. Puslapyje **Aktyvūs vartotojai** pasirinkite vardą asmens, kurį norite redaguoti. 
+2. Puslapyje **aktyvūs vartotojai** pasirinkite norimo redaguoti asmens vardą. 
     
-3. Dešinėje, į į **vartotojo vardas / el slapyvardžiai** eilutės, pasirinkite **Redaguoti**.
+3. Dešinėje, **vartotojo vardas/el. pašto slapyvardžiai** eilutę, pasirinkite **Redaguoti**.
     
-4. Lauke **pseudonimas** įveskite naują el. laišką, tada pasirinkite **pridėti**. Jei prenumeratą įsigijote iš GoDaddy arba kito partnerio, nustatyti naujas alias kaip pirminė, jūs turite eiti į GoDaddy arba partnerių valdymo konsolę. 
+4. Lauke **pseudonimas** įveskite naują el. laišką, tada pasirinkite **įtraukti**. Jei įsigijote savo prenumeratą iš GoDaddy ar kitą partnerį, nustatyti naują pseudonimą, kaip pagrindinis, turite eiti į GoDaddy/partnerių valdymo konsolę. 
     
-    **Svarbu**: Jei gaunate klaidos pranešimą " **parametras nerastas, atitinkančią parametro pavadinimas" EmailAddresses**"tai reiškia, kad tai trunka šiek tiek ilgiau" Office 365 ", kad baigtumėte konfigūruoti savo nuomotojo ar savo pasirinktinį domeną, jei jį neseniai pridėjote . Sąrankos procesas gali užtrukti iki 4 valandų. Palaukite, todėl nustatymo procesą turi laiko baigti, ir tada bandykite dar kartą. Jei problema išlieka, kreiptis į palaikymo tarnybą ir jie bus padaryti visą sinchronizavimo jums.
+    **Svarbu**: Jei gaunate klaidos pranešimą " **parametras negali būti nustatyta, kad sutampa parametro pavadinimas" emailaddresses**"tai reiškia, kad jis šiek tiek ilgiau Office 365 baigti nustatyti savo nuomotojo arba savo pasirinktinį domeną, jei neseniai pridėjote vieną . Sąrankos procesas gali užtrukti iki 4 valandų. Palaukite, kol bus nustatyta proceso trukmė, tada bandykite dar kartą. Jei problema išlieka, skambinkite palaikymo ir jie atliks visą sinchronizavimo už jus.
     
-    Ji paprastai trunka apie 30 minučių, kad įsigaliotų naują pseudonimą.
+    Tai paprastai užtrunka apie 30 minučių, kad įsigaliotų naujas pseudonimas.
     
-    **Gauti daugiau informacijos, skaitykite šį straipsnį:** [Pridėti papildomą el. pašto pseudonimus vartotojui](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Daugiau informacijos rasite šiame straipsnyje:** [Pridėti kitą el. pašto pseudonimą vartotojui](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

@@ -1,5 +1,5 @@
 ---
-title: Nustatyti el. pašto peradresavimas
+title: El. pašto peradresavimo nustatymas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3d7b246c7b1463f02e5386207fcb5a3a1d14811e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f3763840185e03b3a75ca2adc33cb685d6236738
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666236"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741157"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Patikrinkite el. pašto peradresavimo parametrus pašto dėžutės
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>El. pašto dėžutės peradresavimo parametrų tikrinimas
 
-Tai lengva patikrinti el. pašto peradresavimo parametrus su "Office 365" pašto dėžutės. Tiesiog atlikite šiuos veiksmus.
+"Office 365" pašto dėžutėje lengva patikrinti el. pašto peradresavimo parametrus. Tiesiog atlikite šiuos veiksmus.
   
-> Jei vartotojo pašto dėžutės, eikite į **vartotojai** \> **aktyvių vartotojų** ir pasirinkite vartotojo kurie turi persiunčiamo pašto dėžutės. Dėl to **paštas** skirtukas, pasirinkite **tvarkyti emaill peradresavimą**.
+> Jei tai vartotojo pašto dėžutė, eikite į **vartotojų** \> **aktyvūs vartotojai** ir pasirinkite vartotoją, kuris yra pašto dėžutė, kurią persiunčiate. Skirtuke **paštas** pasirinkite **tvarkyti emaill peradresavimą**.
     
-> Jei tai yra bendrai naudojamos pašto dėžutės, eikite į **grupės** \> **bendrinamos pašto dėžutės** ir pasirinkite persiunčiamo bendrai naudojamos pašto dėžutės. Pasirinkite **Redaguoti** el. pašto peradresavimas.
+> Jei tai yra bendrai naudojama pašto dėžutė, eikite į **grupes** \> **bendrai naudojamos pašto** dėžutės ir pasirinkite bendrai naudojamą pašto dėžutę, kurią persiunčiate. Pasirinkite **Redaguoti** el. pašto peradresavimą.
 
-Jūs naudojate seną administravimo centrą? Senas veiksmus, arba Norėdami gauti daugiau informacijos, ieškokite [konfigūravimas siųsti į "Office 365"](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
+Ar naudojate seną administravimo centrą? Senesnius veiksmus, arba daugiau informacijos, ieškokite [konfigūruoti el. pašto peradresavimas Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
   
-Siųsti instrukcijas savo vartotojus, kad jie galite nustatyti el. pašto peradresavimo funkciją savo pašto dėžutes, perkelkite juos persiųsti [el. paštą į kitą el. pašto abonementą "Office 365"](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Atkreipkite dėmesį, kad jums gali pateikti tik vieną el. pašto adresą. Jei norite nustatyti peradresavimą į žmonių grupę, sukurti siuntimo sąrašą (pagal grupes), įtraukti vartotojų į jį, ir tada konfigūruoti ekspedijavimas su ta grupe.
+Norėdami siųsti nurodymus vartotojams, kad jie galėtų nustatyti el. pašto peradresavimą savo pašto dėžutėse, nukreipkite juos į [persiųsti el. laišką iš "Office 365" į kitą el. pašto paskyrą](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Atkreipkite dėmesį, kad galite persiųsti tik vieną el. pašto adresą. Jei jums reikia nustatyti peradresavimą grupei žmonių, sukurkite siuntimo sąrašą (dalyje grupės), įtraukite vartotojus į jį ir sukonfigūruokite peradresavimą šiai grupei.
   
-Ar turite darbuotojas palieka? Peržiūrėkite [pašalinti buvęs darbuotojas iš "Office 365"](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) rekomenduojamus veiksmus.
+Ar turite išeinančių darbuotojų? Norėdami pamatyti rekomenduojamus veiksmus, [pašalinkite buvusį darbuotoją iš Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .
   

@@ -1,6 +1,6 @@
 ---
-title: Išorinis bendrinimas su komandos svetainę
-ms.author: kirks
+title: Išorinis bendrinimas su komandos svetaine
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525984"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755892"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Išorinis bendrinimas su komandos svetainę
+# <a name="external-sharing-with-a-team-site"></a>Išorinis bendrinimas su komandos svetaine
 
-Norėdami įjungti Išoriniam vartotojui, komandos svetaines bendrinimą, atlikite šiuos veiksmus: 
+Norėdami įjungti išorinį vartotojų bendrinimą komandos svetainėms, atlikite šiuos veiksmus: 
   
-1. Nauja SharePoint administravimo centro, spustelėkite **aktyvus svetainės**.
+1. Naujajame "SharePoint" administravimo centre spustelėkite **aktyvios svetainės**.
   
-2. Pasirinkite svetainės, kurioje yra **Komandos svetainės** šabloną. 
+2. Pasirinkite svetainę, kurioje yra **komandos svetainės** šablonas. 
   
-3. Pasirinkite **bendrinimo** mygtuką viršutiniame meniu. 
+3. Viršutiniame meniu pasirinkite mygtuką **bendrinimas** . 
   
- **Pastaba**: pagal numatytuosius nustatymus, kai šiuolaikinės komandos svetainę, išorinio bendrinimo parinktis bus nustatytas naujas ir esamas išoriniams vartotojams. 
+ **Pastaba**: pagal numatytuosius nustatymus, kai šiuolaikinės komandos svetainė yra sukurta, išorinio bendrinimo parinktis bus nustatyta kaip naujas ir esamus išorinius vartotojus. 
   
- **Pastaba:** Jei turite daugiau nei vieną svetainę, atrinkti, **bendrinimo** mygtuką pasirodys su negalia. Pasirinkite tik vienoje vietoje. 
+ **Pastaba:** Jei pasirinkote daugiau nei vieną svetainę, **bendrinimo** mygtukas bus rodomas išjungtas. Pasirinkite tik vieną svetainę. 
   
 

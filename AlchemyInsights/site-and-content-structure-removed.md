@@ -1,26 +1,26 @@
 ---
-title: Svetainės ir turinio struktūrą, pašalinti
-ms.author: kirks
+title: Svetainės ir turinio struktūra pašalinta
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502275"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749484"
 ---
-# <a name="site-and-content-structure-removed"></a>Svetainės ir turinio struktūrą, pašalinti
+# <a name="site-and-content-structure-removed"></a>Svetainės ir turinio struktūra pašalinta
 
-Nuo 2018 m. spalio m. svetainės turinio ir struktūros puslapis bus daugiau remiami arba gauti funkcijų naujinimus. Nuorodą į SiteManager.aspx puslapį nustatymai bus pašalintas iš SharePoint Online ir tiesioginė prieiga bus suteikta tik svetainių rinkinio administratoriai iki 2019 m. kovo, o tuo metu svetainės turinio ir struktūros puslapis bus visiškai pensininkas. 
+Nuo spalio 2018, svetainės turinio ir struktūros puslapyje nebebus palaikomas arba gauti funkcijų naujinimus. Parametrai nuorodą į SiteManager. aspx puslapyje bus pašalintas iš SharePoint Online ir tiesioginę prieigą bus apribota svetainių rinkinio administratoriai iki kovo 2019, tuo metu svetainės turinio ir struktūros puslapis bus visiškai pensininkas. 
 
-Pastaba: Kaip apeiti kol priemonė visiškai pensininkas, svetainių rinkinio administratoriai gali pereiti į Office 365 portalas-> spustelėkite "SharePoint" plytelių - > pridėti arba redaguoti URL pakeičiant "/ Sharepoint.aspx" su "/ Sitemanager.aspx". 
+Pastaba: kaip apeiti, kol funkcija yra visiškai pensininkas, svetainių rinkinio administratoriai gali pereiti prie Microsoft 365 administravimo centro, pasirinkite SharePoint plytelių, ir pridėti arba redaguoti URL pakeičiant "/SharePoint.aspx" su "/Sitemanager.aspx". 
 
 
-Naudokite failą perkelti ir kopijuoti tvarkyti svetainės turinį ir struktūrą. Norėdami gauti daugiau informacijos, peržiūrėkite [kopijuoti failų ir aplankų tarp "OneDrive" ir "SharePoint" svetaines](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Norėdami valdyti svetainės turinį ir struktūrą, naudokite failų perkėlimas ir kopijavimas. Daugiau informacijos ieškokite [failų ir aplankų kopijavimas tarp "OneDrive" ir "SharePoint" svetainių](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
 Norėdami gauti daugiau informacijos, prašome kreiptis į [darbą su svetainės turiniu ir struktūra](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

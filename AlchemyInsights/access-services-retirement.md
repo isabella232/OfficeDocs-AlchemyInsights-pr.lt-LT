@@ -1,6 +1,6 @@
 ---
-title: Prieigos paslaugų išėjimo į pensiją
-ms.author: kirks
+title: Prieigos prie išėjimo į pensiją paslaugos
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495759"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747792"
 ---
-# <a name="access-services-retirement"></a>Prieigos paslaugų išėjimo į pensiją
+# <a name="access-services-retirement"></a>Prieigos prie išėjimo į pensiją paslaugos
 
-Kaip mes iš pradžių buvo paskelbta MC97576, – 2017 m. kovo ir toliau bendrauti per pastaruosius metus prieigos paslaugų pareigūn "Office 365". Kitame etape šiame procese bus pašalinti prieigos žiniatinklio duomenų bazės, kuriuose SharePoint sąrašai yra jų pagrindinės duomenų saugyklos.
+Kaip mes iš pradžių paskelbė MC97576, kovo 2017, ir toliau bendrauti per pastaruosius metus prieigos paslaugos yra pensininkas iš Office 365. Kitas šio proceso etapas bus pašalinti prieigos žiniatinklio duomenų bazių, kurios naudoja SharePoint sąrašus kaip jų pagrindinės duomenų saugyklos.
 
-**Kaip tai mane paveiks?**
+**Kaip tai įtakoja mane?**
 
-Nuo 2019 m. birželio, mes nustoti kurti naują Access duomenų bazių SharePoint Online ir uždaryti paslaugos ir visos likusios programos iki 2020 m. balandžio.
+Nuo birželio 2019, mes nustosime kurti naujas Access duomenų bazių SharePoint Online ir uždaryti paslaugą ir visas likusias programas iki balandžio 2020.
 
-**Ką turiu daryti, kad rengiamasi šiam ekonomikos virsmui?**
+**Ką reikia daryti, kad pasiruoštumėte šiam pasikeittam pokyčiams?**
 
-Skatiname jus kurti perėjimo planą jūsų organizacijos prieigos žiniatinklio duomenų bazės. Administratoriai naudoti [SharePoint prieigos programėlė skaitytuvas](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) gauti prieigos programos, kurios svetainių naudoja aprašą.
+Raginame sukurti jūsų organizacijos "Access" žiniatinklio duomenų bazių perėjimo planą. Administratoriai gali naudoti [SharePoint Access programos skaitytuvą](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) Norėdami gauti "Access" programėlių, kurias naudoja svetainės, aprašą.
 
-Yra keli būdai perkelti prieigos interneto duomenų bazių duomenis:
+Yra keli būdai, kaip perkelti prieigą prie žiniatinklio duomenų bazių duomenų:
 
-- Importuoti į vietinės prieigos duomenų bazės (. ACCDB) arba "Excel" failą.
-- Mes taip pat rekomenduojame ieškoti "Microsoft" PowerApps kaip alternatyvi platforma sukurti be kodo verslo valdymo sprendimus, žiniatinklio ir mobiliuosius įrenginius.
+- Importuojama į vietinę Access duomenų bazę (. ACCDB) arba "Excel" failui.
+- Taip pat rekomenduojame tyrinėti "Microsoft PowerApps" kaip alternatyvią platformą, kad būtų sukurti be kodo verslo sprendimai žiniatinklio ir mobiliesiems įrenginiams.

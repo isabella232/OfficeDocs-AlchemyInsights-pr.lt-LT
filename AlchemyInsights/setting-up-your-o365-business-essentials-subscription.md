@@ -1,5 +1,5 @@
 ---
-title: Sukurti prenumeratos O365 verslo pagrindai
+title: "\"O365 Business Essentials\" prenumeratos nustatymas"
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508899"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744721"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Sukurti prenumeratos O365 verslo pagrindai
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>"O365 Business Essentials" prenumeratos nustatymas
 
-Kurti "Office 365" abonementus ir pridėti savo domeno
+"Office 365" paskyrų kūrimas ir domeno įtraukimas
   
-- Atliekant šį veiksmą, naudojate sąrankos vedlys sukurti "Office 365" paskyras savo vartotojams ir pridėti savo domeną. Vedlys leidžia jums pritaikyti kiekvieno vartotojo ID ir el. verslui, pavyzdžiui, [rob@contoso.com](mailto:rob@contoso.com).
+- Atlikdami šį veiksmą, Norėdami sukurti "Office 365" abonementus vartotojams ir įtraukti savo domeną, naudokite sąrankos vedlį. Vedlys leidžia personalizuoti kiekvieno vartotojo ID ir el. paštą jūsų verslui, pvz., [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Eikite į ["Microsoft" 365 administravimo centro](https://login.partner.microsoftonline.cn/).
+- Eikite į ["Microsoft" 365 administravimo centrą](https://login.partner.microsoftonline.cn/).
     
-- Norėdami paleisti vedlį, pasirinkite **Eiti į nustatymus**. Norėdami sužinoti daugiau, žr. [Įtraukti vartotojus ir domeną į "Office 365"](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Norėdami paleisti vedlį, pasirinkite **Eiti į sąranką**. Norėdami sužinoti daugiau, žiūrėkite [įtraukti domeną į Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
-El. laiškų importavimas
+El. laiško importavimas
   
-- Perkelti esamus el. laiškus ir kontaktus iš kitų el. pašto sistemų į "Office 365" pašto dėžutę, ją rasite vienoje vietoje. Už propaguojamos galimybės [migruoti el. paštą ir kontaktus į "Office 365"](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Perkelkite esamus el. laiškus ir kontaktus iš kitų el. pašto sistemų į "Office 365" pašto dėžutę, kad galėtumėte viską matyti vienoje vietoje. Norėdami perkelti perkėlimo parinktis, [perkelkite el. paštą ir kontaktus į "Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)".
     
-- Prisijungti pašto dėžutes
+- El. pašto paskyrų prijungimas
     
-  - Be tvarkyti "Office 365" el. laiškus programoje "Outlook", galite prisijungti kitus el. pašto abonementus su "Outlook", taip pat, pvz., "Gmail" ir "Yahoo" paskyrų. Tai leidžia jums valdyti visus el. vienoje vietoje. Galima prijungti iki 5 pašto dėžutes į "Outlook". Daugiau informacijos rasite [prisijungimo el. pašto abonementus programoje "Outlook" žiniatinklyje (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Be to, kad tvarkėte "Office 365" el. paštą "Outlook", galite prijungti kitus el. pašto abonementus prie "Outlook", pvz., "Gmail" ir "Yahoo" paskyras. Tai leidžia valdyti visus el. laiškus vienoje vietoje. Prie "Outlook" galite prijungti iki 5 el. pašto abonementų. Daugiau informacijos rasite ["Outlook" el. pašto paskyrų prijungimas ("Office 365")](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
-Įdiegti "Skype" verslui
+"Skype" verslui diegimas
   
-- Jūs ir jūsų komandos nariai gali [atsisiųsti ir įdiegti "Skype" verslui](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) , visuose kompiuteriuose, "Mac" kompiuteriuose, planšetiniuose kompiuteriuose ir telefonuose. Tada galėsite peržiūrėti internete būseną, jūsų bendradarbiai, pradėti pokalbius iš kitų "Office" programas, ir pagrindinio kompiuterio vaizdo susitikimai su iki 250 žmonių. 
+- Jūs ir jūsų komandos nariai galite [atsisiųsti ir įdiegti "Skype" verslui](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) visuose kompiuteriuose, "Mac", planšetiniuose kompiuteriuose ir telefonuose. Tada galėsite matyti savo bendradarbių internetinę būseną, pradėti pokalbius iš kitų "Office" taikomųjų programų ir surengti vaizdo susitikimus su iki 250 žmonių. 
     
-Saugoti failus internete
+Failų saugojimas internete
   
-- Norėdami sužinoti, kurios saugojimo vietos yra geriausiai tinka jūsų verslui, pamatyti, [kur jūs galite laikyti failus "Office 365"](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kiekvienas gauna **"OneDrive"** debesies saugyklos vietą automatiškai, kai kuriate "Office 365" paskyras. Su "OneDrive", galite pasiekti failus tarp kompiuterių, telefonų ir tabletes. 
+- Norėdami sužinoti, kurios saugyklos vietos geriausiai tinka jūsų įmonei, Sužinokite, [kur galite saugoti failus "Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)". Sukūrus "Office 365" paskyras, visi jie automatiškai gauna **"OneDrive"** debesies saugyklos vietą. Naudodami "OneDrive" galite pasiekti failus visuose kompiuteriuose, telefonuose ir planšetiniuose kompiuteriuose. 
     
-[Šiame](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)straipsnyje rasite išsamius veiksmus, pateiktus nustatymo.
+Detalius sąrankos veiksmus galima rasti [šiame straipsnyje](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

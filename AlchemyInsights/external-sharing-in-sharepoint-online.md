@@ -1,5 +1,5 @@
 ---
-title: Išorinis bendrinimas SharePoint Online
+title: Išorinis bendrinimas "SharePoint Online"
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,34 +11,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664940"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735973"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Išorinis bendrinimas SharePoint Online
+# <a name="external-sharing-in-sharepoint-online"></a>Išorinis bendrinimas "SharePoint Online"
 
-Jei jūsų organizacijoje atlieka darbą, kuris apima dokumentų mainams arba bendradarbiauja tiesiogiai su tiekėjų, klientų ir pirkėjų, tada galite naudoti ir [išorinio bendrinimo funkcijos SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) bendrinti turinį su žmonėmis už savo organizacijos.
+Jei jūsų organizacija atlieka darbą, kuris apima dokumentų bendrinimą arba bendradarbiavimą tiesiogiai su tiekėjais, klientais ar klientais, galite naudoti " [SharePoint Online" išorinio bendrinimo funkcijas](https://docs.microsoft.com/sharepoint/external-sharing-overview) ir bendrinti turinį su asmenimis, nepriklausančiais jūsų Organizacijos.
 
-Daugiau informacijos apie išorinį bendrinimą, apsilankykite žemiau esančią nuorodą:
+Daugiau informacijos apie išorinį bendrinimą rasite toliau pateiktuose saituose:
 
-- [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Savo ruožtu išorinio bendrinimo įjungimas ar išjungimas dėl svetainės](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Numatytieji bendrinimo nustatymai už svetainės tipo](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Naudoti Sharepoint Online Verslas-verslui (B2B) ekstraneto sprendimas](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [Dalis SharePoint failai arba aplanko](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Nustoti bendrinti "OneDrive" arba SharePoint failų arba aplankų arba pakeisti teises](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [Svečio abonentą į "Microsoft" Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- ["Microsoft" svečių bendrinimo Nustatymai nuoroda (Azure Active Directory, Microsoft 365 ir SharePoint internete)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Įjungti arba išjungti išorinį bendrinimą, skirtą "SharePoint Online"](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Svetainės išorinio bendrinimo įjungimas arba išjungimas](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Numatytieji bendrinimo parametrai pagal svetainės tipą](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Naudokite "SharePoint Online" kaip "verslas verslui" (B2B) ekstraneto sprendimą](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Bendrinkite "SharePoint" failus arba aplanką](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- ["OneDrive" arba "SharePoint" failų arba aplankų bendrinimo sustabdymas arba teisių keitimas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Svečio prieiga programoje "Microsoft teams"](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- ["Microsoft" svečio bendrinimo nustatymų nuoroda ("Azure Active Directory", "Microsoft 365" ir "SharePoint Online")](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Gaunate klaidos pranešimą su išorinis vartotojas?Patikrinkite nuorodos žemiau:
+Gaunate klaidos pranešimą Išoriniam vartotojui?Patikrinkite žemiau esančią nuorodą:
 
-- ["Prieiga uždrausta", "Jūs turite leidimą prieiti prie šios svetainės", arba "Vartotojas negali rasti kataloge" klaidų SharePoint Online ir "OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Jūsų organizacijos strategijos neleidžia jums dalintis su šių vartotojų" klaida, kai dalintis elemento arba svetainę, SharePoint Online ir "OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Bendrinimo parinktis yra pilka, dalijantis iš SharePoint Online ir "OneDrive"](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Klaidos pranešimas, kai išorinis vartotojas priima SharePoint Online pakvietimą naudodami kitą abonementą](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE, dalijimosi klaidų SharePoint ir "OneDrive"](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Prieiga uždrausta", "jums reikia leidimo prieiti prie šios svetainės", arba "vartotojas nerastas kataloge" klaidos "SharePoint Online" ir "OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Jūsų organizacijos strategijos neleidžia jums pasidalinti su šiais vartotojais" klaida, kai bendrai naudoti elementą arba svetainę "SharePoint Online" arba "OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Bendrinimo parinktys yra pilka, kai bendrai naudojate "SharePoint Online" arba "OneDrive"](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Klaidos pranešimas, kai išorinis vartotojas priima SharePoint Online kvietimą naudodami kitą abonementą](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Bendro naudojimo klaidos "SharePoint" ir "OneDrive"](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

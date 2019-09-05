@@ -1,5 +1,5 @@
 ---
-title: 1800014 naudojant bendrinamą pašto dėžutę mobiliajame įrenginyje
+title: 1800014 bendrai naudojamos pašto dėžutės naudojimas mobiliajame įrenginyje
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531871"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741841"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Naudojant bendrinamą pašto dėžutę mobiliajame įrenginyje
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Bendrai naudojamos pašto dėžutės naudojimas mobiliajame įrenginyje
 
-Negalite pasiekti bendrinamą pašto dėžutę iš "Outlook" programėlę, kurios yra įdiegtos mobiliajame įrenginyje. Ar norite šią funkciją? Tegul žino, "Outlook" inžinierių komanda. [Balsuoti čia](https://go.microsoft.com/fwlink/?linked=862116)!
+Negalite pasiekti bendrinamą pašto dėžutę iš "Outlook" programėlę, kuri yra įdiegta mobiliajame įrenginyje. Ar norite šios funkcijos? Tegul "Outlook" inžinerijos komanda žino. [Balsuoti čia](https://go.microsoft.com/fwlink/?linked=862116)!
   
-Galite naudoti tik bendrai naudojamą pašto dėžutę mobiliajame įrenginyje iš atidaryti naršyklę ir prisijunkite prie "Office 365" nuėję į "Outlook" žiniatinklyje. Instrukcijų ieškokite [įtraukti bendrinamą pašto dėžutę programoje "Outlook" žiniatinklyje](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+Bendrai naudojamą pašto dėžutę mobiliajame įrenginyje galite naudoti tik atidarę naršyklę, prisijungdami prie "Office 365", ir tada eidami į "Outlook" žiniatinklyje. Instrukcijų ieškokite [bendrinamų pašto dėžučių įtraukimas į "Outlook" žiniatinklyje](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Jei turi prieigą prie bendrai naudojamos pašto dėžutės naudojant "Outlook" programėlę mobiliajame įrenginyje, galite kurti Office 365 grupę, o ne naudojant bendrinamą pašto dėžutę. Norėdami gauti daugiau informacijos, peržiūrėkite [palyginti grupes](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Jei turite pasiekti bendrinamas pašto dėžutes naudodami "Outlook" programėlę mobiliajame įrenginyje, apsvarstykite galimybę sukurti "Office 365" grupę vietoj bendrai naudojamos pašto dėžutės. Daugiau informacijos rasite [palyginkite grupes](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
   
-Sužinokite daugiau: [pagalba programoje "Outlook", "iOS" ir "Android"](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Sužinokite daugiau: [Gaukite programos "Outlook" skirtą "iOS" ir "Android" pagalbą](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   

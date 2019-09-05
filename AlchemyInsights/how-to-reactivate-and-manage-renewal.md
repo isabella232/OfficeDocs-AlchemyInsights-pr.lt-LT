@@ -1,5 +1,5 @@
 ---
-title: Kaip iš naujo suaktyvinti ir valdyti atnaujinimo
+title: Kaip aktyvuoti ir valdyti atnaujinimą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663968"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739321"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kaip iš naujo suaktyvinti ir valdyti pasikartojančių sąskaitų
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kaip iš naujo suaktyvinti ir valdyti periodinį atsiskaitymą
 
-Atrodo, kad turite abonementą, kuris baigėsi. Jei norite vėl ją, o čia kaip.
+Atrodo, kad baigėsi prenumerata. Jei norite iš naujo suaktyvinti, Štai kaip tai atlikti.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **atsiskaitymo** \> [produktai _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Raskite prenumeratą, kurios norite iš naujo suaktyvinti. **Atsiskaitymo** skyriuje, pasirinkite **Aktyvinti iš naujo**.
+2. Raskite prenumeratą, kurią norite aktyvinti iš naujo. Skiltyje **atsiskaitymas** pasirinkite **iš naujo aktyvinti**.
 
-    Jei jūs negalite matyti **Aktyvinti iš naujo** parinktis, naudokite mygtuką "Įsisavinti" pasikalbėti su palaikymo inžinierių, kad iš naujo aktyvinti savo prenumeratą.
+    Jei nematote **iš naujo suaktyvinti** kaip parinktį, naudokite mygtuką "reikia pagalbos", Norėdami pasikalbėti su palaikymo inžinieriumi, kad iš naujo suaktyvintumėte savo prenumeratą.
 
-3. Patvirtinti savo mokėjimo duomenis. Jūs galite atnaujinti savo esamų mokėjimo informaciją čia. Baigę įvesti mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
+3. Patvirtinkite mokėjimo informaciją. Esamą mokėjimo informaciją galite atnaujinti čia. Baigę įvesti mokėjimo metodą, pasirinkite **iš naujo suaktyvinti**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [iš naujo aktyvinti savo prenumeratą](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Jei norite sužinoti daugiau, peržiūrėkite [prenumeratą iš naujo suaktyvinti](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Valdyti, kas mėnesį arba kasmet atsiskaitymo jūs galite įjungti **pasikartojančios atsiskaitymo** arba išjungti.
+Norėdami valdyti mėnesinį ar metinį atsiskaitymą, galite perjungti **periodinį atsiskaitymą** arba išjungti.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **atsiskaitymo** \> [produktai _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Pasirinkite abonemento, kurį norite valdyti pasikartojančių sąskaitų.
+2. Pasirinkite prenumeratą, kurios periodinį atsiskaitymą norite tvarkyti.
 
-3. Pagal **atsiskaitymo**, šalia **Renews ant** arba **Expiring ant**, pasirinkite **Redaguoti**.
+3. Dalyje **atsiskaitymas**, prie parinkties **atsinaujinti** arba **baigiant**, pasirinkite **Redaguoti**.
 
-4. **Pasikartojančios atsiskaitymo nustatymų** srityje pasirinkite **Išjungti** jį išjungti. Jei pasikartojančių sąskaitų jau išjungta, pasirinkite **kas mėnesį** ar **kartą** jį įjungti.
+4. **Periodinio atsiskaitymo parametrų** srityje pasirinkite išjungti, kad jį **išjungtumėte.** Jei periodinis atsiskaitymas jau išjungtas, pasirinkite **kas mėnesį** arba **vieną kartą** , kad įjungtumėte.
 
-5. Pasirinkite **Siųsti pakeisti**.
+5. Pasirinkite **pateikti pakeitimą**.
 
-Jei norite sužinoti daugiau, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Norėdami sužinoti daugiau, žr., išjungti [arba įjungti periodinį atsiskaitymą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

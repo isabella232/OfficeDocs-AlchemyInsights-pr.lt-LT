@@ -1,5 +1,5 @@
 ---
-title: Valdyti grupių "Yammer"
+title: Grupių valdymas "Yammer"
 ms.author: pebaum
 author: pebaum
 ms.date: 8/3/2018
@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496983"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735037"
 ---
-# <a name="manage-groups-in-yammer"></a>Valdyti grupių "Yammer"
+# <a name="manage-groups-in-yammer"></a>Grupių valdymas "Yammer"
 
-- **Grupių sukūrimo teisių.** "Yammer" nekontroliuoja, kurie gali sukurti grupę. Tačiau tai įmanoma, kad valdyti grupės kūrimo prijungto "Office 365" grupes. Daugiau informacijos rasite [valdyti, kas gali kurti Office 365 grupes](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618).
+- **Grupės kūrimo teisės.** "Yammer" nekontroliuoja, kas gali sukurti grupę. Tačiau galima valdyti grupės kūrimą prijungtoms Office 365 grupėms. Peržiūrėkite [valdyti, kas gali sukurti "Office 365" grupes](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) , Norėdami gauti daugiau informacijos.
 
-- **Dinaminis grupės narystės.** Prašome kreiptis į [kurti dinamiškas grupę, "Yammer"](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5)informacijos apie sukurti dinamišką narystės "Yammer" susijusios "Office 365" grupes.
+- **Dinaminis grupės narystė.** Informacijos, kaip sukurti dinaminę narystę "Yammer" prijungtose "Office 365" grupėse, rasite ["gija" dinaminio grupės kūrimas](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) .
 
-- **Atkurti ištrintus grupes.** Atkurti prijungtas "Yammer" grupių galima [atkurti ištrintus "Office 365" grupę](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) ne prijungtas per "Office 365" grupes negalima atkurti po ištrynimo.
+- **Naikinamos grupės atkūrimas.** Atkurti Office 365 prijungtas "Yammer" grupes galima per [atkurti panaikintų Office 365 grupė](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) nesujungtų grupių negalima atkurti po ištrynimo.
 
-Daugiau informacijos apie valdymo grupė, ieškokite ["Yammer" grupę valdyti](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Ieškokite informacijos apie prijungtą "Office 365" grupes, ["Yammer" ir Office 365 grupes](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+Daugiau informacijos apie grupės valdymą rasite [grupės "Yammer" valdymas](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Norėdami gauti informacijos apie prijungtas Office 365 grupes, peržiūrėkite " [Yammer" ir "office 365" grupes](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

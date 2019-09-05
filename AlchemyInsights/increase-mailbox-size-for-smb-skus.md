@@ -1,5 +1,5 @@
 ---
-title: Padidinti dėžutės dydis SMB SKU
+title: Padidinkite SMB SKU pašto dėžutės dydį
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499287"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739249"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Jungiklis planuoja didinti pašto dėžutės dydis
+# <a name="switch-plans-to-increase-mailbox-size"></a>Perjungti planus padidinti pašto dėžutės dydį
 
-Jei pašto dėžutės dydis yra 50 GB, galite padidinti pašto dėžutės dydį 100 GB pereina į [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) "arba" [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Atlikite šiuos veiksmus, Norėdami perjungti į kitą "Office 365" planą:
+Jei pašto dėžutės dydis yra 50 GB, galite padidinti pašto dėžutės dydį iki 100 GB perjungdami į [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) arba [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Toliau pateikiami veiksmai, kaip perjungti kitą "Office 365" planą.
   
-1. "Microsoft" 365 administravimo centro, eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) , arba pasirinkti **atsiskaitymo** \> **prenumeratos**.
+1. "Microsoft" 365 administravimo centre eikite į puslapį [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) arba pasirinkite **atsiskaitymo** \> **prenumeratos**.
     
-2. Pasirinkite **jungiklis planų** sąrašą naujus planus, kurie yra prieinami. 
+2. Pasirinkite **Perjungti planus** , kad peržiūrėtumėte galimų naujų planų sąrašą. 
     
-3. Pasirinkti planą pamatyti naują visų išlaidų per mėnesį. Būtinai perskaitykite **pagrindinę informaciją**, tada pasirinkite **kitą** Check out. 
+3. Pasirinkite planą, kad pamatytumėte naujas bendrąsias išlaidas per mėnesį. Būtinai perskaitykite **pagrindinę informaciją**, tada pasirinkite **Pirmyn** , kad patikrintumėte. 
     
-4. Kai baigsite kasos, "Office 365" trunka kelias minutes baigti jungiklį. Galite pradėti naudoti naują prenumeratą iškart.
+4. Kai baigsite kasos, Office 365 trunka kelias minutes baigti jungiklį. Iš karto galite pradėti naudotis savo naująja prenumerata.
     
-Daugiau informacijos ieškokite [Perjungti į kitą "Office 365" planą](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Daugiau informacijos rasite [pereikite prie kito "Office 365" plano](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

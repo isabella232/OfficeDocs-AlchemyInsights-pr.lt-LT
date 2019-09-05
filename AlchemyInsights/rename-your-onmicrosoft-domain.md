@@ -1,5 +1,5 @@
 ---
-title: Pervardykite savo įMicrosoft domeno
+title: Pervardykite savo "įMicrosoft" domeną
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666488"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741229"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Pervardyti domeną onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Pervardykite onmicrosoft.com domeną
 
- **Negalite pervardyti įMicrosoft domeno po registracijos.** Pvz., jei pirminio domeno, jūs pasirinkote *fourthcoffee.onmicrosoft.com*, jums negali pakeisti ji būtų *fabrikam.onmicrosoft.com*. Norėdami naudoti kitą onmicrosoft.com domeno, jūs turite pradėti sudaryti naują sutartį su "Office 365".
+ **Prisiregistravimo metu negalima pervardyti "įMicrosoft" domeno.** Pavyzdžiui, jei pradinis domenas, kurį pasirinkote, buvo *fourthcoffee.onmicrosoft.com*, negalite jo pakeisti į *fabrikam.onmicrosoft.com*. Norėdami naudoti kitą onmicrosoft.com domeną, turite pradėti naują prenumeratą naudodami "Office 365".
   
-Jei norite naudoti pasirinktinį domeną, pavyzdžiui, *contoso.com* , galite [pridėti savo](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) arba [įsigyti iš "Microsoft"](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Jei norite naudoti pasirinktinį domeną, pvz., *contoso.com* , galite jį [pridėti](https://docs.microsoft.com/office365/admin/setup/add-domain) arba [įsigyti vieną iš "Microsoft"](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

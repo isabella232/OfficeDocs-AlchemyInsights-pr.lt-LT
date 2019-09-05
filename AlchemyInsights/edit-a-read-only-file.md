@@ -1,6 +1,6 @@
 ---
-title: Redaguoti failą tik skaityti
-ms.author: kirks
+title: Redaguoti tik skaitomą failą
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 25d8745a988bf27a9c822bf3f85df1beb47f64fb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 529338c7d83f16b2e003f0d46c404306e1ac39cc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528163"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756180"
 ---
-# <a name="edit-a-read-only-file"></a>Redaguoti failą tik skaityti
+# <a name="edit-a-read-only-file"></a>Redaguoti tik skaitomą failą
 
-Dokumentų bibliotekose, kai paspausite ant dokumento pavadinimą, Office programos gali netikėtai atidaryti jį kaip tik skaitomą failą. Norėdami atidaryti redagavimo režimu, spauskite **atidaryti** (tris taškus), ir tada spustelėkite **Redaguoti**
+Dokumentų bibliotekose spustelėjus dokumento pavadinimą, Office programa gali netikėtai atidaryti jį kaip tik skaitomą failą. Norėdami atidaryti jį redaguoti, spustelėkite **atidaryti** (trys taškai), tada spustelėkite **Redaguoti.**
   
 

@@ -1,5 +1,5 @@
 ---
-title: Kaip išjungti išorinės grupės
+title: Kaip išjungti išorinių grupių
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541233"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739573"
 ---
-# <a name="how-to-disable-external-groups"></a>Kaip išjungti išorinės grupės
+# <a name="how-to-disable-external-groups"></a>Kaip išjungti išorinių grupių
 
-Yra keturi būdai išorės vartotojai gali pasiekti į "Yammer" tinkle.
+Yra keturi būdai, kuriais Išoriniai vartotojai gali pasiekti tinklą naudodami "Yammer".
   
-1. **Svečių vartotojai** - "Yammer" administratoriai gali kviesti kontaktus iš išorinių domenų kaip namų tinklo naudotojų. Šie vartotojai matys visi bendrovės pašarų ir tinklai taip pat gali prisijungti prie kitų grupių.
+1. **Svečio vartotojai** -"Yammer" administratoriai gali pakviesti kontaktus iš išorinių domenų kaip namų tinklo vartotojus. Šie vartotojai matys visos įmonės pašarų ir gali prisijungti prie kitų grupių tinkluose taip pat.
 
-2. **Išoriniams vartotojams išorės grupėje** - išorinės grupės leidžia išoriniams vartotojams. Išoriniai vartotojai galėtų prieiti taikymo sritis yra tik išorinės grupės. Su užsienio grupėmis, galite kviesti tik tada kontaktus iš "Yammer" tinklų, kuriuos vartotojai galėtų dalyvauti išorės pokalbius.
+2. Išoriniai **vartotojai išorinėse** grupėse-išorinės grupės leidžia išoriniams vartotojams. Išorinio naudotojo prieigos apimtis ribojama išorine grupe. Su išorinėmis grupėmis galite kviesti kontaktus iš "Yammer" tinklų, kurie leidžia vartotojams dalyvauti išoriniuose pokalbiuose.
 
-3. **Išoriniams vartotojams, "Yammer" pokalbį vidaus grupėje** - Ši parinktis leidžia išoriniai dalyviai prie konkretaus pokalbio. Išoriniai dalyviai gali dalyvauti tik pokalbiai, jie buvo aiškiai pakviesti ir į bet kokius priedus į tą pokalbį. Jie pasiekti šiuos pokalbius per "Yammer" aplanko Gauta (jų tinkle). Jie negali patekti į visą jūsų tinklą.
+3. **Išoriniai vartotojai "Yammer" pokalbyje vidinėje grupėje** – Ši parinktis leidžia įtraukti išorinius dalyvius į konkretų pokalbį. Išoriniai dalyviai gali dalyvauti tik pokalbiuose, kurie buvo aiškiai pakviesti į jį ir į bet kokius to pokalbio priedus. Jie pasiekti šiuos pokalbius per savo "Yammer" aplanką Gauta (savo tinkle). Jie neturi prieigos prie likusios jūsų tinklo dalies.
 
-4. **Išoriniai tinklai** – Ši parinktis leidžia jums pakviesti išorės vartotojams prie išorinio tinklo, patikrinti, administratoriai gali sukurti jūsų tinkle. Ši parinktis yra tinkamiausia Hostingas išorės Bendrijų.
+4. **Išoriniai tinklai** -Ši parinktis leidžia jums pakviesti išorinius vartotojus į išorinį tinklą, kuris patikrino administratoriai gali sukurti jūsų tinkle. Ši parinktis yra geriausiai tinka išorės bendruomenių priegloba.
 
-Norėdami gauti daugiau informacijos, žiūrėkite [pridėti išorės pranešimų dalyviai į savo "Yammer" pokalbį](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) ir [Išorinių pranešimų DUK ("Yammer")](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Daugiau informacijos rasite [išorinių pranešimų mainų programos dalyvių įtraukimas į "Yammer" pokalbius](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) ir [išorinių pranešimų DUK ("Yammer")](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

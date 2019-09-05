@@ -1,5 +1,5 @@
 ---
-title: Sprendimo "Nelicencijuotas produktas" klaidų pasiūlymų
+title: "\"Nelicencijuotų produktų\" klaidų sprendimo pasiūlymai"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501051"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743281"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sprendimo "Nelicencijuotas produktas" klaidų pasiūlymų
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>"Nelicencijuotų produktų" klaidų sprendimo pasiūlymai
 
-Patikrinkite, ar turite abonementą, kuris leidžia klientui licencijas, pvz., Office 365 Business arba Business Premium ir [užtikrinti, kad vartotojas turi priskirti licenciją](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deactivate įdiegimo](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) patikrinti, jei jūs viršijote įdiegia palaiko jūsų prenumeratos numerį.
+Įsitikinkite, kad turite prenumeratą, kuri leidžia kliento licencijas, pvz., Office 365 Business "arba" Business Premium "ir [įsitikinkite, kad vartotojas turi priskirtą licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Išjunkite diegimą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , kad patikrinsite, ar viršijote prenumeratų palaikomų įdiegimų skaičių.
   
-Užtikrinti, kad vartotojas yra prisijungę naudodami tą patį abonementą, kuriame yra paims.
+Įsitikinkite, kad vartotojas yra prisijungę naudodami tą patį abonementą, kuriam priskirta licencija.
   
-Vykdykite [aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Paleiskite [aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Patikrinti, jei jūsų prenumerata būsenos laikas baigėsi
+Patikrinkite, ar baigėsi prenumeratos būsenos galiojimas
   
-Patikrinkite, ar [Office 365 paslaugos sveikatos puslapis](https://docs.microsoft.com/office365/enterprise/view-service-health) Norėdami sužinoti, ar visas žinomas problemas su paslauga.
+Patikrinkite [Office 365 tarnybos sveikatos puslapyje](https://docs.microsoft.com/office365/enterprise/view-service-health) Norėdami pamatyti, jei yra kokių nors žinomų problemų su paslauga.
   
-[Atlikti internete remonto tarnybos](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Atlikti Online remontas Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Papildomi trikčių diagnostikos sprendimų ieškokite: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Norėdami gauti papildomų trikčių šalinimo sprendimų, žiūrėkite: [nelicencijuotos produkto ir aktyvinimo klaidos "Office"](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

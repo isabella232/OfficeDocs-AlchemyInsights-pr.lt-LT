@@ -1,5 +1,5 @@
 ---
-title: el. duomenų aptikimo eksporto įrankis
+title: "\"eDiscovery\" eksportavimo įrankis"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528271"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736333"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Negalite įdiegti arba paleisti el. duomenų aptikimo eksportavimo įrankis?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nepavyksta įdiegti arba paleisti eDiscovery eksportavimo įrankio?
 
-Jei negalite įdiegti arba paleisti "Office 365" el. duomenų aptikimo eksportavimo įrankis atsisiųsti paieškos rezultatų, patikrinkite šiuos dalykus:
+Jei negalite įdiegti arba paleisti "Office 365 eDiscovery" eksportavimo įrankio, kad atsisiųstumėte ieškos rezultatus, patikrinkite šiuos dalykus:
   
-- Jūs naudojate kompiuterį atitinka šios prielaidos:
+- Kompiuteris, kurį naudojate, atitinka šiuos rekvizitus:
 
-  - 32 arba 64 bitų versijos "Windows 7" ir naujesnėse versijose
+  - 32-arba 64 bitų versijos Windows 7 ir naujesnės versijos
 
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
 
   - Palaikoma naršyklė:
 
-  - "Microsoft Edge"
+  - "Microsoft Edge ‟
 
     Arba
 
   - Internet Explorer 10 ir naujesnės versijos
 
-    Kitose naršyklėse, pvz., "Google Chrome" ir "Mozilla Firefox" nepalaikomi.
+    Kitos naršyklės, pvz., "Google Chrome" ir "Mozilla Firefox", nepalaikomos.
 
-- Jūsų organizacija gali prisijungti prie galinį Azure, kuris yra ** \*. blob.core.windows.net** (pakaitos simbolį sudaro unikalus identifikatorius, jūsų eksporto darbas).
+- Jūsų organizacija gali prisijungti prie galinio punkto programoje "Azure", kuri yra ** \*. BLOB.Core.Windows.net** (pakaitos simbolis nurodo unikalų jūsų eksportavimo užduoties identifikatorių).
 
-- Jūs esate priskirtas "Office 365" sauga eksporto vaidmenį &amp; atitikties užtikrinimo centre. Pagal numatytuosius nustatymus šis vaidmuo priskiriamas tik eDiscovery Manager vaidmenų grupę. Peržiūrėkite [el. duomenų aptikimo teisių](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Jums priskirtas eksportavimo vaidmuo Office 365 saugos &amp; atitikties centre. Pagal numatytuosius nustatymus šis vaidmuo priskiriamas tik eDiscovery Manager vaidmenų grupei. Žiūrėkite [priskirti eDiscovery teises](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Norėdami gauti daugiau informacijos, peržiūrėkite [eksportuoti turinį paieškos rezultatų](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Daugiau informacijos rasite [eksportuokite turinio ieškos rezultatus](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

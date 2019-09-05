@@ -1,26 +1,26 @@
 ---
 title: Sąlyginė prieiga su Intune
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520171"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755568"
 ---
 # <a name="conditional-access"></a>Sąlyginė prieiga
 
-Sąlyginė prieiga yra gebėjimas Azure Active Directory. Su sąlygine prieiga, gali įgyvendinti automatizuotos prieigos valdymo sprendimus, susijusius su prieiga prie debesies programas, pagrįstas sąlygas. Norėdami gauti daugiau informacijos, apsilankykite [Configuring Location-Based politiką](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Sąlyginė prieiga yra "Azure Active Directory" galimybė. Naudodami sąlyginę prieigą galite įdiegti automatizuotus prieigos valdymo sprendimus, skirtus pasiekti jūsų debesies programėles, kurios pagrįstos sąlygomis. Norėdami gauti daugiau informacijos, apsilankykite [konfigūravimas pagal buvimo vietą politika](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Kaip IT administratorius, galite valdyti prieigą prie SharePoint ir "OneDrive" išteklių, nustatytų tinklo vietas arba įrenginius, galite pasitikėti. Norėdami gauti daugiau informacijos, apsilankykite žemiau esančią nuorodą.
+Kaip IT administratorius, taip pat galite valdyti prieigą prie "SharePoint" ir "OneDrive" išteklių pagal apibrėžtas tinklo vietas arba įrenginius, kuriais pasitikite. Daugiau informacijos rasite toliau pateiktuose saituose.
 
-- [Valdyti prieigą prie SharePoint Online ir "OneDrive" duomenų, atsižvelgiant į tinklo vietą](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Valdykite prieigą prie "SharePoint Online" ir "OneDrive" duomenų pagal tinklo vietą](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Valdyti prieigą iš nevaldomų įrenginių](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Valdykite prieigą iš nevaldomų įrenginių](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

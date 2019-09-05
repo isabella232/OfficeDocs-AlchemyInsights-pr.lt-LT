@@ -1,5 +1,5 @@
 ---
-title: Įdiegti Project Professional
+title: Įdiekite "Project Professional"
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,20 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 6d88f8f13f242d797114eae2367f16de03c6ca33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498711"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739141"
 ---
-# <a name="install-project-professional"></a>Įdiegti Project Professional
+# <a name="install-project-professional"></a>Įdiekite "Project Professional"
 
-Peržiūrėkite ir Sužinokite, kaip įdiegti Project Online prenumeratos versiją ir projekto 2019 m., 2016 m. arba 2013 m. ne prenumeratos versiją [Įdiegti projekto](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) . 
+Žr [įdiegti projekto](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) sužinoti, kaip įdiegti prenumerata versija Project Online, ir ne prenumeratos versija Project 2019, 2016, arba 2013. 
 
-Projektas 2010 m. arba 2007, atlikite veiksmus, [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) "arba" [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+Jei projektas 2010 arba 2007, atlikite veiksmus, nurodytus " [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) " arba " [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)". 
 
-Projektas yra parduodamas, kaip naudojant atskirą programą, todėl, jei jūs neturite jį dar [projektų, PPT](https://products.office.com/project). 
+Projektas parduodamas kaip atskira programa, todėl, jei jo dar neturite, [įsigykite arba Išbandykite "Project](https://products.office.com/project)". 
 
 
 

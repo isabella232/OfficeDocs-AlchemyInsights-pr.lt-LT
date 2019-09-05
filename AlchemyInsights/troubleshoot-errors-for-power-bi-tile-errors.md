@@ -1,5 +1,5 @@
 ---
-Title: Atnaujinimo scenarijus - plytelių klaidų šalinimas
+title: Atnaujinimo scenarijų trikčių diagnostika – plytelių klaidos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506847"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748836"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Atnaujinimo scenarijus - plytelių klaidų šalinimas
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Atnaujinimo scenarijų trikčių diagnostika – plytelių klaidos
 
-Jei plytelės naujinimo klaidų "Power BI" paslaugoje, Palaukite apie 10-15 minučių atnaujinti atsispindi prietaisų skydelio plytelės. Jei tai yra vis dar nerodo, iš naujo prisegti vizualizacija, kad Panel.
+Jei "Power BI" paslaugoje kyla plytelių atnaujinimo klaidų, Palaukite apie 10-15 minučių, kol ji bus įtraukta į ataskaitų srities plyteles. Jei jis vis dar nerodomas, iš naujo prisekite vizualizaciją prie ataskaitų srities.
 
 Daugiau informacijos:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

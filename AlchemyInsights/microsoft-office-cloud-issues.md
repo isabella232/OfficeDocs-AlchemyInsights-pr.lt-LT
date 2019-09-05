@@ -1,6 +1,6 @@
 ---
-title: Administratoriaus vaidmenų ir kaip priskirti
-ms.author: kirks
+title: Administratoriaus vaidmuo ir kaip priskirti
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544619"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754092"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Kilo problemų su debesies paslaugą?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Kilo problemų dėl debesies paslaugų?
 
-Jei jums kyla problemų su debesų paslauga, galite patikrinti [paslaugų sveikatos](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) "Microsoft" 365 administravimo centro siekiant nustatyti, ar tai žinoma problema su rezoliucija vyksta prieš galite kreiptis į palaikymo tarnybą arba praleisti laiką trikčių šalinimas. Problema gali būti labai trumpalaikis ir jau žinomas iš "Microsoft", tačiau gali būti netenka galios nuo problemos identifikavimo ir registravimo tarnybų sveikatos stebėjimo skydas. Prašome ir toliau tikrins paslaugų ataskaitų srityje, naujų naujinimų.
+Jei kyla problemų su debesies paslauga, galite patikrinti [tarnybos sveikatos](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365 administravimo centro nustatyti, ar tai yra žinoma problema su rezoliucija vyksta prieš jums paskambinti palaikymo arba praleisti laiką trikčių diagnostika. Šis klausimas gali būti labai laikinas ir "Microsoft" jau nustatytas, tačiau gali būti, kad tarp išdavimo nustatymo ir registravimo tarnybos sveikatos valdymo skydelyje yra galiojimo laikas. Toliau tikrinkite paslaugų ataskaitų sritį, kad galėtumėte toliau naujinti.
 
-**Notifikuotųjų įstaigų pranešimo politiką**
+**Pranešimų politika**
 
-Kai paslauga incidentas, "Microsoft" supranta, kad laiku, tikslinius ir tikslius pranešimai yra labai svarbūs klientams. "Microsoft" praneša "Office 365" administratoriams atnaujinti nuomininkas būdingų [Paslaugų sveikatos ataskaitų srities (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) apie Office 365 administravimo portalo. Paslaugos incidentas naujinimai pateikiami dėl valandinio cadence arba, jeigu reikia skirtingų cadence, ji bus nurodyta SHD komunikacijos komandiruotės. Daugiau informacijos rasite [kaip tikrinti Office 365 paslaugos sveikatos](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Įvykus tarnybos incidentui, "Microsoft" supranta, kad laiku, tiksliniai ir tikslūs ryšiai yra itin svarbūs klientams. Microsoft praneša Office 365 administratoriams atnaujinti nuomotojo konkrečios [tarnybos sveikatos ataskaitų srities (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Office 365 administravimo portalas. Tarnybos incidentas atnaujinimai yra pateikiami valandinis Cadence arba, jei skiriasi Cadence reikia, jis bus nurodytas SHD komunikacijos registravimas. Jei norite gauti daugiau informacijos, Sužinokite, [kaip patikrinti Office 365 tarnybos sveikatos](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
