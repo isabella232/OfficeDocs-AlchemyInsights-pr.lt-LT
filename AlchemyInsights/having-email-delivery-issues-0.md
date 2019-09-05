@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523375"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739789"
 ---
 # <a name="having-email-delivery-issues"></a>Kyla el. pašto pristatymo problemų?
 
@@ -26,9 +26,8 @@ Aptikome, kad jūsų vartotojai negali gauti el. laiškų, siunčiamų į šiuos
   
 {HealthCheckString}
   
-Netinkamai sukonfigūruoti domeno (DNS) parametrų NS arba MX įrašai, todėl negalima pristatyti el. laiškų jūsų „Office 365“ tarnybai. Išsamią informaciją žr. [DNS įrašų atnaujinimas naudojant „Office 365“](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Netinkamai sukonfigūruoti domeno (DNS) parametrų NS arba MX įrašai, todėl negalima pristatyti el. laiškų jūsų „Office 365“ tarnybai. Išsamių instrukcijų taip pat galite rasti [DNS įrašų kūrimas pas bet kurį „Office 365“ DNS išteklių nuomos teikėją](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Norėdami ištaisyti, eikite į puslapį [Domenai](https://admin.microsoft.com/adminportal/home#/Domains) „Microsoft 365“ administravimo centre, kur mes jums padėsime.
   
-Kitus galimus sprendimus žr. [Domenų DUK](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
   

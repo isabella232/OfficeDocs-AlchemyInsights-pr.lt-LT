@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661556"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739069"
 ---
 # <a name="issue-with-skype-for-business"></a>Problemos dėl „Skype“ verslui?
 
@@ -23,11 +23,10 @@ Nustatėme, kad šie domenai turi problemų, kurios gali neleisti tinkamai veikt
   
 {HealthCheckString}
   
-Netinkamai sukonfigūruoti „Skype“ verslui domeno (DNS) parametrų NS, CNAME ir SRV įrašai. Išsamią informaciją žr. [DNS įrašų atnaujinimas naudojant „Office 365“](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Netinkamai sukonfigūruoti „Skype“ verslui domeno (DNS) parametrų NS, CNAME ir SRV įrašai. Išsamių instrukcijų taip pat galite rasti [DNS įrašų kūrimas pas bet kurį „Office 365“ DNS išteklių nuomos teikėją](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Norėdami ištaisyti, eikite į puslapį [Domenai](https://admin.microsoft.com/adminportal/home#/Domains) „Microsoft 365“ administravimo centre, kur mes jums padėsime.
   
 Jei turite problemų bendraudami su vartotojais, kurie nepriklauso jūsų organizacijai, išsamias instrukcijas žr. [Internetinės „Skype“ verslui išorinių ryšių nustatymas](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx).
-  
-Kitus galimus sprendimus žr. [domenų DUK](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
+
   
