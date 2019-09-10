@@ -1,5 +1,5 @@
 ---
-title: 9000198 "Outlook.com" kalendoriaus beta versija
+title: 9000198 Outlook.com kalendorius beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548147"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821990"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Naujas kalendoriaus patirtimi, artėja prie "Outlook.com"
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Naujas kalendorius patirtis ateina į Outlook.com
 
-Nauja išvaizda duoda geriausius dizaino ir learnings nuo pašto patirtį į kalendorių.
+Naujoji išvaizda atneša geriausius dizaino ir learnings iš pašto patirtis į kalendorių.
 
-Jums patiks šiuolaikiško dizaino, kuri sumažina vizualiai griozdai ir suteikia jums būdų, kaip greičiau naršyti kalendoriuje. Jis taip pat lengviau rasti įdomių kalendoriai jūsų mėgstamiausia veikla – nuo TV rodo sporto komandų ir įvykius.
+Jums patiks modernus dizainas, kuris sumažina vaizdo netvarką ir suteikia greitesnių būdų naršyti jūsų kalendoriuje. Taip pat lengviau rasti įdomių jūsų mėgstamos veiklos kalendorių – nuo TV laidų iki sporto komandų ir įvykių.
 
-Mes išplėsti mūsų kolekcija įvykio piktogramos ir atnaujinta išvaizdą ir esamų, ir mes dabar automatiškai pridėti atitinkamos piktogramos įvykius, kad galėtumėte lengvai matyti, kas vyksta iš pirmo žvilgsnio.
+Mes plečiame savo renginių piktogramų kolekciją ir atnaujinome esamų išvaizdą bei dabar automatiškai pridėsime atitinkamas piktogramas, kad galėtumėte lengvai pamatyti, kas vyksta iš pirmo žvilgsnio.
 
-Galite pateikti atsiliepimą apie naują ["Outlook.com" kalendorių UserVoice kanalas](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Jūs galite pateikti atsiliepimus apie naujas funkcijas per [Outlook.com kalendorius UserVoice kanalą](https://go.microsoft.com/fwlink/?linkid=2103075).

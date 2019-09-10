@@ -1,5 +1,5 @@
 ---
-title: Failo atidaryti tik skaityti
+title: Atidaryti tik skaitomą failą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,43 +9,46 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525679"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822242"
 ---
-# <a name="file-open-read-only"></a>Failo atidaryti tik skaityti
+# <a name="file-open-read-only"></a>Atidaryti tik skaitomą failą
 
-Galite pastebėti, kad kai atidarote failus, jie atidaryti kaip tik skaitomą. Kai kuriais atvejais tai papildomo saugumo, pavyzdžiui, atidarant failus iš interneto, ir kitais atvejais, tai gali būti dėl parametrą, kuris gali būti pakeistas. Štai keletas veiksmų, kuriuos galite atlikti Norėdami pakeisti, kad ir kai kuriais atvejais, kai failas atidaromas tik skaityti.
+Jūs galite pastebėti, kad atidarant failus, jie atidaryti tik skaitomas. Kai kuriais atvejais tai papildoma sauga, pvz., kai atidarote failus iš interneto, ir kitais laikais, tai gali būti dėl parametro, kuris gali būti pakeistas. Štai keli scenarijai, kai failas atidaromas tik skaityti ir kai kuriuos veiksmus galite atlikti, kad tai pakeistumėte.
   
- **Mano antivirus sukelia jų atidaryti tik skaityti**
+ **Mano antivirusinė daro juos atidaryti tik skaityti**
   
-Kai kurios antivirusinės programos gali apsaugoti jus nuo potencialiai nesaugių failų, atidarykite juos tik skaityti. Gali tekti patikrinti su savo antivirusinės programos teikėju ir Sužinokite, kaip nustatyti šiuos parametrus. BitDefender, pvz., vietos turinio pridėjimas taikymo išimtys čia: [kaip pridėti taikymas arba procesas išimtys Bitdefender valdymo centre](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Kai kurios antivirusinės programos gali apsaugoti jus nuo potencialiai nesaugių failų, atidarydami juos tik skaityti. Kad sužinotumėte, kaip koreguoti šiuos parametrus, gali reikėti patikrinti antivirusinės programos teikėją. BitDefender, pavyzdžiui, yra turinio įtraukti programos išimtys čia: [kaip pridėti programos ar proceso išimtys BitDefender valdymo centras](https://aka.ms/AA6098i).
   
- **Yra failo ypatybes nustatyti kaip skirtus tik skaityti?**
+ **Ar failo ypatybės nustatytos tik skaityti?**
   
-Jūs Patikrinkite failo ypatybes, dešiniuoju pelės mygtuku spustelėdami ant failo ir pasirinkite Ypatybės. Jei pažymėtas atributą tik skaityti, galite nuimkite jį ir spustelėkite gerai.
+Failo ypatybes galite patikrinti dešiniuoju pelės klavišu spustelėję failą ir pasirinkę ypatybės. Jei pažymėtas atributą tik skaityti, galite nuimkite jį ir spustelėkite gerai.
   
- **Turinys yra apsaugotas rodinys**
+ **Turinys yra apsaugotame rodinyje**
   
-Failuose iš interneto ir kitų potencialiai nesaugių vietų gali būti virusų, kirminų, ar kitų rūšių kenkėjiškų programų, kurios gali pakenkti jūsų kompiuteriui. Tai taip pat paprastai su el. laiškų priedus ir failus, kuriuos atsisiuntėte. Norėdami padėti apsaugoti jūsų kompiuterį, failus iš potencialiai nesaugių vietų yra atidaryti apsaugotame rodinyje. Naudodami apsaugotąjį rodinį galite skaityti failą ir matyti jų turinį, tuo pačiu sumažinant riziką. Daugiau informacijos apie apsaugotasis rodinys ir kaip pakeisti nustatymus, skaitykite šį straipsnį: [kas yra apsaugotame rodinyje?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Failuose iš interneto ir kitų potencialiai nesaugių vietų gali būti virusų, kirminų arba kitokių kenkėjiškų programų, galinčių pakenkti jūsų kompiuteriui. Tai taip pat dažnai būna su el. pašto priedais arba atsisiųstais failais. Siekiant apsaugoti jūsų kompiuterį, failai iš šių potencialiai nesaugių vietų atidaromi apsaugotame rodinyje. Naudodami apsaugotą rodinį, galite skaityti failą ir pamatyti jo turinį, o sumažinti riziką. Daugiau informacijos apie apsaugotą rodinį ir kaip pakeisti parametrus rasite šiame straipsnyje: [kas yra apsaugotas rodinys?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Kupina "OneDrive"?**
+ **Ar "OneDrive" pilna?**
   
-Jei failas saugomas "OneDrive" ir "OneDrive" saugyklos vietą yra pilnas, jūs negalėsite įrašyti dokumentą, kol jūs esate pagal jūsų skirtos vietos. Jūsų laisvos vietos "OneDrive" galite patikrinti spustelėję pranešimų centras "OneDrive" piktogramą ir pasirinkę valdyti saugyklą, arba galite pereiti į [http://onedrive.live.com](http://onedrive.live.com), prisijunkite, ir Atkreipkite dėmesį, kiek vietos naudojama apatinėje kairėje ekrano.
+Jei failas saugomas "OneDrive" ir jūsų "OneDrive" saugykla yra pilna, negalėsite įrašyti dokumento, kol nesate jūsų paskirta vieta. Galite patikrinti savo laisvą vietą "OneDrive" spustelėję "OneDrive" piktogramą pranešimų centre ir pasirinkę tvarkyti saugyklos vietą, arba galite pereiti prie [http://onedrive.live.com](http://onedrive.live.com), prisijungti ir įsidėmėti panaudotos vietos dydį apatiniame kairiajame ekrano kampe.
   
- **Tarnyba įjungta?**
+ **Ar "Office" suaktyvinta?**
   
-Jei tarnyba neįjungta, arba jei jūsų abonemento galiojimas baigėsi, jums gali būti skirtas tik skaityti sumažinto funkcionalumo režimu. Informacijos, kaip suaktyvinti Office, žr.: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jei "Office" nesuaktyvinta arba baigėsi prenumeratos galiojimo laikas, galite būti tik skaitymo sumažinto funkcionalumo režimu. Informacijos, kaip aktyvinti "Office", rasite: ["Office" nelicencijuotų produktų ir aktyvinimo klaidų](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Jei visa kita nepavyksta...**
   
 - Pabandykite iš naujo paleisti kompiuterį
     
-- Įdiegti Office naujinimus
+- "Office" naujinimų diegimas
     
-- Atlikti internete remonto tarnybos
+- Atlikti internetinį "Office" taisymą
     
 

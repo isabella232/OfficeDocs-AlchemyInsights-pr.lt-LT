@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook.com\" Facebook kodai"
+title: Outlook.com Facebook kodai
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546779"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822314"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ne gauti Facebook kodus, naudodami "Outlook.com"
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Negauna Facebook kodai naudojant Outlook.com
 
-Jei prašoma naują slaptažodį iš "Facebook", bet negavau savo slaptažodžio nustatymo iš naujo el. pašto:
+Jei paprašėte naujo slaptažodžio iš "Facebook", bet negavau slaptažodžio nustatymo iš naujo el. laiško:
 
-- Patikrinkite savo [pašto šiukšlių ar šlamšto pašto aplanką](https://outlook.live.com/mail/junkemail).
-- Pabandykite iš naujo nustatyti [savo "Facebook" slaptažodį dar kartą](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Patikrinkite [šlamšto arba nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail).
+- Pabandykite [iš naujo nustatyti savo Facebook slaptažodį dar kartą](https://aka.ms/facebook-password-reset).
 
-Jei negalite pakeisti savo slaptažodį, nes jūs negalite pasiekti mobiliojo telefono numerį ir el. pašto paskyros, pabandykite ["Facebook' slaptažodį iš naujo nustatyti patarimus](https://www.facebook.com/help/218815984812734).
+Jei negalite iš naujo nustatyti slaptažodžio, nes negalite pasiekti paskyroje esančio el. pašto ar mobiliojo telefono numerio, išbandykite ["Facebook" slaptažodžio nustatymo iš naujo patarimus](https://aka.ms/facebook-password-help).

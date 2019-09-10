@@ -1,5 +1,5 @@
 ---
-title: 1800029 susietų abonementų nėra palaikoma programoje "Outlook" žiniatinklyje
+title: 1800029 prijungtas abonementai nepalaikomas programoje "Outlook" žiniatinklyje
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504780"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821810"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Prijungto sąskaitų nebepalaikomi
+# <a name="connected-accounts-are-no-longer-supported"></a>Nebepalaikomi prijungtų paskyrų
 
-"Microsoft" panaikino galimybę įtraukti naujus abonementus su "Outlook" žiniatinklyje naudodami funkciją susietų abonementų 2018 m. rugsėjo 15 d ir sustabdys sinchronizavimo esamas dėl 2018 m. spalio 30 d, buvo prijungti iki 2018 m. rugsėjo 15 d.. Lapkričio 15 dieną, susietų abonementų variantas ( **Parametrai** \> **pašto** \> **sąskaitų**) bus pašalinti iš "Outlook" žiniatinklyje.Daugiau informacijos ieškokite [prijungto sąskaitų nebepalaikomas programoje "Outlook" žiniatinklyje (verslo abonentams "Office 365")](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+"Microsoft" pašalino galimybę pridėti naujus abonementus prie "Outlook" žiniatinklyje naudojant prijungtų abonementų funkciją rugsėjo 15, 2018 ir nustos sinchronizuoti esamus abonementus 30 spalis 2018, kurie buvo susiję iki rugsėjo 15, 2018. Lapkričio 15 d., prijungtų paskyrų parinktis ( **parametrų** \> **pašto** \> **abonementai**) bus pašalinta iš "Outlook" žiniatinklyje.Daugiau informacijos žr., " [Outlook" žiniatinklyje nebepalaikomas prijungtų abonementų ("Office 365" verslo abonementams)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Norėdami ir toliau matyti el. laiškus iš kitų abonementų: vis dar galite persiųsti el. paštas tose paskyrose "Outlook" žiniatinklyje. Daugiau informacijos žr.
+Jei norite toliau matyti el. paštą iš kitų paskyrų: vis tiek galite persiųsti el. laiškus iš šių paskyrų į "Outlook" žiniatinklyje. Daugiau informacijos žr.
   
-[Įjungti arba išjungti automatinį persiuntimą į "Outlook.com"](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Automatinio persiuntimo įjungimas arba išjungimas Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Automatiškai persiųsti "Gmail" pranešimus į kitą abonementą](https://support.google.com/mail/answer/10957?hl=en)
+[Automatinis "Gmail" pranešimų persiuntimas į kitą paskyrą](https://aka.ms/forward-gmail-messages)
   
-[Automatinis el. laiškų peradresavimas Yahoo Mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Automatinis paštas ekspedijavimas Yahoo Mail](https://aka.ms/yahoo-email-forwarding)
   

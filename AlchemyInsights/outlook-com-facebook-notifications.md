@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook.com\" Facebook Pranešimai"
+title: Outlook.com Facebook Pranešimai
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536983"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822109"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>"Facebook" pranešimus naudodami "Outlook.com"
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook Pranešimai naudojant Outlook.com
 
-Jei nenorite gauti pranešimų iš "Facebook", galite pakeisti savo ["Facebook" nustatymus](https://www.facebook.com/settings?tab=notifications) arba sukurti aplanko Gauta taisyklę.
+Jei nenorite gauti pranešimų iš "Facebook", galite pakeisti " [Facebook" nustatymus](https://aka.ms/facebook-notifications-settings) arba nustatyti aplanko Gauta taisyklę.
 
-1. Eiti į [taisyklių nuostatos](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Eikite į [taisyklės parametrus](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Pasirinkite **įtraukti naują taisyklę**.
-1. Pavadinkite taisyklę "Facebook".
-1. Pridėti sąlygą, "Nuo" ir įveskite "notification@facebookmail.com"
-1. Pridėti veiksmą "Ištrinti". Pasirinkti Delete – tai pranešimai lieka jūsų panaikinta ir atkurti. Jei pasirinksite "Pažymėti kaip šiukšlių", pranešimai bus automatiškai panaikinti, ir negali būti atkurta.
+1. Pavadinkite savo taisyklę "Facebook".
+1. Pridėkite sąlygą "nuo" ir įveskite "notification@facebookmail.com"
+1. Pridėkite "Delete" veiksmą. Pasirinkus ištrinti reiškia, kad laiškai liks panaikintų elementų ir gali būti atkurti. Jei pasirinksite "žymėti kaip nepageidaujamą", pranešimai bus automatiškai ištrinti ir jų nebus galima atkurti.
 1. Pasirinkite **įrašyti**.
