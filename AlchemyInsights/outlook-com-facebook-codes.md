@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook.com\" Facebook kodai"
+title: Outlook.com Facebook kodai
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546779"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822314"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a><span data-ttu-id="3d3b3-102">Ne gauti Facebook kodus, naudodami "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="3d3b3-102">Not receiving Facebook codes using Outlook.com</span></span>
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a><span data-ttu-id="fd14e-102">Negauna Facebook kodai naudojant Outlook.com</span><span class="sxs-lookup"><span data-stu-id="fd14e-102">Not receiving Facebook codes using Outlook.com</span></span>
 
-<span data-ttu-id="3d3b3-103">Jei prašoma naują slaptažodį iš "Facebook", bet negavau savo slaptažodžio nustatymo iš naujo el. pašto:</span><span class="sxs-lookup"><span data-stu-id="3d3b3-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
+<span data-ttu-id="fd14e-103">Jei paprašėte naujo slaptažodžio iš "Facebook", bet negavau slaptažodžio nustatymo iš naujo el. laiško:</span><span class="sxs-lookup"><span data-stu-id="fd14e-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
 
-- <span data-ttu-id="3d3b3-104">Patikrinkite savo [pašto šiukšlių ar šlamšto pašto aplanką](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="3d3b3-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
-- <span data-ttu-id="3d3b3-105">Pabandykite iš naujo nustatyti [savo "Facebook" slaptažodį dar kartą](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span><span class="sxs-lookup"><span data-stu-id="3d3b3-105">Try to [reset your Facebook password again](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span></span>
+- <span data-ttu-id="fd14e-104">Patikrinkite [šlamšto arba nepageidaujamo el. pašto aplanką](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="fd14e-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
+- <span data-ttu-id="fd14e-105">Pabandykite [iš naujo nustatyti savo Facebook slaptažodį dar kartą](https://aka.ms/facebook-password-reset).</span><span class="sxs-lookup"><span data-stu-id="fd14e-105">Try to [reset your Facebook password again](https://aka.ms/facebook-password-reset).</span></span>
 
-<span data-ttu-id="3d3b3-106">Jei negalite pakeisti savo slaptažodį, nes jūs negalite pasiekti mobiliojo telefono numerį ir el. pašto paskyros, pabandykite ["Facebook' slaptažodį iš naujo nustatyti patarimus](https://www.facebook.com/help/218815984812734).</span><span class="sxs-lookup"><span data-stu-id="3d3b3-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://www.facebook.com/help/218815984812734).</span></span>
+<span data-ttu-id="fd14e-106">Jei negalite iš naujo nustatyti slaptažodžio, nes negalite pasiekti paskyroje esančio el. pašto ar mobiliojo telefono numerio, išbandykite ["Facebook" slaptažodžio nustatymo iš naujo patarimus](https://aka.ms/facebook-password-help).</span><span class="sxs-lookup"><span data-stu-id="fd14e-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://aka.ms/facebook-password-help).</span></span>
