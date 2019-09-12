@@ -1,5 +1,5 @@
 ---
-title: Kaip patikrinti savo domeną "Office 365"
+title: Kaip patikrinti savo domeną naudojant "Office 365"
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664077"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851728"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Kaip patikrinti savo domeną "Office 365"
+# <a name="how-to-verify-your-domain-with-office-365"></a>Kaip patikrinti savo domeną naudojant "Office 365"
 
-Norėdami patikrinti savo domeną, turėsite TXT įrašo įtraukimas į savo domeno registratoriaus įsitikinti, kad domenas priklauso jums. Pirmą kartą, atlikite [vedlyje įtraukti domeną,](https://portal.office.com/adminportal/home#/Domains) pasirinkdami **Parametrai** \> **Domaisn**, ir tada **pridėti domeno**.
+Norėdami patikrinti savo domeną, turėsite įtraukti TXT įrašą į savo domenų registratorių ir įsitikinti, kad jūsų domenas priklauso jums. Pirma, vadovaukitės [pridėti domeno vedlį](https://portal.office.com/adminportal/home#/Domains) pasirinkdami **Parametrai** \> **domenai**, ir tada **pridėti domeną**.
   
-Nurodymus, [kurti DNS įra us visus DNS išteklių nuomos teikėją "Office 365"](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pridėti TXT įrašą, kad patikrinti savo domeno.
+Vykdykite nurodymus [kurti DNS įra us bet DNS i teklių nuomos teikėjas, skirtas Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) įtraukti TXT įra ą ir patikrinkite, ar jūsų domenas.
   
