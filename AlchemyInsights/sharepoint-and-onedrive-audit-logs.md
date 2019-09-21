@@ -1,5 +1,5 @@
 ---
-title: Klasikinis SharePoint audito žurnalų ataskaitos
+title: Klasikinės "SharePoint" audito žurnalo ataskaitos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504399"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068031"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint ir "OneDrive" audito žurnalai
+# <a name="sharepoint-and-onedrive-audit-logs"></a>"SharePoint" ir "OneDrive" audito žurnalai
 
-**SharePoint ir "OneDrive" šiuolaikinio vieningas audito žurnalus iš atitikties**
+**"SharePoint" ir "OneDrive" šiuolaikinės vieningosios audito žurnalai atitikties**
 
-- [Įjungti/išjungti vieningosios registravimo audito](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Įjungti/išjungti vieningosios audito registravimą](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Jokių papildomų konfigūracija būtų privaloma SharePoint arba "OneDrive".
+"SharePoint" arba "OneDrive" nereikia papildomos konfigūracijos.
 
-- Naudoti audito žurnalų paieškos patikrinti veiklos failų, aplankų, vartotojų, teises:
+- Naudokite audito registravimo iešką Norėdami patikrinti failo (-ų), aplanko (-ų), vartotojo (-ų), leidimų veiklą:
 
-    - [Failas ir puslapio veiklos](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Failų ir puslapių veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
     - [Aplanko veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Dalintis ir prieigos prašymas veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Sinchronizavimas veiklos](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Bendrinimo ir prieigos užklausų veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Sinchronizavimo veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
     - [Svetainės administravimo veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Daugiau informacijos apie tai, kaip gauti šiuos įvykius, peržiūrėkite [paieškos audito žurnale](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- Daugiau informacijos apie tai, kaip nuskaityti šiuos įvykius, rasite [Ieškoti audito žurnale](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**SharePoint klasikinis audito žurnalai**
+**SharePoint Classic audito žurnalai**
 
-- [Peržiūrėti ir įjungti Klasikiniai SharePoint audito žurnalai](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Perkelėme SPO palikimą į vieningosios audito žurnalo (UAL) auditą. Tai iš esmės reiškia, kad dabar visos SPO senstelėjusios įrangos audito ataskaitos bus maitinamas per UAL, o senesni audito signalai buvo perkelti į UAL.
 
-Audito poreikį būti įjungtas per kiekviename svetainių rinkinyje. 
+Pagrindiniai pakeitimai:
 
-**Pastaba**: rekomenduojame naudoti šiuolaikinių vieningas audito žurnalus geriau ir pažengęs audito galimybių nei šie klasikinis audito žurnalus.
+- NEGALIMA apipjaustyti kaip galimybės.
+- Sekcija, kurioje pasirenkate konkrečius audito įvykius, yra neprieinama. Prašome kreiptis į [šį dokumentą](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) visą audituotų renginių, galimų pagal numatytuosius nustatymus, sąrašą.
+- Parinktis "vieta" pagal **pritaikytas ataskaitas** yra neprieinama. 
+- "Dokumentų atidarymas arba atsisiuntimas" įvykiai nepasiekiami. 
 
