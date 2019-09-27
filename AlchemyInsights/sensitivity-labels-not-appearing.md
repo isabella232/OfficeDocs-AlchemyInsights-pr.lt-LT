@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744829"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207233"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nerodomos jautrumo etiketės
 
-Jautrumo etiketės leidžia klasifikuoti ir apsaugoti jūsų slaptą turinį. Jei norite sužinoti daugiau apie šią funkciją, peržiūrėkite [jautrumo etikečių apžvalgą](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Jautrumo etiketės leidžia klasifikuoti ir apsaugoti jūsų slaptą turinį. Jie gali būti sukurtas Microsoft 365 atitikties centras, Microsoft 365 saugos centras arba Office 365 saugos & atitikties centras pagal klasifikacija > jautrumo etiketės. Jei norite sužinoti daugiau apie šią funkciją, peržiūrėkite [jautrumo etikečių apžvalgą](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Jei sukonfigūravote jautrumo etiketes, bet jos nerodomos "Office" programose, patikrinkite toliau nurodytus veiksmus.
 
@@ -31,6 +31,11 @@ Jei sukonfigūravote jautrumo etiketes, bet jos nerodomos "Office" programose, p
 
 - Jei perkeliate " [Azure" informacijos apsaugos etiketes](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), žinokite [čia](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)pateiktus aspektus.
 
-- Duomenų praradimo prevencija (DLP) palaikymas: šiuo metu tik saugojimo etiketės gali būti naudojamos kaip DLP strategijų sąlyga.  Palaikymas jautrumo etikečių DLP politikoje dar nėra, bet mes dirbame su juo.
+- Duomenų praradimo prevencija (DLP) palaikymas: šiuo metu tik saugojimo etiketės gali būti naudojamas kaip sąlyga DLP strategijoje.  Nepalaiko jautrumo etikečių DLP strategijos dar, bet mes dirbame su juo.
+
+- Kai šifravimas yra įjungtas jautrumo etiketėje, galite pasirinkti arba:
+    - Priskirti teises dabar
+    - Leisti vartotojams priskirti teises
+
 
 Daugiau informacijos apie galimas problemas rasite [žinomoms problemoms su jautrumo etiketėmis](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

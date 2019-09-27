@@ -2,7 +2,6 @@
 title: Duomenų vieta
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514148"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207269"
 ---
 # <a name="data-location"></a>Duomenų vieta
 
-Palaikome kelias jūsų duomenų kopijas įvairiuose duomenų centruose dėl perteklumo. [Pamatyti, kur yra jūsų duomenys](https://office.com/datamaps). Jei mes plečiame savo duomenų vietą į kitą šalį / regioną, mes duosime jums vieną mėnesį iš anksto pranešti.
-  
-Daugiau informacijos apie "Office 365" saugos, privatumo ir atitikties, rasite [Office 365 patikimumo centre](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Galite peržiūrėti savo "Office 365" nuomotojo vietą administravimo centre arba prisijungti prie "Exchange Online" per "PowerShell".
+
+
+**Administravimo centras:**
+1. Prisijunkite prie [administravimo centro](https://admin.microsoft.com/Adminportal/Home).
+2. Pasirinkite **Parametrai** > **organizacijos profilis**.
+3. Dalyje **duomenų vieta**pasirinkite **Peržiūrėti išsamią informaciją**.
+
+
+**Powershell:**
+1. Prisijungti prie Exchange Online naudojant "Windows PowerShell".
+2. Vykdyti [gauti-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet Rodyti savo nuomotojo ypatybes sąrašą. 
+3. Peržiūrėkite ypatybę OrganizationId.
+
+Jei turite EXO ir SPO duomenų vietą, galite nustatyti duomenų vietą kitoms paslaugoms, kurias galite naudoti iš [ten, kur yra jūsų duomenys](https://products.office.com/where-is-your-data-located).
