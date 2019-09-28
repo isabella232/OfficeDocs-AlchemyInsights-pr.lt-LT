@@ -1,8 +1,7 @@
 ---
-title: Komandoms atnaujinti gaires
+title: "\"Teams\" naujinimo nurodymai"
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533887"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305129"
 ---
-# <a name="upgrade-to-teams"></a>Versijos naujinimas į komandos
+# <a name="microsoft-teams-upgrade"></a>"Microsoft teams" naujinimas
 
-Galite rasti žingsnis po žingsnio vadovas perkelti į "Microsoft" Teams iš "Skype" verslui [čia](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Nesvarbu, ar tik pradedate dirbti su "teams", ar jau naudojate "teams" kartu su "Skype" verslui, ar esate pasirengę atnaujinti, mes norime užtikrinti, kad turite viską, ko reikia norint sėkmingai pereiti prie "teams". Daugiau informacijos rasite toliau pateiktuose saituose.
+
+[Darbo su "Microsoft teams" naujovinimo Pradžia](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Naujovinimo planas](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+["Microsoft teams" ir "Skype" verslui sambūvio supratimas](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Atlikti atnaujinimą iš "Skype" Business Online į komandas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Atlikti atnaujinimą iš "Skype" verslui vietiniame "teams"](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
