@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-enable-Litigation-Hold
+title: 976-kaip įjungti-bylinėjimasis-sulaikymas
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540765"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398635"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Laikymas vietoje pašto dėžutę dėl teisinės pagalbos
+# <a name="place-a-mailbox-on-legal-hold"></a>Pašto dėžutės vieta juridiniam laiky
 
-- Pateikti pašto dėžutės sulaikymas dėl bylinėjimosi arba vietoje palaikykite, Exchange Online Plan 2 licencijos [Exchange Online Plan 2 licencijos](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) nereikia. Jei pašto dėžutės yra priskirtas 1 plano licenciją, galite priskirti atskirą Exchange Online archyvavimas add-on licenciją [Exchange Online archyvavimas priedo licencija](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Norėdami patalpinti pašto dėžutę dėl sulaikymo dėl bylinėjimosi arba sulaikymo vietoje, būtina "Exchange Online Plan 2" licencijos " [Exchange Online" 2 plano licencija](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Jei pašto dėžutei priskiriama 1 plano licencija, galite priskirti atskirą "Exchange Online" archyvavimo Add-on licencijos [Exchange Online archyvavimo Add-on licenciją](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Norėdami įgalinti sulaikymas dėl bylinėjimosi, vienam vartotojui, [atlikite toliau nurodytus veiksmus](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Įgalinus sulaikymas dėl bylinėjimosi, išsaugomas visą turinį į pašto dėžutę.
+- Norėdami įgalinti vieno vartotojo sulaikymas dėl bylinėjimosi, [atlikite toliau nurodytus veiksmus](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Kai įgalintas sulaikymas, visas pašto dėžutės turinys išsaugomas.
 
-- Norint turėti visų pašto dėžučių jūsų organizacijoje, galite naudoti "Office 365" saugojimo strategiją, [atlikite šiuos veiksmus](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Atkreipkite dėmesį, kad visos organizacijos saugojimo politikos, naujiems vartotojams bus automatiškai priskirta politika.
+- Norėdami išsaugoti turinį visose organizacijos pašto dėžutėse, galite naudoti visos [organizacijos Office 365 saugojimo strategiją](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Atkreipkite dėmesį, kad visos organizacijos saugojimo strategijos, nauji vartotojai bus automatiškai priskirti strategijos.
