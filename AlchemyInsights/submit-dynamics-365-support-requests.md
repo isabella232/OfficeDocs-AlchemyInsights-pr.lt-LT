@@ -18,9 +18,9 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36666056"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="44233-102">Pateikti „Dynamics 365“ palaikymo užklausą</span><span class="sxs-lookup"><span data-stu-id="44233-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="10708-102">Pateikti „Dynamics 365“ palaikymo užklausą</span><span class="sxs-lookup"><span data-stu-id="10708-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="44233-103">Jei esate **„Microsoft Dynamics Customer Engagement“** klientas, pateikite kvitą naudodami naująjį [„Power“ platformos administravimo centrą](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="44233-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="10708-103">Jei esate **„Microsoft Dynamics Customer Engagement“** klientas, pateikite kvitą naudodami naująjį [„Power“ platformos administravimo centrą](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="10708-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="44233-104">Naujasis portalas suteikia tiesioginį kelią prie pagalbos ir palaikymo, jos pritaikytas „Dynamics Customer Engagement“ ir kitiems „Power“ platformos produktams.</span><span class="sxs-lookup"><span data-stu-id="44233-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="10708-104">Naujasis portalas suteikia tiesioginį kelią prie pagalbos ir palaikymo, jos pritaikytas „Dynamics Customer Engagement“ ir kitiems „Power“ platformos produktams.</span><span class="sxs-lookup"><span data-stu-id="10708-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   

@@ -18,19 +18,19 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36534211"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="c6b99-102">„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą</span><span class="sxs-lookup"><span data-stu-id="c6b99-102">Sync SharePoint files with the new OneDrive sync client</span></span>
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="aada6-102">„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą</span><span class="sxs-lookup"><span data-stu-id="aada6-102">Sync SharePoint files with the new OneDrive sync client</span></span>
 
-1. <span data-ttu-id="c6b99-103">„SharePoint“ administravimo centre pasirinkite **Parametrai**.</span><span class="sxs-lookup"><span data-stu-id="c6b99-103">In the new SharePoint admin center, select **settings**.</span></span>
+1. <span data-ttu-id="aada6-103">„SharePoint“ administravimo centre pasirinkite **Parametrai**.</span><span class="sxs-lookup"><span data-stu-id="aada6-103">In the new SharePoint admin center, select **settings**.</span></span>
     
-2. <span data-ttu-id="c6b99-104">Įsitikinkite, kad „OneDrive“ sinchronizavimo mygtukas nustatytas rodyti sinchronizavimo mygtuką. </span><span class="sxs-lookup"><span data-stu-id="c6b99-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
+2. <span data-ttu-id="aada6-104">Įsitikinkite, kad „OneDrive“ sinchronizavimo mygtukas nustatytas rodyti sinchronizavimo mygtuką. </span><span class="sxs-lookup"><span data-stu-id="aada6-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
     
-3. <span data-ttu-id="c6b99-105">Norėdami sinchronizuoti „SharePoint“ klientą, pasirinkite **Paleisti naują klientą**.</span><span class="sxs-lookup"><span data-stu-id="c6b99-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
+3. <span data-ttu-id="aada6-105">Norėdami sinchronizuoti „SharePoint“ klientą, pasirinkite **Paleisti naują klientą**.</span><span class="sxs-lookup"><span data-stu-id="aada6-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="c6b99-106">Jei ši parinktis nerodoma, jūsų organizacija jau nustatyta naudoti naująjį „OneDrive“ sinchronizavimo klientą „SharePoint“ failams sinchronizuoti.</span><span class="sxs-lookup"><span data-stu-id="c6b99-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
+    > <span data-ttu-id="aada6-106">Jei ši parinktis nerodoma, jūsų organizacija jau nustatyta naudoti naująjį „OneDrive“ sinchronizavimo klientą „SharePoint“ failams sinchronizuoti.</span><span class="sxs-lookup"><span data-stu-id="aada6-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
   
-4. <span data-ttu-id="c6b99-107">Spustelėkite **Gerai**.</span><span class="sxs-lookup"><span data-stu-id="c6b99-107">Click **OK**.</span></span>
+4. <span data-ttu-id="aada6-107">Spustelėkite **Gerai**.</span><span class="sxs-lookup"><span data-stu-id="aada6-107">Click **OK**.</span></span>
     
-<span data-ttu-id="c6b99-108">Daugiau informacijos žr. [Vartotojų įgalinimas sinchronizuoti „SharePoint“ failus naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866433).</span><span class="sxs-lookup"><span data-stu-id="c6b99-108">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433).</span></span> <span data-ttu-id="c6b99-109">Daugiau instrukcijų, kurias galite pateikti vartotojams, žr. [„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="c6b99-109">For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
+<span data-ttu-id="aada6-108">Daugiau informacijos žr. [Vartotojų įgalinimas sinchronizuoti „SharePoint“ failus naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866433).</span><span class="sxs-lookup"><span data-stu-id="aada6-108">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433).</span></span> <span data-ttu-id="aada6-109">Daugiau instrukcijų, kurias galite pateikti vartotojams, žr. [„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="aada6-109">For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
   
 
