@@ -12,17 +12,17 @@ ms.custom:
 - "28"
 - "9"
 ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742561"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="61edb-102">Bandote pašalinti savo domeną?</span><span class="sxs-lookup"><span data-stu-id="61edb-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="d42da-102">Bandote pašalinti savo domeną?</span><span class="sxs-lookup"><span data-stu-id="d42da-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="61edb-103">Norėdami pašalinti savo domeną iš Office 365, atlikite šiame straipsnyje nurodytus veiksmus: [pašalinkite domeną iš office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span><span class="sxs-lookup"><span data-stu-id="61edb-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span></span>
+<span data-ttu-id="d42da-103">Norėdami pašalinti savo domeną iš Office 365, atlikite šiame straipsnyje nurodytus veiksmus: [pašalinkite domeną iš office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span><span class="sxs-lookup"><span data-stu-id="d42da-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span></span>
   
-<span data-ttu-id="61edb-104">Prieš pašalinate domeną, jums reikės atnaujinti bet kuriuos vartotojus ar grupes, priskirtas tam domeno pavadinimui.</span><span class="sxs-lookup"><span data-stu-id="61edb-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
+<span data-ttu-id="d42da-104">Prieš pašalinate domeną, jums reikės atnaujinti bet kuriuos vartotojus ar grupes, priskirtas tam domeno pavadinimui.</span><span class="sxs-lookup"><span data-stu-id="d42da-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
   
-<span data-ttu-id="61edb-105">[Patikrinti domenų straipsnis](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) kitų bendrų sprendimų.</span><span class="sxs-lookup"><span data-stu-id="61edb-105">[Check the domains article](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for other common solutions.</span></span>
+<span data-ttu-id="d42da-105">[Patikrinti domenų straipsnis](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) kitų bendrų sprendimų.</span><span class="sxs-lookup"><span data-stu-id="d42da-105">[Check the domains article](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for other common solutions.</span></span>
   
