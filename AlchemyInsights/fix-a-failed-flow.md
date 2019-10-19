@@ -1,5 +1,5 @@
 ---
-title: Išspręsti nepavyko srautas
+title: Nepavykusio srauto taisymas
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525248"
 ---
-# <a name="fix-a-flow-that-failed"></a><span data-ttu-id="d7297-102">Srautas, kad nepavyko išspręsti</span><span class="sxs-lookup"><span data-stu-id="d7297-102">Fix a flow that failed</span></span>
+# <a name="fix-a-flow-that-failed"></a><span data-ttu-id="3b0c5-102">Nepavykusio srauto taisymas</span><span class="sxs-lookup"><span data-stu-id="3b0c5-102">Fix a flow that failed</span></span>
 
-1. <span data-ttu-id="d7297-103">Eikite į ["Microsoft" srauto](https://flow.microsoft.com/), ir spustelėkite pranešimų piktogramą viršutiniame dešiniajame kampe.</span><span class="sxs-lookup"><span data-stu-id="d7297-103">Go to [Microsoft Flow](https://flow.microsoft.com/), and click the Notifications icon in the upper right.</span></span> <span data-ttu-id="d7297-104">(Arba mobiliųjų įrenginių programėlę, pasirinkite skirtuką veikla.) Pasirinkite srauto, kuris nesugebėjo pažvelgti į detales.</span><span class="sxs-lookup"><span data-stu-id="d7297-104">(Or in the mobile app, select the Activity tab.) Select the flow that failed to look at the details.</span></span>
+1. <span data-ttu-id="3b0c5-103">Eikite į ["Microsoft Flow](https://flow.microsoft.com/)" ir viršutiniame dešiniajame spustelėkite piktogramą pranešimai.</span><span class="sxs-lookup"><span data-stu-id="3b0c5-103">Go to [Microsoft Flow](https://flow.microsoft.com/), and click the Notifications icon in the upper right.</span></span> <span data-ttu-id="3b0c5-104">(Arba mobiliojoje programėlėje pasirinkite skirtuką veikla.) Pasirinkite srautą, kuriam nepavyko Peržiūrėti išsamios informacijos.</span><span class="sxs-lookup"><span data-stu-id="3b0c5-104">(Or in the mobile app, select the Activity tab.) Select the flow that failed to look at the details.</span></span>
     
-2. <span data-ttu-id="d7297-105">Rasti žingsnis su raudona šauktukas piktogramos, kad matytumėte srauto klaidos pranešimą.</span><span class="sxs-lookup"><span data-stu-id="d7297-105">Find the step with the red exclamation icon to see the error message for the flow.</span></span>
+2. <span data-ttu-id="3b0c5-105">Raskite veiksmą su raudonu šauktuko simboliu, kad pamatytumėte srauto klaidos pranešimą.</span><span class="sxs-lookup"><span data-stu-id="3b0c5-105">Find the step with the red exclamation icon to see the error message for the flow.</span></span>
     
-3. <span data-ttu-id="d7297-106">Priklausomai nuo klaidos pranešimą, jūs galėsite redaguoti srautas ir ją išspręsti.</span><span class="sxs-lookup"><span data-stu-id="d7297-106">Depending on the error message, you should be able to edit the flow and fix it.</span></span> 
+3. <span data-ttu-id="3b0c5-106">Atsižvelgiant į klaidos pranešimą, turėtumėte galėti redaguoti srautą ir jį pataisyti.</span><span class="sxs-lookup"><span data-stu-id="3b0c5-106">Depending on the error message, you should be able to edit the flow and fix it.</span></span> 
     
-[<span data-ttu-id="d7297-107">Bendras srautas gedimai</span><span class="sxs-lookup"><span data-stu-id="d7297-107">Common flow failures</span></span>](https://go.microsoft.com/fwlink/?linkid=872110)
+[<span data-ttu-id="3b0c5-107">Dažni srauto gedimai</span><span class="sxs-lookup"><span data-stu-id="3b0c5-107">Common flow failures</span></span>](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

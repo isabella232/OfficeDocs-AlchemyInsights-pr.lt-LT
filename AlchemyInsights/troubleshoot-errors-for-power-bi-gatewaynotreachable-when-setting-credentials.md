@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable nustatant kredencialus
+title: Gatewaynotpasiekiamas nustatant kredencialus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507135"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a><span data-ttu-id="5d97a-102">GatewayNotReachable nustatant kredencialus</span><span class="sxs-lookup"><span data-stu-id="5d97a-102">GatewayNotReachable when setting credentials</span></span>
+# <a name="gatewaynotreachable-when-setting-credentials"></a><span data-ttu-id="ba48a-102">Gatewaynotpasiekiamas nustatant kredencialus</span><span class="sxs-lookup"><span data-stu-id="ba48a-102">GatewayNotReachable when setting credentials</span></span>
 
-<span data-ttu-id="5d97a-103">GatewayNotReachable gali kilti bandant nustatyti kredencialų duomenų šaltinis "Power BI" paslaugoje.</span><span class="sxs-lookup"><span data-stu-id="5d97a-103">You may encounter GatewayNotReachable when trying to set credentials for a data source within the Power BI service.</span></span> <span data-ttu-id="5d97a-104">Tai gali būti dėl pasenusios vartai.</span><span class="sxs-lookup"><span data-stu-id="5d97a-104">This could be the result of an outdated gateway.</span></span> <span data-ttu-id="5d97a-105">Įdiekite naujausią vartai ir bandykite dar kartą.</span><span class="sxs-lookup"><span data-stu-id="5d97a-105">Install the latest gateway and try again.</span></span>
+<span data-ttu-id="ba48a-103">Bandant nustatyti kredencialus, skirtus duomenų šaltiniui "Power BI" tarnyboje, galite susidurti su Gatewaynotpasiekiamas.</span><span class="sxs-lookup"><span data-stu-id="ba48a-103">You may encounter GatewayNotReachable when trying to set credentials for a data source within the Power BI service.</span></span> <span data-ttu-id="ba48a-104">Tai gali būti pasenusio šliuzo rezultatas.</span><span class="sxs-lookup"><span data-stu-id="ba48a-104">This could be the result of an outdated gateway.</span></span> <span data-ttu-id="ba48a-105">Įdiekite naujausius šliuzą ir bandykite dar kartą.</span><span class="sxs-lookup"><span data-stu-id="ba48a-105">Install the latest gateway and try again.</span></span>
 
-<span data-ttu-id="5d97a-106">Daugiau informacijos:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="5d97a-106">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="ba48a-106">Daugiau informacijos:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="ba48a-106">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
