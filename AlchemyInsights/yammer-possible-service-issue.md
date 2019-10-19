@@ -1,5 +1,5 @@
 ---
-title: "\"Yammer\" - galimų paslaugų problema"
+title: "\"Yammer\" – galimas tarnybos išdavimas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557833"
 ---
-# <a name="yammer---possible-service-issue"></a>"Yammer" - galimų paslaugų problema
+# <a name="yammer---possible-service-issue"></a>"Yammer" – galimas tarnybos išdavimas
 
-Gali būti laikinas klausimas, kur vartotojai gali kilti klaidų, kai prieiga prie "Yammer". Patikrinkite Norėdami pamatyti, jei tai turi įtakos jūsų tinklo [Tarnybų sveikatos stebėjimo skydas](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
+Gali būti laikina problema, kai bandant pasiekti "Yammer" vartotojai gali susidurti su klaidomis. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir pažiūrėkite, ar tai paveiks jūsų tinklą.

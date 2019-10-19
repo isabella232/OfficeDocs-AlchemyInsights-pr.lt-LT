@@ -12,17 +12,17 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739501"
 ---
 # <a name="how-to-disable-external-groups"></a>Kaip išjungti išorinių grupių
 
 "Yammer" išoriniai pranešimai taiko "Exchange" transportavimo taisykles (ETRs) – aktyvių valdiklių rinkinį, kad įmonės informacija nebūtų bendrinama. Tam, kad vartotojams būtų apribotas išorinių grupių kūrimas, turite sukonfigūruoti "Exchange" transportavimo taisyklę (ETR) ir sukonfigūruoti "Yammer", kad būtų galima naudoti "Exchange" transportavimo taisyklę, kad būtų užblokuoti išoriniai pranešimai.
   
-Sukūrę taisyklę "Exchange Online" administravimo centre, atlikite šiuos veiksmus ir nustatykite ETR, kad būtų taikoma "Yammer":
+Sukūrę taisyklę "Exchange Online" administravimo centre, atlikite šiuos veiksmus, kad nustatyti ETR, kad būtų taikoma "Yammer":
   
 - Įeikite į "Yammer" kaip patvirtintą administratorių, o " **Yammer" administravimo centre**eikite į C **turinį ir saugos \> saugos parametrus.**
 

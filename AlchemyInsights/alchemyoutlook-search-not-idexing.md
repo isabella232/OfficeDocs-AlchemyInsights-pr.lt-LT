@@ -1,5 +1,5 @@
 ---
-title: Alchemija - "Outlook" ieškoti ne idexing
+title: Alchemija-Outlook paieška ne idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505839"
 ---
-# <a name="outlook-search-not-indexing"></a>"Outlook" ieškos ne indeksuoja
+# <a name="outlook-search-not-indexing"></a>"Outlook" ieška ne indeksavimas
 
-Mes suώinome apie "Outlook" paieškos klausimai susiję su neseniai saugos naujinimų "Windows".
+Mes žinome apie "Outlook" paieškos klausimus, susijusius su naujausių saugos naujinimų Windows.
   
-Ieškant aplanke "Outlook", galite gauti vieną iš šių klaidų: **kažkas ne taip ir nepavyko savo paiešką**, arba **ieškos rezultatai gali būti neišsamūs, todėl elementų vis dar indeksuojami**. Nustatyti buvo priimtas kaip Pasirinktinis naujinimas "Windows". Įdiekite vieną atitinkantį matote Ši problema dėl "Windows" versiją: 
+Ieškodami programoje "Outlook", galite gauti vieną iš šių klaidų: **kažkas nutiko ir jūsų ieška negalėjo būti baigta**, arba **ieškos rezultatai gali būti nepilni, nes elementai vis dar indeksuojami**. Pataisa buvo išduota kaip Pasirinktinis "Windows" naujinimas. Įdiekite vieną, atitinkantį "Windows" versiją, kurią matote šį klausimą: 
   
-> [Windows 7 - 2017 m. birželio 27 atnaujinti](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-birželio 27, 2017 naujinimas](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Atnaujinti Windows 8.1 - 2017 m. birželio 27](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1-birželis 27, 2017 atnaujinimas](https://support.microsoft.com/kb/4022720.aspx)
     
-> ["Windows 10" versija 1703 - 2017 m. birželio 27 naujinimas](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 versija 1703-birželis 27, 2017 atnaujinimas](https://support.microsoft.com/kb/4022716.aspx)
     
-Naujausią informaciją rasite straipsnyje: ["Outlook" žinomos problemos – 2017 m. birželio saugos naujinimus](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problema #5. 
+Norėdami gauti naujausią informaciją, rasite straipsnyje: ["Outlook" žinomos problemos birželio 2017 saugos naujinimai](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problema #5. 
   
 

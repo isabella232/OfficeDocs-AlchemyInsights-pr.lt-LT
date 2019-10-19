@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 formos XML schemos
+title: Dynamics 365 formos XML schema
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528523"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Tinklalapis (HTML) žiniatinklio ištekliai apribojimai
+# <a name="webpage-html-web-resources-limitations"></a>Tinklalapio (HTML) žiniatinklio išteklių apribojimai
 
-* HTML žiniatinklio išteklių negali būti bet kokį kodą, kuris turi būti vykdomas serveryje. ASP.NET puslapiai negali įkelti kaip HTML žiniatinklio išteklių.
+* HTML žiniatinklio ištekliuose negali būti jokio kodo, kuris turi būti įvykdytas serveryje. ASP.NET puslapių negalima nusiųsti kaip HTML žiniatinklio išteklių.
 
-* HTML žiniatinklio išteklių galima priimti tik ribotą skaičių užklausos eilutės parametrus. Daugiau informacijos: [perduoda parametrus į HTML žiniatinklio išteklių](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML žiniatinklio ištekliai gali priimti tik ribotą užklausos eilutės parametrų skaičių. Daugiau informacijos: [parametrų perdavimas HTML žiniatinklio ištekliams](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Tinklalapis (HTML) žiniatinklio ištekliai](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Tinklalapio (HTML) žiniatinklio ištekliai](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

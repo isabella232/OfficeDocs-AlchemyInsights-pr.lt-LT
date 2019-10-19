@@ -1,5 +1,5 @@
 ---
-title: Šiukšlinė
+title: Šiukšlinę
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552999"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Atkurti elementus SharePoint Online
 
-Kai panaikinate elementus iš SharePoint Online, jie saugomi iš viso 93 dienas. Jos buvimo svetainės šiukšlinę visą laiką, nebent valyti arba naikinti elementus iš jo. Tokiu atveju elementus eikite į svetainės rinkinio Šiukšlinėje, kur jie likti iki kadencijos pabaigos 93 dienų. Metu pabaigoje elementai panaikinami visam laikui. Norėdami atkurti panaikintus elementus iš svetainės Šiukšlinė:
+Panaikinus elementus SharePoint Online, jie saugomi iš viso 93 dienų. Jie likti svetainėje šiukšlinę visą laiką, nebent jūs ištuštinti arba ištrinti elementus iš jo. Tokiu atveju, elementus eiti į svetainių rinkinio šiukšlinės, kur jie buvimo likusią 93 dienų. Pasibaigus laikui, elementai yra panaikinami. Jei norite atkurti panaikintus elementus iš svetainės šiukšlinės:
   
 1. Eikite į svetainę ir kairiojoje srityje spustelėkite **Šiukšlinė** . 
     
-    Jei nematote, **Šiukšlinė** kairiojoje srityje, spustelėkite nustatymų piktogramą viršutiniame dešiniajame kampe, ir tada spustelėkite **svetainės turinys**. Šiukšlinė yra kraštutinių dešiniųjų komandų juostos viršuje.
+    Jei kairiojoje srityje nematote **šiukšlinės** , spustelėkite viršuje dešinėje esančią piktogramą parametrai, tada spustelėkite **svetainės turinys**. Šiukšlinė yra dešinėje komandų juostos viršuje.
     
-2. Puslapio **Šiukšlinę** , pažymėkite elementus, nurodydami jiems ir varnelės piktogramą, rodomą pavadinimą. 
+2. Puslapyje **Šiukšlinė** pasirinkite elementus, kuriuos norite atkurti, nukreipdami žymiklį į juos ir spustelėdami rodomą varnelės piktogramą. 
     
 3. Spustelėkite **atkurti**.
     
-[Atkurti panaikintus elementus iš svetainių rinkinio Šiukšlinė](https://go.microsoft.com/fwlink/?linkid=866439)
+[Panaikintų elementų atkūrimas iš svetainių rinkinio šiukšlinės](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

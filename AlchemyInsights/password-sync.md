@@ -1,5 +1,5 @@
 ---
-title: Kaip patikrinti slaptažodžio sinchronizavimo būsena
+title: Kaip patikrinti slaptažodžio sinchronizavimo būseną
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555385"
 ---
-# <a name="enable-password-sync"></a>Įjungti slaptažodžio sinchronizavimo
+# <a name="enable-password-sync"></a>Įgalinti slaptažodžio sinchronizavimą
 
-1.  Pasirinkti **DirSync būseną** pagrindiniame puslapyje "Microsoft" 365 administravimo centro. 
+1.  "Microsoft" 365 administravimo centro pagrindiniame puslapyje pasirinkite **DirSync būseną** . 
     
-     *Taip pat galite eiti į **vartotojų** \> **aktyvių vartotojų**, ir puslapyje aktyvūs vartotojai pasirinkite **daugiau** \> **katalogų sinchronizavimą.*** 
+     *Pakaitomis, galite eiti į **vartotojų** \> **aktyvūs**vartotojai, ir aktyvių vartotojų puslapyje, pasirinkite **daugiau** \> **katalogų sinchronizavimas.*** 
     
-2. Katalogų sinchronizavimo sritį, pasirinkite **Eiti į DirSync valdymo**. 
+2. Katalogų sinchronizavimo srityje pasirinkite **Eiti į DirSync valdymas**. 
     
-3. Dabar pamatysite savo statusą, ir atlikite keitimus:
+3. Dabar matysite savo būseną ir atlikite keitimus:
     
-    **Slaptažodžio sinchronizavimo įgalintas:** (True arba False). Nurodo, ar jūs turite slaptažodžio sinchronizavimo įgalintas tarp vietinio ir savo Office 365 nuomotojo. 
+    **Slaptažodžio sinchronizavimas įjungtas:** (TRUE arba FALSE). Nurodo, ar įgalintas slaptažodžio sinchronizavimas tarp vietinės ir Office 365 nuomotojo. 
     
-    **Paskutinis slaptažodžio sinchronizavimo:** (Paskutinį kartą vyko slaptažodžio sinchronizavimo). Tai bus rodomas įspėjimas ir nuorodą į trikčių diagnostikos priemonę, jei paskutinis sinchronizavimas buvo daugiau kaip prieš tris dienas. 
+    **Paskutinis slaptažodis Sync:** (paskutinį kartą slaptažodis sinchronizavimo Ran). Bus parodytas įspėjimas ir saitas į trikčių diagnostikos įrankį, jei paskutinis sinchronizavimas buvo prieš daugiau nei tris dienas. 
     
 
