@@ -1,5 +1,5 @@
 ---
-title: 8000036 pakeisti profilio IPS/pavadinimą į "Outlook.com"
+title: 8000036 pakeisti profilio pic/pavadinimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511358"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Pakeisti savo profilio paveikslėlį arba pavadinimą į "Outlook.com"
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Pakeisti mano profilio nuotrauką arba pavadinimą į Outlook.com
 
-1. Eikite į [savo "Microsoft" abonemento informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Pasirinkite **Redaguoti vardą** arba **Keisti paveikslėlį**.
+1. Eikite į ["Microsoft" paskyros informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Pasirinkite **redaguoti pavadinimą** arba **Keisti paveikslėlį**.
 
-Gali praeiti iki 24 val., jūsų profilio nuotrauka ar pavadinimą, kad įsigaliotų pakeitimai.
+Prašome leisti iki 24 valandų keisti savo profilio nuotrauką arba pavadinimą, kad įsigaliotų.

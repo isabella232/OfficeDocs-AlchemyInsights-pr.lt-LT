@@ -1,5 +1,5 @@
 ---
-title: Naikinti SharePoint svetainės
+title: "\"SharePoint\" svetainės naikinimas"
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514054"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Panaikinti svetaines, kurie priklauso grupei, "Office 365"
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Naikinti svetaines, kurios priklauso Office 365 grupei
 
-Kai vartotojams sukurti naują komandos svetainę, SharePoint namuose arba galite sukurti naują komandos svetainės naują SharePoint administravimo centrą, automatiškai sukuriamas atitinkamos "Office 365" grupės. Kurdami "Office 365" grupė ar komanda Microsoft Teams, taip pat kuriami Biuro 365 grupės susijusios komandos svetaines. Norėdami panaikinti SharePoint svetainės, kuri priklauso "Office 365" grupei, reikia naikinti "Office 365" grupė pati. 
+Kai vartotojai kuria naują komandos svetainę iš "SharePoint Home" arba sukuriate naują komandos svetainę iš naujojo "SharePoint" administravimo centro, automatiškai sukuriama atitinkama "Office 365" grupė. "Office 365" grupės prijungtos komandos svetainės taip pat sukuriamos, kai kuriate "Office 365" grupę arba "Microsoft teams" komandą. Norėdami panaikinti "Office 365" grupei priklausančią "SharePoint" svetainę, turite panaikinti pačią "Office 365" grupę. 
   
-1. Eikite į [grupės puslapį su "Microsoft" 365 administravimo centro](https://portal.office.com/adminportal/home#/groups).
+1. Eikite į ["Microsoft" 365 administravimo centro grupių puslapį](https://portal.office.com/adminportal/home#/groups).
     
-2. Pažymėkite žymės langelį šalia grupės.
+2. Pažymėkite šalia grupės esantį žymės langelį.
     
-3. Pasirinkite **ištrinti**.
+3. Pasirinkite **Trinti**.
     
-Pastaba: Panaikinus grupę, ten gali būti atidėtas iki svetainės pašalinamas iš SharePoint.
+Pastaba: panaikinus grupę, gali užtrukti, kol svetainė bus pašalinta iš "SharePoint".
   
-**Naikinti ryšių svetainėse ar klasikinis svetainėse:**
+**Ištrinti ryšio svetaines arba klasikines svetaines:**
 
 1. Eikite į svetainę.
   
-2. Spustelėkite **nustatymų** piktogramą viršutiniame dešiniajame kampe. 
+2. Spustelėkite piktogramą **Parametrai** viršutiniame dešiniajame. 
   
-3. Spustelėkite **Svetainės parametrai**. **Svetainės informaciją** arba **Svetainės veiksmai**, spustelėkite **panaikinti šią svetainę**, ir tada spustelėkite **Naikinti**.
+3. Spustelėkite **Svetainės parametrai**. Dalyje **svetainės informacija** arba **svetainės veiksmai**spustelėkite **Naikinti šią svetainę**, tada spustelėkite **Naikinti**.
   
-**Panaikinkite SharePoint svetainių rinkinio:**
+**Panaikinkite "SharePoint" svetainių rinkinį:**
 
-Norėdami pašalinti svetainę:
+Jei norite panaikinti svetainę:
   
-1. Nauja SharePoint administravimo centro svetainės puslapyje, spustelėkite **žymės langelį** šalia norimos panaikinti. 
+1. Naujojo SharePoint administravimo centro puslapyje svetainės spustelėkite **žymės langelį** šalia svetainės, kurią norite panaikinti. 
     
-2. Įrankių juosta spustelėkite **Naikinti.**
+2. Juostelės įrankių juostoje spustelėkite **Naikinti.**
     
-**Panaikinti svetainę dėl nelaimingo atsitikimo?**
+**Ištrynė svetainę atsitiktinai?**
 
-Žiūrėkite [atkurti panaikintą svetainių rinkinį](https://go.microsoft.com/fwlink/?linkid=867660).
+Peržiūrėti [panaikintų svetainių rinkinio atkūrimą](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

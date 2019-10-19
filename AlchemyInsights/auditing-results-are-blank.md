@@ -1,5 +1,5 @@
 ---
-title: Audito rezultatai yra tuščias
+title: Audito rezultatai yra tušti
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517435"
 ---
-# <a name="auditing-results-are-blank"></a>Audito rezultatai yra tuščias
+# <a name="auditing-results-are-blank"></a>Audito rezultatai yra tušti
 
- **Audito ataskaitos klasikinių svetaines**
+ **Klasikinių svetainių audito ataskaitos**
   
-Jei norite peržiūrėti SharePoint svetainių rinkinio audito ataskaitą, turite būti svetainių rinkinio administratorius. Prisiregistruokite kaip administratorius, žiūrėkite [pridėti svetainės rinkinio administratoriai kaip pasaulinis arba SharePoint administravimo](https://go.microsoft.com/fwlink/?linkid=869390). Informacija apie darbą su audito žurnale, rasite [Peržiūrėti audito žurnalo ataskaitas](https://go.microsoft.com/fwlink/?linkid=395237). 
+Norėdami peržiūrėti "SharePoint" svetainių rinkinio audito ataskaitą, turite būti svetainių rinkinio administratorius. Norėdami įtraukti save kaip administratorius, žiūrėkite [įtraukti svetainių rinkinio administratorius kaip visuotinį arba SharePoint administratorių](https://go.microsoft.com/fwlink/?linkid=869390). Daugiau informacijos apie darbą su audito registru rasite Peržiūrėti [audito žurnalo ataskaitas](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Ieškoti "Office 365" audito žurnalas**
+ **Ieškokite Office 365 audito žurnale**
   
-Jūs turite būti Globalus administratorius "Office 365" dirbti su audito žurnale, kad [saugumo &amp; atitikties užtikrinimo centre](https://protection.office.com). Prieš pradėdami, įjungti audito žurnalus. Tada, jums paleisti audito žurnalo paieška. 
+Jūs turite būti visuotinis administratorius Office 365 dirbti su audito žurnale [ &amp; saugos atitikties centras](https://protection.office.com). Prieš pradėdami, įjunkite audito registravimą. Tada galite paleisti audito žurnalo iešką. 
   
 [Sužinokite, kaip ieškoti audito žurnale](https://go.microsoft.com/fwlink/?linkid=708432).
   

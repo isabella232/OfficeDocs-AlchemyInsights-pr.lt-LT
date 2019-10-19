@@ -1,5 +1,5 @@
 ---
-title: Sukurti svetainę, SharePoint Online
+title: Svetainės kūrimas SharePoint Online
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515923"
 ---
-# <a name="create-a-site"></a>Kurti svetainę
+# <a name="create-a-site"></a>Svetainės kūrimas
 
-Skirtingų tipų svetainių galite sukurti SharePoint Online. Norėdami sužinoti kaip tai padaryti naują SharePoint administravimo centro, rasite [sukurti svetainę](https://go.microsoft.com/fwlink/?linkid=866295). Ieškokite informacijos, kaip leisti vartotojams kurti savo svetaines, [tvarkyti svetainių kūrimą SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Galite sukurti įvairių tipų svetainių SharePoint Online. Norėdami sužinoti, kaip tai padaryti naujajame "SharePoint" administravimo centre, peržiūrėkite [svetainės kūrimas](https://go.microsoft.com/fwlink/?linkid=866295). Informacijos apie tai, kaip leisti vartotojams kurti savo svetaines, žr [valdyti svetainių kūrimas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Informacijos apie naują svetainę rasite [grupės susijusios komandos svetaines](https://go.microsoft.com/fwlink/?linkid=866292) ar [bendravimo svetainių](https://go.microsoft.com/fwlink/?linkid=866294).
+Informacijos apie naujus svetainių tipus ieškokite [grupėje prijungtų komandos svetainių](https://go.microsoft.com/fwlink/?linkid=866292) arba [ryšių svetainių](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

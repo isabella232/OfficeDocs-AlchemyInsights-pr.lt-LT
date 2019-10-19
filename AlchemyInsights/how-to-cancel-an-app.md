@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542121"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kaip atšaukti programinės įrangos kaip paslaugos programos 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Kaip atšaukti programinės įrangos kaip paslaugos programas 
 
-1. "Microsoft" 365 administravimo centro, prie **atsiskaitymo** > [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį, tada pasirinkite skirtuką **programos** .
+1. "Microsoft" 365 administravimo centre, puslapyje **atsiskaitymo** > [produktai & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) , tada pasirinkite skirtuką **programos** .
 
-2. Raskite ir pasirinkite programą, kurią norite tvarkyti.
+2. Raskite ir pasirinkite norimą valdyti programėlę.
 
-3. Dalyje **Parametrai & veiksmus**, pasirinkite **atšaukti prenumeratą**.
+3. Dalyje **parametrai & veiksmai**pasirinkite **atšaukti prenumeratą**.

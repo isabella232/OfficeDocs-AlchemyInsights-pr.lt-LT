@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook\" interneto sąskaitą nulaužė"
+title: "\"Outlook\" žiniatinklio abonemento nulaužė"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511207"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>"Outlook" interneto sąskaitą nulaužė
+# <a name="outlook-on-the-web-account-hacked"></a>"Outlook" žiniatinklio abonemento nulaužė
 
-Jei jūsų sąskaita buvo nulaužė, nurodymus, [kaip apsaugoti ir atkurti el. pašto funkciją įtariama grėsmė "Office 365" abonementą ir pašto dėžutės](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
+Jei į abonementą buvo įsilaužta, vykdykite nurodymus, [kaip apsaugoti ir atkurti el. pašto funkciją, kad būtų pažeista "Office 365" paskyra ir pašto dėžutė](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
 
-Norėdami sužinoti daugiau apie papildomų veiksmų galite imtis, siekiant užkirsti kelią jūsų paskyra yra pažeistas, matyti [kovos su pažeista el. pašto abonemento programoje "Office 365"](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Norėdami sužinoti daugiau apie papildomus veiksmus, kurių galite imtis, kad jūsų abonementas nebūtų pažeistas, peržiūrėkite ["Office 365" pažeistos el. pašto paskyros reagavimas](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).

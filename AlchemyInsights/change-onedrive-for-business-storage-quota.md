@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519271"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Keisti numatytuosius "OneDrive" saugyklos vietos savo vartotojams
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Numatytosios "OneDrive" saugyklos vietos keitimas vartotojams
 
-1. Eikite į [puslapį saugykla su "OneDrive" administravimo centro](https://admin.onedrive.com/?v=StorageSettings).
+1. Eikite į ["OneDrive" administravimo centro saugyklos puslapį](https://admin.onedrive.com/?v=StorageSettings).
     
-2. **Numatytasis sandėliavimo** lauke įveskite numatytosios saugyklos vietos kiekį (GB), ir tada spustelėkite **įrašyti**.
+2. **Numatytoji saugyklos lauke įveskite** numatytąją saugyklos sumą (GB), tada spustelėkite **įrašyti**.
     
-Ši saugojimo vietos nustatymas taikomas visiems vartotojams, kuriems nenustatėte konkrečios vietos. Jei norite pakeisti saugyklos vietos konkretiems vartotojams, turite naudoti Microsoft PowerShell. Informacijos, kaip tai padaryti, rasite [Keisti vartotojo "OneDrive" saugyklos vietos naudodami "PowerShell"](https://go.microsoft.com/fwlink/?linkid=866402).
+Ši saugojimo vietos nuostata taikoma visiems vartotojams, kuriems nenustatėte konkrečių saugyklos apribojimų. Norėdami pakeisti tam tikrų vartotojų saugojimo vietą, turite naudoti "Microsoft PowerShell". Informacijos, kaip tai padaryti, rasite [keisti vartotojų "OneDrive" saugyklos vietą naudojant "PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)".
   
 

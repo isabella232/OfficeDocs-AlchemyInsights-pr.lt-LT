@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753768"
 ---
 # <a name="more-info-about-retention-policies"></a>Daugiau informacijos apie saugojimo strategijas
@@ -26,13 +26,13 @@ Daugumai organizacijų, jų duomenų apimtis ir sudėtingumas didina kasdienį e
 
 ## <a name="a-from-security-and-compliance-center"></a>A) iš saugos ir atitikties centro
 
-- Eiti į saugos ir atitikties _ Gt_ duomenų valdymas _ Gt_ saugojimas
+- Eikite į Sauga ir atitiktis > duomenų valdymas > išsaugojimas
   - Peržiūrėkite [šį](https://docs.microsoft.com/office365/securitycompliance/retention-policies) straipsnį
 
-- Eiti į saugos ir atitikties _ Gt_ eDiscovery> Išplėstinė eDiscovery 
+- Eikite į saugos ir atitikties > eDiscovery> Išplėstinė eDiscovery 
   - Peržiūrėkite [šį](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) straipsnį
 
-- Eiti į saugos ir atitikties _ Gt_ klasifikatoriai _ Gt_ saugojimas
+- Eikite į Sauga ir atitiktis > klasifikacija > išsaugojimas
   - Peržiūrėkite šiuos straipsnius
     - [Jautrumo etiketės](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Etikečių apžvalga](https://docs.microsoft.com/office365/securitycompliance/labels)

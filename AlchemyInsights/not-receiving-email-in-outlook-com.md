@@ -1,5 +1,5 @@
 ---
-title: 8000037 nėra gavę elektroninį laišką į "Outlook.com"
+title: 8000037 negauna el. pašto Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538569"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Ne gauti el. laiškus į "Outlook.com"
+# <a name="not-receiving-mail-in-outlookcom"></a>Negauna paštu Outlook.com
 
-Jei negaunate elektroninio pašto iš tam tikro siuntėjo, pavyzdžiui, jūsų banko sąskaitų išrašų ar slaptažodį iš naujo nustatyti pranešimų, turėsite susisiekite su siuntėju ir leiskite jiems žinoti, negaunate elektroninio pašto savo "Outlook.com" paskyrą. Prašome kreiptis kad [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), kur jie gali rasti informacijos apie geriausią praktiką, rekomenduoja trikčių šalinimo ir nuorodą į mūsų siuntėjo palaikymo komandos.
+Jei negaunate el. laiško iš konkretaus siuntėjo, pvz., banko išrašų arba slaptažodžio nustatymo iš naujo pranešimų, turėsite susisiekti su siuntėju ir pranešti, kad negaunate el. laiško savo Outlook.com paskyroje. Prašome kreiptis į siuntėją [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), kur jie gali rasti informacijos apie geriausią praktiką, rekomenduoti trikčių šalinimą ir saitą susisiekti su mūsų siuntėjų palaikymo komanda.
   
-Jei "Outlook.com" abonementą nėra gavę elektroninį laišką, žiūrėkite [nustatyti "Outlook.com" el. pašto sinchronizavimo problemos](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Jei jūsų Outlook.com paskyra visiškai negauna el. laiškų, žiūrėkite [taisyti Outlook.com el. pašto sinchronizavimo problemas](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

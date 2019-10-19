@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754092"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Kilo problemų dėl debesies paslaugų?
@@ -23,5 +23,5 @@ Jei kyla problemų su debesies paslauga, galite patikrinti [tarnybos sveikatos](
 
 **Pranešimų politika**
 
-Įvykus tarnybos incidentui, "Microsoft" supranta, kad laiku, tiksliniai ir tikslūs ryšiai yra itin svarbūs klientams. Microsoft praneša Office 365 administratoriams atnaujinti nuomotojo konkrečios [tarnybos sveikatos ataskaitų srities (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Office 365 administravimo portalas. Tarnybos incidentas atnaujinimai yra pateikiami valandinis Cadence arba, jei skiriasi Cadence reikia, jis bus nurodytas SHD komunikacijos registravimas. Jei norite gauti daugiau informacijos, Sužinokite, [kaip patikrinti Office 365 tarnybos sveikatos](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Įvykus tarnybos incidentui, "Microsoft" supranta, kad laiku, tiksliniai ir tikslūs ryšiai yra itin svarbūs klientams. Microsoft praneša Office 365 administratoriams atnaujinti nuomotojo konkrečios [tarnybos sveikatos ataskaitų srities (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Office 365 administravimo portalas. Tarnybos incidentas atnaujinimai yra pateikiami valandinis Cadence arba, jei kitoks Cadence reikia, jis bus nurodytas SHD komunikacijos registravimas. Jei norite gauti daugiau informacijos, Sužinokite, [kaip patikrinti Office 365 tarnybos sveikatos](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

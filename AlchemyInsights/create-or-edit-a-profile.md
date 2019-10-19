@@ -1,5 +1,5 @@
 ---
-title: 1800001 kurti arba redaguoti profilį
+title: 1800001 sukurti arba redaguoti profilį
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515167"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Kurti arba redaguoti "Outlook" profilį
+# <a name="create-or-edit-an-outlook-profile"></a>"Outlook" profilio kūrimas arba redagavimas
 
-Sukurkite naują "Outlook" profilį, Redaguoti profilį, arba Pervadinkite profilį, atlikite šiuos veiksmus.
+Norėdami sukurti naują "Outlook" profilį, Redaguoti profilį arba pervardyti profilį, atlikite toliau nurodytus veiksmus.
   
-1. Programoje "Outlook", pasirinkite **failą** \> **Abonemento parametrai** \> **Valdyti profilių**.
+1. Programoje "Outlook", pasirinkite **failo** \> **abonemento parametrai** \> **tvarkyti profilius**.
     
-2. Dialogo lange **Pašto sąranka** , pasirinkite **Rodyti profilius**.
+2. Dialogo lange **pašto Sąranka** pasirinkite **Rodyti profilius**.
     
 3. Atlikite vieną iš šių veiksmų:
     
   - Norėdami sukurti naują profilį, pasirinkite **įtraukti**.
     
-  - Norėdami redaguoti arba Pervadinkite profilį, pasirinkite **Ypatybės**.
+  - Norėdami redaguoti arba pervardyti profilį, pasirinkite **Ypatybės**.
     
-Jei jums kyla problemų, kūrimas arba redagavimas "Outlook" profilį, galite paleisti ["Outlook" profilio įrankis](https://aka.ms/SaRA-OutlookSetupProfile) pažeistą mašina. Ji bus atlikti keletą patikrinimų, o kai būsite pasiruošę sukurti Outlook profilis su savo elektroninio pašto adresą. 
+Jei iškilo problemų kuriant arba redaguojant "Outlook" profilį, galite paleisti ["Outlook" profilio įrankį](https://aka.ms/SaRA-OutlookSetupProfile) pažeistą mašiną. Tai atliks kai kuriuos patikrinimus, o kai būsite pasiruošę sukurti "Outlook" profilį su jūsų el. pašto adresu. 
   
 

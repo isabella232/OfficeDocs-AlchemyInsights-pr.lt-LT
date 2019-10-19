@@ -1,5 +1,5 @@
 ---
-title: Tikrinti rašybą programoje "Outlook" žiniatinklyje
+title: Rašybos tikrinimas "Outlook" žiniatinklyje
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510559"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Naudoti jūsų naršyklės rašybos tikrinimas
+# <a name="use-your-browser-to-check-spelling"></a>Naudodami naršyklę Patikrinkite rašybą
 
-Nėra jokių rašybos žymės parinktį "Outlook" žiniatinklyje. Rašybai tikrinti, turėsite naudotis interneto naršykle. Rašybą galima tikrinti "Microsoft Edge", Internet Explorer 10 ir naujesnės versijos, ir dabartinės versijos Firefox, Chrome ir Safari. Patikrinkite parinktis, jūsų žiniatinklio naršyklėje, jei norite sužinoti daugiau apie tai, kaip tikrinti rašybą.
+Nėra rašybos tikrinimo parinkties programoje "Outlook" žiniatinklyje. Norėdami patikrinti rašybą, turite naudoti žiniatinklio naršyklę. Rašybos tikrinimas galimas naudojant "Microsoft Edge", "Internet Explorer 10" ir vėlesnes versijas bei dabartines "Firefox", "Chrome" ir "Safari" versijas. Patikrinkite žiniatinklio naršyklės parinktis, kad sužinotumėte daugiau, kaip tikrinti rašybą.

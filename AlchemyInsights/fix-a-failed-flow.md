@@ -1,5 +1,5 @@
 ---
-title: Išspręsti nepavyko srautas
+title: Nepavykusio srauto taisymas
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525248"
 ---
-# <a name="fix-a-flow-that-failed"></a>Srautas, kad nepavyko išspręsti
+# <a name="fix-a-flow-that-failed"></a>Nepavykusio srauto taisymas
 
-1. Eikite į ["Microsoft" srauto](https://flow.microsoft.com/), ir spustelėkite pranešimų piktogramą viršutiniame dešiniajame kampe. (Arba mobiliųjų įrenginių programėlę, pasirinkite skirtuką veikla.) Pasirinkite srauto, kuris nesugebėjo pažvelgti į detales.
+1. Eikite į ["Microsoft Flow](https://flow.microsoft.com/)" ir viršutiniame dešiniajame spustelėkite piktogramą pranešimai. (Arba mobiliojoje programėlėje pasirinkite skirtuką veikla.) Pasirinkite srautą, kuriam nepavyko Peržiūrėti išsamios informacijos.
     
-2. Rasti žingsnis su raudona šauktukas piktogramos, kad matytumėte srauto klaidos pranešimą.
+2. Raskite veiksmą su raudonu šauktuko simboliu, kad pamatytumėte srauto klaidos pranešimą.
     
-3. Priklausomai nuo klaidos pranešimą, jūs galėsite redaguoti srautas ir ją išspręsti. 
+3. Atsižvelgiant į klaidos pranešimą, turėtumėte galėti redaguoti srautą ir jį pataisyti. 
     
-[Bendras srautas gedimai](https://go.microsoft.com/fwlink/?linkid=872110)
+[Dažni srauto gedimai](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

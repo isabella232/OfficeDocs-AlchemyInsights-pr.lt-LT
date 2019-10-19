@@ -1,5 +1,5 @@
 ---
-title: 9000215 "Outlook.com" abonementus
+title: 9000215 Outlook.com prenumeratos
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511819"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Prenumeratos ir anuliuoti
+# <a name="subscriptions-and-unsubscribing"></a>Prenumeratos ir prenumeravimas
 
-Jei norite atsisakyti gauti naujienlaiškius ar akcijas, yra du būdai, galite atsisakyti "Outlook.com":
+Jei norite nebegauti naujienlaiškių ar reklamų, galite atsisakyti dviejų būdų Outlook.com:
 
-1. Į jūsų pašto dėžutę, pasirinkite biuletenį arba reklaminių el. laiškų. Skaitymo srities viršuje, pasirinkite **atsisakyti prenumeratos**.
-2. Atidarykite savo ["Outlook.com" prenumeratos parametrai](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Parametrai** > **Peržiūrėti visus "Outlook" parametrai** > **el. paštas** > **prenumeratos**) ir pasirinkite **atsisakyti prenumeratos**.
+1. Gautųjų aplanke pasirinkite naujienlaiškį arba reklaminį el. laišką. Skaitymo srities viršuje pasirinkite **atsisakyti prenumeratos**.
+2. Atidarykite savo [Outlook.com prenumeratos nustatymus](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**nustatymai** > **Peržiūrėti visus "Outlook" nustatymų** > **el. pašto** > **prenumeratos**) ir pasirinkite **atsisakyti prenumeratos**.
 
 Pastabos:
 
-- Ne visi klientai gali gauti naudos iš šios funkcijos šiuo metu.
-- Jūs matysite tik šią funkciją, jei gavote el. laišką iš bendrovės pasirašyto el. pašto siuntimas.
+- Ne visi klientai gali pasinaudoti šia funkcija šiuo metu.
+- Šią funkciją matysite tik tada, jei gavote el. laišką iš įmonės, siunčiančios prenumeruojamus el. laiškus.

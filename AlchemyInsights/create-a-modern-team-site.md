@@ -1,5 +1,5 @@
 ---
-title: Šiuolaikinės komandos svetainės sukūrimas
+title: Sukurti šiuolaikinės komandos svetainę
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516325"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>"Office 365" grupės susijusios komandos svetainės kūrimas
+# <a name="create-an-office-365-group-connected-team-site"></a>Sukurkite "Office 365" grupės prijungtą komandos svetainę
 
-1. Spustelėkite programų paleidimo priemonės viršutiniame kairiajame kampe ir pasirinkite **SharePoint**. Jei jūs nematote, SharePoint plytelių, spustelėkite **Visos programos**.
+1. Spustelėkite programų paleidimo priemonę viršutiniame kairiajame kampe ir pasirinkite " **SharePoint**". Jei nematote "SharePoint" plytelės, spustelėkite **Visos programėlės**.
     
-2. SharePoint puslapio viršuje, spustelėkite **sukurti svetainę** ir pasirinkite parinktį **komandos svetainėje** . 
+2. SharePoint pagrindinio puslapio viršuje spustelėkite **kurti svetainę** ir pasirinkite **komandos svetainės** parinktį. 
     
     > [!NOTE]
-    > Jei nematote komandą sukurti svetainės, svetainių kūrimas gali nebūti suaktyvinta jūsų organizacijoje. Norėdami ją įjungti, peržiūrėkite [tvarkyti svetainių kūrimas](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Jei nematote komandos kurti svetainę, jūsų organizacijoje gali būti neįgalinta svetainių kūrimas. Norėdami ją įjungti, žiūrėkite [svetainės kūrimo valdymas](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Atlikite veiksmus ekrane, kad vardas svetainėje ir sukurti "Office 365" grupės el. pašto adresą, ir tada spustelėkite parinktį **Pirmyn**. Taip pat galite pridėti kitų grupės savininkams ir nariams. Spustelėkite **baigti**.
+3. Vykdykite ekrane nurodytus veiksmus, kad Pavadinkite svetainę ir sukurkite "Office 365" grupės el. pašto adresą, tada spustelėkite **Pirmyn**. Taip pat galite pridėti kitų grupių savininkų ir narių. Spustelėkite **apdaila**.
   
- **Pastaba:** Sukurti komandos svetainę be grupės prijungtas, atlikite aukščiau, bet vietoj atrankos grupė svetainės atlikdami 2 veiksmą. Pasirinkite kitą puslapį. Tai padės jums per sukurti komandos svetainę be grupės. 
+ **Pastaba:** Norėdami sukurti komandos svetainę be susietos grupės, atlikite anksčiau nurodytus veiksmus, bet užuot pasirinkę komandos svetainė atlikdami 2 veiksmą. Pasirinkite kitos parinktys. Tai padės jums sukurti komandos svetainę be grupės. 
     
 

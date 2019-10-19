@@ -1,5 +1,5 @@
 ---
-title: 9000236 "Outlook.com" abonemento įtraukimas
+title: 9000236 Outlook.com pridėti paskyrą
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538208"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Įtraukite kitus el. pašto abonementus "Outlook.com"
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Įtraukite kitas el. pašto paskyras į Outlook.com
 
-Jei norite pridėti kitų el. pašto abonementų į "Outlook.com", "Outlook.com" galite siųsti ir skaityti el. laiškus iš šių abonementų neišeidami iš "Outlook.com". Kiekvieną paskyrą galite įtraukti į "Outlook.com" vadinamas prijungtąjį abonementą.
+Kai įtraukiate kitus el. pašto abonementus į Outlook.com, galite naudoti Outlook.com siųsti ir skaityti el. laiškus iš šių paskyrų neišeidami iš Outlook.com. Kiekviena paskyra, kurią įtraukiate į Outlook.com, vadinama prijungtu abonementu.
 
-Pastaba: Sinchronizavimą iš prijungtojo abonemento į "Outlook.com" abonementą yra tik į vieną pusę. Siunčiami naudojant "Outlook.com" abonemento el. paštas nebus rodomas jūsų prijungtojo abonemento išsiųsta.
+Pastaba: sinchronizavimas iš prijungtojo abonemento į "Outlook.com" paskyrą yra tik vienas kelias. El. laiškas išsiųstas iš jūsų prijungto abonemento naudojant Outlook.com nebus rodomas jūsų prijungtame abonemente išsiųsta.
 
-Jei norite pridėti prijungtojo abonemento:
+Jei norite pridėti prijungtą paskyrą:
 
-1. Atidarykite [el. pašto sinchronizavimo parametrus](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Pagal **susijusios sąskaitos**, pasirinkite **"Gmail"** arba **kitų el. pašto abonementų**.
-3. "Connect" paskyros puslapyje, įveskite rodomą vardą (vardą gavėjai matys, kai jie gauna el. paštu iš jūsų) ir pilną elektroninio pašto adresą ir slaptažodį el. pašto abonemento, kurį norite prisijungti prie savo "Outlook.com" abonemento.
+1. Atidarykite [sinchronizavimo el. pašto parametrus](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Dalyje **prijungtos paskyros**pasirinkite **Gmail** arba **kitas el. pašto paskyras**.
+3. Puslapyje "Prisijungimas prie paskyros" įveskite rodomą vardą (vardo gavėjai matys, kada gaus el. laišką), ir visą el. pašto paskyros, kurią norite prijungti prie jūsų Outlook.com paskyros, adresą ir slaptažodį.
 
-Laiškus galima siųsti iš bet kurio abonemento prisijungėte prie "Outlook.com" paskyros. Rašant el. laišką, **pasirinkite** ir pasirinkite kurį el. pašto adresą, kurį norite naudoti, ar [atnaujinti jūsų numatytąjį adresą nuo](https://go.microsoft.com/fwlink/?linkid=875264).
+Galite siųsti el. laišką iš bet kurios paskyros, kurią prijungėte prie savo Outlook.com paskyros. Kurdami el. laišką, pasirinkite **iš** ir pasirinkite, kurį el. pašto adresą norite naudoti, arba [atnaujinkite numatytąjį adresą nuo](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Daugiau informacijos rasite [pridėti savo kitų el. pašto abonementų į "Outlook.com"](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Jei norite gauti daugiau informacijos, skaitykite [įtraukti kitus el. pašto abonementus į Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Jei norite sukurti naują el. pašto adresą, kuris naudoja tą patį "Outlook.com" abonementą, perskaitykite [įtraukti arba šalinti el. pašto adreso pseudonimą](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Jei norite sukurti naują el. pašto adresą, kuris naudoja tą patį Outlook.com abonementą, skaitykite [įtraukti arba pašalinkite el. pašto pseudonimą](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
