@@ -1,5 +1,5 @@
 ---
-title: Kovos su sukčiavimo "Outlook.com"
+title: Kova su Phishing Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "9000289"
 ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556600"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kaip kovoti su phishing laišką programoje "Outlook" žiniatinklyje
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kaip elgtis su apsimestinių laiškų "Outlook" žiniatinklyje
 
-Sukčiavimas apsimetant yra el. laišką, kuris atrodo teisėtas, bet iš tiesų bandoma pavogti jūsų asmeninę informaciją arba pinigų. Sukčiai taip pat galite naudoti technika vadinama apsimesti kitu asmeniu, kad jis atsirastų, jei gavote el. laišką iš savęs.
+Sukčiavimas apsimetant yra el. laiškas, kuris atrodo teisėtas, tačiau iš tikrųjų yra bandymas pavogti jūsų asmeninę informaciją arba pinigus. Sukčiai taip pat gali naudoti technika vadinama spoofing padaryti jį atrodo taip, lyg gavote laišką iš savęs.
 
-Jei gavote el. laišką, kuris atrodo kaip sukčiavimo aferą, galite pranešti pranešimą ir tada pasirenkant **Junk** > **Phishing**.
+Jei gaunate el. laišką, kuris atrodo kaip sukčiavimas apsimetant, galite jį pranešti pažymėdami pranešimą ir pasirinkę **nepageidaujamas** > **sukčiavimas apsimetant**.
 
-*Pastaba:* Kai pažymite laišką kaip apie sukčiavimą, kad tik ataskaitos siuntėjui.Neblokuoja to siuntėjo siųsti jums laiškus ateityje. Blokuoti siuntėją, turite įtraukti siuntėją į blokuojamų siuntėjų sąrašą. Norėdami gauti daugiau informacijos, peržiūrėkite [siuntėjų blokuoti arba neblokuoti siuntėjų programoje "Outlook" žiniatinklyje](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Pastaba:* Kai pažymate pranešimą kaip sukčiavimą apsimetant, jis praneša tik siuntėjui.Tai neblokuoja, kad siuntėjas siųsti jums pranešimus ateityje. Norėdami užblokuoti siuntėją, turite įtraukti siuntėją į užblokuotų siuntėjų sąrašą. Norėdami gauti daugiau informacijos, žiūrėkite [blokuoti siuntėjus arba atblokuoti siuntėjus "Outlook" žiniatinklyje](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Sužinokite daugiau apie tai, kaip nustatyti [įtartinus laiškus programoje "Outlook" žiniatinklyje](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Sužinokite daugiau, kaip [atpažinti įtartinus pranešimus "Outlook" žiniatinklyje](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).

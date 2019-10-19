@@ -1,5 +1,5 @@
 ---
-title: Įdiegti "Skype" verslui
+title: "\"Skype\" verslui diegimas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "4000002"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
 ms.openlocfilehash: 2c1b756dc73cd6a1befb41416086f1e353d1783d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661592"
 ---
-# <a name="install-skype-for-business"></a>Įdiegti "Skype" verslui
+# <a name="install-skype-for-business"></a>"Skype" verslui diegimas
 
-Jūs galite įdiegti "Skype" verslui atlikdami šiame straipsnyje nurodytus veiksmus: [Įdiegti "Skype" verslui](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
+"Skype" verslui galite įdiegti atlikdami šiame straipsnyje nurodytus veiksmus: ["Skype" verslui diegimas](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
   

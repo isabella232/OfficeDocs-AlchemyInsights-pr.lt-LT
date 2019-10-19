@@ -1,5 +1,5 @@
 ---
-title: Ne-pristatymo ataskaitas programoje "Outlook" žiniatinklyje
+title: Nepristatymo ataskaitos "Outlook" žiniatinklyje
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557113"
 ---
-# <a name="issues-with-email-delivery"></a>Problemos su el. pašto pristatymo
+# <a name="issues-with-email-delivery"></a>Problemos dėl el. pašto pristatymo
 
-Jei kyla problemų teikiant siuntėte el. laišką, "Office 365" siunčia elektroniniu paštu jums žinoti. Laišką, kurį yra pristatymo būsenos pranešimą, taip pat žinomas kaip žinutę DSN arba atmetimo. Labiausiai paplitęs tipas vadinamas Nepristatymo pažyma (NDR), kuri jums pasakys, kad pranešimas nebuvo pristatytas. Ne-pristatymo gali sukelti kažką taip paprasta, kaip rašybos ir el. pašto adresą. NDR yra klaidos kodas, kuris nurodo, kodėl jūsų elektroninio pašto adresas nebuvo pristatytas, sprendimai padės jums pristatyti el., nuoroda į daugiau pagalbos internete, ir techninė informacija administratoriams.
+Kai kyla problemų pristatant išsiųstą el. laišką, "Office 365" siunčia el. laišką, kad jums praneščiau. El. laiškas, kurį gaunate, yra pristatymo būsenos pranešimas, taip pat žinomas kaip DSN arba atmetimo pranešimas. Dažniausias tipas vadinamas Nepristatymo pažyma (NDR), kuri nurodo, kad pranešimas nebuvo pristatytas. Nepristatymo gali sukelti kažką taip paprasta, kaip klaidos el. pašto adresą. NDR yra klaidos kodas, kuris nurodo, kodėl jūsų el. laiškas nebuvo pristatytas, sprendimus, kurie padės gauti jūsų el. paštą, saitą su daugiau žinyno žiniatinklyje ir administratoriams skirtus techninius duomenis.
 
-Matyti NDR ir sužinoti, kodėl jūsų pranešimas nebuvo pristatytas, peržiūrėkite [nepristatymo-el. pašto pranešimų Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Jei norite pamatyti NDR sąrašą ir sužinoti, kodėl pranešimas nebuvo pristatytas, ["Exchange Online" ieškokite el. pašto nepristatymo ataskaitos](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

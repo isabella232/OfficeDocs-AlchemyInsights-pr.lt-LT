@@ -1,5 +1,5 @@
 ---
-title: Sąraše arba bibliotekoje versijų kūrimo įgalinimas
+title: Versijų sąrašo ar bibliotekos įgalinimas
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527443"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a>Sąrašo arba bibliotekos versijų kūrimo įgalinimas
+# <a name="enable-versioning-for-a-list-or-library"></a>Sąrašo arba bibliotekos versijų kūrimo įjungimas
 
-1. Eiti į sąrašą ar biblioteką.
+1. Eikite į sąrašą arba biblioteką.
     
-2. Spustelėkite **Parametrai**, ir tada spustelėkite **bibliotekos parametrai** arba **sąrašo parametrus**.
+2. Spustelėkite **Parametrai**, tada spustelėkite **bibliotekos parametrai** arba **sąrašo parametrai**.
     
-3. Spustelėkite **atsarginės versijos kūrimo parametrai**.
+3. Spustelėkite **atsarginių versijų kūrimo parametrai**.
     
-4. Pasirinkite norimus parametrus, ir tada spustelėkite **gerai**.
+4. Pasirinkite norimus parametrus, tada spustelėkite **gerai**.
     
 

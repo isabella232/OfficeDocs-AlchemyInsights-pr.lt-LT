@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 formos XML schemos
+title: Dynamics 365 formos XML schema
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.custom:
 - "1471"
 - "6200019"
 ms.openlocfilehash: 7c0b8e77da3f6f58571c2fbc35a3fed16c00fd0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528883"
 ---
-# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 formos XML schemos
+# <a name="dynamics-365-form-xml-schema"></a>"Dynamics 365" formos XML schema
 
-[Formos XML schemos apibrėžimo formą tinkinimai Dynamics 365 klientų įsipareigojimų](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[Formos tinkinimų formos XML schemos apibrėžimas, skirtas "Dynamics 365 Customer engagements"](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)

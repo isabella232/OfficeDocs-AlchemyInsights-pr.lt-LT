@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505002"
 ---
 # <a name="conditional-access-with-intune"></a>Sąlyginė prieiga su Intune
 
-**Sąlyginė prieiga** naudojant Intune reikia 3 žingsniai: 
+Naudojant **sąlyginę prieigą** su Intune reikia 3 žingsniai: 
   
-- Sukurti **Sąlyginis prieigos strategijos** , kuris nustato, kokie ištekliai yra apsaugotas, o kas sąlygos turi atitikti prieiti prie šių išteklių. Pavyzdžiui, įrenginys turi būti suderinamas prieš bandant prieiti prie įmonės el. pašto. 
+- Sukurkite **sąlyginę prieigos strategiją** , kuri apibrėžia, kurie ištekliai yra apsaugoti, ir kokias sąlygas reikia atitikti norint pasiekti šiuos išteklius. Pvz., įrenginys turi būti suderinamas prieš pasiekiant įmonės el. paštą. 
     
-- Sukurti **Atitikimo politikos** nustatyti parametrus, kurie turi būti įvykdyti prieš įrenginys yra suderinamas. Pavyzdžiui, įtaisas turi būti mažiausiai 6 skaitmenų pin, kol ji yra laikoma suderinama. 
+- Sukurkite **atitikties strategiją** , kad apibrėžtumėte parametrus, kuriuos reikia įvykdyti, kad įrenginys būtų laikomas atitinkančiu reikalavimus. Pvz., įrenginys turi turėti bent 6 skaitmenų kaištį prieš tai, kai jis laikomas atitinkančiu reikalavimus. 
     
-- Užtikrinti **Atitikties strategijas** ir **Sąlyginis prieigos strategijos** orientuodamiesi į norimą vartotojų grupių. Gali tekti sukurti Azure Active Directory konkrečių vartotojų grupių. 
+- Užtikrinti **atitikties politiką** ir **sąlyginės prieigos strategijos** yra skirtos norimos grupės vartotojams. Tam gali reikėti sukurti konkrečias vartotojų grupes "Azure Active Directory". 
     
 Skaityti daugiau:
   
-- [Sąlyginės prieigos geriausios praktikos](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Sąlyginė prieiga geriausia praktika](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Darbo pradžia su sąlygine prieiga](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Darbo su sąlygine prieiga Pradžia](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

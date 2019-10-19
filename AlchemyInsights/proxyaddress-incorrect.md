@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
 ms.openlocfilehash: 1f908b6fca813ff6cbc4d05d08ee2eb9c49f3515
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554232"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress neteisingas
 
-Kai objektas yra sinchronizuojami su Azure AD, vertybes, kurios yra nurodytos atribute proxyAddresses Active Directory yra lyginami su Azure AD taisykles ir tada atribute proxyAddresses yra apgyvendintos Azure AD. Todėl atribute proxyAddresses Active Directory objekto vertės gali nesutapti su atribute proxyAddresses vertėms Azure AD.
+Kai objektas sinchronizuojamas su Azure AD, reikšmes, kurios yra nurodytos atributo proxyAddresses "Active Directory" yra palyginti su Azure AD taisyklės, ir tada proxyAddresses atributas yra užpildytas Azure AD. Todėl atributo proxyAddresses objekto Active Directory reikšmės gali būti ne tas pats kaip atributo proxyAddresses Azure AD reikšmes.
   
-Norėdami sužinoti daugiau apie kaip į proxyaddress yra gyventojų, pamatyti, [kaip šis atributas proxyAddress yra apgyvendintos Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Norėdami sužinoti daugiau apie tai, kaip paruoštą proxyAddress, Sužinokite, [kaip atributą proxyAddress yra paruoštą AZURE ad](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

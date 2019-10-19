@@ -1,5 +1,5 @@
 ---
-title: Įjungti ir priskirti programinės įrangos kaip paslaugos programėlių licencijas
+title: Suaktyvinkite ir priskirkite programinės įrangos kaip paslaugų programų licencijas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385728"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Įjungti ir priskirti programinės įrangos kaip paslaugos programėlių licencijas 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Suaktyvinkite ir priskirkite programinės įrangos kaip paslaugų programų licencijas 
 
-## <a name="to-activate-apps"></a>Norėdami įjungti programėlės
+## <a name="to-activate-apps"></a>Programų aktyvinimas
 
-1. Administravimo centro, eikite į **atsiskaitymo** > [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį, tada pasirinkite skirtuką **programos** .
+1. Administravimo centre eikite į puslapį **atsiskaitymo** > [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) , tada pasirinkite skirtuką **programėlės** .
 
-2. Raskite ir pasirinkite programą, kurią norite tvarkyti.
+2. Raskite ir pasirinkite norimą valdyti programėlę.
 
-3. Pagal **licencijas**, pasirinkite **nustatyti paskyrą klaidos pranešime**.  
+3. Dalyje **licencijos**pasirinkite **nustatyti abonementą klaidos pranešime**.  
 
-## <a name="to-assign-app-licenses"></a>Jei norite priskirti programėlių licencijas
+## <a name="to-assign-app-licenses"></a>Norėdami priskirti programėlių licencijas
 
-1. Administravimo centro, eikite į **atsiskaitymo** > [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį, tada pasirinkite skirtuką **programos** .
+1. Administravimo centre eikite į puslapį **atsiskaitymo** > [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) , tada pasirinkite skirtuką **programėlės** .
 
-2. Raskite ir pasirinkite programą, kurią norite tvarkyti.  
+2. Raskite ir pasirinkite norimą valdyti programėlę.  
 
-3. Dalyje **Parametrai & veiksmus**, pasirinkite **tvarkyti leidėjo portalo**nuorodą.
+3. Dalyje **parametrai & veiksmai**pasirinkite saitą, kurį norite **tvarkyti leidėjo portale**.

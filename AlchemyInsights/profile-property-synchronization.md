@@ -1,5 +1,5 @@
 ---
-title: Profilio apgyvendinimo sinchronizavimo
+title: Profilio ypatybės sinchronizavimas
 ms.author: arnek
 author: arnek
 ms.date: 6/20/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
 ms.openlocfilehash: 3f2fd97bd357c6fd6a94cb9715a316ca7fd1bacf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554449"
 ---
-# <a name="profile-property-synchronization"></a>Profilio apgyvendinimo sinchronizavimo
+# <a name="profile-property-synchronization"></a>Profilio ypatybės sinchronizavimas
 
-Neįmanoma susieti papildomos ypatybės skelbimas importo iš Azure Active Directory sinchronizuoti su vartotojo profilio taikomosios programos. AD importo yra iš anksto sukonfigūruotų ypatybių užtikrinti nuoseklaus veikimo laikmačio rinkinys.
+Neįmanoma susieti papildomų skelbimų importavimo ypatybių, kad sinchronizavimas iš "Azure Active Directory" būtų sinchronizuojamas su vartotojo profilio taikomąja programa. AD importavimas apsiriboja iš anksto sukonfigūruotais ypatybių rinkiniu, kad būtų užtikrintas nuoseklus laikmačio užduoties veikimas.
   
-[Sužinokite daugiau apie profilio ypatybės, sinchronizuoti](https://go.microsoft.com/fwlink/?linkid=875671)
+[Sužinokite daugiau apie sinchronizuojamas profilio ypatybes](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

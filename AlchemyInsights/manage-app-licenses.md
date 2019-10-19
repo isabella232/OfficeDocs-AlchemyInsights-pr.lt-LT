@@ -1,5 +1,5 @@
 ---
-title: Valdykite programėlių licencijas
+title: Programėlių licencijų tvarkymas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497379"
 ---
-# <a name="manage-office-365-app-licenses"></a>Valdyti "Office 365" programėlių licencijas
+# <a name="manage-office-365-app-licenses"></a>"Office 365" programėlių licencijų tvarkymas
 
-## <a name="to-change-license-quantity"></a>Keisti licencijų kiekį
+## <a name="to-change-license-quantity"></a>Licencijos kiekio keitimas
 
-1. Eiti į **atsiskaitymo** > [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį, tada pasirinkite skirtuką **programos** .
+1. Eikite į puslapį **atsiskaitymo** > [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) , tada pasirinkite skirtuką **programėlės** .
 
-2. Raskite ir pasirinkite programą, kurią norite tvarkyti.  
+2. Raskite ir pasirinkite norimą valdyti programėlę.  
 
-3. Pasirinkite **Pridėti/šalinti licencijas**.
+3. Pasirinkite **Pridėti/pašalinti licencijas**.
 
-4. Įveskite naują reikalingų licencijų skaičiaus. Pavyzdžiui, jei šiuo metu turime 5 licencijas ir tik 4 vienetų, 4 lauke įveskite **visas licencijas** . Jei šiuo metu turite 5 licencijas ir reikia 10 visas licencijas, **iš viso licencijų** lauke įveskite 10.
+4. Įveskite naują reikalingą licencijų skaičių. Pavyzdžiui, jei šiuo metu turite 5 licencijas ir tik reikia 4, lauke **bendra licencijos** įveskite 4. Jei šiuo metu turite 5 licencijas ir reikia 10 viso licencijų, lauke **visos licencijos** įveskite 10.
 
-## <a name="to-assign-app-licenses"></a>Jei norite priskirti programėlių licencijas
+## <a name="to-assign-app-licenses"></a>Norėdami priskirti programėlių licencijas
 
-1. Eiti į **atsiskaitymo** > [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį, tada pasirinkite skirtuką **programos** .
+1. Eikite į puslapį **atsiskaitymo** > [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) , tada pasirinkite skirtuką **programėlės** .
 
-2. Raskite ir pasirinkite programą, kurią norite tvarkyti.  
+2. Raskite ir pasirinkite norimą valdyti programėlę.  
 
-3. Dalyje **Parametrai & veiksmus**, pasirinkite **tvarkyti leidėjo portalo**nuorodą.
+3. Dalyje **parametrai & veiksmai**pasirinkite saitą, kurį norite **tvarkyti leidėjo portale**.

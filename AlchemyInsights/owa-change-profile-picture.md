@@ -1,5 +1,5 @@
 ---
-title: Internetinė "Outlook" profilio paveikslėlį pakeisti
+title: Profilio paveikslėlio keitimas žiniatinklyje "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557221"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Internetinė "Outlook" profilio paveikslėlį pakeisti
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Profilio paveikslėlio keitimas žiniatinklyje "Outlook"
 
-1. Puslapio viršuje, pasirinkite savo vardą ar profilio nuotrauką.
-1. Srityje **mano paskyra** pasirinkite savo profilio nuotrauką.
-1. Dialogo lange **Keisti nuotrauką** , pasirinkite **įkelti naują nuotrauką**.
-1. Pasirinkti nuotrauką įkelti ir pasirinkite **taikyti**.
+1. Puslapio viršuje pasirinkite savo vardą arba profilio nuotrauką.
+1. **Mano paskyros** srityje pasirinkite profilio nuotrauką.
+1. Dialogo lange **Keisti nuotrauką** pasirinkite **nusiųsti naują nuotrauką**.
+1. Pasirinkite įkeltą nuotrauką ir pasirinkite **Apply (taikyti**).
 
-*Pastaba:* Nauja nuotrauka atsiras, kai kitą kartą prisijungiate prie "Office 365".
+*Pastaba:* Nauja nuotrauka atsiras, kai kitą kartą prisijungsite prie Office 365.
 
-Daugiau informacijos rasite [keisti savo foto ir abonemento informaciją programoje "Outlook" žiniatinklyje](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Daugiau informacijos ieškokite [nuotraukų ir abonemento informacijos keitimas "Outlook" žiniatinklyje](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

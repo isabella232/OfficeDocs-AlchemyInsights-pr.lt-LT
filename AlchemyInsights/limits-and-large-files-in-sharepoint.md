@@ -1,5 +1,5 @@
 ---
-title: Ribas ir didelius failus programoje "SharePoint"
+title: Ribos ir didelius failus programoje "SharePoint"
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497595"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failus, kurie negali būti įkeltas į SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failai, kurių negalima nusiųsti į "SharePoint Online"
 
-Jei failas nebus įkelti SharePoint Online, įsitikinkite, kad:
+Jei failas nebus nusiųsti į SharePoint Online, įsitikinkite, kad:
   
-- Jis yra mažiau nei 15 GB dydžio.
+- Tai mažiau nei 15 GB dydžio.
     
-- Visą maršrutą, įskaitant failo pavadinimą, yra mažiau nei 400 simbolių.
+- Visas kelias, įskaitant failo vardą, yra mažiau nei 400 simbolių.
     
-- Failo varde nėra simbolių " \* : \< \> ? / \ | o ne [neleistinas vardų](https://go.microsoft.com/fwlink/?linkid=866430)sąrašas.
+- Failo varde nėra simbolių " \* :? \< \> / \ | ir nėra [netinkamų pavadinimų](https://go.microsoft.com/fwlink/?linkid=866430)sąraše.
     
-Jei bandote įkelti failą naudodami "OneDrive" darbalaukio programėlę, peržiūrėkite [apribojimai sinchronizuojant failus ir aplankus](http://go.microsoft.com/fwlink/p/?LinkID=717734) arba [Taisyti "OneDrive" sinchronizavimo problemas](https://go.microsoft.com/fwlink/?linkid=866431).
+Jei bandote nusiųsti failą naudodami "OneDrive" darbalaukio programėlę, peržiūrėkite [apribojimus ir apribojimus, kai sinchronizuojate failus ir aplankus](http://go.microsoft.com/fwlink/p/?LinkID=717734) arba [pataisykite "OneDrive" sinchronizavimo problemas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

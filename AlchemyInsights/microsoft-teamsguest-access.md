@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" komandos - svečio abonentą"
+title: "\"Microsoft teams\" – svečių prieiga"
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666992"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590394"
 ---
-# <a name="microsoft-teams---guest-access"></a>"Microsoft" komandos - svečio abonentą
+# <a name="microsoft-teams---guest-access"></a>"Microsoft teams" – svečių prieiga
 
-Jums reikia padėti įjungimas ir sukurkite svečio abonentą funkcija, "Microsoft" Teams?
+Reikia pagalbos įjungiant ir nustatant svečio prieigos funkciją "Microsoft teams"?  
 
-Štai ką jums reikia padaryti:
+Pirmiausia įsitikinkite, kad atlikote visus [svečio prieigos kontrolinio sąrašo](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist)veiksmus. Kai visi šie žingsniai yra baigtas, jums reikia [palaukti iki 24 valandų](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) , kad parametrai įsigaliotų.
 
-1. Leisti svečio abonentą.
-1. Pridėti Svečių vartotojus į savo komandą.
-1. Nustatyti Svečių vartotojo teises.
+Jei esate įsitikinę, kad atlikote visus kontrolinio sąrašo veiksmus, ir tai buvo daugiau nei 24 valandos, eikite į priekį ir pabandykite [įtraukti svečio į savo komandą](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Norėdami gauti daugiau informacijos, įskaitant instrukcijų vaizdo įrašai, žr. [svečio abonentą į "Microsoft" komandomis](https://docs.microsoft.com/microsoftteams/guest-access).
+Daugiau informacijos, įskaitant "kaip" vaizdo įrašus, ieškokite [svečio prieiga prie "Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access)".

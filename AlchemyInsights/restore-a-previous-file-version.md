@@ -1,5 +1,5 @@
 ---
-title: Atkurti ankstesnę failo versiją
+title: Ankstesnės failo versijos atkūrimas
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552359"
 ---
-# <a name="restore-a-previous-file-version"></a>Atkurti ankstesnę failo versiją
+# <a name="restore-a-previous-file-version"></a>Ankstesnės failo versijos atkūrimas
 
-Internetinė versija istorija, galite pamatyti ir atkurti ankstesnes versijas savo failus į "OneDrive" arba SharePoint. Versijų retrospektyva veikia su visų tipų failus, įskaitant PDF failus, CAD failus, nuotraukas ir vaizdo įrašus. Kaip atkurti ankstesnę failo versiją:
+Naudodami internetinę versijų retrospektyvą galite peržiūrėti ir atkurti senesnes "OneDrive" arba "SharePoint" failų versijas. Versijų retrospektyva veikia su visais failų tipais, įskaitant PDF, CAD failus, nuotraukas ir vaizdo įrašus. Norėdami atkurti ankstesnę failo versiją:
   
-1. Atidarykite SharePoint dokumentų bibliotekoje arba "OneDrive" vietą.
+1. Atidarykite "SharePoint" dokumentų biblioteką arba "OneDrive" vietą.
     
-2. Spustelėkite į kairę nuo failą, pažymėkite jį ir spustelėkite **versijos retrospektyva**. Jei komandų juostoje nematote versijų retrospektyva, spustelėkite daugiau ( **...** ). 
+2. Spustelėkite failą į kairę, kad jį pasirinktumėte, tada spustelėkite **versijų retrospektyva**. Jei komandų juostoje nematote versijų retrospektyva, spustelėkite daugiau ( **...** ). 
     
-3. Spustelėkite versiją, kurią norite Rodyti, arba spustelėkite daugiau ( **...** ) versija dešinėje ir tada spustelėkite **atkurti**.
+3. Spustelėkite norimą peržiūrėti versiją arba spustelėkite daugiau ( **...** ) versijos dešinėje, tada spustelėkite **atkurti**.
     
 

@@ -1,5 +1,5 @@
 ---
-title: Sprendimus dėl klausimų apie diegti "office" terminalų serverio
+title: Problemos, skirtos įdiegti Office terminalų serveryje sprendimai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501483"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Sprendimus dėl klausimų apie diegti "office" terminalų serverio
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Problemos, skirtos įdiegti Office terminalų serveryje sprendimai
 
-Naudoti aktyvinimo bendrai naudojamame kompiuteryje, turite "Office 365" planą, kuris apima "Office 365 ProPlus".
+Norėdami naudoti bendrai naudojamą kompiuterio aktyvinimą, turite turėti "Office 365" planą, kuriame yra "Office 365 ProPlus".
   
-- Patikrinkite, ar įgalintas bendrinamo kompiuterio aktyvinimo už "Office 365 ProPlus"
+- Patikrinkite, ar įgalintas bendrinamas kompiuterio aktyvinimas Office 365 ProPlus
     
-- Patikrinkite, kad aktyvinimo už "Office 365 ProPlus" pavyko
+- Patikrinkite, kad Office 365 ProPlus aktyvinimas pavyko
     
-- Peržiūrėti bendrai naudojamame kompiuteryje aktyvinimo klaidų pranešimai:
+- Peržiūrėkite klaidų pranešimus bendrai naudojamame kompiuterio aktyvinimui:
     
-  - "Radome paskyroje produktų negalima suaktyvinti Office bendrai naudojamame kompiuteryje scenarijų"
+  - "Produktai, kuriuos randame paskyroje, negali būti naudojami norint aktyvinti" Office "bendrai naudojamame kompiuterio scenarijuose."
   
-Ši klaida reiškia, kad jūs neturite "Office 365" planą, kuris apima "Office 365 ProPlus".
+Ši klaida reiškia, kad neturite "Office 365" plano, kuriame yra "Office 365 ProPlus".
     
   - "Nelicencijuotas produktas"
     
-  - Patikrinkite, kad vartotojas yra priskiriamas licenciją, "Office 365 ProPlus".
+  - Patikrinkite, ar vartotojui priskiriama "Office 365 ProPlus" licencija.
     
-  - Patikrinkite, kad vartotojas prisijungia naudodami savo vartotojo abonementą, "Office 365"
+  - Patikrinkite, ar vartotojas prisijungia su savo vartotojo abonemento Office 365
     
-  - Patikrinkite, kad yra ryšys tarp bendrinamo kompiuterio ir interneto.
+  - Patikrinkite, ar yra ryšys tarp bendrinamo kompiuterio ir interneto.
     
-Kitų trikčių šalinimo patarimus, prašome žiūrėti: [spręsti problemas, aktyvinamą bendrai naudojamame kompiuteryje, "Office 365 ProPlus"](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Dėl kitų trikčių šalinimo patarimų, žiūrėkite: [spręsti problemas su bendrai naudojamame kompiuterio aktyvinimu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

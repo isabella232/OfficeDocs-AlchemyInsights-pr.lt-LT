@@ -1,5 +1,5 @@
 ---
-title: 8000093 prijungti "Outlook.com" abonemento teises
+title: 8000093 Outlook.com prisijungtos paskyros teisės
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546896"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kaip nustatyti "Atrodo, kaip mes neturime teises"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kaip nustatyti "atrodo, kad mes neturime leidimo"
 
-Jei matote klaidos pranešimą "atrodo, mes turime leidimą gauti laišką..." atlikite šiuos veiksmus:
+Jei matote klaidos pranešimą "atrodo, kad mes neturime leidimo gauti elektroniniu paštu..." atlikite šiuos veiksmus:
 
-1. Atidaryti [prijungti paskyros nustatymus](https://outlook.live.com/mail/options/mail/accounts) ir pašalinti arba panaikinti prijungtojo abonemento nurodytos klaidos.
-2. Pridėti prijungtąjį abonementą dar kartą.
-3. Eiti [atgal į savo pašto dėžutę](https://outlook.live.com/mail/inbox).
+1. Atidarykite [prijungto abonemento parametrus](https://outlook.live.com/mail/options/mail/accounts) ir pašalinkite arba panaikinkite prijungtame abonemente nurodytą klaidą.
+2. Vėl pridėkite prijungtą paskyrą.
+3. Grįžkite [į savo pašto dėžutę](https://outlook.live.com/mail/inbox).
 
-Gali praeiti šiek tiek laiko visus laiškus iš naujo sinchronizuoti iš prijungtojo abonemento.
+Gali praeiti šiek tiek laiko, kol visi el. laiškai iš naujo sinchronizuojami su prijungtu abonementu.
 
-Sužinokite daugiau apie [pašalinti](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) ir [įtraukti](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) prijungtųjų abonementų.
+Sužinokite daugiau apie prijungtų paskyrų [pašalinimą](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) ir [pridėjimą](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .

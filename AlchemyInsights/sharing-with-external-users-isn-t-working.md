@@ -1,5 +1,5 @@
 ---
-title: Dalintis su išoriniais vartotojais neveikia
+title: Neveikia bendrinimas su išoriniais vartotojais
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502239"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Spręsti problemas, dalytis SharePoint turinio su išoriniais vartotojais
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint turinio bendrinimo su išoriniais vartotojais problemų sprendimas
 
-Įsitikinkite, kad išorinis bendrinimas yra įjungtas, jūsų organizacija:
+Įsitikinkite, kad jūsų organizacijoje įjungtas Išorinis bendrinimas:
   
-1. Eikite į į [paslaugos &amp; priedai "Microsoft 365" administravimo centro puslapį](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), spustelėkite **svetainės**.
+1. Eikite į ["Microsoft &amp; " 365 administravimo centro puslapį tarnybos papildiniai](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ir spustelėkite **svetainės**.
     
-2. Įsitikinkite, kad parametras yra įjungta "Įjungtas." Jei pažymėtas "Tik esamos išoriniams vartotojams", įsitikinkite, kad išorinis vartotojas yra įtraukta į "Microsoft" 365 administravimo centro.
+2. Įsitikinkite, kad parametras yra įjungtas į "įjungta". Jei pasirinkta "tik esami Išoriniai vartotojai", įsitikinkite, kad išorinis vartotojas yra nurodytas "Microsoft" 365 administravimo centre.
     
-Įsitikinkite, kad svetainės įjungta išorės dalintis ja. Klasikiniai svetainės rinkinio:
+Įsitikinkite, kad svetainėje įjungtas Išorinis bendrinimas. Klasikiniam svetainių rinkiniui:
   
-1. Nauja SharePoint administravimo centro kairiojoje srityje, spustelėkite **svetainės**.
+1. Naujame SharePoint administravimo centre kairiojoje srityje spustelėkite **svetainės**.
     
-2. Pasirinkite svetainę ar svetaines, ir juostelėje, spustelėkite **bendrinimas**.
+2. Pasirinkite svetainę ar svetaines ir juostelėje spustelėkite **bendrinimas**.
     
-Komandos svetainę, kuri priklauso "Office 365" grupei, arba bendravimo svetainės:
+Komandos svetainei, priklausančiai "Office 365" grupei, arba ryšio svetainei:
   
-- Šioms naujoms svetainės turi pačios bendrinimo nustatymas, kaip jūsų visos organizacijos aplinkoje, jei visos organizacijos parametras leidžia bendrinti failus naudodami nuorodas, kurios nereikalauja prisijungimo. Tokiu atveju svetainėse leidžia dalintis su naujų ir esamų išoriniams vartotojams, kurie prisijungti. Norėdami pakeisti parametrą konkrečių svetainių, naudokite naują SharePoint administravimo centro arba "PowerShell". [Sužinokite daugiau](https://go.microsoft.com/fwlink/?linkid=871863).
+- Šie nauji svetainių tipai turi tą patį bendrinimo parametrą kaip ir jūsų organizacijos mastu, nebent visos organizacijos parametras leidžia bendrinti failus naudojant saitus, kuriems nereikia prisijungimo. Tokiu atveju svetainėse leidžiama bendrinti su naujais ir esamais išoriniais vartotojais, kurie užsiregistruosite. Norėdami pakeisti konkrečių svetainių parametrą, naudokite naują SharePoint administravimo centrą arba "PowerShell". [Sužinokite daugiau](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Išorinio bendrinimo parametrą dėl bet kurios svetainės gali būti griežtesnės negu visos organizacijos aplinkoje, bet ne griežtomis nei visos organizacijos parametrus. 
+> Išorinio bendrinimo nustatymas bet kurioje svetainėje gali būti labiau ribojantis nei visos organizacijos nustatymas, bet ne daugiau, negu visos organizacijos parametras. 
   
 

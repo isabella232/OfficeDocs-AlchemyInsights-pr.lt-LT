@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529449"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Įkelti failus į "OneDrive" arba SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failų įkėlimas į "OneDrive" arba "SharePoint"
 
-1. Jūsų naršyklėje, eikite į vietą, kur norite įkelti failus.
+1. Žiniatinklio naršyklėje eikite į vietą, į kurią norite nusiųsti failus.
     
-2. Atidarykite failų naršyklę ir raskite failus, kuriuos norite įkelti.
+2. Atidarykite failų naršyklę ir raskite failus, kuriuos norite nusiųsti.
     
-3. Pasirinkite failus ir vilkite juos į vietą "OneDrive" arba SharePoint. Pastaba: Jei naudojate "Microsoft Edge", "Mozilla Firefox" arba "Google Chrome", galite įkelti į aplanką ir visus jame esančius failus.
+3. Pasirinkite failus ir nuvilkite juos į vietą "OneDrive" arba "SharePoint". Pastaba: Jei naudojate "Microsoft Edge", "Mozilla FireFox" arba "Google Chrome", taip pat galite nusiųsti aplanką ir visus jame esančius failus.
     
 > [!NOTE]
->  Jūs galite įkelti failus iki 15 GB dydžio. > visą maršrutą (įskaitant failo vardą) failo negali būti daugiau kaip 400 ženklų. >, jei jums reikia daugiau nei 100 įkelti, [naudoti "OneDrive" sinchronizavimo klientas](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Galite nusiųsti iki 15 GB dydžio failus. > visą failo kelią (įskaitant failo vardą) negali būti daugiau nei 400 simbolių ilgio. > jei reikia įkelti daugiau nei 100 failų, [naudokite "OneDrive" sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

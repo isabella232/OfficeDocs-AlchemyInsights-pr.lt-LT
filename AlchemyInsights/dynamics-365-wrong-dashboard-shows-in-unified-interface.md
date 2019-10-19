@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - negerai prietaisų skydelyje rodo Dynamics 365 vieningą sąsają
+title: Dynamics 365-neteisingas ataskaitų srities rodo Dynamics 365 vieningosios sąsajos
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528559"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Neteisingas prietaisų skydelyje rodo Dynamics 365 vieningą sąsają
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Neteisinga ataskaitų srities rodo Dynamics 365 vieningosios sąsajos
 
-Yra kelios priežastys, kodėl galite matyti skirtingas ataskaitų srities nei tikitės:
+Yra kelios priežastys, kodėl galite matyti kitą ataskaitų sritį nei tikitės:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Vartotojas turi nustatyti vartotojo numatytąją įrankių juostos 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Vartotojas nustatė vartotojo numatytąjį ataskaitų sritį 
 
-Paprastai, galite nustatyti vartotojo numatytąją įrankių juostos yra nustatytas jei mygtuką **Nustatyti kaip numatytąjį** nerodo skydelis komandų juostą. Vartotojo numatytąją įrankių juostos bus perrašyti visi kitų numatytąjį skelbimų lentos, net jei vartotojo numatytąją įrankių juostos nėra esamos programos.
+Paprastai galite nustatyti vartotojo numatytąją ataskaitų sritį, jei mygtukas **nustatyti kaip numatytąjį** nerodomas ataskaitų srities komandų juostoje. Vartotojo numatytoji ataskaitų sritis pakeis visas kitas numatytąsias ataskaitų sritis, net jei vartotojo numatytoji ataskaitų sritis nėra dabartinėje programėlėje.
 
-Naudokite šiuos problemos Norėdami išjungti savo numatytąją įrankių juostos.
+Norėdami nustatyti numatytąją ataskaitų sritį, naudokite toliau nurodytą problemos sprendimą.
 
-1. Sukurti naują asmens ataskaitų sritis.
+1. Sukurkite naują asmeninę ataskaitų sritį.
 
-2. Skirti, naujas Panel numatytuoju vartotojo.
+2. Nustatykite naują ataskaitų sritį kaip numatytąją vartotojo.
 
-3. Panaikinti kad prietaisų skydelio.
+3. Panaikinkite tą ataskaitų sritį.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Prietaisų skydelyje yra įsikūrę sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Informacijos suvestinė nustatyta svetainės struktūroje
 
-Kuriuos galite būti nustatę organizacijos numatytąją įrankių juostos pasirinkdami skydelyje ir pasirinkti "Nustatyti kaip numatytąjį" pagal "Tinkinti sistema". Tačiau apibrėžta svetainės dizaineris prietaisų skydelyje bus pirmenybė per šią ataskaitų sritį, jei vartotojas turi prieigą prie jo.
+Galite nustatyti organizacijos numatytąjį ataskaitų sritį pasirinkdami ataskaitų sritį ir pasirinkę "nustatyti kaip numatytąjį" dalyje "tinkinti sistemą". Bet informacijos suvestinė, nurodyta svetainės struktūros konstruktoriuje, bus viršesnė už šią ataskaitų sritį, jei vartotojas turi prieigą prie jos.
 
-Norėdami peržiūrėti nustatėte kaip numatytąjį organizacijos prietaisų skydelio, galite:
+Jei norite, kad vartotojai matytų ataskaitų sritį, kurią nustatėte kaip numatytąją organizaciją, galite:
 
-* Nustatyti kad prietaisų skydelio struktūra
+* Nustatykite ataskaitų sritį svetainės struktūroje
 
-* Panaikinti prieigą prie svetainės struktūra, apibrėžti skydelio tiems vartotojams
+* Pašalinti prieigą prie svetainės struktūra nustatyta ataskaitų srities tiems vartotojams

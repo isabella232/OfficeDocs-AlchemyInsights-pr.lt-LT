@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" failų bendrinimas su išoriniais vartotojais"
+title: Bendrinkite "OneDrive" failus su išoriniais vartotojais
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549227"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>"OneDrive" failų bendrinimas su organizacijai nepriklausančiais žmonėmis
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Bendrinkite failus "OneDrive" su organizacijai nepriklausančiais asmenimis
 
-1. Naudokite programų paleidimo priemonėje eikite į "OneDrive" žiniatinklio naršyklėje. 
+1. Naudodami programų paleidimo priemonę eikite į "OneDrive" žiniatinklio naršyklėje. 
     
-2. Pasirinkite failą arba aplanką, kurį norite bendrinti, ir tada pasirinkite **bendrinti**. 
+2. Pasirinkite failą arba aplanką, kurį norite bendrinti, tada pasirinkite **bendrinti**. 
     
-3. Jei saito tipas yra nustatytas kaip "žmonių \<organizacijos\>," spustelėkite rodyklę žemyn ir pasirinkite vieną iš šių veiksmų: 
+3. Jei saito tipas nustatytas kaip "žmonės \<jūsų organizacijoje\>", spustelėkite rodyklę žemyn ir pasirinkite vieną iš šių: 
     
-  - **Kas** suteikia prieigą visiems, kurie gauna šią nuorodą gauti tiesiogiai iš jūsų ar nebūtų kažkam kitam. Tai gali būti ne savo organizacijos žmonėms. 
+  - **Kiekvienas** suteikia prieigą visiems, kurie gauna šią nuorodą, ar jie gauna tiesiogiai iš jūsų arba persiųstas iš kito asmens. Tai gali būti žmonės už jūsų organizacijos ribų. 
     
-  - **Tam tikriems žmonėms** suteikia prieigą tik tiems, jūs nurodote, nors kiti žmonės jau gali naudotis. Jei žmonės siunčia kvietimą bendrai naudotis, tik žmonės, kurie jau turi prieigą prie elemento galės naudoti nuorodą. 
+  - **Konkretūs žmonės** suteikia prieigą tik prie jūsų nurodytų žmonių, nors kiti žmonės jau gali turėti prieigą. Jei žmonės persiunčia kvietimą bendrinti, tik žmonės, kurie jau turi prieigą prie elemento, galės naudoti saitą. 
     
     > [!NOTE]
-    > Jei vieną iš šių pasirinkčių nėra, arba jei norite įvairių saito tipas būtų rodomas pagal numatytuosius parametrus, galite pakeisti visos organizacijos parametrus vyksta į "OneDrive" administravimo centrą ir spustelėkite **bendrinimas** kairiojoje srityje. [sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Jei viena iš šių parinkčių nepasiekiama arba norite, kad pagal numatytuosius nustatymus būtų rodomas kitoks saito tipas, galite pakeisti organizacijos parametrus apsilankę "OneDrive" administravimo centre ir spustelėdami **bendrinimas** kairiojoje srityje. [sužinoti daugiau, sužinok daugiau](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. **Pagal numatytuosius nustatymus, leisti redagavimas** yra įjungtas. Jei norite žmonėms tik peržiūrėti jūsų failus, atžymėkite žymimąjį langelį. 
+4. Pagal numatytuosius nustatymus **Leisti redaguoti** yra įjungtas. Jei norite, kad žmonės galėtų peržiūrėti tik failus, panaikinkite varnelę žymės langelyje. 
     
-5. Jei norite, įveskite pranešimą, ir jūs norite pasidalinti su žmonių vardai.
+5. Jei norite, įveskite žmonių, su kuriais norite bendrinti, vardus ir pranešimus.
     
 6. Kai būsite pasiruošę siųsti saitą, spustelėkite **Siųsti**. 
     

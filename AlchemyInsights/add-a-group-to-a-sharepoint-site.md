@@ -1,5 +1,5 @@
 ---
-title: Pridėti grupę prie SharePoint svetainės
+title: Grupės įtraukimas į "SharePoint" svetainę
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495219"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Pridėti grupę prie SharePoint svetainės
+# <a name="add-a-group-to-a-sharepoint-site"></a>Grupės įtraukimas į "SharePoint" svetainę
 
-Kai kurie SharePoint komandos svetaines (įskaitant tuos, kurie sukūrė Microsoft Teams) yra valdomi naudojant "Office 365" grupės savininkai. "SharePoint" svetaines ir turinį, taip pat gali būti dalijamasi, su "Office 365" grupes ir SharePoint grupes. SharePoint grupės yra keli vartotojai, kurie visi turi tuos pačius teisės į svetaines ir turinį. Klasikiniai svetainės, rekomenduojama naudoti grupes patogiai priskirti teisę pačiai daug žmonių vienu metu, o ne priskirti teises vienam asmeniui vienu metu.
+Kai kurias "SharePoint" komandos svetaines (įskaitant sukurtas "Microsoft teams") tvarko "Office 365" grupės savininkai. "SharePoint" svetaines ir turinį taip pat galima bendrinti su "Office 365" grupėmis ir su "SharePoint" grupėmis. SharePoint grupė – tai vartotojų, kurie turi vienodas teises į svetaines ir turinį, rinkinys. Klasikinių svetainių atveju rekomenduojame naudoti grupes, kad būtų patogiau vienu metu priskirti tą patį teisių lygį daugeliui žmonių, užuot priskyrę leidimus vienam asmeniui.
   
-Valdyti "Office 365" grupės nariai:
+Valdykite Office 365 grupės narius:
   
-1. Eikite į ["Microsoft" 365 administravimo centro puslapį grupes](https://portal.office.com/adminportal/home#/groups).
+1. Eikite į ["Microsoft" 365 administravimo centro puslapį grupės](https://portal.office.com/adminportal/home#/groups).
     
-2. Pasirinkite grupę, kad matytumėte jos savininkams ir nariams. Pridėti ar pašalinti žmones, spustelėkite nuorodą **Redaguoti** , **savininkai** arba **nariai** eilutėje. 
+2. Pasirinkite grupę, kad pamatytumėte jos savininkus ir narius. Norėdami įtraukti arba pašalinti asmenis, spustelėkite saitą **Redaguoti** , esantį eilutėje **savininkai** arba **nariai** . 
     
-Dalintis bendravimo svetainės "Office 365" grupe:
+Bendrinkite ryšio svetainę su "Office 365" grupe:
   
-1. Eikite į svetainę naršyklėje ir spauskite **dalintis svetainės** viršutiniame dešiniajame kampe. 
+1. Eikite į svetainę naršyklėje ir spustelėkite **Share svetainės** viršutiniame dešiniajame. 
     
-2. Įveskite grupės pavadinimą ir pasirinkite norimą teisių lygį (skaityti, redaguoti arba visiškai kontroliuoti).
+2. Įveskite grupės pavadinimą ir pasirinkite teisių lygį (skaityti, redaguoti arba visas valdiklis).
     
-Sukurti naudoti su classic svetainę SharePoint grupę:
+Sukurkite SharePoint grupę, kuri būtų naudojama su klasikine svetaine:
   
-1. Eikite į svetainę naršyklėje ir spustelėkite nustatymų piktogramą viršutiniame dešiniajame kampe.
+1. Eikite į svetainę naršyklėje ir spustelėkite piktogramą parametrai viršutiniame dešiniajame.
     
-2. Spustelėkite **Svetainės parametrai**, ir tada dalyje **vartotojai ir teisės**spustelėkite **svetainės teisių**.
+2. Spustelėkite **Svetainės parametrai**, tada dalyje **vartotojai ir teisės**spustelėkite **svetainės teisės**.
     
-3. Spustelėkite skirtuką teises, spustelėkite **Sukurti grupę**.
+3. Dėl to teises skirtuką, spustelėkite **sukurti grupę**.
     
-[Prisijungti klasikinis komandos svetainę su nauja "Office 365" grupė](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Klasikinės komandos svetainės prijungimas prie naujos "Office 365" grupės](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Sužinokite daugiau apie darbą su SharePoint grupių](https://go.microsoft.com/fwlink/?linkid=874658)
+[Sužinokite daugiau apie darbą su "SharePoint" grupėmis](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

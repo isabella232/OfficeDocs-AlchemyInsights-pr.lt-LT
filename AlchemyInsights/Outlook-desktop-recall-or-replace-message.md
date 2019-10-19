@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook\" darbalaukio atšaukti ar keisti el. paštu"
+title: "\"Outlook Desktop\" atšaukimas arba pakeitimas el. laiško"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496119"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Atšaukti arba pakeisti "Outlook" el. laiško
+# <a name="recall-or-replace-an-outlook-email-message"></a>"Outlook" el. laiško atšaukimas arba keitimas
 
-- Kaip administratorius, galite **Atšaukti pranešimų vardu vartotojai naudodami "PowerShell"**. Jūs negalite prisiminti pranešimus administravimo centrą.
-- Jūs galite **tik priminti pranešimus, kurie siunčiami jūsų organizacijos žmonės**. Jei pranešimas buvo išsiųstas į "Gmail" adresą, pvz., jūs negalite prisiminti jį.
-- Jūs galite **tik prisiminti laiškus iš "Outlook" 2016 kompiuteryje**. Jei vartotojo siunčia pranešimą naudodami "Outlook" skirtas "Mac" arba "Outlook" internete, negali prisiminti jį.
+- Kaip administratorius, galite **priminti pranešimus vartotojų vardu naudojant PowerShell**. Negalite atšaukti pranešimų iš administravimo centro.
+- Galite **atšaukti tik tuos pranešimus, kurie siunčiami jūsų organizacijos žmonėms**. Jei pranešimas buvo išsiųstas "Gmail" adresu, pavyzdžiui, jo atšaukti negalėsite.
+- Galite **tik atšaukti pranešimus, išsiųstus iš "Outlook 2016" kompiuteryje**. Jei naudotojas siunčia pranešimą naudodamas "Outlook for Mac" arba "Outlook" žiniatinklyje, jo atšaukti negalite.
 
-Atšaukti arba pakeisti el. paštu:
+Jei norite atšaukti arba pakeisti el. laišką:
 
-1. Aplanką "Outlook" lango kairėje srityje pasirinkite aplanką Išsiųsta.
-1. Dukart spustelėkite pranešimą, Norėdami priminti, kad jį atidarytumėte.
-1. Pasirinkite **laiško** skirtuko ir pasirinkite **veiksmai** > **Atšaukti šį pranešimą**.
-1. Pasirinkite **Naikinti neskaitytas šio pranešimo kopijas** arba **Neskaitytas kopijas naikinti ir keisti nauju pranešimu**, ir pasirinkite **gerai**.
-1. Jei siunčiate žinutę pakeitimo, parašyti žinutę ir pasirinkite **Siųsti**.
-1. Sėkmę ar nesėkmę, pranešimo atšaukimas priklauso nuo gavėjo pašto parametrų programoje "Outlook". Patikrinti atšaukti veiksmus, ieškokite [šiame straipsnyje](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Kairėje "Outlook" lango aplanko srityje pasirinkite aplanką Išsiųsta.
+1. Dukart spustelėkite pranešimą, kurį norite atšaukti, kad jį atidarytumėte.
+1. Pasirinkite skirtuką **pranešimas** , tada pasirinkite **veiksmai** > **prisiminti šį pranešimą**.
+1. Pasirinkite **Naikinti neskaitytas šio pranešimo kopijas** arba **panaikinkite Neskaitytas kopijas ir pakeiskite nauju pranešimu**, tada pasirinkite **gerai**.
+1. Jei siunčiate pakaitinį pranešimą, parašykite pranešimą, tada pasirinkite **Siųsti**.
+1. Pranešimo atšaukimo sėkmė arba nesėkmė priklauso nuo gavėjo nustatymų "Outlook". Norėdami sužinoti apie atšaukimo veiksmus, skaitykite [šį straipsnį](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Ieškoti ir panaikinti el. laiškus į jūsų organizacijos
+Ieškoti ir naikinti el. laiškus organizacijoje
 
-- Jei nesate visuotinio administravimo, jūsų paskyra įrašoma į eDiscovery vadovo vaidmuo arba atitikties paieškos valdymo vaidmuo ieškoti laiškų. Norėdami ištrinti pranešimus, jums reikia prisijungti prie vaidmenų grupės organizacijos valdymas arba paieškos ir prapūtimo valdymo vaidmuo. Teises rolėms priskirti [saugos ir atitikties užtikrinimo centre](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Kurti turinio ieškoti](https://docs.microsoft.com/office365/securitycompliance/content-search) ir rasti žinutę ištrinti.
-- [Prisijungti prie saugos ir atitikties užtikrinimo centre "PowerShell"](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Jei nesate visuotinis administratorius, jūsų abonementas turi būti pridėtas prie eDiscovery Manager vaidmens arba atitikties ieškos valdymo vaidmens ieškant pranešimų. Norėdami panaikinti pranešimus, turėsite prisijungti prie organizacijos valdymo vaidmenų grupės arba ieškos ir valymo valdymo vaidmens. Šių vaidmenų teisės priskiriamos [saugos ir atitikties centre](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Sukurkite turinio iešką](https://docs.microsoft.com/office365/securitycompliance/content-search) , kad rastumėte naikindami pranešimą.
+- [Prisijungti prie saugos ir atitikties centro "PowerShell"](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Jei naudojate kelių dalių autentifikavimas, pamatyti [prisijungti prie "Office 365" sauga ir atitiktis centras "PowerShell" naudoja kelių dalių autentifikavimas](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Jei naudojate kelių dalių autentifikavimą, peržiūrėkite [prisijungti prie "Office 365" saugos ir atitikties centro "PowerShell" naudodami kelių dalių autentifikavimą](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

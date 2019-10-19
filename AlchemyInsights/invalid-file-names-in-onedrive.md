@@ -1,5 +1,5 @@
 ---
-title: Netinkamas failo pavadinimai "OneDrive"
+title: Negaliojantys failų vardai "OneDrive"
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498207"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Netinkamas failo ir aplanko pavadinimus į "OneDrive" ir "SharePoint"
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Netinkamas failų ir aplankų pavadinimai "OneDrive" ir "SharePoint"
 
-Šie simboliai yra neleidžiami failų ir aplankų pavadinimuose " \* : \< \> ? / \ | 
+Šie simboliai neleidžiami failų ir aplankų pavadinimuose " \* : \< \> ? / \ | 
   
-Kai kurios organizacijos dar neturite # ir % įjungtas. Norėdami sužinoti, kaip leisti šių simbolių jūsų organizacijoje, žr. [# ir % paramos](https://go.microsoft.com/fwlink/?linkid=862611). 
+Kai kurios organizacijos dar nepalaiko # ir% įjungtų. Norėdami sužinoti, kaip leisti šiuos simbolius organizacijoje, žiūrėkite [įgalinti # ir% palaikymą](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Daugiau informacijos apie failų ir aplankų vardas apribojimai](https://go.microsoft.com/fwlink/?linkid=866430)
+[Daugiau informacijos apie failų ir aplankų pavadinimų apribojimus](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

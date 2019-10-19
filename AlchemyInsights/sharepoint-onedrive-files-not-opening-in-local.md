@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
 ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750852"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemos atidarant "Office" failus iš "SharePoint"
@@ -29,5 +29,5 @@ Jei kyla problemų atidarant "Office" failus ir dokumentus iš "SharePoint" viet
 
 Norėdami gauti daugiau informacijos arba informacijos, prašome nurodyti straipsnį, [išspręsti problemas atidarant dokumentus SharePoint bibliotekose](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Pastaba**: jei turite problemų su dokumentų atidarymo naršyklėje arba kliento pagal nutylėjimą, jums gali tekti pakeisti bibliotekos parametrus. Norėdami tai padaryti, pereikite prie bibliotekos iškilo problemų _ Gt_ Gear piktograma viršutiniame dešiniajame kampe _ Gt_ bibliotekos parametrai _ Gt_ Išplėstiniai parametrai _ Gt_ atidarymo dokumentus naršyklėje.
+**Pastaba**: jei turite problemų su dokumentų atidarymo naršyklėje arba kliento pagal nutylėjimą, jums gali tekti pakeisti bibliotekos parametrus. Norėdami tai padaryti, pereikite prie biblioteka, turinti problemų > krumpliaračio piktogramą viršutiniame dešiniajame kampe > bibliotekos parametrai > Išplėstiniai parametrai > atidaryti dokumentus naršyklėje.
 

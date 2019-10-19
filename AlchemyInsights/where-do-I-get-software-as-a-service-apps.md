@@ -1,5 +1,5 @@
 ---
-title: Kur gauti programinė įranga kaip paslauga (SaaS) programas?
+title: Kur gauti programinės įrangos kaip paslaugos (SaaS) programas?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558553"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Kur gauti programinė įranga kaip paslauga (SaaS) programėlės "Microsoft" partnerių?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Kur gauti programinės įrangos kaip paslaugos (SaaS) programas iš "Microsoft" partnerių?
 
-Klientai gali ieškoti, ieškoti ir pirkti SaaS programėlių iš [AppSource](http://www.appsource.com/).
+Klientai gali ieškoti, tirti ir pirkti "SaaS" programėles iš " [Appsource](http://www.appsource.com/)".

@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 formų verslo taisyklė naudojant Fullname lauke ne šaudyti
+title: Dynamics 365 formos verslo taisyklės naudojant fullname laukas ne šaudymo
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528983"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Ilgasis pavadinimas laukas nepalaiko vieningą inteface programos
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Pilnas vardo laukas nepalaikomas su vieningų inteface Apps
 
-Veiksmų arba naudoti **Pilną vardą** (fullname) lauko sąlygomis nepalaikomi programėles pagal vieningą sąsają. Taip pat galite naudoti veiksmams ar sąlygoms **vardas** (vardas) ir **Pavardę** (pavardė) srityse.
+Veiksmai arba sąlygos, kurios naudoja **vardą** ir pavardę (fullname) lauką, nėra palaikomos programėlėse, pagrįstoje vieningoji sąsaja. Be to, galite naudoti veiksmus arba sąlygas su **pirmuoju pavadinimu** (FirstName) ir **pavardė** (LastName) laukuose.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

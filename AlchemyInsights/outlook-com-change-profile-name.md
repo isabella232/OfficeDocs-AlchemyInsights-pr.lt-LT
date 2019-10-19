@@ -1,5 +1,5 @@
 ---
-title: Pakeiskite savo profilio vardą į "Outlook.com"
+title: Pakeiskite savo profilio pavadinimą į Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546728"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Pakeiskite savo profilio vardą į "Outlook.com"
+# <a name="change-your-profile-name-in-outlookcom"></a>Pakeiskite savo profilio pavadinimą į Outlook.com
 
-1. Eikite į [savo "Microsoft" abonemento informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Pasirinkite **Redaguoti vardą**.
-3. Įveskite vardą ir pavardę, ir pasirinkite **Išsaugoti**.
+1. Eikite į ["Microsoft" paskyros informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Pasirinkite **redaguoti pavadinimą**.
+3. Įveskite vardą ir pavardę, tada pasirinkite **įrašyti**.
 
-Gali praeiti iki 24 val. jūsų profilio pavadinimą, kad įsigaliotų keitimai.
+Palaukite iki 24 valandų, kol pasikeičia jūsų profilio pavadinimas, kad įsigaliotų.

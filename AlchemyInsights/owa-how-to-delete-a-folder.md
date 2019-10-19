@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556537"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kaip ištrinti aplanką programoje "Outlook" žiniatinklyje
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kaip ištrinti aplanką "Outlook" žiniatinklyje
 
-1. Aplankų srityje dešiniuoju pelės mygtuku spustelėkite aplanką arba poaplankis, kurį norite naikinti.
-2. Pasirinkite **ištrinti katalogą**.
+1. Aplankų srityje dešiniuoju pelės klavišu spustelėkite norimą naikinti aplanką arba poaplankį.
+2. Pasirinkite **Trinti katalogą**.
 3. Pasirinkite **gerai** , kad patvirtintumėte.
 
-Norėdami sužinoti daugiau, peržiūrėkite [darbo su pranešimų aplankus į "Outlook" žiniatinklyje](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Norėdami sužinoti daugiau, žiūrėkite [darbas su pranešimų aplankams programoje "Outlook" žiniatinklyje](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 
