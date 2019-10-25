@@ -1,9 +1,8 @@
 ---
-title: SharePoint saugykla
+title: "\"SharePoint\" saugykla"
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502728"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658265"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Tvarkyti savo "SharePoint Online" saugykla
+# <a name="manage-your-sharepoint-online-storage"></a>Valdykite savo "SharePoint Online" saugyklą
 
-Daugelyje organizacijų SharePoint saugykla yra valdoma automatiškai, todėl jums nereikia nustatyti už svetainių rinkinio. Jei norite patikrinti kiek turite SharePoint saugykla:
-  
-- Nauja SharePoint administravimo centro, viršutiniame dešiniajame puslapio svetainių, ieškoti laisvų ir bendras saugojimo.
+Sužinokite, kaip [nuomotojo saugykla apskaičiuojama](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) pagal jūsų planą.
 
-Informacijos apie kaip apskaičiuojamas savo limitą, ieškokite [SharePoint Online ribos](https://go.microsoft.com/fwlink/p/?LinkID=856113). Norėdami įsigyti papildomos saugyklos vietos, žr [keisti saugojimo vietos jūsų prenumeratai](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Informacija apie monitoringo saugoti atskiras svetaines naudodami "PowerShell" ir valdyti svetainės rinkinio saugojimo rankiniu būdu, ieškokite [valdyti svetainės rinkinio saugojimo ribas](https://go.microsoft.com/fwlink/?linkid=867833)
+Daugeliui organizacijų "SharePoint" saugykla valdoma automatiškai, todėl nereikia nustatyti ribų svetainių rinkinyje.
+
+Sužinokite, kaip [Peržiūrėti bendrą ir turimą saugyklos vietą jūsų organizacijai](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Sužinokite, kaip [valdyti atskirus svetainių rinkinio saugyklos limitus](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Jei jūsų svetainė yra iš vietos arba norite sužinoti, kuri biblioteka ar sąrašas yra naudojant erdvę, eikite į **Svetainės parametrai** > **saugyklos metrikos** (reikia svetainių rinkinio administratoriaus teises).
+
+Sužinokite, kaip [stebėti svetainės saugyklos limitus naudojant "PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)".
+
+Sužinokite, kaip [nusipirkti papildomą saugyklą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637785"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654264"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Valdykite fojė nustatymus ir dalyvavimo lygį
 
@@ -24,7 +24,7 @@ Jei norite leisti visiems, įskaitant telefono, išorinius ir anoniminius vartot
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šiuo metu cmdlet reikia naudoti "Skype" Business "PowerShell" modulis. Norėdami gauti sąrankos naudoti šį cmdlet, patikrinkite valdymo strategijos per "PowerShell".
+Šiuo metu cmdlet reikia naudoti "Skype" Business "PowerShell" modulis. Norėdami gauti sąrankos naudoti šį cmdlet, patikrinti [valdymo strategijos per "PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)".
 
 Galite nustatyti naują strategiją, kurią turėsite taikyti vartotojams. Jei pakeisite visuotinę strategiją, ji bus automatiškai taikoma vartotojams. Bet kokiam politikos pasikeitime reikia palaukti bent 4 valandas ir iki 24 valandų, kol strategijos įsigalios.
 

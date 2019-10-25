@@ -2,7 +2,6 @@
 title: Svetainės pervardijimas
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752184"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658373"
 ---
 # <a name="rename-a-sharepoint-site"></a>"SharePoint" svetainės pervardijimas
 
-Norėdami pakeisti svetainės pavadinimą, pvz., iš https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, turite sukurti naują svetainę ir perkelti visą turinį iš senosios svetainės į naująjį. Informacijos, kaip perkelti elementus į dokumentų bibliotekas, ieškokite [elementų perkėlimas arba kopijavimas iš "SharePoint" dokumentų bibliotekos](https://go.microsoft.com/fwlink/?Linkid=2018691).
-  
-Pastaba: jei bandote pakeisti domeno vardą (t. y. contoso URL aukščiau) SharePoint Online URL, tai yra neįmanoma. Peržiūrėkite, kaip [pakeisti domenus](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Atlikite [šiame straipsnyje](https://docs.microsoft.com/sharepoint/change-site-address) nurodytus veiksmus, kad pakeistumėte svetainės pavadinimą, pvz https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2., iš.
+
+**Pastaba:** Negalite pakeisti domeno vardo (anksčiau pateiktame pavyzdyje – "Contoso" URL dalyje) "SharePoint Online" URL. Daugiau informacijos rasite Norėdami [pakeisti savo domenus](https://go.microsoft.com/fwlink/?Linkid=2018696) .
   
