@@ -14,18 +14,18 @@ ms.custom:
 - "647"
 - "2000016"
 ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36735325"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="f4938-102">Kaip įdiegti "Mac Office" iš portalo</span><span class="sxs-lookup"><span data-stu-id="f4938-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="df147-102">Kaip įdiegti "Mac Office" iš portalo</span><span class="sxs-lookup"><span data-stu-id="df147-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="f4938-103">[Pašalinkite "Office 2011 for Mac" iš savo kompiuterių](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="f4938-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="df147-103">[Pašalinkite "Office 2011 for Mac" iš savo kompiuterių](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="df147-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="f4938-104">[Tvarkyti programinės įrangos atsisiuntimo parametrus Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="f4938-104">[Manage software download settings in Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
+2. <span data-ttu-id="df147-104">[Tvarkyti programinės įrangos atsisiuntimo parametrus Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="df147-104">[Manage software download settings in Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
 
-3. <span data-ttu-id="f4938-105">[Priskirti licencijas vartotojams](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="f4938-105">[Assign licenses to users](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+3. <span data-ttu-id="df147-105">[Priskirti licencijas vartotojams](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="df147-105">[Assign licenses to users](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
 
-4. <span data-ttu-id="f4938-106">Vartotojai gali patys įdiegti "Office" programinę įrangą arba galite naudoti ["Office" įdiegtį savo "Mac" vartotojams](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="f4938-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="df147-106">Vartotojai gali patys įdiegti "Office" programinę įrangą arba galite naudoti ["Office" įdiegtį savo "Mac" vartotojams](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="df147-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>

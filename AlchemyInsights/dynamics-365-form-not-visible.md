@@ -10,14 +10,14 @@ ms.custom:
 - "1470"
 - "6200014"
 ms.openlocfilehash: ae5078109428667b2ce88e8674419589875c27fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528847"
 ---
-# <a name="dynamics-365-form-not-visible"></a><span data-ttu-id="30221-102">"Dynamics 365" forma nematoma</span><span class="sxs-lookup"><span data-stu-id="30221-102">Dynamics 365 form not visible</span></span>
+# <a name="dynamics-365-form-not-visible"></a><span data-ttu-id="0627f-102">"Dynamics 365" forma nematoma</span><span class="sxs-lookup"><span data-stu-id="0627f-102">Dynamics 365 form not visible</span></span>
 
-* [<span data-ttu-id="30221-103">Formos parinkiklyje nematoma forma</span><span class="sxs-lookup"><span data-stu-id="30221-103">Form not visible in the Form Selector</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [<span data-ttu-id="0627f-103">Formos parinkiklyje nematoma forma</span><span class="sxs-lookup"><span data-stu-id="0627f-103">Form not visible in the Form Selector</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [<span data-ttu-id="30221-104">Kodėl mano forma nematoma formos parinkiklyje, išskleidžiamajame bet kurioje programėlėje?</span><span class="sxs-lookup"><span data-stu-id="30221-104">Why is my form not visible in the form selector drop down in any app?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [<span data-ttu-id="0627f-104">Kodėl mano forma nematoma formos parinkiklyje, išskleidžiamajame bet kurioje programėlėje?</span><span class="sxs-lookup"><span data-stu-id="0627f-104">Why is my form not visible in the form selector drop down in any app?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
