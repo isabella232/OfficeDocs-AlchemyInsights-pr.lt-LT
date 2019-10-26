@@ -1,5 +1,5 @@
 ---
-title: Informacijos prenumerata
+title: Prenumeratos informacija
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501232"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576884"
 ---
-# <a name="subscription-information"></a>Informacijos prenumerata
+# <a name="subscription-information"></a>Prenumeratos informacija
 
-Informacijos apie "Office 365" prenumeratas savo, administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+Norėdami gauti informacijos apie jūsų prenumeratas, eikite į puslapį **atsiskaitymo** \> [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Pagrindinė informacija apie kiekvieną prenumeratos:
+Pagrindinė informacija apie kiekvieną prenumeratą:
   
-- Būklė kiekvienam
+- Kiekvienos
 
-- Įsigytų licencijų
+- Įsigytos licencijos
 
-- Priskirtų licencijų
+- Priskirtos licencijos
 
-- Pasikartojančiomis atsiskaitymo statusą
+- Periodinio atsiskaitymo būsena
 
 - Balansas
 
 - Mokėjimo būdas
 
-- Kito atsiskaitymo arba galiojimo pabaigos data
+- Kitas atsiskaitymas arba galiojimo data
