@@ -1,5 +1,5 @@
 ---
-title: "\"Office 365\" URL ir IP adresus"
+title: Office 365 URL ir IP adresai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522043"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775323"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>"Office 365" URL ir IP adresų diapazonai
+# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL ir IP adresų diapazonai
 
-"Office 365" reikia interneto ryšio. Šio straipsnio, [Office 365 URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), įverčiai turi būti pasiekiamas vartotojams naudotis "Office 365".
+Office 365 reikalauja jungiamumo prie interneto per konkrečius IP adresus, vadinamus *galiniai punktai*.
+Norėdami gauti galinių punktų, kuriuos reikia pasiekiami, sąrašą, žiūrėkite [Office 365 URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+"Office 365" IP adreso ir URL žiniatinklio tarnyba padeda geriau identifikuoti ir diferencijuoti "Office 365" tinklo srautą, todėl lengviau įvertinti, konfigūruoti ir atnaujinti keitimus. Peržiūrėkite " [Office 365" IP adresą ir URL žiniatinklio tarnybą](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

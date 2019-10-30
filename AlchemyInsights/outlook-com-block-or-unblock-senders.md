@@ -1,5 +1,5 @@
 ---
-title: Blokuoti arba atblokuoti siuntėjai "Outlook.com"
+title: Blokuoti arba atblokuoti siuntėjus Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643702"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768736"
 ---
-# <a name="block-or-unblock-senders"></a>Blokuoti arba atblokuoti siuntėjai
+# <a name="block-or-unblock-senders"></a>Siuntėjų blokavimas arba atblokavimas
 
-Laiškus iš el. pašto adresų arba domenų blokuojami siuntėjai eiti tiesiai į aplanką Nepageidaujamas el. paštas. El. paštas po 30 dienų automatiškai pašalinama iš aplanko Nepageidaujamas el. paštas ir negrąžinamas. Se; ect elementą norėdami pamatyti, kada jis bus pašalintas.
+Laiškai iš jūsų užblokuotų siuntėjų el. pašto adresų arba domenų yra tiesiai į jūsų Outlook nepageidaujamo el. pašto aplanką. El. paštas automatiškai pašalinamas iš nepageidaujamo el. pašto aplanko po 30 dienų ir nėra atkuriamas. Pasirinkite elementą, kurį norite matyti, kada jis bus pašalintas.
 
-**Iš savo aplanko Gauta:**
+**Iš gautųjų:**
 
-- Pranešimų sąraše pasirinkite pranešimą ir pasirinkite **Junk** > **blokas**.
-- **Pastaba:** Blokavimo elementą jau savo nepageidaujamo el. pašto aplanką jis nepanaikins.
+- Pranešimų sąraše pasirinkite pranešimą, tada pasirinkite **nepageidaujamas** > **blokas**.
+- **Pastaba:** Blokuojant elementą, jau esantį aplanke nepageidaujamas el. paštas, jis nebus panaikintas.
 
-**Parametrai:**
+**Iš parametrai:**
 
 1. Atidarykite [nepageidaujamo el. pašto](https://outlook.live.com/mail/options/mail/junkEmail) parametrus.
-2. Dalyje **blokuoti siuntėjus ir domenus**, pasirinkite **įtraukti**.
-3. Įveskite el. pašto adresą, domeną, kurį norite užblokuoti, ir paspauskite klavišą Enter.
+2. Dalyje **Užblokuoti siuntėjai ir domenai**pasirinkite **įtraukti**.
+3. Įveskite norimo blokuoti domeno el. pašto adresą ir paspauskite ENTER.
 4. Pasirinkite **įrašyti**.
 
-Norėdami atblokuoti siuntėjui, pasirinkite šiukšliadėžės piktogramą, esančią šalia el. pašto adresą arba domeną, kurį norite atblokuoti.
+Norėdami atblokuoti siuntėją, pasirinkite šiukšliadėžės piktogramą šalia el. pašto adreso arba domeno, kurį norite atblokuoti.
 
-Norėdami sužinoti daugiau, žr. [Žymėti el. laiško žymėjimas kaip nepageidaujamo ar blokuoti siuntėjus "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami sužinoti daugiau, žiūrėkite [Pažymėti el. paštą kaip nepageidaujamas arba blokuoti siuntėjus Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

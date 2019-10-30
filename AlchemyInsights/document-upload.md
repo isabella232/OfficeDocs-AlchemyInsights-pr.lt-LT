@@ -3,7 +3,6 @@ title: Dokumento įkėlimas
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529449"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769419"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Failų įkėlimas į "OneDrive" arba "SharePoint"
 
@@ -26,7 +25,10 @@ ms.locfileid: "36529449"
     
 3. Pasirinkite failus ir nuvilkite juos į vietą "OneDrive" arba "SharePoint". Pastaba: Jei naudojate "Microsoft Edge", "Mozilla FireFox" arba "Google Chrome", taip pat galite nusiųsti aplanką ir visus jame esančius failus.
     
-> [!NOTE]
->  Galite nusiųsti iki 15 GB dydžio failus. > visą failo kelią (įskaitant failo vardą) negali būti daugiau nei 400 simbolių ilgio. > jei reikia įkelti daugiau nei 100 failų, [naudokite "OneDrive" sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Pastabos:**
+
+- Galite nusiųsti iki 15 GB dydžio failus. 
+- Visas failo kelias (įskaitant failo vardą) negali būti didesnis nei 400 simbolių ilgio. 
+- Jei jums reikia įkelti daugiau nei 100 failus, [naudokite "OneDrive" sinchronizavimo klientas](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

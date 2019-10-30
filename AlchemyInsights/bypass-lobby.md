@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654264"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768448"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Valdykite fojė nustatymus ir dalyvavimo lygį
 
-Jei norite leisti visiems, įskaitant telefono, išorinius ir anoniminius vartotojus apeiti fojė, galite naudoti "PowerShell", kad tai atlikti. Toliau pateikiame jūsų organizacijai skirtos visuotinės susitikimų strategijos modifikavimo pavyzdį.
+Jei norite leisti visiems, įskaitant telefono, išorinius ir anoniminius vartotojus apeiti "Microsoft teams" fojė, Norėdami tai padaryti galite naudoti "PowerShell". Toliau pateikiame jūsų organizacijai skirtos visuotinės susitikimų strategijos modifikavimo pavyzdį.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

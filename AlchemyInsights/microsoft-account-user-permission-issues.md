@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754200"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768809"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Šalinti triktis-vartotojas nerastas kataloge
 
-Jei vartotojai gauna klaidos pranešimą "vartotojas nerastas" kataloge. Bandykite dar kartą, kai problemos tipas yra vartotojo ne kataloge.
+Jei vartotojai gauna klaidos pranešimą "vartotojas negali rasti" kataloge, bandykite dar kartą, kai problema tipas yra vartotojas ne kataloge.
 
 Norėdami išspręsti šią problemą, galite atlikti toliau nurodytus veiksmus.
 
@@ -29,7 +29,7 @@ Daugiau informacijos rasite [kaip valdyti "Microsoft" paskyros</a> pseudonimus, 
 
 Pridėti "/_layouts/15/People.aspx/membershipgroupid = 0" (per dvigubų kabučių) į svetainės URL pabaigoje. 
 
-Pavyzdys: https://< "contoso">. SharePoint. com/_ Layouts/15/People. aspx/membershipGroupId = 0.
+Pavyzdys: https://< "Contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Pasirinkite vartotoją iš sąrašo.
 

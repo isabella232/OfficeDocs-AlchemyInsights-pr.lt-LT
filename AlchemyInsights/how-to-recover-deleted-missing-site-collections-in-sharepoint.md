@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756144"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769023"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Trūkstamų arba panaikintų svetainių rinkinių atkūrimas
 
-Kaip atkurti trūkstamus arba panaikintus svetainių rinkinius.
+Ieškokite šiuose straipsniuose informacijos apie tai, kaip atkurti trūkstamus arba panaikintus svetainių rinkinius "SharePoint".
 
 [Panaikintų svetainių atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ Kaip atkurti trūkstamus arba panaikintus svetainių rinkinius.
 
 Jei nerandate svetainės, galite [Ieškoti audito žurnale Office 365 saugos &amp; atitikties centre](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Pastaba**: "modernus" komandos svetainės nėra matomas **klasikinis** SharePoint administratoriaus vartotojo sąsaja. "Šiuolaikinių" svetainių sąrašą galite pasiekti iš naujo "SharePoint" [administravimo centro](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Pastaba:** "Modernus" komandos svetainės nėra matomas **klasikinis** SharePoint administratoriaus vartotojo sąsaja. "Šiuolaikinių" svetainių sąrašą galite pasiekti iš naujo "SharePoint" [administravimo centro](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 
