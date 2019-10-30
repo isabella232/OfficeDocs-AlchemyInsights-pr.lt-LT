@@ -2,7 +2,6 @@
 title: Išorinis vartotojas negali pasiekti turinio
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +11,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d271206230148f2a6b95fb4e12682feefc02274f
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740041"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769203"
 ---
-# <a name="external-user-cannot-access-content"></a><span data-ttu-id="c9679-102">Išorinis vartotojas negali pasiekti turinio</span><span class="sxs-lookup"><span data-stu-id="c9679-102">External user cannot access content</span></span>
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="70e7e-102">Išorinis vartotojas negali pasiekti "SharePoint" arba "OneDrive" turinio</span><span class="sxs-lookup"><span data-stu-id="70e7e-102">External user cannot access SharePoint or OneDrive content</span></span>
 
-<span data-ttu-id="c9679-103">Jei išorinis naudotojas buvo pakviestas ir negali pasiekti turinio, bandykite apsilankyti toliau pateiktuose saituose:</span><span class="sxs-lookup"><span data-stu-id="c9679-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="70e7e-103">Jei išorinis naudotojas buvo pakviestas ir negali pasiekti turinio, bandykite apsilankyti toliau pateiktuose saituose:</span><span class="sxs-lookup"><span data-stu-id="70e7e-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="c9679-104">"Prieiga uždrausta", "jums reikia leidimo prieiti prie šios svetainės", arba "vartotojas nerastas kataloge" klaidos "SharePoint Online" ir "OneDrive" verslui</span><span class="sxs-lookup"><span data-stu-id="c9679-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="c9679-105">"Jūsų organizacijos strategijos neleidžia jums pasidalinti su šiais vartotojais" klaida, kai bendrai naudoti elementą arba svetainę "SharePoint Online" arba "OneDrive" verslui</span><span class="sxs-lookup"><span data-stu-id="c9679-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="c9679-106">Bendrinimo parinktys yra pilka, kai bendrai naudojate "SharePoint Online" arba "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="c9679-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="c9679-107">Klaidos pranešimas, kai išorinis vartotojas priima SharePoint Online kvietimą naudodami kitą abonementą</span><span class="sxs-lookup"><span data-stu-id="c9679-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="c9679-108">Bendro naudojimo klaidos "SharePoint" ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="c9679-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="70e7e-104">"Prieiga uždrausta", "jums reikia leidimo prieiti prie šios svetainės", arba "vartotojas nerastas kataloge" klaidos "SharePoint Online" ir "OneDrive" verslui</span><span class="sxs-lookup"><span data-stu-id="70e7e-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="70e7e-105">"Jūsų organizacijos strategijos neleidžia jums pasidalinti su šiais vartotojais" klaida, kai bendrai naudoti elementą arba svetainę "SharePoint Online" arba "OneDrive" verslui</span><span class="sxs-lookup"><span data-stu-id="70e7e-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="70e7e-106">Bendrinimo parinktys yra pilka, kai bendrai naudojate "SharePoint Online" arba "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="70e7e-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="70e7e-107">Klaidos pranešimas, kai išorinis vartotojas priima SharePoint Online kvietimą naudodami kitą abonementą</span><span class="sxs-lookup"><span data-stu-id="70e7e-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="70e7e-108">Bendro naudojimo klaidos "SharePoint" ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="70e7e-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
