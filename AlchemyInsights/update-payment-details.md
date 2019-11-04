@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660944"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921822"
 ---
 # <a name="update-payment-details"></a>Mokėjimo informacijos naujinimas
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660944"
 4. Atnaujinkite, tada pasirinkite **Įrašyti**.
 
 5. Norėdami pašalinti šį mokėjimo būdą, pasirinkite **Naikinti**.
+
+**Trikčių diagnostika**
+
+Jei kilo problemų dėl puslapio įkėlimo, bandykite atidaryti tinklalapį kitoje naršyklėje arba bandykite atidaryti puslapį privačiame naršyklė lange, pvz., naršyklės „Microsoft Edge“ lange „InPrivate“ lange arba „Google Chrome“ inkognito lange. 
 
 Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
