@@ -12,38 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
-ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
+ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
+ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068031"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37992626"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>"SharePoint" ir "OneDrive" audito žurnalai
 
-**"SharePoint" ir "OneDrive" šiuolaikinės vieningosios audito žurnalai atitikties**
+## <a name="sharepoint-classic-audit-logs"></a>SharePoint Classic audito žurnalai
 
-- [Įjungti/išjungti vieningosios audito registravimą](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
-
-"SharePoint" arba "OneDrive" nereikia papildomos konfigūracijos.
-
-- Naudokite audito registravimo iešką Norėdami patikrinti failo (-ų), aplanko (-ų), vartotojo (-ų), leidimų veiklą:
-
-    - [Failų ir puslapių veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Aplanko veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Bendrinimo ir prieigos užklausų veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Sinchronizavimo veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Svetainės administravimo veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Daugiau informacijos apie tai, kaip nuskaityti šiuos įvykius, rasite [Ieškoti audito žurnale](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-
-**SharePoint Classic audito žurnalai**
-
-Perkelėme SPO palikimą į vieningosios audito žurnalo (UAL) auditą. Tai iš esmės reiškia, kad dabar visos SPO senstelėjusios įrangos audito ataskaitos bus maitinamas per UAL, o senesni audito signalai buvo perkelti į UAL.
+Į vieningosios audito žurnalą (UAL) perkeltas SPO palikimas auditas. Dabar visos SPO senstelėjusios įrangos audito ataskaitos bus maitinamas per UAL, o senstelėjusios įrangos audito signalai buvo perkelti į UAL.
 
 Pagrindiniai pakeitimai:
 
-- NEGALIMA apipjaustyti kaip galimybės.
-- Sekcija, kurioje pasirenkate konkrečius audito įvykius, yra neprieinama. Prašome kreiptis į [šį dokumentą](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) visą audituotų renginių, galimų pagal numatytuosius nustatymus, sąrašą.
-- Parinktis "vieta" pagal **pritaikytas ataskaitas** yra neprieinama. 
-- "Dokumentų atidarymas arba atsisiuntimas" įvykiai nepasiekiami. 
+* Apipjaustymas nėra galimybės.
+* Pasirinkti konkrečius įvykius, kurių auditas yra neprieinamas. [Šiame dokumente](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) rasite visą audituotų renginių, kuriuos galima gauti pagal numatytuosius nustatymus, sąrašą.
+* **Vietos** parinktis pagal **PRITAIKYTAS ataskaitas** yra neprieinama.
+* Parinktis **atidaryti arba atsisiųsti dokumentus** įvykiai yra neprieinama.
 
+[Konfigūruoti svetainių rinkinio audito parametrus](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>"SharePoint" ir "OneDrive" šiuolaikinės vieningosios audito žurnalai atitikties
+
+* [Įjungti/išjungti vieningosios audito registravimą](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+
+"SharePoint" arba "OneDrive" nereikia papildomos konfigūracijos.
+
+Naudokite audito registravimo iešką Norėdami patikrinti failo (-ų), aplanko (-ų), vartotojo (-ų), leidimų veiklą:
+
+* [Failų ir puslapių veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [Aplanko veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Bendrinimo ir prieigos užklausų veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Sinchronizavimo veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Svetainės administravimo veikla](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+
+Daugiau informacijos apie tai, kaip nuskaityti šiuos įvykius, rasite [Ieškoti audito žurnale](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
