@@ -1,5 +1,5 @@
 ---
-title: Kopijuoti ar perkelti elementus SharePoint dokumentų bibliotekoje
+title: Elementų kopijavimas arba perkėlimas "SharePoint" dokumentų bibliotekoje
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,31 +13,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0db9b6b20cb77c709c24273e089c2e511535e7ab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516247"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711764"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopijuoti ar perkelti elementus SharePoint dokumentų bibliotekoje
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Elementų kopijavimas arba perkėlimas "SharePoint" dokumentų bibliotekoje
 
-Galite kopijuoti ir perkelti failus, aplankus ir nuorodas į kitas vietas per dokumentų biblioteką. Taip pat galite kopijuoti elementus svetainėse. Jei [nustatyti tikslinės išleidimo galimybė](https://go.microsoft.com/fwlink/?linkid=622980), galite perkelti elementus svetainėse, taip pat.
+Galite kopijuoti ir perkelti failus, aplankus ir saitus į skirtingas vietas dokumentų bibliotekoje. Taip pat galite kopijuoti elementus visose svetainėse. 
   
-1. Naršyklėje, eikite į failus, aplankus ar nuorodos, kurią norite perkelti, ir tada spustelėkite **Kopijuoti** arba **perkelti**.
-
-    > [!NOTE]
-    > **Kopijuoti** ir **perkelti** negalima, jei naudojate SharePoint Online klasikinis patirtis.
-  
-2. Dalyje **pasirinkti kelionės tikslą**, pasirinkite vietą, į kurią norite kopijuoti arba perkelti elementus arba spustelėkite **Naršyti svetaines** pamatyti pilną sąrašą.
+1. Naršyklėje naršykite failus, aplankus arba saitus, kuriuos norite perkelti, tada spustelėkite **Kopijuoti** arba **perkelti į**.
 
     > [!NOTE]
-    > Jei nematote kitų svetainių, išvardytų kopijuojant elementus, nebuvo sukonfigūruoti kopijavimo svetainėse. Norėdami ją įjungti, eikite į nustatymų puslapį su SharePoint administravimo centro ir spustelėkite **gerai**.
+    > **Kopijuoti į** ir **perkelti į** negalima, jei naudojate klasikinę "SharePoint Online" patirtį.
   
-    Norėdami sukurti naują aplanką, pasirinkite vietą aplanko hierarchijos, spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir spustelėkite žymės langelį įrašyti pavadinimą.
+2. Dalyje **pasirinkti paskirties vietą**pasirinkite vietą, į kurią norite kopijuoti arba perkelti elementus, arba spustelėkite **Naršyti svetaines** , kad pamatytumėte visą svetainių sąrašą.
+
+    > [!NOTE]
+    > Jei nematysite kitų svetainių, kurios išvardytos kopijuojant elementus, nebuvo sukonfigūruotos kopijavimo keliose svetainėse. Norėdami ją įjungti, eikite į SharePoint administravimo centro parametrų puslapį ir spustelėkite **gerai**.
+  
+    Norėdami sukurti naują aplanką, pasirinkite vietą aplankų hierarchijoje, spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir spustelėkite varnelę, kad įrašytumėte vardą.
 
 3. Spustelėkite **Kopijuoti čia** arba **perkelti čia**.
 
-> [!NOTE]
-> Iki 500 MB failus ir aplankus galite kopijuoti vienu metu. > kopijuojant dokumentus, kuriuose yra versijų retrospektyva, tik naujausią kopijuojamas. Kai perkeliate dokumentus, taip pat perkeliamas savo istoriją.
+    > [!NOTE]
+    > Vienu metu galite nukopijuoti iki 500 MB failų ir aplankų. > kopijuojant dokumentus su versijų retrospektyva, nukopijuojama tik naujausia versija. Perkėlus dokumentus, jų retrospektyva taip pat perkeliama.
   
+ Kai failas juda, jis vis tiek pasirodys šaltinio kataloge, kol jis bus visiškai perkeltas į paskirties vietą, ir tada jis bus panaikintas. Failas liks šaltinio svetainėse Šiukšlinėje po to, kai perkėlimas bus baigtas ir jam bus taikomas įprastas šiukšlinės grafikas, nebent naudotojas jį atkuria iš Šiukšlinės.
+
+Daugiau informacijos žr.
+
+ - [Failų perkėlimas arba kopijavimas "SharePoint" ("](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) Office" palaikymo straipsnyje)
+ - [Perkelti failus iš bet kurio aplanko Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog straipsnis)  
