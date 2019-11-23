@@ -1,9 +1,8 @@
 ---
-title: Viešojo aplanko duomenims perkelti į "Office 365"
+title: Perkelti viešojo aplanko duomenis į Office 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
+ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544366"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "39202602"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Viešojo aplanko duomenims perkelti į "Office 365"
+# <a name="migrate-public-folder-data-to-office-365"></a>Perkelti viešojo aplanko duomenis į Office 365
 
-Jei jūs neturite daug viešųjų aplankų į "Office 365", paprasčiausias būdas juos būtų galima kopijuoti duomenis į. PST failus, o tada importuoti juos į "Office 365". Už nedidelį kiekį duomenų, paprasta drag and drop viešąjį aplanką į įstaigą. PST failas gali būti pakankamai. Jei turite daugiau duomenų, nei kad (iki 30GB), turime [dokumentais procesas](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , galite naudoti aplankus eksportuoti į PST failai.
+Jei neturite viešųjų aplankų daug, kad į Office 365, lengviausias būdas juos būtų nukopijuoti duomenis į. PST failus ir tada importuoti juos į Office 365. Dėl nedidelių duomenų kiekių, paprastas vilkite ir upuść viešąjį aplanką į a. PST failas gali būti pakankamas. Jei turite daugiau duomenų nei (iki 30GB), mes [dokumentais procesą](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , kurį galite naudoti norėdami eksportuoti aplankus PST failus.
   
-Didesnėms organizacijoms, kurie yra persikraustančio viešuosius aplankus į "Office 365", mes turime keletą vadovai, galima rasti:
+Didesnių organizacijų, kurie juda viešieji aplankai į Office 365, turime vadovus galima:
   
-- [Migracija senstelėjusios įrangos viešieji aplankai](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 m. ir ankstesnių)
+- [Perkelti senesnius viešuosius aplankus](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Perkelti viešuosius aplankus Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Perkelti Exchange 2013, Exchange 2016 arba Exchange 2019 viešieji aplankai](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-- [Perkelti viešuosius aplankus Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-
-Jūs taip pat turite galimybę [perkelti viešuosius aplankus Office 365 grupėms](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
+Taip pat galite pasirinkti [perkelti viešuosius aplankus į Office 365 grupės](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   
