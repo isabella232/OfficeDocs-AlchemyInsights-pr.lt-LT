@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: bee729ffe9fbbf379612c658cdad25b1fbfdd0ab
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469283"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626752"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kaip atidėti "Microsoft" varomų komandų atnaujinimą
 
@@ -24,4 +24,4 @@ Jei gavote informacijos apie "Microsoft" automatizuotą versijos naujinimą iš 
 
 **Pastaba:** Mygtukas **atidėti** bus pasiekiamas, tik jei gavote pranešimų centro pranešimą apie automatinį atnaujinimą. 
 
-Office 365 Global administratoriai taip pat galite paleisti [get-CsTeamsUpgradeStatus](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) daugiau sužinoti apie savo dabartinę naujinimo būseną. 
+Office 365 Global administratoriai taip pat galite paleisti [get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) daugiau sužinoti apie savo dabartinę naujinimo būseną. 

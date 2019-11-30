@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027063"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628178"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word užstringa arba neatsako
 
@@ -31,7 +31,7 @@ Jei programa "Word" nepaleidžiama, išbandykite toliau nurodytus veiksmus.
 1.   "Windows" darbalaukyje uždarykite "Outlook" ir paspauskite CTRL + ALT + DEL, kad atidarytumėte užduočių tvarkytuvą. 
 2. Skirtuke **procesai** , jei "Word" procesai veikia, pasirinkite juos ir pasirinkite **Baigti užduotį**. Taip pat rekomenduojame, kad jūs paleisti iš naujo, kad išvalytumėte viską iš atminties.
 
-    Jei programa "Word" ir toliau užstringa arba užstringa paleidimo metu, žiūrėkite [atidaryti "Office" programėles saugiuoju režimu "Windows" kompiuteryje](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) , kad paleistumėte ją saugiuoju režimu.
+    Jei programa "Word" ir toliau užstringa arba užstringa paleidimo metu, žiūrėkite [atidaryti "Office" programėles saugiuoju režimu "Windows" kompiuteryje](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) , kad paleistumėte ją saugiuoju režimu.
 
 Jei vis tiek kyla problemų, skaitykite šiuos straipsnius: 
 - [Gaunu "nustojo veikti" klaida, kai aš paleisti Office programas į savo kompiuterį](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

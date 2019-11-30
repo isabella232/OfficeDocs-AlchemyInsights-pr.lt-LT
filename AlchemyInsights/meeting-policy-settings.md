@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376736"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627582"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Tvarkykite susitikimų strategijas programoje "Microsoft teams"
 
@@ -24,7 +24,7 @@ Susitikimų strategijos naudojamos valdyti funkcijoms, kurios pasiekiamos jūsų
 
 Daugiau informacijos apie susitikimų strategijas rasite šiuose šaltiniuose:
 
-- Norėdami sužinoti, kaip kurti strategijas, atlikti keitimus ir priskirti vartotojus politikai [, žr.](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)
+- Norėdami sužinoti, kaip kurti strategijas, atlikti keitimus ir priskirti vartotojus politikai [, žr.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
 - Norėdami, kad strategijos pakeitimai naudojant "PowerShell" cmdlet, ieškokite [komandos "PowerShell" apžvalga](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Jums reikia naudoti ["Skype" Business PowerShell modulis](https://www.microsoft.com/download/details.aspx?id=39366) komandų susitikimo strategijos. 
