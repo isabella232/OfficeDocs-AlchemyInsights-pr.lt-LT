@@ -1,7 +1,7 @@
 ---
-title: Valdyti be licencijos mainų grupė
-ms.author: dianef
-author: dianef77
+title: Grupės valdymas be "Exchange" licencijos
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497468"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049273"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Valdyti be licencijos mainų grupė
+# <a name="manage-a-group-without-an-exchange-license"></a>Grupės valdymas be "Exchange" licencijos
 
-Jei jūsų "Office 365" administratorius abonementas neturi pašto dėžutės, galite gauti klaidos apie trūkstamus produkto licenciją kai bandote redaguoti Office 365 grupės.
+Jei "Office 365" administratoriaus paskyroje nėra pašto dėžutės, bandant redaguoti "Office 365 Group" gali būti klaida dėl trūkstamos produkto licencijos.
   
-Nes esate nuomininkas administratoriaus, tai galite redaguoti grupę, net jei jūs neturite Exchange licenciją. Tiesiog nueikite į [Exchange administravimo centro](https://outlook.office365.com/ecp.aspx) \> **grupes** tvarkyti Office 365 grupės.
+Kadangi esate nuomotojo administratorius, galima redaguoti grupę, net jei neturite "Exchange" licencijos. Tiesiog eikite į [Exchange administravimo centro](https://outlook.office365.com/ecp.aspx) \> **grupės** valdyti Office 365 grupė.
   
-Jei norite redaguoti grupių administravimo centro, pridėti licencijos keistis savo sąskaitos administratoriaus. Jums reikia palaukti, kol pašto dėžutę yra visiškai sukurta prieš redaguodami grupės.
+Jei administravimo centre norite redaguoti grupes, įtraukite "Exchange" licenciją į administratoriaus paskyrą. Prieš redaguodami grupę, turite palaukti, kol pašto dėžutė bus visiškai sukurta.
   

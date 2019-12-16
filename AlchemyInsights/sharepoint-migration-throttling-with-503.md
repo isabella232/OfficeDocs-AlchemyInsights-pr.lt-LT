@@ -1,7 +1,7 @@
 ---
-title: SharePoint perkėlimo užklausų buferizavimas su 503 klaidas
-ms.author: efrene
-author: efrene
+title: SharePoint perkėlimo buferinės su 503 klaidų
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503607"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054061"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint perkėlimo užklausų buferizavimas su 503 klaidas
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint perkėlimo buferinės su 503 klaidų
 
-Atrodo, kad esate pereinant prie SharePoint Online ir 503 kyla. Atlikite toliau nurodytus veiksmus, kad galėtumėme jums padėti kuo greičiau. 
+Atrodo, jūs migruoja į "SharePoint Online" ir gauna 503 klaidų. Prašome atlikti toliau nurodytus veiksmus, kad galėtume jums padėti kaip galima greičiau. 
 
-1. Spustelėkite **registruojama**, ir **naujos paslaugos užklausos**.
-2. Antraštė ir aprašas, įveskite **SharePoint perkėlimo užklausų buferizavimas su 503**.
-3. Pateikus bilietą, prašome atnaujinti šią informaciją:
+1. Spustelėkite **kontakto palaikymo**, ir tada **naują aptarnavimo užklausą**.
+2. Pavadinimas ir aprašymas, įveskite **SharePoint perkėlimo Throttling su 503**.
+3. Kai bilietas buvo pateiktas, prašome jį atnaujinti su šia informacija:
     - Kiek liko migracijos (pvz., kiek TBs?).
-    - Migracijos pradžios ir pabaigos datos.
-    - Apibūdinti, jei perkeliate turinį iš, pvz., SharePoint Server, dėžutė, GDrive, failų bendrinimo, ir tt...
-    - Įvertinti perkrovos klaidų (pvz., x droselio per valandą?) ir kada padarė lėtinimas atsitikti.
-    - Kurioje migracijos įrankis jūs naudojate (pavyzdžiui, SPMT arba ShareGate).
+    - Perkėlimo pradžios ir pabaigos data.
+    - Aprašykite, kur perkeliate turinį, pvz., SharePoint Server, Box, GDrive, failų bendrinimo ir kt.
+    - Įvertinkite užklausų buferavimo klaidų skaičių (pvz., x akceleratoriaus per valandą?) ir kada įvyko buferinio greičio klaida.
+    - Kurį perkėlimo įrankį naudojate (pvz., SPMT arba ShareGate).
 
 
