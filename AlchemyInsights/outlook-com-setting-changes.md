@@ -1,7 +1,7 @@
 ---
 title: Outlook.com parametrai
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386373"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053269"
 ---
 # <a name="settings-in-outlookcom"></a>Nustatymai Outlook.com
 
-Jei gavėjas yra vidinis ar išorinis jūsų organizacijoje ir jei jie naudoja Office 365 arba Outlook.com el. pašto abonementą, šie klientai neturėtų daryti nieko ypatingo atidaryti pranešimą: **outlook 2016, interneto Outlook Web App, "Outlook" Mobilioji programėlė**
+Jei gavėjas yra vidinis ar išorinis jūsų organizacijoje ir jei jie naudoja Office 365 arba Outlook.com el. pašto abonementą, šie klientai neturėtų daryti nieko ypatingo atidaryti pranešimą: **"Outlook" 2016, "Outlook" žiniatinklio/"Outlook Web App," Outlook Mobile App**
 
 Vartotojų, kuriems buvo išsiųstas apsaugotas el. laiškas, **delegatai** , negali atidaryti apsaugotų pranešimų. El. laiške informaciją gali peržiūrėti tik pirminiai gavėjai (asmuo, kuriam buvo išsiųstas apsaugotas el. laiškas).
 

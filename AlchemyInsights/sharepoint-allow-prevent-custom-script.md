@@ -1,7 +1,7 @@
 ---
-title: Leisti pasirinktinį scenarijų įgalinti funkcijas
-ms.author: efrene
-author: efrene
+title: Leisti pasirinktinių scenarijų funkcijoms įgalinti
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548903"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051793"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Leisti pasirinktinį scenarijų įgalinti funkcijas
+# <a name="allow-custom-script-to-enable-features"></a>Leisti pasirinktinių scenarijų funkcijoms įgalinti
 
-Administratoriai gali prireikti **Leisti Custom scenarijų** įgalinti tam tikras funkcijas. Pvz., vartotojai gali gauti 403 Klaida jungiantis prie SharePoint su SharePoint Designer. Išsamius veiksmus, pavyzdžiai ir svarstymus žr [leisti arba neleisti pasirinktinį scenarijų](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratoriams gali reikėti **leisti Pasirinktinis scenarijus** įgalinti tam tikras funkcijas. Pvz., vartotojai gali gauti klaidos 403 jungiantis prie SharePoint su SharePoint Designer. Išsamių veiksmų, pavyzdžių ir motyvų ieškokite [leisti arba neleisti pasirinktinio scenarijaus](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Jei vartotojai patiria **klaida 403** su SharePoint arba "OneDrive", galite patikrinti [paslaugų sveikatos stebėjimo skydas](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) nustatyti, ar tai žinoma problema su rezoliucija vyksta prieš galite kreiptis į palaikymo tarnybą arba praleisti laiką trikčių šalinimas. Problema gali būti labai trumpalaikis ir jau žinomas "Microsoft", bet gali būti galioti nuo problemos identifikavimo ir registravimo paslaugas sveikatos stebėjimo skydas. Prašome ir toliau tikrins paslaugų sveikatos stebėjimo skydas toliau atnaujinimai.
+Jei vartotojai susiduria su **klaida 403** su SharePoint arba OneDrive, galite patikrinti [tarnybos sveikatos ataskaitų srities](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Norėdami nustatyti, ar tai yra žinoma problema su rezoliucija vyksta prieš jums paskambinti arba praleisti laiko trikčių šalinimas. Šis klausimas gali būti labai laikinas ir nustatytas "Microsoft", tačiau gali būti laiko tarpas tarp išdavimo identifikavimo ir registravimo tarnybos sveikatos ataskaitų srityje. Toliau tikrinkite tarnybos sveikatos ataskaitų sritį ir atlikite tolesnius naujinimus.
 

@@ -1,7 +1,7 @@
 ---
-title: Klausimus, o perkelti duomenis į SharePoint Online
-ms.author: efrene
-author: efrene
+title: Problemos, o duomenų perkėlimas į "SharePoint Online"
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504363"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051757"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Klausimus, o perkelti duomenis į SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemos, o duomenų perkėlimas į "SharePoint Online"
 
-Atrodo, kad daugiau nei 100TB duomenų migruoja į SharePoint Online. Atlikite toliau nurodytus veiksmus, kad galėtumėme jums padėti kuo greičiau. 
+Atrodo, jūs migruoja virš 100TB duomenų į SharePoint Online. Prašome atlikti toliau nurodytus veiksmus, kad galėtume jums padėti kaip galima greičiau. 
 
-1. Pasirinkite **naują paslaugos užklausos**, o **naujos paslaugos užklausos**. 
-2. Palikti pavadinimą ir aprašymą kaip **SharePoint migracijos daugiau nei 100 TB**.
-3. Pateikus bilietą, prašome atnaujinti šią informaciją: 
+1. Pasirinkite **naują aptarnavimo užklausą**, ir tada **naują aptarnavimo užklausą**. 
+2. Palikite pavadinimą ir aprašą kaip **SharePoint perkėlimą virš 100TB**.
+3. Kai bilietas buvo pateiktas, prašome jį atnaujinti su šia informacija: 
 
-    - Apskaičiuotas dydis perkėlimą.
-    - Kada norite pradėti ir užbaigti savo migracijos įvertinimas.
-    - Apibūdinti, jei perkeliate turinį iš, pvz., SharePoint Server, dėžutė, GDrive, failų bendrinimo, ir tt...
+    - Apytikslis jūsų perkėlimo dydis.
+    - Įvertinimas, Kada norėtumėte pradėti ir užbaigti savo perkėlimą.
+    - Aprašykite, kur perkeliate turinį, pvz., SharePoint Server, Box, GDrive, failų bendrinimo ir kt.
 
 
   

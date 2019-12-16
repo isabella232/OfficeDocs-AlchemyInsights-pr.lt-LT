@@ -1,7 +1,7 @@
 ---
-title: "\"OneDrive\" saugojimas ir naikinimas"
-ms.author: efrene
-author: efrene
+title: "\"OneDrive\" išsaugojimas ir naikinimas"
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521575"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053341"
 ---
-# <a name="onedrive-retention-and-deletion"></a>"OneDrive" saugojimas ir naikinimas
+# <a name="onedrive-retention-and-deletion"></a>"OneDrive" išsaugojimas ir naikinimas
 
-- Galite [Atkurti panaikintus "OneDrive" vartotojai](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) patys. Jie yra šiukšlinę 93 dienas. 
+- [Ištrintus vartotojus "OneDrive" galite atkurti](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) patys. Jie yra Šiukšlinėje 93 dienų. 
 
 - Peržiūrėkite [šį straipsnį](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) ir Sužinokite:
-    - Kaip kitam vartotojui suteikti prieigą prie panaikintų vartotojo "OneDrive".
-    - Kas atsitinka su vartotojo "OneDrive", naikinant vartotojo "Office 365" abonementą jūsų organizacijos.
-    - Kaip sukonfigūruoti automatiškai delegacija.
-    - Kaip "OneDrive" panaikinimo procesas veikia.
+    - Kaip suteikti kitam vartotojui prieigą prie ištrinto vartotojo "OneDrive".
+    - Kas nutinka vartotojo "OneDrive" panaikinus vartotojo "Office 365" abonementą jūsų organizacijai.
+    - Kaip sukonfigūruoti automatinį prieigos delegaciją.
+    - Kaip veikia "OneDrive" naikinimo procesas.
 
-- Domina saugos ir atitikties užtikrinimo centre sulaikymo ir sulaikymo?:
-    - [Saugojimo strategijos "OneDrive" ir "SharePoint" svetainėse](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [el. duomenų aptikimo laikyti "OneDrive" ir "SharePoint" svetainėse](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Domina saugos ir atitikties centras sulaikymas ir laikymas?:
+    - ["OneDrive" ir "SharePoint" svetainių saugojimo strategijos](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - ["OneDrive" ir "SharePoint" svetainės eDiscovery palaikykite](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

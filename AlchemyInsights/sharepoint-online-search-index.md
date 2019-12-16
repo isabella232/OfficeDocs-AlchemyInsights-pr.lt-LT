@@ -1,37 +1,37 @@
 ---
-title: 'Paieška: SharePoint internete'
-ms.author: efrene
-author: efrene
+title: Ieška "SharePoint Online"
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507639"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044051"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Turinio ir indeksuodama SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Turinio nuskaitymas ir indeksavimas "SharePoint Online"
 
-Turinys turi būti nuskaityti ir įtraukiamas į ieškos rodyklę vartotojams rasti ką jie ieško SharePoint Online. Turinys automatiškai Naršoma pagal iš anksto nustatytus nuskaitymo tvarkaraštį (nuskaitymo tvarkaraštį pakeisti negalima). Aptikimo robotui susitvarko turinį, kuris buvo pakeistas nuo paskutiniojo aptikimo ir atnaujina rodyklę. Siekiant užtikrinti nuskaityti turinys ir rodyklė yra atnaujinama, Atkreipkite dìmesç, kad:
+Turinys turi būti nuskaityti ir įtraukti į paieškos indeksą vartotojams rasti tai, ko jie ieško SharePoint Online. Turinys automatiškai aptinkamas pagal iš anksto nustatytą aptikimo grafiką (negalima keisti aptikimo grafiko). Aptikimo robotas paima turinį, kuris pasikeitė nuo paskutinio aptikimo ir atnaujina indeksą. Kad turinys būtų aptinkamas ir indeksas būtų atnaujintas, Įsidėmėkite:
 
-- Įsitikinkite, kad turinys gali būti rasti darant [svetainės turinio paieškai](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Įsitikinkite, kad turinio galima rasti [svetainės turinio paieškai](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Kai pakeičiate valdoma ypatybė arba kai pakeičiate išdėstymą, nuskaityti ir valdyti prieš keitimai atsispindės paieškos indeksą savybės, svetainės turi būti iš naujo aptiktos. 
+- Pakeitus valdomą ypatybę arba pakeitus aptiktų ir valdomų ypatybių susiejimą, svetainė turi būti iš naujo nuskaitytas prieš tai, kai jūsų keitimai atsispindės Ieškos rodyklėje. 
 
-    Nes jūsų keitimai bus atlikti ieškos schemos, o ne į faktinį svetainėje, skaitytuvas bus automatiškai iš naujo indeksuoti svetainę. 
+    Kadangi jūsų pakeitimai atliekami ieškos schemoje, o ne faktinei svetainei, šliaužiklis automatiškai iš naujo neindeksuoja svetainės. 
 
-    Daugiau informacijos ieškokite [rankiniu būdu prašymą ir iš naujo indeksuodama svetainę, biblioteka arba sąrašas](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Norėdami gauti daugiau informacijos, žr [rankiniu būdu prašyti nuskaityti ir iš naujo indeksuoti svetainę, biblioteką ar sąrašą](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Palaukite bent 24 valandas po rankiniu būdu prašančioji aptikimo ir visiškai iš naujo indeksuoti Norėdami pamatyti, jei vis dar kyla klausimas. 
+- Palaukite bent 24 valandas po to, kai rankiniu būdu prašyti nuskaitymo ir visiškai iš naujo indeksas pamatyti, jei jūs vis dar susiduria su problema. 
 
-    Jei daugiau nei 24 valandų praėjo nuo galite pradėti nuskaityti ir visiškai iš naujo indeksuoti, prašome prisijungti palaikymo bylą. Daugeliu atvejų, mes jau dirbame išeitį. Nurodykite bent 24 valandas atlikti sprendimą.
+    Jei praėjo daugiau nei 24 valandos nuo tada, kai inicijavote aptikimą ir visą indeksą, prašome prisijungti prie palaikymo atvejo. Daugeliu atvejų jau dirbame su sprendimu. Prašome pateikti mums bent 24 valandas, kad užbaigtumėte sprendimą.
 
 > [!IMPORTANT]
-> Jei svetainė, dokumentą (biblioteka) arba sąraše buvo panaikintas ir vis dar rodo paieškos rezultatus, vartotojai turėtų gauti **Klaida 404 Failas nerastas** bandant jį pasiekti. Ši problema turėtų būti registruojami aptarnavimo tolesnių tyrimų. 
+> Jei svetainėje, dokumentas (biblioteka) arba sąrašas buvo panaikintas ir vis dar rodomas ieškos rezultatuose, vartotojai turėtų gauti **klaidos 404 failą nerastas** bandant jį pasiekti. Šis klausimas turėtų būti registruojamas kaip paramos atvejis tolesniam tyrimui. 
 
 
 
