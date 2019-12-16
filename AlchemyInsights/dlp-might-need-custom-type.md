@@ -1,7 +1,7 @@
 ---
-title: DLP gali prireikti pasirinktinį tipas
-ms.author: stephow
-author: stephow-MSFT
+title: DLP gali reikėti pasirinktinio tipo
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530359"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052909"
 ---
-# <a name="dlp-might-need-a-custom-type"></a><span data-ttu-id="64d1c-102">DLP gali prireikti pasirinktinį tipas</span><span class="sxs-lookup"><span data-stu-id="64d1c-102">DLP might need a custom type</span></span>
+# <a name="dlp-might-need-a-custom-type"></a><span data-ttu-id="92e54-102">DLP gali reikėti pasirinktinio tipo</span><span class="sxs-lookup"><span data-stu-id="92e54-102">DLP might need a custom type</span></span>
 
-<span data-ttu-id="64d1c-103">Duomenų praradimo prevencija (DLP) politiką, galite nustatyti ir apsaugoti slaptus duomenis savo organizacijoje.</span><span class="sxs-lookup"><span data-stu-id="64d1c-103">With a data loss prevention (DLP) policy, you can identify and protect sensitive data in your organization.</span></span> <span data-ttu-id="64d1c-104">Kai kuriais atvejais, jums gali tekti sukurti savo **pasirinktinį** slaptos informacijos tipo apsaugoti organizacijos duomenis.</span><span class="sxs-lookup"><span data-stu-id="64d1c-104">In some scenarios, you might need to create your own **custom** sensitive information type to protect your organization's data.</span></span>
+<span data-ttu-id="92e54-103">Naudodami duomenų praradimo prevencijos (DLP) strategiją galite identifikuoti ir apsaugoti jūsų organizacijoje esančius slaptus duomenis.</span><span class="sxs-lookup"><span data-stu-id="92e54-103">With a data loss prevention (DLP) policy, you can identify and protect sensitive data in your organization.</span></span> <span data-ttu-id="92e54-104">Kai kuriais atvejais gali reikėti sukurti savo **Pasirinktinės** slaptos informacijos tipą, kad būtų apsaugoti organizacijos duomenys.</span><span class="sxs-lookup"><span data-stu-id="92e54-104">In some scenarios, you might need to create your own **custom** sensitive information type to protect your organization's data.</span></span>
 
-<span data-ttu-id="64d1c-105">Pavyzdžiui, jūsų organizacijai gali tekti nustatyti ir apsaugoti darbuotojo ID ar kitus duomenis kai kurie formatu su savo org. Jei taip, skaitykite šiuos straipsnius daugiau informacijos.</span><span class="sxs-lookup"><span data-stu-id="64d1c-105">For example, your organization might need to identify and protect employee IDs or other data in some format specific to your org. If so, see the following articles for more information.</span></span>
+<span data-ttu-id="92e54-105">Pavyzdžiui, jūsų organizacijai gali reikėti identifikuoti ir apsaugoti darbuotojo ID ar kitus duomenis tam tikru formatu, specifi jūsų organizacijos. Jei taip, ieškokite šiuose straipsniuose, jei turite daugiau informacijos.</span><span class="sxs-lookup"><span data-stu-id="92e54-105">For example, your organization might need to identify and protect employee IDs or other data in some format specific to your org. If so, see the following articles for more information.</span></span>
   
- <span data-ttu-id="64d1c-106">**Tinkinti įmontuota slapta informacija tipas**</span><span class="sxs-lookup"><span data-stu-id="64d1c-106">**Customize a built-in sensitive information type**</span></span>
+ <span data-ttu-id="92e54-106">**Įtaisytosios slaptos informacijos tipo tinkinimas**</span><span class="sxs-lookup"><span data-stu-id="92e54-106">**Customize a built-in sensitive information type**</span></span>
   
-<span data-ttu-id="64d1c-107">Jei įmontuota slapta informacija tipo būtų patenkinti savo poreikius tik keletą tweaks, galite [Tinkinti built-in slaptos informacijos tipas](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="64d1c-107">If a built-in sensitive information type would meet your needs with just a few tweaks, you can [customize a built-in sensitive information type](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span></span> <span data-ttu-id="64d1c-108">Pvz., jūs galite pridėti arba pašalinti raktinius žodžius, arba pridėti ar pašalinti patvirtinančius įrodymus, pvz., dienos arba adresas.</span><span class="sxs-lookup"><span data-stu-id="64d1c-108">For example, you can add or remove keywords, or add or remove supporting evidence such as a date or address.</span></span>
+<span data-ttu-id="92e54-107">Jei integruotas slaptos informacijos tipas atitiktų jūsų poreikius vos keliais tweaks, galite [Tinkinti įtaisytosios slaptos informacijos tipą](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="92e54-107">If a built-in sensitive information type would meet your needs with just a few tweaks, you can [customize a built-in sensitive information type](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span></span> <span data-ttu-id="92e54-108">Pavyzdžiui, galite pridėti arba pašalinti raktinius žodžius arba pridėti ar pašalinti patvirtinamuosius įrodymus, pvz., datą arba adresą.</span><span class="sxs-lookup"><span data-stu-id="92e54-108">For example, you can add or remove keywords, or add or remove supporting evidence such as a date or address.</span></span>
   
- <span data-ttu-id="64d1c-109">**Sukurti pasirinktinį slaptos informacijos tipą**</span><span class="sxs-lookup"><span data-stu-id="64d1c-109">**Create a custom sensitive information type**</span></span>
+ <span data-ttu-id="92e54-109">**Pasirinktinės slaptos informacijos tipo kūrimas**</span><span class="sxs-lookup"><span data-stu-id="92e54-109">**Create a custom sensitive information type**</span></span>
   
-<span data-ttu-id="64d1c-110">Bet jei jums reikia nustatyti ir apsaugoti visiškai kitokia slapta informacija, galite [sukurti pasirinktinį slaptos informacijos tipą](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) saugumo & atitikties centro vartotojo sąsaja.</span><span class="sxs-lookup"><span data-stu-id="64d1c-110">But if you need to identify and protect a different type of sensitive information altogether, you can [create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in the UI of the Security & Compliance Center.</span></span>
+<span data-ttu-id="92e54-110">Bet jei jums reikia iš viso identifikuoti ir apsaugoti kitokio tipo slaptą informaciją, galite [sukurti pasirinktinį slaptos informacijos tipą](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) saugos & atitikties centro vartotojo sąsajoje.</span><span class="sxs-lookup"><span data-stu-id="92e54-110">But if you need to identify and protect a different type of sensitive information altogether, you can [create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in the UI of the Security & Compliance Center.</span></span>
   
-<span data-ttu-id="64d1c-111">**Sukurti pasirinktinį slaptos informacijos tipą saugumo & atitikties centro "PowerShell"**</span><span class="sxs-lookup"><span data-stu-id="64d1c-111">**Create a custom sensitive information type in Security & Compliance Center PowerShell**</span></span>
+<span data-ttu-id="92e54-111">**Sukurkite pasirinktinį slaptos informacijos tipą saugos & atitikties centras "PowerShell"**</span><span class="sxs-lookup"><span data-stu-id="92e54-111">**Create a custom sensitive information type in Security & Compliance Center PowerShell**</span></span>
 
-<span data-ttu-id="64d1c-112">Galiausiai, jei UI neteikia visų variantų jums reikia, galite [sukurti pasirinktinį slaptos informacijos tipą, saugumo & atitikties centro "PowerShell"](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span><span class="sxs-lookup"><span data-stu-id="64d1c-112">Finally, if the UI doesn't provide all the options you need, you can [create a custom sensitive information type in Security & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span></span> <span data-ttu-id="64d1c-113">Pradedant XML failą, galite naudoti visomis.</span><span class="sxs-lookup"><span data-stu-id="64d1c-113">By starting with an XML file, you can use every option available.</span></span>
+<span data-ttu-id="92e54-112">Galiausiai, jei UI nepateikia visas parinktis, jums reikia, galite [sukurti pasirinktinį slaptos informacijos tipą, saugos & atitikties centras "PowerShell"](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span><span class="sxs-lookup"><span data-stu-id="92e54-112">Finally, if the UI doesn't provide all the options you need, you can [create a custom sensitive information type in Security & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span></span> <span data-ttu-id="92e54-113">Pradėdami nuo XML failo, galite naudoti visas galimas parinktis.</span><span class="sxs-lookup"><span data-stu-id="92e54-113">By starting with an XML file, you can use every option available.</span></span>
