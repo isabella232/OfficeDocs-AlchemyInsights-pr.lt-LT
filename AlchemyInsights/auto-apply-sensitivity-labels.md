@@ -1,7 +1,7 @@
 ---
-title: Auto-taikyti jautrumo etiketės
-ms.author: stephow
-author: stephow-MSFT
+title: Automatiškai taikyti jautrumo etiketes
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517399"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050317"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Auto-taikyti jautrumo etiketės
+# <a name="auto-apply-sensitivity-labels"></a>Automatiškai taikyti jautrumo etiketes
 
-Jautrumo etiketės gali būti rankiniu būdu taikomas turinio naudotojai, arba galite konfigūruoti juos būtų galima automatiškai taikyti prie turinio.
+Jautrumo etiketes vartotojai gali rankiniu būdu pritaikyti turiniui, arba galite sukonfigūruoti, kad jie būtų automatiškai pritaikyti turiniui.
 
-Automatiškai taikyti jautrumo etiketės pašalina būtinybę Apmokydama vartotojus apie tai, kaip klasifikuoti ir kad būtina pranešti apie politikos sudėties.
+Automatiškai taikydami jautrumo etiketes pašalinsite poreikį mokyti vartotojus apie tai, kaip klasifikuoti turinį, ir apie būtinybę pranešti apie politikos konfigūracijas.
 
-Norėdami automatiškai taikyti etiketes, taip yra reikalaujama:
+Norint automatiškai taikyti etiketes, reikalingos šios nuostatos:
 
-- Azure abonemento informacijos apsaugos P2
-- [Atsisiųsti ir įdiegti Azure duomenų apsaugos vieningos ženklinimo klientas](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure informacijos apsaugos P2 prenumerata
+- [Atsisiųskite ir įdiekite Azure informacijos apsaugos vieningą ženklinimo klientas](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Mes dirbame palaikoma, kad nereikalaus Azure duomenų apsaugos vieningos ženklinimo klientas ateityje.
+Mes dirbame dėl gimtoji paramą, kuri nereikalauja Azure informacijos apsaugos vieningą ženklinimo klientas ateityje.
 
-Šiuo metu tik "Windows" palaiko vieningos ženklinimo kliento.  Ši funkcija dar nepalaiko "Mac", "iOS" ir "Android".
+Šiuo metu tik sistema Windows palaiko vieningą ženklinimo klientą.  Ši funkcija dar nepalaikoma "Mac", "iOS" ir "Android" įrenginiuose.
 
-Daugiau informacijos apie jautrumo etiketes ir taikydami juos automatiškai turinį, ieškokite:
+Norėdami gauti daugiau informacijos apie jautrumo etiketes ir automatiškai jas taikyti turiniui, žr.:
 
-- [Jautrumo etiketės apžvalga](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Taikyti jautrumo etiketės turinį automatiškai](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Jautrumo etikečių apžvalga](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automatiškai taikyti jautrumo etiketę turiniui](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
