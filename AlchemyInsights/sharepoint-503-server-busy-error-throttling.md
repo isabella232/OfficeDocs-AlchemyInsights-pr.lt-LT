@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 5fdbb315698a58145e5437b0a7b127ce0062a76f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
+ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048624"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "40065566"
 ---
 # <a name="sharepoint-online-throttling"></a>"SharePoint Online" užklausų Buferėjimas
 
 Vartotojai gali gauti 503 serverio yra užimtas klaida bandant pereiti prie SharePoint arba OneDrive svetainių. 
 
-Ši klaida gali kilti dėl buferinės per SharePoint tarnybos. SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos. Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug. Jei jūs gaunate Throttled, 99% laiko tai dėl pasirinktinį kodą.
+Ši klaida gali kilti dėl buferinės per SharePoint tarnybos. SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos. Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug. 
 
 Daugiau informacijos apie buferizavimo pamatyti, [išvengti gauti neleista arba užblokuotas SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

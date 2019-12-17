@@ -1,5 +1,5 @@
 ---
-title: Padidinti pašto dėžutės dydis
+title: Padidinkite pašto dėžutės dydį
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,31 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 8e5e674c2e214c6c4d8f964006853d7ab18527e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661772"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068317"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Jungiklis planuoja didinti pašto dėžutės dydis
+# <a name="switch-plans-to-increase-mailbox-size"></a>Perjungti planus padidinti pašto dėžutės dydį
 
-Jei jūsų "Office 365" pašto dėžutės dydis yra 100 GB, yra ne taip, kaip jį padidinti. Tokiu atveju sekti [šio patarimo](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
+Jei jūsų Office 365 pašto dėžutės dydis jau yra 100 GB, nėra jokio būdo jį padidinti.
   
-Jei pašto dėžutės dydis yra 50 GB, galite jį padidinti iki 100 GB pereina į [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) "arba" [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Atlikite šiuos veiksmus, Norėdami perjungti į kitą "Office 365" planą:
+Jei pašto dėžutės dydis yra 50 GB, galite jį padidinti iki 100 GB perjungdami į [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) arba [Biuro 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Toliau pateikiami veiksmai, kaip perjungti kitą "Office 365" planą.
   
-1. "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. "Microsoft" 365 administravimo centre eikite į puslapį **atsiskaitymo** \> [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Pasirinkite, kurį norite atnaujinti prenumeratą.
+2. Pasirinkite prenumeratą, kurią norite naujinti.
 
-3. Prenumeratos informacijos puslapyje, pasirinkite **atnaujinti**.
+3. Puslapyje prenumeratos informacija pasirinkite **Naujinti versiją**.
 
-4. Rasti planą, į kurį norite atnaujinti, tada pasirinkite mygtuką **atnaujinti** .
+4. Raskite planą, į kurį norite naujinti, tada pasirinkite mygtuką **Naujinti** .
 
-5. Įveskite skaičių licencijas, kurios jums reikia, pasirinkite, ar norite mokėti kiekvieną mėnesį ar metus, tada pasirinkite **kasos**.
+5. Įveskite jums reikalingas licencijų skaičius, pasirinkite, ar mokėti kiekvieną mėnesį, ar visus metus, tada pasirinkite **atsiskaitymas**.
 
-Daugiau informacijos ieškokite [atnaujinti kitą planą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Daugiau informacijos rasite [atnaujinti į kitą planą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Jūs naudojate seną administravimo centrą? Išsamesnės informacijos ieškokite [Perjungti į kitą planą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan). 
-  
-Jei turite [O365 planą, kuris palaiko vietinį archyvą](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), taip pat galite gauti papildomų el. pašto saugojimo suteikiant archyvo pašto dėžutę.  Archyvo pašto dėžutės suteikia papildomą saugyklą ir leidžia jums perkelti, kopijuoti ir ieškoti laiškus, tiek pagrindine ir archyvo pašto dėžutę. Veiksmus tam, kad archyvo pašto dėžutę, ieškokite [archyvuoti](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Jei turite [Office 365 planą, kuris palaiko archyvą vietoje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), taip pat galite gauti papildomos el. pašto saugyklos įgalindami archyvo pašto dėžutę. Archyvo pašto dėžutė suteikia papildomą saugyklą ir leidžia perkelti, kopijuoti ir ieškoti pranešimų pirminėje ir archyvo pašto dėžutėje. Norėdami gauti veiksmų, kaip įgalinti archyvo pašto dėžutę, žiūrėkite [įgalinti archyvo pašto dėžutę](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
