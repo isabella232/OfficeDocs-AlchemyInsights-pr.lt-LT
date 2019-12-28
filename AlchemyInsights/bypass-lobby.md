@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626356"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889090"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Valdykite fojė nustatymus ir dalyvavimo lygį
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Valdykite fojė nustatymus ir dalyvavimo programoje "teams" lygį
 
-Jei norite leisti visiems, įskaitant telefono, išorinius ir anoniminius vartotojus apeiti "Microsoft teams" fojė, Norėdami tai padaryti galite naudoti "PowerShell". Toliau pateikiame jūsų organizacijai skirtos visuotinės susitikimų strategijos modifikavimo pavyzdį.
+Jei norite leisti visiems, įskaitant telefono, išorinius ir anoniminius vartotojus, **apeiti fojė**, Norėdami atlikti šią užduotį, naudokite "PowerShell". Toliau pateikiame jūsų organizacijai skirtos visuotinės susitikimų strategijos modifikavimo pavyzdį.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šiuo metu cmdlet reikia naudoti "Skype" Business "PowerShell" modulis. Norėdami gauti sąrankos naudoti šį cmdlet, patikrinti [valdymo strategijos per "PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)".
+Šiuo metu cmdlet reikia naudoti "Skype" Business "PowerShell" modulis. Norėdami nustatyti naudoti šį cmdlet, patikrinkite [valdymo strategijos per "PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)".
 
-Galite nustatyti naują strategiją, kurią turėsite taikyti vartotojams. Jei pakeisite visuotinę strategiją, ji bus automatiškai taikoma vartotojams. Bet kokiam politikos pasikeitime reikia palaukti bent 4 valandas ir iki 24 valandų, kol strategijos įsigalios.
+Nustatę strategiją, turite ją taikyti vartotojams; arba, jei modifikavote pasaulinę politiką, ji bus automatiškai taikoma vartotojams. Jei norite, kad politikos pakeitimas įsigaliotų, turite palaukti mažiausiai **4 valandas iki 24 valandų** . 
 
 Prieš atlikdami šiuos pakeitimus, būtinai peržiūrėkite toliau pateiktą dokumentaciją, kad tiksliai suprastumėte, ką tai leidžia.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>"Teams" susitikimų fojė strategijos valdiklių supratimas
+
+Šie parametrai kontroliuoja, kurie susitikimų dalyviai laukia fojė prieš priimant į susitikimą, ir jų dalyvavimo susitikime lygį. Naudodami "PowerShell" galite naujinti susitikimų strategijos parametrus, kurie dar neįdiegti (pažymėti "netrukus") komandos administravimo centre. Žiūrėkite žemiau pavyzdys PowerShell cmdlet, kuri leidžia visiems vartotojams apeiti fojė.
 
 - [Automatiškai priimti žmones](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) yra už organizatorius politiką, kuri kontroliuoja, ar žmonės prisijungti prie susitikimo tiesiogiai arba laukti fojė tol, kol jie priimami autentifikuotas vartotojas.
 
