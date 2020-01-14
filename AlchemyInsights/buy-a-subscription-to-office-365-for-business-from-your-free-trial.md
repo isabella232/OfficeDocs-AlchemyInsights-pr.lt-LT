@@ -1,5 +1,5 @@
 ---
-title: Užsisakyti prenumeratą į "Office 365" verslui iš savo nemokamą bandomąją versiją
+title: Įsigykite įmonės "Office 365" prenumeratą iš nemokamos bandomosios versijos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664760"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104665"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Užsisakyti prenumeratą į "Office 365" iš jūsų Nemokama bandomoji versija
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Įsigykite "Office 365" prenumeratą iš nemokamos bandomosios versijos
 
-Jūs bandėte "Office 365", ir dabar jūs esate pasiruošę pirkti. Perkant "Office 365" iš jūsų bandomąją versiją, turite dvi parinktis:
+Bandėte Office 365, o dabar esate pasiruošę pirkti. Jūs turite dvi galimybes perkant Office 365 iš savo bandomąją versiją:
   
- **Pirkti tą patį planą savo bandomąjį laikotarpį**
+ **Įsigykite tą patį planą kaip ir bandomąją versiją**
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Raskite prenumeratą, kurios norite pirkti. **Licencijų** skiltyje pasirinkite **pirkimo prenumeratą**, ir atlikite veiksmus, Norėdami patikrinti.
+2. Raskite norimą įsigyti prenumeratą. Sekcijoje **licencijos** pasirinkite **pirkimo prenumerata**ir atlikite veiksmus, kad patikrėtumėte.
 
-**Galima pasirinkus kitą prenumeratą pirkti**
+**Įsigykite kitą prenumeratą**
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) psl.
+1. Administravimo centre eikite į puslapį **atsiskaitymo** \> [pirkimų paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-3. Raskite prenumeratą, kurios norite pirkti, pasirinkite **pirkti**ir atlikite veiksmus, Norėdami patikrinti.
+3. Raskite norimą įsigyti prenumeratą, pasirinkite **pirkti**ir atlikite veiksmus, kad patikrėtumėte.
 
-Norėdami sužinoti daugiau, peržiūrėkite [pirkti verslą, savo nemokamą bandomąją versiją "Office 365" prenumeratą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Norėdami sužinoti daugiau, žiūrėkite [įsigyti "Office 365" prenumeratą iš savo nemokamos bandomosios versijos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**Trikčių diagnostika**
+
+Jei kilo problemų dėl puslapio įkėlimo, bandykite atidaryti tinklalapį kitoje naršyklėje arba bandykite atidaryti puslapį privačiame naršyklė lange, pvz., naršyklės „Microsoft Edge“ lange „InPrivate“ lange arba „Google Chrome“ inkognito lange.
