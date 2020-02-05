@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049417"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771151"
 ---
 # <a name="why-cant-i-edit-files"></a>Kodėl negaliu redaguoti failų?
 
-Jei dokumentas, darbalapis arba pateiktis užrakinami redagavimui ir jų negalima atidaryti "Windows" darbalaukio taikomosiose programose, gali būti, kad failą jau redagavo kažkas kitas arba failas paimtas. Leiskite greitai pažvelgti į kai kurias priežastis, [Kodėl gali nepavykti redaguoti failo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Greitai Peržiūrėkite kai kurias priežastis, dėl kurių negalėsite [redaguoti failo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Jei turite bibliotekų su **kasos, reikia** arba **tikrinimo** stulpelių ar metaduomenų, arba kai **projekto elemento sauga** yra nustatyta arba **tik vartotojams, kurie gali redaguoti** arba **tik vartotojai, kurie gali patvirtinti elementus** versijos parametrai bibliotekoje:
 

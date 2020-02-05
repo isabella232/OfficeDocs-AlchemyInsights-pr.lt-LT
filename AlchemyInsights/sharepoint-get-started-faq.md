@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051541"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771187"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>"SharePoint Online" Dažnos problemos ir sprendimai
 
 Štai keletas dažnai prašoma temos SharePoint Online problemos:
+
+- **Darbo pradžia**: naudokite [SharePoint ieškoti knygą](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) sukurti gražus, galingas intranetas, kuris jungia darbo vietą. Peržiūrėkite [pavyzdžius](https://lookbook.microsoft.com/) ir gaukite [dizaino patarimų](https://spdesign.azurewebsites.net/). Žr [Įvadas į SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) bendrą Įvadas į SharePoint Online.
 
 - **Teisės**: [sukurti teisių strategiją](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ir [suprasti teisių lygius](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051541"
 
 - **Modernizuoti "SharePoint**": peržiūrėkite "SharePoint" [šiuolaikinės patirties vadovą](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ir [Modernizuokite savo klasikines "SharePoint" svetaines](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , kad pradėtumėte judėti.
 
-- **Darbo pradžia**: Sužinokite, kaip pradėti [dirbti su "SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) " naudojant svetainių valdymo strategijas.
+**Pastaba:** Norėdami gauti konkretesnį atsakymą apie "SharePoint" problemą, trumpai išdėstyk klausimą ir įtraukite visas jūsų rodomas klaidas arba naudojamas funkcijas.

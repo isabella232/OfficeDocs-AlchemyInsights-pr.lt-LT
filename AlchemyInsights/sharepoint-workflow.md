@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050929"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770467"
 ---
 # <a name="workflows-in-sharepoint"></a>Darbo eigos "SharePoint"
 
-SharePoint darbo eigos yra užprogramuotos Mini programos, kurios supaprastina ir automatizuos įvairius verslo procesus. Darbo eigos gali svyruoti nuo parašų rinkimo, grįžtamojo ryšio arba plano ar dokumento patvirtinimo, norint sekti dabartinę įprastos procedūros būseną.
+SharePoint darbo eigos yra iš anksto užprogramuotos programėlės, kurios supaprastina įvairius verslo procesus. Daugiau informacijos rasite toliau pateiktuose saituose.
 
-**Darbo pradžia:** Jei tik pradedate dirbti su "SharePoint" darbo eigomis, [daugiau informacijos rasite "SharePoint" darbo eigų įvade](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Pradžia
 
-**Microsoft Flow**: Apsvarstykite galimybę naudoti "Microsoft Flow" vietoj klasikinių "SharePoint" darbo eigos sprendimų. Norėdami gauti daugiau informacijos, peržiūrėkite " [SharePoint Online" arba "OneDrive" sąrašo ar bibliotekos srauto kūrimas](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Jei tik pradedate dirbti su "SharePoint" darbo eigomis, peržiūrėkite ["SharePoint" darbo eigų Įvadas](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Darbo eiga trikčių diagnostika ir derinimas**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>"SharePoint" darbo eigos trikčių diagnostika ir derinimas
 
-Derinimo darbo eigos primena ankstesnes versijas. Daugiau informacijos ieškokite [SharePoint darbo eigų derinimas](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Daugiau informacijos apie trikčių šalinimą ieškokite [SharePoint Server darbo eigos tikrinimo klaidų šalinimas](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Peržiūrėkite " [SharePoint" darbo eigos tikrinimo klaidų triktis](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ir " [SharePoint" darbo eigų derinimą](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Energijos automatizuoti
+
+Apsvarstykite galimybę naudoti " [Power automatizuoti](https://docs.microsoft.com/power-automate/modern-approvals) " vietoj klasikinių "SharePoint" darbo eigos sprendimų.

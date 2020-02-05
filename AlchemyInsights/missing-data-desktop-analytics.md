@@ -1,5 +1,5 @@
 ---
-title: Negalima sukurti suderinamumo Vertinimas
+title: Negalima sukurti suderinamumo vertinimo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800482"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771079"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Negalima sukurti suderinamumo Vertinimas
+# <a name="cant-create-a-compatibility-assessment"></a>Negalima sukurti suderinamumo vertinimo
 
-Konfigūracijos tvarkyklė sėkmingai sukonfigūruoti įrenginį, tačiau darbalaukio "Analytics" negali sukurti suderinamumo vertinimas. Tai nėra pilnas duomenų rinkinys apie įrenginio konfigūraciją (surašymas) arba įdiegtos programėlės (atsargų).
+Microsoft Endpoint Configuration Manager sėkmingai sukonfigūruotas įrenginį, bet Desktop Analytics negali sukurti suderinamumo vertinimą. Ji neturi išsamių duomenų rinkinio įrenginio konfigūracijai (surašymui) arba įdiegtosioms programėlėms (atsargoms).
 
-Ši problema dažnai nustatomas automatiškai kai prietaisas kartojimų. Jei tai kartosis, įsitikinkite, kad įrenginys gali palaikyti ryšį su paslauga. Norėdami gauti daugiau informacijos, peržiūrėkite [galinius punktus](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) ir [Trūksta duomenų](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Ši problema dažnai nustatoma automatiškai, kai įrenginys kartuoja. Jei jis nepraeina, įsitikinkite, kad įrenginys gali užmegzti ryšį su paslauga. Daugiau informacijos rasite [galiniai punktai](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) ir [trūkstami duomenys](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

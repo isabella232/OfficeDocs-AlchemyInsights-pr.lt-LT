@@ -1,5 +1,5 @@
 ---
-title: Svetainių rinkinio naikinimas programoje "SharePoint"
+title: Svetainės ištrynimas
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053017"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770395"
 ---
-# <a name="delete-a-site-collection"></a>Svetainių rinkinio naikinimas
+# <a name="delete-a-site"></a>Svetainės ištrynimas
 
-Kai jūs, kaip visuotinis arba SharePoint administratorius "Office 365", panaikinkite svetainę (anksčiau vadinta "svetainių rinkiniu"), ji perkeliama į svetainių rinkinio šiukšlinę ir išlaikoma 93 dienų. 
+Kai naikinate svetainę, ji perkeliama į [panaikintas svetaines](https://admin.microsoft.com/sharepoint) ir liko 93 dienų. Norėdami panaikinti svetainę, eikite į [aktyvios svetainės](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Kai ištrinate svetainę, viskas joje ištrinama, įskaitant:
 
@@ -26,6 +26,6 @@ Kai ištrinate svetainę, viskas joje ištrinama, įskaitant:
 - Svetainės parametrai ir retrospektyva.
 - Bet kokie antriniai tinklapiai ir jų turinys.
 
-Prieš naikindami svetainę, turėtumėte pranešti svetainės administratoriams ir visiems antrinės svetainės savininkams, kad jie galėtų perkelti savo duomenis į kitą vietą, taip pat nurodyti vartotojams, kada svetainės bus ištrintos. 
+Prieš naikindami svetainę, turėtumėte apie tai pranešti svetainės administratoriams ir visiems antrinės svetainės savininkams, kad jie galėtų perkelti savo duomenis į kitą vietą, taip pat nurodyti vartotojams, kada svetainės bus ištrintos.
 
-Daugiau informacijos rasite [svetainių rinkinio naikinimas](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Daugiau informacijos rasite [svetainės naikinimas](https://docs.microsoft.com/sharepoint/delete-site-collection).

@@ -1,9 +1,9 @@
 ---
-title: "\"SharePoint\" ir \"OneDrive\" įspėjimų gavimas"
+title: Vėlavimai gaunant "SharePoint" ir "OneDrive" įspėjimus
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/25/19
+ms.date: 02/04/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 80423791ad558fc414d50608c73f823036432e14
-ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
+ms.openlocfilehash: 0bc9f614047e06e8654a9b3ff64e87427f33139f
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37205539"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771223"
 ---
-# <a name="not-receiving-sharepoint-and-onedrive-alerts"></a>"SharePoint" ir "OneDrive" įspėjimų gavimas
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Vėlavimai gaunant "SharePoint" ir "OneDrive" įspėjimus
 
-Pirmiausia patikrinkite šlamšto arba šlamšto aplanką savo el. laiške.
-
-Tada nustatykite, ar **visi įspėjimai nepristatomi** , arba jei nepristatomas **individualus įspėjimas** iš konkretaus failo ar bibliotekos.
-
-- Jei **nepristatomi visi įspėjimai iš kelių failų arba bibliotekų**, apsilankykite [tarnybos sveikatos ataskaitų srityje](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fadmin.microsoft.com%2FAdminPortal%2FHome%23%2Fservicehealth&data=02%7C01%7Cv-todmc%40microsoft.com%7C2cd2037aa7304711d2bc08d741fae254%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637050418099632638&sdata=35FUOTleK0Sc0z%2B7N7Vm0tOgXplyeOe3LcIzqRziGXc%3D&reserved=0) ir patikrinkite, ar nėra patarimų/incidentų, kurie gali būti atliekami su "SharePoint" arba "Exchange". Problema gali būti su SharePoint įspėjimo funkcija arba delsa el. laiškuose per Exchange. Taip pat Atkreipkite dėmesį į tai, ar kitas el. laiškas pristatomas, jei ne, problema gali būti su "Exchange" vėlavimu.
-- Jei **atskiras įspėjimas iš konkretaus failo ar bibliotekos nepristatomas**, bandykite jį panaikinti ir iš naujo sukurti. Žiūrėkite [valdyti, peržiūrėti arba panaikinti "SharePoint" įspėjimus](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fmanage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2%3Fui%3Den-US%26rs%3D%26ad%3DUS%23ID0EAADAAA%3DOnline&data=02%7C01%7Cv-todmc%40microsoft.com%7C2cd2037aa7304711d2bc08d741fae254%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637050418099632638&sdata=AkE%2BjiG6%2BA59llp2DGcg4uHHUjaUDUnAlK5ax%2Fepn3E%3D&reserved=0) , kad iš naujo atkurtumėte įspėjimą.
+- Pirmiausia patikrinkite šlamšto arba šlamšto aplanką savo el. laiške.
+- Jei **visi įspėjimai iš kelių failų arba bibliotekų vėluoja**, apsilankykite [tarnybos sveikatos ataskaitų srities](https://nam06.safelinks.protection.outlook.com/?url=https://admin.microsoft.com/AdminPortal/Home%23/servicehealth&data=02%7c01%7cv-todmc%40microsoft.com%7c2cd2037aa7304711d2bc08d741fae254%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637050418099632638&sdata=35FUOTleK0Sc0z%2B7N7Vm0tOgXplyeOe3LcIzqRziGXc%3D&reserved=0) Norėdami patikrinti, ar yra patarimų/incidentų, kurie gali būti atliekami naudojant "SharePoint" arba "Exchange". Problema gali būti su SharePoint įspėjimo funkcija arba delsa el. laiškuose per Exchange. Taip pat Atkreipkite dėmesį į tai, ar kitas el. laiškas pristatomas, jei ne, problema gali būti su "Exchange" vėlavimu.
+- Jei **atskiras įspėjimas iš konkretaus failo ar bibliotekos nepristatomas**, bandykite jį panaikinti ir iš naujo sukurti. Žiūrėkite [valdyti, peržiūrėti arba panaikinti "SharePoint" įspėjimus](https://nam06.safelinks.protection.outlook.com/?url=https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui%3Den-US%26rs%3D%26ad%3DUS%23ID0EAADAAA%3DOnline&data=02%7c01%7cv-todmc%40microsoft.com%7c2cd2037aa7304711d2bc08d741fae254%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637050418099632638&sdata=AkE%2BjiG6%2BA59llp2DGcg4uHHUjaUDUnAlK5ax/epn3E%3D&reserved=0) , kad iš naujo atkurtumėte įspėjimą.
 
 > [!NOTE]
 > - Įspėjimų negalima siųsti paskirstymo grupei. Palaikomos tik saugos ir O365 grupės.
