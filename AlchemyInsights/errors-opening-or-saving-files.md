@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 9a205a6646d28fbb151d229719a104d6af383a92
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
+ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027055"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42031622"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Ištaisyti klaidas atidarant arba įrašant Word failus
 
@@ -25,6 +25,7 @@ Jei kyla problemų atidarant arba įrašant "Word" dokumentus, išbandykite toli
 - [Įdiegti "Office" naujinimus](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Naujausių "Office" naujinimų sąrašą rasite [vėliausius naujinimus](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Pažeistų dokumentų triktis "Word"](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Taisyti "Office" programą](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- Jei dokumente yra susektų keitimų, naudokite Word pasiūlymus [lėtina arba nebereaguoja, jei yra pernelyg susektų keitimų ar komentarų](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) , kad išspręstumėte problemą.
 
 Jei gavote klaidos pranešimą, kaip vieną iš toliau nurodytų veiksmų, naudokite ["Office" pateiktus pasiūlymus, kai failas yra užblokuotas pagal registro strategijos parametrus](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
