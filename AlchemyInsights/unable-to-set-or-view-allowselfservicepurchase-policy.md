@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091734"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158569"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Neįmanoma nustatyti arba peržiūrėti AllowSelfServicePurchase strategijos
 
@@ -29,11 +29,11 @@ Taip gali būti dėl senesnės versijos transportavimo lygmens saugos (TLS). Nor
 Pabandykite šiuos veiksmus, Norėdami įjungti/nustatyti TLS protokolo 1,2, patikrinti, ir bandykite dar kartą.
  1. "PowerShell" komandinėje eilutėje (PS C\) : įveskite šią komandą, kad TLS protokolo versija 1,2:
 
-    \[Net. ServicePointManager]:: SecurityProtocol = \[net. SecurityProtocolType]:: Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Patikrinkite, ar TLS protokolo (-ų) naudojimo, su šia komanda:
 
-    \[Net. ServicePointManager]:: SecurityProtocol 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Bandykite kartoti komandas gauti arba naujinti, jei reikia.
 
