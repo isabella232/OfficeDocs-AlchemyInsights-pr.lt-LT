@@ -1,5 +1,5 @@
 ---
-title: "\"Windows 10\" garso problemų šalinimas"
+title: Garso trikčių šalinimas sistemoje "Windows 10"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,53 +11,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 46b23f97c2e682258224dc95e7a76b1201991828
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796251"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265024"
 ---
-# <a name="troubleshooting-audio-problems-in-windows-10"></a>"Windows 10" garso problemų šalinimas
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Garso trikčių šalinimas sistemoje "Windows 10"
 
 **Garso trikčių diagnostikos priemonės paleidimas**
 
-Garso trikčių diagnostikos priemonė gali automatiškai išspręsti garso problemas: 
+1.  Atidarykite [trikčių šalinimo parametrus](ms-settings:troubleshoot).
 
-1. Pasirinkite **pradėti**, įveskite **trikčių diagnostika**, tada rezultatų sąraše pasirinkite **trikčių diagnostika** . 
-2. Pasirinkite **Leisti garsą** > **paleisti trikčių diagnostikos priemonę**.
-
-**Kabelių, garsumo, garsiakalbių ir ausinių tikrinimas**
-
-- Patikrinkite garsiakalbį ir Ausinių jungtis, ar yra laisvų laidų, ir įsitikinkite, kad jie prijungti prie tinkamo lizdo.
-- Patikrinkite maitinimo ir garsumo lygius ir pabandykite įjungti visus garsumo valdiklius.
-- Kai kurie garsiakalbiai ir programėlės turi savo garsumo valdiklius ir jums gali tekti patikrinti juos visus, kad įsitikintumėte, jog jie yra dešiniajame lygiuose.
-- Bandykite jungtis naudodami kitą USB prievadą.
-- **Pastaba:** Atsiminkite, kad garsiakalbiai gali neveikti, kai ausinės yra prijungtos.
-
-**Patikrinkite įrenginių tvarkytuvę**
-
-Norėdami įsitikinti, kad vairuotojai yra atnaujinti:
-
-- Pasirinkite **pradėti**, įveskite **įrenginių tvarkytuvė**, tada rezultatų sąraše pasirinkite **įrenginių tvarkytuvė** .
-
-2. Būdami **garso, vaizdo ir žaidimo valdikliai**, pasirinkite garso plokštę, atidarykite ją, pasirinkite skirtuką **tvarkyklė** , tada pasirinkite **Naujinti tvarkyklę**. 
-
-**Pastaba:** Jei "Windows" neranda naujos tvarkyklės, ieškokite jos įrenginio gamintojo svetainėje ir vykdykite nurodymus.
-
-**Iš naujo įdiekite tvarkyklę**
-
-Jei negalite atnaujinti per įrenginių tvarkytuvę arba rasti naują tvarkyklę gamintojo svetainėje, pabandykite šiuos veiksmus: 
-
-1. Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) garso tvarkyklę ir pasirinkite **pašalinti**. Iš naujo paleiskite įrenginį ir "Windows" bandys iš naujo įdiegti tvarkyklę.
-
-2. Jei iš naujo įdiegti tvarkyklę neveikia, pabandykite naudoti bendrą garso tvarkyklę, kuri pateikiama su Windows. Naudodami įrenginių tvarkytuvę dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir palaikykite) garso tvarkyklę > **atnaujinkite tvarkyklės programinę** > įrangą**mano kompiuteryje, kad tvarkyklės programinė įranga** > **leidžia pasirinkti iš mano kompiuteryje esančio įrenginių tvarkyklių sąrašo**, pasirinkite **raiškiosios garso įrenginys**, pasirinkite **Pirmyn**ir vykdykite nurodymus, kad jį įdiegtumėte.
+2.  Pasirinkite **Leisti garsą** > **Paleiskite trikčių diagnostikos priemonę**.
 
 **Numatytojo įrenginio nustatymas**
 
-Jei jungiatės prie garso įrenginio naudodami USB arba HDMI, gali reikėti nustatyti tą įrenginį kaip numatytąjį: 
+Jei jungiatės prie garso įrenginio naudodami USB arba HDMI, gali tekti nustatyti tą įrenginį kaip numatytąjį:
 
-1. Pasirinkite **Pradžia**, įveskite **garsas**, tada rezultatų sąraše pasirinkite **garsas** arba **keisti sistemos garsus** .
+1. Atidarykite **Pradžios** > **garsą**, tada rezultatų sąraše pasirinkite **Garsas** arba **Keisti sistemos garsus.**
 
-2. Skirtuke **atkūrimas** pasirinkite įrenginį, pasirinkite **nustatyti kaip numatytąjį**, tada pasirinkite **gerai**.
+2.  Skirtuke **Atkūrimas** pasirinkite įrenginį, pasirinkite **Nustatyti numatytąjį**, tada pasirinkite **Gerai**.
 
+**Patikrinkite kabelius, garsumą, garsiakalbius ir ausines**
+
+1. Patikrinkite garsiakalbio ir ausinių jungtis, ar nėra laisvų laidų, ir įsitikinkite, kad jie prijungti prie tinkamo lizdo.
+
+2. Patikrinkite savo maitinimo ir garsumo lygius ir pabandykite pasukti visus garsumo valdiklius aukštyn.
+
+3. Kai kurie garsiakalbiai ir programos turi savo garsumo valdiklius; jums gali tekti patikrinti juos visus, įsitikinkite, kad jie yra tinkamo lygio.
+
+4. Pabandykite prisijungti naudodami kitą USB prievadą.
+
+**Pastaba:** atminkite, kad garsiakalbiai gali neveikti, kai ausinės yra prijungtos.
+
+**Patikrinkite įrenginių tvarkytuvę**
+
+Norėdami įsitikinti, kad tvarkyklės atnaujintos:
+
+1. Pasirinkite **Pradžia**, Įveskite **Įrenginių tvarkytuvė**, tada rezultatų sąraše pasirinkite **Įrenginių tvarkytuvė.**
+
+2. Dalyje **Garso, vaizdo ir žaidimų valdikliai**pasirinkite garso plokštę, atidarykite ją, pasirinkite skirtuką **Tvarkyklė** ir pasirinkite **Naujinti tvarkyklę**.
+
+**Pastaba:** jei "Windows" neranda naujos tvarkyklės, ieškokite jos įrenginio gamintojo svetainėje ir vykdykite jų nurodymus.
+
+**Tvarkyklės diegimas iš naujo**
+
+Jei negalite atnaujinti naudodami įrenginių tvarkytuvę arba rasti naujos tvarkyklės gamintojo svetainėje, pabandykite atlikti šiuos veiksmus:
+
+1. Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) garso tvarkyklę ir pasirinkite **Pašalinti**. Iš naujo paleiskite įrenginį ir "Windows" bandys iš naujo įdiegti tvarkyklę.
+
+2. Jei tvarkyklės diegimas iš naujo neveikia, pabandykite naudoti bendrąją garso tvarkyklę, kuri pateikiama su "Windows". Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) garso tvarkyklę > **Naujinti tvarkyklės programinę įrangą** > **Mano kompiuteryje rasite tvarkyklės programinės įrangos** > **Leiskite man pasirinkti iš kompiuterio įrenginių tvarkyklių sąrašo**, pasirinkite **Raiškiojo garso įrenginys**, pasirinkite **Pirmyn**ir vykdykite nurodymus, kad jį įdiegtumėte.
