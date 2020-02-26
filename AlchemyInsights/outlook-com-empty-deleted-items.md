@@ -1,8 +1,9 @@
 ---
-title: Ištuštinti aplanką Pašalinta iš Outlook.com
+title: Ištuštinti aplanką Panaikinti elementai Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768700"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277939"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Ištuštinti aplanką Pašalinta
+# <a name="empty-the-deleted-items-folder"></a>Ištuštinti aplanką Panaikinti elementai
 
-Norėdami išvalyti visus panaikintus "Outlook" pranešimus, eikite į [panaikintų elementų aplanką](https://outlook.live.com/mail/deleteditems) ir pasirinkite **tuščias aplankas**, tada pasirinkite **atkurti iš šio aplanko** panaikintus elementus virš pranešimų sąrašo ir dar kartą pasirinkite **tuščią aplanką** .
+1. Atidarykite aplanką Pašalinta ir pasirinkite **Ištuštinti aplanką**.
+2. Puslapio viršuje pasirinkite **Atkuriami elementai** ir dar kartą pasirinkite **Ištuštinti aplanką.**
 
-Jei ištrynėte daug pranešimų, gali praeiti šiek tiek laiko, kol tie elementai bus perkelti arba pašalinti iš aplanko pašalinta. Prašome palikti naršyklės langą atidarytą, kol elementai bus ištrinti.
+**Neįmanoma ištuštinti aplanko Pašalinta**
 
-Jei pranešimų nepavyksta tinkamai panaikinti, bandykite ištrinti mažesnį pranešimų skaičių.
+- Jei panaikinote daug el. laiškų, gali praeiti šiek tiek laiko, kad šie elementai būtų perkelti į aplanką Pašalinta arba būti panaikinti iš aplanko Pašalinta. Palikite naršyklės langą atidarytą, kol vyksta naikinimas.
+- Jei el. laiško vis tiek nepavyksta panaikinti tinkamai, pasirinkite mažesnį paketą, kurį norite panaikinti.
+- Jei ištrintas el. laiškas grįžta, gali būti, kad neseniai ištrynėte daug el. laiškų. Bandykite dar kartą vėliau.
