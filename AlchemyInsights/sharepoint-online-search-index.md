@@ -7,31 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
+ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044051"
+ms.lasthandoff: 02/29/2020
+ms.locfileid: "42341104"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Turinio nuskaitymas ir indeksavimas "SharePoint Online"
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Turinio aptikimas ir indeksavimas "SharePoint Online"
 
-Turinys turi būti nuskaityti ir įtraukti į paieškos indeksą vartotojams rasti tai, ko jie ieško SharePoint Online. Turinys automatiškai aptinkamas pagal iš anksto nustatytą aptikimo grafiką (negalima keisti aptikimo grafiko). Aptikimo robotas paima turinį, kuris pasikeitė nuo paskutinio aptikimo ir atnaujina indeksą. Kad turinys būtų aptinkamas ir indeksas būtų atnaujintas, Įsidėmėkite:
+Turinys turi būti aptinkamas ir įtrauktas į vartotojų ieškos indeksą, kad rastų tai, ko jie ieško "SharePoint Online".
 
-- Įsitikinkite, kad turinio galima rasti [svetainės turinio paieškai](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Įsitikinkite, kad turinį galima [rasti, kad svetainės turinys būtų ieškomas.](https://docs.microsoft.com/sharepoint/make-site-content-searchable)
 
-- Pakeitus valdomą ypatybę arba pakeitus aptiktų ir valdomų ypatybių susiejimą, svetainė turi būti iš naujo nuskaitytas prieš tai, kai jūsų keitimai atsispindės Ieškos rodyklėje. 
+- Pakeitus valdomą ypatybę arba pakeitus aptiktų ir valdomų ypatybių susiejimą, svetainė turi būti aptikta iš naujo, kad pakeitimai atsispindėtų ieškos rodyklėje.
 
-    Kadangi jūsų pakeitimai atliekami ieškos schemoje, o ne faktinei svetainei, šliaužiklis automatiškai iš naujo neindeksuoja svetainės. 
+- Daugiau informacijos rasite [Svetainės, bibliotekos arba sąrašo aptikimo ir indeksavimo neautomatiniu būdu](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-    Norėdami gauti daugiau informacijos, žr [rankiniu būdu prašyti nuskaityti ir iš naujo indeksuoti svetainę, biblioteką ar sąrašą](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+- Palaukite bent 24 valandas po rankiniu būdu prašyti aptikimo ir visą iš naujo indeksą, kad sužinotumėte, ar vis dar kyla problema.
 
-- Palaukite bent 24 valandas po to, kai rankiniu būdu prašyti nuskaitymo ir visiškai iš naujo indeksas pamatyti, jei jūs vis dar susiduria su problema. 
+- Jei nuo tada, kai inicijavote aptikimą ir visišką pakartotinį indeksą, praėjo daugiau nei 24 valandos, prisijunkite prie palaikymo atvejo. Daugeliu atvejų jau dirbame su sprendimu. Prašome duoti mums bent 24 valandas užbaigti sprendimą.
 
-    Jei praėjo daugiau nei 24 valandos nuo tada, kai inicijavote aptikimą ir visą indeksą, prašome prisijungti prie palaikymo atvejo. Daugeliu atvejų jau dirbame su sprendimu. Prašome pateikti mums bent 24 valandas, kad užbaigtumėte sprendimą.
-
-> [!IMPORTANT]
-> Jei svetainėje, dokumentas (biblioteka) arba sąrašas buvo panaikintas ir vis dar rodomas ieškos rezultatuose, vartotojai turėtų gauti **klaidos 404 failą nerastas** bandant jį pasiekti. Šis klausimas turėtų būti registruojamas kaip paramos atvejis tolesniam tyrimui. 
+**Svarbu:** jei svetainė, dokumentas (biblioteka) arba sąrašas buvo panaikinti ir vis tiek rodomi ieškos rezultatuose, vartotojai, bandydami prie itin jį pasiekti, turėtų gauti **klaidos 404 failą.** Šis klausimas turėtų būti registruojamas kaip tolesnio tyrimo palaikymo atvejis.
 
 
 
