@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354013"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556669"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Norėčiau užsiregistruoti nemokamai komandos, bet aš negaliu.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Norėčiau užsiregistruoti komandos nemokamai
 
-- Jei naudojate "Office 365" darbo arba mokymo įstaigos paskyra, šiuo pasiūlymu negalimas. Organizacijos, nors, gali jau naudoti komandos. Jei ne, eikite į pamatyti, jei jis turi teisę gauti nemokamą bandomąją ["Microsoft" komandomis](https://products.office.com/microsoft-teams/group-chat-software) .
+Komandos yra prieinamos nemokamai per keletą skirtingų programų. Kadangi kreipiatės į palaikymo tarnybą naudodami šią užklausą, jau turite esamą "Microsoft 365" nuomotoją, o tai reiškia, kad jau turite "Microsoft Teams".
 
-- Akademinių institucijų, negalite šiuo pasiūlymu. Mokytojai ir mokiniai, nors, galite gauti nemokamą versiją iš "Office 365", kuris apima pilną versiją iš "Microsoft" Teams. Peržiūrėkite ["Office 365" licenciją "Microsoft" komandomis](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Daugeliu atvejų "Teams" pagal numatytuosius nustatymus yra įjungta visiems vartotojams. Kai ji įjungta, vartotojai gali paleisti "Teams" diegdami [stalinius](https://office.visualstudio.com/MAX/_workitems/edit/desktop) ir [mobiliuosius](https://office.visualstudio.com/MAX/_workitems/edit/desktop) klientus arba [iš naršyklės](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) . https://teams.microsoft.com
 
-- JAV vyriausybės institucijoms, negalite šiuo pasiūlymu. Norėdami sužinoti apie "Office 365" planus vyriausybės organizacijų (įskaitant nemokamą bandomąjį laikotarpį), skaitykite ["Office 365" licenciją "Microsoft" komandomis](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Išimtis yra "Microsoft Teams for Education" (EDU). Jei turite EDU licenciją, turite įgalinti "Microsoft Teams" rankiniu būdu. Norėdami tai padaryti, eikite į "Microsoft 365" administravimo centro **> tarnybos ir priedai > "Microsoft Teams".** Jei naudojate naują "Teams" administravimo centrą, turėsite išjungti **Išbandykite naują administravimo centrą,** kad rastumėte **Tarnybas ir priedus**. SVARBU: Jums gali tekti palaukti iki 24 valandų, kol pakeitimai įsigalios.
+
+Nepraleiskite visų mūsų rekomendacijų, kaip [remti nuotolinius darbuotojus su komandomis](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
