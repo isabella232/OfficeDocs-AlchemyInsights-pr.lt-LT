@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063702"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581429"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Darbalaukio fono ir spalvų keitimas
 
-Norėdami pakeisti spalvų nustatymą, pasirinkite **pradėti** > **parametrų** > **personalizavimo** > **spalvas**, tada pasirinkite savo spalvą arba leiskite Windows ištraukti pagrindinę spalvą iš fono.
+Norėdami pakeisti spalvų parametrą, eikite į **Pradžios** > **parametrų** > **personalizavimo** > **spalvos**, tada pasirinkite savo spalvą arba leiskite "Windows" ištraukti paryškintą spalvą iš fono.
 
-Norėdami pakeisti darbalaukio foną, pasirinkite **pradėti** > **parametrų** > **personalizavimo** > **foną**, tada pasirinkite paveikslėlį, vientisą spalvą arba kurkite paveikslėlių skaidrių demonstravimą. Norite daugiau darbalaukio fonų ir spalvų? Aplankykite [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) pasirinkti iš daugybės nemokamų temų.
+![Pritaikykite spalvas sistemoje "Windows".](media/windows-personalization-colors.png)
+
+Norėdami pakeisti darbalaukio foną, eikite į **Pradžios** > **parametrų** > **personalizavimo** > **fonas**, tada pasirinkite paveikslėlį, vientisą spalvą arba sukurkite paveikslėlių skaidrių demonstravimą. 
+
+![Pakeiskite "Windows" darbalaukio foną.](media/windows-desktop-background.png)
+
+Norite daugiau darbalaukio fonų ir spalvų? Apsilankykite ["Microsoft Store",](https://www.microsoft.com/store/collections/windowsthemes) kad pasirinktumėte iš daugybės nemokamų temų.
