@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 2fe3226c542ba3778751c7f20aa2daa421743354
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564370"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599384"
 ---
-# <a name="teams-supported-web-browsers"></a><span data-ttu-id="473f7-102">"Teams" palaikomos žiniatinklio naršyklės</span><span class="sxs-lookup"><span data-stu-id="473f7-102">Teams-supported web browsers</span></span>
+# <a name="teams-supported-web-browsers"></a><span data-ttu-id="82cac-102">"Teams" palaikomos žiniatinklio naršyklės</span><span class="sxs-lookup"><span data-stu-id="82cac-102">Teams-supported web browsers</span></span>
 
-<span data-ttu-id="473f7-103">Komandos visiškai palaiko straipsnyje išvardytas interneto naršykles, ["Microsoft Teams" apribojimus ir specifikacijas,](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers)su pažymėtomis skambučių ir susitikimų išimtimis.</span><span class="sxs-lookup"><span data-stu-id="473f7-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
+<span data-ttu-id="82cac-103">Komandos visiškai palaiko straipsnyje išvardytas interneto naršykles, ["Microsoft Teams" apribojimus ir specifikacijas,](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)su pažymėtomis skambučių ir susitikimų išimtimis.</span><span class="sxs-lookup"><span data-stu-id="82cac-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
