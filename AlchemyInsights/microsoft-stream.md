@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 4097aaa8152bd02a0f3b00ad8a1d21e42b8439e5
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 3f6113bf512ec20fbbe2229d0efdb429b2f5db92
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564383"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600032"
 ---
 # <a name="microsoft-stream"></a>"Microsoft Stream" srautas
 
@@ -24,8 +24,8 @@ ms.locfileid: "42564383"
 
 Daugiau informacijos žr.
 
-- [Kas yra "Microsoft Stream"?](https://docs.microsoft.com/en-us/stream/overview)
+- [Kas yra "Microsoft Stream"?](https://docs.microsoft.com/stream/overview)
 - [Srauto tarnybos naujinimai](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
-- [Grupės ir kanalai programoje "Microsoft Stream"](https://docs.microsoft.com/en-us/stream/groups-channels-organization)
-- [Tiesioginiai įvykiai "Microsoft Stream"](https://docs.microsoft.com/en-us/stream/live-event-overview)
-- [Vaizdo įrašų bendrinimas programoje "Microsoft Stream"](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [Grupės ir kanalai programoje "Microsoft Stream"](https://docs.microsoft.com/stream/groups-channels-organization)
+- [Tiesioginiai įvykiai "Microsoft Stream"](https://docs.microsoft.com/stream/live-event-overview)
+- [Vaizdo įrašų bendrinimas programoje "Microsoft Stream"](https://docs.microsoft.com/stream/portal-share-video)

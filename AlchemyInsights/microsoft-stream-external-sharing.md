@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 06ec178a2012872a0a4d5462b795229aeca67016
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371616"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600536"
 ---
 # <a name="microsoft-stream-external-sharing"></a>"Microsoft Stream" išorinis bendrinimas
 
-"Microsoft Stream" dar nepalaiko išorinio bendrinimo scenarijų svečiams arba jūsų organizacijai nepriklausančiems žmonėms. Žinome, kad šios funkcijos yra labai reikalingos, ir mes dirbame su planais, kaip sukurti šias funkcijas.
+"Microsoft Stream" dar nepalaiko išorinio bendrinimo scenarijų svečiams arba asmenims, nepriklausantiems jūsų organizacijai. Mes žinome, kad šios funkcijos yra labai reikalingos, ir mes dirbame su planais, kaip sukurti šias funkcijas.
 
-- [Išorinis bendrinimas sraute](https://docs.microsoft.com/en-us/stream/portal-share-video#external-sharing)
+- [Išorinis bendrinimas sraute](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Vaizdo įrašų bendrinimas "Microsoft Stream"](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [Vaizdo įrašų bendrinimas programoje "Microsoft Stream"](https://docs.microsoft.com/stream/portal-share-video)

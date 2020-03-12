@@ -1,5 +1,5 @@
 ---
-title: eDiscovery "" Yammer "" tinkluose
+title: El. duomenų aptikimas "Yammer" tinkluose
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162920"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600608"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery "" Yammer "" tinkluose
+# <a name="ediscovery-in-yammer-networks"></a>El. duomenų aptikimas "Yammer" tinkluose
 
-Dabar galite atlikti eDiscovery ieško "Yammer" turinio Office 365.  Norint atlikti iešką eDiscovery arba eksportuoti "Yammer" turinyje, reikia toliau nurodytų veiksmų.
+Dabar galite atlikti el. duomenų aptikimo ieškas "Yammer" turiniui "Office 365".  Norint atlikti el. duomenų aptikimo ieškas arba eksportuoti "Yammer" turinyje, reikia:
 
-1. Pirmiausia turite perkelti savo "Yammer" įmonės tinklą į prigimtinis režimas, kad jūsų "Yammer" pranešimai ir failai būtų aptikti. **Pastaba: jei esate naujas Office 365 klientas kaip sausis 9 2020 ir jūsų "Yammer" tinklas jau yra gimtoji režimas, jūsų duomenys yra dabar aptinkamas su eDiscovery**.
+1. Pirmiausia turite perkelti "Yammer Enterprise Network" į prigimtinį režimą, kad "Yammer" pranešimai ir failai būtų aptinkami. **Pastaba: jei esate naujas "Office 365" klientas nuo 2020 m. sausio 9 d., o jūsų "Yammer" tinklas jau veikia prigimtiniu režimu, jūsų duomenys dabar aptinkami naudojant el. duomenų aptikimą**.
 
-2. Išeinant klientams "Yammer" "eDiscovery" bus pasiekiama, kai išleidžiamas pirminio režimo lygiavimo įrankis ir pirminio režimo perkėlimas nuomotojo "Yammer" baigia.
+2. Išeinant iš klientų, "Yammer" el. duomenų aptikimas bus pasiekiamas, kai bus išleistas prigimtinis režimo lygiuotės įrankis ir nuomotojuje bus baigtas "Yammer" pirminio režimo perkėlimas.
 
 Daugiau informacijos apie:
 
-- Vietinis režimas programoje "Yammer", žr.: [pirminio režimo apžvalga](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery "" Yammer "" tinkluose žr.: [eDiscovery "" Yammer "" tinkluose apžvalga](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery Office 365, ieškokite [eDiscovery office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery).
+- Prigimtinis režimas "Yammer", žr.: [Prigimtinio režimo apžvalga](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- "Yammer Networks" duomenų aptikimas, žr.: ["Yammer" tinkluose el. duomenų aptikimo apžvalga](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- el. duomenų aptikimas "Office 365", peržiūrėkite [el. duomenų aptikimą "Office 365".](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

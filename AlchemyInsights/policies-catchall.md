@@ -1,5 +1,5 @@
 ---
-title: Politika visaapimanti
+title: Politika catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274931"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599960"
 ---
 # <a name="teams-policies"></a>Komandų strategijos
 
-"Microsoft teams" parametrus kontroliuoja strategijos. Norėdami atlikti pakeitimą, turite sukonfigūruoti tinkamą strategiją ir ją taikyti vartotojams. Greičiausias būdas tai padaryti visiems vartotojams yra keisti numatytąją strategiją pavadinimu Global. 
+"Microsoft Teams" parametrus valdo strategijos. Norėdami atlikti pakeitimą, turite sukonfigūruoti atitinkamą strategiją ir tada ją taikyti vartotojams. Greičiausias būdas tai padaryti visiems vartotojams yra modifikuoti numatytąją strategiją, pavadintą Visuotinė. 
 
-**Pastaboje** Politikos pakeitimai įsigaliotų ***mažiausiai 4 iki 48 valandų***. Jei sukuriate pasirinktinę strategiją, prieš atliekant papildomus pakeitimus, reikia palaukti bent 4 valandas. Tada galite taikyti šią politiką vartotojams. Tai reiškia, kad pagal užsakymą politika gali užtrukti iki 48 valandų. Visuotinės strategijos nustatytos kaip numatytosios visiems vartotojams, o pasaulinės politikos pakeitimai įsigalios iki 24 valandų. Jei sukūrėte pasirinktinį strategija, taikyti ją vartotojams, ir jis vis dar nebuvo įsigaliojęs po 48 valandas, ar jūs modifikavote Global politika ir laukė ne mažiau kaip 24 valandas, prašome atidaryti palaikymo atvejį.
+**PASTABA** Politikos pakeitimai ***turi įsigalioti bent 4 iki 48 valandų***. Jei kuriate pasirinktinę strategiją, turite palaukti bent 4 valandas, kad galėtumėte atlikti papildomus jos pakeitimus. Tada galite taikyti šią strategiją vartotojams. Tai reiškia, kad pasirinktinės strategijos gali užtrukti iki 48 valandų, kad įsigaliotų. Visuotinė politika nustatoma kaip numatytoji visiems vartotojams, o visuotinės strategijos pakeitimai gali užtrukti iki 24 valandų. Jei sukūrėte pasirinktinę strategiją, ją pritaikėte vartotojams ir ji vis dar neįsigaliojo po 48 valandų arba modifikatavote visuotinę strategiją ir laukėte bent 24 valandas, atidarykite palaikymo atvejį.
 
 Komandų strategijos skirstomos į šias sritis:
 
-- [Komandų strategijos](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontroliuoja vartotojų atradimo privačias komandas ieškoti ir kurti privačius kanalus.  
-- [Susitikimų strategijos](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontroliuoja, ką vartotojai gali daryti su "teams" susitikimais, įskaitant fojė valdymą. Jei norite pagalbos dėl fojė problemų, pvz., "teams" konfigūravimas, kad būtų galima priimti visus, peržiūrėkite [valdymo fojė parametrus ir dalyvavimo lygį](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
-- [Pranešimų strategijos](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontroliuoja, ką vartotojai gali daryti su pokalbiais ir pranešimais, įskaitant pokalbio įjungimą arba išjungimą, pokalbių ištrynimą, užklausą dėl perskaitymo kvitų, giphys ir lipdukų naudojimą ir dar daugiau.
-- [Programų sąrankos strategijos](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) valdo, kurias programėles gali naudoti vartotojai, įskaitant pasirinktines ir trečiųjų šalių programėles, ir jų rodymo tvarką.  
-- "Teams" duomenų [saugojimo strategijos](https://docs.microsoft.com/microsoftteams/retention-policies) randamos "Office 365" saugos ir atitikties centre.
-- Komandų adresų knygos strategijos nustatomos per [srities katalogų iešką](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Komandos strategijos](https://docs.microsoft.com/MicrosoftTeams/teams-policies) valdo vartotojų privačių komandų aptikimą ieškodamos ir kurdami privačius kanalus.  
+- [Susitikimų strategijos](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) valdo, ką vartotojai gali daryti su "Teams" susitikimais, įskaitant lobistų valdymą. Jei reikia pagalbos dėl lobistų problemų, pvz., komandų konfigūravimas visiems priimti, [žr.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Pranešimų politika](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) valdo, ką vartotojai gali daryti su pokalbiais ir pranešimais, įskaitant pokalbių įjungimą arba išjungimą, pokalbių ištrynimą, perskaitymo pažymų užklausą, giphys ir lipdukų naudojimą ir kt.
+- [Programų sąrankos strategijos](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) valdo, kurios programėlės pasiekiamos vartotojams, įskaitant pasirinktines ir trečiųjų šalių programas, ir jų rodymo tvarką.  
+- "Teams" duomenų [saugojimo strategijos](https://docs.microsoft.com/microsoftteams/retention-policies) pateikiamos "Office 365" saugos ir atitikties centre.
+- Komandos adresų knygos strategijos nustatomos naudojant [aprėptą katalogų paiešką](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
