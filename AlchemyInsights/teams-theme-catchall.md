@@ -1,40 +1,49 @@
 ---
-title: Komandos tema catchall
+title: „Teams“ tema „visaapimantis“
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371530"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707487"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Komandos dažniausiai pasitaikančios problemos ir sprendimai
+# <a name="teams-common-issues-and-resolutions"></a>Žinomos „Teams“ problemos ir jų sprendimai
 
-Jei reikia konkretesnio atsakymo apie "Microsoft Teams" problemą, trumpai perfrazuokite savo klausimą ir įtraukite visas aptiktas klaidas arba naudojamas funkcijas.
+Jei reikia konkretesnio atsakymo, bandykite performuluoti klausimą, kad įtrauktumėte visas rodomas klaidas ar „Teams“ funkcijas.
 
-Jei jums reikia pagalbos remiant nuotolinius darbuotojus (WFH) su komandomis, peržiūrėkite [Palaikymo nuotolinius darbuotojus naudodami "Microsoft Teams"](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+Jei reikia pagalbos diegiant „Teams“, kad būtų padedama nuotoliniams darbuotojams (WFH) dėl COVID-19, peržiūrėkite [Nuotolinių darbuotojų palaikymas, naudojant „Microsoft Teams“](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Be to, gali būti, kad jums gali būti suteikta „Microsoft 365 FastTrack“ diegimo pagalba: apsilankykite [„FastTrack“ centre](https://www.microsoft.com/fasttrack), kad pateiktumėte užklausą.
 
-Štai keletas papildomų išteklių:
+Visiems „Teams“ klientams:
 
-- **Įgalinti "Teams" svečio prieigą:** Peržiūrėkite ["Teams" svečio prieigos kontrolinį sąrašą](https://docs.microsoft.com/microsoftteams/guest-access-checklist) ir įsitikinkite, kad atlikti visi veiksmai.
-- **"Teams" prisijungimo trikčių diagnostika:** Pirmiausia įsitikinkite, kad ["Microsoft Teams" paslauga yra sveika](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Tada patikrinkite, ar nėra bendrų klaidų kodų ir peržiūrėkite [Kodėl kyla problemų prisijungiant prie "Microsoft Teams"?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Taip pat gali tekti peržiūrėti [tapatybės modelius ir autentifikavimą "Microsoft Teams".](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)
-- **Atkurti panaikintą komandą arba kanalą:** 
-    - Peržiūrėkite [Panaikintų komandos atkūrimas programoje "Microsoft Teams".](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-    - Panaikintus komandos kanalus galima atkurti iki 21 dienos po kanalo ištrynimo. 
-    - Norėdami atkurti panaikintą [kanalą,](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)žr.
-- **Atkurti panaikintus failus:** Žiūrėkite [Atkurti panaikintus failus programoje "Teams".](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)
-- **Trūkstamo numerio rinkiklio trikčių diagnostika:**  
-    - Įsitikinkite, kad vartotojui priskirta ["Teams" licencija](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Įsitikinkite, kad vartotojas priskyrė [skambinimo planą.](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)
-    - Įjunkite ["Enterprise Voice"](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)vartotojus .
-- **Žinomos "Teams" problemos:** Perskaitykite [žinomas "Microsoft Teams" problemas](https://docs.microsoft.com/microsoftteams/known-issues).
+- **Naujokas „Teams“?** Peržiūrėkite [Pradėkite naudoti „Microsoft Teams“](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+
+- **„Teams“ svečių prieigos įgalinimas:** peržiūrėkite [„Teams“ svečių prieigos kontrolinį sąrašą](https://docs.microsoft.com/microsoftteams/guest-access-checklist) ir įsitikinkite, kad buvo atlikti visi veiksmai.
+
+- **[Kaip nustatyti garso konferencijas „Teams“](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **Trūkstamo numerio rinkimo trikčių šalinimas:**  
+
+    - Įsitikinkite, kad vartotojui priskirta [„Teams“ licencija](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+
+    - Įsitikinkite, kad vartotojui priskirtas [skambinimo planas](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
+
+    - Įgalinkite vartotojui [„Enterprise Voice“](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+
+- **„Teams“ prisijungimo trikčių šalinimas:** pirmiausia įsitikinkite, kad [„Microsoft Teams“ tarnyba tinkama](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Tada patikrinkite, ar nėra įprastų klaidų kodų ir peržiūrėkite [Kodėl kilo problemų prisijungiant prie „Microsoft Teams“?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Taip pat gali reikėti peržiūrėti [Tapatybės modeliai ir autentifikavimas „Microsoft Teams“](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+
+**Švietimo įstaigų klientams:**
+
+Jei jūsų vartotojai mato pranešimą „Trūksta!“ Įsitikinkite, kad [„Microsoft Teams“ įgalinta jūsų mokymo įstaigai](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). EDU nuomotojuose „Microsoft Teams“ nėra įgalinta pagal numatytuosius parametrus; pirmiausia turėsite ją įjungti.
+
+Toliau žr. [Nuotolinis mokymas ir mokymasis „Office 365 Education“](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), kad sužinotumėte naujausią informaciją, kaip nustatyti mokyklą, pamokų planavimą, susitikimus ir bendrinti turinį su studentais. 
