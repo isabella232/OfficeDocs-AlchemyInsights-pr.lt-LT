@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745012"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856475"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Žinomos „Teams“ problemos ir jų sprendimai
 
@@ -35,12 +35,12 @@ Visiems „Teams“ klientams:
 - **„Teams“ susitikimai ir skambinimas**: ar reikia pagalbos įjungiant arba nustatant garso konferencijas „Microsoft Teams“? Ar šis vartotojas buvo neseniai sukurtas? Jei taip, reikės palaukti nuo 2 iki 24 val., **kol parametrai įsigalios**. 
 
     Norėdami patikrinti, ar vartotojas yra licencijuotas naudoti garso konferencijas ir turi numatytąjį mokamą numerį, atlikite šiuos veiksmus:
-    1.    Eikite į Aktyvūs vartotojai ir pasirinkite reikiamą vartotoją.
-    2.    Atsižvelgdami į administravimo centro versiją, pasirinkite Licencijos ir programos arba spustelėkite Redaguoti dalyje Produktų licencijos.
-    3.    Įsitikinkite, kad vartotojas turi pasirinktas šias licencijas: Garso konferencijos, „Microsoft Teams“ ir Internetinė „Skype“ verslui (2 planas).
-    4.    Dalyje Administravimo centrai spustelėkite Rodyti viską, tada – „Teams“.
-    5.    „Microsoft Teams“ administravimo centre spustelėkite Senstelėjęs portalas.
-    6.    „Skype“ verslui administravimo centre spustelėkite garso konferencijos, tada – Vartotojai.
+    1.    Eikite į „Aktyvūs vartotojai“ ir pasirinkite reikiamą vartotoją.
+    2.    Atsižvelgdami į administravimo centro versiją, pasirinkite **Licencijos ir programos** arba spustelėkite **Redaguoti** dalyje **Produktų licencijos**.
+    3.    Įsitikinkite, kad vartotojas turi pasirinktas šias licencijas: Garso konferencijos, „Microsoft Teams“ ir internetinė „Skype“ verslui (2 planas).
+    4.    Dalyje Administravimo centrai spustelėkite **Rodyti viską**, tada – **Teams**.
+    5.    „Microsoft Teams“ administravimo centre spustelėkite **Senstelėjęs portalas**.
+    6.    „Skype“ verslui administravimo centre spustelėkite **garso konferencijos**, tada – **Vartotojai**.
     7.    Pasirinkite reikiamą vartotoją ir patikrinkite, ar vartotojas turi numatytąjį mokamą numerį.
     
     Jei reikia daugiau informacijos, žr. [„Office 365“ skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
