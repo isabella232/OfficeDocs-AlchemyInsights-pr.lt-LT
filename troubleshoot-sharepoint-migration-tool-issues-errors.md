@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" perkėlimo įrankio problemų ir klaidų trikčių diagnostika"
+title: SharePoint perkėlimo įrankio trikčių diagnostika
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -13,16 +13,22 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913613"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931126"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>"SharePoint" perkėlimo įrankio problemų ir klaidų trikčių diagnostika
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>SharePoint perkėlimo įrankio trikčių diagnostika
 
-Kai naudojate SharePoint perkėlimo įrankį (SPMT), galite susidurti su kai kuriomis dažnų problemų ir klaidų. Daugiau informacijos rasite nuorodose žemiau.
+**Svarbu:** daugelis "SharePoint Online" ir "OneDrive" klientų vykdo verslui svarbias taikomąsias programas pagal fone vykdomą tarnybą. Tai apima turinio perkėlimą, duomenų praradimo prevenciją (DLP) ir atsarginių kopijų kūrimo sprendimus. Šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintume, jog "SharePoint Online" ir "OneDrive" paslaugos būtų labai prieinamos ir patikimos jūsų vartotojams, kurie labiau nei bet kada priklauso nuo paslaugos nuotoliniuose darbo scenarijuose.
 
-* [Trikčių diagnostika dažni SPMT problemos ir klaidos](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-* [SPMT diegimo problemų sprendimas](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+Siekdami šio tikslo, darbo dienos valandomis įdiegėme griežtesnius buferizavimo apribojimus fonines programas (migraciją, DLP ir atsarginius sprendimus). Turėtumėte tikėtis, kad šios programos pasieks labai ribotą pralaidumą šiais laikais. Tačiau regiono vakaro ir savaitgalio valandomis paslauga bus paruošta apdoroti žymiai didesnį užklausų iš foninių programų apimtį.
+
+**Dažniausiai pasitaikančios problemos ir klaidos**
+
+Naudodami SharePoint perkėlimo įrankį (SPMT) gali kilti dažniausiai pasitaikančių problemų ir klaidų. Norėdami gauti daugiau informacijos, perskaitykite toliau pateiktas nuorodas.
+
+* [Dažniausiai pasitaikančių SPMT trikčių diagnostika ir klaidos](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+* [SPMT diegimo trikčių šalinimas](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

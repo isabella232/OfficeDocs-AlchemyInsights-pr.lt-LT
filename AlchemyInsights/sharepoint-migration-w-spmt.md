@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 49f8a4ee2b78f158ec1ce5ca7da84f6fbfff0d14
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: e7719d1fc6dda0d5bd340775219401dade2933fe
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122971"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931558"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>"SharePoint" perkėlimas su SPMT
 
-Skirtas naudoti perkėlimų, pradedant nuo mažiausio failų rinkinio iki didelio masto įmonės perkėlimo, "SharePoint" perkėlimo įrankis leis jums perkelti informaciją į debesį ir pasinaudoti naujausiomis bendradarbiavimo, žvalgybos ir saugumo sprendimus su Office 365.
+**Svarbu:** daugelis "SharePoint Online" ir "OneDrive" klientų vykdo verslui svarbias taikomąsias programas pagal fone vykdomą tarnybą. Tai apima turinio perkėlimą, duomenų praradimo prevenciją (DLP) ir atsarginių kopijų kūrimo sprendimus. Šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintume, jog "SharePoint Online" ir "OneDrive" paslaugos būtų labai prieinamos ir patikimos jūsų vartotojams, kurie labiau nei bet kada priklauso nuo paslaugos nuotoliniuose darbo scenarijuose.
+
+Siekdami šio tikslo, darbo dienos valandomis įdiegėme griežtesnius buferizavimo apribojimus fonines programas (migraciją, DLP ir atsarginius sprendimus). Turėtumėte tikėtis, kad šios programos pasieks labai ribotą pralaidumą šiais laikais. Tačiau regiono vakaro ir savaitgalio valandomis paslauga bus paruošta apdoroti žymiai didesnį užklausų iš foninių programų apimtį.
+
+**"SharePoint" perkėlimo įrankis**
+
+Sukurtas naudoti perkėlimams nuo mažiausio failų rinkinio iki didelio masto įmonės perkėlimo, "SharePoint" perkėlimo įrankis leis perkelti informaciją į debesį ir pasinaudoti naujausiu bendradarbiavimu, įžvalgomis ir saugos sprendimus su "Office 365".
 
 - [Atsisiųskite ir įdiekite "SharePoint" perkėlimo įrankį](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [Trikčių diagnostika dažni SPMT problemos ir klaidos](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [Trikčių šalinimo SPMT diegimo problemos](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [Dažniausiai pasitaikančių SPMT trikčių diagnostika ir klaidos](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [SPMT diegimo trikčių diagnostika](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

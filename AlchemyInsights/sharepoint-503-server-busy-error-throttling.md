@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint Online\" užklausų Buferėjimas"
+title: "\"SharePoint Online\" užklausų buferizavimas"
 ms.author: pebaum
 author: pebaum
 ms.date: 9/17/2018
@@ -8,22 +8,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
-ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
+ms.custom:
+- "9000149"
+- "1662"
+- "3491"
+ms.openlocfilehash: 59104ef96c95de4e4bc7744825245bdafba97d7c
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/16/2019
-ms.locfileid: "40065566"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931234"
 ---
-# <a name="sharepoint-online-throttling"></a>"SharePoint Online" užklausų Buferėjimas
+# <a name="sharepoint-online-throttling"></a>"SharePoint Online" užklausų buferizavimas
 
-Vartotojai gali gauti 503 serverio yra užimtas klaida bandant pereiti prie SharePoint arba OneDrive svetainių. 
+**Svarbu:** daugelis "SharePoint Online" ir "OneDrive" klientų vykdo verslui svarbias taikomąsias programas pagal fone vykdomą tarnybą. Tai apima turinio perkėlimą, duomenų praradimo prevenciją (DLP) ir atsarginių kopijų kūrimo sprendimus. Šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintume, jog "SharePoint Online" ir "OneDrive" paslaugos būtų labai prieinamos ir patikimos jūsų vartotojams, kurie labiau nei bet kada priklauso nuo paslaugos nuotoliniuose darbo scenarijuose.
 
-Ši klaida gali kilti dėl buferinės per SharePoint tarnybos. SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos. Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug. 
+Siekdami šio tikslo, darbo dienos valandomis įdiegėme griežtesnius buferizavimo apribojimus fonines programas (migraciją, DLP ir atsarginius sprendimus). Turėtumėte tikėtis, kad šios programos pasieks labai ribotą pralaidumą šiais laikais. Tačiau regiono vakaro ir savaitgalio valandomis paslauga bus paruošta apdoroti žymiai didesnį užklausų iš foninių programų apimtį.
 
-Daugiau informacijos apie buferizavimo pamatyti, [išvengti gauti neleista arba užblokuotas SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+**503 serveris užimtas klaida**
 
-Jei manote, kad ši klaida yra nesusijusi su užklausų buferiu, galite patikrinti, ar jūsų nuomininkui yra aktyvi priežiūra, pereidami į [pranešimų centrą](https://portal.office.com/adminportal/home#/MessageCenter).
+Vartotojai gali gauti 503 serveris yra užimtas klaida bandant pereiti į SharePoint "arba" OneDrive svetainėse. 
 
- Galiausiai, įsitikinkite, kad lankotės [tarnybos sveikatos](https://portal.office.com/adminportal/home#/servicehealth) puslapyje patikrinti, ar nėra patarimų/incidentų, kurie gali būti vyksta.
+Šią klaidą gali sukelti buferizavimas SharePoint tarnyboje. "SharePoint Online" naudoja buferizavimas, kad išlaikytų optimalų "SharePoint Online" paslaugos našumą ir patikimumą. Buferizavimas riboja vartotojo veiksmų arba vienu metu skambučių skaičių (pagal scenarijų arba kodą), kad būtų išvengta per daug išteklių. 
+
+Jei norite gauti daugiau informacijos apie buferizavimas [pamatyti, Išvengti gauti throttled arba užblokuotas SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+
+Jei manote, kad ši klaida nėra susijusi su buferizavimas, galite patikrinti, ar yra aktyvi priežiūra vyksta jūsų nuomotojo keliaudami į [pranešimų centrą](https://portal.office.com/adminportal/home#/MessageCenter).
+
+ Galiausiai įsitikinkite, kad lankotės [puslapyje Tarnybos sveikata](https://portal.office.com/adminportal/home#/servicehealth) ir patikrinkite, ar nėra patarimų / incidentų, kurie gali įvykti.
 
