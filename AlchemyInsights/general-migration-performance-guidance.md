@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932486"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958546"
 ---
 # <a name="general-migration-performance-guidance"></a>Bendrosios perkėlimo našumo rekomendacijos
 
-**Svarbu**: dauguma „SharePoint Online“ ir „OneDrive“ klientų naudoja verslui svarbias taikomąsias programas, lyginant su fone veikiančia tarnyba. Tai apima turinio perkėlimą, duomenų praradimo prevenciją (DLP) ir atsarginio kopijavimo sprendimus. Šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintume, jog „SharePoint Online“ ir „OneDrive“ tarnybos išliktų lengvai prieinamos ir patikimos jūsų vartotojams, kurie nuotolinio darbo scenarijuose priklauso nuo tarnybos labiau nei kada nors anksčiau.
-
-Siekdami šio tikslo, pritaikėme griežtesnius apribojimus fone veikiančioms programoms (perkėlimo, DLP ir atsarginio kopijavimo sprendimų) šiokiadienių dienos valandomis. Turėtumėte tikėtis, kad tuo metu šių programų pralaidumas bus labai apribotas. Tačiau vakarais ir savaitgalio valandomis tame regione tarnyba bus pasirengusi apdoroti žymiai didesnį kiekį užklausų iš fone veikiančių programų.
+**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
 
 **Perkėlimo našumo rekomendacijos**
 

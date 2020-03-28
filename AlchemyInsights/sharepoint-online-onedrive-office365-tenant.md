@@ -10,18 +10,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 214e148420519b47253a317a8bec8239ee985e34
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571339"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030372"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>"SharePoint Online" arba "OneDrive" nustatymas
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>"SharePoint Online" arba "OneDrive" "Nustatymas"
 
-Kai vartotojas yra įtraukta į esamą Office 365 nuomotojo, jie gali matyti SharePoint Online arba "OneDrive" verslui piktogramos, išvardytos kaip "nustatymas" kol parengimo procesas bus baigtas.
-Vykdykite šį [trikčių šalinimo vadovą](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) , kad padėtumėte.
+Kai vartotojas įtraukiamas į esamą "Office 365" nuomotojo, jis gali matyti SharePoint Online "arba" OneDrive verslui piktogramas, nurodytas kaip "Nustatymas" arba "Mes vis dar dirbagauti failų sąrankos", kol parengimo procesas bus baigtas. Jei reikia pagalbos, vadovaukitės šiuo [trikčių šalinimo vadovu.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą pamačiau šią problemą, prašome prisijungti palaikymo atvejį.
+Jei praėjo daugiau nei 24 valandos nuo to laiko, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo atvejo.
 
-Mes suprantame, kad 24 valandas gali atrodyti kaip ilgą laiką. Daugeliu atvejų jau dirbame su sprendimu. Prašome pateikti mums bent 24 valandas, kad užbaigtumėte sprendimą.
+Mes suprantame, kad 24 valandos gali atrodyti kaip ilgas laikas. Daugeliu atvejų jau dirbame su sprendimu. Prašome duoti mums ne mažiau kaip 24 valandas užbaigti sprendimą.
