@@ -1,30 +1,37 @@
 ---
-title: Buferinės per SharePoint migracijos
+title: Ribojimas „SharePoint“ perkėlimo metu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
-- "1987"
 - "9000353"
+- "1987"
+- "9000136"
+- "2968"
 ms.assetid: ''
-ms.openlocfilehash: a03014eff1b03367103242ba630ace6ee0f4acca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: MT
+ms.openlocfilehash: dc77c462fcf32817c92709852e2d03ab2086b9a4
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052441"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958906"
 ---
-# <a name="sharepoint-throttling"></a><span data-ttu-id="02691-102">SharePoint užklausų buferėjimas</span><span class="sxs-lookup"><span data-stu-id="02691-102">SharePoint throttling</span></span>
+# <a name="sharepoint-throttling"></a><span data-ttu-id="20e5b-102">„SharePoint“ ribojimas</span><span class="sxs-lookup"><span data-stu-id="20e5b-102">SharePoint throttling</span></span>
 
-<span data-ttu-id="02691-103">SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos.</span><span class="sxs-lookup"><span data-stu-id="02691-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="02691-104">Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug.</span><span class="sxs-lookup"><span data-stu-id="02691-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span>
+<span data-ttu-id="20e5b-103">**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="20e5b-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="02691-105">Daugiau informacijos rasite žemiau pateiktuose saituose:</span><span class="sxs-lookup"><span data-stu-id="02691-105">For more information please visit the links below:</span></span>
+<span data-ttu-id="20e5b-104">**„SharePoint Online“ ribojimas**</span><span class="sxs-lookup"><span data-stu-id="20e5b-104">**SharePoint Online throttling**</span></span>
 
-- [<span data-ttu-id="02691-106">Išvengti gauti neleista arba užblokuotas SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="02691-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-- [<span data-ttu-id="02691-107">Duomenų perkėlimas ir SPO užklausų buferinis</span><span class="sxs-lookup"><span data-stu-id="02691-107">Data Migration and SPO Throttling</span></span>](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
-- [<span data-ttu-id="02691-108">"SharePoint Online" ir "OneDrive" perkėlimo sparta</span><span class="sxs-lookup"><span data-stu-id="02691-108">SharePoint Online and OneDrive Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-- [<span data-ttu-id="02691-109">Tvarkyti "SharePoint Online" užklausų buferinį naudojimą, naudojant eksponentinį grįžties</span><span class="sxs-lookup"><span data-stu-id="02691-109">Handle SharePoint Online throttling by using exponential back off</span></span>](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
-- [<span data-ttu-id="02691-110">Pajėgumų planavimas ir apkrovos testavimas SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="02691-110">Capacity planning and load testing SharePoint Online</span></span>](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+<span data-ttu-id="20e5b-105">„SharePoint Online“ naudoja ribojimo funkciją, kad užtikrintų optimalų „SharePoint Online“ paslaugos veiksmingumą ir patikimumą.</span><span class="sxs-lookup"><span data-stu-id="20e5b-105">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="20e5b-106">Ribojimas apriboja vartotojo veiksmų arba vienu metu vykstančių skambučių (pagal scenarijų ar kodą) skaičių, kad būtų užkirstas kelias per dideliam išteklių naudojimui.</span><span class="sxs-lookup"><span data-stu-id="20e5b-106">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span>
+
+<span data-ttu-id="20e5b-107">Daugiau informacijos žr. toliau pateiktuose saituose:</span><span class="sxs-lookup"><span data-stu-id="20e5b-107">For more information please visit the links below:</span></span>
+
+- [<span data-ttu-id="20e5b-108">Išvenkite ribojimo arba blokavimo „SharePoint Online“</span><span class="sxs-lookup"><span data-stu-id="20e5b-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [<span data-ttu-id="20e5b-109">Duomenų perkėlimas ir SPO ribojimas</span><span class="sxs-lookup"><span data-stu-id="20e5b-109">Data Migration and SPO Throttling</span></span>](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [<span data-ttu-id="20e5b-110">„SharePoint Online“ ir „OneDrive“ perkėlimo greitis</span><span class="sxs-lookup"><span data-stu-id="20e5b-110">SharePoint Online and OneDrive Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [<span data-ttu-id="20e5b-111">„SharePoint Online“ ribojimo tvarkymas naudojant eksponentinį išlaikymą</span><span class="sxs-lookup"><span data-stu-id="20e5b-111">Handle SharePoint Online throttling by using exponential back off</span></span>](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+- [<span data-ttu-id="20e5b-112">„SharePoint Online“ pajėgumų planavimas ir įkėlimų tikrinimas</span><span class="sxs-lookup"><span data-stu-id="20e5b-112">Capacity planning and load testing SharePoint Online</span></span>](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [<span data-ttu-id="20e5b-113">Perkėlimo metu susiduriu su prastu veikimu arba ribojimu.</span><span class="sxs-lookup"><span data-stu-id="20e5b-113">I am experiencing poor performance or throttling during migration</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
