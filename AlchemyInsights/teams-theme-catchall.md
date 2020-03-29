@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856475"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030408"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Žinomos „Teams“ problemos ir jų sprendimai
+
+**Svarbu**: dėl pastaruoju metu padidėjusio komandų naudojimo, kai vartotojui priskiriate komandų licenciją, gali praeiti maždaug 24 valandos, kol jos bus visiškai nustatytos. Iki tol negalėsite jiems priskirti komandų strategijų ir jiems gali nepavykti pasiekti kai kurių komandų funkcijų, pvz., skambinimo ir garso konferencijų.
+
+**Žinomos problemos ir jų sprendimai**
 
 Jei reikia konkretesnio atsakymo, bandykite performuluoti klausimą, kad įtrauktumėte visas rodomas klaidas ar „Teams“ funkcijas.
 
