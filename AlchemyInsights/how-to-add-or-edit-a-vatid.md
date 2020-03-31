@@ -1,5 +1,5 @@
 ---
-title: Kaip pridėti ar redaguoti per VatID
+title: Kaip pridėti arba redaguoti VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664328"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059744"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="da18b-102">Kaip pridėti ar redaguoti per VatID</span><span class="sxs-lookup"><span data-stu-id="da18b-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="01e49-102">Kaip pridėti arba redaguoti VatID</span><span class="sxs-lookup"><span data-stu-id="01e49-102">How to add or edit a VatID</span></span>
 
-1. <span data-ttu-id="da18b-103">"Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="da18b-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="01e49-103">**Pastaba:** jei esate šalyje, kurioje naudojamas pridėtinės vertės mokestis (PVM), pvz., Jungtinė Karalystė, "Microsoft" sąskaitų faktūrų išrašymas apskaičiuoja PVM už jus ir taiko sumą jūsų sąskaitoms faktūroms.</span><span class="sxs-lookup"><span data-stu-id="01e49-103">**Note**: If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span> <span data-ttu-id="01e49-104">Daugiau informacijos rasite [VIES atsakomybės apribojimas,](https://go.microsoft.com/fwlink/?LinkID=841741) kurį paskelbė Europos Komisija.</span><span class="sxs-lookup"><span data-stu-id="01e49-104">For more info, see [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span>
 
-2. <span data-ttu-id="da18b-104">Rasti prenumerata kortelę norite atnaujinti prenumeratos.</span><span class="sxs-lookup"><span data-stu-id="da18b-104">Find the subscription card for the subscription you want to update.</span></span>
+<span data-ttu-id="01e49-105">**"VatID" pridėjimas arba redagavimas**</span><span class="sxs-lookup"><span data-stu-id="01e49-105">**Adding or editing a VatID**</span></span>
 
-3. <span data-ttu-id="da18b-105">Skiltyje **Parametrai & veiksmus** pasirinkite **paslaugų naudojimo adresą paredaguokite**.</span><span class="sxs-lookup"><span data-stu-id="da18b-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
+1. <span data-ttu-id="01e49-106">"Microsoft 365" administravimo centre eikite į **puslapį Atsiskaitymo** \> [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="01e49-106">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-4. <span data-ttu-id="da18b-106">Puslapyje **Redaguoti jūsų paslaugos naudojimo adresą** , **PVM kodo** lauke įveskite jūsų PVM ID, ir tada pasirinkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="da18b-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
+2. <span data-ttu-id="01e49-107">Raskite prenumeratos kortelę, kurią norite atnaujinti.</span><span class="sxs-lookup"><span data-stu-id="01e49-107">Find the subscription card for the subscription you want to update.</span></span>
 
-    <span data-ttu-id="da18b-107">Kai baigtas, PVM mokėti nereikės kitoje sąskaitoje.</span><span class="sxs-lookup"><span data-stu-id="da18b-107">When complete, VAT will not be charged on your next bill.</span></span>
+3. <span data-ttu-id="01e49-108">Sekcijoje **Parametrai & Veiksmai** pasirinkite Redaguoti paslaugos naudojimo **adresą**.</span><span class="sxs-lookup"><span data-stu-id="01e49-108">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
 
-<span data-ttu-id="da18b-108">Norėdami sužinoti daugiau, žiūrėkite [kas mokestis bus imamas mokestis už "Office 365"?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="da18b-108">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+4. <span data-ttu-id="01e49-109">Puslapyje **Redaguoti paslaugos naudojimo adresą** lauke **PVM mokėtojo kodas** įveskite PVM ID, tada pasirinkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="01e49-109">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
 
-<span data-ttu-id="da18b-109">**Papildomi ištekliai**</span><span class="sxs-lookup"><span data-stu-id="da18b-109">**Additional resources**</span></span>
+    <span data-ttu-id="01e49-110">Kai baigsite, PVM nebus imamas iš kitos sąskaitos.</span><span class="sxs-lookup"><span data-stu-id="01e49-110">When complete, VAT will not be charged on your next bill.</span></span>
 
-<span data-ttu-id="da18b-110">[Pridėti jūsų PVM ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="da18b-110">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
+<span data-ttu-id="01e49-111">Norėdami sužinoti daugiau, žiūrėkite [Kokie mokesčiai bus apmokestinami už "Office 365"?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="01e49-111">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+
+<span data-ttu-id="01e49-112">**Papildomi ištekliai**</span><span class="sxs-lookup"><span data-stu-id="01e49-112">**Additional resources**</span></span>
+
+<span data-ttu-id="01e49-113">[Pridėkite PVM ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="01e49-113">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
