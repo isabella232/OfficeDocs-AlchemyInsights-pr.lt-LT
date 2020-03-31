@@ -1,5 +1,5 @@
 ---
-title: Kaip pridėti ar redaguoti per VatID
+title: Kaip pridėti arba redaguoti VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664328"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059744"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Kaip pridėti ar redaguoti per VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Kaip pridėti arba redaguoti VatID
 
-1. "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+**Pastaba:** jei esate šalyje, kurioje naudojamas pridėtinės vertės mokestis (PVM), pvz., Jungtinė Karalystė, "Microsoft" sąskaitų faktūrų išrašymas apskaičiuoja PVM už jus ir taiko sumą jūsų sąskaitoms faktūroms. Daugiau informacijos rasite [VIES atsakomybės apribojimas,](https://go.microsoft.com/fwlink/?LinkID=841741) kurį paskelbė Europos Komisija.
 
-2. Rasti prenumerata kortelę norite atnaujinti prenumeratos.
+**"VatID" pridėjimas arba redagavimas**
 
-3. Skiltyje **Parametrai & veiksmus** pasirinkite **paslaugų naudojimo adresą paredaguokite**.
+1. "Microsoft 365" administravimo centre eikite į **puslapį Atsiskaitymo** \> [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-4. Puslapyje **Redaguoti jūsų paslaugos naudojimo adresą** , **PVM kodo** lauke įveskite jūsų PVM ID, ir tada pasirinkite **įrašyti**.
+2. Raskite prenumeratos kortelę, kurią norite atnaujinti.
 
-    Kai baigtas, PVM mokėti nereikės kitoje sąskaitoje.
+3. Sekcijoje **Parametrai & Veiksmai** pasirinkite Redaguoti paslaugos naudojimo **adresą**.
 
-Norėdami sužinoti daugiau, žiūrėkite [kas mokestis bus imamas mokestis už "Office 365"?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. Puslapyje **Redaguoti paslaugos naudojimo adresą** lauke **PVM mokėtojo kodas** įveskite PVM ID, tada pasirinkite **Įrašyti**.
+
+    Kai baigsite, PVM nebus imamas iš kitos sąskaitos.
+
+Norėdami sužinoti daugiau, žiūrėkite [Kokie mokesčiai bus apmokestinami už "Office 365"?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Papildomi ištekliai**
 
-[Pridėti jūsų PVM ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Pridėkite PVM ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

@@ -1,5 +1,5 @@
 ---
-title: Keisti viešąjį aplanką teises
+title: Viešojo aplanko teisių keitimas
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,26 +11,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
-ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
+ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/11/2020
-ms.locfileid: "41022205"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059780"
 ---
-# <a name="changing-public-folder-permissions"></a>Keisti viešąjį aplanką teises
+# <a name="changing-public-folder-permissions"></a>Viešojo aplanko teisių keitimas
 
-Viešojo aplanko teises gali pakeisti vartotojai ir administratoriai "Outlook". Administratoriai taip pat galite valdyti teises iš Exchange administravimo centro (EAC), atlikdami šiuos veiksmus:
+Viešojo aplanko teises gali keisti "Outlook" vartotojai ir administratoriai. Administratoriai taip pat gali valdyti teises iš Exchange administravimo centro (EAC), atlikdami šiuos veiksmus:
   
-1. Microsoft 365 administravimo centro, eikite į **administravimo centrai** \> **birža**.
+1. "Microsoft 365" administravimo centre eikite į **Administravimo centrai** \> **Exchange**.
 
-2. Pasirinkite **viešieji aplankai**.
+2. Pasirinkite **Viešieji aplankai**.
 
-3. Iš ten galite keisti atskirų viešųjų aplankų teises priskirdami saugos grupes teisėms. Galutiniam vartotojui keisti viešąjį aplanką teises, vartotojas turi turėti savininko teises į aplanką.
+3. Iš ten galite keisti atskirų viešųjų aplankų teises priskirdami saugos grupes teisėms. Kad galutinis vartotojas galėtų keisti viešojo aplanko teises, vartotojas turi turėti savininko teises į aplanką.
 
-> [!NOTE]
-> Yra kelios žinomos problemos, kurias galite susidurti bandydami keisti teises viešuosiuose aplankuose. Daugiau informacijos rasite šiuose straipsniuose.
->
-> [Negalite taikyti teises į viešąjį aplanką poaplankius EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
->
-> ["Pašto dėžutės nerastas vietos miške" klaida, kai jums prieiti prie viešųjų aplankų](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+Atlikite procedūrą, aprašytą [kaip diagnozuoti ir išspręsti viešojo aplanko teisių problemas,](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) kad būtų išspręstos viešojo aplanko teisių problemos.
+
+**Pastaba:** yra keletas žinomų problemų, su kuriomis galite susidurti bandydami keisti viešųjų aplankų teises. Daugiau informacijos rasite šiuose straipsniuose.
+
+- [Negalima taikyti teises viešojo aplanko poaplankius EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+
+- ["Pašto dėžutės nerastas vietos miške" klaida, kai atidarote viešųjų aplankų](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

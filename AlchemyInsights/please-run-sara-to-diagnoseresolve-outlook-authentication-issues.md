@@ -1,5 +1,5 @@
 ---
-title: 182 Prašome paleisti SaRA diagnozuoti ir išspręsti "Outlook" autentifikavimo problemos
+title: 182 Paleiskite SaRA, kad nustatytumėte ir išspręstumėte "Outlook" autentifikavimo problemas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752652"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059816"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Naudokite SaRA diagnozuoti ir išspręsti "Outlook" autentifikavimo problemos
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Naudokite SaRA diagnozuoti ir išspręsti "Outlook" autentifikavimo problemas
 
-Primygtinai rekomenduojame naudoti ["Outlook" saugo klausia mano slaptažodžio](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostikos paveiktoje mašinoje spręsti problemas, kai "Outlook" nuolat raginama įvesti slaptažodį. Šis [SaRA](https://diagnostics.office.com/#/) diagnostika ar automatiniai patikrinimai ir grąžina galimus sprendimus, kuriuos galite naudoti sprendžiant visus aptiktus klausimus.
+**Pastaba:** patikrinkite, ar jūsų organizacijoje [įgalintas numatytasis saugos parametras.](http://aka.ms/securitydefaults) Jei jūsų nuomotojo buvo sukurtas po spalio 21, 2019 ir jūsų "Outlook" pakartotinai prašo slaptažodžio, galite turėti **saugos numatytuosius parametrus įjungtas** jūsų nuomotojo.
+
+Labai rekomenduojame naudoti ["Outlook" ir toliau prašo mano slaptažodžio diagnostikos](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) paveiktame kompiuteryje, kad būtų galima spręsti problemas, kai "Outlook" nuolat ragina įvesti slaptažodį. Ši [SaRA](https://diagnostics.office.com/#/) diagnostika atlieka automatinius patikrinimus ir pateikia galimus sprendimus, kuriuos galite naudoti bet kokioms aptiktas problemoms spręsti.
