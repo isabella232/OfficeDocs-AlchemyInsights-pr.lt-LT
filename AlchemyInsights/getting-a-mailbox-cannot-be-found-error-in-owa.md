@@ -1,5 +1,5 @@
 ---
-title: 126 gauti pa to dė˛utės nepavyksta rasti klaida OWA?
+title: 126 Gauti pašto dėžutės owa nerastas klaida?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523879"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105247"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Gauti pašto dėžutės nerasta klaida programoje "Outlook" internete?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Gaunate pašto dėžutę, kuri žiniatinklyje nerado klaidos programoje "Outlook"?
 
-Jei naudojate "Outlook" internete ir jūs gaunate klaidos pranešimą **nepavyko rasti pašto dėžutės** , abonementą, kurį naudojote prisijungti prie "Outlook" internete neturi Exchange Online licenciją ir todėl pašto dėžutė yra susietas su abonementu. Jūsų administratorius gali paskirti licenciją į paskyrą, atlikite šiuos veiksmus:
+Jei naudojate "Outlook" žiniatinklyje ir pašto dėžutės nepavyko **rasti dėl** klaidų, abonementas, kurį naudojote jungdamiesi prie "Outlook" žiniatinklyje, neturi "Exchange Online" licencijos, todėl su abonementu nesusieta jokia pašto dėžutė. Administratorius gali priskirti paskyrą licenciją atlikdami šiuos veiksmus:
 
-1. Atidarykite ["Microsoft" 365 administravimo centro](https://portal.office.com/adminportal/home#/homepage) ir **aktyvių vartotojų**, pasirinkite **Redaguoti vartotojo**.
+1. Atidarykite ["Microsoft 365" administravimo centrą](https://portal.office.com/adminportal/home#/homepage) ir eikite į **Aktyvūs vartotojai** skyriuje **Vartotojai** ir pasirinkite vartotoją, kuris mato klaidą.
 
-2. **Redaguoti vartotojo** puslapį, kuris atidaro, pasirinkite vartotojas. Vartotojo apgyvendinimo įstaigos puslapyje, kuris atsidaro, spustelėkite **Redaguoti** , **produkto licencijos**.
-
-3. **Produkto licencijos** puslapį, kuris atidaro, pasirinkite atitinkamą **vietą** vertę ir priskirti licenciją, kurioje yra Exchange Online (plėsti savo detalių licencija). Baigę spustelėkite **Įrašyti**.
+2. Atsidariusiame vartotojo puslapyje eikite į skyrių **Licencijos ir programėlės,** pasirinkite atitinkamą **vietos** reikšmę ir priskirkite licenciją, kurioje yra "Exchange Online" (išplėskite licenciją, kad pamatytumėte išsamią jos informaciją). Baigę spustelėkite **Įrašyti keitimus**.

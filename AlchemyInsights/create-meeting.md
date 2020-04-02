@@ -11,22 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376739"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105355"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Suplanuokite susitikimą programoje "teams"
+# <a name="schedule-a-meeting-in-teams"></a>Susitikimo planavimas komandose
 
-Susitikimą galite planuoti dviem būdais: 
+**Svarbu:** jei kyla problemų kuriant susitikimą arba nerandate susitikimo parinkties "Teams", įsitikinkite, kad paveiktas (-i) vartotojas (-ai) yra licencijuotas (-i) ["Exchange Online" pašto dėžutei ir pašto dėžutė įgalinta](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
-- Pasirinkite **suplanuoti susitikimo** piktogramą pokalbyje (tai yra po sukūrimo lauku) ir užsisakykite susitikimą su pokalbyje esančiais žmonėmis.
-- Pasirinkite **kalendoriaus** piktogramą kairėje programėlės pusėje ir arba pasirinkite **naują susitikimą** viršutiniame dešiniajame arba pasirinkite laiko intervalą kalendoriuje, kad atidarytumėte planavimo formą.
+Susitikimą galite suplanuoti dviem būdais: 
 
-Panašiai kaip susitikimų planavimas programoje "Outlook", jūs suteikiate susitikimui susitikimo pavadinimą, kviesti žmones ir įtraukti susitikimų detales.
+- Pasirinkite **pokalbio piktogramą Planuoti susitikimą** (tai yra po kūrimo lauku), kad užsisakytumėte susitikimą su pokalbio žmonėmis.
+- Kairėje programėlės pusėje pasirinkite **piktogramą Kalendorius** ir viršutiniame dešiniajame kampe pasirinkite **Naujas susitikimas** arba pasirinkite kalendoriaus laiką, kad atidarytumėte planavimo formą.
 
-Planavimo formos dešinėje pusėje galite pridėti kanalą ar atskirus asmenis arba palikti tuščią, kad suplanuotumėte privačią paskyrą.
+Panašiai kaip planuodami susitikimą programoje "Outlook", suteikite savo susitikimui pavadinimą, pakviesite žmones ir įtrauksite išsamią susitikimų informaciją.
 
-Daugiau informacijos apie susitikimų kūrimą ir planavimą "Microsoft teams" rasite [susitikimų planavimas programoje "teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)".
+Dešinėje planavimo formos pusėje galite įtraukti kanalą arba atskirus žmones arba palikti abu tuščius, kad suplanuotumėte privačią paskyrą.
+
+- Daugiau informacijos apie susitikimų kūrimą ir planavimą programoje "Microsoft Teams" [ieškokite Susitikimo planavimas komandose](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Susitikimų apribojimai ir specifikacijos nurodyti ["Microsoft Teams" apribojimai ir specifikacijos](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
