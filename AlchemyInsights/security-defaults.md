@@ -1,5 +1,5 @@
 ---
-title: Saugos numatytieji parametrai
+title: Numatytieji saugos nustatymai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682211"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118383"
 ---
-# <a name="security-defaults"></a>Saugos numatytieji parametrai
+# <a name="security-defaults"></a>Numatytieji saugos nustatymai
 
-Valdyti saugą gali būti sunku, kai dažnai vis labiau populiarėja bendri su tapatybe susiję išpuoliai. Į šiuos išpuolius įeina slaptažodžio purškimas, pakartojimas ir sukčiavimas.
+Informacijos apie numatytuosius saugos parametrus ieškokite [Kas yra numatytieji saugos nustatymai?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-"Azure Active Directory" ("Azure AD") saugos numatytieji parametrai palengvina saugą ir padeda apsaugoti organizaciją. Saugos numatytieji parametrai turi iš anksto sukonfigūruotus bendrųjų atakų saugos parametrus.
+Saugos numatytieji numatytieji "Azure Active Directory" ("Azure AD") numatytieji saugos duomenys palengvina jūsų organizacijos saugumą ir padeda apsaugoti jūsų organizaciją. Numatytuose saugos parametruose yra iš anksto sukonfigūruotų bendrųajų atakų saugos parametrų.
 
-"Microsoft" saugos numatytąsias reikšmes gali naudoti visiems. Tikslas yra užtikrinti, kad visos organizacijos turi pagrindinį saugos lygį, kuris įgalintas be jokių papildomų išlaidų. Galite įjungti saugos numatytąsias "Azure" portale. Jei norite gauti daugiau informacijos apie numatytąsias saugos reikšmes, žr., [kas yra saugos numatytieji parametrai?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+"Microsoft" padaro saugos numatytuosius parametrus prieinamą visiems. Tikslas yra užtikrinti, kad visos organizacijos turėtų pagrindinį saugos lygį įjungtas be jokių papildomų išlaidų. Galite įjungti saugos numatytuosius parametrus Azure portale.
