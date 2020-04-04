@@ -1,5 +1,5 @@
 ---
-title: Nėra pasiūlymų, kaip išspręsti "OneNote" 2016
+title: Trūksta "OneNote 2016" sprendimo pasiūlymų
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534427"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143033"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Nėra pasiūlymų, kaip išspręsti "OneNote" 2016
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Trūksta "OneNote 2016" sprendimo pasiūlymų
 
-Įdiegus Microsoft Office 2019 arba "Office 365" kompiuteryje, kuriame veikia bet kurio leidimo "Windows 10", "OneNote" 2016 atrodo nėra įdiegtų darbalaukio programėlių sąrašą.
+Pradedant nuo 2020 m. kovo mėn., kai įdiegiate "Office 365" arba "Office 2019", "OneNote" kompiuterio taikomoji programa bus įdiegta kartu su "Word", "PowerPoint" ir "Excel" kompiuterio programomis.
 
-Pagal numatytuosius nustatymus, 2019 m. Office ir "Office 365" nebus automatiškai įdiegti OneNote 2016 darbalaukio versiją, bet jei jūs vis dar turite arba norite naudoti šią versiją, galite atsisiųsti atskirai ir naudoti šone naują Office 2019 m. programos.
+Įdiegus "Microsoft Office 2019" arba "Office 365" kompiuteryje, kuriame veikia bet kuris "Windows 10" leidimas, atrodo, kad įdiegtų darbalaukio taikomųjų programų sąraše nėra "OneNote 2016".
 
-Atlikite [šiuos veiksmus](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) Norėdami gauti daugiau informacijos apie tai, kaip atsisiųsti 32 bitų arba 64 bitų versijos OneNote 2016, skirta "Windows".
+Norėdami gauti daugiau informacijos, kaip atsisiųsti 32 bitų arba 64 bitų "OneNote 2016", skirtos "Windows", leidimą, [atlikite šiuos veiksmus.](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5)
