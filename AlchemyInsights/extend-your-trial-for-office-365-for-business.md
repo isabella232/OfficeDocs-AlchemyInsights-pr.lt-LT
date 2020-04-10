@@ -1,5 +1,5 @@
 ---
-title: Išplėsti naudoti bandomąją versiją "Office 365" verslui
+title: Bandomosios versijos išplėtimas "Office 365" verslui
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665012"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207345"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a><span data-ttu-id="4d516-102">Išplėsti jūsų bandomoji "Office 365" verslui</span><span class="sxs-lookup"><span data-stu-id="4d516-102">Extend your trial for Office 365 for business</span></span>
+# <a name="extend-your-trial-for-office-365-for-business"></a><span data-ttu-id="68988-102">Bandomosios versijos išplėtimas "Office 365" verslui</span><span class="sxs-lookup"><span data-stu-id="68988-102">Extend your trial for Office 365 for business</span></span>
 
-<span data-ttu-id="4d516-103">Jei bandomosios prenumeratos yra per 15 dienų, t. y. iki ir teismo nebuvo buvo pratęstas prieš, galite išplėsti savo teismą už dar 30 dienų laikotarpiui.</span><span class="sxs-lookup"><span data-stu-id="4d516-103">If your trial subscription is within 15 days of expiring and the trial hasn't been extended before, you can extend your trial for another 30-day period.</span></span> <span data-ttu-id="4d516-104">Galima padaryti tik šį vienintelį kartą.</span><span class="sxs-lookup"><span data-stu-id="4d516-104">You can only do this one time.</span></span>
+<span data-ttu-id="68988-103">Bandomąją versiją galite pratęsti dar 30 dienų laikotarpiui.</span><span class="sxs-lookup"><span data-stu-id="68988-103">You can extend your trial for another 30-day period.</span></span> <span data-ttu-id="68988-104">Tai galite padaryti tik vieną kartą.</span><span class="sxs-lookup"><span data-stu-id="68988-104">You can only do this one time.</span></span>
   
-1. <span data-ttu-id="4d516-105">Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="4d516-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="68988-105">Administravimo centre eikite į **Atsiskaitymo** \> [produktai & paslaugos](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="68988-105">In the admin center, go to **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
 
-2. <span data-ttu-id="4d516-106">Pasirinkite bandomosios prenumeratos, jūs norite pratęsti.</span><span class="sxs-lookup"><span data-stu-id="4d516-106">Choose the trial subscription that you want to extend.</span></span>
+2. <span data-ttu-id="68988-106">Pasirinkite bandomąją prenumeratą, kurią norite išplėsti.</span><span class="sxs-lookup"><span data-stu-id="68988-106">Select the trial subscription you want to extend.</span></span>
 
-3. <span data-ttu-id="4d516-107">Sekcijos **skyriai & veiksmus** pasirinkite **išplėsti tyrimo** ir atlikdami likusius veiksmus.</span><span class="sxs-lookup"><span data-stu-id="4d516-107">In the **Sections & Actions** section, choose **Extend trial** and complete the remaining steps.</span></span>
+3. <span data-ttu-id="68988-107">Spustelėkite **Išplėsti bandomąją versiją** ir atlikite vedlio veiksmus.</span><span class="sxs-lookup"><span data-stu-id="68988-107">Click **Extend trial** and complete the steps in the wizard.</span></span>
 
-4. <span data-ttu-id="4d516-108">Jums reikia pateikti kredito kortelės informaciją, išplėsti savo teismą.</span><span class="sxs-lookup"><span data-stu-id="4d516-108">You need to provide credit card information to extend your trial.</span></span> <span data-ttu-id="4d516-109">Mes nekainuos jūsų kreditinės kortelės bandymus pratęsti.</span><span class="sxs-lookup"><span data-stu-id="4d516-109">We will not charge your credit card for the trial extension.</span></span>
+4. <span data-ttu-id="68988-108">Norėdami išplėsti bandomąją versiją, turite pateikti kredito kortelės informaciją.</span><span class="sxs-lookup"><span data-stu-id="68988-108">You need to provide credit card information to extend your trial.</span></span> <span data-ttu-id="68988-109">Mes neimti jūsų kreditinės kortelės už bandomąjį pratęsimą.</span><span class="sxs-lookup"><span data-stu-id="68988-109">We will not charge your credit card for the trial extension.</span></span>
 
-<span data-ttu-id="4d516-110">Norėdami sužinoti daugiau, peržiūrėkite [išplėsti naudoti bandomąją versiją "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).</span><span class="sxs-lookup"><span data-stu-id="4d516-110">To learn more, see [Extend your trial for Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).</span></span>
+<span data-ttu-id="68988-110">Norėdami sužinoti daugiau apie bandomosios versijos išplėtimą arba nuoseklias instrukcijas, [žr.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)</span><span class="sxs-lookup"><span data-stu-id="68988-110">To learn more about extending your trial or for step-by-step instructions, see [Extend trial for Office 365 for business](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).</span></span>
