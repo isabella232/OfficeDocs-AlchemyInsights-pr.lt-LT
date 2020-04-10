@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737089"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183405"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Kas yra administratoriaus vaidmenys ir kaip juos priskirti?
+# <a name="admin-roles"></a>Administratoriaus vaidmenys
 
-Atrodo, kad turite keletą klausimų apie administratoriaus vaidmenis. Šie straipsniai turėtų atsakyti į visus jūsų klausimus.
-  
-- [Apie administratoriaus vaidmenis](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- Administravimo centre pasirinkite [vaidmenys,](https://admin.microsoft.com/Adminportal/Home#/roles) kad priskirtumėte arba sužinotumėte daugiau apie administratoriaus vaidmenis.
 
-- [Administratoriaus vaidmenų priskyrimas](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-Neradote atsakymo į savo klausimą? jokių problemų! Pasinaudokite parinktimi "Leiskite mums paskambinti" ir pasikalbėkite su palaikymo inžinieriumi.
-  
+- Tada pasirinkite vaidmens pavadinimą (-us) ir spustelėkite **priskirti vaidmenį**arba spustelėkite **palyginti vaidmenis** ir sužinokite daugiau.
