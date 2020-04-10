@@ -20,7 +20,7 @@ ms.locfileid: "43154281"
 ---
 # <a name="license-not-working"></a>Licencija neveikia
 
-Jei jūsų prenumeratos galiojimas baigėsi arba ji buvo išjungta „Microsoft“, arba jei atšaukėte prenumeratą įpusėjus jos galiojimo terminui, galite ją suaktyvinti iš naujo administravimo centre.
+Jei jūsų prenumeratos galiojimas baigėsi, ją išjungė „Microsoft“ arba jei atšaukėte prenumeratą įpusėjus jos galiojimo laikotarpiui, administravimo centre galite ją suaktyvinti iš naujo.
 
 **Prenumeratos aktyvinimas iš naujo**
 
@@ -28,7 +28,7 @@ Jei jūsų prenumeratos galiojimas baigėsi arba ji buvo išjungta „Microsoft�
 
 2. Puslapyje Produktai ir paslaugos pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti.
 
-3. Dalyje Atsiskaitymas spustelėkite **Suaktyvinti iš naujo dabar**.  Jei įjungtas Kortelių rodinys, spustelėkite daugtaškį tarp Pavadinimas ir Turimas kiekis, tada meniu pasirinkite Aktyvinti iš naujo. **Pastaba**: Jei nerandate ieškomos prenumeratos, gali teikti pakeisti Prenumeratos būsenos filtrą į **Visos**, esantį puslapio viršuje.
+3. Dalyje Atsiskaitymas spustelėkite **Aktyvinti iš naujo dabar**.  Jei įjungtas Kortelių rodinys, spustelėkite daugtaškį tarp Pavadinimas ir Turimas kiekis, tada meniu pasirinkite Aktyvinti iš naujo. **Pastaba**: Jei nerandate ieškomos prenumeratos, gali teikti pakeisti Prenumeratos būsenos filtrą į **Visos**, esantį puslapio viršuje.
 
 4. Patvirtinkite savo mokėjimo duomenis, kad atnaujintumėte esamą mokėjimo informaciją. Kai įvesite mokėjimo būdą, spustelėkite **Aktyvinti iš naujo**.
 

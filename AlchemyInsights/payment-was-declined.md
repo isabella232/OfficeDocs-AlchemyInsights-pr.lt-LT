@@ -20,9 +20,9 @@ ms.locfileid: "43161014"
 ---
 # <a name="your-payment-was-declined"></a>Jūsų mokėjimas atmestas
 
-„Microsoft“ keletą kartų bandys nuskaičiuoti mokestį nuo jūsų kortelės per 3–4 savaites po sąskaitos faktūros datos.  Jei šį atsiskaitymo laikotarpį gavote tik vieną arba du pranešimus apie atmetimą, „Microsoft“ automatiškai dar kartą bandys nuskaičiuoti mokestį nuo jūsų mokėjimo priemonės.  
+„Microsoft“ keletą kartų per 3–4 savaites po sąskaitos faktūros išrašymo datos bandys nuskaičiuoti mokestį nuo jūsų kortelės.  Jei šį atsiskaitymo laikotarpį gavote tik vieną arba du pranešimus apie atmetimą, „Microsoft“ automatiškai dar kartą bandys nuskaičiuoti mokestį nuo jūsų mokėjimo priemonės.  
 
-**Svarbu**: jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie senosios kredito kortelės atmetimą, tą naują kortelę gali reikėti susieti su prenumerata.
+**Svarbu**: jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie senosios kredito kortelės atmetimą, naująją kortelę gali reikėti susieti su prenumerata.
 
 1. Eikite į **Atsiskaitymas > [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
@@ -38,6 +38,6 @@ ms.locfileid: "43161014"
 
 2. Spustelėkite **Įtraukti mokėjimo būdą**, pasirinkite norimą atnaujinti kortelę arba banko sąskaitą ir spustelėkite **Redaguoti**.
 
-3. Atnaujinkite mokėjimo būdo informaciją (vardą, nurodytą ant kortelės arba banko sąskaitoje, atsiskaitymo adresą, telefono numerį arba galiojimo pabaigos datą), tada spustelėkite **Įrašyti**.
+3. Atnaujinkite mokėjimo būdo informaciją (vardą ir pavardę, nurodytus ant kortelės arba banko sąskaitoje, atsiskaitymo adresą, telefono numerį arba galiojimo pabaigos datą), tada spustelėkite **Įrašyti**.
 
-4. Neužmirškite pakeisti, kaip mokate už prenumeratą (-as), į šį naują mokėjimo būdą. Norėdami gauti daugiau informacijos, žr. [Mokėjimo metodų įtraukimas, atnaujinimas ir pašalinimas](https://go.microsoft.com/fwlink/?linkid=2118133). 
+4. Neužmirškite mokėjimo už prenumeratą (-as) būdo pakeisti į šį naują mokėjimo būdą. Norėdami gauti daugiau informacijos, žr. [Mokėjimo metodų įtraukimas, atnaujinimas ir pašalinimas](https://go.microsoft.com/fwlink/?linkid=2118133). 

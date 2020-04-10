@@ -35,7 +35,7 @@ Mokama suma atspindi licencijos kainą, padaugintą iš įsigytų licencijų kie
 
 Jei mokama suma yra kita nei tikėtasi, tam gali būti kelios priežastys:
 
-1. Licencijos įtraukiamos arba pašalinamos iš jūsų prenumeratos; kai licencijos pakeičiamos laikotarpio viduryje, tai atsispindi paskesnėje sąskaitoje faktūroje.  Atsižvelgiant į šį pakeitimą, į jūsų sąskaitą gali būti įskaityta suma pinigų ir atliktas pakartotinas mokėjimas.
+1. Į jūsų prenumeratą įtrauktos arba iš jos pašalintos licencijos. Kai licencijos pakeičiamos laikotarpio viduryje, tai atsispindi paskesnėje sąskaitoje faktūroje.  Atsižvelgiant į šį pakeitimą, į jūsų sąskaitą gali būti įskaityta pinigų suma arba atliktas pakartotinas mokėjimas.
 
 2. Prenumerata buvo atšaukta.  Po atšaukimo gausite sąskaitą faktūrą, kurioje nurodytas neapmokėtas likutis, atėmus visus kreditus.
 
