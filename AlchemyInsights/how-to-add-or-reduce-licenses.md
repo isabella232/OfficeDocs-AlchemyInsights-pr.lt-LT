@@ -1,5 +1,5 @@
 ---
-title: Kaip įtraukti arba sumažinti licencijų
+title: Kaip pridėti arba sumažinti licencijas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664292"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207381"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Kaip įtraukti arba sumažinti licencijų
+# <a name="how-to-add-or-reduce-licenses"></a>Kaip pridėti arba sumažinti licencijas
 
-Čia aprašoma, kaip pašalinti "Office 365" licencijų arba įsigyti daugiau licencijų.
+Štai kaip pridėti / pašalinti licencijas.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Eikite į **Atsiskaitymo > [prenumeratos](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Pasirink narystę, iš kurios norite pridėti/pašalinti licencijos.
+2. Pasirinkite prenumeratą, iš kurios norite pridėti/ pašalinti licencijas.
 
-3. Pasirinkite **Pridėti/šalinti licencijas**.
+3. Spustelėkite **Pridėti/šalinti licencijas**.
 
-4. Įveskite skaičių vartotojų, kurių reikia.
+4. Įveskite bendrą reikalingų vartotojų skaičių. Pavyzdžiui, jei šiuo metu turite 25 licencijas ir norite pašalinti 5, šiame lauke įveskite 20.
 
-    Pvz., jei jūs šiuo metu turi 25 licencijas ir norite pašalinti 5, šiame lauke įveskite 20.
+5. Spustelėkite **Pateikti keitimą**.
 
-5. Pasirinkti **pateikimo keisti**.
+**Pastaba:** bet koks naujas mokestis (licencijos padidinimas) arba kreditas (licencijos sumažėjimas) bus rodomas kitoje sąskaitoje.
 
-> [!NOTE]
-> Bet kokį naują mokestį (licencijos padidėjimas) ar grąžinimo (licencijos sumažėjimas) bus rodomi kitoje sąskaitoje.
+Informacijos, kaip priskirti licencijas, [ieškokite Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Norėdami daugiau sužinoti, pamatyti, [pirkti licencijų savo "Office 365" verslui prenumerata](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Papildomi ištekliai**
+ **Išteklių**
   
-- [Pašalinti licencijos iš jūsų "Office 365" verslui prenumerata](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Prenumeratos licencijų tvarkymas – įsigykite arba pašalinkite](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Atšaukti "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- ["Office 365" verslui atšaukimas](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Pirkti kito "Office 365" verslui prenumerata](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Kitos "Office 365" verslui prenumeratos įsigijimas](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

@@ -1,5 +1,5 @@
 ---
-title: Išplėsti naudoti bandomąją versiją "Office 365" verslui
+title: Bandomosios versijos išplėtimas "Office 365" verslui
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665012"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207345"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Išplėsti jūsų bandomoji "Office 365" verslui
+# <a name="extend-your-trial-for-office-365-for-business"></a>Bandomosios versijos išplėtimas "Office 365" verslui
 
-Jei bandomosios prenumeratos yra per 15 dienų, t. y. iki ir teismo nebuvo buvo pratęstas prieš, galite išplėsti savo teismą už dar 30 dienų laikotarpiui. Galima padaryti tik šį vienintelį kartą.
+Bandomąją versiją galite pratęsti dar 30 dienų laikotarpiui. Tai galite padaryti tik vieną kartą.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į **Atsiskaitymo** \> [produktai & paslaugos](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Pasirinkite bandomosios prenumeratos, jūs norite pratęsti.
+2. Pasirinkite bandomąją prenumeratą, kurią norite išplėsti.
 
-3. Sekcijos **skyriai & veiksmus** pasirinkite **išplėsti tyrimo** ir atlikdami likusius veiksmus.
+3. Spustelėkite **Išplėsti bandomąją versiją** ir atlikite vedlio veiksmus.
 
-4. Jums reikia pateikti kredito kortelės informaciją, išplėsti savo teismą. Mes nekainuos jūsų kreditinės kortelės bandymus pratęsti.
+4. Norėdami išplėsti bandomąją versiją, turite pateikti kredito kortelės informaciją. Mes neimti jūsų kreditinės kortelės už bandomąjį pratęsimą.
 
-Norėdami sužinoti daugiau, peržiūrėkite [išplėsti naudoti bandomąją versiją "Office 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Norėdami sužinoti daugiau apie bandomosios versijos išplėtimą arba nuoseklias instrukcijas, [žr.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
