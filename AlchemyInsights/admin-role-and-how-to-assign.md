@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737089"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183405"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="85fe6-102">Kas yra administratoriaus vaidmenys ir kaip juos priskirti?</span><span class="sxs-lookup"><span data-stu-id="85fe6-102">What are admin roles and how do you assign them?</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="9b874-102">Administratoriaus vaidmenys</span><span class="sxs-lookup"><span data-stu-id="9b874-102">Admin roles</span></span>
 
-<span data-ttu-id="85fe6-103">Atrodo, kad turite keletą klausimų apie administratoriaus vaidmenis.</span><span class="sxs-lookup"><span data-stu-id="85fe6-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="85fe6-104">Šie straipsniai turėtų atsakyti į visus jūsų klausimus.</span><span class="sxs-lookup"><span data-stu-id="85fe6-104">These articles should answer all your questions.</span></span>
-  
-- [<span data-ttu-id="85fe6-105">Apie administratoriaus vaidmenis</span><span class="sxs-lookup"><span data-stu-id="85fe6-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- <span data-ttu-id="9b874-103">Administravimo centre pasirinkite [vaidmenys,](https://admin.microsoft.com/Adminportal/Home#/roles) kad priskirtumėte arba sužinotumėte daugiau apie administratoriaus vaidmenis.</span><span class="sxs-lookup"><span data-stu-id="9b874-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
 
-- [<span data-ttu-id="85fe6-106">Administratoriaus vaidmenų priskyrimas</span><span class="sxs-lookup"><span data-stu-id="85fe6-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-<span data-ttu-id="85fe6-107">Neradote atsakymo į savo klausimą?</span><span class="sxs-lookup"><span data-stu-id="85fe6-107">Didn't answer your question?</span></span> <span data-ttu-id="85fe6-108">jokių problemų!</span><span class="sxs-lookup"><span data-stu-id="85fe6-108">No problem!</span></span> <span data-ttu-id="85fe6-109">Pasinaudokite parinktimi "Leiskite mums paskambinti" ir pasikalbėkite su palaikymo inžinieriumi.</span><span class="sxs-lookup"><span data-stu-id="85fe6-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- <span data-ttu-id="9b874-104">Tada pasirinkite vaidmens pavadinimą (-us) ir spustelėkite **priskirti vaidmenį**arba spustelėkite **palyginti vaidmenis** ir sužinokite daugiau.</span><span class="sxs-lookup"><span data-stu-id="9b874-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
