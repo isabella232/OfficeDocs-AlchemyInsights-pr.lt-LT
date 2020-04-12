@@ -11,27 +11,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 7a1629c43fbb263439515e5e2c9dff53ab26d667
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: f66eb26df12412162e6f092c2528138bb30b7eb2
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211618"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231427"
 ---
-# <a name="unlocking-an-account"></a><span data-ttu-id="80de4-102">Paskyros atrakinimas</span><span class="sxs-lookup"><span data-stu-id="80de4-102">Unlocking an account</span></span>
+# <a name="unlocking-an-account"></a><span data-ttu-id="b7567-102">Paskyros atrakinimas</span><span class="sxs-lookup"><span data-stu-id="b7567-102">Unlocking an account</span></span>
 
-<span data-ttu-id="80de4-103">Gali būti, kad vartotojai užblokuojami „Office 365“ dėl netinkamų slaptažodžio įvedimo bandymų.</span><span class="sxs-lookup"><span data-stu-id="80de4-103">It's possible users are locked out of Office 365 due to bad password attempts.</span></span> <span data-ttu-id="80de4-104">Norėdami padėti vartotojams prisijungti prie „Microsoft 365“, galite bandyti atlikti šiuos veiksmus.</span><span class="sxs-lookup"><span data-stu-id="80de4-104">To help users sign back in to Microsoft 365, you can attempt the following steps.</span></span>
+<span data-ttu-id="b7567-103">Gali būti, kad vartotojai užblokuojami „Office 365“ dėl netinkamų slaptažodžio įvedimo bandymų ar kitų kompromituojančių situacijų.</span><span class="sxs-lookup"><span data-stu-id="b7567-103">It's possible users are locked out of Office 365 due to bad password attempts or other compromises.</span></span> <span data-ttu-id="b7567-104">Norėdami padėti vartotojams prisijungti prie „Microsoft 365“, **prieš atidarydami palaikymo užklausą galite bandyti atlikti toliau nurodytus veiksmus**.</span><span class="sxs-lookup"><span data-stu-id="b7567-104">To help users sign back in to Microsoft 365, **you can attempt the following steps before opening a Support Request**.</span></span> 
 
-<span data-ttu-id="80de4-105">**Nustatyti vartotojo slaptažodį iš naujo**</span><span class="sxs-lookup"><span data-stu-id="80de4-105">**Reset the User Password**</span></span>
+<span data-ttu-id="b7567-105">**Ribojamas el. paštas**</span><span class="sxs-lookup"><span data-stu-id="b7567-105">**Email Restricted**</span></span>
 
-1. <span data-ttu-id="80de4-106">Administravimo centre eikite **Vartotojai > [Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span><span class="sxs-lookup"><span data-stu-id="80de4-106">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+<span data-ttu-id="b7567-106">Jei esate administratorius ir vienam iš jūsų vartotojų apribotas el. laiškų siuntimas, galite [atblokuoti paskyrą patys](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span><span class="sxs-lookup"><span data-stu-id="b7567-106">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span></span> <span data-ttu-id="b7567-107">Vartotojas galės siųsti el. laiškus per valandą po apribojimo pašalinimo.</span><span class="sxs-lookup"><span data-stu-id="b7567-107">The user will be able to send email within an hour after removing the restriction.</span></span>
 
-2. <span data-ttu-id="80de4-107">Pasirinkite vartotoją ir spustelėkite **Iš naujo nustatyti slaptažodį**.</span><span class="sxs-lookup"><span data-stu-id="80de4-107">Select the user and click **Reset Password**.</span></span>
+<span data-ttu-id="b7567-108">**Nustatyti vartotojo slaptažodį iš naujo**</span><span class="sxs-lookup"><span data-stu-id="b7567-108">**Reset the User Password**</span></span>
 
-<span data-ttu-id="80de4-108">**Įsitikinkite, kad vartotojui leidžiama prisijungti**</span><span class="sxs-lookup"><span data-stu-id="80de4-108">**Make sure the user is allowed to sign in**</span></span>
+1. <span data-ttu-id="b7567-109">Administravimo centre eikite į **Vartotojai > Aktyvūs vartotojai**.</span><span class="sxs-lookup"><span data-stu-id="b7567-109">In the admin center, go to **Users > Active Users**.</span></span>
 
-1. <span data-ttu-id="80de4-109">Administravimo centre eikite **Vartotojai > [Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span><span class="sxs-lookup"><span data-stu-id="80de4-109">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+2. <span data-ttu-id="b7567-110">Pasirinkite vartotoją ir spustelėkite **Iš naujo nustatyti slaptažodį**.</span><span class="sxs-lookup"><span data-stu-id="b7567-110">Select the user and click **Reset Password**.</span></span>
 
-2. <span data-ttu-id="80de4-110">Pasirinkite vartotoją ir spustelėkite **Daugiau veiksmų (...)**, tada spustelėkite **Redaguoti prisijungimo būseną**.</span><span class="sxs-lookup"><span data-stu-id="80de4-110">Select the user and click **More Actions (...)**, then click **Edit sign-in status**.</span></span> 
+<span data-ttu-id="b7567-111">**Įsitikinkite, kad vartotojui leidžiama prisijungti**</span><span class="sxs-lookup"><span data-stu-id="b7567-111">**Make sure the user is allowed to sign in**</span></span>
 
-<span data-ttu-id="80de4-111">Daugiau slaptažodžio nustatymo iš naujo scenarijų, įskaitant savitarnos slaptažodžio nustatymą iš naujo, žr. [Iš naujo nustatyti „Microsoft 365“ verslui slaptažodžius](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="80de4-111">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+1. <span data-ttu-id="b7567-112">Administravimo centre eikite į **Vartotojai > Aktyvūs vartotojai**.</span><span class="sxs-lookup"><span data-stu-id="b7567-112">In the admin center, go to **Users > Active Users**.</span></span>
+
+2. <span data-ttu-id="b7567-113">Pasirinkite vartotoją ir spustelėkite **Daugiau veiksmų (...)**, tada spustelėkite **Redaguoti prisijungimo būseną**.</span><span class="sxs-lookup"><span data-stu-id="b7567-113">Select the user and click **More Actions (...)**, then click **Edit sign-in status**.</span></span>
+
+<span data-ttu-id="b7567-114">Daugiau slaptažodžio nustatymo iš naujo scenarijų, įskaitant savitarnos slaptažodžio nustatymą iš naujo, žr. [Iš naujo nustatyti „Microsoft 365“ verslui slaptažodžius](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="b7567-114">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+
+
+<span data-ttu-id="b7567-115">Jei esate administratorius, jei vienas iš jūsų vartotojų apribotas siųsti el. laiškus, galite [atblokuoti paskyrą patys](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **neatidarę palaikymo atvejo**.</span><span class="sxs-lookup"><span data-stu-id="b7567-115">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **without opening a support case**.</span></span> <span data-ttu-id="b7567-116">Vartotojas galės siųsti el. laiškus per valandą po apribojimo pašalinimo.</span><span class="sxs-lookup"><span data-stu-id="b7567-116">The user will be able to send email within an hour after removing the restriction.</span></span>
+
+<span data-ttu-id="b7567-117">Tarnyba neleidžia vartotojui siųsti el. laiškų aptikus pažeistos paskyros ir / arba pašto šiukšlių siuntimo įrodymus.</span><span class="sxs-lookup"><span data-stu-id="b7567-117">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="b7567-118">Atsargumo sumetimais, atlikite veiksmus, skirtus vartotojo[reagavimui į pažeistą el. pašto paskyrą „Office 365“](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="b7567-118">As a precaution, follow the steps in [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) for the user.</span></span>
