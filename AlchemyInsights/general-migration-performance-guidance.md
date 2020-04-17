@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958546"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537749"
 ---
 # <a name="general-migration-performance-guidance"></a>Bendrosios perkėlimo našumo rekomendacijos
 
+
 **Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
 
-**Perkėlimo našumo rekomendacijos**
+**Perkėlimo parinktys**
 
-Perkėlimo našumui įtakos gali turėti tinklo infrastruktūra, failo dydis, perkėlimo laikas ir ribojimas. Tai suprasdami, galėsite lengviau planuoti ir maksimaliai padidinti perkėlimo efektyvumą.
+Yra įvairių parinkčių, skirtų turinio perkėlimui į „SharePoint Online“, atsižvelgiant į failų, kuriuos reikia perkelti, dydį ir kiekį. Parinkčių sąrašą rasite [čia](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Bendrosios perkėlimo našumo rekomendacijos](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Norėdami gauti daugiau informacijos apie turinio perkėlimą, apsilankykite žemiau pateiktuose saituose.
+
+- [„SharePoint“ perkėlimo įrankis](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Darbo su perkėlimo tvarkytuvu pradžia](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
