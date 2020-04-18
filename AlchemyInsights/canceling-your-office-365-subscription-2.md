@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665480"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552605"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="897a6-102">Atšaukti "Office 365" prenumeratą?</span><span class="sxs-lookup"><span data-stu-id="897a6-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="8421a-102">Atšaukti "Office 365" prenumeratą?</span><span class="sxs-lookup"><span data-stu-id="8421a-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="897a6-103">Mes labai Atsiprašome, jei priimtumėte!</span><span class="sxs-lookup"><span data-stu-id="897a6-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="8421a-103">Atsiprašome, kad tave pamatysime!</span><span class="sxs-lookup"><span data-stu-id="8421a-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="897a6-104">Remiantis jūsų organizacijos duomenis, manome, kad visos jūsų dabartinės prenumeratos yra daugiau nei 25 priskirti licencijas.</span><span class="sxs-lookup"><span data-stu-id="897a6-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="897a6-105">Galite pašalinti vartotojų tol, kol jūs turite mažiau nei 25, tada eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="897a6-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="897a6-106">Skiltyje **Parametrai & veiksmus** pasirinkite **atšaukti prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="897a6-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="8421a-104">Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos einamosios prenumeratos turi daugiau nei 25 priskirtas licencijas.</span><span class="sxs-lookup"><span data-stu-id="8421a-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="8421a-105">Galite pašalinti vartotojus, kol turėsite mažiau nei 25, tada eikite į **puslapį Atsiskaitymo** \> [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="8421a-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="8421a-106">Sekcijoje **Parametrai & Veiksmai** pasirinkite Atšaukti **prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="8421a-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="897a6-107">Taip pat galite pasirinkti, **reikia pagalbos,** kreipkitės į support engineer.</span><span class="sxs-lookup"><span data-stu-id="897a6-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
+<span data-ttu-id="8421a-107">Arba pasirinkite **Reikia pagalbos** pasikalbėti su palaikymo inžinieriumi.</span><span class="sxs-lookup"><span data-stu-id="8421a-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
   
-<span data-ttu-id="897a6-108">Norėdami sužinoti daugiau, peržiūrėkite [atsisakyti prenumeratos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="897a6-108">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+<span data-ttu-id="8421a-108">**Grąžinimas: bet koks proreitinguotas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.**</span><span class="sxs-lookup"><span data-stu-id="8421a-108">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+
+<span data-ttu-id="8421a-109">**Pastaba**: jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir turėtumėte matyti **parinktį Atšaukti prenumeratą** **nustatymuose & Veiksmai**.</span><span class="sxs-lookup"><span data-stu-id="8421a-109">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+
+<span data-ttu-id="8421a-110">Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="8421a-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
