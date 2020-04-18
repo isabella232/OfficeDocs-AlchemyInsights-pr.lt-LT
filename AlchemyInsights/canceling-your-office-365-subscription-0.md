@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665552"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552677"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Atšaukti "Office 365" prenumeratą?
 
-Mes labai Atsiprašome, jei priimtumėte!
+Atsiprašome, kad tave pamatysime!
   
-Remiantis jūsų organizacijos duomenis, manome, kad visos jūsų dabartinės prenumeratos turi mažiau kaip 25 vietų. Norėdami atsisakyti prenumeratos internete, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje. Skiltyje **Parametrai & veiksmus** pasirinkite **atšaukti prenumeratą**.
+Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos einamosios prenumeratos turi mažiau nei 25 vietas. Norėdami atšaukti prenumeratą internetu, eikite į **puslapį Atsiskaitymo** \> [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054) Sekcijoje **Parametrai & Veiksmai** pasirinkite Atšaukti **prenumeratą**.
   
-Norėdami sužinoti daugiau, peržiūrėkite [atsisakyti prenumeratos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Grąžinimas: bet koks proreitinguotas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.** 
+
+**Pastaba**: jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir turėtumėte matyti **parinktį Atšaukti prenumeratą** **nustatymuose & Veiksmai**. 
+
+Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

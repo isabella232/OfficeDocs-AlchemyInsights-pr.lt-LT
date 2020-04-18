@@ -1,5 +1,5 @@
 ---
-title: Perjungti į kitą "Office 365" verslo planas
+title: Perėjimas prie kito "Office 365" verslui plano
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665984"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548006"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Perjungti į kitą "Office 365" verslo planas
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Perėjimas prie kito "Office 365" verslui plano
 
-Kai jūsų verslo pokyčių, arba jums reikia daugiau "Office 365" funkcijų, galite naujinti į naują planą.
+Kai jūsų įmonė pasikeičia arba jums reikia daugiau "Office 365" funkcijų, galite atnaujinti į naują planą.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į ** \> Atsiskaitymo [produktai & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Pasirinkite, kurį norite atnaujinti prenumeratą.
+2. Pasirinkite prenumeratą, kurią norite atnaujinti.
 
-3. Prenumeratos informacijos puslapyje, pasirinkite **atnaujinti**.
+3. Išsamios [prenumeratos informacijos puslapyje](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)pasirinkite **Atnaujinti**.
 
-4. Rasti planą, į kurį norite atnaujinti, tada pasirinkite mygtuką **atnaujinti** .
+4. Raskite planą, į kurį norite naujinti, tada pasirinkite mygtuką **Naujinti.**
 
-5. Įveskite skaičių licencijas, kurios jums reikia, pasirinkite, ar norite mokėti kiekvieną mėnesį ar metus, tada pasirinkite **kasos**.
+5. Įveskite reikiamą licencijų skaičių, pasirinkite, ar mokėti kiekvieną mėnesį, ar už visus metus, tada pasirinkite **Paimti**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [atnaujinti kitą planą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Norėdami sužinoti daugiau, [žr.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)
