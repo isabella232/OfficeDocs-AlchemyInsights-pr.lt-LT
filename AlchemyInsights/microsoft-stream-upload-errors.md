@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591553"
+ms.locfileid: "43599361"
 ---
 # <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="8d1c3-102">"Microsoft Stream" nusiuntimo klaidos</span><span class="sxs-lookup"><span data-stu-id="8d1c3-102">Microsoft Stream upload errors</span></span>
 
