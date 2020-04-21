@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591532"
+ms.locfileid: "43599396"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Apriboti numatytąsias vaizdo įrašo įkėlimo teises
 
