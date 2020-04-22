@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP ir SMTP parametrus programoje "Outlook" žiniatinklyje
+title: POP, IMAP ir SMTP parametrai internetinėje "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556501"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721143"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP nustatymus "Outlook" žiniatinklyje
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP parametrus, skirtus "Outlook" žiniatinklyje
 
-Jei norite įtraukti "Office 365" paskyros į kitą pašto programą, palaikančią POP, IMAP ir SMTP, Štai jums reikia rankiniu būdu serverio parametrus:
+Jei norite įtraukti savo "Microsoft 365" abonementą į kitą pašto programėlę, palaikančią POP, IMAP arba SMTP, toliau pateikiami neautomatiniai serverio parametrai, kurių jums reikės:
   
 - **IMAP serverio vardas:** outlook.office365.com
-- **IMAP prievado:** 993
-- **IMAP šifravimo metodą:** SSL/TLS
-- **POP serverio varde:** outlook.office365.com  
-- **POP uosto:** 995  
-- **POP šifravimo metodą:** SSL/TLS  
+- **IMAP prievadas:** 993
+- **IMAP šifravimo metodas:** SSL/TLS
+- **POP serverio vardas:** outlook.office365.com  
+- **POP prievadas:** 995  
+- **POP šifravimo metodas:** SSL/TLS  
 - **SMTP serverio vardas:** smtp.office365.com
-- **SMTP prievado:** 587
-- **SMTP šifravimo metodą:** STARTTLS
+- **SMTP prievadas:** 587
+- **SMTP šifravimo metodas:** Starttls (-ų) paleidimo

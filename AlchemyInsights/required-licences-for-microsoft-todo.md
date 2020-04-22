@@ -1,9 +1,9 @@
 ---
-title: Licencijos dėl Microsoft ToDo
+title: Būtinos "Microsoft ToDo" licencijos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552179"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722664"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Licencijos dėl Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Būtinos "Microsoft ToDo" licencijos
 
-[Licencijos dėl Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Būtinos "Microsoft ToDo" licencijos](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Vartotojas turi būti viena iš šių licencijų naudoti "Microsoft" ToDo:
+Norint naudoti "Microsoft ToDo", vartotojas turi turėti vieną iš šių licencijų:
   
 - Verslo pagrindai
 
-- Verslo klasės Premium
+- Verslo klasės premium klasės (Business Premium)
 
-- "Microsoft" 365 Firstline F1
+- Rodyti originalų straipsnį anglų kalba: 3155
 
-- Bet kokios Office 365 Enterprise planas
+- Bet kuris "Office 365 Enterprise" planas
 
-- Saugios gamybos verslo
+- Saugus produktyvus verslas
 
-- Užtikrinti produktyvios Enterprise E3
+- Saugi produktyvi įmonė E3
 
-- Užtikrinti gamybos įmonė E5
+- Saugi produktyvi įmonė E5
 
-- Bet kokios Office 365 ugdymo planas
+- Bet kuris "Office 365" švietimo planas
 
-- "Microsoft" 365 A3
+- Rodyti originalų straipsnį anglų kalba: 3085555
 
-- "Microsoft" 365 A5
+- Rodyti originalų straipsnį anglų kalba: 308555
 
-Be tinkamą produkto licenciją, vieną iš šių versijų Exchange Online reikia ToDo galėtų sinchronizuoti vartotojo duomenis:
+Be galiojančios produkto licencijos, norint,Kad "ToDo" galėtų sinchronizuoti vartotojo duomenis, reikalinga viena iš šių "Exchange Online" versijų:
   
-- Keičiasi interneto plano 1
+- "Exchange Online" 1 planas
 
-- Keičiasi interneto planas 2
+- "Exchange Online" 2 planas
 
-- Keitimo pagrindai
+- "Exchange Essentials"
 
-- Mainų interneto kioskas
+- "Exchange Online" kioskas
 
-- Mainų internete POP
+- "Exchange Online" POP
 
-[Priskirti licencijas su "PowerShell" Office 365 "vartotojų abonementai](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Licencijų priskyrimas vartotojų abonementams naudojant "Office 365 PowerShell"](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

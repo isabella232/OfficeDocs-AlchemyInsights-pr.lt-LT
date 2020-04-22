@@ -1,9 +1,9 @@
 ---
-title: Išjungti UPN sinchronizavimo
+title: UPN sinchronizavimas išjungtas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: f390d659b191fa4c44bd7c8acb32409cd3021489
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33bc7e30d41ff70e2ce55d946202acf45dbcb0f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726112"
 ---
-# <a name="upn-sync-disabled"></a>Išjungti UPN sinchronizavimo
+# <a name="upn-sync-disabled"></a>UPN sinchronizavimas išjungtas
 
-Jei pradėjote sinchronizavimą su Azure AD iki 2016 kovo 30 vykdyti šį Azure AD PowerShell cmdlet, kad UPN minkštas tinka jūsų organizacijai tik:
+Jei pradėjote sinchronizuoti su Azure AD iki 2016 m. kovo 30 d., vykdykite šią "Azure AD PowerShell" cmdlet įgalinti UPN minkštas rungtynės tik jūsų organizacijai:
   
- **Rinkinys-MsolDirSyncFeature-EnableSoftMatchOnUpn funkcija-leidžia $True**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Įgalinti $True**
   
-UPN minkštas rungtynės įjungiamas automatiškai, organizacijose, kuriose pradėti sinchronizavimą su Azure AD arba po 2016 m. kovo 30 d.
+UPN minkštas atitikimas automatiškai įjungiamas organizacijoms, kurios pradėjo sinchronizuoti su Azure AD 2016 m. kovo 30 d. arba po jo.
   
-Norėdami sužinoti daugiau apie įgalinimą minkštas rungtynės UPN ir kitus sinchronizavimo funkcijos, prašome peržiūrėti [Azure AD Connect sinchronizavimo tarnybos funkcijas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Norėdami sužinoti daugiau apie "UPN" ir kitų sinchronizavimo funkcijų minkštų atitikmenų įgalinimą, [žr.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

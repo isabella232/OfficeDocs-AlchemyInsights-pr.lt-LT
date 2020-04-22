@@ -1,9 +1,9 @@
 ---
-title: POP, IMAP ir SMTP parametrai "Outlook.com"
+title: POP, IMAP ir SMTP parametrai, skirti Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 92b350c15883d4058eb38f451f5bcc792603c2f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebbb0a1ed03d86e27766968d1f2ce35da6ac8ede
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535790"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744813"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP, IMAP ir SMTP parametrai "Outlook.com"
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP, IMAP ir SMTP parametrai, skirti Outlook.com
 
-Jei norite pridėti paskyrą "Outlook.com" el. pašto programą, palaikančią POP arba IMAP, čia yra serverio parametrus, jums reikia:
+Jei norite įtraukti savo Outlook.com abonementą į pašto programėlę, palaikančią POP arba IMAP, toliau pateikiami serverio parametrai, kurių jums reikės:
   
 - **IMAP serverio vardas:** outlook.office365.com
-- **IMAP prievado:** 993
-- **IMAP šifravimo metodą:** TLS
-- **POP serverio varde:** outlook.office365.com  
-- **POP uosto:** 995  
-- **POP šifravimo metodą:** TLS  
+- **IMAP prievadas:** 993
+- **IMAP šifravimo metodas:** Tls
+- **POP serverio vardas:** outlook.office365.com  
+- **POP prievadas:** 995  
+- **POP šifravimo metodas:** Tls  
 - **SMTP serverio vardas:** smtp.office365.com
-- **SMTP prievado:** 587
-- **SMTP šifravimo metodą:** STARTTLS
+- **SMTP prievadas:** 587
+- **SMTP šifravimo metodas:** Starttls (-ų) paleidimo
 
-Sužinokite daugiau apie [įtraukti "Outlook.com" abonementą į kitą el. pašto programą arba išmaniojo įrenginio](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Sužinokite daugiau apie [Outlook.com abonemento įtraukimą į kitą pašto programėlę arba išmanųjį įrenginį](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).

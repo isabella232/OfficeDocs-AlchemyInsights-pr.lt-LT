@@ -1,9 +1,9 @@
 ---
-title: Bando rasti teismą?
+title: Bandai rasti bandomąją versiją?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732338"
 ---
-# <a name="trying-to-find-a-trial"></a>Bando rasti teismą?
+# <a name="trying-to-find-a-trial"></a>Bandai rasti bandomąją versiją?
 
-Jei norite išbandyti naują paslaugą, galite rasti sąraše prenumeratos galima naudoti bandomąją versiją į "Microsoft" 365 administravimo centro.
+Jei norite išbandyti naują paslaugą, galite rasti bandomųjų prenumeratų sąrašą "Microsoft 365" administravimo centre.
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) psl.
+1. Administravimo centre eikite į **puslapį Atsiskaitymo** \> [pirkimo paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Pasirinkite abonementą, kuris atitinka jūsų poreikius, ir tada pasirinkite **gauti nemokamą bandomąją versiją**.
+2. Pasirinkite prenumeratą, atitinkančią jūsų poreikius, tada pasirinkite **Gauti nemokamą bandomąją versiją**.
 
     > [!NOTE]
-    > Ne visi prenumeratos yra prieinama per bandomąjį laikotarpį. Jei nematote mygtuką **gauti nemokamą bandomąjį laikotarpį** , kai jūs pele per prenumeratą, tai reiškia, kad teismo nėra.
+    > Ne visos prenumeratos pasiekiamos kaip bandomoji versija. Jei pelės žymeklį ant prenumeratos nematote mygtuko **Gauti nemokamą bandomąją versiją,** tai reiškia, kad bandomoji versija negalima.
   
-3. Jūsų gali paprašyti įvesti kredito kortelę arba kitos mokėjimo būdą teikti papildomą patikrinimą kaip saugumo priemonė. Būsite apmokestinti ne už šią nemokamą bandomąją versiją. Mes bus išlaikyti savo mokėjimo informaciją apie failą, ir negali juo naudotis bet pirkti be jūsų patvirtinimo.
+3. Jūsų gali būti paprašyta įvesti kredito kortelę ar kitą mokėjimo būdą, kad būtų galima pateikti papildomą patvirtinimą kaip saugumo priemonę. Jums nebus taikomas mokestis už šią nemokamą bandomąją versiją. Jūsų mokėjimo informaciją išsaugosime faile ir nenaudosime jos jokiam pirkimui be jūsų patvirtinimo.
 
-4. Pasirinkite **išbandyti dabar**.
+4. Pasirinkite **Išbandyti dabar**.

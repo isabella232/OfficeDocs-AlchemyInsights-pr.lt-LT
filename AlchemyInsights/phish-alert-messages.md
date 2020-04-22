@@ -1,38 +1,38 @@
 ---
-title: 2491 įspėjimo el. laiškus iš "Phish pareikšta dėl nuomininko ar naudotojo Rankinis valdymas" politikos
+title: 2491 Įspėjimo el. laiškus iš "Phish pristatytas dėl nuomotojo arba vartotojo nepaisyti" strategija
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391404"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758936"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Įspėjimo el. laiškus iš "Phish pareikšta dėl nuomininko ar naudotojo Rankinis valdymas" politikos
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Įspėjimo el. laiškus iš "Phish pristatytas dėl nuomotojo arba vartotojo nepaisyti" strategija
 
-Numatytasis įspėjimo strategiją pavadinimu "Phish pristatyta dėl nuomininko ar naudotojo nepaisyti" buvo iškočiojama nuomininkams Office 365 ATP P1 ir P2 licencijas. Jei gavote šį perspėjimą, atlikite šiuos veiksmus, siekiant ištirti:
+Numatytoji įspėjimo strategija, pavadinta "Phish Delivered dėl nuomotojo arba vartotojo nepaisyti" buvo iškočiojama nuomininkams su "Office 365" ATP P1 ir P2 licencijomis. Jei gavote šį įspėjimą, toliau pateikiami veiksmai, kuriuos reikia ištirti.
 
-1. Įspėjimo pranešimas, spustelėkite **Rodyti perspėjimą** eiti į puslapį **įspėjimus** , saugos & atitikties užtikrinimo centre.
+1. Įspėjimo pranešime spustelėkite **Peržiūrėti įspėjimą,** kad pereitumėte į saugos & atitikties centro puslapį **Įspėjimai.**
 
-2. Pasirinkite įspėjimo sudaryta galimybė **Peržiūrėti pranešimų sąraše** arba **peržiūrėti pranešimus "Internet Explorer"**. Abiem nurodytais būdais priimti jus į išsamią informaciją apie pranešimą, kuris apima pranešimą ID. Atkreipkite dėmesį, kad grėsmių naršyklė nuoroda bus automatiškai filtruoti įspėjimo kriterijus atitinkančius pranešimus. Reikia pakeisti datos filtras grėsmė "Internet Explorer".
+2. Pasirinkite įspėjimą, kad pamatytumėte parinktį **Peržiūrėti pranešimų sąrašą** arba **Peržiūrėti pranešimus naršyklėje**. Abi šios parinktys nuves jus prie pranešimo išsamios informacijos, kurioje yra pranešimo ID. Atminkite, kad threat explorer saitas automatiškai filtruoja pranešimus, atitinkančius įspėjimo kriterijus. Gali tekti koreguoti datos filtrą "Threat Explorer".
 
-Sukčiavimo apsimetant pranešimas buvo pristatytas dėl rankiniu būdu konfigūruojami nepaisyti:
+Apsimestinių svetainių pranešimas buvo pristatytas dėl neautomatiniu būdu sukonfigūruoto nepaisymo:
 
-- Leidžiama siuntėjo ar domeno vartotojo nustatytus.
+- Vartotojo nustatytas leidžiamas siuntėjas arba domenas.
 
-- Dėl leidžiamų siuntėją arba domeną, nustatytą apsaugos nuo pašto šiukšlių strategijos administratorius.
+- Leidžiamas siuntėjas arba domenas, kurį administratorius nustato apsaugos nuo pašto šiukšlių politikoje.
 
-- Leidžiamų IP adresą į ryšio filtravimo strategija.
+- Leidžiamas IP adresas ryšio filtro strategijoje.
 
-- Pašto srautas taisyklę (taip pat žinomas kaip transportavimo taisyklę), sukonfigūruotas leisti pranešimus.
+- Pašto srauto taisyklė (dar vadinama transportavimo taisykle), sukonfigūruota leisti pranešimus.
 
-Jei manote, kad pranešimas buvo neteisingai pažymėtas kaip sukčiavimo atvejį, naudokite į "Outlook" [ataskaitos pranešimas papildinys](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) pateikti pranešimą mėginius į "Microsoft".
+Jei manote, kad pranešimas buvo neteisingai pažymėtas kaip phish, naudokite "Outlook" [ataskaitų pranešimo papildinį](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) pateikti pranešimų pavyzdžių "Microsoft".

@@ -1,9 +1,9 @@
 ---
-title: 723 padaryti el. pašto pseudonimas pagrindinis vartotojo el. pašto
+title: 723 El. pašto pseudonimo pateikimas vartotojui pagrindiniu el. laišku
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735253"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721944"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Padaryti el. pašto pseudonimą vartotojo pagrindinis adresas
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>El. pašto pseudonimo uždarinėkite pagrindinį vartotojo adresą
 
-Instrukcijų ieškokite [kito vartotojo el. pašto pseudonimo pridėjimas](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Instrukcijų [ieškokite Kito vartotojo el. pašto pseudonimo įtraukimas](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Pastaba**: jei jūsų organizacijoje naudojamas Hibridinis režimas, turite pakeisti pagrindinį el. pašto adresą vietinėje "Exchange" organizacijoje. Daugiau informacijos rasite [pašto dėžutės el. pašto adresų pridėjimas arba pašalinimas](https://technet.microsoft.com/library/bb123794.aspx).
+**Pastaba:** jei jūsų organizacija veikia hibridiniu režimu, turite pakeisti pagrindinį el. pašto adresą vietinėje "Exchange" organizacijoje. Daugiau informacijos [ieškokite Pašto dėžutės el. pašto adresų įtraukimas arba šalinimas](https://technet.microsoft.com/library/bb123794.aspx).

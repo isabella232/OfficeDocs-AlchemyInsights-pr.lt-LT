@@ -1,9 +1,9 @@
 ---
-title: Naujausi duomenys poveikis
+title: Naujausi duomenys
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/12/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: d6017c9b71f34856d2d3823a960798dc1dcf8280
-ms.sourcegitcommit: ad6ae646d8b99f3c3b864ba3adb093970e8e8393
+ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41989946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724922"
 ---
-# <a name="recent-data-exposure"></a>Naujausi duomenys poveikis
+# <a name="recent-data-exposure"></a>Naujausi duomenys
 
-"Microsoft" buvo informuotas trečiosios šalies tyrėjas, kad duomenų bazės priegloba redacted Microsoft palaikymo duomenys buvo prieinama be autentifikavimo. 2019 m. gruodžio 31 d. "Microsoft" užtikrino duomenų bazę.
+Trečiosios šalies tyrėjas "Microsoft" sužinojo, kad duomenų bazė, kurioje saugomi redaguoti "Microsoft" palaikymo duomenys, buvo pasiekiama be autentifikavimo. 2019 m. gruodžio 31 d. "Microsoft" apsaugojo duomenų bazę.
 
-Esame įsipareigoję laikytis mūsų klientų privatumo ir saugumo ir imamės veiksmų, kad ateityje šios problemos būtų išvengta. Mes pradėjome pranešimus klientams, kurių duomenys buvo pateikti šiame redacted duomenų bazėje. Norėdami gauti daugiau informacijos, prašome kreiptis į [klientų informavimo informaciją, susijusią su neseniai pateikta informacija](https://aka.ms/privacyinfo).
+Esame įsipareigoję savo klientų privatumui ir saugumui ir imamės veiksmų, kad užkirstume kelią būsimiems šios problemos įvykiams. Pradėjome pranešimus klientams, kurių duomenys buvo pateikti šioje redaguotoje duomenų bazėje. Norėdami gauti daugiau informacijos, eikite į [Klientų informavimo informaciją, susijusią su naujausia informacija apie ekspoziciją](https://aka.ms/privacyinfo).

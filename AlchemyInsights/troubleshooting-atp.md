@@ -1,34 +1,34 @@
 ---
-title: Trikčių šalinimas Office 365 Išplėstinė grėsmę apsaugos
+title: "\"Office 365\" išplėstinės apsaugos nuo grėsmių trikčių diagnostika"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765251"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732410"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Trikčių šalinimas Office 365 Išplėstinė grėsmę apsaugos
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>"Office 365" išplėstinės apsaugos nuo grėsmių trikčių diagnostika
 
-- Ar pastebėjote, kad pranešimo pristatymas vėluoja? Naudoti [Dinaminis pateikimo](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) parinktį ATP saugos priedus politikoje. Tai padės išvengti vėlavimų laiško gavėjų apsaugant nuo kenkėjiškų failų.
+- Ar pastebite pranešimų pristatymo vėlavimą? Naudokite [atsaugaus](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) priedų strategijos parinktį Dinaminis pristatymas. Tai padės išvengti pranešimų delsos apsaugant gavėjus nuo kenkėjiškų failų.
 
-- Ar norite pranešti "Microsoft" klaidingų teigiamų ir klaidingų neigiamų rezultatų? Naudokite šią [nuorodą](https://www.microsoft.com/wdsi/filesubmission/) pateikti failus analizei.
+- Ar norite pranešti "Microsoft" apie klaidingus teigiamus arba klaidingus negatyvus? Naudokite šį [saitą](https://www.microsoft.com/wdsi/filesubmission/) norėdami pateikti analizei failus.
 
-- Ar žinote, kad galite įgalinti saugos saitai apsaugos vidaus elektroninio pašto siunčiami tarp jūsų organizacijos gavėjams? Atlikite šiuos veiksmus:
+- Ar žinojote, kad galite įgalinti saugių saitų apsaugą vidiniams el. laiškams, siunčiamiems tarp jūsų organizacijos gavėjų? Atlikite šiuos veiksmus:
 
-  1. Eikite į [https://protection.office.com](https://protection.office.com) ir prisijunkite naudodami visuotinio administratoriaus arba saugos administratoriaus abonemento.
+  1. Eikite [https://protection.office.com](https://protection.office.com) į visuotinio administratoriaus arba saugos administratoriaus abonementą ir prisijunkite naudodami.
 
-  2. Kairiajame naršymo srityje pagal **grėsmės valdymo**, pasirinkti **politikos** \> **Saugos saitai**.
+  2. Kairiosios naršymo srities dalyje **Grėsmių valdymas**pasirinkite **Strategijos** \> **saugios nuorodos**.
 
-  3. Sekcijoje **politikos, taikomos visos organizacijos** strategiją ir spustelėkite **Redaguoti**.
+  3. Sekcijoje **Strategijos, taikomos visai organizacijai,** pasirinkite strategiją ir spustelėkite **Redaguoti**.
 
-  4. Dalyje **Parametrai**leidžia **taikyti saugos saitai žinutės siunčiamos organizacijoje**.
+  4. Dalyje **Parametrai**įjunkite **Taikyti saugius saitus organizacijos siunčiamiems pranešimams**.

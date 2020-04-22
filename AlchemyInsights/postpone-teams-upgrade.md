@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758870"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kaip atidėti "Microsoft" varomų komandų atnaujinimą
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kaip atidėti "Microsoft" pagrįstų komandų versijos naujinimą
 
-Jei gavote informacijos apie "Microsoft" automatizuotą versijos naujinimą iš "Skype" verslui "Microsoft teams" ir norite atidėti automatinį versijos naujinimą vėlesnei datai, jūsų "Office 365 Global admin" gali prisijungti prie " [teams" administravimo portalo](https://admin.teams.microsoft.com/dashboard) ir pasirinkti mygtuką **atidėti** . Norėdami peržiūrėti naują nuomotojo automatinio versijos naujinimo į "Microsoft teams" datą, atnaujinkite puslapį "komandos administravimo portalas".
+Jei gavote pranešimą apie "Microsoft" pagrįstą automatinį versijos naujinimą iš "Skype" verslui į "Microsoft Teams" ir norite atidėti automatinį naujinimą į vėlesnę datą, visuotinis administratorius gali prisijungti prie ["Teams" administravimo portalo](https://admin.teams.microsoft.com/dashboard) ir pasirinkti mygtuką **Atidėti.** Norėdami pamatyti naują nuomotojo automatinio naujinimo į "Microsoft Teams" datą, atnaujinkite "Teams" administravimo portalo puslapį.
 
-**Pastaba:** Mygtukas **atidėti** bus pasiekiamas, tik jei gavote pranešimų centro pranešimą apie automatinį atnaujinimą. 
+**Pastaba:** Mygtukas **Atidėti** bus galimas tik gavus pranešimų centro pranešimą apie automatinį naujinimą. 
 
-Office 365 Global administratoriai taip pat galite paleisti [get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) daugiau sužinoti apie savo dabartinę naujinimo būseną. 
+Visuotiniai administratoriai taip pat gali paleisti [Get-CsTeamsUpgradeStatus,](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) kad sužinotumėte daugiau apie dabartinę versijos naujinimo būseną. 

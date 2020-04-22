@@ -1,9 +1,9 @@
 ---
-title: "\"Outlook.com\" slaptažodį - prancūzų"
+title: Outlook.com pakeisti slaptažodį - PRANCŪZŲ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721974"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Keitiklis votre LND de slaptažodį dans "Outlook.com"
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre mot de passe dans Outlook.com
 
-Votre LND de slaptažodį "Outlook.com" est le tam que votre LND de "Microsoft" Compte slaptažodį.
+Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.
 
-1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du LND de slaptažodį**.
-2. Nominali mesure de sécurité, vous pouvez être invité à confirmer votre identité à l'aide d'un kodas de sécurité.
-3. Entrez votre LND de slaptažodį actuel, votre nouveau LND de slaptažodį, puis sélectionnez **Enregistrer**.
+1. Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) à et sélectionnez **Sécurité du mot de passe**.
+2. Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l'aide d'un code de sécurité.
+3. Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.
 
-Si vous avez oublié votre LND de slaptažodį, accédez à la [puslapis de réinitialisation de LND compte de slaptažodį de "Microsoft"](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les kviečia.
+Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les kviečia.
 
-Si vous pensez que votre "Outlook.com" été piraté, voir [Mon compte "Outlook.com" été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Si vous pensez que votre Outlook.com été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).

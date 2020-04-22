@@ -1,9 +1,9 @@
 ---
-title: Kaip patikrinti savo "Outlook.com" paskyrą
+title: Kaip patvirtinti Outlook.com paskyrą
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511516"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743425"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Kaip patikrinti savo "Outlook.com" paskyrą
+# <a name="how-to-verify-your-outlookcom-account"></a>Kaip patvirtinti Outlook.com paskyrą
 
-Patvirtinimas dviem veiksmais padeda apsisaugoti, kad būtų sunkiau kitam prisijungdami prie "Microsoft" abonementą. Jis naudoja dvi tapatybės nustatymo: slaptažodis ir prisijungimo būdas (taip pat žinomas kaip saugos informacijos).
+Patvirtinimas dviem veiksmais padeda apsaugoti jus, nes kam nors kitam sunkiau prisijungti prie jūsų "Microsoft" paskyros. Jis naudoja dvi skirtingas tapatybės formas: slaptažodį ir kontaktinį metodą (dar vadinamą saugos informacija).
   
-Jei norite įjungti arba išjungti patvirtinimą dviem veiksmais:
+Norėdami įjungti arba išjungti patvirtinimą dviem veiksmais:
   
-1. Eikite į [saugos pagrindai puslapį](https://go.microsoft.com/fwlink/?linkid=842325) ir prisijunkite naudodami savo "Microsoft" abonementą.
-2. Pasirinkite **daugiau saugumo funkcijos**.
-3. Dalyje **patvirtinimas dviem veiksmais**pasirinkite **nustatyti patvirtinimą dviem veiksmais,** ir vykdykite nurodymus.
+1. Eikite į [puslapį Saugos pagrindai](https://go.microsoft.com/fwlink/?linkid=842325) ir prisijunkite naudodami savo "Microsoft" abonementą.
+2. Pasirinkite **Daugiau saugos parinkčių**.
+3. Dalyje **Patvirtinimas dviem veiksmais**pasirinkite Nustatyti **patvirtinimą dviem veiksmais** ir vykdykite nurodymus.
 
-Jei įjungus patvirtinimą dviem veiksmais, visada reikės dviejų rūšių identifikavimo. Jei jūs prarasite savo susisiekimo būdas, jūsų slaptažodį tik negausite jus atgal į jūsų sąskaitą - ir tai gali užtrukti 30 dienų norint atgauti prieigą.
+Jei įjungsite patvirtinimą dviem veiksmais, jums visada reikės dviejų identifikavimo formų. Jei pametėte kontaktinį metodą, vien tik jūsų slaptažodis negrąžins jūsų atgal į paskyrą ir tai gali užtrukti 30 dienų, kad atgautumėte prieigą.
   
 Sužinokite daugiau apie [patvirtinimą dviem veiksmais](https://go.microsoft.com/fwlink/?linkid=872270).
   

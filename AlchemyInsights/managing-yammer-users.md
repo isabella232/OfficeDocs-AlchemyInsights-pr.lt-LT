@@ -2,7 +2,7 @@
 title: "\"Yammer\" vartotojų valdymas"
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762469"
 ---
-# <a name="managing-yammer-users"></a>"Yammer" naudotojų valdymas
+# <a name="managing-yammer-users"></a>"Yammer" vartotojų valdymas
 
-1. Daugiau informacijos apie "Yammer" vartotojų valdymą "Office 365" rasite peržiūrėję " [Yammer" vartotojų valdymas per visą jų gyvavimo ciklą iš "office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)". Tai apima informaciją apie:
+1. Informacijos apie "Yammer" vartotojų valdymą iš "Microsoft 365" rasite ["Yammer" vartotojų valdymas jų gyvavimo cikle](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Tai apima informaciją apie:
 
   - Vartotojo kūrimas
 
-  - Vartotojų trynimas
+  - Vartotojų naikinimas
 
-  - "Yammer" vartotojų valdymas iš "Office 365"
+  - "Yammer" vartotojų valdymas iš "Microsoft 365"
 
-2. Norėdami gauti informacijos apie vartotojų valdymą iš "Yammer" administravimo konsolės, žiūrėkite [įtraukti, blokuoti arba pašalinti "Yammer" vartotojus](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . Tai apima:
+2. Informacijos apie vartotojų valdymą iš "Yammer" administratoriaus konsolės rasite ["Yammer" vartotojų įtraukimas, blokavimas arba šalinimas.](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) Tai apima:
 
-  - Kviesti arba pašalinti naudotojus
+  - Vartotojų kvietimas arba šalinimas
 
-  - Pakviesdami Svečių naudotojus
+  - Kviesti svečius vartotojams
 
-  - Eksportuoti vartotojų sąrašą
+  - Vartotojų sąrašo eksportavimas
 
-3. Daugiau informacijos apie išorinių vartotojų pridėjimą, pašalinimą ir valdymą rasite [išorinių pranešimų siuntimo dalyvių įtraukimas į "Yammer" tinklą](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Informacijos apie išorinių vartotojų įtraukimą, šalinimą ir valdymą [ieškokite Išorinių pranešimų dalyvių įtraukimas į "Yammer" tinklą](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

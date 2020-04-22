@@ -1,28 +1,28 @@
 ---
-title: "\"Outlook.com\" pakeisti pašto dėžutės išvaizdą"
+title: Outlook.com pakeisti pašto dėžutės išvaizdą
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547695"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721970"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Pakeisti savo "Outlook.com" pašto dėžutės išvaizdą
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com pašto dėžutės išvaizdos keitimas
 
-Galite pakeisti išvaizdą, "Outlook.com" pranešimų sąraše ir skaitymo sritį.
+Pranešimų sąrašo ir skaitymo srities išvaizdą galite keisti Outlook.com.
 
-- Norėdami pakeisti išdėstymą, pranešimo lange, atidaryti savo parinktis [skaitymo sritis](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Norėdami pakeisti, kaip jūsų elektroninio pašto išrikiuoti, pranešimų sąrašo viršuje pasirinkite **filtro** > **Rūšiuoti pagal** ir pasirinkite, kaip norite rūšiuoti savo el. pašto adresą.
-- Grupuoti pranešimus pagal pokalbį, atidarykite [pranešimą organizacijos](https://outlook.live.com/mail/options/mail/layout/conversations) parinktis.
-- Įjungti arba išjungti orientuota dėžutę, atidarykite [išdėstymo](https://outlook.live.com/mail/options/mail/layout/focused) variantų.
+- Norėdami pakeisti pranešimo lango maketą, atidarykite [skaitymo srities](https://outlook.live.com/mail/options/mail/layout/readingPane) parinktis.
+- Norėdami pakeisti el. laiško rūšiavimą, pranešimų sąrašo viršuje pasirinkite **Filtruoti** > **rūšiavimą pagal** ir pasirinkite, kaip norite rūšiuoti el. laiškus.
+- Norėdami grupuoti pranešimus pagal pokalbį, atidarykite [pranešimų organizacijos](https://outlook.live.com/mail/options/mail/layout/conversations) parinktis.
+- Norėdami įjungti arba išjungti sutelktą aplanką Gauta, atidarykite [maketo](https://outlook.live.com/mail/options/mail/layout/focused) parinktis.

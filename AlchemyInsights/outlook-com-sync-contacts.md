@@ -1,9 +1,9 @@
 ---
-title: Sinchronizuokite kontaktus į "Outlook.com"
+title: Kontaktų sinchronizavimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511783"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722276"
 ---
-# <a name="sync-contacts"></a>Sinchronizuokite kontaktus
+# <a name="sync-contacts"></a>Kontaktų sinchronizavimas
 
-"Outlook" sinchronizuoti kontaktus, galite sukurti [žmonėms](https://outlook.live.com/people/) per kitus įrenginius ir programėles, pvz., "Outlook", skirta "Android" ir "Outlook", skirta "iOS". Sužinokite, kaip [sukurti kontaktų](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+"Outlook" sinchronizuoja kontaktus, kuriuos sukuriate [žmonės](https://outlook.live.com/people/) kituose įrenginiuose ir programėlėse, pvz., "Outlook", skirtoje "Android", ir "Outlook", skirtą "iOS". Sužinokite, kaip [kurti kontaktus](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-Importuoti kontaktus (pvz., kontaktus iš kito el. pašto abonemento prisijungėte prie "Outlook.com" abonementą) nėra sinchronizuojami. Sužinokite, kaip [importuoti kontaktų duomenis](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
+Importuoti kontaktai (pvz., kontaktai iš kitos el. pašto paskyros, prie Outlook.com paskyros) nesinchronizuojami. Sužinokite, kaip [importuoti kontaktus](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).

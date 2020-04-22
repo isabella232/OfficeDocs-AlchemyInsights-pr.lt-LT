@@ -1,9 +1,9 @@
 ---
-title: Jūsų "Outlook.com" abonemento uždarymas
+title: Outlook.com paskyros uždarymas
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: 0ab0f867c399d3e5ac6015afdcb4d8295e6fd839
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee611022bf4929d81f0c631e20419222bea12e16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537055"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722132"
 ---
-# <a name="close-your-outlookcom-account"></a>Jūsų "Outlook.com" abonemento uždarymas
+# <a name="close-your-outlookcom-account"></a>Outlook.com paskyros uždarymas
 
-1. Eikite į puslapį, [uždaryti savo paskyrą](https://go.microsoft.com/fwlink/p/?linkid=845493) .
-2. Vykdykite nurodymus puslapyje, kad įsitikinkite, kad jūsų sąskaita yra pasirengęs būti uždarytas, ir pasirinkite **kitą**.
-3. Perskaitykite sąrašą ir žymės langelius, kad perskaitėte kiekvieną elementą.
-4. Išplečiamajame sąraše **pasirinkite priežastį** pasirinkite paskyros panaikinimo priežastį.
-5. Pasirinkite **pažymėti paskyrą naikinti**.
+1. Eikite į [puslapį Uždaryti paskyrą.](https://go.microsoft.com/fwlink/p/?linkid=845493)
+2. Vadovaukitės puslapyje pateiktomis instrukcijomis, kad įsitikintumėte, jog paskyra parengta uždaryti, ir pasirinkite **Pirmyn**.
+3. Perskaitykite sąrašą ir pažymėkite žymės langelius, kad patvirtintumėte, jog perskaitėte kiekvieną elementą.
+4. Išplečiamajame sąraše **Pasirinkti priežastį** pasirinkite priežastį, dėl kurios uždarote paskyrą.
+5. Pasirinkite **Pažymėti paskyrą uždarymui**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [uždarome jūsų "Outlook.com" paskyrą](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
+Jei norite sužinoti daugiau, žr [Outlook.com.](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy)
   

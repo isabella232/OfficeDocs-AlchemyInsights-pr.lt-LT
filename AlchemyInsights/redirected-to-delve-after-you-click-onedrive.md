@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" verslui žiniatinklio \"OneDrive\" nukreipia į \"Delve\""
+title: "\"OneDrive\" verslui \"OneDrive\" peradresuoja į \"Delve\""
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571223"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722818"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Nukreipta į Delve spustelėjus "OneDrive"
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Peradresuoti į "Delve" spustelėjus "OneDrive"
 
 Peržiūrėkite mūsų išsamų [trikčių šalinimo vadovą](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Norėdami išspręsti šią problemą, Office 365 administratorius turi suteikti vartotojams teisę kurti savo svetainę mano svetainės. Taip yra todėl, kad "OneDrive" verslui puslapis sukuriamas mano svetainėse.
+Norėdami išspręsti šią problemą, administratorius turi suteikti vartotojams teisę kurti savo svetainę Mano svetainės. Taip yra todėl, kad "OneDrive" verslui puslapis sukuriamas mano svetainėse.
 
 Norėdami suteikti šią teisę, atlikite šiuos veiksmus:
 
-1. "SharePoint" administravimo centre spustelėkite **vartotojo profiliai**.
+1. "SharePoint" administravimo centre spustelėkite **vartotojų profiliai**.
 
-2. Sekcijoje **žmonės** spustelėkite **tvarkyti vartotojo teises**.
+2. Sekcijoje **Žmonės** spustelėkite **Tvarkyti vartotojo teises**.
 
-3. Įtraukite vartotojus, kuriems reikia teisių, kad sukurtumėte savo mano svetainių svetainę. Pagal numatytuosius nustatymus šis parametras nustatytas visiems, **išskyrus išorinius vartotojus**.
+3. Įtraukite vartotojų, kuriems reikia teisių, kad sukurtumėte savo svetainę Mano svetainės. Pagal numatytuosius nustatymus šis parametras nustatytas kaip **Visi, išskyrus išorinius vartotojus**.
 
-4. Įtraukę vartotoją, vartotojus ar grupę įsitikinkite, kad pasirinktas pridėtas vartotojas, vartotojai arba grupė, slinkite į skyrių **leidimai** , tada pažymėkite žymės langelį šalia **kurti asmeninę svetainę (reikalingą asmeninei saugojimui, naujienų informacijos santrauką ir po jo esantį turinį)**.
+4. Įtraukę vartotoją, vartotojus arba grupę, įsitikinkite, kad pasirinktas pridėtas vartotojas, vartotojai arba grupė, slinkite į **teisių** sekciją, tada pažymėkite žymės langelį šalia **Kurti asmeninę svetainę (reikalinga asmeninei saugyklai, naujienų informacijos santraukai ir stebimui turiniui)**.
 
-5. Spustelėkite **gerai**, ir tada turite vartotojo pereikite į puslapį OneDrive sukurti svetainę.
+5. Spustelėkite **Gerai**, tada vartotojas pereikite prie "OneDrive" puslapio, kad sukurtumėte svetainę.

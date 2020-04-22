@@ -1,8 +1,8 @@
 ---
-title: Paslaugos įvykio vyksta
+title: Vykdomas tarnybos incidentas
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: 5b4291339b52cc2cf0325cd115051ef79deecac5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 535b0b35548044e950c3b29e6479bff50882b227
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550523"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719775"
 ---
-# <a name="service-incident-in-progress"></a>Paslaugos įvykio vyksta
+# <a name="service-incident-in-progress"></a>Vykdomas tarnybos incidentas
 
-Jums gali turėti įtakos paslaugų įvykio arba konsultavimo, šiuo metu tiriama. Naujausią būseną galite patikrinti [Sveikatos tarnybos](https://admin.microsoft.com/adminportal/home#/servicehealth) puslapyje.
+Jums gali turėti įtakos tarnybos incidentas arba patariamasis, kuris šiuo metu tiriamas. Naujausią būseną galite patikrinti apsilankę puslapyje [Tarnybos sveikata.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Jūsų patogumui, jūs rasite trumpą informaciją apie šį įvykį, toliau:
+Jūsų patogumui, jūs galite rasti šio incidento santrauką žemiau:
   
-> **Įvykio numeris:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Įvykio numeris:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Poveikio aprašas: {ImpactDescription}

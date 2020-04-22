@@ -1,8 +1,8 @@
 ---
-title: Trūksta SharePoint Online terminas parduotuvė sąlygos
+title: "\"SharePoint Online\" terminų saugykloje trūksta sąlygų"
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: a7d455a9efe675f4a56f920b220db32949c019a7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 773e68c7a9c9f89c94b280a05428be92cd8217a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053197"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736834"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Trūksta SharePoint Online terminas parduotuvė sąlygos
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>"SharePoint Online" terminų saugykloje trūksta sąlygų
 
-Terminai SharePoint Online terminas parduotuvėje jūs tikitės pamatyti neatrodo arba yra su pertrūkiais rodomi.
+"SharePoint Online" terminų saugyklos sąlygos, kurias tikitės matyti, nerodomos arba su pertraukomis rodomos.
   
-Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą pamačiau šią problemą, prašome prisijungti palaikymo atvejį. Mes suprantame, kad 24 valandas gali atrodyti kaip ilgą laiką. Daugeliu atvejų jau dirbame su sprendimu, todėl prašome duoti mums bent 24 valandas.
+Jei praėjo daugiau nei 24 valandos nuo to laiko, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo atvejo. Mes suprantame, kad 24 valandos gali atrodyti kaip ilgas laikas. Daugeliu atvejų mes jau dirbame su sprendimu, todėl prašome duoti mums bent 24 valandas.
   

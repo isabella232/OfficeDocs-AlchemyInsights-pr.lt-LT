@@ -3,7 +3,7 @@ title: Prenumeratos atnaujinimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666020"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741835"
 ---
-# <a name="subscription-recurring-billing"></a>Prenumeratos pasikartojančių sąskaitų
+# <a name="subscription-recurring-billing"></a>Prenumeratos periodinis atsiskaitymas
 
-Jei norite žinoti, kada jūsų kas mėnesį ar kasmet "Office 365" prenumeratos apmokės (jei **pasikartojančios atsiskaitymo** įjungta) arba baigiasi (jei **pasikartojančios atsiskaitymo** išjungtas):
+Jei norite sužinoti, kada bus išrašyta sąskaita už mėnesinę arba metinę prenumeratą (jei **įjungtas periodinis atsiskaitymas)** arba jos galiojimo laikas (jei **periodinis atsiskaitymas** išjungtas):
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Abonemento, kurį norite daugiau sužinoti apie, pagal **atsiskaitymo**, pamatyti **Renews ant** arba **Expiring ant** datos.
+2. Prenumeratos, apie kurią norite sužinoti daugiau, dalyje **Atsiskaitymas**rasite **lauke Atnaujinimas** arba **Baigiasi** data.
 
-4. Atlikti keitimus, pasirinkite **Redaguoti** ir tada **pasikartojančios atsiskaitymo** parametrų srityje pasirinkite **Išjungti** jį išjungti. Jei pasikartojančių sąskaitų jau išjungta, pasirinkite **kas mėnesį** ar **kartą** jį įjungti.
+4. Norėdami atlikti pakeitimą, pasirinkite **Redaguoti,** tada srityje **Periodinio atsiskaitymo** parametrai pasirinkite **Išjungti,** kad jį išjungtumėte. Jei periodinis atsiskaitymas jau išjungtas, pasirinkite **Kas mėnesį** arba **Vieną,** kad jį įjungtumėte.
 
-Jei norite sužinoti daugiau, peržiūrėkite [periodinių mokesčių išjungti arba įjungti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
