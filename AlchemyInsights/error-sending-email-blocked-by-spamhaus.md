@@ -1,9 +1,9 @@
 ---
-title: Klaida siunčiant laišką užblokavo SpamHaus
+title: Klaida siunčiant laišką užblokuotas SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527146"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714266"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Klaida siunčiant laišką: kliento kompiuterio blokuoti naudojant Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Klaida siunčiant el. laišką: Kliento pagrindinis kompiuteris užblokuotas naudojant "Spamhaus"
 
-IP adresą, kuris siunčiamas pranešimas yra blokuojamų svetainių sąrašą, priklausanti [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Priežastis yra užblokuotas Spamhaus pavojus apima pažeista mašinos viešasis IP adresas, ir interneto paslaugų teikėjo (ISP) politiką. Galimus sprendimus yra:
+IP adresas, kuris išsiuntė pranešimą, yra blokų sąraše, priklausančiame ["Spamhaus".](https://go.microsoft.com/fwlink/p/?linkid=123245) Nepageidaujamo e. Paštas yra užblokuotos paskyros, įkompromisiniai įrenginiai, bendrinami viešuoju IP adresu, ir interneto paslaugų teikėjo (ISP) strategijos. Galimi pataisymai yra:
   
-- Užblokuotų gaunamų pranešimų į "Office 365", kur jums kontroliuoti šaltinio el. pašto serverio, jums reikia nustatyti priežastis ir pašalinti blokas iš Spamhaus interneto svetainėje.
+- Užblokuotiems gaunamiems pranešimams, kuriuose valdote šaltinio el. pašto serverį, turite nustatyti priežastį ir pašalinti bloką iš "Spamhaus" svetainės.
 
-- Užblokuotų gaunamų pranešimų į "Office 365", kai šaltinio IP adresas priklauso kam nors kitam, adresas savininkas turi pašalinti blokas iš Spamhaus svetainėje. Jei IP adresas su politikos blokas sąrašą (PBL), savininkas gali paskirti kitą statinį IP adresą arba pašalinti adresą iš to PBL.
+- Užblokuotiems gaunamiems pranešimams, kuriuose šaltinio IP adresas priklauso kam nors kitam, adreso savininkas turi pašalinti bloką iš "Spamhaus" svetainės. Jei IP adresas yra strategijos blokų sąraše (PBL), savininkas gali priskirti kitą statinį IP adresą arba pašalinti adresą iš PBL.
 
-- Užblokuotų siunčiamų pranešimų iš "Office 365" domeno, galite gauti šį klaidos jei pranešimai yra nukreipiami per 3rd party paslaugų. WHOIS paieškos įrankį galite rasti blokuojamų IP adresų savininkas.
+- Užblokuotų siunčiamų pranešimų iš domeno, prijungto prie "Microsoft", galite gauti šią klaidą, jei pranešimai nukreipiami per trečiosios šalies tarnybą. Galite naudoti WHOIS peržvalgos įrankį, kad rastumėte užblokuotą IP adreso savininką.

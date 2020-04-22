@@ -1,9 +1,9 @@
 ---
-title: Nepavykusio srauto taisymas
+title: Nepavyko srauto taisymas
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 465c4e9fe300eecb05b38abe589c8d845dc6e440
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714122"
 ---
-# <a name="fix-a-flow-that-failed"></a>Nepavykusio srauto taisymas
+# <a name="fix-a-flow-that-failed"></a>Nepavyko nustatyti srauto
 
-1. Eikite į ["Microsoft Flow](https://flow.microsoft.com/)" ir viršutiniame dešiniajame spustelėkite piktogramą pranešimai. (Arba mobiliojoje programėlėje pasirinkite skirtuką veikla.) Pasirinkite srautą, kuriam nepavyko Peržiūrėti išsamios informacijos.
+1. Eikite į ["Microsoft Flow"](https://flow.microsoft.com/)ir viršutiniame dešiniajame kampe spustelėkite piktogramą Pranešimai. (Arba programoje mobiliesiems pasirinkite skirtuką Veikla.) Pasirinkite srautą, kurio nepavyko peržiūrėti.
     
-2. Raskite veiksmą su raudonu šauktuko simboliu, kad pamatytumėte srauto klaidos pranešimą.
+2. Raskite veiksmą su raudona šauktuku, kad pamatytumėte srauto klaidos pranešimą.
     
-3. Atsižvelgiant į klaidos pranešimą, turėtumėte galėti redaguoti srautą ir jį pataisyti. 
+3. Atsižvelgiant į klaidos pranešimą, turėtumėte galėti redaguoti srautą ir ją pataisyti. 
     
 [Dažni srauto gedimai](https://go.microsoft.com/fwlink/?linkid=872110)
   

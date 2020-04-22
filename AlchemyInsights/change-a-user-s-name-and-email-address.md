@@ -1,5 +1,5 @@
 ---
-title: Vartotojo vardą ir el. pašto adreso keitimas
+title: Vartotojo vardo ir el. pašto adreso keitimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665408"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715784"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Vartotojo vardą ir el. pašto adreso keitimas
+# <a name="change-a-users-name-and-email-address"></a>Vartotojo vardo ir el. pašto adreso keitimas
 
-Lengva pakeisti vartotojo vardą ir el. pašto adresą į "Office 365". Eikite į **vartotojų** \> [Active vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) puslapis ir pasirinkite Redaguoti jų informaciją vartotojui. Taip pat galite naudoti šiame straipsnyje nuoseklių nurodymų:
+Pakeisti vartotojo vardą ir el. pašto adresą "Microsoft 365" paprasta. Eikite į puslapį **Vartotojai** \> [Aktyvūs vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) ir pasirinkite vartotoją, kad galėtumėte redaguoti savo informaciją. Šį straipsnį taip pat galite naudoti nuoseklioms instrukcijoms:
   
-[Pakeisti vartotojo vardą ir el. pašto adresą į "Office 365"](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Vartotojo vardo ir el. pašto adreso keitimas "Microsoft 365"](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Pastaba**: Jei pakeisite vartotojo pagrindinis el. pašto adresą, savo senuoju el. pašto adresu bus galioja gaunami el. laiškai (tai vyksta automatiškai). Taip pat, jei jūsų organizacija yra hibridinis valstybėje, visus el. paštas ir vartotojo vardo keitimus reikia būti daroma vietinės Active Directory ir tada sinchronizuojami su debesimi.
+ **Pastaba**: jei pakeisite pagrindinį vartotojo el. Pašto adresą, jo senas el. Pašto adresas vis tiek galios el. Paštui gauti (tai nutinka automatiškai). Be to, jei jūsų organizacija yra hibridinės būsenos, visi el. pašto ir vartotojo vardo pakeitimai turi būti atliekami vietinėje "Active Directory" ir tada sinchronizuojami su debesimi.

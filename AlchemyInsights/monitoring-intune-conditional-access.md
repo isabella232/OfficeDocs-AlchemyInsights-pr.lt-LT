@@ -1,31 +1,31 @@
 ---
-title: Stebėsenos Intune sąlyginės prieigos
+title: Stebėjimo Intune sąlyginė prieiga
 ms.author: pebaum
 author: pebaum
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 16da5065f510a32f18c1fde4aa2f0f7c0ac9f73e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 924dc9cc741697b3784203d5f441769f7601b8d1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548939"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713690"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Šalinkite triktis naudodami Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>"Microsoft Intune" trikčių šalinimas
 
-Peržiūrėti išteklių spręsti savo problemą dabar žemiau.
+Peržiūrėkite toliau išvardytus išteklius, kad išspręstumėte problemą dabar.
   
-1. Naudoti [Intune trikčių šalinimo portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti kai dažni gedimai. Peržiūrėti daugiau informacijos [šiame dokumente ](https://docs.microsoft.com/intune/help-desk-operators).
+1. Naudokite [Intune trikčių diagnostikos portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti kai kurias dažnai pasitaikančias triktis. Peržiūrėkite [šį dokumentą, ](https://docs.microsoft.com/intune/help-desk-operators)jei norite gauti daugiau informacijos.
     
-2. Peržiūrėti [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)rasti atsakymus ir dažnų problemų sprendimus.
+2. Peržiūrėkite ["Intune TechNet", ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)kad rastumėte atsakymus ir dažniausiai pasitaikančių problemų sprendimus.
     
-3. Peržiūrėkite [Paslaugų sveikatos](https://portal.office.com/AdminPortal/Home#/servicehealth) pamatyti paslaugos būseną. 
+3. Peržiūrėkite [tarnybos sveikatą,](https://portal.office.com/AdminPortal/Home#/servicehealth) kad pamatytumėte paslaugos būseną. 
     
-4. Peržiūrėti [Intune dokumentų](https://docs.microsoft.com/intune/) planavimo, how-to, trikčių diagnostikos straipsniuose ir daugiau. 
+4. Peržiūrėkite ["Intune" dokumentaciją,](https://docs.microsoft.com/intune/) skirtą planuojant, kaip?, "Articles" trikčių diagnostiką ir kt. 
     
 

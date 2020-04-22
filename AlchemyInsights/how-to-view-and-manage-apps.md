@@ -3,7 +3,7 @@ title: Kaip peržiūrėti ir tvarkyti programas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717132"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Kaip peržiūrėti ir tvarkyti programas
 
-Galite peržiūrėti programėlės į "Microsoft" 365 administravimo centro. 
+Programėles galite peržiūrėti "Microsoft 365" administravimo centre. 
 
-1. Administravimo centro, eikite į **atsiskaitymo** > [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **Atsiskaitymo** > [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. **Prekių ir paslaugų &** puslapyje, pasirinkite skirtuką **programos** .
+2. Puslapyje **Produktai & paslaugos** pasirinkite skirtuką **Programos.**

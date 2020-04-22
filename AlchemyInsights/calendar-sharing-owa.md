@@ -1,5 +1,5 @@
 ---
-title: 616 kalendoriaus bendrinimas
+title: 616 Kalendoriaus bendrinimas
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,19 +12,19 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711999"
 ---
-# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues su kalendoriaus bendrinimas "Outlook"
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues su kalendoriaus bendrinimu "Outlook"
 
-- Jei nematote kalendoriaus užimtumo informacijos kitų kalendoriuose arba kiti žmonės negali matyti užimtumo informacijos jūsų kalendoriuje, naudokite [„Microsoft Office 365“ palaikymo ir atkūrimo pagalbinę priemonę](https://diagnostics.office.com/).
+- Jei kituose kalendoriuose nematote kalendoriaus užimtumo informacijos arba jei kiti žmonės jūsų kalendoriuje nemato užimtumo informacijos, naudokite ["Microsoft" palaikymo ir atkūrimo pagalbinę priemonę, skirtą "Microsoft 365".](https://diagnostics.office.com/)
 
 **Papildomi ištekliai:**
 
 - [„Outlook“ kalendoriaus bendrinimas su kitais žmonėmis](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [Bendrinkite savo kalendorių programoje "Outlook" verslui](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Kalendoriaus bendrinimas internetinėje "Outlook" žiniatinklyje verslui](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

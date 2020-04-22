@@ -1,40 +1,40 @@
 ---
-title: Stebėsenos sąlyginės prieigos
+title: Sąlyginės prieigos stebėjimas
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538766"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713726"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Stebėsenos sąlyginės prieigos Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Sąlyginės prieigos mainams stebėjimas
 
-Vartotojams skirta su sąlygine prieiga gausite pranešimas el. paštu, jei jie neatitinka jūsų organizacijos suteikiant prieigą keliami reikalavimai. Norėdami išspręsti, rekomenduojame vieną ar kelis iš šių sprendimų:
+Vartotojai, kuriems taikoma sąlyginė prieiga, gaus pranešimo el. laišką, jei neatitinka jūsų organizacijos prieigos reikalavimų. Norėdami išspręsti, rekomenduojame vieną ar daugiau iš šių sprendimų:
   
-- Jei prietaisas yra preziumuojamas, gautų, patarti vartotojui eiti į programėlę įmonės portalą ir patikrinkite, ar rodomas įmonės portale. Jei ne, vartotojas turėtų registruotis įrenginį.
+- Jei manoma, kad įrenginys bus įtrauktas, patarkite vartotojui eiti į įmonės portalo programėlę ir patikrinti, ar jis rodomas įmonės portale. Jei ne, vartotojas turėtų užregistruoti įrenginį.
     
-- Azure portale rasite apsilankę **Intune \> prietaiso atitikties**. Po **monitoriumi** spustelėkite **įrenginio atitiktį**. Rodyti jūsų prietaiso atitikties ataskaitą, kad patikrinti, kad vartotojo įrenginys pažymimas kaip suderinamas. 
+- Azure portale eikite į **Intune \> įrenginio atitiktis**. Dalyje **Monitorius** spustelėkite **Įrenginio atitiktis**. Peržiūrėkite įrenginio atitikties ataskaitą, kad patikrintumėte, ar vartotojo įrenginys pažymėtas kaip suderinamas. 
     
-- Azure portale rasite apsilankę **Intune \> prietaiso atitikties**. Dalyje **tvarkyti**spustelėkite **strategijos**. Atitikties strategijos sąraše, patikrinkite, kad profilis yra priskirtas jūsų vartotojo įrenginio. Jei nėra Vartotojo profilis yra priskirtas, tada Intune nebus galima patvirtinti įrenginio atitikties būklę. 
+- Azure portale eikite į **Intune \> įrenginio atitiktis**. Dalyje **Tvarkyti**spustelėkite **Strategijos**. Atitikties strategijų sąraše patikrinkite, ar jūsų vartotojo įrenginiui priskirtas profilis. Jei profilis nepriskirtas, "Intune" negalės patvirtinti įrenginio atitikties būsenos. 
     
-- Redaguoti vartotojo sąlyginės prieigos priskyrimo.
+- Redaguokite vartotojo sąlyginės prieigos priskyrimą.
     
-1. Azure portale rasite apsilankę **Intune \> sąlyginės prieigos \> politika**
+1. Azure portale eikite į **Intune \> sąlyginės prieigos \> strategijos**
     
-2. Iš sąrašo pasirinkite politiką
+2. Pasirinkite strategiją iš sąrašo
     
-3. Spustelėkite **vartotojai ir grupės**
+3. Spustelėkite **Vartotojai ir grupės**
     
-4. Nukreipti tam tikrą politiką kažkas, įtraukti juos į sąrašus **įtraukti** . Siekiant užtikrinti, kad asmuo yra praleista politiką, įtraukti juos į sąrašą **neįtraukti** . 
+4. Norėdami taikyti pagal tam tikrą strategiją kam nors, įtraukite ją į sąrašą **Įtraukti.** Norėdami užtikrinti, kad asmuo nebūtų įtrauktas į strategiją, įtraukite jį į **sąrašą Neįtraukti.** 
     
-Skaityti daugiau: [kaip stebėti sąlyginės prieigos priemonės](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Skaityti daugiau: [Kaip stebėti sąlyginės prieigos įrenginius](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

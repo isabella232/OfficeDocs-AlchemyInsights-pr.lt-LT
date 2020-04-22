@@ -3,7 +3,6 @@ title: Viešųjų aplankų kūrimas
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715368"
 ---
 # <a name="creating-public-folders"></a>Viešųjų aplankų kūrimas
 
-Jūsų vartotojams naudoti viešuosius aplankus į "Office 365", jums reikia sukurti bent vieną viešojo aplanko pašto dėžutės. Jei norite sukurti:
+Kad vartotojai galėtų naudoti viešuosius aplankus, turėsite sukurti bent vieną viešojo aplanko pašto dėžutę. Norėdami sukurti:
   
-1. "Microsoft" 365 administravimo centro, eikite į **Admin centrų** \> **mainai**.
+1. "Microsoft 365" administravimo centre eikite į **Administravimo centrai** \> **Exchange**.
 
-2. Eikite į **viešuosius aplankus** \> **viešųjų aplankų pašto dėžutėms**, o tada spustelėkite **pridėti**.
+2. Eikite į **Viešieji aplankai** \> **Viešųjų aplankų pašto dėžutės**, tada spustelėkite **Įtraukti**.
 
-3. **Viešojo aplanko pašto dėžutės**, nurodykite viešojo aplanko pašto dėžutės pavadinimą.
+3. **Viešojo aplanko pašto dėžutėje**pateikite viešojo aplanko pašto dėžutės pavadinimą.
 
 4. Spustelėkite **Įrašyti**.
 
-Sukūrę pašto dėžutės, galite pradėti kurti atskirus aplankus arba liepkite savo vartotojams pradėti [kuriant ir naudojant viešųjų aplankų "Outlook"](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Sukūrę pašto dėžutę, galite pradėti kurti atskirus aplankus arba nurodyti vartotojams [pradėti kurti ir naudoti viešuosius aplankus programoje "Outlook".](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
   

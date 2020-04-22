@@ -1,9 +1,9 @@
 ---
-title: Nustatyti aplanko Gauta taisyklę veiklos audito žurnaluose
+title: Nustatyti aplanko Gauta taisyklės veiklą audito žurnaluose
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716432"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Nustatyti aplanko Gauta taisyklę veiklos audito žurnaluose
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Nustatyti aplanko Gauta taisyklės veiklą audito žurnaluose
 
-Audito žurnalo paieška: į "Office 365" sauga & atitikties užtikrinimo centre galite peržiūrėti aplanko Gauta taisyklę įvykių (kurti, keisti ir ištrinti aplanko Gauta taisykles).
+Galite naudoti audito žurnalo iešką "Microsoft 365" saugos & atitikties centre norėdami peržiūrėti aplanko Gauta taisyklės įvykius (aplanko Gauta taisyklių kūrimą, modifikavimą ir naikinimą).
 
-1. Prisijunkite prie [Office 365 saugumo & atitikties užtikrinimo centre](https://protection.office.com/).
+1. Prisijunkite prie ["Microsoft 365" saugos & atitikties centro](https://protection.office.com/).
 
-2. Grįžti į **paieškos** > **audito žurnalo paieškos** puslapyje.
+2. Eikite į **ieškos** > **tikrinimo žurnalo ieškos** puslapį.
 
-3. Pasirinkite datos intervalą laukuose **pradžios data** ir **pabaigos data** .
+3. Laukuose **Pradžios data** ir **Pabaigos data** pasirinkite dienų seką.
 
-4. **Exchange pašto dėžučių veikla**, patikrinkite, ar **veiklos** laukas yra nustatytas **New-InboxRule sukurti/keisti/įjungti/išjungti aplanko Gauta taisyklę**.
+4. Dalyje **Exchange pašto dėžučių veikla**patikrinkite, ar laukas **Veikla** nustatytas kaip **Nauja aplanko GautaTaisyklė Kurti/modifikuoti/įjungti/išjungti aplanko Gauta taisyklę**.
 
 5. Spustelėkite **Ieškoti**.
 
-Rezultatų sąraše pasirinkite audito įrašas. Detalių išskleidžiamojo meniu spustelėkite **Daugiau informacijos**. **Parametrų** srityje rodoma informacija apie aplanko Gauta taisyklę parametrai.
+Rezultatuose pasirinkite audito įrašą. Išsamios informacijos iškeliamamejį meniu spustelėkite **Daugiau informacijos**. Informacija apie aplanko Gauta taisyklės parametrus rodoma lauke **Parametrai.**
 
-Daugiau informacijos ieškokite [renkant jei vartotojo sukurti aplanko Gauta taisyklę](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Daugiau informacijos [ieškokite Nustatymas, ar vartotojas sukūrė aplanko Gauta taisyklę](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

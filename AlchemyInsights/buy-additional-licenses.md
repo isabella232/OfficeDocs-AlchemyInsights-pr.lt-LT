@@ -1,5 +1,5 @@
 ---
-title: Pirkti papildomas licencijas
+title: Papildomų licencijų įsigijimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664724"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712179"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Pirkti papildomos "Office 365" licencijas
+# <a name="buy-additional-licenses"></a>Papildomų licencijų įsigijimas
 
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Raskite prenumeratą, kurios norite pridėti licencijas, ir tada pasirinkite **Pridėti/šalinti licencijas**.
+2. Raskite prenumeratą, į kurią norite įtraukti licencijų, tada pasirinkite **Įtraukti/šalinti licencijas**.
 
-    [Ką daryti, jei aš nematau nuorodą Pridėti/šalinti?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Ką daryti, jei nematau saito Pridėti/šalinti?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. **Visos licencijos** lauke, įveskite skaičių licencijas, kurių reikia šiai prenumeratai ir pasirinkite **pateikti pakeisti**. Pavyzdžiui, jei turite 100 licencijos ir jums reikia pridėti 5 daugiau, įveskite 105.
+3. Lauke **Iš viso licencijų** įveskite bendrą licencijų, kurių reikia šiai prenumeratai, skaičių, tada pasirinkite **Pateikti pakeitimą**. Pavyzdžiui, jei turite 100 licencijų ir jums reikia pridėti dar 5 daugiau, įveskite 105.
 
     > [!NOTE]
-    > Jei mokate už prenumeratą kredito kortele ar banko sąskaitos, naujas licencijas, kurias įsigyjate prieinami iš karto po to, kai gausite užsakymo patvirtinimą. Jei mokate iš sąskaitos-faktūros, gali tekti palaukti, kol kredito tikrinimą prieš jūsų naujas licencijas galima naudoti.
+    > Jei už prenumeratą mokate kreditine kortele arba banko sąskaita, visos naujos licencijos, kurias perkate, pasiekiamos iš karto po to, kai gaunate užsakymo patvirtinimą. Jei mokate pagal sąskaitą faktūrą, gali tekti palaukti kredito patikrinimo, kol bus galima naudoti naujas licencijas.
 
-Norėdami daugiau sužinoti, pamatyti, [pirkti licencijų savo "Office 365" verslui prenumerata](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Norėdami sužinoti daugiau, žiūrėkite ["Microsoft 365" verslui prenumeratos licencijų įsigijimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Papildomi ištekliai**
 
-- [Licencijų priskyrimas "Office 365" verslui vartotojams](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licencijų priskyrimas vartotojams sistemoje "Microsoft 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

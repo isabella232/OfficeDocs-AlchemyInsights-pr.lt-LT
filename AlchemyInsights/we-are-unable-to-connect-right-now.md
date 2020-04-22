@@ -1,5 +1,5 @@
 ---
-title: Aktyvinimas problema-mes negalime prisijungti dabar
+title: Aktyvinimo problema - Mes negalime prisijungti dabar
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716180"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>"Office" programų taisymas "mes negalime prisijungti dabar" pranešimas
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>"Office" programų "Šiuo metu nepavyksta prisijungti" nustatymas
 
-Jei gavote šį pranešimą, išbandykite toliau nurodytus veiksmus.
+Jei gaunate šį pranešimą, pabandykite atlikti šiuos veiksmus:
 
-1. Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neužblokuoja interneto prieigos prie "Office" programėlių. Peržiūrėkite " [Office 365" URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja interneto prieigos prie "Office" programų. Peržiūrėkite ["Microsoft" URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Eikite į **pradėti** > **vykdyti**, tada įveskite **Services. msc**. Įsitikinkite, kad visos šios tarnybos veikia:
-    - Tinklo prijungtų įrenginių Automatinis nustatymas
+2. Eikite į **Pradėti** > **vykdyti**, tada įveskite **services.msc**. Įsitikinkite, kad visos šios tarnybos veikia:
+    - Tinklo prijungtų įrenginių automatinis nustatymas
     - Tinklo sąrašo tarnyba
-    - Tinklo vieta sąmoningumo
-    - "Windows" įvykių žurnale
+    - Tinklo vietos žinomumas
+    - Windows įvykių žurnalas
 
-Jei viena iš šių paslaugų nepaleista, pabandykite ją paleisti. Jei turite problemų pradedant tarnybą, vykdykite šią komandą atidarydami komandinę eilutę su didesnių teisių:
+Jei viena iš šių tarnybų neveikia, pabandykite ją paleisti. Jei kyla problemų paleidžiant tarnybą, atidarę komandinę eilutę su didesnių teisių komanda vykdykite šią komandą:
 
-**sfc/scannow**
+**SFC /scannow SFC /scannow SFC / scannow SFC**
 
-Po to, kai ši komanda baigia darbą, iš naujo paleiskite kompiuterį.
+Kai ši komanda bus baigta, paleiskite kompiuterį iš naujo.
 
-Išsamesnės informacijos ieškokite ["Atsiprašome, negalime prisijungti prie jūsų paskyros. Bandykite dar kartą vėliau "klaida suaktyvinus Office iš Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Išsamesnės informacijos [ieškokite "Atsiprašome, negalime prisijungti prie jūsų paskyros. Bandykite dar kartą vėliau" klaida, kai aktyvinate "Office" iš "Microsoft 365".](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

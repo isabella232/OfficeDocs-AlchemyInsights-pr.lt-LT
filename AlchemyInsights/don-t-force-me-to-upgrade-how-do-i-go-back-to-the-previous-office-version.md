@@ -1,9 +1,9 @@
 ---
-title: Ne priversti mane atnaujinti. Kaip grįžti prie ankstesnės "Office" versijos?
+title: Nepriversk manęs atnaujinti. Kaip grįžti prie ankstesnės "Office" versijos?
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 4caf3e3c3a72b2ae59bb13982a2e45c53a7911f2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6d8f0dc4abe2782567f1d36455be2ce747b20fab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714850"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne priversti mane atnaujinti. Kaip grįžti prie ankstesnės "Office" versijos?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Nepriversk manęs atnaujinti. Kaip grįžti prie ankstesnės "Office" versijos?
 
-Atidarant "Office" failą, gali būti atidaryta bandomoji "Office" programos versija, o ne kita versija. Tai įvyks, jei turite Office 365 bandomąją versiją.
+Atidarant "Office" failą, gali būti atidaryta bandomoji "Office" taikomosios programos versija, o ne kita versija. Taip nutiks, jei turite "Microsoft 365" bandomąją versiją.
   
-Įdiegus "Office 365" bandomąją versiją, įdiegiamos programos 2016 bandomosios versijos. Šios bandomosios versijos tampa numatytuoju atidaryti "Word", "Excel" ir "PowerPoint" failus. Pavyzdžiui, jei turite "Excel" 2013 įdiegta ir jūs taip pat įdiegėte Office 365 bandomąją versiją, tada jūsų darbaknyges bus atidaryta bandomoji versija Excel 2016.
+Kai įdiegiate "Microsoft 365" bandomąją versiją, įdiegiama 2016 m. bandomoji programėlių versija. Šios bandomosios versijos tampa numatytąja "Word", "Excel" ir "PowerPoint" failų atidarymo versija. Pavyzdžiui, jei esate įdiegę "Excel 2013" ir įdiegėte "Microsoft 365" bandomąją versiją, jūsų darbaknygės bus atidarytos bandomąją "Excel 2016" versiją.
   
-Jei turite šią problemą, galite [pašalinti](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 Apps, ir naudoti senesnes versijas Apps jau įdiegėte. Arba galite [pašalinti](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) senesnes programėlių versijas ir naujinti į naujesnes versijas, įtrauktas į "Office 365".
+Jei kyla ši problema, galite [pašalinti](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 programas ir naudoti senesnes jau įdiegtų programėlių versijas. Arba galite [pašalinti](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) senesnes programėlių versijas ir atnaujinti į naujesnes versijas, įtrauktas į "Microsoft 365".

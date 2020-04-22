@@ -1,5 +1,5 @@
 ---
-title: "\"Yammer\" – valdykite \"Office 365\" grupes "
+title: "\"Yammer\" – \"Office 365\" grupių valdymas "
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530949"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715856"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>"Office 365" grupių valdymas "Yammer"
 
-Čia rasite atsakymus į dažniausiai pasitaikanti problemas, susijusias su "Office 365" grupėmis "Yammer".
+Čia rasite atsakymus į dažniausiai pasitaikančias "Office 365" grupių problemas "Yammer".
 
-* " **Office 365" grupės** yra bendra el. pašto, pokalbių, failų ir įvykių darbo sritis, kurioje grupės nariai gali bendradarbiauti. Naudojant "Yammer", "Office 365" grupės turi daug pranašumų prieš neprijungtas "Yammer" grupes. Pavyzdžiui, galite kurti ir vykdyti tiesioginius renginius, atkurti panaikintas grupes, naudoti dinaminio grupės narystę, automatinį archyvavimą ir prieiti prie bendrai naudojamų išteklių, pvz., "SharePoint", "OneNote" ir "Planner".
+* **"Office 365" grupės** yra bendrai naudojama el. pašto, pokalbių, failų ir įvykių, kuriuose grupės nariai gali bendradarbiauti, darbo sritis. Naudojant "Yammer" "Office 365" grupės turi daug pranašumų, palyginti su neprijungtomis "Yammer" grupėmis. Pavyzdžiui, galite kurti ir laikyti tiesioginius įvykius, atkurti panaikintas grupes, naudoti dinaminę grupės narystę, automatinį archyvavimą ir pasiekti bendrinamus išteklius, pvz., "Sharepoint", "OneNote" ir "Planner".
 
-* Galite nustatyti, ar "Yammer" grupė yra sujungta su "Office 365" grupėmis, kai jūs pamatysite skyrių **office 365 ištekliai** (SharePoint, OneNote, planuoklis), esantį dešiniojoje grupės naršymo juostoje. Jei ištekliai nepasiekiami, patikrinkite toliau nurodytus.
+* Galite sužinoti, ar "Yammer" grupė yra susijusi su "Office 365" grupėmis, kai grupės dešiniojoje naršymo srityje matote skyrių **"Office 365" ištekliai** ("Sharepoint", "OneNote", "Planner"). Jei išteklių nėra, patikrinkite toliau nurodytus dalykus.
 
-  1. "Yammer" tinklas turi būti 1 nuomotojas: 1 tinklo konfigūracija. Norėdami patikrinti, ar esate 1:1 konfigūracijos, naudokite **tinklo perkėlimo įrankį** , kaip aprašyta [tinklo perkėlimas-konsoliduoti kelis "Yammer" tinklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. "Yammer" tinklas turi būti 1 nuomotojo:1 tinklo konfigūracijoje. norėdami patikrinti, ar esate 1:1 konfigūracijoje, naudokite **tinklo perkėlimo įrankį,** kaip aprašyta [tinklo perkėlimo - Konsoliduoti kelis "Yammer" tinklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. Pereikite prie **tinklo administratoriaus, saugos parametrų**ir įsitikinkite, kad **Office 365 tapatybė** yra vykdoma "Yammer" vartotojams.
+  2. Eikite į **Tinklo administratorius, saugos parametras**ir įsitikinkite, kad **"Office 365" tapatybė** yra vykdoma "Yammer" vartotojams.
 
-Daugiau informacijos apie "Office 365" grupes ir "Yammer" rasite " [Yammer" ir "office 365 groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)". Informacijos apie grupės valdymą ieškokite [grupės valdymas "Yammer"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Daugiau informacijos apie "Office 365" grupes ir "Yammer" rasite ["Yammer" ir "office 365" grupės](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Daugiau informacijos apie grupės valdymą [ieškokite Grupės valdymas "Yammer"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

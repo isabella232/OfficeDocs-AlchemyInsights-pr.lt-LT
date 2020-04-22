@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183094"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713258"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>„Office“ programų pranešimas – iškilo problemų dėl prenumeratos
 
@@ -26,7 +26,7 @@ ms.locfileid: "43183094"
 
 - Pašalinkite ir priskirkite [„Office“ licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) nukentėjusiam vartotojui. 
 
-- Atidarykite „Office“ programą, spustelėkite **Failas > Paskyra** ir atsijunkite nuo visų paskyrų. Vėl prisijunkite naudodami vartotojo paskyrą su galiojančia licencija. Norėdami rasti išsamios informacijos, žr. [Paskyros programoje „Office“](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Atidarykite „Office“ programą, spustelėkite **Failas > Paskyra** ir atsijunkite nuo visų paskyrų. Vėl prisijunkite naudodami vartotojo paskyrą su galiojančia licencija. Norėdami rasti išsamios informacijos, žr. [Paskyros programoje „Office“](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Paleiskite [Aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy), o tuomet iš naujo paleiskite kompiuterį.
 

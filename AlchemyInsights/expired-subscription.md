@@ -1,9 +1,9 @@
 ---
-title: Pasibaigęs prenumerata
+title: Nebegaliojanti prenumerata
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665048"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714158"
 ---
-# <a name="expired-subscription"></a>Pasibaigęs prenumerata
+# <a name="expired-subscription"></a>Nebegaliojanti prenumerata
 
-Atrodo, kad turite vieną ar daugiau pasibaigęs prenumeratų. Jei norite tęsti paslauga, turite suaktyvinti prenumeratą, arba atlikti naują pirkimą.
+Atrodo, kad turite vieną ar daugiau prenumeratų, kurių galiojimo laikas pasibaigęs. Jei norite tęsti aptarnavimą, turite iš naujo suaktyvinti prenumeratą arba atlikti naują pirkimą.
   
-**Iš naujo suaktyvinti**
+**Aktyvinti prenumeratą iš naujo**
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Raskite prenumeratą, kurios norite iš naujo suaktyvinti. Sekcijoje **atsiskaitymo** pasirinkite **Aktyvinti iš naujo**.
+2. Pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti. Sekcijoje**Atsiskaitymas** pasirinkite**Aktyvinti iš naujo**.
 
-Jei nematote parinkties **suaktyvinti** kaip galima ieškinį, kreiptis į palaikymo tarnybą Norėdami iš naujo aktyvinti savo prenumeratą.
+Jei tarp galimų veiksmų nematote parinkties **Aktyvinti iš naujo**, kreipkitės į palaikymo tarnybą, kad jūsų prenumerata būtų suaktyvinta iš naujo.
 
-3. Patvirtinti savo mokėjimo duomenis. Jūs galite atnaujinti savo esamų mokėjimo informaciją čia. Baigę įvesti mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
+3. Patvirtinkite savo mokėjimo duomenis. Jau esančią mokėjimo informaciją galite atnaujinti čia. Kai įvesite mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [iš naujo aktyvinti savo prenumeratą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Naujas pirkti**
+**Naujo pirkimo įsigijimas**
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) psl.
+1. Administravimo centre eikite į **puslapį Atsiskaitymo** \> [pirkimo paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Pasirink narystę, kurią norite nusipirkti, išrinkite **pirkti**.
+2. Pasirinkite prenumeratą, kurią norite pirkti, tada pasirinkite **Pirkti**.
 
-3. Įveskite skaičių licencijų jums reikia, ir pasirinkti, ar mokėti kiekvieną mėnesį ar metus. Pasirinkite, ar norite automatiškai priskirti licencijas visiems, kurie šiuo metu neturi tam licencijos. Pasirinkite **patikrinti dabar**.
+3. Įveskite reikiamą licencijų skaičių ir pasirinkite, ar mokėti kiekvieną mėnesį, ar už visus metus. Pasirinkite, ar norite automatiškai priskirti licencijas visiems, kurie šiuo metu neturi licencijos. Tada pasirinkite **Paimti dabar**.
 
-4. Atlikite likusius veiksmus atlikti paėmimo ir užrakinimo.
+4. Atlikite likusius veiksmus, kad užbaigtumėte išsiregistruodami.
 
-Norėdami sužinoti daugiau, peržiūrėkite [kitą prenumeratą pirkti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Norėdami sužinoti daugiau, žiūrėkite [Kitos prenumeratos įsigijimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

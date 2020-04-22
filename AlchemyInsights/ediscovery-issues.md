@@ -3,7 +3,7 @@ title: 1829-ediscovery-klausimai
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544565"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714486"
 ---
-# <a name="ediscovery-issues"></a>el. duomenų aptikimo problemas
+# <a name="ediscovery-issues"></a>El. duomenų aptikimo problemos
 
-Ieškote el. duomenų aptikimo funkcijos? Naujo dizaino navigaciją į saugos & atitikties užtikrinimo centre, el. duomenų aptikimo funkcijos gali būti perkeltas jau.  Atitikties užtikrinimo centre pagal ką jūs bandote daryti saugumo & tokiose vietose galite rasti el. duomenų aptikimo funkcijos:
+Ieškote el. duomenų aptikimo parinkčių? Iš naujo sukūrus naršymą saugos & atitikties centre, el. duomenų aptikimo parinktys jau galėjo būti perkeltos.  El. duomenų aptikimo parinktis galite rasti šiose saugos & atitikties centre, atsižvelgdami į tai, ką bandote daryti:
 
-- Naudokite turinio paiešką el. paštas, dokumentai, "Skype" ieškoti jūsų organizacijos turinio įmonėje ar verslo pokalbiai, ir tada eksportuoti duomenis - eiti į **paieškos > turinio paieškos**
+- Turinio ieškos naudojimas norint ieškoti turinio el. paštu, dokumentuose, "Skype" verslui pokalbiuose, tada eksportuoti duomenis – eiti į **ieškoti > turinio ieška**
 
-- Sukurti el. duomenų aptikimo atveju ieškoti turinio ir vietos turinio vietos palaikykite - eiti į **eDiscovery > el. duomenų aptikimas**
+- El. duomenų aptikimo atvejo kūrimas ieškant turinio ir turinio vietų sulaikyti - Eiti į **el. duomenų aptikimą > el. duomenų aptikimą**
 
-- Naudoti naują iki galo Išplėstinis el. duomenų aptikimas sprendimą nustatyti ir bendrauti su Saugotojai, išsaugoti saugotojas duomenys susiję su byla, rinkti duomenis ir įtraukti ją į peržiūra rinkinys, ir sumažinti duomenų, taikant analizės, brokuotas, nereikalingų duomenų ir dėmesio kas labiausiai susiję su byla - eiti į **eDiscovery > Išplėstinis el. duomenų aptikimas**
+- Naudokite naują "end-to-end Advanced eDiscovery" sprendimą, kad nustatytumėte ir palaikytumėte ryšius su saugotojais, išsaugotumėte su atveju susijusius saugotojo duomenis, rinkite duomenis ir įtrauktumėte juos į peržiūros rinkinį ir sumažinkite duomenų kiekį taikydami analizę nereikalingiems duomenims išsiskirti ir sutelkti dėmesį į tai, kas labiausiai susiję su atveju - Eikite į **el. duomenų aptikimo > išplėstinis el. duomenų aptikimas**
 
-Daugiau informacijos žr.
+Daugiau informacijos rasite:
 
-- [Turinio paieška: "Office 365"](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Turinio paieška](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [el. duomenų aptikimo atvejų saugumo & atitikties užtikrinimo centre](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [El. duomenų aptikimo atvejai saugos & atitikties centre](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Išplėstinis el. duomenų aptikimas sprendimą – "Microsoft" 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Išplėstinis el. duomenų aptikimo sprendimas programoje "Microsoft 365"](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

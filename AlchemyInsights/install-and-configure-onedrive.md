@@ -1,29 +1,29 @@
 ---
-title: Įdiegti ir konfigūruoti "OneDrive"
+title: "\"OneDrive\" diegimas ir konfigūravimas"
 ms.author: matteva
 author: pebaum
-ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "844"
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: becdd4dc3be4dbeb87ceff3700f60019873bef2d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498999"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710991"
 ---
-# <a name="install-and-configure-onedrive"></a>Įdiegti ir konfigūruoti "OneDrive"
+# <a name="install-and-configure-onedrive"></a>"OneDrive" diegimas ir konfigūravimas
 
-"OneDrive" sinchronizavimo klientas yra iš anksto įdiegta "Windows 10". Įdiegti "Windows 7" "OneDrive" arba "Mac", arba gaukite mobiliąją programėlę savo telefone ar planšetiniame kompiuteryje, eikite į [http://onedrive.com/download](http://onedrive.com/download).
+"OneDrive" sinchronizavimo klientas iš anksto įdiegtas su "Windows 10". Norėdami įdiegti "OneDrive", skirtą "Windows 7" arba "Mac", arba gauti telefono arba planšetinio kompiuterio mobiliųjų įrenginių programėlę, eikite į [https://onedrive.com/download](https://onedrive.com/download).
   
-Norėdami nustatyti "OneDrive" sinchronizavimo klientas sistemoje "Windows", peržiūrėkite:
+Norėdami nustatyti "OneDrive" sinchronizavimo klientą sistemoje "Windows", žr.:
   
-- [Nustatyti kompiuterį sinchronizuoti "OneDrive" verslui failus "Office 365"](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Kompiuterio nustatymas sinchronizuoti "OneDrive" verslui failus](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=871666)

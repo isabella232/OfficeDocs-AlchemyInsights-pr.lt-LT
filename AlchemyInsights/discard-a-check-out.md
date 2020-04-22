@@ -1,28 +1,28 @@
 ---
-title: Išmeskite išregistravimo
+title: Paėmimo ir užrakinto paėmimo atmetimas
 ms.author: pebaum
 author: pebaum
-ms.date: 9/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 9e5fdfd3f0f8d2794baffbedaa5b349152ea9cde
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052333"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715122"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Atsisakykite paimti iš dokumentų bibliotekos
+# <a name="discard-a-check-out-from-a-document-library"></a>Paėmimo ir užrakinto paėmimo iš dokumentų bibliotekos atmetimas
 
-1. Dešiniuoju pelės klavišu spustelėkite failą, kurio atsisakyti reikia paimti.
+1. Dešiniuoju pelės mygtuku spustelėkite failą, kurį norite atsisakyti paimti ir užrakinti.
     
-2. Spustelėkite **daugiau**, tada spustelėkite **atsisakyti paimti**. 
+2. Spustelėkite **Daugiau**, tada spustelėkite **Atsisakyti paėmimo ir užrakinto .** 
     
-3. Dialogo lange spustelėkite **atmesti paimti ir išrinkite** , kad išvalytumėte. 
+3. Dialogo lange spustelėkite **Atsisakyti paėmimo ir užrakinto,** kad išvalytumėte paėmimą ir užrakintą. 
     
-Jei turite papildomų klausimų apie tikrinimą ir išsiregistravimo, peržiūrėkite [viršų klausimus apie išsiregistravimas, užsiregistravimas ir versijas](https://go.microsoft.com/fwlink/?linkid=2018786).
+Jei reikia papildomų klausimų apie įsiregistruojant ir išsiregistruojant, peržiūrėkite [svarbiausi klausimai apie išsiregistruoti, įsiregistruoti ir versijos](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 
