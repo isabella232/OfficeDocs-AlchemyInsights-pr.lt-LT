@@ -1,9 +1,9 @@
 ---
-title: Sprendimai dėl klaidos 30174-4
+title: Klaidų sprendimai 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57701b1a9a8575fe9307912f1e64b07ab2e6a282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501627"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757141"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="2895d-102">Klaidos kodas 30174-4 diegiant Office</span><span class="sxs-lookup"><span data-stu-id="2895d-102">Error code 30174-4 when installing Office</span></span>
+# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="1c668-102">Klaidos kodas 30174-4 diegiant "Office"</span><span class="sxs-lookup"><span data-stu-id="1c668-102">Error code 30174-4 when installing Office</span></span>
 
-<span data-ttu-id="2895d-103">Ši klaida gali būti rodoma, jei savo antivirusinę programinę įrangą, užkarda, tarpinio serverio parametrus arba ryšio neleidžia įdiegti Office.</span><span class="sxs-lookup"><span data-stu-id="2895d-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="2895d-104">Štai ką galite pabandyti išspręsti problemą.</span><span class="sxs-lookup"><span data-stu-id="2895d-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="1c668-103">Ši klaida gali būti rodoma, jei antivirusinė programinė įranga, užkarda, tarpinio serverio parametrai arba ryšys neleidžia įdiegti "Office".</span><span class="sxs-lookup"><span data-stu-id="1c668-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="1c668-104">Štai keletas dalykų, kuriuos galite pabandyti išspręsti problemą.</span><span class="sxs-lookup"><span data-stu-id="1c668-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="2895d-105">Naudoti laidinį ryšį</span><span class="sxs-lookup"><span data-stu-id="2895d-105">Use a wired connection</span></span>
+- <span data-ttu-id="1c668-105">Laidinio ryšio naudojimas</span><span class="sxs-lookup"><span data-stu-id="1c668-105">Use a wired connection</span></span>
 
-- <span data-ttu-id="2895d-106">Laikinai išjunkite tarpinio serverio parametrus</span><span class="sxs-lookup"><span data-stu-id="2895d-106">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="1c668-106">Laikinai išjungti tarpinio serverio parametrus</span><span class="sxs-lookup"><span data-stu-id="1c668-106">Temporarily turn off proxy settings</span></span>
 
-- <span data-ttu-id="2895d-107">Laikinai išjunkite antivirusinę programinę įrangą</span><span class="sxs-lookup"><span data-stu-id="2895d-107">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="1c668-107">Laikinas antivirusinės programinės įrangos išjungimas</span><span class="sxs-lookup"><span data-stu-id="1c668-107">Temporarily turn off antivirus software</span></span>
 
-[<span data-ttu-id="2895d-108">Klaidos kodas 30174-4 diegiant Office</span><span class="sxs-lookup"><span data-stu-id="2895d-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="1c668-108">Klaidos kodas 30174-4 diegiant "Office"</span><span class="sxs-lookup"><span data-stu-id="1c668-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

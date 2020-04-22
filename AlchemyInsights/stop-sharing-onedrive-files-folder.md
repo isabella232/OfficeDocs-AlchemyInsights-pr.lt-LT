@@ -3,7 +3,7 @@ title: "\"OneDrive\" arba \"SharePoint\" failų arba aplankų bendrinimo sustabd
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: 880e61ffd15d78ecbaad88a0b2a15952f7c2cf19
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 6c58d81fc817c6c4238ef2fab47107b865c20c4b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763909"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a><span data-ttu-id="05130-102">Kaip nustoti bendrinti "OneDrive" arba "SharePoint" failus arba aplankus</span><span class="sxs-lookup"><span data-stu-id="05130-102">How to stop sharing OneDrive or SharePoint files or folders</span></span>
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a><span data-ttu-id="bc115-102">Kaip sustabdyti "OneDrive" arba "SharePoint" failų arba aplankų bendrinimą</span><span class="sxs-lookup"><span data-stu-id="bc115-102">How to stop sharing OneDrive or SharePoint files or folders</span></span>
 
-<span data-ttu-id="05130-103">Jei esate elemento savininkas, galite nustoti bendrinti elementą, matyti, su kuo jis bendrinamas, arba pakeisti kitus leidimus.</span><span class="sxs-lookup"><span data-stu-id="05130-103">You can stop sharing an item, see who it's shared with, or change the permissions others have to it, if you're the owner of the item.</span></span>
+<span data-ttu-id="bc115-103">Jei esate elemento savininkas, galite sustabdyti elemento bendrinimą, matyti, su kuo jis bendrinamas, arba pakeisti teises, kurias turi kiti.</span><span class="sxs-lookup"><span data-stu-id="bc115-103">You can stop sharing an item, see who it's shared with, or change the permissions others have to it, if you're the owner of the item.</span></span>
 
-[<span data-ttu-id="05130-104">"OneDrive" arba "SharePoint" failų arba aplankų bendrinimo sustabdymas</span><span class="sxs-lookup"><span data-stu-id="05130-104">Stop sharing OneDrive or SharePoint files or folders</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+[<span data-ttu-id="bc115-104">"OneDrive" arba "SharePoint" failų arba aplankų bendrinimo sustabdymas</span><span class="sxs-lookup"><span data-stu-id="bc115-104">Stop sharing OneDrive or SharePoint files or folders</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
