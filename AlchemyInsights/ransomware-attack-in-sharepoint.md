@@ -1,8 +1,8 @@
 ---
-title: Išpirkos ataką "SharePoint" arba "OneDrive"
+title: Išpirkos reikalaujantis išpirkos ataka "SharePoint" arba "OneDrive"
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054277"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742813"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a><span data-ttu-id="3cb03-102">Išpirkos ataką "SharePoint" arba "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="3cb03-102">Ransomware attack in SharePoint or OneDrive</span></span>
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a><span data-ttu-id="df747-102">Išpirkos reikalaujantis išpirkos ataka "SharePoint" arba "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="df747-102">Ransomware attack in SharePoint or OneDrive</span></span>
 
-1.  <span data-ttu-id="3cb03-103">Jei ieškote pagalbos, ką daryti, kai "OneDrive" arba "SharePoint" ar "teams" randamas kenkėjiškas failas, pažiūrėkite, ką daryti, [kai randamas kenkėjiškas failas](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span><span class="sxs-lookup"><span data-stu-id="3cb03-103">If you are looking for help on what to do when a malicious file is found on your OneDrive or SharePoint Or Teams, see [What to do when a malicious file is found](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span></span>
-2. <span data-ttu-id="3cb03-104">Jei jūs ieškote, kaip apsaugoti savo duomenis nuo Ransomware, žr:</span><span class="sxs-lookup"><span data-stu-id="3cb03-104">If you are looking for how to safeguard your data from ransomware, see:</span></span>
-    - [<span data-ttu-id="3cb03-105">Duomenų saugojimas "SharePoint" ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="3cb03-105">Safeguarding your data in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [<span data-ttu-id="3cb03-106">Ransomware apsauga nuo grėsmių</span><span class="sxs-lookup"><span data-stu-id="3cb03-106">Ransomware Threat Protection</span></span>](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  <span data-ttu-id="df747-103">Jei ieškote pagalbos, ką daryti, kai kenkėjiškas failas randamas "OneDrive" arba "SharePoint" arba "Teams", [žr.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)</span><span class="sxs-lookup"><span data-stu-id="df747-103">If you are looking for help on what to do when a malicious file is found on your OneDrive or SharePoint Or Teams, see [What to do when a malicious file is found](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span></span>
+2. <span data-ttu-id="df747-104">Jei ieškote, kaip apsaugoti savo duomenis iš pirkos programinės įrangos, žr.:</span><span class="sxs-lookup"><span data-stu-id="df747-104">If you are looking for how to safeguard your data from ransomware, see:</span></span>
+    - [<span data-ttu-id="df747-105">Duomenų apsauga "SharePoint" ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="df747-105">Safeguarding your data in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [<span data-ttu-id="df747-106">Apsauga nuo išpirkos apsauga nuo grėsmių</span><span class="sxs-lookup"><span data-stu-id="df747-106">Ransomware Threat Protection</span></span>](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  <span data-ttu-id="3cb03-107">Ar visi "OneDrive" arba "SharePoint" failai, paveikti "Ransomware" arba kenkėjiškų programų arba šifravimo virusu?</span><span class="sxs-lookup"><span data-stu-id="3cb03-107">Are all the files on your OneDrive Or SharePoint affected by Ransomware or Malware or Crypto virus?</span></span> 
+3.  <span data-ttu-id="df747-107">Ar visiems "OneDrive" arba "SharePoint" failams įtakos turi "Ransomware" arba kenkėjiška programa arba kriptografinis virusas?</span><span class="sxs-lookup"><span data-stu-id="df747-107">Are all the files on your OneDrive Or SharePoint affected by Ransomware or Malware or Crypto virus?</span></span> 
 
-<span data-ttu-id="3cb03-108">Nedelsdami sustabdykite/pristabdykite "OneDrive" sinchronizavimą (jei yra) arba atjunkite "Internet Explorer" rodinį, susietą su biblioteka iš paveikto kompiuterio (jei toks yra), tada galėsite atkurti visą "OneDrive" arba "SharePoint" biblioteką iki ankstesnio laiko naudodami failų atkūrimo funkciją.</span><span class="sxs-lookup"><span data-stu-id="3cb03-108">Immediately stop/pause the OneDrive Sync (if any) or disconnect Explorer view mapped to the library from the affected computer (if any), and then you can restore your entire OneDrive or SharePoint library to a previous time by using the files restore feature.</span></span> 
+<span data-ttu-id="df747-108">Nedelsdami sustabdykite / pristabdykite "OneDrive" sinchronizavimą (jei toks yra) arba atjunkite "Explorer" rodinį, susietą su biblioteka iš susijusio kompiuterio (jei yra), tada galite atkurti visą "OneDrive" arba "SharePoint" biblioteką anksčiau naudodami failų atkūrimo funkciją.</span><span class="sxs-lookup"><span data-stu-id="df747-108">Immediately stop/pause the OneDrive Sync (if any) or disconnect Explorer view mapped to the library from the affected computer (if any), and then you can restore your entire OneDrive or SharePoint library to a previous time by using the files restore feature.</span></span> 
 
-<span data-ttu-id="3cb03-109">Daugiau informacijos apie tai, kaip atkurti, žr.:</span><span class="sxs-lookup"><span data-stu-id="3cb03-109">For more information on how to restore, see:</span></span>
+<span data-ttu-id="df747-109">Daugiau informacijos apie tai, kaip atkurti, rasite:</span><span class="sxs-lookup"><span data-stu-id="df747-109">For more information on how to restore, see:</span></span>
 
-- [<span data-ttu-id="3cb03-110">"OneDrive" bibliotekos atkūrimas</span><span class="sxs-lookup"><span data-stu-id="3cb03-110">Restore a OneDrive library</span></span>](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [<span data-ttu-id="3cb03-111">Atkurti dokumentų biblioteką</span><span class="sxs-lookup"><span data-stu-id="3cb03-111">Restore a Document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [<span data-ttu-id="df747-110">„OneDrive“ bibiliotekos atkūrimas</span><span class="sxs-lookup"><span data-stu-id="df747-110">Restore a OneDrive library</span></span>](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [<span data-ttu-id="df747-111">Dokumentų bibliotekos atkūrimas</span><span class="sxs-lookup"><span data-stu-id="df747-111">Restore a Document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-<span data-ttu-id="3cb03-112">Daugiau informacijos apie patobulinę apsaugą nuo grėsmių (ATP) rasite:</span><span class="sxs-lookup"><span data-stu-id="3cb03-112">For more information about Advanced Threat Protection (ATP), see:</span></span>
-- [<span data-ttu-id="3cb03-113">ATP, SharePoint, OneDrive ir komandos</span><span class="sxs-lookup"><span data-stu-id="3cb03-113">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [<span data-ttu-id="3cb03-114">Grėsmių naršyklės rodiniai</span><span class="sxs-lookup"><span data-stu-id="3cb03-114">Threat Explorer Views</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+<span data-ttu-id="df747-112">Jei norite gauti daugiau informacijos apie išplėstinės apsaugos nuo grėsmių (ATP), žr.:</span><span class="sxs-lookup"><span data-stu-id="df747-112">For more information about Advanced Threat Protection (ATP), see:</span></span>
+- [<span data-ttu-id="df747-113">ATP, skirtas "SharePoint", "OneDrive" ir "Teams"</span><span class="sxs-lookup"><span data-stu-id="df747-113">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [<span data-ttu-id="df747-114">Grėsmių naršyklės rodiniai</span><span class="sxs-lookup"><span data-stu-id="df747-114">Threat Explorer Views</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-<span data-ttu-id="3cb03-115">Papildoma informacija:</span><span class="sxs-lookup"><span data-stu-id="3cb03-115">Additional Information:</span></span>
+<span data-ttu-id="df747-115">Papildoma informacija:</span><span class="sxs-lookup"><span data-stu-id="df747-115">Additional Information:</span></span>
 
-- [<span data-ttu-id="3cb03-116">Viruso aptikimas SPO</span><span class="sxs-lookup"><span data-stu-id="3cb03-116">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [<span data-ttu-id="3cb03-117">Duomenų šifravimas ODB ir SPO</span><span class="sxs-lookup"><span data-stu-id="3cb03-117">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [<span data-ttu-id="3cb03-118">Ransomware aptikimas ir atstatymas failus</span><span class="sxs-lookup"><span data-stu-id="3cb03-118">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [<span data-ttu-id="3cb03-119">Grėsmių naršyklė ir Realtime aptikimai</span><span class="sxs-lookup"><span data-stu-id="3cb03-119">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [<span data-ttu-id="df747-116">Virusų aptikimas SPO</span><span class="sxs-lookup"><span data-stu-id="df747-116">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [<span data-ttu-id="df747-117">Duomenų šifravimas ODB ir SPO</span><span class="sxs-lookup"><span data-stu-id="df747-117">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [<span data-ttu-id="df747-118">Išpirkos aptikimas ir failų atkūrimas</span><span class="sxs-lookup"><span data-stu-id="df747-118">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [<span data-ttu-id="df747-119">"Threat Explorer" ir realaus laiko aptikimai</span><span class="sxs-lookup"><span data-stu-id="df747-119">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

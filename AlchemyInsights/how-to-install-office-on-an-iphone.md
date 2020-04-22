@@ -3,7 +3,7 @@ title: Kaip įdiegti "Office" "iPhone"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: ad3b921941c6cfa09a49952707af50f027e7e75b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1dbfe6151fefd812281009dc68c39474dadf1203
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759196"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="b2588-102">Kaip įdiegti "Office" "iPhone"</span><span class="sxs-lookup"><span data-stu-id="b2588-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="9baa1-102">Kaip įdiegti "Office" "iPhone"</span><span class="sxs-lookup"><span data-stu-id="9baa1-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="b2588-103">Turėti į naudotojo [bakstelėkite saitą atsisiųsti](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) iš savo mobiliojo prietaiso, Word, Excel, PowerPoint ir OneNote.</span><span class="sxs-lookup"><span data-stu-id="b2588-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="9baa1-103">Tegu vartotojas [bakstelėja atsisiuntimo saitą](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) iš savo mobiliojo įrenginio, skirto "Word", "Excel", "PowerPoint" ir "OneNote".</span><span class="sxs-lookup"><span data-stu-id="9baa1-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="b2588-104">Turėti vartotojo paleiskite programėlę, bakstelėkite **prisijungti** ir įveskite savo darbą ar mokyklą kredencialus.</span><span class="sxs-lookup"><span data-stu-id="b2588-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="9baa1-104">Paleiskite programą, bakstelėkite **Prisijungti** ir įveskite jo darbo arba mokymo įstaigos kredencialus.</span><span class="sxs-lookup"><span data-stu-id="9baa1-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>

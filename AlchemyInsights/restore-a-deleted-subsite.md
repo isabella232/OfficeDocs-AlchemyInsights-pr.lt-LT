@@ -1,9 +1,9 @@
 ---
-title: Atkurti panaikintus antrinės svetainės
+title: Panaikintos antrinės svetainės atkūrimas
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552293"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758690"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a><span data-ttu-id="72328-102">Atkurti ištrintus SharePoint antrinės svetainės</span><span class="sxs-lookup"><span data-stu-id="72328-102">Restore a deleted SharePoint subsite</span></span>
+# <a name="restore-a-deleted-sharepoint-subsite"></a><span data-ttu-id="18b34-102">Panaikintos SharePoint antrinės svetainės atkūrimas</span><span class="sxs-lookup"><span data-stu-id="18b34-102">Restore a deleted SharePoint subsite</span></span>
 
-<span data-ttu-id="72328-103">Panaikintus antrinės svetainės siunčiamas į svetainių rinkinio šiukšlinę, kur jie laikomi 93 dienas.</span><span class="sxs-lookup"><span data-stu-id="72328-103">Deleted subsites are sent to the site collection Recycle Bin, where they're kept for 93 days.</span></span> <span data-ttu-id="72328-104">Kaip atkurti panaikintus antrinės svetainės:</span><span class="sxs-lookup"><span data-stu-id="72328-104">To restore a deleted subsite:</span></span>
+<span data-ttu-id="18b34-103">Panaikintos antrinės svetainės siunčiamos į svetainių rinkinio šiukšlinę, kurioje jos saugomos 93 dienas.</span><span class="sxs-lookup"><span data-stu-id="18b34-103">Deleted subsites are sent to the site collection Recycle Bin, where they're kept for 93 days.</span></span> <span data-ttu-id="18b34-104">Norėdami atkurti panaikintą antrinę svetainę:</span><span class="sxs-lookup"><span data-stu-id="18b34-104">To restore a deleted subsite:</span></span>
   
-1. <span data-ttu-id="72328-105">Nauja SharePoint administravimo centro, rasti svetainę, iš kurios buvo panaikintas antrinėje svetainėje ir įsitikinkite, kad svetainių rinkinio administratorius.</span><span class="sxs-lookup"><span data-stu-id="72328-105">In the new SharePoint admin center, find the site from which the subsite was deleted and make sure you're a site collection admin.</span></span> 
+1. <span data-ttu-id="18b34-105">Naujajame "SharePoint" administravimo centre raskite svetainę, iš kurios buvo panaikinta antrinė svetainė, ir įsitikinkite, kad esate svetainių rinkinio administratorius.</span><span class="sxs-lookup"><span data-stu-id="18b34-105">In the new SharePoint admin center, find the site from which the subsite was deleted and make sure you're a site collection admin.</span></span> 
     
-2. <span data-ttu-id="72328-106">Eikite į svetainę.</span><span class="sxs-lookup"><span data-stu-id="72328-106">Go to the site.</span></span> <span data-ttu-id="72328-107">Kairiojoje srityje spustelėkite **Šiukšlinė** .</span><span class="sxs-lookup"><span data-stu-id="72328-107">Click **Recycle bin** in the left pane.</span></span> <span data-ttu-id="72328-108">(Jei nematote šiukšlinės, spustelėkite nustatymų piktogramą, o tada spustelėkite **svetainės turinys**.</span><span class="sxs-lookup"><span data-stu-id="72328-108">(If you don't see the Recycle bin, click the Settings icon, and then click **Site contents**.</span></span> <span data-ttu-id="72328-109">Šiukšlinė yra kraštutinių dešiniųjų komandų juostos viršuje.)</span><span class="sxs-lookup"><span data-stu-id="72328-109">The Recycle Bin is on the far right of the command bar at the top.)</span></span>
+2. <span data-ttu-id="18b34-106">Eikite į svetainę.</span><span class="sxs-lookup"><span data-stu-id="18b34-106">Go to the site.</span></span> <span data-ttu-id="18b34-107">Kairiojoje srityje spustelėkite **Šiukšlinė.**</span><span class="sxs-lookup"><span data-stu-id="18b34-107">Click **Recycle bin** in the left pane.</span></span> <span data-ttu-id="18b34-108">(Jei šiukšlinės nematote, spustelėkite piktogramą Parametrai, tada spustelėkite **Svetainės turinys**.</span><span class="sxs-lookup"><span data-stu-id="18b34-108">(If you don't see the Recycle bin, click the Settings icon, and then click **Site contents**.</span></span> <span data-ttu-id="18b34-109">Šiukšlinė yra viršutiniame dešiniajame komandų juostos dešinėje.)</span><span class="sxs-lookup"><span data-stu-id="18b34-109">The Recycle Bin is on the far right of the command bar at the top.)</span></span>
     
-3. <span data-ttu-id="72328-110">Puslapio apačioje spustelėkite **antrojo etapo šiukšlinė**.</span><span class="sxs-lookup"><span data-stu-id="72328-110">At the bottom of the page, click **Second-stage recycle bin**.</span></span>
+3. <span data-ttu-id="18b34-110">Puslapio apačioje spustelėkite Antrojo **etapo šiukšlinė**.</span><span class="sxs-lookup"><span data-stu-id="18b34-110">At the bottom of the page, click **Second-stage recycle bin**.</span></span>
     
-4. <span data-ttu-id="72328-111">Spustelėkite į kairę nuo antrinės svetainės, ir tada spustelėkite **atkurti**.</span><span class="sxs-lookup"><span data-stu-id="72328-111">Click to the left of the subsite, and then click **Restore**.</span></span>
+4. <span data-ttu-id="18b34-111">Spustelėkite antrinės svetainės kairėje, tada spustelėkite **Atkurti**.</span><span class="sxs-lookup"><span data-stu-id="18b34-111">Click to the left of the subsite, and then click **Restore**.</span></span>
     
 

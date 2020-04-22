@@ -3,7 +3,7 @@ title: Klasikinės "SharePoint" audito žurnalo ataskaitos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,40 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
-ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
+ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37992626"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741973"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="c0b0d-102">"SharePoint" ir "OneDrive" audito žurnalai</span><span class="sxs-lookup"><span data-stu-id="c0b0d-102">SharePoint and OneDrive audit logs</span></span>
+# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="ffb2a-102">"SharePoint" ir "OneDrive" audito žurnalai</span><span class="sxs-lookup"><span data-stu-id="ffb2a-102">SharePoint and OneDrive audit logs</span></span>
 
-## <a name="sharepoint-classic-audit-logs"></a><span data-ttu-id="c0b0d-103">SharePoint Classic audito žurnalai</span><span class="sxs-lookup"><span data-stu-id="c0b0d-103">SharePoint classic Audit logs</span></span>
+## <a name="sharepoint-classic-audit-logs"></a><span data-ttu-id="ffb2a-103">"SharePoint" klasikiniai audito žurnalai</span><span class="sxs-lookup"><span data-stu-id="ffb2a-103">SharePoint classic Audit logs</span></span>
 
-<span data-ttu-id="c0b0d-104">Į vieningosios audito žurnalą (UAL) perkeltas SPO palikimas auditas.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-104">SPO legacy auditing was migrated to Unified Audit Log (UAL).</span></span> <span data-ttu-id="c0b0d-105">Dabar visos SPO senstelėjusios įrangos audito ataskaitos bus maitinamas per UAL, o senstelėjusios įrangos audito signalai buvo perkelti į UAL.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-105">All SPO legacy audit reports will now be powered through UAL, and the legacy audit signals have been migrated to UAL.</span></span>
+<span data-ttu-id="ffb2a-104">SPO senstelėjusios įrangos auditas perkeltas į vieningąjį audito žurnalą (UAL).</span><span class="sxs-lookup"><span data-stu-id="ffb2a-104">SPO legacy auditing was migrated to Unified Audit Log (UAL).</span></span> <span data-ttu-id="ffb2a-105">Visos SPO senstelėjusios įrangos audito ataskaitos dabar bus parengtos per UAL, o senstelėjusios įrangos audito signalai perkelti į UAL.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-105">All SPO legacy audit reports will now be powered through UAL, and the legacy audit signals have been migrated to UAL.</span></span>
 
-<span data-ttu-id="c0b0d-106">Pagrindiniai pakeitimai:</span><span class="sxs-lookup"><span data-stu-id="c0b0d-106">Key changes:</span></span>
+<span data-ttu-id="ffb2a-106">Pagrindiniai pakeitimai:</span><span class="sxs-lookup"><span data-stu-id="ffb2a-106">Key changes:</span></span>
 
-* <span data-ttu-id="c0b0d-107">Apipjaustymas nėra galimybės.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-107">Trimming is NOT available as a capability.</span></span>
-* <span data-ttu-id="c0b0d-108">Pasirinkti konkrečius įvykius, kurių auditas yra neprieinamas.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-108">Choosing specific events to audit is NOT available.</span></span> <span data-ttu-id="c0b0d-109">[Šiame dokumente](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) rasite visą audituotų renginių, kuriuos galima gauti pagal numatytuosius nustatymus, sąrašą.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-109">Refer to [this document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) for a complete list of audited events available by default.</span></span>
-* <span data-ttu-id="c0b0d-110">**Vietos** parinktis pagal **PRITAIKYTAS ataskaitas** yra neprieinama.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-110">The **Location** option under **Customized reports** is NOT available.</span></span>
-* <span data-ttu-id="c0b0d-111">Parinktis **atidaryti arba atsisiųsti dokumentus** įvykiai yra neprieinama.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-111">The **Opening or downloading documents** events option is NOT available.</span></span>
+* <span data-ttu-id="ffb2a-107">Apipjaustymas nėra galimas kaip galimybė.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-107">Trimming is NOT available as a capability.</span></span>
+* <span data-ttu-id="ffb2a-108">Konkrečių audito įvykių pasirinkimas negalimas.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-108">Choosing specific events to audit is NOT available.</span></span> <span data-ttu-id="ffb2a-109">Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) ar nėra išsamaus audituotų įvykių sąrašo, kurį galima pasiekti pagal numatytuosius nustatymus.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-109">Refer to [this document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) for a complete list of audited events available by default.</span></span>
+* <span data-ttu-id="ffb2a-110">Parinktis **Vieta** dalyje **Tinkintos ataskaitos** negalima.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-110">The **Location** option under **Customized reports** is NOT available.</span></span>
+* <span data-ttu-id="ffb2a-111">Parinktis **Dokumentų atidarymo arba atsisiuntimo** įvykių atidaryti arba atsisiųsti negalima.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-111">The **Opening or downloading documents** events option is NOT available.</span></span>
 
-[<span data-ttu-id="c0b0d-112">Konfigūruoti svetainių rinkinio audito parametrus</span><span class="sxs-lookup"><span data-stu-id="c0b0d-112">Configure Audit settings for a site collection</span></span>](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+[<span data-ttu-id="ffb2a-112">Svetainių rinkinio audito parametrų konfigūravimas</span><span class="sxs-lookup"><span data-stu-id="ffb2a-112">Configure Audit settings for a site collection</span></span>](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a><span data-ttu-id="c0b0d-113">"SharePoint" ir "OneDrive" šiuolaikinės vieningosios audito žurnalai atitikties</span><span class="sxs-lookup"><span data-stu-id="c0b0d-113">SharePoint and OneDrive Modern Unified Audit logs from compliance</span></span>
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a><span data-ttu-id="ffb2a-113">"SharePoint" ir "OneDrive" šiuolaikinės vieningosios audito žurnalus iš atitikties</span><span class="sxs-lookup"><span data-stu-id="ffb2a-113">SharePoint and OneDrive Modern Unified Audit logs from compliance</span></span>
 
-* [<span data-ttu-id="c0b0d-114">Įjungti/išjungti vieningosios audito registravimą</span><span class="sxs-lookup"><span data-stu-id="c0b0d-114">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [<span data-ttu-id="ffb2a-114">Įjungti / išjungti vieningąjį audito registravimą</span><span class="sxs-lookup"><span data-stu-id="ffb2a-114">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-<span data-ttu-id="c0b0d-115">"SharePoint" arba "OneDrive" nereikia papildomos konfigūracijos.</span><span class="sxs-lookup"><span data-stu-id="c0b0d-115">No additional configuration is required within SharePoint or OneDrive.</span></span>
+<span data-ttu-id="ffb2a-115">"SharePoint" arba "OneDrive" nereikia papildomos konfigūracijos.</span><span class="sxs-lookup"><span data-stu-id="ffb2a-115">No additional configuration is required within SharePoint or OneDrive.</span></span>
 
-<span data-ttu-id="c0b0d-116">Naudokite audito registravimo iešką Norėdami patikrinti failo (-ų), aplanko (-ų), vartotojo (-ų), leidimų veiklą:</span><span class="sxs-lookup"><span data-stu-id="c0b0d-116">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
+<span data-ttu-id="ffb2a-116">Naudokite audito registravimo iešką failo (-ų), aplanko (-ų), vartotojo (-ų), teisių veiklai tikrinti:</span><span class="sxs-lookup"><span data-stu-id="ffb2a-116">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
 
-* [<span data-ttu-id="c0b0d-117">Failų ir puslapių veikla</span><span class="sxs-lookup"><span data-stu-id="c0b0d-117">File and page activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [<span data-ttu-id="c0b0d-118">Aplanko veikla</span><span class="sxs-lookup"><span data-stu-id="c0b0d-118">Folder activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [<span data-ttu-id="c0b0d-119">Bendrinimo ir prieigos užklausų veikla</span><span class="sxs-lookup"><span data-stu-id="c0b0d-119">Sharing and access request activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [<span data-ttu-id="c0b0d-120">Sinchronizavimo veikla</span><span class="sxs-lookup"><span data-stu-id="c0b0d-120">Synchronization activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [<span data-ttu-id="c0b0d-121">Svetainės administravimo veikla</span><span class="sxs-lookup"><span data-stu-id="c0b0d-121">Site administration activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [<span data-ttu-id="ffb2a-117">Failų ir puslapių veiklos</span><span class="sxs-lookup"><span data-stu-id="ffb2a-117">File and page activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [<span data-ttu-id="ffb2a-118">Aplanko veiklos</span><span class="sxs-lookup"><span data-stu-id="ffb2a-118">Folder activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [<span data-ttu-id="ffb2a-119">Užklausų veiklos bendrinimas ir prieiga prie jos</span><span class="sxs-lookup"><span data-stu-id="ffb2a-119">Sharing and access request activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [<span data-ttu-id="ffb2a-120">Sinchronizavimo veiklos</span><span class="sxs-lookup"><span data-stu-id="ffb2a-120">Synchronization activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [<span data-ttu-id="ffb2a-121">Svetainės administravimo veikla</span><span class="sxs-lookup"><span data-stu-id="ffb2a-121">Site administration activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-<span data-ttu-id="c0b0d-122">Daugiau informacijos apie tai, kaip nuskaityti šiuos įvykius, rasite [Ieškoti audito žurnale](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="c0b0d-122">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+<span data-ttu-id="ffb2a-122">Daugiau informacijos apie tai, kaip gauti šiuos įvykius, ieškokite [Audito žurnalo paieška](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="ffb2a-122">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
