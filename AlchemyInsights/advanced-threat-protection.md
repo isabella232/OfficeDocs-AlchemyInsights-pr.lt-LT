@@ -1,32 +1,32 @@
 ---
-title: Tarnyba 365 Išplėstinė grėsmę apsaugos
+title: "\"Office 365\" patobulinta apsauga nuo grėsmių"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664508"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710343"
 ---
-# <a name="office-365-advanced-threat-protection"></a><span data-ttu-id="66306-102">Tarnyba 365 Išplėstinė grėsmę apsaugos</span><span class="sxs-lookup"><span data-stu-id="66306-102">Office 365 Advanced Threat Protection</span></span>
+# <a name="office-365-advanced-threat-protection"></a><span data-ttu-id="f151e-102">"Office 365" patobulinta apsauga nuo grėsmių</span><span class="sxs-lookup"><span data-stu-id="f151e-102">Office 365 Advanced Threat Protection</span></span>
 
-- <span data-ttu-id="66306-103">Saugus priedais, saugos saitai ir apsimetant yra dalis, Office 365 Advanced Threat apsaugos (ATP).</span><span class="sxs-lookup"><span data-stu-id="66306-103">Safe Attachments, Safe Links, and anti-phishing are part of Office 365 Advanced Threat Protection (ATP).</span></span> <span data-ttu-id="66306-104">Enterprise E5, švietimo A5 ir "Microsoft" 365 Business yra ATP.</span><span class="sxs-lookup"><span data-stu-id="66306-104">Enterprise E5, Education A5, and Microsoft 365 Business include ATP.</span></span> <span data-ttu-id="66306-105">Visi kiti planai reikalauja add-on ATP registracijos.</span><span class="sxs-lookup"><span data-stu-id="66306-105">All other plans require an add-on ATP subscription.</span></span>
+- <span data-ttu-id="f151e-103">Saugūs priedai, saugūs saitai ir apsimetant nuo sukčiavimo apsimetant yra "Office 365" išplėstinės apsaugos nuo grėsmių (ATP) dalis.</span><span class="sxs-lookup"><span data-stu-id="f151e-103">Safe Attachments, Safe Links, and anti-phishing are part of Office 365 Advanced Threat Protection (ATP).</span></span> <span data-ttu-id="f151e-104">"Enterprise E5", "Education A5" ir "Microsoft 365 Business Premium" apima ATP.</span><span class="sxs-lookup"><span data-stu-id="f151e-104">Enterprise E5, Education A5, and Microsoft 365 Business Premium include ATP.</span></span> <span data-ttu-id="f151e-105">Visiems kitiems planams reikia priedo ATP prenumeratos.</span><span class="sxs-lookup"><span data-stu-id="f151e-105">All other plans require an add-on ATP subscription.</span></span>
 
-- <span data-ttu-id="66306-106">Turite priskirti atitinkamas licencijas apsaugoti savo vartotojams Office 365 ATP.</span><span class="sxs-lookup"><span data-stu-id="66306-106">You need to assign the appropriate licenses to protect your users by Office 365 ATP.</span></span> <span data-ttu-id="66306-107">Ieškokite [šioje temoje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kaip priedui taikyti licencijas savo vartotojams.</span><span class="sxs-lookup"><span data-stu-id="66306-107">See [this topic](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) for instructions on how to bulk apply licenses to your users.</span></span>
+- <span data-ttu-id="f151e-106">Turite priskirti atitinkamas licencijas, kad apsaugotumėte vartotojus iš "Office 365" ATP.</span><span class="sxs-lookup"><span data-stu-id="f151e-106">You need to assign the appropriate licenses to protect your users by Office 365 ATP.</span></span> <span data-ttu-id="f151e-107">Šioje [temoje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) rasite instrukcijų, kaip masiškai taikyti licencijas vartotojams.</span><span class="sxs-lookup"><span data-stu-id="f151e-107">See [this topic](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) for instructions on how to bulk apply licenses to your users.</span></span>
 
-- <span data-ttu-id="66306-108">"Office 365" visuotinis administratorių arba saugumo administratorių funkcijas Office 365 ATP saugumo & atitikties užtikrinimo centre ne **Grėsmė Managmeent** galite pasiekti \> **politikos**.</span><span class="sxs-lookup"><span data-stu-id="66306-108">Office 365 global administrators or security administrators can access Office 365 ATP features in the Security & Compliance Center at **Threat Managmeent** \> **Policy**.</span></span>
+- <span data-ttu-id="f151e-108">Visuotiniai administratoriai arba saugos administratoriai gali pasiekti "Office 365" ATP funkcijas saugos & atitikties centre **grėsmių managmeento** \> **strategijoje**.</span><span class="sxs-lookup"><span data-stu-id="f151e-108">Global administrators or security administrators can access Office 365 ATP features in the Security & Compliance Center at **Threat Managmeent** \> **Policy**.</span></span>
 
-- <span data-ttu-id="66306-109">Saugos priedus ir saugus ryšys gali būti politikos srities jums visą organizaciją, konkrečių sričių arba mažesnėse grupėse, vartotojai.</span><span class="sxs-lookup"><span data-stu-id="66306-109">Safe Attachments and Safe Link policies can be scoped you your entire organization, specific domains, or smaller groups of users.</span></span>
+- <span data-ttu-id="f151e-109">Saugių priedų ir saugių saitų strategijų taikymas gali būti taikomas visai organizacijai, konkretiems domenams arba mažesnėms vartotojų grupėms.</span><span class="sxs-lookup"><span data-stu-id="f151e-109">Safe Attachments and Safe Link policies can be scoped you your entire organization, specific domains, or smaller groups of users.</span></span>
 
-- <span data-ttu-id="66306-110">Nėra jokių nutylėjimą ATP saugius tvirtinimo politikos.</span><span class="sxs-lookup"><span data-stu-id="66306-110">There is no default ATP Safe Attachment policy.</span></span> <span data-ttu-id="66306-111">Jums reikia [sukurti politiką](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) ir taikyti jį į savo vartotojams.</span><span class="sxs-lookup"><span data-stu-id="66306-111">You need to [create a policy](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) and apply it to your users.</span></span>
+- <span data-ttu-id="f151e-110">Nėra numatytojo ATP saugaus priedo strategijos.</span><span class="sxs-lookup"><span data-stu-id="f151e-110">There is no default ATP Safe Attachment policy.</span></span> <span data-ttu-id="f151e-111">Turite [sukurti strategiją](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) ir taikyti ją vartotojams.</span><span class="sxs-lookup"><span data-stu-id="f151e-111">You need to [create a policy](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) and apply it to your users.</span></span>
 
-- <span data-ttu-id="66306-112">Yra numatytasis ATP saugos saitai strategiją, kuri taikoma visiems jūsų organizacijoje.</span><span class="sxs-lookup"><span data-stu-id="66306-112">There is a default ATP Safe Links policy that applies to everyone in your organization.</span></span> <span data-ttu-id="66306-113">Norėdami redaguoti šią politiką arba sukurti pasirinktinį politiką, peržiūrėkite [šią temą](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span><span class="sxs-lookup"><span data-stu-id="66306-113">To edit this policy or to create custom policies, see [this topic](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span></span>
+- <span data-ttu-id="f151e-112">Yra numatytoji ATP saugių saitų strategija, taikoma visiems jūsų organizacijos darbuotojams.</span><span class="sxs-lookup"><span data-stu-id="f151e-112">There is a default ATP Safe Links policy that applies to everyone in your organization.</span></span> <span data-ttu-id="f151e-113">Norėdami redaguoti šią strategiją arba kurti pasirinktines strategijas, [žr.](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)</span><span class="sxs-lookup"><span data-stu-id="f151e-113">To edit this policy or to create custom policies, see [this topic](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span></span>

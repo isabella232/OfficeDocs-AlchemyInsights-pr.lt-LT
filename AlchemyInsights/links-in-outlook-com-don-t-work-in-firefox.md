@@ -1,9 +1,9 @@
 ---
-title: Firefox neveikia nuorodos į "Outlook.com"
+title: Nuorodos Outlook.com neveikia Firefox
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: de188644b301495eb29fd828fd460107656a28ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8ae65175bdb2e9d9bc4b624c3bfc7ab6f1eda803
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542565"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709487"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a><span data-ttu-id="b2eed-102">Firefox neveikia nuorodos į "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="b2eed-102">Links in Outlook.com don't work in Firefox</span></span>
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a><span data-ttu-id="2f7fa-102">Nuorodos Outlook.com neveikia Firefox</span><span class="sxs-lookup"><span data-stu-id="2f7fa-102">Links in Outlook.com don't work in Firefox</span></span>
 
-<span data-ttu-id="b2eed-103">"Outlook.com" el. pranešimuose pateiktas nuorodas neveikia, kai jie manimi "Firefox" naršyklėse.</span><span class="sxs-lookup"><span data-stu-id="b2eed-103">Links in Outlook.com email messages don't work when they're viewed in Firefox browsers.</span></span> <span data-ttu-id="b2eed-104">Mozilla yra [darbo pakeitimą](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) "Firefox", bet iki tol:</span><span class="sxs-lookup"><span data-stu-id="b2eed-104">Mozilla is [working on a fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) for Firefox, but until then:</span></span>
+<span data-ttu-id="2f7fa-103">Nuorodos Outlook.com el. laiškų neveikia, kai jie peržiūrimi "Firefox" naršyklėse.</span><span class="sxs-lookup"><span data-stu-id="2f7fa-103">Links in Outlook.com email messages don't work when they're viewed in Firefox browsers.</span></span> <span data-ttu-id="2f7fa-104">"Mozilla" [dirba "Firefox" pataisyme,](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) bet iki tol:</span><span class="sxs-lookup"><span data-stu-id="2f7fa-104">Mozilla is [working on a fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) for Firefox, but until then:</span></span>
   
-- <span data-ttu-id="b2eed-105">Naudokite ["Microsoft Edge"](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) arba kitą interneto naršyklę.</span><span class="sxs-lookup"><span data-stu-id="b2eed-105">Please use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span>
-- <span data-ttu-id="b2eed-106">Rodyti el. pašto skaitymo srityje.</span><span class="sxs-lookup"><span data-stu-id="b2eed-106">View email in the reading pane.</span></span> <span data-ttu-id="b2eed-107">Daugiau informacijos, kaip [pakeisti savo "Outlook.com" pašto dėžutės išvaizdą](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b2eed-107">For more information, read how to [change the look of your Outlook.com mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+- <span data-ttu-id="2f7fa-105">Naudokite ["Microsoft Edge"](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) arba kitą žiniatinklio naršyklę.</span><span class="sxs-lookup"><span data-stu-id="2f7fa-105">Please use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span>
+- <span data-ttu-id="2f7fa-106">Peržiūrėkite el. laiškus skaitymo srityje.</span><span class="sxs-lookup"><span data-stu-id="2f7fa-106">View email in the reading pane.</span></span> <span data-ttu-id="2f7fa-107">Jei norite gauti daugiau informacijos, skaitykite, kaip [pakeisti Outlook.com pašto dėžutės išvaizdą](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2f7fa-107">For more information, read how to [change the look of your Outlook.com mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
