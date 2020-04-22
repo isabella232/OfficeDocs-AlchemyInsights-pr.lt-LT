@@ -1,5 +1,5 @@
 ---
-title: Įgalinti ir ieškoti audito žurnalas
+title: Įgalinti ir ieškoti audito žurnale
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703651"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Įgalinti ir ieškoti audito žurnalas
+# <a name="enable-and-search-the-audit-log"></a>Tikrinimo žurnalo įgalinimas ir paieška
 
-**„Office 365“**
+**Rodyti originalų straipsnį anglų kalba: 3085**
 
-Norėdami ieškoti "Office 365" tikrinimo žurnalą, atlikite [šiuos veiksmus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Norėdami ieškoti "Microsoft 365" audito žurnale, atlikite [šiuos veiksmus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**Mainų**
+**Exchange**
 
-- Pagal numatytuosius parametrus Exchange administratoriaus veiklos auditą.
+- Exchange administravimo veikla yra auditas pagal numatytuosius nustatymus.
 
-- Pašto dėžutės tikrinimas yra įjungtas pagal numatytuosius parametrus "Office 365". Norėdami gauti daugiau informacijos, skaitykite [šį straipsnį](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Pašto dėžutės tikrinimas yra įjungtas pagal numatytuosius nustatymus "Microsoft 365". Daugiau informacijos ieškokite [šiame straipsnyje](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Grupė "Office 365" pašto dėžutės ir viešojo aplanko pašto dėžutės Exchange Online nepalaiko audito žurnalus.
+- "Office 365" grupės pašto dėžutės ir viešojo aplanko pašto dėžutės "Exchange Online" nepalaiko audito registravimo.
 
-**SharePoint ir "OneDrive"**
+**"SharePoint" ir "OneDrive"**
 
-- Nėra jokių papildomų konfigūracija, reikalaujama, kad audito SharePoint ir "OneDrive".
+- "SharePoint" ir "OneDrive" auditui įgalinti nereikia jokios papildomos konfigūracijos.
 
-- SharePoint ir "OneDrive" palaiko audito šių rūšių veiklą:
+- "SharePoint" ir "OneDrive" palaiko šių tipų veiklų tikrinimą:
 
-    - Failo, aplanko ir puslapis veikla
-    - Dalintis ir prieigos prašymas veikla
+    - Failų, aplankų ir puslapių veiklos
+    - Užklausų veiklos bendrinimas ir prieiga prie jos
     - Svetainės administravimo veikla
-    - Failų sinchronizavimas veiklos
+    - Failų sinchronizavimo veikla
 
-- Informacijos apie audituojamo veiklą į kitus "Office 365" paslaugos, žr. [lentelę šio straipsnio](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Informacijos apie audituotą veiklą kitose tarnybose ieškokite [šio straipsnio lentelėje](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Dažnai užduodami klausimai [dažniausiai užduodamus klausimus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) apie iešką audito žurnalo sąrašą čia.
+- Čia dažnai užduodamų [klausimų](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) apie paiešką audito žurnale sąrašas.

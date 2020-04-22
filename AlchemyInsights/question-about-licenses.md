@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768628"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698282"
 ---
-# <a name="questions-about-your-office-365-license"></a>Klausimai apie "Office 365" licenciją
+# <a name="questions-about-your-microsoft-365-license"></a>Klausimai apie "Microsoft 365" licenciją
 
 Jei norite sužinoti, kiek licencijų įsigijote arba kiek licencijų priskirta iš prenumeratos:
   
 1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Raskite prenumeratą, apie kurią norite sužinoti daugiau. Galite matyti, kiek licencijų mokate ir kaip daug galima priskirti.
+2. Raskite prenumeratą, apie kurią norite sužinoti daugiau. Galite matyti licencijų, už kurias mokate, skaičių ir kiek jų galima priskirti.
 
-Jei norite pridėti daugiau licencijų arba jei turite per daug, pasirinkite **Pridėti/šalinti licencijas** , kad pakoreguotumėte įsigytą sumą.
+Jei norite įtraukti daugiau licencijų arba jei turite per daug, pasirinkite **Pridėti/šalinti licencijas,** kad pakoreguotumėte įsigytą sumą.

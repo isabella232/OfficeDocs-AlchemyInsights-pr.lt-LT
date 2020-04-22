@@ -1,9 +1,9 @@
 ---
-title: "\"Outlook.com\" negali prisijungti prie \"Outlook.com\""
+title: Outlook.com Nepavyksta prisijungti prie Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88526fdee1cf22380efd863bc808af613962e49a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537378"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698426"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Negaliu prisijungti prie "Outlook.com"
+# <a name="cant-sign-in-to-outlookcom"></a>Nepavyksta prisijungti prie Outlook.com
 
-Jei kyla problemų prisijungiant prie savo paskyros, įsitikinkite, kad paskyros hasn't buvo neaktyvūs ilgiau kaip 365 dienas. Po 365 dienų neaktyvumo, jūsų elektroninio pašto adresas bus panaikintas ir negali būti atkurta.
+Jei kyla problemų prisijungiant prie paskyros, įsitikinkite, kad paskyra nebuvo neaktyvi ilgiau nei 365 dienas. Po 365 dienų neaktyvumo jūsų el. laiškas bus ištrintas ir jo atkurti negalima.
   
-Paskyros gali būti laikinai blokuojamas, nes pastebėjome neįprastos veiklos prisijungdami. Jei jūsų sąskaita yra užblokuota, skaityti kaip [atblokuoti savo "Outlook.com" abonementą](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Jūsų paskyra gali būti laikinai užblokuota, nes pastebėjome neįprastą prisijungimo veiklą. Jei paskyra užblokuota, skaitykite, kaip [atblokuoti mano Outlook.com paskyrą](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Jei įtariate, kad jūsų "Outlook.com" abonementą buvo įsilaužta, matyti [mano Outlook.com abonementą buvo įsilaužta](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Jei įtariate, kad į Outlook.com paskyra buvo įsilaužta, [Outlook.com](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)žr.
   
-Jei pamiršote arba pametėte savo slaptažodį, galite [iš naujo nustatyti slaptažodį](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Jei pamiršote arba pametėte slaptažodį, galite [iš naujo nustatyti slaptažodį](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Skaityti daugiau apie [kai negalite prisijungti prie "Microsoft" abonementą](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Skaitykite daugiau apie [Kai negalite prisijungti prie savo "Microsoft" paskyros](https://go.microsoft.com/fwlink/p/?linkid=837479).
   

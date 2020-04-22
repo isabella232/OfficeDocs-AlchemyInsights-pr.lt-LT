@@ -1,5 +1,5 @@
 ---
-title: Antispam-5.7.23
+title: Apsaugos nuo brukalo - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 9c9bc2d04fb8efaa5e75194b4ca09316d24e018e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676505"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>FIX el. pašto pristatymo problemos klaidos kodas 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>El. pašto pristatymo problemų sprendimas klaidos kodas 5.7.23
 
 Patikrinkite savo domeno SPF DNS įrašą viešai prieinamoje SPF arba DNS įrašų tikrintuve žiniatinklyje.
 
-Patikrinkite, ar siunčiamojo laiško nebuvo nustatyta kaip šlamštas Office 365 ir nukreipiami per [didelis rizikos pristatymo telkinys](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Didelės rizikos pristatymo telkinio pranešimai nepraeis SPF patikros, todėl paskirties el. pašto organizacijos nepriims.
+Patikrinkite, ar "Microsoft" nenustatė siunčiamo pranešimo kaip pašto šiukšlių ir nurodė per [didelės rizikos pristatymo telkinį](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Didelės rizikos pristatymo telkinio pranešimai neišlaikys SPF patikrinimų, todėl paskirties el. pašto organizacija jų nepriims.
 
-Jei problema kartojasi, jums gali tekti susisiekti su pašto serverio, į kurį bandote siųsti el. laišką, administratoriumi. Užsirašykite išsamią išorinę klaidą peradresavimo pranešime.  Office 365 parama gali nepavykti toliau.
+Jei problema išlieka, gali tekti susisiekti su pašto pagrindinio kompiuterio, į kurį bandote siųsti el. laiškus, administratoriumi. Užsirašykite išsamią išorinę klaidą, pasiekiamą atmetimo pranešime. "Microsoft" palaikymo tarnyba gali negalėti toliau padėti.

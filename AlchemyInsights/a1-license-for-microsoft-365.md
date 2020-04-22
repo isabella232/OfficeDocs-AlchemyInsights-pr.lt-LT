@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687410"
 ---
 # <a name="a1-license-for-microsoft-365"></a>A1 „Microsoft 365“ licencija
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530186"
 
 - Jei jūsų įstaiga dar nenustatė „Microsoft 365 Education“, bet norite nemokamai įtraukti „Office 365“, galite [pradėti](https://www.microsoft.com/education/products/office) nurodydami el. pašto adresą. 
 
-- Jei norite **perjungti** iš kito akademinio plano į A1 planą, žr. [Perėjimas prie kito plano](https://docs.microsoft.com/lt-LT/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Jei norite **perjungti** iš kito akademinio plano į A1 planą, žr. [Perėjimas prie kito plano](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Norėdami priskirti A1 planą vartotojams, žr. [Licencijų priskyrimas vartotojams](https://docs.microsoft.com/lt-LT/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Norėdami priskirti A1 planą vartotojams, žr. [Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Svarbu**: gali tekti palaukti iki 24 valandų, kol keitimai įsigalios. 
 

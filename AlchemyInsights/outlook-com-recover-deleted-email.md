@@ -1,9 +1,9 @@
 ---
-title: Atkurti panaikintus el. laiškus į "Outlook.com"
+title: Atkurti ištrintą el. laišką Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545392"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666965"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Atkurti ištrintus el "Outlook.com"
+# <a name="recover-deleted-email-outlookcom"></a>Atkurti ištrintus el. pašto Outlook.com
 
-1. Kairiojoje srityje pasirinkite **Pašalinta**.
-2. Pasirinkite elementą, kurį norite atkurti, ir pasirinkite **atkurti**.
-3. Jei pranešimas nėra panaikinta, pasirinkite **atkurti elementus panaikinti šio aplanko** lango viršuje.
+1. Kairiojoje srityje pasirinkite **Panaikinti elementai**.
+2. Pasirinkite elementą, kurį norite atkurti, ir pasirinkite **Atkurti**.
+3. Jei pranešimo nėra panaikintuose elementuose, lango viršuje pasirinkite **Atkurti elementus, panaikintus iš šio aplanko.**
 
  **Svarbi informacija apie panaikintus elementus:**
   
-- Elementai pašalinami iš aplanko Panaikinti elementai yra atkuriami 30 dienų.
-- Jei 365 dienas nebuvote prisijungę prie savo paskyros, jūsų elektroninio pašto adresas bus panaikintas ir negali būti atkurta.
-- Neįmanoma atkurti iš vaikų abonementų panaikintų el. laiškų.
+- Elementus, pašalintus iš aplanko Pašalinta, galima atkurti 30 dienų.
+- Jei neprisijungėte prie paskyros 365 dienas, el. laiškas bus ištrintas ir jo atkurti negalima.
+- Neįmanoma atkurti el. laiškų, ištrintų iš antrinių paskyrų.
 
-Norėdami sužinoti daugiau, peržiūrėkite [Pašalintųjų el. laiškus į "Outlook.com"](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami sužinoti daugiau, [žiūrėkite Atkurti ištrintus el. laiškus Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

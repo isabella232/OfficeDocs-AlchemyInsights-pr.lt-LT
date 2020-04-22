@@ -3,7 +3,7 @@ title: Grupės įtraukimas į "SharePoint" svetainę
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676397"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Grupės įtraukimas į "SharePoint" svetainę
 
-Kai kurias "SharePoint" komandos svetaines (įskaitant sukurtas "Microsoft teams") tvarko "Office 365" grupės savininkai. "SharePoint" svetaines ir turinį taip pat galima bendrinti su "Office 365" grupėmis ir su "SharePoint" grupėmis. SharePoint grupė – tai vartotojų, kurie turi vienodas teises į svetaines ir turinį, rinkinys. Klasikinių svetainių atveju rekomenduojame naudoti grupes, kad būtų patogiau vienu metu priskirti tą patį teisių lygį daugeliui žmonių, užuot priskyrę leidimus vienam asmeniui.
+Kai kurias "SharePoint" komandos svetaines (įskaitant sukurtas "Microsoft Teams") valdo "Office 365" grupės savininkai. "SharePoint" svetaines ir turinį taip pat galima bendrinti su "Office 365" grupėmis ir "SharePoint" grupėmis. SharePoint grupė yra vartotojų, kurie visi turi tas pačias teises į svetaines ir turinį, rinkinys. Klasikinėse svetainėse rekomenduojame naudoti grupes, kad galėtumėte patogiai priskirti tą patį teisių lygį daugeliui žmonių vienu metu, o ne priskirti teises vienam asmeniui vienu metu.
   
-Valdykite Office 365 grupės narius:
+"Office 365" grupės narių valdymas:
   
-1. Eikite į ["Microsoft" 365 administravimo centro puslapį grupės](https://portal.office.com/adminportal/home#/groups).
+1. Eikite į ["Microsoft 365" administravimo centro puslapį Grupės](https://portal.office.com/adminportal/home#/groups).
     
-2. Pasirinkite grupę, kad pamatytumėte jos savininkus ir narius. Norėdami įtraukti arba pašalinti asmenis, spustelėkite saitą **Redaguoti** , esantį eilutėje **savininkai** arba **nariai** . 
+2. Pasirinkite grupę, kad pamatytumėte jos savininkus ir narius. Norėdami įtraukti arba pašalinti žmones, spustelėkite saitą **Redaguoti,** esantį eilutėje **Savininkai** arba **Nariai.** 
     
 Bendrinkite ryšio svetainę su "Office 365" grupe:
   
-1. Eikite į svetainę naršyklėje ir spustelėkite **Share svetainės** viršutiniame dešiniajame. 
+1. Eikite į naršyklę ir viršutiniame dešiniajame kampe spustelėkite **Bendrinti svetainę.** 
     
-2. Įveskite grupės pavadinimą ir pasirinkite teisių lygį (skaityti, redaguoti arba visas valdiklis).
+2. Įveskite grupės pavadinimą ir pasirinkite teisių lygį (Skaityti, Redaguoti arba Visos teisės).
     
-Sukurkite SharePoint grupę, kuri būtų naudojama su klasikine svetaine:
+Sukurkite "SharePoint" grupę, kuri bus naudojama su klasikine svetaine:
   
-1. Eikite į svetainę naršyklėje ir spustelėkite piktogramą parametrai viršutiniame dešiniajame.
+1. Eikite į naršyklę esančią svetainę ir viršutiniame dešiniajame kampe spustelėkite piktogramą Parametrai.
     
-2. Spustelėkite **Svetainės parametrai**, tada dalyje **vartotojai ir teisės**spustelėkite **svetainės teisės**.
+2. Spustelėkite **Svetainės parametrai**, tada dalyje Vartotojai ir **teisės**spustelėkite Svetainės **teisės**.
     
-3. Dėl to teises skirtuką, spustelėkite **sukurti grupę**.
+3. Skirtuke Teisės spustelėkite **Kurti grupę**.
     
 [Klasikinės komandos svetainės prijungimas prie naujos "Office 365" grupės](https://go.microsoft.com/fwlink/?linkid=2008654)
   

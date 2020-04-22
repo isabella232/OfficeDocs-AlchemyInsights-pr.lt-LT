@@ -1,5 +1,5 @@
 ---
-title: El. pašto peradresavimo nustatymas
+title: El. laiškų peradresavimo nustatymas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: a28fd31412967841063f65ddd8ef2ee97fb6f89b
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: a737cb708219730612954535f000761ac99365b2
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068411"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645644"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>El. pašto dėžutės peradresavimo parametrų tikrinimas
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Pašto dėžutės peradresavimo parametrų tikrinimas
 
-"Office 365" pašto dėžutėje lengva patikrinti el. pašto peradresavimo parametrus. Tiesiog atlikite šiuos veiksmus.
+"Microsoft 365" pašto dėžutės el. pašto peradresavimo parametrus lengva patikrinti. Tiesiog atlikite šiuos veiksmus.
   
-> Jei tai vartotojo pašto dėžutė, eikite į **vartotojų** \> **aktyvūs vartotojai** ir pasirinkite vartotoją, kurio pašto dėžutę persiunčiate. Skirtuke **paštas** pasirinkite **valdyti el. pašto peradresavimą**.
+> Jei tai vartotojo pašto dėžutė, eikite į **Vartotojai** \> **Aktyvūs vartotojai** ir pasirinkite vartotoją, kurio pašto dėžutę persiunčiate. Skirtuke **Paštas** pasirinkite **Tvarkyti el. laiškų peradresavimą**.
 
-> Jei tai yra bendrai naudojama pašto dėžutė, eikite į **grupes** \> **bendrai naudojamos pašto** dėžutės ir pasirinkite bendrai naudojamą pašto dėžutę, kurią persiunčiate. Pasirinkite **Redaguoti** el. pašto peradresavimą.
+> Jei tai bendrinama pašto dėžutė, eikite į Bendrai naudojamos **grupės** \> **pašto dėžutės** ir pasirinkite bendrinamą pašto dėžutę, kurią persiunčiate. Pasirinkite **Redaguoti** el. laiškų peradresavimui.
 
-Norėdami gauti daugiau informacijos, peržiūrėkite [konfigūruoti el. laiškų peradresavimą "Office 365"](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Jei norite gauti daugiau informacijos, [peržiūrėkite konfigūruoti el. pašto peradresavimas "Microsoft 365".](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)
   
-Norėdami siųsti nurodymus vartotojams, kad jie galėtų nustatyti el. pašto peradresavimą savo pašto dėžutėse, nukreipkite juos į [persiųsti el. laišką iš "Office 365" į kitą el. pašto paskyrą](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Atkreipkite dėmesį, kad galite persiųsti tik vieną el. pašto adresą. Jei jums reikia nustatyti peradresavimą grupei žmonių, sukurkite siuntimo sąrašą (pagal **grupes**), įtraukite vartotojus į jį ir sukonfigūruokite peradresavimą šiai grupei.
+Norėdami siųsti instrukcijas vartotojams, kad jie galėtų nustatyti el. pašto peradresavimą savo pašto dėžutėse, nukreipkite žymiklį į [Persiųsti el. laiškus iš "Microsoft 365" į kitą el. pašto paskyrą](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Atkreipkite dėmesį, kad galite persiųsti tik vieną el. pašto adresą. Jei reikia nustatyti peradresavimą žmonių grupei, sukurkite siuntimo sąrašą **(dalyje Grupės),** įtraukite vartotojus į jį ir konfigūruokite peradresavimą tai grupei.
   
-Ar turite išeinančių darbuotojų? Norėdami pamatyti rekomenduojamus veiksmus, [pašalinkite buvusį darbuotoją iš Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .
+Ar turite darbuotoją išvykstantį? Rekomenduojamų veiksmų [ieškokite Pašalinti buvusį darbuotoją iš "Microsoft 365".](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

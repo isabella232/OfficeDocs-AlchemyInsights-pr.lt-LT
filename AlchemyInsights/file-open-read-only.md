@@ -1,9 +1,9 @@
 ---
-title: Atidaryti tik skaitomą failą
+title: Failas atidarytas tik skaityti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,43 +12,43 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702782"
 ---
-# <a name="file-open-read-only"></a>Atidaryti tik skaitomą failą
+# <a name="file-open-read-only"></a>Failas atidarytas tik skaityti
 
-Jūs galite pastebėti, kad atidarant failus, jie atidaryti tik skaitomas. Kai kuriais atvejais tai papildoma sauga, pvz., kai atidarote failus iš interneto, ir kitais laikais, tai gali būti dėl parametro, kuris gali būti pakeistas. Štai keli scenarijai, kai failas atidaromas tik skaityti ir kai kuriuos veiksmus galite atlikti, kad tai pakeistumėte.
+Galite pastebėti, kad kai atidarote failus, jie atidaromi kaip skirti tik skaityti. Kai kuriais atvejais tai yra papildoma sauga, pvz., kai atidarote failus iš interneto, ir kitais atvejais, tai gali būti dėl parametro, kuris gali būti pakeistas. Štai keletas scenarijų, kai failas atidaromas tik skaityti, ir kai kuriuos veiksmus, kuriuos galite atlikti norėdami jį pakeisti.
   
- **Mano antivirusinė daro juos atidaryti tik skaityti**
+ **Mano antivirusinė programa verčia juos atidaryti tik skaityti**
   
-Kai kurios antivirusinės programos gali apsaugoti jus nuo potencialiai nesaugių failų, atidarydami juos tik skaityti. Kad sužinotumėte, kaip koreguoti šiuos parametrus, gali reikėti patikrinti antivirusinės programos teikėją. BitDefender, pavyzdžiui, yra turinio įtraukti programos išimtys čia: [kaip pridėti programos ar proceso išimtys BitDefender valdymo centras](https://aka.ms/AA6098i).
+Kai kurios antivirusinės programos gali apsaugoti jus nuo potencialiai nesaugių failų atidarydamos juos tik skaityti. Jums gali tekti kreiptis į antivirusinį teikėją, kad sužinotumėte, kaip koreguoti šiuos parametrus. BitDefender, pavyzdžiui, turi turinį pridėti paraiškos išskyrimus čia: [Kaip pridėti paraišką ar proceso išskyrimus Bitdefender Control Center](https://aka.ms/AA6098i).
   
- **Ar failo ypatybės nustatytos tik skaityti?**
+ **Ar failo ypatybės nustatytos kaip skirtos tik skaityti?**
   
-Failo ypatybes galite patikrinti dešiniuoju pelės klavišu spustelėję failą ir pasirinkę ypatybės. Jei pažymėtas atributą tik skaityti, galite nuimkite jį ir spustelėkite gerai.
+Failo ypatybes galite patikrinti dešiniuoju pelės mygtuku spustelėdami failą ir pasirinkdami Ypatybės. Jei atributas Tik skaityti pažymėtas, galite jį atžymėti ir spustelėti Gerai.
   
  **Turinys yra apsaugotame rodinyje**
   
-Failuose iš interneto ir kitų potencialiai nesaugių vietų gali būti virusų, kirminų arba kitokių kenkėjiškų programų, galinčių pakenkti jūsų kompiuteriui. Tai taip pat dažnai būna su el. pašto priedais arba atsisiųstais failais. Siekiant apsaugoti jūsų kompiuterį, failai iš šių potencialiai nesaugių vietų atidaromi apsaugotame rodinyje. Naudodami apsaugotą rodinį, galite skaityti failą ir pamatyti jo turinį, o sumažinti riziką. Daugiau informacijos apie apsaugotą rodinį ir kaip pakeisti parametrus rasite šiame straipsnyje: [kas yra apsaugotas rodinys?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Failuose iš interneto ir iš kitų potencialiai nesaugių vietų gali būti virusų, kirminų ar kitų kenkėjiškų programų, kurios gali pakenkti kompiuteriui. Taip paprastai būna ir atsiųstų el. laiškų priedų arba failų atveju. Siekiant apsaugoti kompiuterį, failai iš šių potencialiai nesaugių vietų atidaromi apsaugotame rodinyje. Naudodami apsaugotą rodinį galite skaityti failą ir matyti jo turinį, tuo pat metu sumažindami riziką. Daugiau informacijos apie apsaugotą rodinį ir kaip pakeisti parametrus ieškokite šiame straipsnyje: [Kas yra apsaugotas rodinys?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Ar "OneDrive" pilna?**
   
-Jei failas saugomas "OneDrive" ir jūsų "OneDrive" saugykla yra pilna, negalėsite įrašyti dokumento, kol nesate jūsų paskirta vieta. Galite patikrinti savo laisvą vietą "OneDrive" spustelėję "OneDrive" piktogramą pranešimų centre ir pasirinkę tvarkyti saugyklos vietą, arba galite pereiti prie [http://onedrive.live.com](http://onedrive.live.com), prisijungti ir įsidėmėti panaudotos vietos dydį apatiniame kairiajame ekrano kampe.
+Jei failas saugomas "OneDrive", o "OneDrive" saugykla pilna, dokumento negalėsite įrašyti, kol nebūsite po paskirtoje vietoje. Galite patikrinti laisvą vietą "OneDrive" spustelėdami "OneDrive" piktogramą pranešimų centre ir [https://onedrive.live.com](https://onedrive.live.com)pasirinkdami Tvarkyti saugyklą arba galite eiti į , prisijungti ir atkreipti dėmesį į naudotos vietos kiekį apatiniame kairiajame ekrano kampe.
   
- **Ar "Office" suaktyvinta?**
+ **Ar "Office" suaktyvintas?**
   
-Jei "Office" nesuaktyvinta arba baigėsi prenumeratos galiojimo laikas, galite būti tik skaitymo sumažinto funkcionalumo režimu. Informacijos, kaip aktyvinti "Office", rasite: ["Office" nelicencijuotų produktų ir aktyvinimo klaidų](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jei "Office" nesuaktyvintas arba baigėsi prenumeratos galiojimo laikas, galite būti tik skaitymo mažesnių funkcinių galimybių režimu. Informacijos apie tai, kaip aktyvinti "Office", ieškokite: [Nelicencijuoto produkto ir aktyvinimo klaidos "Office".](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
- **Jei visa kita nepavyksta...**
+ **Jei visa kita nepavyks...**
   
 - Pabandykite iš naujo paleisti kompiuterį
     
 - "Office" naujinimų diegimas
     
-- Atlikti internetinį "Office" taisymą
+- "Office" taisymo tinkle atlikimas
     
 

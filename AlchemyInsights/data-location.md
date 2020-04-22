@@ -10,27 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627854"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655290"
 ---
 # <a name="data-location"></a>Duomenų vieta
 
-Galite peržiūrėti savo "Office 365" nuomotojo vietą administravimo centre arba prisijungti prie "Exchange Online" per "PowerShell".
+Galite peržiūrėti savo nuomotojo vietą administravimo centre arba prisijungę prie "Exchange Online" per "PowerShell".
 
 
 **Administravimo centras:**
 1. Prisijunkite prie [administravimo centro](https://admin.microsoft.com/Adminportal/Home).
-2. Pasirinkite **Parametrai** > **organizacijos profilis**.
-3. Dalyje **duomenų vieta**pasirinkite **Peržiūrėti išsamią informaciją**.
+2. Pasirinkite **Parametrai** > **Organizacijos profilis**.
+3. Dalyje **Duomenų vieta**pasirinkite **Peržiūrėti išsamią informaciją**.
 
 
 **Powershell:**
-1. Prisijungti prie Exchange Online naudojant "Windows PowerShell".
-2. Vykdyti [gauti-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet Rodyti savo nuomotojo ypatybes sąrašą. 
-3. Peržiūrėkite ypatybę OrganizationId.
+1. Prisijunkite prie "Exchange Online" naudodami "Windows PowerShell".
+2. Vykdykite [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet, kad būtų rodomas nuomotojo ypatybių sąrašas. 
+3. Pažvelkite į OrganizationId ypatybę.
 
-Jei turite EXO ir SPO duomenų vietą, galite nustatyti duomenų vietą kitoms paslaugoms, kurias galite naudoti iš [ten, kur yra jūsų duomenys](https://products.office.com/where-is-your-data-located).
+Jei turite EXO ir SPO duomenų vietą, galite nustatyti kitų paslaugų, kurias galite [naudoti, duomenų](https://products.office.com/where-is-your-data-located)vietą iš Kur yra jūsų duomenys .

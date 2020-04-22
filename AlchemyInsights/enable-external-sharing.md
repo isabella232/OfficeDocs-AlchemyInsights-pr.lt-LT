@@ -1,42 +1,42 @@
 ---
-title: Išorinio bendrinimo įjungimas
+title: Išorinio bendrinimo įgalinimas
 ms.author: pebaum
 author: pebaum
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 5d8de2b0f29409b585451b160e421ad7eaac4cef
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052729"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703615"
 ---
-# <a name="enable-external-sharing"></a>Išorinio bendrinimo įjungimas
+# <a name="enable-external-sharing"></a>Išorinio bendrinimo įgalinimas
 
- Norėdami užtikrinti, kad bendrinimo įgalintas SharePoint Online:
+ Norėdami užtikrinti, kad bendrinimas įgalintas "SharePoint Online":
   
 - **Visuotinis bendrinimas**
     
-  - Portalas-\> Išorinis bendrinimas-\> bendrinimo apžvalga-svetainės, leisti išoriniams žmonėms pasiekti jūsų svetaines: on
+  - Portalas\> –\> išorinis bendrinimas – bendrinimo apžvalga - Svetainės, Leisti išoriniams žmonėms pasiekti jūsų svetaines: ĮJUNGTA
     
-  - Portalas-\> Išorinis bendrinimas-\> svetainės-"Leiskite išoriniams žmonėms pasiekti jūsų svetaines" žymės langelis
+  - Portalas\> –\> išorinis bendrinimas – svetainės – žymės langelis "Leisti išoriniams žmonėms pasiekti jūsų svetaines"
     
-- **Administracinis bendrinimas – "SharePoint" administravimo centras**
+- **Administravimo bendrinimas – "SharePoint" administravimo centras**
     
-    Išorinis bendrinimas – užtikrinama, kad būtų pasirinktos abi pasirinktys:
+    Išorinis bendrinimas – įsitikinkite, kad pasirinkta viena iš dviejų parinkčių:
     
-  - "Leisti išoriniams vartotojams, kurie priima bendrinimo kvietimus ir prisijungti kaip autentifikuotiems vartotojams"
+  - "Leisti išoriniams vartotojams, kurie priima kvietimus bendrinti ir prisijungia kaip autentifikuoti vartotojai"
     
-  - "Leisti tiek išoriniams vartotojams, kurie priimti bendro naudojimo kvietimai ir anoniminius Svečių nuorodos"
+  - "Leisti tiek išoriniams vartotojams, kurie priima kvietimus bendrinti ir anoniminius svečių saitus"
     
 - **Individualūs svetainių rinkiniai**
     
-  - Svetainių rinkiniai – pasirinkite atitinkamą svetainių rinkinį, tada spustelėkite bendrinimas – nuo juostelės,\> kad būtų pasirinktos bendrinimo parinktys.
+  - Svetainių rinkiniai – pasirinkite atitinkamą svetainių rinkinį, tada\> juostelėje spustelėkite Bendrinimas – įsitikinkite, kad pasirinktos bendrinimo parinktys.
     
-Jei norite gauti papildomos informacijos apie tai, kaip įjungti išorinį bendrinimą, žiūrėkite [Įjungti arba išjungti išorinį bendrinimą, skirtą "SharePoint Online".](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Papildomos informacijos, kaip įjungti išorinį bendrinimą, [ieškokite Išorinio bendrinimo įjungimas arba išjungimas naudojant "SharePoint Online".](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

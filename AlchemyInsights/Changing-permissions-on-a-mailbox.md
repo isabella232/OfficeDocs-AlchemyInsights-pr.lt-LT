@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734389"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692521"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Pašto dėžutės teisių keitimas
 
-Jei vartotojams reikia prieigos prie "Office 365" pašto dėžučių, išskyrus jų pačių, jiems turi būti suteiktos teisės dirbti su tomis pašto dėžutėmis. Šių teisių priskyrimas priklauso nuo pašto dėžutės tipo. Jei vartotojams reikia prieigos prie:
+Jei vartotojams reikia prieigos prie pašto dėžučių, išskyrus savo, jiems turi būti suteiktos teisės dirbti su tomis pašto dėžutėmis. Kaip priskiriate šias teises, priklauso nuo pašto dėžutės tipo. Jei vartotojams reikia prieigos prie:
   
-- Kitų vartotojų pašto dėžutes – žiūrėkite [suteikti pašto dėžučių teises kitam "Office 365" vartotojui](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Kito vartotojo pašto dėžutės – žiūrėkite [Pašto dėžutės teisių kitam vartotojui teisia.](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)
     
-- Bendrai naudojamos pašto dėžutės-ieškokite [įtraukti arba pašalinti nariai iš bendrai naudojamos pašto dėžutės](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Bendrinama pašto dėžutė – žiūrėkite [Narių įtraukimas arba šalinimas iš bendrai naudojamos pašto dėžutės](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Jei teisės tinkamai neveikia atlikę nurodytus veiksmus, eikite į Exchange administravimo centro ir pabandykite nustatyti teises iš ten (žr. [gavėjų teisių valdymas](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Jei atlikus anksčiau nurodytus veiksmus teisės veikia netinkamai, eikite į "Exchange" administravimo centrą ir pabandykite nustatyti teises iš ten (žr. [gavėjų teisių valdymas](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

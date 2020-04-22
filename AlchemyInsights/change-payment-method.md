@@ -1,5 +1,5 @@
 ---
-title: Mokėjimo būdo keitimas
+title: Keisti mokėjimo būdą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068295"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655506"
 ---
-# <a name="change-payment-method"></a>Mokėjimo būdo keitimas
+# <a name="change-payment-method"></a>Keisti mokėjimo būdą
 
-Galite patikrinti ir pakeisti mokėjimo būdą, kuris yra sukonfigūruotas "Microsoft" 365 administravimo centras. Pasirinkite prenumeratą, kurią norite patvirtinti. Mokėjimo būdas, sukonfigūruotas prenumeratai, rodomas dalyje **atsiskaitymas**.
+Galite patikrinti ir pakeisti mokėjimo būdą, kuris yra sukonfigūruotas "Microsoft 365" administravimo centre. Pasirinkite prenumeratą, kurią norite patvirtinti. Prenumeratos sukonfigūruotas mokėjimo metodas rodomas dalyje **Atsiskaitymas**.
   
 1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Raskite prenumeratą, kurios mokėjimo metodą norite pakeisti. Šalia mokėjimo būdo pasirinkite **Redaguoti**.
+2. Raskite prenumeratą, kurios mokėjimo būdą norite pakeisti. Šalia mokėjimo metodo pasirinkite **Redaguoti**.
 
-3. Atlikite veiksmus ekrane, kad užbaigtumėte keitimą.
+3. Atlikite ekrane pateikiamus veiksmus, kad užbaigtumėte pakeitimą.
 
-Norėdami sužinoti daugiau, žiūrėkite [Keisti mokėjimo būdą, skirtą Office 365 verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Norėdami sužinoti daugiau, [žiūrėkite "Microsoft 365" verslui mokėjimo būdo keitimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

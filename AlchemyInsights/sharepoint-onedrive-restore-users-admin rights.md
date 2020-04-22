@@ -1,5 +1,5 @@
 ---
-title: Trikčių diagnostikos prieiga uždrausta pranešimus į "OneDrive" verslui svetainės
+title: Prieigos uždraustų pranešimų į "OneDrive" verslui svetaines trikčių diagnostika
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9d8aba4e53a1e0505a430296bb1c11713ea2ce7b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a83936acf969926c113b28ceb22b006cdb96e2b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051613"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692809"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Trikčių diagnostikos prieiga uždrausta pranešimus į "OneDrive" verslui svetainės
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Prieigos uždraustų pranešimų į "OneDrive" verslui svetaines trikčių diagnostika
 
-Ši problema dažniausiai kyla, kai vartotojas panaikinamas ir iš naujo sukurtas naudojant tą patį vartotojo vardą (UPN). Naujas abonementas sukuriamas naudojant kitą PUID (paso unikalų ID) reikšmę. Kai vartotojas bando prieiti prie svetainių rinkinio arba jų "OneDrive", vartotojas turi neteisingą PUID. Antrasis scenarijus apima katalogų sinchronizavimas su Active Directory organizacinio vieneto (OU). Jei vartotojai jau prisijungė prie "SharePoint", ir tada perkeliami į kitą OU ir resynced su "SharePoint", jie gali kilti ši problema.
+Ši problema dažniausiai kyla, kai vartotojas panaikinamas ir iš naujo sukuriamas su tuo pačiu vartotojo vardą (UPN). Nauja sąskaita sukuriama naudojant kitą PUID (paso unikalų ID) reikšmę. Kai vartotojas bando pasiekti svetainių rinkinio arba jų "OneDrive", vartotojas yra neteisingas PUID. Antrasis scenarijus apima katalogų sinchronizavimą su Active Directory organizacinio vieneto (OU). Jei vartotojai jau prisijungė prie "SharePoint", o tada perkeliami į kitą OU ir sinchronizuojami su "SharePoint", jie gali susidurti su šia problema.
 
-1. Norėdami išspręsti šią problemą, reikia atkurti pradinį UPN su straipsnyje nurodytus veiksmus, [atkurti vartotojo Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Jei negalite atkurti originalaus vartotojo, turėtumėte pašalinti seną vartotoją iš "OneDrive" svetainės atlikdami šiuos veiksmus, [pašalinkite vartotoją iš vartotojo informacijos sąrašo](). 
-3. Kai tai padarysite, galite patikrinti, ar vartotojas turi administratoriaus teises į "OneDrive" svetainę atlikdami veiksmus, Norėdami [pridėti administratoriaus vartotojo "OneDrive"](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. Norėdami išspręsti šią problemą, turėtumėte atkurti pradinį UPN su straipsnyje nurodytais veiksmais, [atkurti "Microsoft 365" vartotoją](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Jei negalite atkurti pradinio vartotojo, turėtumėte pašalinti seną vartotoją iš "OneDrive" svetainės atlikdami šiuos veiksmus, [pašalinkite vartotoją iš vartotojo informacijos sąrašo](). 
+3. Atlikę tai, galite patikrinti, ar vartotojas turi administratoriaus teises į "OneDrive" svetainę, atlikdami [veiksmus, norėdami įtraukti administratoriaus vartotojo "OneDrive"](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Daugiau informacijos apie teisių lygius rasite straipsnyje " [SharePoint" teisių lygių supratimas](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Daugiau informacijos apie teisių rinkinius ieškokite straipsnyje [Teisių lygių supratimas "SharePoint".](https://docs.microsoft.com/sharepoint/understanding-permission-levels)

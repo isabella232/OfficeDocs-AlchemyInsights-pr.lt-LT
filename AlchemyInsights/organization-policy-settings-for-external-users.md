@@ -10,20 +10,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054494"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642008"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Išorinių vartotojų organizacijos strategijos parametrai
 
-Vartotojai gali matyti šį įspėjimo pranešimą, kai jie bando pasidalinti su išoriniais vartotojais jūsų organizacijoje: 
+Vartotojai, bandydami bendrinti su išoriniais organizacijos vartotojais, gali matyti šį įspėjimo pranešimą: 
 
-   **Jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais. Eikite į Išorinis bendrinimas "Office 365" administravimo centre, kad jį įjungtumėte.** 
+   **Jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais. Eikite į Išorinis bendrinimas "Microsoft 365" administravimo centre, kad jį įjungtumėte.** 
 
-Tai dažnai atsitinka pirmą kartą bandant bendrinti su išoriniais vartotojais arba bendrindami su naujais išoriniais vartotojais. Norėdami gauti daugiau informacijos, žiūrėkite žemiau pateiktą straipsnį:
+Taip dažnai nutinka pirmą kartą bandant bendrinti su išoriniais vartotojais arba bendrinant su naujais išoriniais vartotojais. Daugiau informacijos rasite toliau pateiktame straipsnyje:
 
 [Jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 

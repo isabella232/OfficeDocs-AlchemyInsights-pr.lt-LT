@@ -1,5 +1,5 @@
 ---
-title: DKIM "Office 365" sąranka
+title: Nustatyti DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666272"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645680"
 ---
-# <a name="setup-dkim-in-office-365"></a>DKIM "Office 365" sąranka
+# <a name="setup-dkim"></a>Nustatyti DKIM
 
-Visą instrukciją konfigūravimo DKIM pasirinktinius domenus "Office 365" yra [čia](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Išsami instrukcija konfigūruoti DKIM pasirinktinių domenų Microsoft 365 yra [čia](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. **Kiekvieno** vartotojo domeno, turite sukurti **du** DKIM CNAME įrašus ne savo domeno DNS išteklių nuomos tarnybą (paprastai, domenų registratorius). Pvz., contoso.com ir fourthcoffee.com reikia keturių DKIM CNAME įra us: du contoso.com ir du fourthcoffee.com.
+1. **Kiekvienam** pasirinktiniam domenui turite sukurti **du** DKIM CNAME įrašus domeno DNS išteklių nuomos tarnyboje (paprastai domenų registratoriuje). Pavyzdžiui, contoso.com ir fourthcoffee.com reikia keturių DKIM CNAME įrašų: du contoso.com ir du fourthcoffee.com.
 
-   DKIM CNAME įrašus apie **kiekvieno** individualiame domene naudoti šiuos formatus:
+   DKIM CNAME įrašai **kiekvienam** pasirinktiniam domenui naudoja šiuos formatus:
 
    - **Pagrindinio kompiuterio vardas**:`selector1._domainkey.<CustomDomain>`
 
-     **Atkreipia dėmesį į adresą arba vertė**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Nukreipia adresu arba reikšmė:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
    - **Pagrindinio kompiuterio vardas**:`selector2._domainkey.<CustomDomain>`
 
-     **Atkreipia dėmesį į adresą arba vertė**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Nukreipia adresu arba reikšmė:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> -tekstas kairėje `.mail.protection.outlook.com` į individualų pasirinktinio domeno MX įrašas (pavyzdžiui, `contoso-com` už domeno contoso.com). \<InitialDomain\> yra domenas, kurį naudojote, kai prisiregistravote prie "Office 365" (pvz., contoso.onmicrosoft.com).
+   \<DomainGUID\> yra pasirinktinio domeno `.mail.protection.outlook.com` tinkinto MX įrašo tekstas į kairę (pvz., `contoso-com` domeno contoso.com). \<InitialDomain\> yra domenas, kurį naudojote prisiregistruodami naudoti "Microsoft 365" (pvz., contoso.onmicrosoft.com).
 
-2. Sukūrę CNAME įra us Pasirinktinių domenų, atlikite šiuos nurodymus:
+2. Sukūrę pasirinktinių domenų CNAME įrašus, atlikite toliau nurodytas instrukcijas:
 
-   a. [Prisijunkite prie "Office 365"](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) su savo darbovietės ar mokyklos paskyros.
+   A. [prisijunkite prie "Microsoft 365"](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) naudodami savo darbo arba mokymo įstaigos paskyrą.
 
-   b. Pasirinkite programos paleidimo piktograma viršutiniame kairiajame ir **administratorius**.
+   B. Viršutiniame kairiajame kampe pasirinkite taikomųjų programų vykdyklės piktogramą ir pasirinkite **Administravimas**.
 
-   c. Apatiniame kairiajame naršymo, išplėskite **Admin** ir pasirinkite **Exchange**.
+   C. Apatinėje kairiojoje naršymo srityje išplėskite **Administravimas** ir pasirinkite **Exchange**.
 
-   d. Eikite į **saugos** > **DKIM**.
+   D. Eikite į **Apsauga** > **DKIM**.
 
-   e. Pasirinkite domeno, tada pasirinkite **įjungti** pranešimams **pasirašyti šio domeno su DKIM parašais**. Pakartokite šį veiksmą kiekvienam individualiame domene.
+   E. Pasirinkite domeną, tada pasirinkite **Įgalinti** **šio domeno pranešimams pasirašyti su DKIM parašais**. Pakartokite šį veiksmą su kiekvienu pasirinktiniu domenu.

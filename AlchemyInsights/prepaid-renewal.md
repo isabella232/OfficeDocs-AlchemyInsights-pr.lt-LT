@@ -1,9 +1,9 @@
 ---
-title: Išankstinio mokėjimo pratęsimo
+title: Išankstinis atnaujinimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666704"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666785"
 ---
-# <a name="prepaid-office-365-renewal"></a>Išankstinio mokėjimo "Office 365" atnaujinimas
+# <a name="prepaid-microsoft-365-renewal"></a>Iš anksto apmokėtas "Microsoft 365" atnaujinimas
 
-1. Administravimo centro, eikite į **atsiskaitymo** \> [produktai & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Raskite norimą pratęsti prenumeratą. Skiltį **atsiskaitymo** pasirinkite **išplėsti pabaigos data**.
+2. Raskite prenumeratą, kurią norite išplėsti. Skiltyje **Atsiskaitymas** pasirinkite **Pratęsti pabaigos datą**.
 
-3. **Pratęsti prenumeratą** srityje, pasirinkite **naudoti naujas ir nepanaudotas produkto kodą**, tada pasirinkite **kitą**.
+3. Srityje **Išplėsti prenumeratą** pasirinkite **Naudoti naują ir nenaudojamą produkto kodą**, tada pasirinkite **Pirmyn**.
 
-4. Įveskite produkto kodą, tada pasirinkite **kitą**.
+4. Įveskite produkto kodą, tada pasirinkite **Pirmyn**.
 
 > [!NOTE]
-> Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Pridėti kitą produkto kodą** į jas patekti.
+> Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Įtraukti kitą produkto kodą,** kad jį įvestumėte.
 
-5. Peržiūrėti savo užsakymo duomenis ir pasirinkite **panaudoti**.
+5. Peržiūrėkite savo užsakymo informaciją, tada pasirinkite **Panaudoti**.
 
-Norėdami sužinoti daugiau, žr. [įtraukti licencijas arba pratęsti prenumeratą išmokama naudojant produkto kodą](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Norėdami sužinoti daugiau, žiūrėkite [Licencijų įtraukimas į arba prenumeratos, už kurią mokama už produkto kodo naudojimą, išplėtimas](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

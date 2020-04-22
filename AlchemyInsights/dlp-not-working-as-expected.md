@@ -3,7 +3,7 @@ title: DLP neveikia taip, kaip tikėtasi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704421"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP neveikia taip, kaip tikėtasi
 
@@ -32,7 +32,7 @@ DLP strategijos leidžia identifikuoti ir apsaugoti slaptą informaciją jūsų 
   
  **Kokių DLP politikos sričių ieškote**
   
-Naudojant **įtaisytuosius slaptos informacijos tipus** "Office 365" saugos ir atitikties centre, DLP strategijos eis dami šiuos slaptus tipus ieško konkrečių modelių ir elementų.
+Naudojant **įtaisytuosius slaptos informacijos tipus** saugos ir atitikties centruose, DLP strategijos eisdami šiuos slaptus tipus ieško konkrečių modelių ir elementų.
   
 - **Įtaisytieji slaptos informacijos tipai**
 

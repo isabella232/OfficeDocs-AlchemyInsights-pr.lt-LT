@@ -1,5 +1,5 @@
 ---
-title: "\"Trikčių diagnostika trūksta failus arba aplankus"
+title: "\"Trūkstamų failų arba aplankų trikčių diagnostika"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,36 +10,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053845"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692845"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Trikčių diagnostika trūkstamų failų ir aplankų "OneDrive" arba "SharePoint"
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Trūkstamų failų arba aplankų trikčių diagnostika "OneDrive" arba "SharePoint"
 
-- [Patikrinkite šiukšlinės svetainės](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Patikrinkite svetainės šiukšlinę](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Elementų atkūrimas "SharePoint" svetainės šiukšlinėje](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- ["SharePoint" svetainės šiukšlinės elementų atkūrimas](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
 **Failų atkūrimo funkcija**
 
-Jei "OneDrive" arba "SharePoint" failai panaikinami, perrašomi, sugadinami arba užkrėsti kenkėjiškomis programomis, galite atkurti visą "OneDrive" arba "SharePoint" biblioteką naudodami failų atkūrimo funkciją.
+Jei daug "OneDrive" arba "SharePoint" failų bus panaikinta, perrašyta, sugadinta arba užkrėsta kenkėjiškomis programomis, galite atkurti visą "OneDrive" arba "SharePoint" biblioteką anksčiau naudodami failų atkūrimo funkciją.
 
-- ["OneDrive" bibliotekos atkūrimas](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+- [„OneDrive“ bibiliotekos atkūrimas](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-- [Atkurti dokumentų biblioteką](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Dokumentų bibliotekos atkūrimas](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Norėdami patikrinti failo retrospektyvą, naudokite audito registravimą arba failų veiklos sritį**
+**Naudoti audito registravimą arba failo veiklos sritį failo retrospektyvai tikrinti**
 
-[Audito ataskaitų](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> tikrinimas naršant [čia](https://protection.office.com/#/unifiedauditlog)
+[Peržiūrėkite audito ataskaitas](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> čia [naršydami](https://protection.office.com/#/unifiedauditlog)
 
-Norėdami patikrinti failo retrospektyvą, naudokite [failų veiklos](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) sritį.
+Naudokite [failo veiklos](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) sritį, kad patikrintumėte failo retrospektyvą.
 
-Patikrinkite, ar "OneDrive" sinchronizavimo klientas jūsų vietiniame kompiuteryje.  Jei sinchronizuojate failus kompiuteryje per "OneDrive" sinchronizavimo klientą, Patikrinkite vietinio sinchronizavimo aplanką, kad įsitikintumėte, jog jis tinkamai įkeltas. Įsitikinkite, kad jūs taip pat patikrinti šiukšlinę ant jūsų vietinio kompiuterio.
+Patikrinkite "OneDrive" sinchronizavimo klientą vietiniame kompiuteryje.  Jei sinchronizuojate kompiuteryje esančius failus per "OneDrive Sync" klientą, patikrinkite vietinį sinchronizavimo aplanką, kad įsitikintumėte, jog jis tinkamai įkeltas. Įsitikinkite, kad taip pat patikrinkite šiukšlinę vietiniame kompiuteryje.
 
 
 

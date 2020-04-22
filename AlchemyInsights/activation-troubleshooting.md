@@ -2,7 +2,7 @@
 title: Aktyvinimo trikčių šalinimas
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495579"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676433"
 ---
 # <a name="activation-troubleshooting"></a>Aktyvinimo trikčių šalinimas
 
-**Valdymo** skyde \> **programos ir funkcijos**, ieškoti Office. Turėtumėte matyti "Microsoft" "Office 365 ProPlus" arba "Microsoft" Office 365 Business. Jei daugiau nei viena versija išvardytų, pašalinti nenaudojamus versija.
+**Valdymo skydo** \> **programos ir funkcijos**ieškokite "Office". Turėtumėte matyti "Microsoft 365" programėles, skirtas įmonei, arba "Microsoft 365" programėles verslui. Jei matote daugiau nei vieną „Office“ versiją, išdiekite versiją, kurios nenaudojate.
   
-Jei jums nepavyksta sėkmingai naudodami valdymo skydą, naudoti [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy) pašalinti nenaudojamus versiją.
+Jei negalite sėkmingai pašalinti naudodami valdymo skydą, naudokite [palaikymo ir atkūrimo asistentą,](https://aka.ms/SARA-OfficeUninstall-Alchemy) kad pašalintumėte nenaudotą versiją.
   
-Jei Office yra dar nelicencijuotų, grįžti į **Valdymo skydas** \> **programos ir funkcijos**. Dešiniuoju pelės mygtuku spustelėkite likusias Office diegimą, pasirinkite **keisti** (arba keisti), ir tada pasirinkti **Online remonto**. Online remonto gali užtrukti. Tada iš naujo paleiskite Office ir prisijungti naudodami savo darbo arba mokymo įstaigos paskyra, paraginti.
+Jei "Office" vis dar nelicencijuotas, grįžkite į **valdymo skydo** \> **programas ir funkcijas**. Dešiniuoju pelės mygtuku spustelėkite likusį "Office" diegimą, pasirinkite **Modifikuoti** (arba Keisti), tada pasirinkite **Atkūrimas tinkle**. Atkūrimas internete gali šiek tiek užtrukti. Tuomet, paleiskite „Office“ iš naujo ir, jeigu būsite paraginti, prisijunkite naudodami darbo arba mokymo įstaigos paskyrą.
   
-Jei biuras yra vis dar be leidimų, atsisiųskite ir paleiskite [aktyvinimo trikčių diagnostikos priemonė](https://aka.ms/SARA-OfficeActivation-Alchemy) įtakos mašina kad aktyvinimo problemos.
+Jei "Office" vis dar nelicencijuotas, atsisiųskite ir paleiskite susijusio kompiuterio [aktyvinimo trikčių diagnostikos priemonę,](https://aka.ms/SARA-OfficeActivation-Alchemy) kad išspręstumėte aktyvinimo problemas.
   
-Daugiau informacijos rasite: [nelicencijuotas produktas ir naudojant Office aktyvinimo klaidos](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Daugiau informacijos ieškokite: [Nelicencijuoto produkto ir aktyvinimo klaidos "Office".](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

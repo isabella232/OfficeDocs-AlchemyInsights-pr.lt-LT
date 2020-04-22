@@ -1,8 +1,8 @@
 ---
-title: Pridėti arba pašalinti vartotojo el. pašto pseudonimą
+title: Vartotojo el. pašto pseudonimo pridėjimas arba šalinimas
 ms.author: pebaum
 author: pebaum
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 006fb3ea242d43cd4ad3aa589ca876b33bca618b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ef86d3c875dbc43910bfc4ce132e746a5395d800
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050461"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682120"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>Vartotojo el. pašto adreso pridėjimas arba pašalinimas
+# <a name="add-or-remove-an-email-address-for-a-user"></a>Vartotojo el. pašto adreso pridėjimas arba šalinimas
 
-[Atlikite šiuos veiksmus](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Microsoft 365 administravimo centro pradėti.
+[Norėdami](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) pradėti, atlikite šiuos veiksmus "Microsoft 365" administravimo centre.
 
- **Pastaba**: jūs galite turėti daugiau nei vieną elektroninio pašto adresą vartotojui, bet papildomų *elektroninio pašto slapyvardžius* galima naudoti tik gauti el. Jei jums reikia siųsti el. laišką su pseudonimu, sukurkite [bendrinamą pašto dėžutę](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). Tokiu būdu gausite pseudonimą siųsti ir gauti laiškus.
+ **Pastaba:** galite turėti daugiau nei vieną vartotojo el. pašto adresą, tačiau papildomi *el. Pašto slapyvardžiai* gali būti naudojami tik el. Paštui gauti. Jei reikia siųsti el. laiškus su pseudonimu, sukurkite [bendrinamą pašto dėžutę](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). Tokiu būdu gausite pseudonimą siųsti ir gauti laiškus.
   

@@ -1,9 +1,9 @@
 ---
-title: 1314 dubliuoti objekto atkūrimo
+title: 1314 Objekto taisymas dublikate
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529440"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703975"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Dubliuoti objekto Sinchronizavimo klaidos
+# <a name="duplicate-object-synchronization-errors"></a>Pasikartojančios objektų sinchronizavimo klaidos
 
-Jeigu yra sinchronizavimo metu gaunate vieną iš šių klaidos pranešimų:
+Jei sinchronizavimo metu gaunate vieną iš šių klaidų:
 
-- Sinchronizuoti objektą su pačiu tarpinio serverio adresas jau yra Microsoft Online Services Directory.
+- Sinchronizuotas objektas su tuo pačiu tarpinio serverio adresu jau yra jūsų Microsoft Online Services kataloge.
 
-- Panašus pranešimas dėl UserPrincipalName.
+- Panašus pranešimas UserPrincipalName.
 
-Naudoti naują AADConnect sveikatos diagnostikos spręsti pasikartojančių objektų klaidų. Norėdami gauti daugiau informacijos, žr [diagnozuoti ir eksploatavimo besidubliuojančių atributas Sinchronizavimo klaidos](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Naudokite naują AADConnect sveikatos diagnostika norėdami išspręsti pasikartojančių objekto klaidų. Daugiau informacijos ieškokite [Duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

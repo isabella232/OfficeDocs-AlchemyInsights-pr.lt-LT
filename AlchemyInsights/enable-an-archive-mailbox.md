@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132619"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703687"
 ---
 # <a name="enable-an-archive-mailbox"></a>Archyvo pašto dėžutės įgalinimas
 
@@ -25,7 +25,7 @@ Archyvuokite pašto dėžutes "Office 365" (dar *vadinamose "Online Archives"* a
   
 1. Eikite [https://protection.office.com](https://protection.office.com)į .
 
-2. Prisijunkite prie "Office 365" naudodami administratoriaus abonementą.
+2. Prisijunkite prie "Microsoft 365" naudodami administratoriaus abonementą.
 
 3. Saugos &amp; atitikties centro kairiojoje srityje pasirinkite **Informacijos valdymo** \> **archyvas**.
 
@@ -51,6 +51,6 @@ Norėdami įgalinti bendrai naudojamos pašto dėžutės archyvą:
 
 Daugiau informacijos rasite:
   
-- [Archyvo pašto dėžučių įgalinimas "Office 365"](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Įgalinti archyvo pašto dėžutes](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Archyvo ir naikinimo strategijos nustatymas "Office 365"](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Archyvo ir naikinimo strategijos nustatymas](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

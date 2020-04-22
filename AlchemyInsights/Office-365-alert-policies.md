@@ -1,5 +1,5 @@
 ---
-title: 1385-Biuro-365-įspėjimo politika
+title: 1385-Office-365 įspėjimo strategijos
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661304"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687626"
 ---
-# <a name="office-365-alert-policies"></a>"Office 365" įspėjimų politika
+# <a name="alert-policies"></a>Įspėjimo strategijos
 
-Office 365 saugos & atitikties centras siūlo [numatytąsias įspėjimų strategijas](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , kurios suaktyvins įspėjimus organizacijoms, kurių tarnyba 365 Enterprise arba Office 365 JAV vyriausybė E1/G1, E3/G3 arba E5/G5 prenumerata. Todėl administratoriai gali gauti perspėjimo el. pašto pranešimą, atsiųstą Office365Alerts@microsoft.com su temos eilute, pvz., "Įspėjimas dėl mažo pavojingumo: *įspėjimo strategijos pavadinimas*". Įspėjimų pranešimai siunčiami, kai įspėjimai paleidžiami bendrai veiklai, pvz., kai vartotojai:
+"Microsoft 365" saugos & atitikties centre siūlomos [numatytosios įspėjimų strategijos,](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) kurios suaktyvina įspėjimus organizacijoms, naudojančios "Office 365 Enterprise" arba "Office 365 US Government E1/G1", E3/G3 arba E5/G5 prenumeratą. Todėl administratoriai gali gauti įspėjimo el. laišką pranešimą, kurį siunčia Office365Alerts@microsoft.com su temos eilute, pvz., "Mažo svarbos įspėjimas: *įspėjimo strategijos pavadinimas".* Įspėjimų pranešimai siunčiami, kai suaktyvinami įspėjimai apie bendrą veiklą, pvz., kai vartotojai:
 
-- Kurkite aplanko Gauta taisykles, kurios persiunčia el. laiškus.
-- Priskirkite teises savo pašto dėžutei.
-- Bendrinkite arba naikinkite didelį skaičių failų bendrai "SharePoint" rinkmenoje.
-- Kurkite eDiscovery paieškas ir eksportuokite ieškos rezultatus.
+- Kurkite el. laiškus persiunčiančias aplanko Gauta taisykles.
+- Priskirkite teises savo pašto dėžutę.
+- Bendrinkite arba panaikinkite daug failų sharePoint failų bendrinimo metu.
+- Kurti el. duomenų aptikimo ieškas ir eksportuoti ieškos rezultatus.
 
-Norėdami peržiūrėti ir imtis veiksmų dėl perspėjimo:
+Norėdami peržiūrėti įspėjimą ir imtis veiksmų dėl jo:
 
 1. Eikite į [saugos & atitikties centrą](https://protection.office.com) ir prisijunkite.
-2. Spustelėkite **įspėjimai** > **Peržiūrėti įspėjimus**.
-3. Spustelėkite įspėjimą, kad būtų parodytas išskleidžiamasis puslapis su informacija apie įspėjimą.
+2. Spustelėkite **Įspėjimai** > **Peržiūrėti įspėjimus**.
+3. Spustelėkite įspėjimą, kad būtų rodomas iškeliamasis puslapis su informacija apie įspėjimą.
 
-Galite imtis veiksmų dėl perspėjimo, pvz., [pašalinti įtartiną aplanko Gauta taisyklę](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Arba galite tiesiog uždaryti įspėjimą spustelėję **spręsti** perspėjimo iškelties puslapį.
+Galite atlikti įspėjimo veiksmą, pvz., [pašalinti įtartiną aplanko Gauta taisyklę](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Arba galite tiesiog uždaryti įspėjimą įspėjimo iškeliamame puslapyje spustelėdami **Spręsti.**
 
-Daugiau informacijos apie įspėjimų strategijų konfigūravimą ir tvarkymą ieškokite [šiame straipsnyje](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Daugiau informacijos apie įspėjimų strategijų konfigūravimą ir valdymą ieškokite [šiame straipsnyje](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Svarbu**: įspėjimo el. pašto pranešimai iš "Microsoft" niekada neprašys atlikti šių veiksmų:
+**Svarbu:** įspėjimo el. pašto pranešimai iš "Microsoft" niekada neprašys atlikti šių veiksmų:
 
-- Pateikite slaptažodį
-- Patikrinkite paskyros saugos informaciją
-- Iš naujo autentifikuoti save
+- Slaptažodžio suteikimas
+- Paskyros saugos informacijos patvirtinimas
+- Iš naujo autentifikuokite save
 
-Jei gaunate el. laišką, kaip tai, jis nebuvo išsiųstas "Microsoft" ir turėtų būti laikoma phishing. Jei taip nutinka, praneškite [apie tai "Microsoft"](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Jei gavote tokį el. laišką, "Microsoft" jo nesiuntė ir jis turėtų būti laikomas sukčiavimo apsimetant. Jei taip nutinka, [praneškite apie tai "Microsoft".](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)

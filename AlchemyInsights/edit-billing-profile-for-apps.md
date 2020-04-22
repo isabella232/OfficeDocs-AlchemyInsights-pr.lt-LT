@@ -1,9 +1,9 @@
 ---
-title: Redaguokite Atsiskaitymo profilį programėlių
+title: Programų atsiskaitymo profilio redagavimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606825"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703903"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Redaguokite Atsiskaitymo profilį programėlių
+# <a name="edit-billing-profile-for-apps"></a>Programų atsiskaitymo profilio redagavimas
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Jei norite pakeisti atsiskaitymo profilio "apps"
+## <a name="to-change-the-billing-profile-on-apps"></a>Atsiskaitymo profilio keitimas programose
 
-1. Eiti į **atsiskaitymo** > [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį, tada pasirinkite skirtuką **programos** .
+1. Eikite į **puslapį Atsiskaitymo** > [produktai & paslaugos,](https://go.microsoft.com/fwlink/p/?linkid=842054) tada pasirinkite skirtuką **Programos.**
 
-2. Raskite ir pasirinkite programą, kurią norite tvarkyti.  
+2. Raskite ir pasirinkite norimą tvarkyti programą.  
 
-3. Šalia **Atsiskaitymo profilis**, pasirinkite **Redaguoti** ir pasirinkite atsiskaitymo profilio, kurį norite susieti su programėle.
+3. Šalia **Atsiskaitymo profilis**pasirinkite **Redaguoti** ir pasirinkite atsiskaitymo profilį, kurį norite susieti su programa.
 
-## <a name="edit-billing-profiles"></a>Redaguoti atsiskaitymo profiliai
+## <a name="edit-billing-profiles"></a>Atsiskaitymo profilių redagavimas
 
-1. Eiti į **atsiskaitymo** > [sąskaitos & mokėjimo](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapį, tada pasirinkite **atsiskaitymo profiliai**.
+1. Eikite į puslapį **Atsiskaitymo** > [sąskaitos & mokėjimai,](https://go.microsoft.com/fwlink/p/?linkid=848039) tada pasirinkite **Atsiskaitymo profiliai**.
 
-2. Jei norite redaguoti sąrašo pasirinkite Atsiskaitymo profilis.
+2. Pasirinkite atsiskaitymo profilį iš sąrašo, kurį norite redaguoti.

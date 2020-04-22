@@ -1,31 +1,31 @@
 ---
-title: Peržiūrint darbo eigą uždrausta prieiga
+title: Prieiga uždrausta peržiūrint darbo eigą
 ms.author: pebaum
 author: pebaum
-ms.date: 11/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 1cfda8e08ada05858a28f2bede8c31261f9de351
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687338"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Peržiūrint darbo eigą uždrausta prieiga
+# <a name="access-denied-when-viewing-a-workflow"></a>Prieiga uždrausta peržiūrint darbo eigą
 
-SharePoint 2013 darbo eigų, bandoma siųsti el. laišką į SharePoint grupę gali nepavykti dėl "prieiga uždrausta" klaidos pranešimas, jei narystė SharePoint grupės nėra nustatyta visiems.
+SharePoint 2013 darbo eigos, bandosiųsti el. laišką sharepoint grupės gali nepavykti dėl klaidos pranešimo "Prieiga uždrausta", jei SharePoint grupės narystė nenustatyta kaip visi.
   
  **Norėdami išspręsti šią problemą, atlikite šiuos veiksmus:**
   
  1. Leiskite visiems matyti SharePoint grupės narius.
   
- 2. Pašalinkite SharePoint grupę iš el. laiško eilutės Kam arba CC.
+ 2. Pašalinkite "SharePoint" grupę iš el. laiško eilutės Kam arba Kopija.
   
- 3. Aiškiai įtraukti vartotojus į eilutę kam arba CC jei narystės matomumo negalima pakeisti SharePoint grupės.
+ 3. Aiškiai įtraukite vartotojus į eilutę Kam arba Kopija, jei "SharePoint" grupės narystės matomumo keisti negalima.
   
-Norėdami peržiūrėti daugiau informacijos, prašome kreiptis į [http neleistina/_vti_bin/Client.svc/sp.utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Norėdami peržiūrėti daugiau informacijos, skaitykite [HTTP neleistinas /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

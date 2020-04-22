@@ -1,9 +1,9 @@
 ---
-title: 1245-importo-PST-paslaugos
+title: 1245-Importas-PST paslaugos
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687770"
 ---
-# <a name="office-365-import-service"></a>"Office 365" importo paslaugas
+# <a name="microsoft-365-import-service"></a>"Microsoft 365" importavimo tarnyba
 
-Office 365 importo paslaugos leidžia jums urmu-importo kelis PST failus į Exchange Online pašto dėžutės.
+"Microsoft 365" importavimo paslauga leidžia masiškai importuoti kelis PST failus į "Exchange Online" pašto dėžutes.
 
-Importo paslaugų prieigos ir pradėti importavimo procesą:
+Norėdami pasiekti importavimo tarnybą ir pradėti importavimo procesą:
 
-1. Eikite į [saugos & atitikties užtikrinimo centre](https://protection.office.com) ir prisijunkite naudodami administratoriaus abonemento organizacijoje "Office 365" kredencialus.
+1. Eikite į [saugos & atitikties centrą](https://protection.office.com) ir prisijunkite naudodami savo organizacijos administratoriaus abonemento kredencialus.
 
-2. **_AMP_ saugos atitikties centro**kairėje srityje spustelėkite **duomenų valdymo > importo**.
+2. Saugos & atitikties **centro**kairiojoje srityje spustelėkite **Duomenų valdymas > Importavimas**.
 
-3. Puslapyje **importuoti** , spustelėkite **New importuoti darbo**.
+3. Puslapyje **Importavimas** spustelėkite **Nauja importavimo užduotis**.
 
-4. Norėdami atlikti veiksmus vedlyje, Prašome atlikite šiuos [žingsnis po žingsnio instrukcijas](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Norėdami atlikti vedlio veiksmus, vadovaukitės šiomis [nuosekliomis instrukcijomis](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Svarbu inoti**: Norėdami pasiekti puslapyje **importuojamas** į saugos & atitikties užtikrinimo centre, jums būti priskiriamas [atitinkamas teises](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Svarbu**: norėdami pasiekti saugos & atitikties centro puslapį **Importuoti,** jums [priskyrėte atitinkamas teises](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Jei norite importuoti PST į pa to dė˛utę, skaitykite [šį straipsnį](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Jei tiesiog norite importuoti PST į savo pašto dėžutę, [žr.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
