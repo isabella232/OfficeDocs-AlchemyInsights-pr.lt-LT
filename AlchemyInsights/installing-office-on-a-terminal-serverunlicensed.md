@@ -1,5 +1,5 @@
 ---
-title: Office diegimas terminalų serveryje-nelicencijuotos
+title: Biuro diegimas terminalų serveryje - Nelicencijuota
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,47 +10,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763225"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Office diegimas terminalų serveryje
+# <a name="installing-office-on-a-terminal-server"></a>"Office" diegimas terminalų serveryje
 
-Diegti Office 365 ProPlus Windows Server naudojant nuotolinio darbalaukio tarnybos (RDS), anksčiau pavadintas terminalų tarnybos:
+Microsoft 365 programėlių įmonėms diegti "Windows Server" naudojant nuotolinio darbalaukio tarnybas (RDS), anksčiau vadintą terminalų tarnybomis:
   
-- Turite turėti Office 365 planą, kuriame yra Office 365 ProPlus, pvz., Office 365 Enterprise E3 arba Enterprise E5. Office 365 Business "ir" Office 365 "Business Premium" planai neapima "Office 365 ProPlus".
+- Turite turėti "Microsoft 365" prenumeratą, kurioje yra "Microsoft 365" programos verslui, pvz., "Office 365 Enterprise E3" arba "Enterprise E5". "Microsoft 365" programos verslui ir "Microsoft 365" programos verslui "Premium" planuose neapima "Microsoft 365" programėlių įmonėms.
 
-- Turite įgalinti [bendrai naudojamą kompiuterio aktyvinimą](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Turite įjungti [bendrinamą kompiuterio aktyvinimą](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jei norite įdiegti Office 365 ProPlus RDS iš Microsoft 365 administravimo centro, ***kuris naudoja numatytuosius diegimo parametrus***, atlikite šiuos veiksmus.
+Jei norite įdiegti "Microsoft 365 Apps" įmonėms RDS iš "Microsoft 365" administravimo centro, ***kuris naudoja numatytuosius diegimo parametrus***, atlikite šiuos veiksmus.
 
 > [!TIP]
-> Taip pat galite atsisiųsti ir paleisti [Microsoft Support ir atkūrimo asistentas](https://aka.ms/SaRA_OfficeSCA_M365Portal) įdiegti Office 365 ProPlus bendrai naudojamo kompiuterio aktyvinimo režimu.
+> Taip pat galite atsisiųsti ir paleisti ["Microsoft" palaikymo ir atkūrimo asistentas](https://aka.ms/SaRA_OfficeSCA_M365Portal) įdiegti "Microsoft 365 Apps" įmonėms bendro naudojimo kompiuterio aktyvinimo režimu.
   
-1. Patikrinkite, ką Office 365 planą turite. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Patikrinkite, ką turite "Microsoft 365" prenumeratą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Jei reikia, pereikite į kitą Office 365 planą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Jei reikia, perjunkite į kitą "Microsoft 365" prenumeratą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Jei Office jau yra įdiegta RDS serveryje naudojant kitus Office 365 planus, pašalinkite jį. Pvz., eikite į valdymo skydo \> išdiegti programą. Pašalinkite naudodami ["Microsoft" palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy) jei jūs naudojate problemų.
+3. Jei "Office" jau įdiegtas RDS serveryje naudojant kitas "Microsoft 365" prenumeratas, pašalinkite ją. Pavyzdžiui, eikite į \> Valdymo skydas Pašalinti programą. Pašalinkite naudodami ["Microsoft" palaikymo ir atkūrimo pagalbinę priemonę,](https://aka.ms/SARA-OfficeUninstall-Alchemy) jei kyla problemų.
 
-4. RDS serveryje Prisijunkite prie "Microsoft" 365 administravimo centro su savo administratoriaus abonementu ir [įdiekite "Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)".
+4. RDS serveryje prisijunkite prie "Microsoft 365" administravimo centro naudodami administratoriaus abonementą ir [įdiekite "Microsoft 365 Apps for enterprise".](https://portal.office.com/OLS/MySoftware.aspx)
 
-5. Įdiegus "Office", ***neatidarykite arba prisijunkite*** prie jokių "Office" taikomųjų programų.
+5. Įdiegę "Office", ***neatidarykite ir neprisijunkite prie*** jokių "Office" taikomųjų programų.
 
-6. RDS serveryje, įgalinti bendrai kompiuterio aktyvinimas redaguodami registrą atlikdami šiuos veiksmus:
+6. RDS serveryje, įgalinti bendro naudojimo kompiuterio aktyvinimo redaguodami registrą, atlikite šiuos veiksmus:
 
-1. Apatiniame kairiajame ekrano kampe dešiniuoju pelės mygtuku spustelėkite "Windows" mygtuką ir pasirinkite vykdyti. Lauke Atidaryti įveskite **regedit**, ir tada pasirinkite Gerai.
+1. Dešiniuoju pelės mygtuku spustelėkite mygtuką "Windows", esantį apatiniame kairiajame ekrano kampe, ir pasirinkite Vykdyti. Lauke Atidaryti įveskite **regedit**, tada pasirinkite Gerai.
 
-2. Pasirinkite taip, kai paraginama leisti registro rengyklėje atlikti keitimus įrenginyje.
+2. Pasirinkite Taip, kai būsite paraginti leisti registro rengyklę keisti jūsų įrenginį.
 
-3. Registro rengyklėje pridėkite eilutės reikšmę **Sharedcomputerlicensing** su parametr 1 pagal HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Registro rengyklėje įtraukite **SharedComputerLicensing** eilutės reikšmę su parametru 1, esantį HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration.
 
-7. RDS serveryje, ***Prisijunkite kaip galutiniam vartotojui*** ir [patikrinkite, ar bendrai kompiuterio aktyvinimas yra įjungtas Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS ***serveryje, prisijunkite kaip galutinis vartotojas*** ir [patikrinkite, ar bendrai naudojamas kompiuterio aktyvinimas yra įjungtas Microsoft 365 Apps verslui](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Daugiau informacijos apie Būtinosios sąlygos, sąrankos instrukcijos ir nurodymai dėl individualų įrenginių naudodami Office visuotinio diegimo įrankį, ieškokite [įdiegti Office 365 ProPlus naudojant nuotolinio darbalaukio tarnybos](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Daugiau informacijos apie būtinąsias sąlygas, sąrankos instrukcijas ir rekomendacijas dėl tinkintų diegimų naudojant "Office" diegimo įrankį rasite ["Microsoft 365" programėlių diegimas įmonei naudojant nuotolinio darbalaukio tarnybas](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Norėdami ištaisyti klaidas, susijusias su bendrai naudojamo kompiuterio aktyvinimu, žiūrėkite [trikčių diagnostika bendrai naudojamame kompiuterio aktyvinimui Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Norėdami ištaisyti klaidas, susijusias su kompiuterio aktyvinimu, peržiūrėkite [Trikčių šalinimas naudojant bendrai naudojamą kompiuterio aktyvinimą, skirtą "Microsoft 365" programėlėms, skirtai įmonei](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

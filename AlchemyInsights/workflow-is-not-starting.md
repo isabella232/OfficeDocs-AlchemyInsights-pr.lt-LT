@@ -1,9 +1,9 @@
 ---
-title: Darbo eiga nepaleidžiama
+title: Darbo eiga nepradedama
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049345"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766105"
 ---
-# <a name="workflow-is-not-starting"></a>Darbo eiga nepaleidžiama
+# <a name="workflow-is-not-starting"></a>Darbo eiga nepradedama
 
-- SharePoint 2010 ir SharePoint 2013 darbo eigos neprasideda.
+- Nepaleidžiama "SharePoint 2010" ir "SharePoint 2013" darbo eigos.
 
-    - Jei jūsų darbo eiga nepaleidžiama, gali būti laikinai tarnybos problema, kai vartotojams gali kilti pertrūkiais vėlavimų su darbo eigos eigą. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) ir pažiūrėkite, ar jūsų organizacijoje yra poveikis.
+    - Jei jūsų darbo eiga neprasideda, gali būti laikina tarnybos problema, kai vartotojai gali susidurti su pasikartojančiais delsa darbo eigos eiga. Patikrinkite [tarnybos sveikatos ataskaitų sritį,](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) kad sužinotumėte, ar jūsų organizacijai daromas poveikis.
 
-    - Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą pamatėte šią problemą, prašome prisijungti prie palaikymo bilieto. Daugeliu atvejų jau dirbame su sprendimu. Prašome pateikti mums bent 24 valandas, kad užbaigtumėte sprendimą.
+    - Jei praėjo daugiau nei 24 valandos nuo to laiko, kai pirmą kartą matėte šią problemą, prisijunkite palaikymo bilietą. Daugeliu atvejų jau dirbame su sprendimu. Prašome duoti mums ne mažiau kaip 24 valandas užbaigti sprendimą.
 
-- SharePoint 2010 darbo eigų vėluoja pradėti.
+- "SharePoint 2010" darbo eigos vėluoja paleisti.
 
     - Taip nutinka, jei darbo eiga paleidžiama dideliais paketais. (pvz., kai vienu metu pridedami keli elementai).
 
-    - Darbo eigos nėra skirtos vykdyti realiuoju laiku, todėl vėluojama pagal dizaino veikimą.
+    - Darbo eigos nėra skirtos veikti realiuoju laiku, todėl delsa yra pagal dizainą.
 
-   -  Jei darbo eiga yra sudėtinga Išplėstinė objektų aprašų kalba (XMOL), Kompiliacija gali būti lėta. Peržiūrėkite [šį](https://support.microsoft.com//kb/3043697) straipsnį.
+   -  Jei darbo eiga yra sudėtinga išplėstinė objekto aprašų kalba (XMOL), kompiliavimas gali būti lėtas. Patikrinkite [šį](https://support.microsoft.com//kb/3043697) straipsnį.
 
-    - Reikia supaprastinti darbo eigą arba perprojektuoti naudojant Microsoft SharePoint 2013 darbo eigos platformos tipą.
+    - Turėtumėte supaprastinti darbo eigą arba pertvarkyti ją naudodami "Microsoft SharePoint 2013" darbo eigos platformos tipą.
 
-    - Jei jūsų darbo eigos retrospektyva išaugo daug, galbūt norėsite išvalyti elementus arba sukurti naują retrospektyvos sąrašą.
+    - Jei jūsų darbo eigos retrospektyva išaugo didelis, galbūt norėsite išvalyti elementus arba sukurti naują retrospektyvos sąrašą.
 
-        Daugiau informacijos: [išvalyti darbo eigos retrospektyvą](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Daugiau informacijos : [Išvalyti darbo eigos retrospektyvą](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Susijusios temos
 Norite išbandyti "Microsoft Flow" "SharePoint Online"?
-- [Sukurti srautą](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Kurti srautą](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - ["SharePoint" ir srautas](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

@@ -1,9 +1,9 @@
 ---
-title: Panaikinto Office 365 grupės atkūrimas
+title: Panaikintos "Office 365" grupės atkūrimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048840"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758762"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Panaikinto Office 365 grupės atkūrimas
+# <a name="restore-a-deleted-office-365-group"></a>Panaikintos "Office 365" grupės atkūrimas
 
-Panaikintos grupės išlaikytos 30 dienų. Kaip atkurti panaikintą grupę:
+Panaikintos grupės išsaugomos 30 dienų. Norėdami atkurti panaikintą grupę:
   
-1. " [Exchange" administravimo centro](https://outlook.office365.com/ecp/)kairiojoje srityje pasirinkite **gavėjai** , tada pasirinkite **grupės**. Jei grupė buvo panaikinta mažiau nei prieš 30 dienų, ji bus rodoma sąraše, o stulpelyje būsena bus nurodyta ištrinta data.
+1. ["Exchange" administravimo centre](https://outlook.office365.com/ecp/)kairiojoje srityje pasirinkite **gavėjus,** tada pasirinkite **grupės**. Jei grupė buvo panaikinta mažiau nei prieš 30 dienų, ji bus rodoma sąraše, o stulpelyje STATUS bus nurodyta panaikinta data.
 
-2. Pasirinkite grupę, tada komandų juostoje spustelėkite **atkurti** arba išsamios informacijos srityje spustelėkite saitą "spustelėkite čia, kad atkurtumėte".
+2. Pasirinkite grupę, tada komandų juostoje spustelėkite **Atkurti** arba išsamios informacijos srityje spustelėkite saitą "Spustelėkite čia, jei norite atkurti".
 
-Jei norite gauti daugiau informacijos arba sužinoti, kaip atkurti grupes naudojant "PowerShell", peržiūrėkite [panaikintų "Office 365" grupės atkūrimą](https://go.microsoft.com/fwlink/?linkid=867802).
+Daugiau informacijos arba norėdami sužinoti, kaip atkurti grupes naudojant "PowerShell", [žr.](https://go.microsoft.com/fwlink/?linkid=867802)
   

@@ -1,9 +1,9 @@
 ---
-title: Ne sinchronizavimas aplankų "Outlook"
+title: "\"Outlook\" ne sinchronizuojami aplankai"
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557336"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768697"
 ---
-# <a name="outlook-not-synching-folders"></a>Ne sinchronizavimas aplankų "Outlook"
+# <a name="outlook-not-synching-folders"></a>"Outlook" ne sinchronizuojami aplankai
 
-Jei "Outlook" nėra sinchronizavimas aplankus kaip tikėtasi, yra keletas dalykų, jūs galite pabandyti ją išspręsti.
+Jei "Outlook" nėra sinchronavimo aplankus, kaip tikėtasi, yra keletas dalykų, galite pabandyti ją išspręsti.
 
-1. Sumažinti pradinį ar bendro naudojimo pašto dėžutės aplankus. [Pamatyti "Outlook" efektyvumo problemas, kai yra per daug elementų ar aplankus į talpyklinis režimas .ost ar .pst failą aplanke](https://support.microsoft.com/help/2768656).
-2. Išjungti talpyklą visi bendrai naudojamų aplankų.
-3. Keisti konfigūraciją papildomos Exchange pašto dėžutės į antrą Exchange abonemento profilyje.
+1. Sumažinkite aplankų skaičių pirminėje arba bendrai naudojamoje pašto dėžutėje. [Peržiūrėkite "Outlook" efektyvumo problemas, kai talpykliniu režimu .ost arba .pst failo aplanke yra per daug elementų arba aplankų](https://support.microsoft.com/help/2768656).
+2. Išjunkite visų bendrai naudojamų aplankų kaupimą talpykloje.
+3. Pakeiskite antrinės "Exchange" pašto dėžutės konfigūraciją į antrą "Exchange" abonementą savo profilyje.
 
-Daugiau informacijos ieškokite [veikimo ir sinchronizavimo problemos dirbant su pašto dėžutės programoje "Outlook" aplankus](https://support.microsoft.com/help/3115602).
+Jei norite gauti daugiau informacijos, peržiūrėkite [efektyvumo ir sinchronizavimo problemas, kai dirbate su aplankais antrinės pašto dėžutės programoje "Outlook".](https://support.microsoft.com/help/3115602)

@@ -1,24 +1,24 @@
 ---
-title: '2571 naujiena: gauti grįžtamąjį ryšį apie šlamštas sprendimų'
+title: '2571 Nauja funkcija: gaukite atsiliepimų apie šlamšto sprendimus'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765024"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a>Nauja funkcija: gauti grįžtamąjį ryšį apie šlamštas sprendimų
+# <a name="get-feedback-about-spam-judgments"></a>Gaukite atsiliepimų apie šlamšto sprendimus
 
-Kaip administratorius, galite dabar lengvai pranešti įtartinus el. laiškus, URL ir turinys "Microsoft" [Pristatymai](https://protection.office.com/reportsubmission)"Internet Explorer". Netgi galite naudoti ją siekiant padėti suprasti, kodėl teisėtas pranešimas buvo pažymėtas netinkamai. Norėdami gauti daugiau informacijos, Peržiūrėkite šį [skelbimą](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Kaip administratorius galite lengvai pranešti apie įtartinus el. laiškus, URL ir turinį "Microsoft" [pateiktųjų naršyklėje](https://protection.office.com/reportsubmission). Jūs netgi galite jį naudoti, kad suprastumėte, kodėl teisėtas pranešimas buvo pažymėtas neteisingai. Daugiau informacijos ieškokite šiame [pranešime](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
 
-Tam, kad laidą, galite leisti vartotojams tiesiogiai pranešti "Microsoft" per į [ataskaitos pranešimas papildinys](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kad jis būtų pa¹tinęs, galite leisti vartotojams tiesiogiai pranešti "Microsoft" [per ataskaitos pranešimo papildinç](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).

@@ -1,28 +1,28 @@
 ---
-title: Trikčių diagnostika prieiga uždrausta pranešimai
+title: Prieigos uždraustų pranešimų trikčių diagnostika
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 57919e6dbd81a5bf3b17fb067485e8eec23b7d4c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 82e11458529b8a49e583b1a6963a51e2a466bfd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051433"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758477"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>"SharePoint"/"OneDrive" administravimo centro pranešimų prieiga uždrausta trikčių diagnostika
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Prieigos uždraustų pranešimų trikčių šalinimas "Sharepoint" / "OneDrive" administravimo centre
 
-Jei gaunate pranešimą prieiga uždrausta bandant naršyti SharePoint/OneDrive administravimo centras, įsitikinkite, kad jums [Priskirti licenciją vartotojui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Jei vartotojas turi licenciją, taip pat turėtumėte įsitikinti, kad jiems [priskirtas administratoriaus vaidmuo](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , kuris gali pasiekti administravimo centrus.
+Jei bandydami naršyti "Sharepoint" / "OneDrive" administravimo centre gaunate pranešimą apie prieigą, kuriai uždrausta, įsitikinkite, kad [vartotojui suteikėte licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Jei vartotojas turi licenciją, taip pat turėtumėte įsitikinti, kad jam [priskirtas administratoriaus vaidmuo,](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) galintis pasiekti administravimo centrus.
 
-Ši problema taip pat gali kilti, kai vartotojas panaikinamas ir iš naujo sukurtas naudojant tą patį vartotojo vardą (UPN). Naujas abonementas sukuriamas naudojant kitą PUID (paso unikalų ID) reikšmę. Kai vartotojas bando prieiti prie svetainių rinkinio arba jų "OneDrive", vartotojas turi neteisingą PUID. Antrasis scenarijus apima katalogų sinchronizavimas su Active Directory organizacinio vieneto (OU). Jei vartotojai jau prisijungė prie "SharePoint", ir tada perkeliami į kitą OU ir resynced su "SharePoint", jie gali kilti ši problema.
+Ši problema taip pat gali kilti, kai vartotojas yra panaikintas ir iš naujo sukurtas su tuo pačiu vartotojo vardą (UPN). Nauja sąskaita sukuriama naudojant kitą PUID (paso unikalų ID) reikšmę. Kai vartotojas bando pasiekti svetainių rinkinio arba jų "OneDrive", vartotojas yra neteisingas PUID. Antrasis scenarijus apima katalogų sinchronizavimą su Active Directory organizacinio vieneto (OU). Jei vartotojai jau prisijungė prie "SharePoint", o tada perkeliami į kitą OU ir sinchronizuojami su "SharePoint", jie gali susidurti su šia problema.
 
-Norėdami išspręsti šią problemą, turite atkurti pradinį UPN su straipsnyje nurodytus veiksmus, [atkurti vartotojo Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+Norėdami išspręsti šią problemą, turite atkurti pradinį UPN su straipsnyje , [atkurti vartotojo "Microsoft 365".](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)
 
-Pastaba: jei "OneDrive" arba "SharePoint" administravimo centras yra neprieinama keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikinas tarnybos problema.  [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
+Pastaba: jei "OneDrive" arba "SharePoint" administravimo centras nepasiekiamas keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema.  [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
 
 

@@ -1,24 +1,24 @@
 ---
-title: Naudojant Office parengimo priemonių rinkinį
+title: "\"Office\" pasirengimo įrankių rinkinio naudojimas"
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 2/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 71d3627c9ec67b4a32bbc2b77f98f6d02cc1a818
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 869e00dd187e8bd2bf9c37c8e4574902db3cd6e8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766393"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Naudojant Office parengimo priemonių rinkinį
+# <a name="using-the-office-readiness-toolkit"></a>"Office" pasirengimo įrankių rinkinio naudojimas
 
-Daugiau informacijos apie naudojant Office parengimo priemonių rinkinį, rasite [naudojimas parengimo priemonių rinkinį siekiant įvertinti programos suderinamumą su "Office 365 ProPlus"](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
+Informacijos apie "Office" parengimo įrankių rinkinio naudojimą rasite ["Parengimo įrankių rinkinio naudojimas" programų suderinamumui, skirtam "Microsoft 365" įmonėms, įvertinti](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
 
-Jei turite atsiliepimų arba klausimų apie pasirengimą Toolkit, rašykite mums adresu ReadyForOffice@microsoft.com.
+Jei turite atsiliepimų ar klausimų apie pasirengimo priemonių rinkinį, rašykite mums adresu ReadyForOffice@microsoft.com.

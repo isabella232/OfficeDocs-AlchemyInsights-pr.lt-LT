@@ -1,9 +1,9 @@
 ---
-title: Sprendimai dėl klaidos 30016-4
+title: Klaidų sprendimai 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501951"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757029"
 ---
-# <a name="solutions-for-error-30016-4"></a>Sprendimai dėl klaidos 30016-4
+# <a name="solutions-for-error-30016-4"></a>Klaidų sprendimai 30016-4
 
-Kai bandote iš kompiuterio pašalinti "Office 365 ProPlus", ir jūs gaunate klaidos pranešimą, **kažkas negerai 30016-4**, tai reiškia, kad **% temp %** diskas yra susietas kitų **% program %**.
+Kai bandote pašalinti "Microsoft 365" programėlių verslui iš kompiuterio, ir gaunate klaidos pranešimą, **Kažkas nutiko 30016-4**, tai reiškia, **kad %temp%** diskas yra susietas su disku, išskyrus **%ProgramFiles%**.
   
-Norėdami išspręsti problemą, atsisiųsti ir įdiegti [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Norėdami pataisyti, atsisiųsti ir įdiegti [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Kai ji atveria, **pašalinti "Office" produktai** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **kitą**.
+1. Kai jis atsidaro, iš **Pašalinti "Office" produktus** pasirinkite versiją, kurią norite pašalinti ir pasirinkite **Pirmyn**.
 
-2. Toliau vyksta per ekranus ir iš naujo paleiskite kompiuterį kai pasirodys.
+2. Toliau eikite per ekranus ir, kai būsite paraginti, iš naujo paleiskite kompiuterį.
 
-    Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai iš naujo atidaro atlikti pašalinimo procesas.
+    Paleidus iš naujo, palaikymo ir atkūrimo asistentas automatiškai atidaromas iš naujo, kad būtų baigtas šalinimo procesas.
 
-3. Atlikite likusius raginimų, ir [iš naujo įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx) arba uždaryti asistentas.
+3. Vykdykite likusius raginimus ir [iš naujo įdiekite "Office"](https://portal.office.com/OLS/MySoftware.aspx) arba uždarykite asistentą.

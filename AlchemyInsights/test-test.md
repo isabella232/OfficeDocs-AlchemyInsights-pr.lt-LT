@@ -1,8 +1,8 @@
 ---
-title: Trūksta SharePoint Online terminas parduotuvė sąlygos
+title: "\"SharePoint Online\" terminų saugykloje trūksta sąlygų"
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,43 +10,43 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 28913b8e57e39d51e8957b7408c19337a119c589
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053521"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766861"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>"BitLocker" šifravimo įgalinimas naudojant "Intune"
 
-Intune galinio punkto apsaugos politika gali būti naudojama konfigūruoti Boitlocker šifravimo parametrus Windows įrenginių, kaip aprašyta: Windows10 (ir vėliau) parametrai apsaugoti įrenginius naudojant Intune
+Intune Endpoint Protection Policy gali būti naudojamas konfigūruoti Boitlocker šifravimo parametrus Windows įrenginių, kaip aprašyta: Windows10 (ir vėliau) parametrus apsaugoti įrenginius naudojant Intune
 
-Turėtumėte žinoti, kad daugelis naujesnių įrenginių, kuriuose veikia "Windows 10" palaiko automatinį "BitLocker" šifravimą, kuris suaktyvinamas netaikant MDM strategijos. Tai gali paveikti strategijos taikymą, jei sukonfigūruoti ne numatytieji parametrai. Daugiau informacijos rasite DUK.
-
-
-DUK  klausimas: kokie "Windows" palaikymo įrenginių šifravimo leidimai naudojami naudojant galinio punkto apsaugos strategiją?
- A: Intune galinio punkto apsaugos strategijos parametrai yra įgyvendinami naudojant BitLocker CSP.Ne visi leidimai, nei komponavimo versijos "Windows" palaiko BitLocker CSP. 
-      Šiuo metu "Windows" leidimai: įmonė; Švietimas, Mobile, Mobile Enterprise ir Professional (nuo statyti 1809 ir vėliau) yra remiami.
+Turėtumėte žinoti, kad daugelis naujesnių įrenginių, kuriuose veikia "Windows 10", palaiko automatinį "bitLocker" šifravimą, kuris paleidžiamas be MDM strategijos taikymo. Tai gali turėti įtakos strategijos taikymui, jei nenumatytieji parametrai yra sukonfigūruoti. Daugiau informacijos rasite DUK.
 
 
-
-
-Q: Jei įrenginys jau yra užšifruotas su "BitLocker" naudojant OS numatytuosius parametrus šifravimo metodas ir šifro stiprumas (XTS-AES-128) bus taikyti politiką su skirtingais parametrais automatiškai sukelti iš naujo šifravimo disko su naujais parametrais?
-
-A: ne. Norint taikyti naują šifro parametrus, pirmiausia turi būti iššifruotas diskas.
-
-Pastaba įrenginiuose, kurie įtraukti į AutoPilot automatinio šifravimo, kad atsirastų per OOBE nėra paleidžiamas kol Intune strategija yra vertinama, kuri leidžia strategijos parametrus, kurie turi būti naudojami vietoj OS numatytosios
+DUK  Q: Kurie "Windows" palaikymo įrenginių šifravimo leidimai naudojant galinio punkto apsaugos strategiją?
+ A: Intune Endpoint Protection strategijos parametrai yra įgyvendinami naudojant "BitLocker" CSP.Ne visi "Windows" leidimai ir komponavimo versijos palaiko "BitLocker" CSP. 
+      Šiuo metu "Windows" leidimai: įmonė; "Education", "Mobile", "Mobile" ir "Professional" (nuo 1809 m. komponavimo versijos) yra remiamos.
 
 
 
 
-Q Jei prietaisas yra užšifruotas dėl Intune politikos taikymo bus iššifruoti, kai ši politika yra pašalinama?
+Klausimas: Jei įrenginys jau užšifruotas su "BitLocker" naudojant OS numatytuosius parametrus šifravimo metodui ir šifravimo stiprumas (XTS-AES-128) taiks strategiją su skirtingais parametrais automatiškai sukelti pakartotinį disko šifravimą su naujais parametrais?
 
-A: pašalinus šifravimo susijusios politikos ne rezultatas iššifravimas diskus, kurie buvo sukonfigūruotas.
+Ats.: Ne. Norint taikyti naujus šifravimo parametrus, diskas pirmiausia turi būti iššifruotas.
+
+Pastaba Įrenginiams, įtrauktiems su autopilotu, automatinis šifravimas, kuris įvyktų OOBE metu, neįjungiamas, kol neįvertinama Intune strategija, kuri leidžia naudoti strategijos pagrindu pagrįstus parametrus vietoj os numatytųjų reikšmių
 
 
 
 
-Klausimas: Kodėl Intune atitikties strategija rodo, kad mano įrenginys neturi "BitLocker įjungta", bet ji yra?
+K Jei įrenginys yra užšifruotas dėl Intune strategijos taikymo, ar jis bus iššifruotas, kai ši strategija bus pašalinta?
 
-A: "BitLocker" įjungtas "parametras Intune atitikties strategijos naudoja Windows įrenginio sveikatos patvirtinimo (DHA) klientas. Šis klientas tik priemonės prietaiso būseną įkrovos metu. Taigi, jei įrenginys buvo paleistas iš naujo, nes "BitLocker" šifravimas buvo baigtas DHA klientų aptarnavimo nepateiks "BitLocker" kaip aktyvus.
+A: Šifravimo susijusios strategijos pašalinimas nesukelia sukonfigūruotidiskų iššifravimo.
+
+
+
+
+K: Kodėl intune atitikties strategija rodo, kad mano įrenginyje nėra "BitLocker Įjungta", bet tai yra?
+
+A: "BitLocker įjungtas" parametras intune atitikties strategija naudoja Windows įrenginio sveikatos patvirtinimo (Dha) kliento. Šis klientas matuoja tik įrenginio būseną įkrovos metu. Taigi, jei įrenginys nebuvo paleistas iš naujo, nes "bitLocker" šifravimas buvo baigtas, Dha kliento tarnyba nepraneš apie "bitLocker" kaip aktyvų.

@@ -1,9 +1,9 @@
 ---
-title: Šalinti triktis Intune politika ir aplinka
+title: Intune strategijos ir profilių trikčių diagnostika
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533635"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766681"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Trikčių šalinimo Intune politika ir aplinka
+# <a name="troubleshooting-intune-policy-and-profiles"></a>"Intune" strategijos ir profilių trikčių diagnostika
 
-Norėdami peržiūrėti esamą politiką, spręsti konfliktus, Peržiūrėkite žurnalo duomenis ir pamatyti užduodamus klausimus ir problemas, ši informacija gali padėti.
+Norėdami peržiūrėti esamas strategijas, šalinti konfliktus, peržiūrėti žurnalo duomenis ir peržiūrėti bendruosius klausimus ir problemas, gali padėti šie vadovai.
 
-- [Politiką ir profilių Intune trikčių šalinimas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- ["Intune" strategijų ir profilių trikčių diagnostika](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Dažni klausimai, problemos ir sprendimai su įrenginio politiką ir profilių Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Dažniausiai užduodami klausimai, problemos ir sprendimai su įrenginių strategijomis ir profiliais programoje "Intune"](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Stebėti įrenginio konfigūravimo profilių ir peržiūrėsite konfliktus Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Įrenginio konfigūracijos profilių stebėjimas ir konfliktų peržiūra intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Prietaiso atitikties ir sąlyginės prieigos Intune trikčių šalinimas](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Įrenginio atitikties ir sąlyginės prieigos trikčių šalinimas programoje "Intune"](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Stebėti atitikties strategijas ir peržiūrėsite konfliktus Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Stebėti atitikties strategijas ir peržiūrėti konfliktus programoje "Intune"](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Intune žurnalo duomenys siunčiami į Azuras saugojimo, Renginys šakotuvai, arba prisijungti "Analytics"](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Siųsti "Intune" žurnalo duomenis į "Azure" saugyklą, įvykių koncentratorius arba žurnalo analizę](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Matyti [konfigūruoti įrenginius](https://docs.microsoft.com/intune/device-profiles) arba [naudoti atitikties strategijas](https://docs.microsoft.com/intune/device-compliance-get-started).
+Peržiūrėkite [įrenginių konfigūravimo](https://docs.microsoft.com/intune/device-profiles) arba [atitikties strategijų](https://docs.microsoft.com/intune/device-compliance-get-started)peržiūros apžvalgą .

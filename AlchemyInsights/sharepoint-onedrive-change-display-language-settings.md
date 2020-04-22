@@ -2,26 +2,26 @@
 title: "\"SharePoint Online\" arba \"OneDrive\" nustatymas"
 ms.author: pebaum
 author: pebaum
-ms.date: 9/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: b450eb76d438e027d2d6fa938f685fb65ac357ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f7f23a05260ff72fe2591ae56dec80e49c02d687
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758616"
 ---
-# <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Keisti rodymo kalbos parametrus "SharePoint" arba "OneDrive" 
+# <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Rodymo kalbos parametrų keitimas "SharePoint" arba "OneDrive" 
 
-Negalite keisti "SharePoint" arba "OneDrive" numatytųjų kalbos parametrų, nes šie parametrai nustatyti, kai sukūrėte "Office 365" prenumeratą. Tačiau galite pakeisti rodymo kalbos nustatymus.
+Negalite keisti numatytųjų "SharePoint" arba "OneDrive" kalbos parametrų, nes šie parametrai buvo nustatyti kuriant "Microsoft 365" prenumeratą. Tačiau galite pakeisti ekrano kalbos parametrus.
 
-Norėdami pakeisti asmeninius parametrus, žiūrėkite [keisti asmeninius kalbos ir regiono parametrus](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+Norėdami pakeisti asmeninius parametrus, [žiūrėkite Asmeninės kalbos ir regiono parametrų keitimas](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
 
-Norėdami pakeisti svetainės vartotojo sąsają, žiūrėkite [pasirinkti kalbas, kurias norite padaryti prieinamą svetainės vartotojo sąsajoje](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
+Norėdami pakeisti svetainės vartotojo sąsają, žiūrėkite [Kalbų, kurios norimos padaryti pasiekiamos svetainės vartotojo sąsajai, pasirinkimą](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
 
-Daugiau informacijos apie trikčių šalinimas kalbos parametrus, ieškokite [negalite pakeisti numatytąją kalbą SharePoint Online svetainių rinkinio](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).
+Daugiau informacijos apie kalbos parametrų trikčių [diagnostiką ieškokite Negalite keisti numatytosios "SharePoint Online" svetainių rinkinio kalbos](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).
 
