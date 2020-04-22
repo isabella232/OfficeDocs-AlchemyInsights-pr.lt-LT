@@ -3,7 +3,7 @@ title: Siunčiamas šlamštas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: 8688e0f57e3ec6da9a1fc3613b40aed37dba0bc3
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: eeffecfd952043aa4323d3ec4fc7e7781fe8646e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712970"
 ---
-# <a name="outbound-spam"></a><span data-ttu-id="bdec8-102">Siunčiamas šlamštas</span><span class="sxs-lookup"><span data-stu-id="bdec8-102">Outbound spam</span></span>
+# <a name="outbound-spam"></a><span data-ttu-id="3cd62-102">Siunčiamas šlamštas</span><span class="sxs-lookup"><span data-stu-id="3cd62-102">Outbound spam</span></span>
 
-<span data-ttu-id="bdec8-103">Jei matote neteisingus teigiamus rezultatus siunčiamojo šlamšto (gerų siunčiamų pranešimų pažymėtas kaip šlamštas), atidarykite palaikymo bilietą su pavyzdiniai pranešimai.</span><span class="sxs-lookup"><span data-stu-id="bdec8-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>
+<span data-ttu-id="3cd62-103">Jei matote klaidingus teigiamus išsiunčiamų pašto šiukšlių (geri siunčiami pranešimai pažymėti kaip šlamštas), atidarykite palaikymo bilietą su pavyzdinių pranešimų pavyzdymis.</span><span class="sxs-lookup"><span data-stu-id="3cd62-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>

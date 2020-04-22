@@ -3,29 +3,29 @@ title: El. duomenų aptikimo parametrai
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714410"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="5ad05-102">El. duomenų aptikimo parametrai</span><span class="sxs-lookup"><span data-stu-id="5ad05-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="497c1-102">El. duomenų aptikimo parametrai</span><span class="sxs-lookup"><span data-stu-id="497c1-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="5ad05-103">el. duomenų aptikimo/turinio paieškos "Office 365" leidžia jums ieškoti, palaikykite ir eksportuoti turinį iš Exchange Online pašto dėžučių, SharePoint Online ir "OneDrive" verslo svetainių, "Skype" verslo pokalbiai, "Microsoft" Teams ir "Office 365" grupes.</span><span class="sxs-lookup"><span data-stu-id="5ad05-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="497c1-103">El. duomenų aptikimo / turinio ieškos leidžia ieškoti, laikyti ir eksportuoti turinį iš "Exchange Online" pašto dėžučių, "SharePoint Online" ir "OneDrive" verslui svetainių, "Skype" verslui pokalbių, "Microsoft Teams" ir "Office 365" grupių.</span><span class="sxs-lookup"><span data-stu-id="497c1-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="5ad05-104">Jei jūs ieškote el. duomenų aptikimo arba turinio paieškos meniu parinktis, peržiūrėkite [el. duomenų aptikimo problemas](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="5ad05-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="5ad05-105">Sužinokite apie teises, reikalingas atlikti el. duomenų aptikimo ieškos iš [teises reikalingos eDiscovery paieškos](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="5ad05-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="5ad05-106">Jei paieškos nėra grįžęs laukiamų rezultatų, peržiūrėkite [paieškos negrįžta laukiami rezultatai](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="5ad05-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="497c1-104">Jei ieškote el. duomenų aptikimo arba turinio ieškos meniu parinkčių, [žr.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)</span><span class="sxs-lookup"><span data-stu-id="497c1-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="497c1-105">Sužinokite apie teises, reikalingas el. duomenų aptikimo ieškai atlikti iš [teisių, reikalingų el. duomenų aptikimo ieškai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="497c1-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="497c1-106">Jei ieška negrąžina laukiamų rezultatų, [žr.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)</span><span class="sxs-lookup"><span data-stu-id="497c1-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="5ad05-107">Ieškokite daugiau informacijos apie el. duomenų aptikimą, "Office 365", [Ediscovery "Office 365"](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="5ad05-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="497c1-107">Daugiau informacijos apie el. aptikimą ieškokite [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="497c1-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>

@@ -3,7 +3,6 @@ title: Viešųjų aplankų kūrimas
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715368"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="dc48e-102">Viešųjų aplankų kūrimas</span><span class="sxs-lookup"><span data-stu-id="dc48e-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="5cc38-102">Viešųjų aplankų kūrimas</span><span class="sxs-lookup"><span data-stu-id="5cc38-102">Creating public folders</span></span>
 
-<span data-ttu-id="dc48e-103">Jūsų vartotojams naudoti viešuosius aplankus į "Office 365", jums reikia sukurti bent vieną viešojo aplanko pašto dėžutės.</span><span class="sxs-lookup"><span data-stu-id="dc48e-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="dc48e-104">Jei norite sukurti:</span><span class="sxs-lookup"><span data-stu-id="dc48e-104">To create:</span></span>
+<span data-ttu-id="5cc38-103">Kad vartotojai galėtų naudoti viešuosius aplankus, turėsite sukurti bent vieną viešojo aplanko pašto dėžutę.</span><span class="sxs-lookup"><span data-stu-id="5cc38-103">Before your users can use public folders, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="5cc38-104">Norėdami sukurti:</span><span class="sxs-lookup"><span data-stu-id="5cc38-104">To create:</span></span>
   
-1. <span data-ttu-id="dc48e-105">"Microsoft" 365 administravimo centro, eikite į **Admin centrų** \> **mainai**.</span><span class="sxs-lookup"><span data-stu-id="dc48e-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="5cc38-105">"Microsoft 365" administravimo centre eikite į **Administravimo centrai** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="5cc38-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="dc48e-106">Eikite į **viešuosius aplankus** \> **viešųjų aplankų pašto dėžutėms**, o tada spustelėkite **pridėti**.</span><span class="sxs-lookup"><span data-stu-id="dc48e-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="5cc38-106">Eikite į **Viešieji aplankai** \> **Viešųjų aplankų pašto dėžutės**, tada spustelėkite **Įtraukti**.</span><span class="sxs-lookup"><span data-stu-id="5cc38-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
 
-3. <span data-ttu-id="dc48e-107">**Viešojo aplanko pašto dėžutės**, nurodykite viešojo aplanko pašto dėžutės pavadinimą.</span><span class="sxs-lookup"><span data-stu-id="dc48e-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="5cc38-107">**Viešojo aplanko pašto dėžutėje**pateikite viešojo aplanko pašto dėžutės pavadinimą.</span><span class="sxs-lookup"><span data-stu-id="5cc38-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
 
-4. <span data-ttu-id="dc48e-108">Spustelėkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="dc48e-108">Click **Save**.</span></span>
+4. <span data-ttu-id="5cc38-108">Spustelėkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="5cc38-108">Click **Save**.</span></span>
 
-<span data-ttu-id="dc48e-109">Sukūrę pašto dėžutės, galite pradėti kurti atskirus aplankus arba liepkite savo vartotojams pradėti [kuriant ir naudojant viešųjų aplankų "Outlook"](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="dc48e-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
+<span data-ttu-id="5cc38-109">Sukūrę pašto dėžutę, galite pradėti kurti atskirus aplankus arba nurodyti vartotojams [pradėti kurti ir naudoti viešuosius aplankus programoje "Outlook".](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)</span><span class="sxs-lookup"><span data-stu-id="5cc38-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
   

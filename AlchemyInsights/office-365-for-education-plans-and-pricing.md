@@ -1,9 +1,9 @@
 ---
-title: "\"Office 365\" švietimo planus ir kainas"
+title: "\"Office 365 for Education\" planai ir kainodara"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 01a75079f56c5ff91e54e2a085d9969521bab82c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389476"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713402"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="df21f-102">Gaukite "Office 365" nemokamai savo visą mokyklą</span><span class="sxs-lookup"><span data-stu-id="df21f-102">Get Office 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="af9c3-102">Gaukite "Microsoft 365" nemokamai visai mokyklai</span><span class="sxs-lookup"><span data-stu-id="af9c3-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="df21f-103">Tobulinti klasės ir mokyklos bendradarbiavimas su Nemokami našumo įrankiai.</span><span class="sxs-lookup"><span data-stu-id="df21f-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="df21f-104">Jums reikės įsitikinti, kad esate akredituotoje švietimo įstaigoje pasinaudoti šių pasiūlymų.</span><span class="sxs-lookup"><span data-stu-id="df21f-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="af9c3-103">Pagerinkite klasės ir mokyklos bendradarbiavimą naudodami nemokamus produktyvumo įrankius.</span><span class="sxs-lookup"><span data-stu-id="af9c3-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="af9c3-104">Jums reikės patikrinti, ar esate akredituota akademinė institucija pasinaudoti šiais pasiūlymais.</span><span class="sxs-lookup"><span data-stu-id="af9c3-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="df21f-105">Peržiūrėti ugdymo planus</span><span class="sxs-lookup"><span data-stu-id="df21f-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="af9c3-105">Švietimo planų peržiūra</span><span class="sxs-lookup"><span data-stu-id="af9c3-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="df21f-106">"Office 365" planų palyginimas</span><span class="sxs-lookup"><span data-stu-id="df21f-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="af9c3-106">Palyginti visas "Microsoft 365" prenumeratas</span><span class="sxs-lookup"><span data-stu-id="af9c3-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
