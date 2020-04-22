@@ -1,9 +1,9 @@
 ---
-title: "\"Outlook.com\" nepavyksta atsijungti"
+title: Outlook.com nepavyksta atsijungti
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547823"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666857"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="aa2de-102">Negali atsijungti nuo "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="aa2de-102">Unable to sign out of Outlook.com</span></span>
+# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="f03e3-102">Neįmanoma atsijungti nuo Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f03e3-102">Unable to sign out of Outlook.com</span></span>
 
-<span data-ttu-id="aa2de-103">Atsijungti nuo "Outlook.com", pasirinkite savo vardą ar nuotrauką viršutiniame dešiniajame kampe ekrano, tada pasirinkite **Atsijungti**.</span><span class="sxs-lookup"><span data-stu-id="aa2de-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
+<span data-ttu-id="f03e3-103">Norėdami atsijungti nuo Outlook.com, viršutiniame dešiniajame ekrano kampe pasirinkite savo vardą arba paveikslėlį, tada pasirinkite **Atsijungti**.</span><span class="sxs-lookup"><span data-stu-id="f03e3-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
 
-<span data-ttu-id="aa2de-104">Jei nematote paveikslėlio viršuje ekrano, patikrinkite, ar skelbimų blokavimas įjungtas.</span><span class="sxs-lookup"><span data-stu-id="aa2de-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="aa2de-105">Kartais tai neleidžia nuotraukos rodymas.</span><span class="sxs-lookup"><span data-stu-id="aa2de-105">Sometimes this prevents the picture from showing.</span></span>
+<span data-ttu-id="f03e3-104">Jei ekrano viršuje nematote paveikslėlio, patikrinkite, ar įjungtas skelbimų blokavimas.</span><span class="sxs-lookup"><span data-stu-id="f03e3-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="f03e3-105">Kartais tai neleidžia rodyti paveikslėlio.</span><span class="sxs-lookup"><span data-stu-id="f03e3-105">Sometimes this prevents the picture from showing.</span></span>
 
-<span data-ttu-id="aa2de-106">Jei vis dar negalite prisijungti iš "Outlook.com", spustelėkite [https://login.live.com/logout.srf](https://login.live.com/logout.srf) tada uždarykite visus naršyklės langus.</span><span class="sxs-lookup"><span data-stu-id="aa2de-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>
+<span data-ttu-id="f03e3-106">Jei vis tiek negalite atsijungti nuo [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Outlook.com, uždarykite visus naršyklės langus.</span><span class="sxs-lookup"><span data-stu-id="f03e3-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>

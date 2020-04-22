@@ -1,5 +1,5 @@
 ---
-title: DKIM "Office 365" sąranka
+title: Nustatyti DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666272"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645680"
 ---
-# <a name="setup-dkim-in-office-365"></a><span data-ttu-id="c47db-102">DKIM "Office 365" sąranka</span><span class="sxs-lookup"><span data-stu-id="c47db-102">Setup DKIM in Office 365</span></span>
+# <a name="setup-dkim"></a><span data-ttu-id="2d5f8-102">Nustatyti DKIM</span><span class="sxs-lookup"><span data-stu-id="2d5f8-102">Setup DKIM</span></span>
 
-<span data-ttu-id="c47db-103">Visą instrukciją konfigūravimo DKIM pasirinktinius domenus "Office 365" yra [čia](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="c47db-103">The complete instructions for configuring DKIM for custom domains in Office 365 are [here](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).</span></span>
+<span data-ttu-id="2d5f8-103">Išsami instrukcija konfigūruoti DKIM pasirinktinių domenų Microsoft 365 yra [čia](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="2d5f8-103">The complete instructions for configuring DKIM for custom domains in Microsoft 365 are [here](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).</span></span>
 
-1. <span data-ttu-id="c47db-104">**Kiekvieno** vartotojo domeno, turite sukurti **du** DKIM CNAME įrašus ne savo domeno DNS išteklių nuomos tarnybą (paprastai, domenų registratorius).</span><span class="sxs-lookup"><span data-stu-id="c47db-104">For **each** custom domain, you need to create **two** DKIM CNAME records at your domain's DNS hosting service (typically, the domain registrar).</span></span> <span data-ttu-id="c47db-105">Pvz., contoso.com ir fourthcoffee.com reikia keturių DKIM CNAME įra us: du contoso.com ir du fourthcoffee.com.</span><span class="sxs-lookup"><span data-stu-id="c47db-105">For example, contoso.com and fourthcoffee.com require four DKIM CNAME records: two for contoso.com and two for fourthcoffee.com.</span></span>
+1. <span data-ttu-id="2d5f8-104">**Kiekvienam** pasirinktiniam domenui turite sukurti **du** DKIM CNAME įrašus domeno DNS išteklių nuomos tarnyboje (paprastai domenų registratoriuje).</span><span class="sxs-lookup"><span data-stu-id="2d5f8-104">For **each** custom domain, you need to create **two** DKIM CNAME records at your domain's DNS hosting service (typically, the domain registrar).</span></span> <span data-ttu-id="2d5f8-105">Pavyzdžiui, contoso.com ir fourthcoffee.com reikia keturių DKIM CNAME įrašų: du contoso.com ir du fourthcoffee.com.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-105">For example, contoso.com and fourthcoffee.com require four DKIM CNAME records: two for contoso.com and two for fourthcoffee.com.</span></span>
 
-   <span data-ttu-id="c47db-106">DKIM CNAME įrašus apie **kiekvieno** individualiame domene naudoti šiuos formatus:</span><span class="sxs-lookup"><span data-stu-id="c47db-106">The DKIM CNAME records for **each** custom domain use the following formats:</span></span>
+   <span data-ttu-id="2d5f8-106">DKIM CNAME įrašai **kiekvienam** pasirinktiniam domenui naudoja šiuos formatus:</span><span class="sxs-lookup"><span data-stu-id="2d5f8-106">The DKIM CNAME records for **each** custom domain use the following formats:</span></span>
 
-   - <span data-ttu-id="c47db-107">**Pagrindinio kompiuterio vardas**:`selector1._domainkey.<CustomDomain>`</span><span class="sxs-lookup"><span data-stu-id="c47db-107">**Host name**: `selector1._domainkey.<CustomDomain>`</span></span>
+   - <span data-ttu-id="2d5f8-107">**Pagrindinio kompiuterio vardas**:`selector1._domainkey.<CustomDomain>`</span><span class="sxs-lookup"><span data-stu-id="2d5f8-107">**Host name**: `selector1._domainkey.<CustomDomain>`</span></span>
 
-     <span data-ttu-id="c47db-108">**Atkreipia dėmesį į adresą arba vertė**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`</span><span class="sxs-lookup"><span data-stu-id="c47db-108">**Points to address or value**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`</span></span>
+     <span data-ttu-id="2d5f8-108">**Nukreipia adresu arba reikšmė:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`</span><span class="sxs-lookup"><span data-stu-id="2d5f8-108">**Points to address or value**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`</span></span>
 
-     <span data-ttu-id="c47db-109">**TTL**: 3600</span><span class="sxs-lookup"><span data-stu-id="c47db-109">**TTL**: 3600</span></span>
+     <span data-ttu-id="2d5f8-109">**TTL**: 3600</span><span class="sxs-lookup"><span data-stu-id="2d5f8-109">**TTL**: 3600</span></span>
 
-   - <span data-ttu-id="c47db-110">**Pagrindinio kompiuterio vardas**:`selector2._domainkey.<CustomDomain>`</span><span class="sxs-lookup"><span data-stu-id="c47db-110">**Host name**: `selector2._domainkey.<CustomDomain>`</span></span>
+   - <span data-ttu-id="2d5f8-110">**Pagrindinio kompiuterio vardas**:`selector2._domainkey.<CustomDomain>`</span><span class="sxs-lookup"><span data-stu-id="2d5f8-110">**Host name**: `selector2._domainkey.<CustomDomain>`</span></span>
 
-     <span data-ttu-id="c47db-111">**Atkreipia dėmesį į adresą arba vertė**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`</span><span class="sxs-lookup"><span data-stu-id="c47db-111">**Points to address or value**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`</span></span>
+     <span data-ttu-id="2d5f8-111">**Nukreipia adresu arba reikšmė:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`</span><span class="sxs-lookup"><span data-stu-id="2d5f8-111">**Points to address or value**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`</span></span>
 
-     <span data-ttu-id="c47db-112">**TTL**: 3600</span><span class="sxs-lookup"><span data-stu-id="c47db-112">**TTL**: 3600</span></span>
+     <span data-ttu-id="2d5f8-112">**TTL**: 3600</span><span class="sxs-lookup"><span data-stu-id="2d5f8-112">**TTL**: 3600</span></span>
 
-   <span data-ttu-id="c47db-113">\<DomainGUID\> -tekstas kairėje `.mail.protection.outlook.com` į individualų pasirinktinio domeno MX įrašas (pavyzdžiui, `contoso-com` už domeno contoso.com).</span><span class="sxs-lookup"><span data-stu-id="c47db-113">\<DomainGUID\> is the text to the left of `.mail.protection.outlook.com` in the customized MX record for the custom domain (for example, `contoso-com` for the domain contoso.com).</span></span> <span data-ttu-id="c47db-114">\<InitialDomain\> yra domenas, kurį naudojote, kai prisiregistravote prie "Office 365" (pvz., contoso.onmicrosoft.com).</span><span class="sxs-lookup"><span data-stu-id="c47db-114">\<InitialDomain\> is the domain you used when you signed up for Office 365 (for example, contoso.onmicrosoft.com).</span></span>
+   <span data-ttu-id="2d5f8-113">\<DomainGUID\> yra pasirinktinio domeno `.mail.protection.outlook.com` tinkinto MX įrašo tekstas į kairę (pvz., `contoso-com` domeno contoso.com).</span><span class="sxs-lookup"><span data-stu-id="2d5f8-113">\<DomainGUID\> is the text to the left of `.mail.protection.outlook.com` in the customized MX record for the custom domain (for example, `contoso-com` for the domain contoso.com).</span></span> <span data-ttu-id="2d5f8-114">\<InitialDomain\> yra domenas, kurį naudojote prisiregistruodami naudoti "Microsoft 365" (pvz., contoso.onmicrosoft.com).</span><span class="sxs-lookup"><span data-stu-id="2d5f8-114">\<InitialDomain\> is the domain you used when you signed up for Microsoft 365 (for example, contoso.onmicrosoft.com).</span></span>
 
-2. <span data-ttu-id="c47db-115">Sukūrę CNAME įra us Pasirinktinių domenų, atlikite šiuos nurodymus:</span><span class="sxs-lookup"><span data-stu-id="c47db-115">After you've created the CNAME records for your custom domains, complete the following instructions:</span></span>
+2. <span data-ttu-id="2d5f8-115">Sukūrę pasirinktinių domenų CNAME įrašus, atlikite toliau nurodytas instrukcijas:</span><span class="sxs-lookup"><span data-stu-id="2d5f8-115">After you've created the CNAME records for your custom domains, complete the following instructions:</span></span>
 
-   <span data-ttu-id="c47db-116">a.</span><span class="sxs-lookup"><span data-stu-id="c47db-116">a.</span></span> <span data-ttu-id="c47db-117">[Prisijunkite prie "Office 365"](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) su savo darbovietės ar mokyklos paskyros.</span><span class="sxs-lookup"><span data-stu-id="c47db-117">[Sign in to Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account.</span></span>
+   <span data-ttu-id="2d5f8-116">A.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-116">a.</span></span> <span data-ttu-id="2d5f8-117">[prisijunkite prie "Microsoft 365"](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) naudodami savo darbo arba mokymo įstaigos paskyrą.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-117">[sign in to Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account.</span></span>
 
-   <span data-ttu-id="c47db-118">b.</span><span class="sxs-lookup"><span data-stu-id="c47db-118">b.</span></span> <span data-ttu-id="c47db-119">Pasirinkite programos paleidimo piktograma viršutiniame kairiajame ir **administratorius**.</span><span class="sxs-lookup"><span data-stu-id="c47db-119">Select the app launcher icon in the upper-left and choose **Admin**.</span></span>
+   <span data-ttu-id="2d5f8-118">B.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-118">b.</span></span> <span data-ttu-id="2d5f8-119">Viršutiniame kairiajame kampe pasirinkite taikomųjų programų vykdyklės piktogramą ir pasirinkite **Administravimas**.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-119">Select the app launcher icon in the upper-left and choose **Admin**.</span></span>
 
-   <span data-ttu-id="c47db-120">c.</span><span class="sxs-lookup"><span data-stu-id="c47db-120">c.</span></span> <span data-ttu-id="c47db-121">Apatiniame kairiajame naršymo, išplėskite **Admin** ir pasirinkite **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="c47db-121">In the lower-left navigation, expand **Admin** and choose **Exchange**.</span></span>
+   <span data-ttu-id="2d5f8-120">C.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-120">c.</span></span> <span data-ttu-id="2d5f8-121">Apatinėje kairiojoje naršymo srityje išplėskite **Administravimas** ir pasirinkite **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-121">In the lower-left navigation, expand **Admin** and choose **Exchange**.</span></span>
 
-   <span data-ttu-id="c47db-122">d.</span><span class="sxs-lookup"><span data-stu-id="c47db-122">d.</span></span> <span data-ttu-id="c47db-123">Eikite į **saugos** > **DKIM**.</span><span class="sxs-lookup"><span data-stu-id="c47db-123">Go to **Protection** > **DKIM**.</span></span>
+   <span data-ttu-id="2d5f8-122">D.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-122">d.</span></span> <span data-ttu-id="2d5f8-123">Eikite į **Apsauga** > **DKIM**.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-123">Go to **Protection** > **DKIM**.</span></span>
 
-   <span data-ttu-id="c47db-124">e.</span><span class="sxs-lookup"><span data-stu-id="c47db-124">e.</span></span> <span data-ttu-id="c47db-125">Pasirinkite domeno, tada pasirinkite **įjungti** pranešimams **pasirašyti šio domeno su DKIM parašais**.</span><span class="sxs-lookup"><span data-stu-id="c47db-125">Select the domain and then choose **Enable** for **Sign messages for this domain with DKIM signatures**.</span></span> <span data-ttu-id="c47db-126">Pakartokite šį veiksmą kiekvienam individualiame domene.</span><span class="sxs-lookup"><span data-stu-id="c47db-126">Repeat this step for each custom domain.</span></span>
+   <span data-ttu-id="2d5f8-124">E.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-124">e.</span></span> <span data-ttu-id="2d5f8-125">Pasirinkite domeną, tada pasirinkite **Įgalinti** **šio domeno pranešimams pasirašyti su DKIM parašais**.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-125">Select the domain and then choose **Enable** for **Sign messages for this domain with DKIM signatures**.</span></span> <span data-ttu-id="2d5f8-126">Pakartokite šį veiksmą su kiekvienu pasirinktiniu domenu.</span><span class="sxs-lookup"><span data-stu-id="2d5f8-126">Repeat this step for each custom domain.</span></span>

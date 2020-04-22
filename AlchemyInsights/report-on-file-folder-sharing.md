@@ -1,9 +1,9 @@
 ---
-title: "\"SharePoint\" svetainės failų ir aplankų bendrinimo ataskaita"
+title: Ataskaita apie failų ir aplankų bendrinimą „SharePoint“ svetainėje
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693170"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a><span data-ttu-id="7a965-102">"SharePoint" svetainės failų ir aplankų bendrinimo ataskaita</span><span class="sxs-lookup"><span data-stu-id="7a965-102">Report on file and folder sharing in a SharePoint site</span></span>
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a><span data-ttu-id="408e6-102">Ataskaita apie failų ir aplankų bendrinimą „SharePoint“ svetainėje</span><span class="sxs-lookup"><span data-stu-id="408e6-102">Report on file and folder sharing in a SharePoint site</span></span>
 
-<span data-ttu-id="7a965-103">Galite sukurti CSV failą, kuriame būtų išsamiai aprašomi visi unikalūs failai, naudotojai, leidimai ir saitas tam tikroje "SharePoint" svetainėje arba "OneDrive" bibliotekoje.</span><span class="sxs-lookup"><span data-stu-id="7a965-103">You can create a CSV file detailing every unique file, user, permission, and link on a given SharePoint site or OneDrive library.</span></span> <span data-ttu-id="7a965-104">Tai gali padėti suprasti, kaip naudojamas bendrinimas ir ar su svečia bendrinami jokie failai ar aplankai.</span><span class="sxs-lookup"><span data-stu-id="7a965-104">This can help you understand how sharing is being used and whether any files or folders are being shared with guests.</span></span>
+<span data-ttu-id="408e6-103">Galite sukurti CSV failą, kuriame būtų išsamiai nurodytas unikalus failas, vartotojas, teisės ir saitas konkrečioje "SharePoint" svetainėje arba "OneDrive" bibliotekoje.</span><span class="sxs-lookup"><span data-stu-id="408e6-103">You can create a CSV file detailing every unique file, user, permission, and link on a given SharePoint site or OneDrive library.</span></span> <span data-ttu-id="408e6-104">Tai gali padėti suprasti, kaip naudojamas bendrinimas ir ar visi failai ar aplankai bendrinami su svečiais.</span><span class="sxs-lookup"><span data-stu-id="408e6-104">This can help you understand how sharing is being used and whether any files or folders are being shared with guests.</span></span>
 
-<span data-ttu-id="7a965-105">Norėdami gauti daugiau informacijos, [praneškite apie failų ir aplankų bendrinimą "SharePoint" svetainėje](https://docs.microsoft.com/sharepoint/sharing-reports).</span><span class="sxs-lookup"><span data-stu-id="7a965-105">For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).</span></span>
+<span data-ttu-id="408e6-105">Norėdami gauti daugiau informacijos, [ataskaita apie failų ir aplankų bendrinimą "SharePoint" svetainėje](https://docs.microsoft.com/sharepoint/sharing-reports).</span><span class="sxs-lookup"><span data-stu-id="408e6-105">For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="7a965-106">Ši funkcija šiuo metu yra visuotinai išleisti nuomininkams ir palaipsniui diegiame visi gamybos nuomininkams.</span><span class="sxs-lookup"><span data-stu-id="7a965-106">This feature is currently deployed to First Release tenants and will gradually rolling out to all Production tenants.</span></span>
+> <span data-ttu-id="408e6-106">Ši funkcija šiuo metu yra įdiegta pirmojo leidimo nuomininkams ir palaipsniui diegiame visiems gamybos nuomininkams.</span><span class="sxs-lookup"><span data-stu-id="408e6-106">This feature is currently deployed to First Release tenants and will gradually rolling out to all Production tenants.</span></span>

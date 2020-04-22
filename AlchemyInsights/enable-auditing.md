@@ -1,5 +1,5 @@
 ---
-title: Įgalinti ir ieškoti audito žurnalas
+title: Įgalinti ir ieškoti audito žurnale
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703651"
 ---
-# <a name="enable-and-search-the-audit-log"></a><span data-ttu-id="709f9-102">Įgalinti ir ieškoti audito žurnalas</span><span class="sxs-lookup"><span data-stu-id="709f9-102">Enable and search the Audit log</span></span>
+# <a name="enable-and-search-the-audit-log"></a><span data-ttu-id="c08ae-102">Tikrinimo žurnalo įgalinimas ir paieška</span><span class="sxs-lookup"><span data-stu-id="c08ae-102">Enable and search the Audit log</span></span>
 
-<span data-ttu-id="709f9-103">**„Office 365“**</span><span class="sxs-lookup"><span data-stu-id="709f9-103">**Office 365**</span></span>
+<span data-ttu-id="c08ae-103">**Rodyti originalų straipsnį anglų kalba: 3085**</span><span class="sxs-lookup"><span data-stu-id="c08ae-103">**Microsoft 365**</span></span>
 
-<span data-ttu-id="709f9-104">Norėdami ieškoti "Office 365" tikrinimo žurnalą, atlikite [šiuos veiksmus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="709f9-104">To search the Office 365 audit log, follow [these steps](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+<span data-ttu-id="c08ae-104">Norėdami ieškoti "Microsoft 365" audito žurnale, atlikite [šiuos veiksmus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="c08ae-104">To search the Microsoft 365 audit log, follow [these steps](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
 
-<span data-ttu-id="709f9-105">**Mainų**</span><span class="sxs-lookup"><span data-stu-id="709f9-105">**Exchange**</span></span>
+<span data-ttu-id="c08ae-105">**Exchange**</span><span class="sxs-lookup"><span data-stu-id="c08ae-105">**Exchange**</span></span>
 
-- <span data-ttu-id="709f9-106">Pagal numatytuosius parametrus Exchange administratoriaus veiklos auditą.</span><span class="sxs-lookup"><span data-stu-id="709f9-106">Exchange admin activities are audited by default.</span></span>
+- <span data-ttu-id="c08ae-106">Exchange administravimo veikla yra auditas pagal numatytuosius nustatymus.</span><span class="sxs-lookup"><span data-stu-id="c08ae-106">Exchange admin activities are audited by default.</span></span>
 
-- <span data-ttu-id="709f9-107">Pašto dėžutės tikrinimas yra įjungtas pagal numatytuosius parametrus "Office 365".</span><span class="sxs-lookup"><span data-stu-id="709f9-107">Mailbox auditing is enabled by default in Office 365.</span></span> <span data-ttu-id="709f9-108">Norėdami gauti daugiau informacijos, skaitykite [šį straipsnį](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span><span class="sxs-lookup"><span data-stu-id="709f9-108">For more information, see  [this article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span></span>
+- <span data-ttu-id="c08ae-107">Pašto dėžutės tikrinimas yra įjungtas pagal numatytuosius nustatymus "Microsoft 365".</span><span class="sxs-lookup"><span data-stu-id="c08ae-107">Mailbox auditing is enabled by default in Microsoft 365.</span></span> <span data-ttu-id="c08ae-108">Daugiau informacijos ieškokite [šiame straipsnyje](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span><span class="sxs-lookup"><span data-stu-id="c08ae-108">For more information, see  [this article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span></span>
 
-- <span data-ttu-id="709f9-109">Grupė "Office 365" pašto dėžutės ir viešojo aplanko pašto dėžutės Exchange Online nepalaiko audito žurnalus.</span><span class="sxs-lookup"><span data-stu-id="709f9-109">Office 365 Group mailboxes and public folder mailboxes in Exchange Online don't support audit logging.</span></span>
+- <span data-ttu-id="c08ae-109">"Office 365" grupės pašto dėžutės ir viešojo aplanko pašto dėžutės "Exchange Online" nepalaiko audito registravimo.</span><span class="sxs-lookup"><span data-stu-id="c08ae-109">Office 365 Group mailboxes and public folder mailboxes in Exchange Online don't support audit logging.</span></span>
 
-<span data-ttu-id="709f9-110">**SharePoint ir "OneDrive"**</span><span class="sxs-lookup"><span data-stu-id="709f9-110">**SharePoint and OneDrive**</span></span>
+<span data-ttu-id="c08ae-110">**"SharePoint" ir "OneDrive"**</span><span class="sxs-lookup"><span data-stu-id="c08ae-110">**SharePoint and OneDrive**</span></span>
 
-- <span data-ttu-id="709f9-111">Nėra jokių papildomų konfigūracija, reikalaujama, kad audito SharePoint ir "OneDrive".</span><span class="sxs-lookup"><span data-stu-id="709f9-111">There's no additional configuration required to enable auditing for SharePoint and OneDrive.</span></span>
+- <span data-ttu-id="c08ae-111">"SharePoint" ir "OneDrive" auditui įgalinti nereikia jokios papildomos konfigūracijos.</span><span class="sxs-lookup"><span data-stu-id="c08ae-111">There's no additional configuration required to enable auditing for SharePoint and OneDrive.</span></span>
 
-- <span data-ttu-id="709f9-112">SharePoint ir "OneDrive" palaiko audito šių rūšių veiklą:</span><span class="sxs-lookup"><span data-stu-id="709f9-112">SharePoint and OneDrive support auditing the following types of activities:</span></span>
+- <span data-ttu-id="c08ae-112">"SharePoint" ir "OneDrive" palaiko šių tipų veiklų tikrinimą:</span><span class="sxs-lookup"><span data-stu-id="c08ae-112">SharePoint and OneDrive support auditing the following types of activities:</span></span>
 
-    - <span data-ttu-id="709f9-113">Failo, aplanko ir puslapis veikla</span><span class="sxs-lookup"><span data-stu-id="709f9-113">File, folder, and page activities</span></span>
-    - <span data-ttu-id="709f9-114">Dalintis ir prieigos prašymas veikla</span><span class="sxs-lookup"><span data-stu-id="709f9-114">Sharing and access request activities</span></span>
-    - <span data-ttu-id="709f9-115">Svetainės administravimo veikla</span><span class="sxs-lookup"><span data-stu-id="709f9-115">Site administration activities</span></span>
-    - <span data-ttu-id="709f9-116">Failų sinchronizavimas veiklos</span><span class="sxs-lookup"><span data-stu-id="709f9-116">File synchronization activities</span></span>
+    - <span data-ttu-id="c08ae-113">Failų, aplankų ir puslapių veiklos</span><span class="sxs-lookup"><span data-stu-id="c08ae-113">File, folder, and page activities</span></span>
+    - <span data-ttu-id="c08ae-114">Užklausų veiklos bendrinimas ir prieiga prie jos</span><span class="sxs-lookup"><span data-stu-id="c08ae-114">Sharing and access request activities</span></span>
+    - <span data-ttu-id="c08ae-115">Svetainės administravimo veikla</span><span class="sxs-lookup"><span data-stu-id="c08ae-115">Site administration activities</span></span>
+    - <span data-ttu-id="c08ae-116">Failų sinchronizavimo veikla</span><span class="sxs-lookup"><span data-stu-id="c08ae-116">File synchronization activities</span></span>
 
-- <span data-ttu-id="709f9-117">Informacijos apie audituojamo veiklą į kitus "Office 365" paslaugos, žr. [lentelę šio straipsnio](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span><span class="sxs-lookup"><span data-stu-id="709f9-117">For information about audited activities in other Office 365 services, see  [the table in this article](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span></span>
+- <span data-ttu-id="c08ae-117">Informacijos apie audituotą veiklą kitose tarnybose ieškokite [šio straipsnio lentelėje](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span><span class="sxs-lookup"><span data-stu-id="c08ae-117">For information about audited activities in other services, see  [the table in this article](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span></span>
 
-- <span data-ttu-id="709f9-118">Dažnai užduodami klausimai [dažniausiai užduodamus klausimus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) apie iešką audito žurnalo sąrašą čia.</span><span class="sxs-lookup"><span data-stu-id="709f9-118">Here a list of frequently asked questions [frequently asked questions](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) about searching the audit log.</span></span>
+- <span data-ttu-id="c08ae-118">Čia dažnai užduodamų [klausimų](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) apie paiešką audito žurnale sąrašas.</span><span class="sxs-lookup"><span data-stu-id="c08ae-118">Here a list of frequently asked questions [frequently asked questions](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) about searching the audit log.</span></span>
