@@ -1,9 +1,9 @@
 ---
-title: 124 gauti leidimo klaida, kai prieiga prie bendrai naudojamos pašto dėžutės OWA?
+title: 124 Gaunate teisių klaidą bandant pasiekti bendrinamą pašto dėžutę OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5d1478c4bcfa6ed9f4430cd00bd033a690fe3b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735784"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708947"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Gauti leidimo klaida atidarant bendrai naudojamą pašto dėžutę "Outlook" internete?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Gaunate teisių klaidą atidarant bendrinamą pašto dėžutę internetinėje "Outlook"?
 
-Jei gaunate klaidą, **kažkas nutiko. Neturite teisės atidaryti šios pašto dėžutės.** Kai bandote atidaryti bendrinamą pašto dėžutę "Outlook" žiniatinklyje, jūsų abonementas gali turėti teisę prieiti prie bendrai naudojamos pašto dėžutės. Jūsų organizacijos administratorius gali priskirti jūsų abonemento teises bendrai naudojamoje pašto dėžutėje vadovaudamiesi temoje pateiktomis instrukcijomis [sukurti bendrai naudojamą pašto dėžutę](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Jei gaunate klaidą **Kažkas nutiko. Neturite teisės atidaryti šios pašto dėžutės.** kai bandote atidaryti bendrinamą pašto dėžutę programoje "Outlook" internete, jūsų abonementas gali neturėti teisės pasiekti bendrinamą pašto dėžutę. Jūsų organizacijos administratorius gali priskirti jūsų abonemento teises bendrai naudojamai pašto dėžutei vadovaudamiesi instrukcijomis, pateiktomis temoje [Bendrai naudojamos pašto dėžutės kūrimas](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   

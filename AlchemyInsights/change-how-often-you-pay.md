@@ -3,7 +3,7 @@ title: Keisti mokėjimo dažnai
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217872"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706835"
 ---
 # <a name="change-how-often-you-pay"></a>Keisti mokėjimo dažnai
 
-Kai perkate prenumeratą, pasirenkate mėnesinį arba metinį atsiskaitymą. Norėdami pakeisti, kaip dažnai jums išrašoma sąskaita už prenumeratą, atlikite toliau nurodytus veiksmus.
-
-1. Administravimo centre eikite į puslapį **Atsiskaitymo> [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
-
-2. Raskite norimą keisti prenumeratą. Skiltyje **Atsiskaitymas** šalia **mokamų sąskaitų kas mėnesį** arba **mokami kasmet**spustelėkite **Redaguoti**.
-
-3. Pasirinkite parinktį, kaip dažnai norite gauti sąskaitą, tada spustelėkite **Keisti**.
+ **Norite pakeisti mokėjimo dažnumą?** Jei norite pakeisti, kaip dažnai mokate už "Microsoft 365" verslui prenumeratą nuo kasmetinių iki mėnesinių ar kas mėnesį iki metinių, galime jums padėti. Turėsite įsigyti tą pačią prenumeratą naudodami naują mokėjimo dažnumą ir atšaukti seną prenumeratą. Prašome naudoti parinktį "Leiskite jums paskambinti" pasikalbėti su palaikymo inžinierius.

@@ -1,9 +1,9 @@
 ---
-title: Ieškokite el. archyvo pašto dėžutės
+title: El. pašto ieška archyvo pašto dėžutėje
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551603"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709271"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Ieškokite el. archyvo pašto dėžutės
+# <a name="search-for-email-in-the-archive-mailbox"></a>El. pašto ieška archyvo pašto dėžutėje
 
-Kai archyvo pašto dėžutė įgalinta "Office 365", galite naudoti **el. duomenų aptikimo ieškos ir eksporto** atrasti pirminės ir archyvo pašto dėžutės turinį. Informacijos apie **el. duomenų aptikimo ieškos eksporto** rasti tą turinį, atlikite į veiksmus pažymėta [čia](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Įgalinę archyvo pašto dėžutę " Microsoft 365", galite naudoti **el. duomenų aptikimo iešką ir eksportavimą,** kad rastumėte turinį ir pirminio, ir archyvo pašto dėžutės. Norėdami gauti informacijos apie **el. duomenų aptikimo ieškos eksportavimo** naudojimą, kad rastumėte tą turinį, atlikite [čia](https://docs.microsoft.com/office365/securitycompliance/export-search-results)nurodytus veiksmus .
   
-Taip pat galite palikti tą turinį, pridedant pašto dėžutės saugojimo strategija. Tai bus vieta turinio sulaikymo pirminės ir archyvo pašto dėžutę. Daugiau informacijos apie saugojimo strategijos išlaikyti el. pašto pamatyti į veiksmus pažymėta [čia](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Taip pat galite išlaikyti šį turinį įtraukdami pašto dėžutę į saugojimo strategiją. Tai padės turinį į pradinę ir archyvo pašto dėžutę sulaikytas. Jei norite gauti daugiau informacijos apie saugojimo strategijų kūrimas, kad išsaugotumėte el. laiškus, [žr.](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)
   

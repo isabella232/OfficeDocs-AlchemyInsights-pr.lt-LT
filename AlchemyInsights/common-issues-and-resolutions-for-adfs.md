@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286667"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706209"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Žinomos ADFS problemos ir jų sprendimo būdai
 
@@ -28,4 +28,4 @@ Išorinio domeno konfigūraciją gali būti atnaujinta, kaip paaiškinta toliau 
 
 - [2647020](https://support.microsoft.com/help/2647020) „Atsiprašome, kilo problema bandant jus prijungti“ ir „80041317“ arba „80043431“ klaida, kai išorinis vartotojas bando prisijungti prie „Office 365“, „Azure“ arba „Intune“.
 
-Norėdami gauti daugiau informacijos, žr. [Išorinio domeno, esančio „Office 365“, „Azure“ arba „Intune“, parametrų naujinimas arba atkūrimas](https://docs.microsoft.com/lt-LT/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Norėdami gauti daugiau informacijos, žr. [Išorinio domeno, esančio „Office 365“, „Azure“ arba „Intune“, parametrų naujinimas arba atkūrimas](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

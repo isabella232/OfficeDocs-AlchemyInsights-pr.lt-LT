@@ -1,9 +1,9 @@
 ---
-title: Jau sumokėtas?
+title: Jau sumokėta?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e7ddb784b195767477962b94542cd292cb0c7ce1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708183"
 ---
-# <a name="already-paid"></a>Jau sumokėtas?
+# <a name="already-paid"></a>Jau sumokėta?
 
-Jei jūs jau išsiųstas mokėjimo, jūs galite susisiekti su mumis:
+Jei mokėjimą jau išsiuntėte, galite mums pranešti:
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [prenumerata](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapis.
+1. Administravimo centre eikite į puslapį **Atsiskaitymo** \> [prenumeratos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Pasirinkite prenumeratą ir sekcijoje **mano sąskaitą** pasirinkite **Peržiūrėti sąskaitą**.
+2. Pasirinkite prenumeratą ir sekcijoje **Mano sąskaita** pasirinkite **Peržiūrėti sąskaitą**.
 
-3. **Bill informacijos** puslapyje, pasirinkite **jau sumokėtas?** Jūsų paprašys įvesti informaciją, susijusią su mokėjimo, kuris buvo išsiųstas.
+3. Puslapyje **Išsami sąskaitos informacija** pasirinkite **Jau apmokėta?** Jūsų bus paprašyta įvesti informaciją, susijusią su išsiųstu mokėjimu.
 
-4. Įvedus visą būtiną informaciją, pasirinkite **Siųsti**.
+4. Įvedus visą reikiamą informaciją, pasirinkite **Siųsti**.

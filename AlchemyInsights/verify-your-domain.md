@@ -1,9 +1,9 @@
 ---
-title: Patikrinkite savo domeną
+title: Domeno tikrinimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710451"
 ---
-# <a name="verify-your-domain"></a>Patikrinkite savo domeną
+# <a name="verify-your-domain"></a>Domeno tikrinimas
 
- **Įrašo tikriausiai nėra atnaujinama per internetą.**
+ **Įrašas tikriausiai nebuvo atnaujintas visame internete.**
   
-Paprastai trunka tik keletą minučių mums matyti naują įrašą, tačiau kartais tai gali užtrukti, kol po kelių valandų. 
+Paprastai mums reikia tik kelių minučių, kad galėtume pamatyti naują įrašą, tačiau kartais tai gali užtrukti tiek laiko, kiek kelias valandas. 
   
-- Jei jūs laukėte, kad ilgai jau, dar kartą patikrinkite kad nukopijavote ir tiksli reikšmė į TXT įra as patikros įklijuojamas jūsų DNS serverio. Viena bendra problema neįtraukia į "MS =" dalis įrašo. Mums reikia kad per daug!
+- Jei jau ilgai laukėte, dar kartą patikrinkite, ar nukopijavote ir įklijavote tikslią reikšmę į TXT patvirtinimo įrašą DNS išteklių nuomos teikėjo svetainėje. Viena dažniausia problema nėra įrašo dalis "MS=". Mums to reikia!
 
-- Kartą kai DNS pagrindinio kompiuterio, turite atlikti papildomą veiksmą įrašyti zonos (kur saugomas DNS įrašas), kad ji bus atnaujinta visame internete. Įsitikinkite, kad įrašėte pakeitimus, todėl "Office 365" galite pamatyti ir įra ą.
+- Kai kuriuose DNS pagrindiniuose kompiuteriuose turite atlikti papildomą veiksmą, kad įrašytumėte zonos failą (kuriame saugomas DNS įrašas), kad jis būtų atnaujintas internete. Įsitikinkite, kad įrašėte pakeitimus, kad "Microsoft" galėtų matyti ir patvirtinti įrašą.

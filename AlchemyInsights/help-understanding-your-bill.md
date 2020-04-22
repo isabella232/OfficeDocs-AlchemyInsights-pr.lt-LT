@@ -1,9 +1,9 @@
 ---
-title: Padėti suprasti jūsų sąskaitą
+title: Padėkite suprasti sąskaitą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710091"
 ---
-# <a name="help-understanding-your-bill"></a>Padėti suprasti jūsų sąskaitą
+# <a name="help-understanding-your-bill"></a>Padėkite suprasti sąskaitą
 
-Jūsų "Office 365" verslui prenumerata įskaičiuoja atspindi licencijos kainos, padaugintos iš įsigytų licencijų ir reikiami mokesčiai/mokesčiai.
+Už prenumeratą išrašyta suma atspindi licencijos kainą, padaugintą iš įsigytų licencijų skaičiaus ir visų būtinų mokesčių /rinkliavų.
   
-Jei atsiskaitymo suma skiriasi tada tikėtis, šiuo metu tai gali atsitikti dėl kelių priežasčių:
+Jei suma, dėl kurios išrašyta sąskaita, yra kitokia, tada tikimasi, yra keletas priežasčių, dėl kurių tai gali įvykti:
   
-- Licencijas buvo pridėta arba pašalinta iš jūsų prenumeratą. Kai licencijos yra pakeistas vidurio, tai atsispindi šioje sąskaitoje-faktūroje. Galite matyti kredito ir vėl imti mokestį už ankstesnį laikotarpį, atsižvelgiant į šį pakeitimą.
+- Licencijos buvo pridėtos arba pašalintos iš prenumeratos. Pakeitus licencijos laikotarpio viduryje, tai atsispindi toliau pateiktoje SF. Atsižvelgiant į šį pakeitimą, į jūsų sąskaitą gali būti įskaityta pinigų suma arba atliktas pakartotinas mokėjimas.
 
-- Ji buvo atšaukta. Jūs gausite sąskaitą faktūrą paskelbus ją negaliojančia su bet nesumokėtas likutis, atėmus visus kreditus.
+- Prenumerata buvo atšaukta. Po atšaukimo gausite sąskaitą faktūrą, kurioje nurodytas neapmokėtas likutis, atėmus visus kreditus.
 
-- Jūsų prenumerata atnaujinta naujai kadencijai ir licencijos kainos pasikeitė.
+- Jūsų prenumerata pratęsta naujam laikotarpiui, o licencijos kaina pasikeitė.
 
-Daugiau informacijos apie savo sąskaitą, rasite: [suprasti savo sąskaitą-faktūrą.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Daugiau informacijos apie sąskaitą faktūrą rasite: [Sąskaitos faktūros supratimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

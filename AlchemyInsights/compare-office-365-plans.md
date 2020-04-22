@@ -1,9 +1,9 @@
 ---
-title: "\"Office 365\" planų palyginimas"
+title: "\"Microsoft\" prenumeratų palyginimas"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7f19715e6b036c9d8a5e44373aedc6e6aa11392
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520423"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706137"
 ---
-# <a name="compare-switch-or-purchase-office-365-plans"></a>Palyginti, pakeitimas arba įsigyti "Office 365" planai
+# <a name="compare-switch-or-purchase-subscriptions"></a>Abonementų palyginimas, perjungimas arba pirkimas
   
-"Office 365" planai galimi [verslo](https://products.office.com/compare-all-microsoft-office-products?tab=2)ir [įmonės lygio įmonės](https://products.office.com/business/compare-more-office-365-for-business-plans). Be to, "Office 365" galima prie [mokslo įstaigų](https://products.office.com/academic/compare-office-365-education-plans), [vyriausybinių organizacijų](https://products.office.com/government/compare-office-365-government-plans)ir [ne pelno organizacijos](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
+Prenumeratos galimos [verslui](https://products.office.com/compare-all-microsoft-office-products?tab=2)ir [įmonės lygio įmonėms](https://products.office.com/business/compare-more-office-365-for-business-plans). Be to, "Microsoft 365" pasiekiama [akademinėms](https://products.office.com/academic/compare-office-365-education-plans) [institucijoms, vyriausybinėms organizacijoms](https://products.office.com/government/compare-office-365-government-plans)ir [ne pelno organizacijoms](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
   
-Jei jūsų organizacija domisi lyginant visus planus ir kainas, peržiūrėkite ["Office 365" planų palyginimas](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Jei jūsų organizacija suinteresuota palyginti visus planus ir kainas, peržiūrėkite [Palyginti visas prenumeratas](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jei jūsų organizacija jau įsigijo "Office 365" planą ir domisi pereina į kitą planą, galite tai padaryti "Microsoft 365" administravimo centrą. Eiti į **atsiskaitymo** \> [prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje, tada pasirinkite **Perjungti planus** peržiūrėti sąrašą naujus planus, kurie yra prieinami.
+Jei jūsų organizacija jau įsigijo prenumeratas ir yra suinteresuota pereiti prie kito plano, galite tai padaryti iš "Microsoft 365" administravimo centro. Eikite į **puslapį Atsiskaitymo** \> [prenumeratos,](https://go.microsoft.com/fwlink/p/?linkid=842054) tada pasirinkite **Perjungti planus,** kad peržiūrėtumėte galimų naujų planų sąrašą.
   
-Jūsų organizacija taip pat galima maišyti ir rungtynės "Office 365" planus patenkinti vartotojų reikalavimus funkciją ir poreikius. Administravimo centrą, eikite į **atsiskaitymo** \> [Pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) psl.
+Jūsų organizacija taip pat gali maišyti ir suderinti prenumeratas, kad atitiktų vartotojų poreikius ir funkcijų reikalavimus. Administravimo centre eikite į puslapį **Atsiskaitymo** \> [pirkimo paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=868433)

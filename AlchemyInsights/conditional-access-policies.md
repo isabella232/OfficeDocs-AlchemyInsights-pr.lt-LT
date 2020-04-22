@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100513"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706065"
 ---
 # <a name="conditional-access-policies"></a>Sąlyginės prieigos strategijos
 
@@ -24,7 +24,7 @@ Sąlyginė prieiga – tai „Azure AD“ funkcija, kuri jums leidžia savo apli
 
 Sužinokite daugiau apie [„Azure AD sąlyginę prieigą](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Pastaba**: Jei jūsų nuomotojas buvo sukurtas po 2019 m. spalio 21 d. ir netikėtai gaunate MFA raginimą, gali būti, kad jūsų nuomotojuje yra įgalinti [numatytieji saugos parametrai](http://aka.ms/securitydefaults).
+**Pastaba**: Jei jūsų nuomotojas buvo sukurtas po 2019 m. spalio 21 d. ir netikėtai gaunate MFA raginimą, gali būti, kad jūsų nuomotojuje yra įgalinti [numatytieji saugos parametrai](https://aka.ms/securitydefaults).
 
 **Norėdami valdyti numatytuosius saugos parametrus, atlikite šiuos veiksmus**
 

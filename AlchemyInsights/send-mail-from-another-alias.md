@@ -1,9 +1,9 @@
 ---
-title: Siųsti laiškus iš kitų pseudonimų
+title: Siųsti laiškus iš kito pseudonimo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709199"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Siųsti el. pašto pseudonimą ar adresas
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Siųsti el. laišką iš pseudonimo arba antrinio adreso
 
-"Office 365" šiuo metu nepalaiko siuntimo el. pašto pseudonimą ar kitą el. pašto adresą. El. pašto tarpininkus gali būti naudojamas tik el. laiškų. Jei norite siųsti el. laiškus iš kito el. pašto adreso, turite sukurti bendrai naudojamos pašto dėžutės. Bendrai naudojamą pašto dėžutę gausite kitą el. pašto adresą, nereikalaujant kitą licenciją.
+"Microsoft 365" šiuo metu nepalaiko el. laiškų siuntimo iš pseudonimo arba antrinio el. pašto adreso. El. pašto slapyvardžiai gali būti naudojami tik el. laiškams gauti. Jei norite siųsti el. laiškus iš kito el. pašto adreso, turite sukurti bendrinamą pašto dėžutę. Bendrinama pašto dėžutė suteiks jums kitą el. pašto adresą, nereikalaujant kitos licencijos.
   
-- [Eiti čia Norėdami sukurti bendrai naudojamą pašto dėžutę](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Eikite čia norėdami sukurti bendrinamą pašto dėžutę](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Taip pat galite perskaityti [sukurti bendrai naudojamą pašto dėžutę](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) straipsnį, kuri jums pasakys viską, ką reikia žinoti apie bendrai naudojamos pašto dėžutės, įskaitant tai, kaip juos naudoti.
+Taip pat galite perskaityti straipsnį [Kurti bendrinamą pašto dėžutę,](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) kuriame bus nurodyta viskas, ką reikia žinoti apie bendrinamas pašto dėžutes, įskaitant tai, kaip jas naudoti.

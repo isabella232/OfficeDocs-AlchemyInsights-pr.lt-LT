@@ -1,8 +1,8 @@
 ---
-title: 959 keisti rodomą vardą
+title: 959 Keisti rodomą pavadinimą
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736729"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706979"
 ---
-# <a name="change-your-display-name"></a>Rodomo pavadinimo keitimas
+# <a name="change-your-display-name"></a>Rodomo vardo keitimas
   
-Norėdami pakeisti rodomą vardą "Outlook", atlikite toliau nurodytus veiksmus.
+Norėdami pakeisti rodomą pavadinimą programoje "Outlook", atlikite toliau nurodytus veiksmus.
   
-1. Programoje "Outlook", pasirinkite **failo** \> **abonemento parametrai** \> **abonemento parametrai**.
+1. Programoje "Outlook" pasirinkite **Failų** \> **abonemento parametrų** \> **abonemento parametrai**.
 
-2. Pasirinkite el. pašto paskyrą ir pasirinkite **keisti**.
+2. Pasirinkite el. pašto paskyrą, tada pasirinkite **Keisti**.
 
     > [!NOTE]
-    > Jei nematote parinkties keisti rodomą vardą, tikriausiai naudojate "Microsoft Exchange" el. pašto abonementą. Tokiu atveju turite susisiekti su administratoriumi, kad pakeistumėte rodomą vardą. Peržiūrėkite ["Office 365" vartotojo vardo ir el. pašto adreso keitimas](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Jei nematote parinkties pakeisti rodomą vardą, tikriausiai naudojate "Microsoft Exchange" el. pašto abonementą. Tokiu atveju turite susisiekti su administratoriumi, kad pakeistumėte rodomą vardą. [®r. Vartotojo vardo ir el. pašto adreso keitimas](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Pakeitę rodomą vardą, spustelėkite **gerai** , kad įrašytumėte keitimus. Gali praeiti kelios valandos, kol jūsų keitimai atsispindės visoje organizacijoje.
+3. Pakeitę rodomą vardą, spustelėkite **Gerai,** kad įrašytumėte pakeitimus. Gali praeiti kelios valandos, kad pakeitimai atsispindėtų visoje organizacijoje.
 
-Norėdami gauti daugiau informacijos, žiūrėkite [keisti rodomą vardą, kurį matys el. pašto gavėjai](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Daugiau informacijos [ieškokite Rodomo vardo, kurį matys el. pašto gavėjai, keitimas](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

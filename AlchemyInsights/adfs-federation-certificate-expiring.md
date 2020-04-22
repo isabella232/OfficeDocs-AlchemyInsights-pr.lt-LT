@@ -1,9 +1,9 @@
 ---
-title: ADFS susiejimo sertifikato galiojimo pabaiga
+title: ADFS susiejimo sertifikato galiojimo laikas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 14e7da6220dfa96edca5d9ec5c32e003480a9eaf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737197"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710415"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS susiejimo sertifikato galiojimo pabaiga
+# <a name="adfs-federation-certificate-expiring"></a>ADFS susiejimo sertifikato galiojimo laikas
 
 Norėdami išspręsti šią problemą, atlikite šiuos veiksmus:
   
-1. Kompiuteryje įdiekite "Microsoft Azure Active Directory" modulį, skirtą "Windows PowerShell" (jei modulis dar neįdiegtas). Norėdami tai padaryti, eikite į [valdyti AZURE ad naudojant "Windows PowerShell"](https://aka.ms/aadposh).
+1. Įdiekite "Microsoft Azure Active Directory" modulį, skirtą "Windows PowerShell" kompiuteryje (jei modulis dar neįdiegtas). Norėdami tai padaryti, eikite į [Tvarkyti Azure AD naudojant "Windows PowerShell".](https://aka.ms/aadposh)
 
-2. Atlikite veiksmus, nurodytus "scenarijų 1: AD FS atpažinimo ženklas pasirašymo sertifikato galiojimas" skyriuje ["kilo problema bandant pasiekti svetainę" klaida iš AD FS, kai išorinis vartotojas prisijungia prie Office 365, Azure arba Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Atlikite veiksmus, nurodytus skyriuje "1 scenarijus: AD FS atpažinimo ženklų pasirašymo sertifikato galiojimo laikas baigėsi" [klaidos pranešimą "Iškilo problema bandant pasiekti svetainę" iš AD FS, kai išorinis vartotojas prisijungia prie "Microsoft 365", "Azure" arba "Intune".](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
-3. Vykdykite [naujinimą arba pataisykite išorinio domeno parametrus Office 365, Azure arba Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Atlikite [veiksmus, nurodytus "Microsoft", "Azure" arba "Intune" išorinio domeno parametruose](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)naujinimas arba taisymas .
 
-    Jei norite sužinoti daugiau apie susiejimo sertifikatų atnaujinimą, peržiūrėkite " [Office 365" ir "Azure Active Directory" susiejimo sertifikatų atnaujinimą](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Norėdami sužinoti daugiau apie susiejimo sertifikatų atnaujinimą, peržiūrėkite [Atnaujinti susiejimo sertifikatai Microsoft 365 ir Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

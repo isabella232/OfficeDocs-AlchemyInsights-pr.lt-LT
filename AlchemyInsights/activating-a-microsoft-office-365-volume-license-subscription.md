@@ -1,9 +1,9 @@
 ---
-title: Aktyvinti "Microsoft Office 365" apimtis licencijos prenumeratą
+title: "\"Microsoft\" bendrosios licencijos prenumeratos aktyvinimas"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661196"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708767"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktyvinti "Microsoft Office 365" apimtis licencijos prenumeratą
+# <a name="activating-a-microsoft-volume-license-subscription"></a>"Microsoft" bendrosios licencijos prenumeratos aktyvinimas
 
-1. Prisijunkite prie savo [apimtis licencijavimo paslaugų centro (VLSC) portalas](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Prisijunkite prie [bendrojo licencijavimo paslaugų centro (VLSC) portalo](https://go.microsoft.com/fwlink/p/?LinkId=329762).
 
-2. Eikite į "Office 365" prenumeratą ir pasirinkite **çjungti**.
+2. Eikite į prenumeratą ir pasirinkite **Aktyvinti**.
 
-3. Elektroniniu paštu išsiųsime Online Services (OLS) kontaktas.
+3. El. laiškas bus išsiųstas jūsų "Online Services" (OLS) kontaktui.
 
-4. Aktyvinimas el. paštas suteiks jums dvi galimybes: **Užsiregistruokite**arba **Prisijunkite**. Jei anksčiau sukūrėte teismą, pasirinkite **prisijungti**. Jei dar neturite Office 365 nuomotojo, pasirinkti, **registruotis**.
+4. Aktyvinimo el. laiške bus pateiktos dvi parinktys: **Prisiregistruokite**arba **Prisijunkite**. Jei anksčiau sukūrėte bandomąją versiją, pasirinkite **Prisijungti**. Jei dar neturite "Microsoft 365" nuomotojo, pasirinkite **Prisiregistruoti**.
 
-5. Prisijunkite prie "Microsoft" 365 administravimo centro ([https://admin.microsoft.com](https://admin.microsoft.com)) naudodami esamą "Office 365" administratoriaus kredencialus. Po to, kai sėkmingai prisijungsite, gausite kitą el. laišką, patvirtinantį jūsų pirkti.
+5. Prisijunkite prie "Microsoft 365" administravimo centro ([https://admin.microsoft.com](https://admin.microsoft.com)) naudodami esamus administratoriaus kredencialus. Sėkmingai prisijungę gausite kitą el. laišką, patvirtinantį pirkimą.
 
-6. Po to, kai esate prisijungę, galite pereiti prie **atsiskaitymo** \> [prekių & paslaugų](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapį ir patikrinti, kad jūsų įsigytas Office 365 prenumeratos yra aktyvuotas per savo nuomotojo. (Galite taip pat pasirinkti skirtuką **prenumerata** Norėdami peržiūrėti išsamią informaciją, patikrinti, kad atidavė savo prenumeratą VLSC.)
+6. Prisijungę galite eiti į **puslapį Atsiskaitymo** \> [produktai & paslaugos,](https://go.microsoft.com/fwlink/p/?linkid=842054) kad patvirtintumėte, jog įsigytos prenumeratos suaktyvintos nuomotojo viduje. (Vlsc taip pat galite pasirinkti skirtuką **Prenumerata,** kad peržiūrėtumėte išsamią informaciją, patvirtinančią, kad jūsų prenumerata buvo deponuota.)

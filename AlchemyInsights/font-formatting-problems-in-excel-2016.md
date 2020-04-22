@@ -1,9 +1,9 @@
 ---
-title: Šrifto formatavimo problemos Excel 2016
+title: Šrifto formatavimo problemos programoje "Excel 2016"
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051973"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708647"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Šrifto formatavimo problemos programoje "Excel"
 
-"Excel 2016" šrifto formatavimas langelyje gali būti nerodomas tinkamai. Taip gali nutikti, jei ląstelėje yra daugiau nei vienas šrifto formatavimo rūšis. Pavyzdžiui, jei kai kurie simboliai yra paryškinti, o kiti nėra paryškinti, gali būti, kad nematote paryškintojo formato. Arba, jei toje pačioje ląstelėje yra skirtingų spalvotų simbolių, gali būti, kad spalvos rodomos teisingai. Mūsų inžinierių komanda žino apie šią problemą ir šiuo metu dirba Fix. Tuo tarpu, pabandykite naudoti kitą šriftą. Arba Stenkitės nenaudoti kelių tipų formatavimo toje pačioje ląstelėje, kol ši problema bus išspręsta.
+Programoje "Excel 2016" šrifto formatavimas gali būti netinkamai rodomas langelyje. Taip gali nutikti, jei langelyje yra daugiau nei vienos rūšies šrifto formatavimas. Pavyzdžiui, jei kai kurie simboliai yra paryškinti, o kiti nėra paryškinti, gali būti, kad nerodomas paryškintasis formatas. Arba jei tame pačiame langelyje yra skirtingų spalvotų simbolių, galite matyti, kad spalvos rodomos teisingai. Mūsų inžinerijos komanda žino apie šią problemą ir šiuo metu dirba su pataisa. Tuo tarpu pabandykite naudoti kitą šriftą. Arba stenkitės išvengti kelių tipų formatavimo toje pačioje ląstelėje, kol ši problema bus išspręsta.
   

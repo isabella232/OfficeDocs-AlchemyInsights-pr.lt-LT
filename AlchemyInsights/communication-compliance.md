@@ -1,5 +1,5 @@
 ---
-title: Ryšio atitiktis
+title: Ryšių atitiktis
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706173"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Ryšio atitiktis "Microsoft 365"
 
-Ryšio atitiktis – tai naujas "Microsoft" 365 atitikties sprendimas, padedantis organizacijoms laikytis priežiūros reikalavimų ir sumažinti ryšio riziką. Ji pagrįsta "Office 365" priežiūros funkcija ir joje yra naujų patobulinimų, įskaitant:
+Ryšio atitiktis yra naujas "Microsoft 365" atitikties sprendimas, padedantis organizacijoms atitikti priežiūros reikalavimų ir sumažinti ryšio riziką. Jis pagrįstas priežiūros funkcija ir apima naujus patobulinimus, įskaitant:
 
 - Išmanūs tinkinami šablonai
-- Lanksčios atnaujinimo darbo eigos
-- Naudingos įžvalgos
+- Lanksčios atkūrimo darbo eigos
+- Išnaudoti įžvalgos
 
-Jei šiuo metu naudojate [priežiūros strategijos Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), mes rekomenduojame, kad jūs dabar naudoti naują bendravimo atitikties spręsti reguliavimo poreikius.
+Jei šiuo metu taikote [priežiūros strategijas](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), rekomenduojame dabar naudoti naują jį atitinkančią ryšių atitiktį reguliavimo poreikiams patenkinti.
 
-Norėdami sukonfigūruoti ryšio atitiktį, peržiūrėkite [ryšio atitikties konfigūravimas](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Norėdami nustatyti ryšio atitiktį, [žr.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Norėdami tirti, peržiūrėti ir atkurti ryšio atitiktį, žiūrėkite [tirti ir atkurti ryšio atitikties įspėjimus](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Norėdami ištirti, peržiūrėti ir ištaisyti ryšių [laikymąsi,](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)žr.
 
-Norėdami peržiūrėti ryšio atitikties funkciją, peržiūrėkite ["Microsoft 365" pranešimų atitiktį](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Ryšių atitikties funkcijos apžvalgą rasite ["Microsoft 365" ryšio atitiktis.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Licencijos reikalavimai: naudotojai, stebimi pagal bendravimo strategijas, turi turėti vieną iš šių veiksmų:
+Licencijos reikalavimai: vartotojai, stebimi pagal ryšio strategijas, turi turėti vieną iš šių veiksmų:
 
-- Microsoft 365 E5 atitikties licencija
-- Office 365 Enterprise E3 licencija su pažangiosios atitikties Add-on
-- Office 365 Enterprise E5 prenumerata
+- "Microsoft 365 E5" atitikties licencija
+- "Office 365 Enterprise E3" licencija su išplėstinio atitikties priedu
+- "Office 365 Enterprise E5" prenumerata
 
-Jei jūs neturite kurios nors iš aukščiau ir norite išbandyti bendravimo atitiktį, **[Užsiregistruokite Office 365 Enterprise E5 bandomąją versiją](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Jei neturite anksčiau nurodytų reikalavimų ir norite išbandyti ryšio **[atitiktį, prisiregistruokite naudoti bandomąją "Office 365 Enterprise E5" versiją.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**

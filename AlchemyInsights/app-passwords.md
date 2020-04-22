@@ -1,9 +1,9 @@
 ---
-title: 500 programėlių slaptažodžiai
+title: 500 Programėlių slaptažodžiai
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517795"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707847"
 ---
 # <a name="app-passwords"></a>Programėlių slaptažodžiai
 
-Programėlės slaptažodžio yra kodas, kuris suteikia programėlės arba įrenginio leidimą prieiti prie jūsų "Office 365" darbo arba mokymo įstaigos paskyra. Jei jūsų paskyra reikia kelių dalių autentifikavimas (DTS), ir programa prisijungia prie jūsų paskyros, turite sugeneruoti programos slaptažodį, todėl programa gali prisijungti prie "Office 365". Pvz., "Outlook" 2016 ir ankstesnių versijų "Outlook", reikia programėlės slaptažodžio.
+Programėlės slaptažodis yra kodas, suteikiantis programėlei arba įrenginiui teisę pasiekti jūsų "Microsoft" darbo arba mokymo įstaigos paskyrą. Jei jūsų paskyrai reikia kelių dalių autentifikavimo (DTS) ir programėlė prisijungia prie jūsų paskyros, turite sugeneruoti programėlės slaptažodį, kad programėlė galėtų prisijungti prie "Microsoft". Pvz., "Outlook" 2016 ir ankstesnėse versijose "Outlook" reikia programėlės slaptažodį.
 
- **Pastaba**: prieš pradėdami šiuos veiksmus, patikrinti su savo "Office 365" administratorius URM reikalingas jūsų paskyros. Jei ne, variantus, aprašytus veiksmus nebus prieinamas jums.
+ **Pastaba:** prieš bandydami atlikti šiuos veiksmus, kartu su "Microsoft 365" administratoriumi patikrinkite, ar jūsų abonementui reikalingas DTS. Jei ne, veiksmuose aprašytos parinktys jums nebus pasiekiamos.
 
-1. Prisijunkite prie "Office 365" su savo darbo arba mokyklos paskyrą ir slaptažodį.
+1. Prisijunkite naudodami savo darbo arba mokymo įstaigos paskyrą ir slaptažodį.
 
-2. Pasirinkti **nustatyti jį dabar**.
+2. Pasirinkite **Nustatyti dabar**.
 
-3. Pasirinkite autentifikavimo būdą ir vykdykite ekrane pateikiamas instrukcijas.
+3. Pasirinkite autentifikavimo metodą ir vykdykite nurodymus.
 
-4. Patikrinę jūsų alternatyvių bendravimo metodą, pasirinkti **kitą**.
+4. Patikrinę alternatyvų kontaktų metodą, pasirinkite **Pirmyn**.
 
-5. Jūs gausite slaptažodį, kurį naudodami "Outlook", Apple Mail ir kitas programas, kad jos reikia. Pasirinkite **Copy** nukopijuoti slaptažodį, kad galėtumėte įklijuoti jį kitur (nereikia įsiminti).
+5. Gausite programėlės slaptažodį, kurį galėsite naudoti su "Outlook", "Apple Mail" ir kitomis programėlėmis, kurioms jo reikia. Pasirinkite **Kopijuoti,** kad nukopijuotumėte slaptažodį, kad galėtumėte jį įklijuoti kitur (jo nereikia įsiminti).

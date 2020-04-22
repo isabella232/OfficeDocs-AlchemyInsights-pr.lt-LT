@@ -1,8 +1,8 @@
 ---
-title: 414 paieškos patirtį, atnaujinta
+title: 414 Ieškos patirtis atnaujinta
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709307"
 ---
-# <a name="search-experience-updated"></a>Atnaujinta paieškos patirtį
+# <a name="search-experience-updated"></a>Ieškos patirtis atnaujinta
 
-Paieška yra dabar yra programėlės apačioje. Spustelti jį suteikia tiesioginę prieigą prie viršų kontaktus, būsimų kelionių maršrutus, paketų pristatymą ir neseniai priedus. Galite ieškoti el. laiškus, failus ir kontaktus į bet kurį iš savo paskyrų, vienas bendrosios ieškos lauke arba naudoti mūsų naujų filtrus norėdami susiaurinti iešką.
+Paieška dabar yra programos apačioje. Bakstelėjus jį galite tiesiogiai pasiekti savo geriausius kontaktus, būsimus kelionės maršrutus, paketų pristatymus ir naujausius priedus. Galite ieškoti el. laiškų, failų ir kontaktų bet kurioje paskyroje iš vieno paieškos laukelio arba naudoti naujus filtrus ieškai susiaurinti.

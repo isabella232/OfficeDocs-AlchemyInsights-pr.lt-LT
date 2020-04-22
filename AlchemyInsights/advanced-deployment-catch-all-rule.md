@@ -2,7 +2,7 @@
 title: Išplėstinis diegimas sugavimo visos taisyklės
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710919"
 ---
-# <a name="deploy-office-apps"></a>"Office" programėlių diegimas
+# <a name="deploy-office-apps"></a>"Office" taikomųjų programų diegimas
 
-"Office" programų diegimas keliems galutiniams vartotojams naudojant "Office" visuotinio diegimo įrankį, "Microsoft" galinio punkto konfigūracijos tvarkyklė, kaip operacinės sistemos disko atvaizdą, arba bendro naudojimo kompiuterio scenarijuje naudodami "Windows Server" su nuotolinio darbalaukio tarnybų (RDS) arba terminalų tarnybas, apsvarstykite galimybę naudoti žingsnis po žingsnio vadovas **Office 365 ProPlus diegimo patarėjas**.
+Norėdami įdiegti "Office" programas keliems galutiniams vartotojams naudojant "Office" diegimo įrankį, "Microsoft Endpoint Configuration Manager", kaip operacinės sistemos disko atvaizdo dalį, arba bendrai naudojamo kompiuterio scenarijuje naudodami "Windows Server" su nuotolinio darbalaukio tarnybomis (RDS) arba terminalų tarnybomis, apsvarstykite galimybę naudoti **"Microsoft 365 Apps for Enterprise Deployment Advisor"** veiksmų vadovą .
   
-Norėdami pradėti, įsitikinkite, kad esate prisijungę kaip nuomotojo administratorius arba visuotinis administratorius, ir tada spustelėkite čia: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Norėdami pradėti, įsitikinkite, kad esate prisijungę kaip nuomotojo administratorius arba [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)visuotinis administratorius, tada spustelėkite čia: .
   

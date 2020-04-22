@@ -12,19 +12,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f735bafec1e23d5f539295cf63aabf583681e208
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709019"
 ---
 # <a name="adding-external-users"></a>Išorinių vartotojų pridėjimas
 
-Išorinių/svečio vartotojų įtraukimo veiksmai gali skirtis atsižvelgiant į tai, ko jums reikia, kad galėtumėte pasiekti. Pasirinkite vieną iš šių:
+Išorinių / svečių vartotojų įtraukimo veiksmai gali skirtis priklausomai nuo to, ko jiems reikia, kad jie galėtų pasiekti. Pasirinkite vieną iš šių parinkčių:
   
 - ["SharePoint Online" išorinio bendrinimo apžvalga](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Svečio prieiga Office 365 grupėse](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Svečio prieiga "Office 365" grupėse](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Svečio prieiga programoje "Microsoft teams"](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Svečio prieiga programoje "Microsoft Teams"](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
