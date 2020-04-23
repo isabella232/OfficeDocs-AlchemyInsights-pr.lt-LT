@@ -1,9 +1,9 @@
 ---
-title: Kaip padaryti naują "Outlook.com" atrodo kaip senas
+title: Kaip padaryti, kad naujas Outlook.com atrodytų kaip senas
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497523"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721769"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kaip padaryti naują "Outlook.com" atrodo kaip sena versija
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kaip padaryti, kad nauja Outlook.com atrodytų kaip sena versija
 
-Štai kai kurie parametrai, galite pakeisti į naują "Outlook.com" atrodo kaip ir senojoje versijoje:
+Štai keletas parametrų, kuriuos galite pakeisti, kad naujoji Outlook.com atrodytų kaip sena versija:
 
-1. Pasirinkite [išdėstymo parametrai](https://outlook.live.com/mail/options/mail/layout).
-1. **Į pašto dėžutę**, pasirinkite **nereikia rūšiuoti savo el. laiškų**.
-1. **Pranešimas organizacija**, pasirinkite **Naujausi pranešimai į viršų**.
-1. **Siuntėjo vaizdas**, pasirinkite **nerodyti siuntėjo vaizdus**.
-1. Dalyje **skaitymo sritis**, pasirinkite **Slėpti skaitymo srityje**.
-1. Dalyje **pranešimo peržiūros tekstą**, pasirinkite **Rodyti peržiūros tekstas**.
-1. Būdami **Inline peržiūras**, pasirinkite **nerodyti pranešimų sąrašo priedų**.
+1. Eikite į [Maketo parametrai](https://outlook.live.com/mail/options/mail/layout).
+1. Dalyje **Sufokusuotas aplankas Gauta**pasirinkite **Nerūšiuoti mano pranešimų**.
+1. Dalyje **Prane¹imù organizacija**pasirinkite **Naujausi prane¹imai viršuje**.
+1. Dalyje **Siuntėjo vaizdas**pasirinkite **Nerodyti siuntėjo vaizdų**.
+1. Dalyje **Skaitymo sritis**pasirinkite **Slėpti skaitymo sritį**.
+1. Dalyje **Pranešimų peržiūros tekstas**pasirinkite **Rodyti peržiūros tekstą**.
+1. Dalyje **Įdėtoji peržiūra**pasirinkite **Nerodyti priedų pranešimų sąraše**.
 
-Pakeisti jūsų pašto parametrus, kad jūsų Gautieji atrodo ir elgiasi taip, kaip norite jį, rasite [keisti pašto dėžutės programoje "Outlook.com" ir naują "Outlook" žiniatinklyje išvaizdą](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami pakeisti pašto parametrus, kad jūsų aplankas Gauta atrodytų ir elgtųsi taip, kaip norite, [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)žr.

@@ -1,39 +1,39 @@
 ---
-title: Spręsti problemas, susijusias su mokosi ios įrenginių Microsoft Intune
+title: "\"iOS\" įrenginių įtraukimo į \"Microsoft Intune\" trikčių šalinimas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 664c18daca5d8e0ad4a88f41db3ff0dbced606e5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36507011"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736166"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Spręsti problemas, susijusias su mokosi ios įrenginių Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>"iOS" įrenginių įtraukimo į "Microsoft Intune" trikčių šalinimas
 
 Peržiūrėkite toliau išvardytus išteklius, kad išspręstumėte problemą dabar. 
   
-Kai kurie dažnai pasitaikę klaidų pranešimai ir sprendimo veiksmai:
+Kai kurie dažniausiai pasitaikantys klaidų pranešimai ir sprendimo veiksmai:
   
-- **Pasiekto įrenginio dangtelis** Vartotojas turi daugiau įrenginių įtraukti nei įrenginio limitą. Peržiūrėkite šiuos dokumentus, kad [pašalintumėte įrenginį](https://docs.microsoft.com/intune/devices-wipe) arba [pakeistumėte įrenginio limitą](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Pasiektas įrenginio dangtelis** Vartotojas turi daugiau įrenginių, įtrauktų nei įrenginio riba. Peržiūrėkite šiuos dokumentus, kad [pašalintumėte įrenginį](https://docs.microsoft.com/intune/devices-wipe) arba [pakeistumėte įrenginio limitą](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Ši paslauga nepalaikoma. Nėra registracijos politika:** Apple Push pranešimų tarnyba (APNS) turi būti sukonfigūruotas arba atnaujintas. Peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) ir vykdykite instrukcijas, kaip tai padaryti. 
+- **Ši tarnyba nepalaikoma. Nėra registracijos strategijos:** "Apple Push" pranešimų tarnyba (APNS) turi būti sukonfigūruota arba atnaujinta. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) jei reikia instrukcijų, kaip tai padaryti. 
     
-- **Vartotojo licencijos tipas neteisingas arba vartotojo vardas neatpažintas:** Vartotojui reikia priskirti Intune arba EMS licenciją. Peržiūrėkite šiuos dokumentus, Norėdami priskirti licenciją per: " [Office" administravimo centras](https://docs.microsoft.com/intune/licenses-assign) arba " [Azure" portalas](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Vartotojo licencijos tipas neleistinas arba vartotojo vardas neatpažįstamas:** Vartotojui turi būti priskirta "Intune" arba EMS licencija. Peržiūrėkite šiuos dokumentus, kad priskirtumėte licenciją per: ["Office" administravimo centras](https://docs.microsoft.com/intune/licenses-assign) arba ["Azure" portalas](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Papildomi ištekliai, padėsię išspręsti problemą.
+Papildomi ištekliai, padėsiantys išspręsti problemą:
   
-1. Naudokite [Intune trikčių šalinimo portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendras registracijos triktis. Norėdami gauti daugiau informacijos, peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune/help-desk-operators) . 
+1. Naudokite [Intune trikčių diagnostikos portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendrąsias registracijos klaidas. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune/help-desk-operators) jei norite gauti daugiau informacijos. 
     
-2. Peržiūrėkite šiuos dokumentus, kad būtų pateikiamas bendrų klaidų, kurios neleidžia registracijos ir rezoliucijų, sąrašas: [trikčių šalinimo vadovas](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ir [trikčių diagnostikos dokumentas](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Peržiūrėkite šiuos dokumentus, kad būtų pateiktas dažniausiai pasitaikančių klaidų, kurios neleidžia registruotis ir šalinti kiekvieno sąskirstys: [trikčių šalinimo vadovas](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ir [trikčių šalinimo dokumentas](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune), sąrašas.
     
-3. [Sužinokite, kaip registruotis iOS įrenginiai Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Sužinokite, kaip registruoti "iOS" įrenginius programoje "Microsoft Intune".](https://docs.microsoft.com/intune/ios-enroll)
     
 

@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599492"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737660"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>"Microsoft Teams", įdiegta su "Office" naujinimais
 
-"Microsoft Teams" įtraukta kaip naujų "Office 365 ProPlus", "Office 365 Business" ir "Office for Mac" ***diegimų*** dalis. Daugiau informacijos ieškokite [Kada "Microsoft Teams" pradės būti įtraukta į naujus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+"Microsoft Teams" įtraukta kaip naujų "Microsoft 365 Apps" verslui, "Microsoft 365" programų verslui ir "Office for Mac" ***diegimų*** dalis. Daugiau informacijos ieškokite [Kada "Microsoft Teams" pradės būti įtraukta į naujus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Be to, pradedant 1906 versija mėnesio kanale, komandos bus palaipsniui įtrauktos į esamus "Office 365 ProPlus" (ir "Office 365 Business") ***diegimus*** įrenginiuose, kuriuose veikia "Windows", kai atnaujinsite esamą diegimą į naujausią versiją. Daugiau informacijos rasite [Ką apie esamus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Be to, pradedant 1906 versija mėnesio kanale, komandos bus palaipsniui įtrauktos į esamus "Microsoft 365 Apps" įmonėms (ir "Microsoft 365 Apps for business") ***diegimus*** įrenginiuose, kuriuose veikia "Windows", kai atnaujinsite esamą diegimą į naujausią versiją. Daugiau informacijos rasite [Ką apie esamus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Pastaba:** Jei nenorite laukti šio diegimo grafiko, galite diegti "Teams" kaip atskirą savo vartotojams [vadovaudamiesi šiomis instrukcijomis](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) https://teams.microsoft.com/downloadsarba galite nustatyti, kad vartotojai patys įdiegtų "Teams" patys iš .
 

@@ -1,30 +1,30 @@
 ---
-title: Teisių problemos, kai perkėlimas
+title: Teisių problemos perkeliant
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 95bfbfdf002e457230479a860058c1cf7ab1f8c2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 077b7cf29ef6a40ef7f2aebef15e39a0f5df0fc3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054422"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758978"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Vartotojo profilis ir nuotraukų sinchronizavimas
 
- **Profilio nuotraukų sinchronizavimas** – vartotojai gali pastebėti, kad jų profilio nuotrauka nėra sinchronizuojama su "SharePoint". Arba, jie gali bandė atnaujinti savo profilio nuotrauką ir nuotrauka vis dar atrodo kaip sena nuotrauka. Norint užtikrinti, kad profilio nuotrauka būtų rodoma taip, kaip tikėtasi, naudotojui reikės inicijuoti nuotraukų sinchronizavimą. 
+ **Profilio nuotraukų sinchronizavimas** – vartotojai gali pastebėti, kad jų profilio nuotrauka nesinchronizuojama su "SharePoint". Arba jie gali bandė atnaujinti savo profilio nuotrauką ir nuotrauka vis dar atrodo kaip sena nuotrauka. Siekiant užtikrinti, kad profilio nuotrauka būtų rodoma taip, kaip tikėtasi, vartotojas turės inicijuoti nuotraukų sinchronizavimą. 
   
-Daugiau informacijos apie nuotraukų sinchronizavimo procesą rasite [informacijos apie profilio paveikslėlio sinchronizavimą Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Jei norite gauti daugiau informacijos apie nuotraukų sinchronizavimo procesą, peržiūrėkite [informaciją apie profilio paveikslėlių sinchronizavimas "Microsoft 365"](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profilio sinchronizavimas** – laikas, kurio reikia norint atlikti profilio sinchronizavimą, priklauso nuo pakeitimų (darbo), kuriuos turi apdoroti ad importavimo užduotis, skaičiaus. Jei yra daug pakeitimų, laikmačio užduotis turi daug dirbti, ir tai užtruks ilgiau pakeitimus, kurie turi būti įtraukti į vartotojo profilio programą. Jei laikmačio užduotis turi nedidelį darbo kiekį, pakeitimai bus matomi vartotojo profilio programoje daug greičiau. 
+- **Profilio sinchronizavimas** – laikas, kurio reikia profilio sinchronizavimui atlikti, priklauso nuo pakeitimų (darbo), kurį turi apdoroti AD importavimo užduotis, skaičiaus. Jei yra daug pakeitimų, laikmačio užduotis turi daug darbo, ir tai užtruks ilgiau, kad pakeitimai atsispindės vartotojo profilio taikomojoje programoje. Jei laikmačio užduotis turi atlikti nedidelį kiekį darbo, pakeitimai bus daug greičiau atsispindėti vartotojo profilio taikomojoje programoje. 
   
-Daugiau informacijos apie profilio sinchronizavimo procesas, ieškokite [informacijos apie vartotojo profilio sinchronizavimo SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Jei norite gauti daugiau informacijos apie profilio sinchronizavimo procesą, peržiūrėkite [informaciją apie vartotojo profilio sinchronizavimas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Atnaujinti profilio Office Delve** -Delve vartotojai gali valdyti savo Office 365 profilį. Norėdami gauti daugiau informacijos, žiūrėkite [Peržiūrėti ir atnaujinti savo profilį Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Naujinti profilį "Office Delve"** – "Delve" vartotojai gali valdyti savo "Microsoft 365" profilį. Daugiau informacijos rasite [Profilio peržiūra ir naujinimas "Office Delve".](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)
     
 

@@ -1,9 +1,9 @@
 ---
-title: Kaip nustatyti mokestį jūsų kredito kortelės ar banko ataskaitoje
+title: Kaip nustatyti mokestį kredito kortelėje arba banko išraše
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540621"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724382"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kaip nustatyti mokestį jūsų kredito kortelės ar banko ataskaitoje
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kaip nustatyti mokestį kredito kortelėje arba banko išraše
 
-"Office 365" prenumerata nemokamai aprašą atrodo taip:
+"Microsoft 365" prenumeratos mokesčio aprašas atrodo taip:
   
 MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-10 simbolių raidinis-skaitinis seka po MSFT \* yra Šis kaltinimas yra susijęs su sąskaitos faktūros numerį. Norėdami rasti SF, eikite į **atsiskaitymo** \> [sąskaitos & mokėjimų](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapyje Norėdami peržiūrėti neseniai sąskaitas faktūras. SF numeris yra SF dokumentas dešiniajame kampe.
+10 simbolių raidinė-skaitinė eilutė po MSFT \* yra SF numeris, su kuria susijęs mokestis. Norėdami rasti sąskaitą faktūrą, eikite į puslapį **Atsiskaitymo** \> [sąskaitos & mokėjimai,](https://go.microsoft.com/fwlink/p/?linkid=848039) kad peržiūrėtumėte naujausias sąskaitas faktūras. SF numeris yra netoli dešiniajame SF dokumento kampe.

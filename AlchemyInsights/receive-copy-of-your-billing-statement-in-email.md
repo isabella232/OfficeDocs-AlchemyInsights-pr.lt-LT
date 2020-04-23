@@ -1,9 +1,9 @@
 ---
-title: Gauti jūsų sąskaitos ataskaitą kopiją el. paštu
+title: Atsiskaitymo ataskaitos kopijos gavimas el. paštu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510091"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724958"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Gauti kopiją jūsų "Office 365" sąskaitos ataskaitą el. paštu
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Atsiskaitymo ataskaitos kopijos gavimas el. paštu
 
-Jūs galite gauti kopiją jūsų sąskaitos ataskaitą kaip el. laiško priedą. Jei jums padaryti, reikia žinoti kad:
+Galite pasirinkti gauti atsiskaitymo ataskaitos kopiją kaip el. laiško priedą. Jei tai padarysite, turėkite omenyje, kad:
   
-- Elektroniniu paštu išsiųsime tiek pagrindinį ir alternatyvų el. pašto adresą kiekvienam asmeniui kaip pranešimo gavėjas.
+- El. laiškas bus išsiųstas ir kiekvieno asmens, nurodyto kaip pranešimo gavėjas, pirminiu, ir alternatyviu el. pašto adresu.
 
-- Jūs gausite du atskirus el. laiškus: vieną, kuris leidžia jums žinoti, kad jūsų sąskaita yra pasirengęs, instrukcijas, kaip prisijungti prie administravimo centrą, kad matytumėte tai, ir antrą laišką, kad yra atsiskaitymo ataskaitą kaip priedą.
+- Gausite du atskirus el. laiškus: vieną, kuris leidžia jums žinoti, kad sąskaita yra paruošta, su instrukcijomis, kaip įeiti į administravimo centrą, kad galėtumėte ją peržiūrėti, ir antrą el. Laišką, kuriame yra atsiskaitymo ataskaita kaip priedas.
 
-Gauti jūsų sąskaitos ataskaitą el. paštu:
+Norėdami gauti atsiskaitymo ataskaitą el. paštu:
   
-1. Administravimo centro, eikite į **atsiskaitymo** \> [pranešimų apie atsiskaitymą](https://go.microsoft.com/fwlink/p/?linkid=853212) puslapis.
+1. Administravimo centre eikite į **atsiskaitymo** \> [atsiskaitymo pranešimų](https://go.microsoft.com/fwlink/p/?linkid=853212) puslapį.
 
-2. Pagal **gauti atsiskaitymo ataskaitą kaip el. laiško priedą?**, perkelkite perjungiklį į **ant**. Galite atsisakyti gauti atsiskaitymo pareiškimą laiškus bet kuriuo metu kreipdamiesi perjungiklį į **išjungti**.
+2. Dalyje **Gauti atsiskaitymo ataskaitą kaip el. laiško priedą?** **On** Galite bet kada nustoti gauti atsiskaitymo ataskaitos el. laiškus perjungdami perjungiklį į **Išjungta**.
