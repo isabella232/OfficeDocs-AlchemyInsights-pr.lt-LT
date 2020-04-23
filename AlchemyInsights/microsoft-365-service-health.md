@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600500"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762397"
 ---
 # <a name="microsoft-365-service-health"></a>"Microsoft 365" tarnybos sveikata
 
@@ -29,4 +29,4 @@ Patikrinkite bet kurios paslaugos tarnybos būklę iš [tarnybos sveikatos atask
 
 - Pasirinkite **Retrospektyva,** kad peržiūrėtumėte organizacijos tarnybos sveikatos retrospektyvą. 
 
-Daugiau informacijos rasite [Kaip patikrinti "Office 365" tarnybos sveikatą](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Daugiau informacijos rasite [Kaip patikrinti "Microsoft 365" tarnybos sveikatą](https://docs.microsoft.com/office365/enterprise/view-service-health). 

@@ -1,9 +1,9 @@
 ---
-title: 1490-trikčių šalinimas-eDiscovery-gedimai
+title: 1490 trikčių diagnostika-el. duomenų aptikimo triktys
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559381"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759592"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Turinio paieška: klaidų šalinimas
+# <a name="troubleshoot-content-search-errors"></a>Turinio ieškos klaidų šalinimas
 
-Ar jums kyla problemų su turinio paieškos sistemoje "Office 365" arba gauti nesėkmių eksportuodami ieškos rezultatus?
+Ar kyla problemų dėl turinio ieškos arba gedimų eksportuojant ieškos rezultatus?
 
-Pvz., jūs gaunate šiuos važiuojant paieškas?
+Pavyzdžiui, ar vykdydami ieškas gaunate šiuos dalykus?
 
-- CS008 ar CS012 klaidų
+- CS008 arba CS012 klaidos
 
-- Serveris užimtas/skirtojo laiko klaidos
+- Serverio užimtumo/skirtojo laiko klaidos
 
-- Programos klaida
+- Įvyko taikomosios programos klaida
 
-Arba kai paiešką arba eksportuoti rezultatus iš daug pašto dėžučių (daugiau nei 100 000 pašto dėžučių), jūs gaunate eksportuoti klaidas?
+Arba ieškant arba eksportuojant rezultatus iš daugelio pašto dėžučių (daugiau nei 100 000 pašto dėžučių), ar gaunate eksportavimo klaidų?
 
-Tokios rūšies klaidų, bandykite dar kartą ieškoti turinio vietose, kad nepavyko. Skaitykite [šį straipsnį](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) daugiau informacijos.
+Šių tipų klaidose bandykite ieškoti turinio vietų, kurios nepavyko. Daugiau informacijos rasite [šiame straipsnyje.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)

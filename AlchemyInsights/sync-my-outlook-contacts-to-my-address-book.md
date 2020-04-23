@@ -1,5 +1,5 @@
 ---
-title: Sinchronizuoti mano "Outlook" kontaktus su adresų knyga
+title: "\"Outlook\" kontaktų sinchronizavimas su mano adresų knyga"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286148"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767077"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sinchronizuoti mano "Outlook" kontaktus su adresų knyga
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>"Outlook" kontaktų sinchronizavimas su mano adresų knyga
 
-"Outlook" leidžia eksportuoti kontaktus į numatytąją "Google" kontaktų programą. Tai leidžia matyti kontakto vardą, kai gaunate skambutį arba teksto pranešimą, ir peržiūrėti visą jo kontaktinę informaciją tiesiogiai numatytoje kontaktų programoje.
+"Outlook" leidžia eksportuoti kontaktus į numatytąją "Android" kontaktų programą. Tai leidžia matyti kontakto vardą, kai gaunate skambutį arba teksto pranešimą, ir peržiūrėti visą jo kontaktinę informaciją tiesiogiai numatytoje kontaktų programėlėje.
  
 **Norėdami įjungti šią funkciją:**
  
@@ -30,10 +30,10 @@ ms.locfileid: "42286148"
 
 3. Įjunkite slankiklį **Sinchronizuoti kontaktus.**
  
-Dvipusis kontaktų eksportavimas palaikomas "Office 365", Outlook.com ir hibridiniam šiuolaikiniam vietinių pašto dėžučių autentifikavimui. Dvipusis palaikymas užtikrina, kad visi nauji jūsų pridėti kontaktai arba esami jūsų redaguoti kontaktai bus sinchronizuojami tarp įrenginio ir "Outlook" abonementų.
+Dvipusis kontaktų eksportavimas palaikomas "Microsoft 365", Outlook.com ir hibridiniame moderniame autentifikavime vietinėms pašto dėžutėms. Dvipusis palaikymas užtikrina, kad visi nauji įtraukti kontaktai arba esami jūsų redaguojami kontaktai bus sinchronizuojami tarp įrenginio ir "Outlook" abonementų.
  
-Senstelėjusios įrangos "Exchange" abonementų kontaktus galite eksportuoti į įrenginį įrašant. Įgalinus **sinchronizavimo kontaktus,** naujai pridėti kontaktai ir pakeitimai, atlikti jūsų kontaktams "Outlook", bus įrašyti jūsų įrenginio kontaktų programėlėje. Tačiau tiesiogiai įrenginio kontaktų programėlėje atlikti pakeitimai nebus įrašyti į "Outlook". Atkreipkite dėmesį, kad mes nepalaikome kontaktų įtraukimo / redagavimo iš "Outlook", skirtos "Android", vietinėms mainų paskyroms, todėl turėsite tvarkyti kontaktus iš kito "Outlook" kliento.
+Senstelėjusios įrangos "Exchange" abonementų, galite eksportuoti savo kontaktus, kuriuos norite įrašyti į įrenginį. Įgalinus **sinchronizavimo kontaktus,** naujai pridėti kontaktai ir pakeitimai, atlikti jūsų kontaktams programoje "Outlook", bus įrašyti į jūsų įrenginio kontaktų programėlę. Tačiau pakeitimai, atlikti tiesiogiai įrenginio programėlėje Kontaktai, nebus įrašyti į "Outlook". Atkreipkite dėmesį, kad mes nepalaikome kontaktų iš "Outlook", skirto "Android", pridėjimo / redagavimo vietinėms mainų paskyroms, todėl turėsite tvarkyti kontaktus iš kito "Outlook" kliento.
  
-Dabar kontaktų sinchronizavimas sistemoje "GMAIL" ir "iCloud" nepalaikomas.
+Šiuo metu "GMAIL" ir "iCloud" kontaktų sinchronizavimas nepalaikomas.
  
-Jei norite pašalinti šiuos sinchronizuotus kontaktus, bet kuriuo metu galite perjungti **Sinchronizuoti kontaktus** ir jie bus pašalinti iš adresų knygos.
+Jei norite pašalinti šiuos sinchronizuotus kontaktus, galite bet kada perjungti **sinchronizuoti kontaktus** ir jie bus pašalinti iš adresų knygos.

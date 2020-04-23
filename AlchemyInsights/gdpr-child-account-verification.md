@@ -1,9 +1,9 @@
 ---
-title: 8000038 BVPR vaiko sąskaitos patikrinimas
+title: 8000038 BDAR vaiko sąskaitos patikrinimas
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 13e69ac917a08a338759269df5724c0528dd2eb0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 238d1440438bce2531f1a57f5592a204cf9c3cf3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764988"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Rodomi jūsų "Microsoft" abonementą gimimo data yra neteisinga
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Gimimo data, rodoma jūsų "Microsoft" paskyroje, yra neteisinga
 
-"Microsoft" labai rimtai žiūri į saugumą. Jums gali neseniai buvote paraginti pateikti tėvų sutikimą dėl vaiko "Microsoft" abonementą. Jei jums reikia pagalbos tėvų sutikimo davimo arba atnaujinimo data gimimo "Microsoft" abonementą, žr. [amžiaus patikrinimas tėvų sutikimo](https://go.microsoft.com/fwlink/p/?linkid=874364).
+"Microsoft" labai rimtai atsižvelgia į saugą. Galbūt neseniai buvote paraginti pateikti tėvų sutikimą dėl vaiko "Microsoft" paskyros. Jei reikia pagalbos teikiant tėvų sutikimą arba atnaujinant gimimo datą "Microsoft" paskyroje, [tėvų sutikimo ieškokite Amžiaus patvirtinime.](https://go.microsoft.com/fwlink/p/?linkid=874364)
   
-Sužinokite daugiau apie [tėvų sutikimas ir vaiko "Microsoft" abonementai](https://go.microsoft.com/fwlink/p/?linkid=874365).
+Sužinokite daugiau apie [tėvų sutikimą ir "Microsoft" antrinius abonementus](https://go.microsoft.com/fwlink/p/?linkid=874365).
   

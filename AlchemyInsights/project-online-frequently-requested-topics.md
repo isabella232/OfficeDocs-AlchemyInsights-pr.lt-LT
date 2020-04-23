@@ -1,9 +1,9 @@
 ---
-title: "\"Project Online\" dažnai prašomos temos"
+title: "\"Project Online\" dažnai užklaustos temos"
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 30b13f65b20d88fc691a2d7d5639ce6877039763
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768049"
 ---
-# <a name="project-online-frequently-requested-topics"></a>"Project Online" dažnai prašomos temos
+# <a name="project-online-frequently-requested-topics"></a>"Project Online" dažnai užklaustos temos
 
-Toliau pateikiamos kelios dažnai prašomos temos su projektu:
+Štai keletas dažnai užklaustų temų su "Project":
 
 Čia dažnai prašoma temos projekto:
 1.  Darbo pradžia: 
-    -   [Pradėkite dirbti su "Project Online"](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   ["Project Online" administratoriaus dokumentacija](https://docs.microsoft.com/projectonline/project-online) 
-    -   ["Project Online": programinės įrangos ribos ir ribos](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [Įtraukite žmonių, grupių ir išteklių, tada bendrinkite "Project Online"](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [Tune Project Web App (PWA) efektyvumo Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  Prisijungimas prie [projekto "Online Desktop" kliento](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  ["Project Professional" diegimas ir naudojimas](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) 
+    -   [Darbo su "Project Online" pradžia](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   ["Project Online" administravimo dokumentacija](https://docs.microsoft.com/projectonline/project-online) 
+    -   ["Project Online": programinės įrangos ribos ir apribojimai](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [Žmonių, grupių ir išteklių įtraukimas, tada bendrinkite "Project Online"](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  ["Project Web App" (PWA) efektyvumo nustatymas "Project Online"](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  Prisijungimas prie ["Project Online Desktop" kliento](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  ["Project Professional" diegimas ir naudojimas](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

@@ -1,30 +1,30 @@
 ---
-title: Šalinti triktis su Office 365 Advanced Threat apsaugos (ATP)
+title: "\"Office 365\" išplėstinės apsaugos nuo grėsmių (ATP) trikčių šalinimas"
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420312"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766753"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Šalinkite triktis naudodami Office 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>"Office 365" ATP trikčių šalinimas
 
-- **Pranešimo el. pašto pranešimo pristatymas vėluoja**? Pabandykite naudoti Dinaminis pateikimo parinktį ATP saugos priedus politikos. Tai padės išvengti el. pašto pranešimų pristatymo vėlavimą tuo pat metu apsaugant gavėjams nuo kenkėjiškų failų.
-- **Ar norite ataskaitą klaidingų teigiamų ir klaidingų neigiamų rezultatų**? Pateikti failą analizuoti Naudokite šią nuorodą:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Ar žinote, kad galite įgalinti apsaugą ATP saugos saitai el. paštas, siunčiama tarp jūsų organizacijos žmonės**? Atlikite šiuos veiksmus:
-    1. Eikite į https://protection.office.com, ir prisijunkite.
-    2. Eikite į **grėsmės valdymo** > **politikos** > **Saugos saitai**.
-    3. **Politiką, taikyti su konkrečiais pagalbos gavėjais**, redaguoti arba pridėti politiką.
-    4. Pasirinkite **taikyti saugos saitai žinutės siunčiamos organizacijoje**.
-    5. Įrašyti savo politiką, ir Palaukite apie 30 minučių, jūsų pakeitimai dirbti savo kelią per savo duomenų centro.
-- Norėdami gauti daugiau pagalbos dėl ATP, ieškokite [Office 365 patobulintą apsaugą nuo grėsmių](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Pranešimas vėlavimas su elektroninio pašto pranešimų pristatymo?** Išbandykite parinktį Dinaminis pristatymas ATP saugių priedų strategijoms. Tai padės išvengti el. laiškų pristatymo delsos, tuo pačiu apsaugant gavėjus nuo kenkėjiškų failų.
+- **Ar norite pranešti apie klaidingus teigiamus ar klaidingus negatyvus?** Naudokite šį saitą norėdami pateikti failą analizei:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Ar žinote, kad galite įjungti ATP Saugių nuorodų apsaugą el. Laiškams, siunčiamiems tarp jūsų organizacijos žmonių?** Atlikite šiuos veiksmus:
+    1. Eikite https://protection.office.comį ir prisijunkite.
+    2. Eikite į **Grėsmių valdymo** > **strategijos** > **saugios nuorodos**.
+    3. Dalyje **Strategijos, taikomos konkretiems gavėjams,** redaguokite (arba įtraukite) strategiją.
+    4. Pasirinkite **Taikyti saugius saitus organizacijos siunčiamiems pranešimams**.
+    5. Įrašykite politiką ir leiskite apie 30 minučių, kad pakeitimai veiktų per duomenų centrą.
+- Norėdami gauti daugiau pagalbos dėl ATP, [žr.](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)

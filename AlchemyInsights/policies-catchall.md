@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765562"
 ---
 # <a name="teams-policies"></a>Komandų strategijos
 
@@ -30,5 +30,5 @@ Komandų strategijos skirstomos į šias sritis:
 - [Susitikimų strategijos](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) valdo, ką vartotojai gali daryti su "Teams" susitikimais, įskaitant lobistų valdymą. Jei reikia pagalbos dėl lobistų problemų, pvz., komandų konfigūravimas visiems priimti, [žr.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
 - [Pranešimų politika](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) valdo, ką vartotojai gali daryti su pokalbiais ir pranešimais, įskaitant pokalbių įjungimą arba išjungimą, pokalbių ištrynimą, perskaitymo pažymų užklausą, giphys ir lipdukų naudojimą ir kt.
 - [Programų sąrankos strategijos](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) valdo, kurios programėlės pasiekiamos vartotojams, įskaitant pasirinktines ir trečiųjų šalių programas, ir jų rodymo tvarką.  
-- "Teams" duomenų [saugojimo strategijos](https://docs.microsoft.com/microsoftteams/retention-policies) pateikiamos "Office 365" saugos ir atitikties centre.
+- "Teams" duomenų [saugojimo strategijos](https://docs.microsoft.com/microsoftteams/retention-policies) randamos "Microsoft 365" saugos ir atitikties centre.
 - Komandos adresų knygos strategijos nustatomos naudojant [aprėptą katalogų paiešką](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

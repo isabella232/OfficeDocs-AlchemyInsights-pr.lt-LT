@@ -3,7 +3,7 @@ title: 1554 Winsock klaida 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530808"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766177"
 ---
 # <a name="winsock-error-10061"></a>Winsock klaida 10061
 
-Ši klaida reiškia, kad "Office 365" negalėjo sukurti TCP socket (jungtis) su tikslinės priimančiosios. Labiausiai tikėtina, dažniausia šios klaidos priežastis yra ugniasienės konfigūracijos problema. Norėdami išspręsti šią problemą, patikrinkite šiuos parametrus:
+Šis klaidos kodas reiškia, kad "Microsoft" nepavyko nustatyti TCP lizdas (ryšys) su paskirties pagrindinio kompiuterio. Labiausiai tikėtina šios klaidos priežastis yra užkardos konfigūracijos problema. Norėdami išspręsti šią problemą, patikrinkite šiuos parametrus:
 
-- Patikrinkite, ar jūsų ugniasienės konfigūracijos informacija iš [Office 365 URL ir IP adresų diapazonas](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Patikrinkite užkardos konfigūraciją naudodami ["Microsoft 365" URL ir IP adresų diapazonų informaciją](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Jei klaidos yra susijusios su Exchange Online Protection (EOP), jums turėtų anksčiau pranešama apie pasikeičia į [Exchange Online apsaugos IP adresus](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Jei klaida būdinga "Exchange Online Protection" (EOP), jums turėjo būti anksčiau pranešta apie ["Exchange Online Protection" IP adresų](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)pakeitimą .
 
-- Įsitikinkite, kad jūsų interneto paslaugų teikėjas (ISP) neblokuoja uosto.
+- Patikrinkite, ar jūsų interneto paslaugų teikėjas (ISP) neblokuoja prievado.
 
-- Patikrinkite, ar protingas pagrindinio kompiuterio ir paskirties serverio parametrus jūsų jungtys.
+- Patikrinkite išmaniojo pagrindinio kompiuterio ir paskirties serverio parametrus savo jungtyse.
 
-Atkreipkite dėmesį, kad "Office 365" ne blokuoti *priimamus* ryšius, tokiu būdu.
+Atkreipkite dėmesį, kad "Microsoft 365" neblokuoja *gaunamų* ryšių tokiu būdu.

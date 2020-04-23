@@ -1,9 +1,9 @@
 ---
-title: Atidėtas siuntimas naudojant "Outlook.com"
+title: Atidėtas siuntimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: d4df8902d8334b54582eacc3edd6ee13d463239d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546959"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760420"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Vėlavimo ar tvarkaraščio, el. laiškų siuntimas
+# <a name="delay-or-schedule-sending-email-messages"></a>El. laiškų siuntimo atidėjimas arba planavimas
 
-Atsiprašome, bet jūs negalite atidėti arba suplanuoti siùsti prane¹imus el. pašto programą arba žiniatinklio naršyklę mobiliesiems. Norėdami tai padaryti, naudokite ["Outlook" skirtą "Windows" arba "Outlook" skirtas "Mac"](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Atsiprašome, bet negalite atidėti arba suplanuoti el. laiškų siuntimo programoje mobiliesiems arba žiniatinklio naršyklėje. Norėdami tai padaryti, naudokite ["Outlook", skirtą "Windows" arba "Outlook", skirta "Mac".](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Atšaukti siųsti**
+**Anuliuoti siuntimą**
 
-Jūs galite pakeisti nustatymus "Outlook.com" atidėti siųsti žinutę iki 10 sekundžių. Atšaukti pranešimą šiuo laikotarpiu. Norėdami įjungti šią funkciją, atidarykite [Anuliuoti siuntimo](https://outlook.live.com/mail/options/mail/messageContent/undoSend) parametrus.
+Galite pakeisti Outlook.com parametrus, kad delstumėte siųsti pranešimą iki 10 sekundžių. Galite atšaukti pranešimo siuntimą per šį laikotarpį. Norėdami įjungti šią funkciją, atidarykite [anuliavimo siuntimo](https://outlook.live.com/mail/options/mail/messageContent/undoSend) parametrus.
 
-Sužinokite daugiau apie [prisimindama el. laiškus į "Outlook.com"](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Sužinokite daugiau apie [el. laiškų atšaukimą Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

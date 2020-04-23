@@ -1,9 +1,9 @@
 ---
-title: 1488-perform-eDiscovery-and-content-Searches
+title: 1488-perform-eDiscovery-and-content-searches 1488-perform-eDiscovery-and-content-searches 1488-perform-eDiscovery-and-content-searches 14
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555241"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764736"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio paiešką ir el. duomenų aptikimo paiešką
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio ieškas ir el. duomenų aptikimo ieškas
 
-Naudojant turinio paieškos įrankį, saugos & atitikties užtikrinimo centre greitai surasti elektroninio pašto dėžutėmis, dokumentus į "SharePoint" svetaines ir "OneDrive" abonemente ir tiesioginių pranešimų pokalbiuose Skype verslui. Taip pat galite ieškoti el. pašto, dokumentų ir tiesioginių pranešimų pokalbius, "Office 365" bendradarbiavimo priemones, pvz., "Microsoft" Teams ir Office 365 grupės turinio paieškos įrankį.
+Naudokite saugos & atitikties centro turinio ieškos įrankį, kad greitai rastumėte el. laiškus "Exchange" pašto dėžutėse, "SharePoint" svetainėse ir "OneDrive" abonemente, ir tiesioginių pranešimų pokalbius "Skype" verslui. Turinio ieškos įrankį taip pat galite naudoti ieškodami el. pašto, dokumentų ir tiesioginių pranešimų pokalbių "Microsoft 365" bendradarbiavimo įrankiuose, pvz., "Microsoft Teams" ir "Office 365" grupėse.
 
-**Jei norite atlikti turinio paiešką**
+**Turinio ieškos atlikimas**
 
-1. Eikite į [saugos & atitikties užtikrinimo centre](https://protection.office.com) ir prisijunkite.
-2. Spustelėkite **paieškos > turinio paieškos**.
-3. Spustelėkite **nauja paieška** sukurti naują paiešką.
-4. Įveskite reikiamą ieškos sąlygų, įskaitant raktinių žodžių ir turinio vietos.  
-5. Spustelėkite parinktį **įrašyti & paleisti** pavadinimas paieška, paleiskite ją ir tada Peržiūrėti rezultatus.
+1. Eikite į [saugos & atitikties centrą](https://protection.office.com) ir prisijunkite.
+2. Spustelėkite **Ieškoti > turinio ieška**.
+3. Spustelėkite **Nauja ieška,** kad sukurtumėte naują iešką.
+4. Įveskite reikiamas paieškos sąlygas, įskaitant raktinius žodžius ir turinio vietoves.  
+5. Spustelėkite **Įrašyti & paleisti,** kad pavadintumėte iešką, paleiskite ją ir peržiūrėkite rezultatus.
 
-Išsamios informacijos apie turinio paieškas, eksportuoti rezultatus ir kurti el. duomenų aptikimo bylose laikyti duomenis, peržiūrėkite [Turinį paieškos](https://docs.microsoft.com/office365/securitycompliance/content-search) ir [el. duomenų aptikimo atvejų](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Išsamių instrukcijų apie turinio ieškas, rezultatų eksportavimą ir el. duomenų aptikimo atvejų kūrimą duomenims laikyti ieškokite [Turinio ieškos](https://docs.microsoft.com/office365/securitycompliance/content-search) ir [el. duomenų aptikimo atvejai](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Suprasti daugiau apie turinio paieškos peržiūrėti [reikalavimus ir apribojimus](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ir [tiria dalies indeksavimo elementai](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ir kiti rezultatai turi žinoti.
+Sužinokite daugiau apie turinio iešką peržiūrėdami [reikalavimus ir apribojimus](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) bei [išnaikindami iš dalies indeksuotus elementus](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ir kitus rezultatus, kuriuos reikia žinoti.

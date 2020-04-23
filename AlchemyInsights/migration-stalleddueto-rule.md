@@ -1,9 +1,9 @@
 ---
-title: 973 migracijos StalledDueTo * taisykle
+title: 973 Perkėlimas užstrigoDueTo* taisyklė
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 392fda3b5e0dc9e625816c5fa3f8dd760924bb7b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4b44e2401f044a6373f545aa9ed418b3ec537c66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543969"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762203"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo klaidų atliekant perkėlimą
+# <a name="stalleddueto-errors-during-migration"></a>UžstrigoDueTo klaidos perkėlimo metu
 
-Galite matyti daugybė klaidų, kurie prasideda "StalledDueTo..." Jūsų perkeldami Exchange Online. Daugelis iš šių klaidų yra visiškai normalus. Daugiau informacijos ieškokite [išteklių pagal greičio ir prioritetų nustatymo srityse Exchange Online migracija](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).
+Galite matyti įvairias klaidas, prasidedančias "StalledDueTo..." perkėlimo į "Exchange Online". Daugelis šių klaidų yra visiškai normalu. Jei norite gauti daugiau informacijos, peržiūrėkite [išteklių buferizavimas ir prioritetų nustatymas Exchange Online perkėlimai](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).

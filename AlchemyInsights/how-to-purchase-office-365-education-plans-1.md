@@ -1,9 +1,9 @@
 ---
-title: Kaip pirkti Office 365 mokymo planas
+title: Kaip įsigyti "Office 365 Education" planus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: de5cf1992b413080436d8555c9f3b71ef5787bc6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390160"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763693"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Kaip pirkti Office 365 mokymo planas
+# <a name="how-to-purchase-office-365-education-plans"></a>Kaip įsigyti "Office 365 Education" planus
 
-Mes peržiūrėjome jūsų užklausą ir nustatyta ši organizacija nėra tinkam kaip "Microsoft" oficiali akademinė įstaiga. Jūsų dabartinė akademinė bandomiesiems pasiūlymams nustos galioti pasibaigus bandomajam laikotarpiui.
+Mes peržiūrėjome jūsų užklausą ir nustatėme, kad ši organizacija negali būti laikoma "Microsoft" kvalifikuota akademine institucija. Dabartiniai akademiniai bandomosios versijos pasiūlymai nustos galioti bandomojo laikotarpio pabaigoje.
   
-Norėdami įsigyti "Office 365" komerciniais tikslais, žiūrėkite [galimus pasiūlymus](https://go.microsoft.com/fwlink/p/?linkid=868433).  
+Norėdami įsigyti "Office 365" komerciniais tikslais, peržiūrėkite [galimus pasiūlymus](https://go.microsoft.com/fwlink/p/?linkid=868433).  

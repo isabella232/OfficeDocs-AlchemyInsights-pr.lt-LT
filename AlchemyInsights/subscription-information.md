@@ -3,7 +3,7 @@ title: Prenumeratos informacija
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/15/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 20b5097f2e5d3aa3b8f23b8865203846d90f08e8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36576884"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763873"
 ---
 # <a name="subscription-information"></a>Prenumeratos informacija
 
-Norėdami gauti informacijos apie jūsų prenumeratas, eikite į puslapį **atsiskaitymo** \> [produktų & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Norėdami gauti informacijos apie jums priklausomą prenumeratas, eikite į puslapį **Atsiskaitymo** \> [produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
   
 Pagrindinė informacija apie kiekvieną prenumeratą:
   
-- Kiekvienos
+- Kiekvieno sąsk.
 
 - Įsigytos licencijos
 
@@ -38,4 +38,4 @@ Pagrindinė informacija apie kiekvieną prenumeratą:
 
 - Mokėjimo būdas
 
-- Kitas atsiskaitymas arba galiojimo data
+- Kitas atsiskaitymo arba galiojimo pabaigos data

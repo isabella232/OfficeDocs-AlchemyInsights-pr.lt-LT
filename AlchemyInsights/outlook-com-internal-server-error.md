@@ -1,9 +1,9 @@
 ---
-title: 9000234 "Outlook.com" vidinė serverio klaida
+title: 9000234 Outlook.com vidinė serverio klaida
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536551"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760096"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Vidaus serverio klaidos naudojant "Outlook.com"
+# <a name="internal-server-errors-in-outlookcom"></a>Vidinės serverio klaidos Outlook.com
 
-Oi ne! Jei matote "Klaida 500" arba "Vidinė serverio klaida" pranešimas, jis yra mūsų ir ne jūsų - atsiprašau dėl to.
+O ne! Jei matote pranešimą "Klaida 500" arba "Vidinė serverio klaida", tai mes, o ne jūs - atsiprašau dėl to.
 
-Pažymėkite [Office Service būsenos puslapį](https://portal.office.com/servicestatus) , įsitikinti, kad nėra nieko, kas dar vyksta, bet geriausias sprendimas yra pailsėti kelias minutes, tada atnaujinkite naršyklę paspausti **CTRL** ir **F5**.
+Peržiūrėkite ["Office" tarnybos būsenos puslapį,](https://portal.office.com/servicestatus) kad įsitikintumėte, jog niekas daugiau nevyksta, tačiau geriausias sprendimas yra padaryti pertrauką kelias minutes, tada atnaujinti naršyklę paspausdami **CTRL** ir **F5**.

@@ -1,9 +1,9 @@
 ---
-title: Įdiegti "Visio"
+title: "\"Visio\" diegimas"
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: 8279c58300c1c7ed18ca54d10c3b92e45728e856
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765997"
 ---
-# <a name="install-visio"></a>Įdiegti "Visio"
+# <a name="install-visio"></a>"Visio" diegimas
 
-"Visio" yra parduodamas, kaip naudojant atskirą programą, jei jūs neturite dar, [PPT "Visio"](https://products.office.com/visio). 
+"Visio" parduodama kaip atskira programa, todėl, jei jos dar neturite, [pirkti arba išbandyti "Visio".](https://products.office.com/visio) 
 
-**Pastaba**: Visio Online planas 1 nėra darbalaukio versiją, "Visio", todėl galima diegti.
+**Pastaba:**"Visio Online" 1 plane nėra "Visio" darbalaukio versijos, todėl įdiegti neįmanoma.
 
-Jei turite Visio Online Plan 2 prenumeratą, turite [Priskirti licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) vartotojui ar they papratimas turite galimybę įdiegti "Visio" iš **mano įdiegia** [mano paskyrą portale](https://portal.office.com/account#installs). 
+Jei turite "Visio Online" 2 plano prenumeratą, turite [priskirti licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) vartotojui arba jis neturės galimybės įdiegti "Visio" iš **mano diegimų** [mano abonemento portale](https://portal.office.com/account#installs). 
 
-Non-bendrosios licencijos versijos Visio standartas ir Visio Professional yra susietas su "Microsoft" abonementų ir negali būti tvarkomi administravimo centrą. Jei norite įdiegti šias versijas, vartotojai turi Prisijunkite prie [account.microsoft.com su "Microsoft" paskyrą, susietą su šiuo "Visio" versiją.](https://account.microsoft.com)
+"Visio Standard" arba "Visio Professional" ne bendrojo licencijavimo versijos yra susietos su "Microsoft" abonementais ir negali būti valdomos administravimo centre. Norėdami įdiegti šias versijas, vartotojai turi prisijungti prie [account.microsoft.com](https://account.microsoft.com) su "Microsoft" abonementu, susietu su šia "Visio" versija.
 
-Išsamesnę pagalbą rasite [Įdiegti "Visio"](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ir atlikite veiksmus, taikomus jūsų "Visio" versiją.
+Išsamesnės pagalbos [ieškokite "Visio" diegimas](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ir atlikite "Visio" versijos veiksmus.
 
 Daugiau informacijos rasite:<br>
-[Visuotinio diegimo vadovą "Visio"](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Palaikomos scenarijus įdiegti Office, projekto ir Visio skirtingų versijų tame pačiame kompiuteryje](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+["Visio" diegimo vadovas](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Palaikomi skirtingų "Office", "Project" ir "Visio" versijų diegimo tame pačiame kompiuteryje scenarijai](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
 ["Visio" licencijavimas](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
