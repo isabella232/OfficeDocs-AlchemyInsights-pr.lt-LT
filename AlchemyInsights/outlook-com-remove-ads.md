@@ -1,9 +1,9 @@
 ---
-title: Pašalinti reklamas "Outlook.com"
+title: Skelbimų pašalinimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 5c00a7fbcaffc2ca303be44b3e5cba99a82a667c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a7c7c10fb982ab99713a5e35ca6a1b7f63f3f36
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545447"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743857"
 ---
-# <a name="remove-ads-in-outlookcom"></a><span data-ttu-id="448c9-102">Pašalinti reklamas "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="448c9-102">Remove ads in Outlook.com</span></span>
+# <a name="remove-ads-in-outlookcom"></a><span data-ttu-id="f2df1-102">Skelbimų pašalinimas Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f2df1-102">Remove ads in Outlook.com</span></span>
 
-<span data-ttu-id="448c9-103">Outlook.com yra nemokama el. pašto paslauga, kuri yra skelbimų.</span><span class="sxs-lookup"><span data-stu-id="448c9-103">Outlook.com is a free email service which contains ads.</span></span> <span data-ttu-id="448c9-104">Jei norite pašalinti skelbimus naudodami "Outlook.com", "Microsoft" siūlo su prenumerata, Office 365 Home "arba" Office 365 Personal "Outlook" funkcijas.</span><span class="sxs-lookup"><span data-stu-id="448c9-104">If you want to remove ads in Outlook.com, Microsoft offers premium Outlook features with Office 365 Home or Office 365 Personal subscriptions.</span></span> <span data-ttu-id="448c9-105">Daugiau informacijos, rasite [Gaukite geriausias "Outlook" funkcijas naudojant "Office 365"](https://go.microsoft.com/fwlink/?linkid=872181).</span><span class="sxs-lookup"><span data-stu-id="448c9-105">For more information, see [Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span></span>
+<span data-ttu-id="f2df1-103">Outlook.com yra nemokama el. pašto paslauga, kurioje yra skelbimų.</span><span class="sxs-lookup"><span data-stu-id="f2df1-103">Outlook.com is a free email service which contains ads.</span></span> <span data-ttu-id="f2df1-104">Jei norite pašalinti skelbimus Outlook.com, "Microsoft" siūlo aukščiausios kokybės "Outlook" funkcijas su "Office 365 Home" arba "Office 365 Personal" prenumeratomis.</span><span class="sxs-lookup"><span data-stu-id="f2df1-104">If you want to remove ads in Outlook.com, Microsoft offers premium Outlook features with Office 365 Home or Office 365 Personal subscriptions.</span></span> <span data-ttu-id="f2df1-105">Daugiau informacijos [ieškokite Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span><span class="sxs-lookup"><span data-stu-id="f2df1-105">For more information, see [Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span></span>

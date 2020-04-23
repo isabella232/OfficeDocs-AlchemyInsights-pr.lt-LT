@@ -1,9 +1,9 @@
 ---
-title: Perskaitymo pažymų programoje "Outlook" žiniatinklyje
+title: Perskaitykite kvitus internetinėje "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/18/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 896b7b684be1b8e28f59e7de60f3706e73d5b235
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d068a3be12828022cf58a71d114dbabe0978547
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556141"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768314"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="5f219-102">Perskaitymo pažymas</span><span class="sxs-lookup"><span data-stu-id="5f219-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="3c0ec-102">Perskaitymo pažymos</span><span class="sxs-lookup"><span data-stu-id="3c0ec-102">Read receipts</span></span>
 
-<span data-ttu-id="5f219-103">Prašyti perskaitymo ar pristatymo pažymos savo pranešimą į "Outlook" žiniatinklyje:</span><span class="sxs-lookup"><span data-stu-id="5f219-103">To request a read receipt or a delivery receipt for your message in Outlook on the web:</span></span>
+<span data-ttu-id="3c0ec-103">Norėdami prašyti perskaitymo pažymos arba pristatymo pažymos jūsų pranešimą programoje "Outlook" žiniatinklyje:</span><span class="sxs-lookup"><span data-stu-id="3c0ec-103">To request a read receipt or a delivery receipt for your message in Outlook on the web:</span></span>
 
-1. <span data-ttu-id="5f219-104">Pasirinkite tris taškus</span><span class="sxs-lookup"><span data-stu-id="5f219-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="5f219-105">pranešimo viršuje rašyti srityje.</span><span class="sxs-lookup"><span data-stu-id="5f219-105">at the top of the message compose pane.</span></span>
-1. <span data-ttu-id="5f219-106">Pasirinkite **Rodyti pranešimo parinktis**.</span><span class="sxs-lookup"><span data-stu-id="5f219-106">Select **Show message options**.</span></span>
-1. <span data-ttu-id="5f219-107">Pasirinkti, **Reikalauti perskaitymo pažymos** arba **prašyti pristatymo pažymos**arba abu.</span><span class="sxs-lookup"><span data-stu-id="5f219-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
+1. <span data-ttu-id="3c0ec-104">Pažymėti tris taškus</span><span class="sxs-lookup"><span data-stu-id="3c0ec-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="3c0ec-105">pranešimo kūrimo srities viršuje.</span><span class="sxs-lookup"><span data-stu-id="3c0ec-105">at the top of the message compose pane.</span></span>
+1. <span data-ttu-id="3c0ec-106">Pasirinkite **Rodyti prane¹imù parinktis**.</span><span class="sxs-lookup"><span data-stu-id="3c0ec-106">Select **Show message options**.</span></span>
+1. <span data-ttu-id="3c0ec-107">Pasirinkite **Prašyti perskaitymo pažymos** arba Prašyti **pristatymo pažymos**arba abu.</span><span class="sxs-lookup"><span data-stu-id="3c0ec-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
 
-<span data-ttu-id="5f219-108">Norėdami pasirinkti, kaip "Outlook" reaguoja į skaityti gavimo užklausos, eikite į</span><span class="sxs-lookup"><span data-stu-id="5f219-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="5f219-109">**Parametrai** > **Peržiūrėti visus "Outlook" parametrai** > **laiškų apdorojimas**.</span><span class="sxs-lookup"><span data-stu-id="5f219-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
+<span data-ttu-id="3c0ec-108">Norėdami pasirinkti, kaip programa Outlook reaguoja į perskaitymo pažymų užklausas, eikite į</span><span class="sxs-lookup"><span data-stu-id="3c0ec-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="3c0ec-109">**Parametrai** > **Peržiūrėti visus "Outlook" parametrus** > **Prane¹imù tvarkymas**.</span><span class="sxs-lookup"><span data-stu-id="3c0ec-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
 
-<span data-ttu-id="5f219-110">Daugiau informacijos ieškokite [perskaitymo pažymos programoje "Outlook" žiniatinklyje](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span><span class="sxs-lookup"><span data-stu-id="5f219-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>
+<span data-ttu-id="3c0ec-110">Daugiau informacijos [ieškokite Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span><span class="sxs-lookup"><span data-stu-id="3c0ec-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>
