@@ -1,9 +1,9 @@
 ---
-title: Kaip nustatyti mokestį jūsų kredito kortelės ar banko ataskaitoje
+title: Kaip nustatyti mokestį kredito kortelėje arba banko išraše
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540621"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724382"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="de571-102">Kaip nustatyti mokestį jūsų kredito kortelės ar banko ataskaitoje</span><span class="sxs-lookup"><span data-stu-id="de571-102">How to identify a charge on your credit card or bank statement</span></span>
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="87def-102">Kaip nustatyti mokestį kredito kortelėje arba banko išraše</span><span class="sxs-lookup"><span data-stu-id="87def-102">How to identify a charge on your credit card or bank statement</span></span>
 
-<span data-ttu-id="de571-103">"Office 365" prenumerata nemokamai aprašą atrodo taip:</span><span class="sxs-lookup"><span data-stu-id="de571-103">The charge description for an Office 365 subscription looks like this:</span></span>
+<span data-ttu-id="87def-103">"Microsoft 365" prenumeratos mokesčio aprašas atrodo taip:</span><span class="sxs-lookup"><span data-stu-id="87def-103">The charge description for a Microsoft 365 subscription looks like this:</span></span>
   
-<span data-ttu-id="de571-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="de571-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
+<span data-ttu-id="87def-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="87def-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
   
-<span data-ttu-id="de571-105">10 simbolių raidinis-skaitinis seka po MSFT \* yra Šis kaltinimas yra susijęs su sąskaitos faktūros numerį.</span><span class="sxs-lookup"><span data-stu-id="de571-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="de571-106">Norėdami rasti SF, eikite į **atsiskaitymo** \> [sąskaitos & mokėjimų](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapyje Norėdami peržiūrėti neseniai sąskaitas faktūras.</span><span class="sxs-lookup"><span data-stu-id="de571-106">To find the invoice, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page to view your recent invoices.</span></span> <span data-ttu-id="de571-107">SF numeris yra SF dokumentas dešiniajame kampe.</span><span class="sxs-lookup"><span data-stu-id="de571-107">The invoice number is near the right corner of the invoice document.</span></span>
+<span data-ttu-id="87def-105">10 simbolių raidinė-skaitinė eilutė po MSFT \* yra SF numeris, su kuria susijęs mokestis.</span><span class="sxs-lookup"><span data-stu-id="87def-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="87def-106">Norėdami rasti sąskaitą faktūrą, eikite į puslapį **Atsiskaitymo** \> [sąskaitos & mokėjimai,](https://go.microsoft.com/fwlink/p/?linkid=848039) kad peržiūrėtumėte naujausias sąskaitas faktūras.</span><span class="sxs-lookup"><span data-stu-id="87def-106">To find the invoice, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page to view your recent invoices.</span></span> <span data-ttu-id="87def-107">SF numeris yra netoli dešiniajame SF dokumento kampe.</span><span class="sxs-lookup"><span data-stu-id="87def-107">The invoice number is near the right corner of the invoice document.</span></span>
