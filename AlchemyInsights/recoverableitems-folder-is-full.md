@@ -1,9 +1,9 @@
 ---
-title: 1336 RecoverableItems aplankas yra visiškai
+title: 1336 RecoverableItems aplankas yra pilnas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,33 +12,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509753"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720260"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>Aplanko Atkuriami elementai yra visiškai
+# <a name="the-recoverable-items-folder-is-full"></a>Atkuriamų elementų aplankas pilnas
 
-Exchange Online pašto dėžutes "Office 365", numatytosios saugyklos aplanko Atkuriami elementai yra 30 GB. Saugyklos aplanko Atkuriami elementai automatiškai padidinama iki 100 GB skiriamas sulaikymas dėl bylinėjimosi, eDiscovery laikyti, ar priskirtas "Office 365" saugojimo strategijos pašto dėžutės.
+Exchange Online pašto dėžučių, numatytasis saugyklos riba atkuriamų elementų aplanko yra 30 GB. Atkuriamų elementų aplanko saugyklos limitas automatiškai padidinamas iki 100 GB, jei pašto dėžutė yra sulaikytas bylinėjimosi, el. duomenų aptikimo sulaikymas arba priskirtas saugojimo strategijai.
 
-Aplanko Atkuriami elementai pasiekus saugyklos ribą, pašto dėžutės funkcijas veikia vienu iš šių būdų:
+Kai atkuriamų elementų aplankas pasiekia saugyklos ribą, pašto dėžutės funkcija turi įtakos šiais būdais:
 
-- Vartotojas negali panaikinti elementus iš pašto dėžutės.
+- Vartotojas negali panaikinti elementų iš pašto dėžutės.
 
-- Valdomojo aplanko asistentas negali naikinti elementus saugojimo žymę arba valdomojo aplanko parametrai.
+- Valdomojo aplanko asistentas negali panaikinti elementų pagal saugojimo žymę arba valdomo aplanko parametrus.
 
-- Pašto dėžučių, kurios vieno elemento atkūrimas įgalintas arba yra laikinieji, kopija rašant puslapis apsaugos procesas negali išlaikyti prekių vartotojas redagavo versijas.
+- Pašto dėžučių, kuriose įgalintas vieno elemento atkūrimas arba kurios yra sulaikytos, kopijavimo rašymo puslapio apsaugos procesas negali išlaikyti vartotojo redaguotų elementų versijų.
 
-- Pašto dėžučių ar pašto dėžutės audito žurnalo pildymo funkcija įjungta, pašto dėžutės audito žurnalo įrašai gali būti saugomi audito poaplankį aplanke Atkuriami elementai.
+- Pašto dėžučių, kuriose įgalintas pašto dėžučių audito registravimas, nėra pašto dėžutės audito žurnalo įrašus galima įrašyti į aplanką Atkuriami elementai poaplankyje Audito.
 
-Pašto dėžučių, kuris nėra sulaikytas, administratoriai gali naudoti ir `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komanda Exchange Online "PowerShell" Norėdami naikinti elementus aplanke Atkuriami elementai. Norėdami gauti daugiau informacijos žr. toliau nurodytas temas:
+Pašto dėžučių, kurios nėra sulaikytas, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` administratoriai gali naudoti komandą Exchange Online PowerShell panaikinti elementus į atkuriami elementai aplanke. Norėdami gauti daugiau informacijos žr. toliau nurodytas temas:
 
-- [Ieškoti ir panaikinti laiškus](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Pranešimų ieška ir naikinimas](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
-- [Paieška-dėžutės](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Ieškos pašto dėžutė](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pašto dėžučių, kurios yra sustabdytos, administratoriai turi pašalinti sulaikymą, kol jie gali panaikinti elementus iš aplanko Atkuriami elementai. Daugiau informacijos rasite [Naikinti elementus aplanke nuotolinių išteklių saugyklomis pagrįstos pašto dėžučių laikykite Atkuriami elementai](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Sulaikytoms pašto dėžutėms administratoriai turi pašalinti sulaikymą, kad galėtų panaikinti elementus iš aplanko Atkuriami elementai. Daugiau informacijos [ieškokite Naikinti elementus, esančius nuotolinių išteklių saugyklomis pagrįstų pašto dėžučių aplanke Atkuriami elementai](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Siekiant padėti užkirsti kelią aplanko Atkuriami elementai tampa pilna, administratoriai gali padidinti atkuriamų elementų aplanko pašto dėžutės palaikykite ir nustatyti pašto dėžutės saugojimo strategija, kuri perkelia elementus iš aplanko Atkuriami elementai į vartotojo archyvo saugyklos pašto dėžutės. Peržiūrėkite [padidinti Atkuriami elementai kvota pašto dėžučių, laikykite](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Kad aplankas Atkuriami elementai netaptų pilnas, administratoriai gali padidinti sulaikytų pašto dėžučių aplanko Atkuriami elementai saugyklos ribą ir nustatyti pašto dėžutės saugojimo strategiją, kuri perkelia elementus iš aplanko Atkuriami elementai į vartotojo archyvo pašto dėžutę. Peržiūrėkite [padidinti sulaikytų pašto dėžučių atkuriamų elementų kvotą](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

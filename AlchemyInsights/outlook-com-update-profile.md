@@ -1,24 +1,24 @@
 ---
-title: 8000036 pakeisti profilio pic/pavadinimas Outlook.com
+title: 8000036 Keisti profilio pic/name Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511358"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719384"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Pakeisti mano profilio nuotrauką arba pavadinimą į Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Profilio nuotraukos arba pavadinimo keitimas Outlook.com
 
 1. Eikite į ["Microsoft" paskyros informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Pasirinkite **redaguoti pavadinimą** arba **Keisti paveikslėlį**.
+1. Pasirinkite **Redaguoti vard±** arba **Keisti nuotrauk±**.
 
-Prašome leisti iki 24 valandų keisti savo profilio nuotrauką arba pavadinimą, kad įsigaliotų.
+Palaukite iki 24 valandų, kol įsigalios profilio nuotraukos ar pavadinimo pakeitimai.

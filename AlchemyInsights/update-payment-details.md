@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059888"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720073"
 ---
 # <a name="update-credit-card-information"></a>Kredito kortelės informacijos atnaujinimas
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059888"
 
 Jei kilo problemų dėl puslapio įkėlimo, bandykite atidaryti tinklalapį kitoje naršyklėje arba bandykite atidaryti puslapį privačiame naršyklė lange, pvz., naršyklės „Microsoft Edge“ lange „InPrivate“ lange arba „Google Chrome“ inkognito lange. 
 
-Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Office 365“ verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Microsoft 365“ verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

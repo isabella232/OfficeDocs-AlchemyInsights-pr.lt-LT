@@ -1,9 +1,9 @@
 ---
-title: Blokuojami elementai nepageidaujamo el. pašto aplanke
+title: Blokuojami nepageidaujamo el. pašto aplanko elementai
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 9/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: a2901c0156fa2ad32f9954cb4e19160ef2404086
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: 760f375e722b823f8160ba482214d12d718b6684
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716163"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719857"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Blokuojami elementai aplanke nepageidaujamas el. paštas
+# <a name="blocking-items-in-your-junk-email-folder"></a>Nepageidaujamo el. pašto aplanko elementų blokavimas
 
-Blokuojant elementą, kuris jau yra aplanke nepageidaujamas el. paštas, jo panaikinti negalima. Jūsų [nepageidaujamo el. pašto aplanko](https://outlook.live.com/mail/junkemail) elementai automatiškai ištrinami po 30 dienų. Aplanke nepageidaujamas el. paštas pasirinkite elementą, kad pamatytumėte, kada jis bus panaikintas.
+Aplanko Nepageidaujamas el. paštas jau esantis elemento blokavimas jo nepanaikina. Nepageidaujamo [el. pašto aplanke](https://outlook.live.com/mail/junkemail) esantys elementai automatiškai ištrinami po 30 dienų. Pasirinkite elementą aplanke Nepageidaujamas el. paštas, kad pamatytumėte, kada jis bus panaikintas.
 
-Sužinokite daugiau, kaip [blokuoti siuntėjus arba pažymėti el. paštą kaip nepageidaujamas](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Sužinokite daugiau, kaip [blokuoti siuntėjus arba pažymėti el. laiškus kaip nepageidaujamą](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

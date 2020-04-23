@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709947"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>„Microsoft Teams“ – garso konferencijos
 
-Reikia pagalbos įjungiant arba nustatant garso konferencijas „Microsoft Teams“? Ar šis vartotojas buvo neseniai sukurtas?  Jei taip, reikės palaukti nuo 2 iki 24 val., kol parametrai įsigalios.    
+Reikia pagalbos įjungiant arba nustatant garso konferencijas „Microsoft Teams“? Ar šis vartotojas buvo neseniai sukurtas?  Jei taip, reikės palaukti nuo 2 iki 24 val., kol parametrai įsigalios.
 
 Norėdami patikrinti, ar vartotojas yra licencijuotas naudoti garso konferencijas ir turi numatytąjį mokamą numerį, atlikite šiuos veiksmus:
 
@@ -39,4 +39,4 @@ Norėdami patikrinti, ar vartotojas yra licencijuotas naudoti garso konferencija
 
 7. Pasirinkite reikiamą vartotoją ir patikrinkite, ar vartotojas turi **numatytąjį mokamą numerį**.
 
-Jei reikia daugiau informacijos, žr. [„Office 365“ skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
+Jei reikia daugiau informacijos, žr. [Skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
