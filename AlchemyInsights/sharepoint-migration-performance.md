@@ -1,5 +1,5 @@
 ---
-title: „SharePoint“ perkėlimo našumas
+title: „SharePoint“ perkėlimo našumo rekomendacijos
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537785"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789310"
 ---
-# <a name="sharepoint-migration-performance"></a>„SharePoint“ perkėlimo našumas
+# <a name="sharepoint-migration-performance-guidance"></a>„SharePoint“ perkėlimo našumo rekomendacijos
 
-**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
+Perkėlimo našumui įtakos gali turėti tinklo infrastruktūra, failo dydis, perkėlimo laikas ir ribojimas.
 
-**Perkėlimo našumas**
-
-Perkėlimo našumui įtakos gali turėti tinklo infrastruktūra, failo dydis, perkėlimo laikas ir ribojimas. Tai suprasdami, galėsite lengviau planuoti ir maksimaliai padidinti perkėlimo efektyvumą.
-
-Daugiau informacijos žr. toliau pateiktuose saituose.
+Norėdami gauti daugiau informacijos, apsilankykite:
 
 - [Bendrosios perkėlimo našumo rekomendacijos](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [Išvenkite ribojimo arba blokavimo „SharePoint Online“](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [„SharePoint“ perkėlimo įrankio atsisiuntimas ir diegimas](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Išvenkite ribojimo arba blokavimo naudojant „SharePoint Online“](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)

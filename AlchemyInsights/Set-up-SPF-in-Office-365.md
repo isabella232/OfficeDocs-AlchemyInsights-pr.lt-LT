@@ -1,5 +1,5 @@
 ---
-title: Nustatyti SPF "Office 365"
+title: SPF nustatymas sistemoje "Microsoft 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: ebb83c3cced55856963fa1784dd72760838366ca
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6b87c5b44ab275e69b58752c1fdfa8b416755c6f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784159"
 ---
-# <a name="set-passwords-to-never-expire"></a>Nustatyti slaptažodžius, kad niekada nesibaigtų 
+# <a name="set-passwords-to-never-expire"></a>Slaptažodžių nustatymas niekada nesibaigia 
 
-Norėdami nustatyti, kad visi slaptažodžiai niekada nesibaigtų, "Microsoft" 365 administravimo centre eikite į **parametrų** > [saugos &amp; privatumo](https://portal.office.com/adminportal/home#/settings/security) puslapį. Pasirinkite **Redaguoti** šalia **slaptažodžio strategija** **ir įjunkite slankiklį.**
+Norėdami nustatyti, kad visi slaptažodžiai niekada nesibaigtų, "Microsoft 365" administravimo centre eikite į **puslapį Parametrų** > [saugos &amp; privatumas.](https://portal.office.com/adminportal/home#/settings/security) Pasirinkite **Redaguoti** šalia **Slaptažodžio strategija**ir pasukite slankiklį į **Įjungta**.
   
-Išsamesnės informacijos rasite: [nustatykite savo organizacijos slaptažodžio galiojimo laiko strategiją.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+Išsamesnės informacijos ieškokite: [Nustatykite savo organizacijos slaptažodžio galiojimo pabaigos strategiją.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Nustatykite, kad slaptažodis niekada nesibaigtų konkretiems vartotojams](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+[Nustatyti slaptažodžio galiojimo nesibaigia galiojimą konkretiems vartotojams](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

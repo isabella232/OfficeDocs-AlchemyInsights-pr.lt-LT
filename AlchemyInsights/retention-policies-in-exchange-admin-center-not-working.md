@@ -1,9 +1,9 @@
 ---
-title: Saugojimo strategijos, Exchange administravimo centro neveikia
+title: Saugojimo strategijos Exchange administravimo centro neveikia
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742441"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Saugojimo strategijos, Exchange administravimo centro
+# <a name="retention-policies-in-exchange-admin-center"></a>Saugojimo strategijos "Exchange" administravimo centre
 
- **Klausimas:** Naujai sukurta ar atnaujinta saugojimo strategijos, Exchange administravimo centro netaiko į pašto dėžutes arba nėra perkeliami į archyvo pašto dėžutę arba pašalinus elementus. 
+ **Problema:** Naujai sukurtos arba atnaujintos saugojimo strategijos "Exchange" administravimo centre netaikomos pašto dėžutėms arba elementai neperkeliami į archyvo pašto dėžutę arba panaikinami. 
   
  **Priežastis:**
   
-- Tai gali būti todėl, kad **Valdomojo aplanko asistentas** ne perdirbo vartotojo pašto dėžutėje. Valdomojo aplanko asistentas bando tvarkyti kiekvieną pašto dėžutės į nuotolinių išteklių saugyklomis pagrįstos organizacijos kas septynias dienas. Jei pakeitėte saugojimo žymę arba taikyti kitą saugojimo strategiją pašto dėžutei, galite palaukti, kol valdomas aplankas padeda apdoroja pašto dėžutę, arba galite paleisti Start-ManagedFolderAssistant cmdlet ir paleisti valdomojo aplanko asistentas apdoroti tam tikrą pašto dėžutės. Vykdyti į cmdlet yra naudinga bandyti ar trikčių šalinimo saugojimo strategijos ar saugojimo ˛ymės parametrus. Norėdami gauti daugiau informacijos, apsilankykite [paleisti valdomojo aplanko asistentas](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Taip gali būti dėl to, kad **valdomojo aplanko asistentas** neapdorojo vartotojo pašto dėžutės. Valdomojo aplanko asistentas bando apdoroti kiekvieną nuotolinių išteklių saugyklomis pagrįstoje organizacijoje pašto dėžutę kartą per septynias dienas. Jei pakeisite saugojimo žymę arba pašto dėžutei taikote kitą saugojimo strategiją, galite palaukti, kol valdomos aplanko pagalbinė priemonė apdoros pašto dėžutę, arba galite paleisti cmdlet Start-ManagedFolderAssistant, kad paleistumėte valdomojo aplanko asistentą, kad apdorotumėte konkrečią pašto dėžutę. Šios cmdlet vykdymas naudingas tikrinant arba šalinant saugojimo strategiją arba saugojimo žymės parametrus. Jei norite gauti daugiau informacijos, apsilankykite [paleisti valdomojo aplanko asistentas](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Sprendimas:** Vykdykite šią komandą pradėti tam tikros pašto dėžutės valdomojo aplanko asistentas:
+  - **Sprendimas:** Vykdykite šią komandą, kad paleistumėte konkrečios pašto dėžutės valdomojo aplanko asistentą:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Taip, gali nutikti, jei **RetentionHold** buvo **įjungtas** į pašto dėžutę. Jei pašto dėžutės buvo skiriamas į RetentionHold, saugojimo strategijos pašto dėžutės bus apdorotos per tą laiką. Dėl daugiau pateikiamoje RetentionHold parametrą žr: [Pašto dėžutės saugojimo palaikykite](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Tai taip pat gali įvykti, jei **RetentionHold** buvo **įjungtas** pašto dėžutės. Jei pašto dėžutės buvo įrašytas į RetentionHold, saugojimo strategija pašto dėžutės nebus tvarkomi per tą laiką. Daugiau informaton dėl RetentionHold parametrą žr.: [Pašto dėžutės saugojimo sulaikymo](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Sprendimas:**
+    **Tirpalas:**
     
-  - Patikrinkite, ar RetentionHold nustatyti konkrečias [EXO "PowerShell"](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)pašto dėžutės:
+  - Patikrinkite, ar retentionHold parametro būseną konkrečios pašto dėžutės [EXO powershell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Vykdyti šią komandą, Norėdami **išjungti** RetentionHold tam tikros pašto dėžutės:
+  - Vykdykite šią komandą **norėdami išjungti** RetentionHold konkrečioje pašto dėžutėje:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Dabar, naujo paleisti valdomos aplanko asistentas:
+  - Dabar iš naujo paleiskite valdomojo aplanko asistentas:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Pastaba:** Jei pašto dėžutės yra mažesnis nei 10 MB, valdomojo aplanko asistentas nebus automatiškai apdorojami, pašto dėžutės.
+ **Pastaba:** Jei pašto dėžutės yra mažesnis nei 10 MB, valdomojo aplanko asistentas nebus automatiškai apdoroti pašto dėžutės.
  
-Daugiau informacijos apie saugojimo strategijos, Exchange administravimo centro, žr.:
-- [Saugojimo ˛ymes ir saugojimo strategijos](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Taikyti saugojimo strategijos į pašto dėžutes](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Pridėti arba pašalinti saugojimo žymes](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Kaip nustatyti tos rūšies palaikykite ant pašto dėžutės](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+Daugiau informacijos apie saugojimo strategijas "Exchange" administravimo centre rasite:
+- [Saugojimo žymės ir saugojimo strategijos](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Saugojimo strategijos taikymas pašto dėžutėms](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Saugojimo žymių pridėjimas arba šalinimas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Kaip nustatyti sulaikymo, padėto pašto dėžutėje, tipą](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

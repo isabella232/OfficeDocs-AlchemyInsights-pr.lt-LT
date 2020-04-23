@@ -1,9 +1,9 @@
 ---
-title: Nepristatyti "SharePoint" įspėjimų pranešimai
+title: Nepateikti "SharePoint" įspėjimų pranešimai
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047075"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742055"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Nepristatyti "SharePoint" įspėjimų pranešimai
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Nepateikti "SharePoint" įspėjimų pranešimai
 
-Prašome patikrinti NEPAGEIDAUJAMO el. pašto aplanką, nes kartais gali būti įspėjama.
+Patikrinkite nepageidaujamo el. pašto aplanką JUNK, nes kartais ten gali būti įspėjimai.
 
-Nustatyti, ar **visi įspėjimai nepristatomi** , arba jei nepristatomas **individualus įspėjimas** iš konkretaus failo ar bibliotekos.
+Nustatykite, ar **nepateikiami visi įspėjimai,** ar **nepristatomas atskiras konkretaus** failo ar bibliotekos įspėjimas.
 
-- **Individualūs perspėjimai nepristatomi**: Jei atskiras įspėjimas iš konkretaus failo ar bibliotekos nepristatomas, galite bandyti jį panaikinti ir iš naujo sukurti. Žiūrėkite [valdyti, peržiūrėti arba panaikinti "SharePoint" įspėjimus](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) , kad iš naujo atkurtumėte įspėjimą.
-- **Visi įspėjimai nepristatomi**: jei nepristatomi visi įspėjimai iš kelių failų arba bibliotekų, apsilankykite [tarnybos sveikatos ataskaitų srityje](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir patikrinkite, ar nėra patarimų/incidentų, kurie gali būti atliekami su "SharePoint" arba "Exchange". Problema gali būti su SharePoint įspėjimo galimybė arba vėlavimų el. laiškuose per Exchange. Taip pat bus svarbu atkreipti dėmesį į tai, ar kitas el. laiškas pristatomas, o jei ne, problema greičiausiai yra su "Exchange" vėlavimu.
+- **Individualūs įspėjimai nepristatomi**: jei atskiras perspėjimas iš konkretaus failo ar bibliotekos nepristatomas, galite bandyti jį panaikinti ir atkurti. Peržiūrėkite ["SharePoint" įspėjimų valdymas, peržiūra arba naikinimas,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) kad iš naujo sukurtumėte įspėjimą.
+- **Visi įspėjimai nepristatomi:** jei nepristatomi visi įspėjimai iš kelių failų ar bibliotekų, apsilankykite [tarnybos sveikatos ataskaitų srityje](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir patikrinkite, ar nėra patarimų / incidentų, kurie gali įvykti su "SharePoint" arba "Exchange". Problema gali būti su SharePoint įspėjimo galimybę arba delsa el. laiškų per Exchange. Taip pat bus svarbu pažymėti, ar pristatomas kitas el. laiškas, o jei ne, problema gali būti susijusi su "Exchange" delsa.
 
 DUK apie įspėjimus:
 
-- Neįmanoma siųsti įspėjimų paskirstymo grupei, palaikomos tik saugos ir O365 grupės.
-- Negalite tinkinti įspėjimų el. laiškų šablonų; Norint pasiekti šiuos veiksmus, reikia naudoti "Microsoft FLOW" arba "SharePoint Designer" darbo eigą.
+- Įspėjimų siuntimo į paskirstymo grupę siųsti negalima, palaikomos tik saugos ir O365 grupės.
+- Negalite tinkinti įspėjimo el. laiškų šablonų; norint juos pasiekti turite naudoti "Microsoft FLOW" arba "SharePoint Designer Workflow".
 
 Daugiau informacijos:
 
-- **Įspėjimo Sąranka**: Norėdami gauti daugiau informacijos apie įspėjimų nustatymą, žiūrėkite [kurti įspėjimą, kad gautumėte pranešimą, kai failas arba aplankas pasikeis "SharePoint"](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Įspėjimų trikčių diagnostika**: daugiau informacijos apie įspėjimų trikčių šalinimą ieškokite vartotojai negauna įspėjimų apie " [SharePoint Online" pranešimus](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Išplėstinė O365 atitikties įspėjimo politika**: Norėdami gauti daugiau informacijos apie šių įspėjimų nustatymą [, žr.](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
-- **SharePoint ir OneDrive audito žurnalai**: jei norite gauti daugiau informacijos, kaip nuskaityti šiuos įvykius, žiūrėkite [Ieškoti audito žurnale](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Įspėjimai, siunčiami naudojant patobulinę apsaugą nuo grėsmių**: Peržiūrėkite ["SharePoint" ir "OneDrive" ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Įspėjimai siunčiami pagal duomenų praradimo prevencija**politikos: žiūrėkite [el. pašto pranešimus apie DLP strategijas](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Įspėjimo nustatymas**: Daugiau informacijos apie įspėjimų nustatymą [ieškokite Įspėjimo, kad gautumėte pranešimą, kai failas arba aplankas pasikeičia programoje "SharePoint", kūrimas.](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)
+- **Įspėjimų trikčių diagnostika**: Daugiau informacijos apie įspėjimų trikčių diagnostiką ieškokite [Vartotojai negauna "SharePoint Online" įspėjimų pranešimų](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Išplėstinės O365 atitikties įspėjimo strategijos**: daugiau informacijos apie šių įspėjimų nustatymą ieškokite [Atitikties įspėjimo strategijos](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **"SharePoint" ir "OneDrive" audito žurnalai**: daugiau informacijos apie tai, kaip gauti šių įvykių, ieškokite [Audito žurnalo ieška](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Įspėjimai, kuriuos siunčia išplėstinė apsauga nuo grėsmių**: [žr.](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- **Duomenų praradimo prevencijos policijos siunčiami įspėjimai**: [Žr.](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>Susijusios temos
 
 Norite išbandyti "Microsoft Flow" "SharePoint Online"?
 
-- [Sukurti srautą](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Kurti srautą](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
 - ["SharePoint" ir srautas](https://flow.microsoft.com//blog/sharepoint-and-flow/)
