@@ -1,24 +1,24 @@
 ---
-title: "\"SharePoint Online\" užklausų Buferėjimas"
+title: "\"SharePoint Online\" užklausų buferizavimas"
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6914c8fc6f5856685d2c2cce33255381c358d2bc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fbc72376e90b787d34c6b1606cb977600fab863e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044015"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767653"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="21537-102">"SharePoint Online" užklausų buferėjimas</span><span class="sxs-lookup"><span data-stu-id="21537-102">SharePoint Online throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="201aa-102">„SharePoint Online“ ribojimas</span><span class="sxs-lookup"><span data-stu-id="201aa-102">SharePoint Online throttling</span></span>
 
-<span data-ttu-id="21537-103">SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos.</span><span class="sxs-lookup"><span data-stu-id="21537-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="21537-104">Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug.</span><span class="sxs-lookup"><span data-stu-id="21537-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="21537-105">Jei jūs gaunate Throttled, 99% laiko tai dėl pasirinktinį kodą.</span><span class="sxs-lookup"><span data-stu-id="21537-105">If you do get throttled, 99% of the time it is because of custom code.</span></span>
+<span data-ttu-id="201aa-103">„SharePoint Online“ naudoja ribojimo funkciją, kad užtikrintų optimalų „SharePoint Online“ paslaugos veiksmingumą ir patikimumą.</span><span class="sxs-lookup"><span data-stu-id="201aa-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="201aa-104">Ribojimas apriboja vartotojo veiksmų arba vienu metu vykstančių skambučių (pagal scenarijų ar kodą) skaičių, kad būtų užkirstas kelias per dideliam išteklių naudojimui.</span><span class="sxs-lookup"><span data-stu-id="201aa-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="201aa-105">Jei jums throttled, 99% laiko jis yra dėl pasirinktinio kodo.</span><span class="sxs-lookup"><span data-stu-id="201aa-105">If you do get throttled, 99% of the time it is because of custom code.</span></span>
   
-<span data-ttu-id="21537-106">Daugiau informacijos apie buferizavimo pamatyti, [išvengti gauti neleista arba užblokuotas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span><span class="sxs-lookup"><span data-stu-id="21537-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
+<span data-ttu-id="201aa-106">Jei norite gauti daugiau informacijos apie buferizavimas pamatyti, [Išvengti gauti throttled arba užblokuotas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span><span class="sxs-lookup"><span data-stu-id="201aa-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
   
 

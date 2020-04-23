@@ -1,9 +1,9 @@
 ---
-title: 8000059 Spam filtras neveikia
+title: 8000059 Šlamšto filtras neveikia
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38469649ddd661a90144ac8b63d7b12f6acd1549
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501303"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764089"
 ---
-# <a name="spam-filter-not-working"></a><span data-ttu-id="0b56b-102">Neveikia filtro</span><span class="sxs-lookup"><span data-stu-id="0b56b-102">Spam filter not working</span></span>
+# <a name="spam-filter-not-working"></a><span data-ttu-id="c62e8-102">Šlamšto filtras neveikia</span><span class="sxs-lookup"><span data-stu-id="c62e8-102">Spam filter not working</span></span>
 
-<span data-ttu-id="0b56b-103">Jei manote, kad pranešimą gavote naudodami "Outlook.com" yra sukčiavimo ar parodijos sukčiai, pasirinkite pranešimą ir **šiukšlių** \> **Phishing** pažymėti jį kaip sukčiavimo aferą.</span><span class="sxs-lookup"><span data-stu-id="0b56b-103">If you believe a message you've received in Outlook.com is a phishing or spoofing scam, select the message, and select **Junk** \> **Phishing** to mark it as a phishing scam.</span></span> <span data-ttu-id="0b56b-104">Norėdami sužinoti daugiau apie piktnaudžiavimo, sukčiavimo ir apsimetimas kitu laiško siuntėju, [skaityti šį](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0b56b-104">To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span></span> <span data-ttu-id="0b56b-105">Blokuoti el. pašto adresus, pridėti adresus ar domenų į jūsų patikimų siuntėjų sąrašą, arba taikyti kitus nepageidaujamo el. pašto parinktys, pasirinkite **nepageidaujamo el. pašto parinktys**.</span><span class="sxs-lookup"><span data-stu-id="0b56b-105">To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span>
+<span data-ttu-id="c62e8-103">Jei manote, kad pranešimą, kurį gavote Outlook.com yra sukčiavimas apsimetant arba apsimetimo apgaulė, pasirinkite pranešimą ir pasirinkite **Nepageidaujamas** \> **sukčiavimas apsimetant,** kad pažymėtumėte jį kaip sukčiavimą apsimetant.</span><span class="sxs-lookup"><span data-stu-id="c62e8-103">If you believe a message you've received in Outlook.com is a phishing or spoofing scam, select the message, and select **Junk** \> **Phishing** to mark it as a phishing scam.</span></span> <span data-ttu-id="c62e8-104">Norėdami sužinoti daugiau apie piktnaudžiavimą, sukčiavimą apsimetant ir apsimetimą, [perskaitykite šį](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c62e8-104">To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span></span> <span data-ttu-id="c62e8-105">Norėdami blokuoti el. pašto adresus, įtraukti adresus ar domenus į patikimų siuntėjų sąrašą arba taikyti kitas nepageidaujamo el. pašto parinktis, pasirinkite **Nepageidaujamo el. pašto parinktys**.</span><span class="sxs-lookup"><span data-stu-id="c62e8-105">To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span>
   

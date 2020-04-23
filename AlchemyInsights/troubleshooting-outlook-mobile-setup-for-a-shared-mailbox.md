@@ -1,9 +1,9 @@
 ---
-title: 1800014 trikčių diagnostika "Outlook" mobiliojo sąrankos bendrai naudojamos pašto dėžutės
+title: 1800014 "Outlook" mobiliojo ryšio sąrankos, skirtos bendrai naudojamai pašto dėžutei, trikčių diagnostika
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 3/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 276fd24192a45b57c3830e46dcd61d8f66efa7bf
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: e627c2f29b7681a263ab3ea98aa5bbda8580c856
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36533599"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759556"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a><span data-ttu-id="b7efd-102">Bendrai naudojamos pašto dėžutės "Outlook Mobile" sąrankos trikčių diagnostika</span><span class="sxs-lookup"><span data-stu-id="b7efd-102">Troubleshooting Outlook mobile setup for a shared mailbox</span></span>
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a><span data-ttu-id="4f96b-102">"Outlook" mobiliųjų įrenginių sąrankos, skirtos bendrai naudojamai pašto dėžutei, trikčių diagnostika</span><span class="sxs-lookup"><span data-stu-id="4f96b-102">Troubleshooting Outlook mobile setup for a shared mailbox</span></span>
 
-<span data-ttu-id="b7efd-103">Negalite pasiekti bendrinamą pašto dėžutę iš "Outlook" programėlę, kuri yra įdiegta mobiliajame įrenginyje.</span><span class="sxs-lookup"><span data-stu-id="b7efd-103">You can't access the shared mailbox from the Outlook app that's installed on the mobile device.</span></span> <span data-ttu-id="b7efd-104">Ar norite šios funkcijos?</span><span class="sxs-lookup"><span data-stu-id="b7efd-104">Do you want this feature?</span></span> <span data-ttu-id="b7efd-105">Tegul "Outlook" inžinerijos komanda žino.</span><span class="sxs-lookup"><span data-stu-id="b7efd-105">Let the Outlook Engineering team know.</span></span> <span data-ttu-id="b7efd-106">[Balsuoti čia](https://go.microsoft.com/fwlink/?linked=862116)!</span><span class="sxs-lookup"><span data-stu-id="b7efd-106">[Vote here](https://go.microsoft.com/fwlink/?linked=862116)!</span></span>
+<span data-ttu-id="4f96b-103">Negalite pasiekti bendrinamos pašto dėžutės iš mobiliajame įrenginyje įdiegtos "Outlook" programėlės.</span><span class="sxs-lookup"><span data-stu-id="4f96b-103">You can't access the shared mailbox from the Outlook app that's installed on the mobile device.</span></span> <span data-ttu-id="4f96b-104">Ar norite šią funkciją?</span><span class="sxs-lookup"><span data-stu-id="4f96b-104">Do you want this feature?</span></span> <span data-ttu-id="4f96b-105">Praneškite "Outlook Engineering" komandai.</span><span class="sxs-lookup"><span data-stu-id="4f96b-105">Let the Outlook Engineering team know.</span></span> <span data-ttu-id="4f96b-106">[Balsuokite čia!](https://go.microsoft.com/fwlink/?linked=862116)</span><span class="sxs-lookup"><span data-stu-id="4f96b-106">[Vote here](https://go.microsoft.com/fwlink/?linked=862116)!</span></span>
   
-<span data-ttu-id="b7efd-107">Bendrai naudojamą pašto dėžutę mobiliajame įrenginyje galite naudoti tik atidarę naršyklę, prisijungdami prie "Office 365", o tada eikite į "Outlook" žiniatinklyje.</span><span class="sxs-lookup"><span data-stu-id="b7efd-107">You can only use a shared mailbox on a mobile device by open your browser, signing in to Office 365, and then go Outlook on the web.</span></span> <span data-ttu-id="b7efd-108">Instrukcijų ieškokite [bendrinamų pašto dėžučių įtraukimas į "Outlook" žiniatinklyje](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span><span class="sxs-lookup"><span data-stu-id="b7efd-108">For instructions, see [Add a shared mailbox in Outlook on the web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span></span> <span data-ttu-id="b7efd-109">Iš "Outlook" žiniatinklyje galėsite pasiekti bendrinamą pašto dėžutę.</span><span class="sxs-lookup"><span data-stu-id="b7efd-109">From Outlook on the web you'll be able to access the shared mailbox.</span></span>
+<span data-ttu-id="4f96b-107">Bendrinamą pašto dėžutę galite naudoti tik mobiliajame įrenginyje atidarydami naršyklę, prisijungę ir apsilankę "Outlook" žiniatinklyje.</span><span class="sxs-lookup"><span data-stu-id="4f96b-107">You can only use a shared mailbox on a mobile device by opening your browser, signing in, and then going to Outlook on the web.</span></span> <span data-ttu-id="4f96b-108">Instrukcijų [ieškokite Bendrai naudojamos pašto dėžutės įtraukimas į "Outlook" žiniatinklyje](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span><span class="sxs-lookup"><span data-stu-id="4f96b-108">For instructions, see [Add a shared mailbox in Outlook on the web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span></span> <span data-ttu-id="4f96b-109">Iš "Outlook" žiniatinklyje galėsite pasiekti bendrinamą pašto dėžutę.</span><span class="sxs-lookup"><span data-stu-id="4f96b-109">From Outlook on the web you'll be able to access the shared mailbox.</span></span>
   
-<span data-ttu-id="b7efd-110">Sužinokite daugiau: [Gaukite programos "Outlook" skirtą "iOS" ir "Android" pagalbą](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span><span class="sxs-lookup"><span data-stu-id="b7efd-110">Learn more: [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span></span>
+<span data-ttu-id="4f96b-110">Sužinokite daugiau: [Gaukite programėlėje esantį pagalbos, skirtos "Outlook", skirta "iOS" ir "Android",](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span><span class="sxs-lookup"><span data-stu-id="4f96b-110">Learn more: [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)</span></span>
   
 

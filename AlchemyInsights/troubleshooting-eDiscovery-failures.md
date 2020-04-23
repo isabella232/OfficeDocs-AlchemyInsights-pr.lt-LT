@@ -1,9 +1,9 @@
 ---
-title: 1490-trikčių šalinimas-eDiscovery-gedimai
+title: 1490 trikčių diagnostika-el. duomenų aptikimo triktys
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559381"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759592"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="dbe08-102">Turinio paieška: klaidų šalinimas</span><span class="sxs-lookup"><span data-stu-id="dbe08-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="69d4d-102">Turinio ieškos klaidų šalinimas</span><span class="sxs-lookup"><span data-stu-id="69d4d-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="dbe08-103">Ar jums kyla problemų su turinio paieškos sistemoje "Office 365" arba gauti nesėkmių eksportuodami ieškos rezultatus?</span><span class="sxs-lookup"><span data-stu-id="dbe08-103">Are you experiencing problems with Content Search in Office 365 or getting failures when you export search results?</span></span>
+<span data-ttu-id="69d4d-103">Ar kyla problemų dėl turinio ieškos arba gedimų eksportuojant ieškos rezultatus?</span><span class="sxs-lookup"><span data-stu-id="69d4d-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="dbe08-104">Pvz., jūs gaunate šiuos važiuojant paieškas?</span><span class="sxs-lookup"><span data-stu-id="dbe08-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="69d4d-104">Pavyzdžiui, ar vykdydami ieškas gaunate šiuos dalykus?</span><span class="sxs-lookup"><span data-stu-id="69d4d-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="dbe08-105">CS008 ar CS012 klaidų</span><span class="sxs-lookup"><span data-stu-id="dbe08-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="69d4d-105">CS008 arba CS012 klaidos</span><span class="sxs-lookup"><span data-stu-id="69d4d-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="dbe08-106">Serveris užimtas/skirtojo laiko klaidos</span><span class="sxs-lookup"><span data-stu-id="dbe08-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="69d4d-106">Serverio užimtumo/skirtojo laiko klaidos</span><span class="sxs-lookup"><span data-stu-id="69d4d-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="dbe08-107">Programos klaida</span><span class="sxs-lookup"><span data-stu-id="dbe08-107">Application error occurred</span></span>
+- <span data-ttu-id="69d4d-107">Įvyko taikomosios programos klaida</span><span class="sxs-lookup"><span data-stu-id="69d4d-107">Application error occurred</span></span>
 
-<span data-ttu-id="dbe08-108">Arba kai paiešką arba eksportuoti rezultatus iš daug pašto dėžučių (daugiau nei 100 000 pašto dėžučių), jūs gaunate eksportuoti klaidas?</span><span class="sxs-lookup"><span data-stu-id="dbe08-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="69d4d-108">Arba ieškant arba eksportuojant rezultatus iš daugelio pašto dėžučių (daugiau nei 100 000 pašto dėžučių), ar gaunate eksportavimo klaidų?</span><span class="sxs-lookup"><span data-stu-id="69d4d-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="dbe08-109">Tokios rūšies klaidų, bandykite dar kartą ieškoti turinio vietose, kad nepavyko.</span><span class="sxs-lookup"><span data-stu-id="dbe08-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="dbe08-110">Skaitykite [šį straipsnį](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) daugiau informacijos.</span><span class="sxs-lookup"><span data-stu-id="dbe08-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="69d4d-109">Šių tipų klaidose bandykite ieškoti turinio vietų, kurios nepavyko.</span><span class="sxs-lookup"><span data-stu-id="69d4d-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="69d4d-110">Daugiau informacijos rasite [šiame straipsnyje.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)</span><span class="sxs-lookup"><span data-stu-id="69d4d-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
