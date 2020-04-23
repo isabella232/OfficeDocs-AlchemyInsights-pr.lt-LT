@@ -1,5 +1,5 @@
 ---
-title: „Microsoft 365“ verslui prenumeratos nustatymas
+title: „Microsoft 365 Business“ prenumeratos nustatymas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,12 +18,12 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 04/09/2020
 ms.locfileid: "43207467"
 ---
-# <a name="set-up-a-microsoft-365-business-subscription"></a>„Microsoft 365“ verslui prenumeratos nustatymas
+# <a name="set-up-a-microsoft-365-business-subscription"></a>„Microsoft 365 Business“ prenumeratos nustatymas
 
-Jei norite peržiūrėti nuoseklias instrukcijas, žr. [„Office 365“ visuotinis diegimas organizacijoje](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises), kurios padės jums nustatyti įmonės prenumeratą.
+Nuoseklias instrukcijas, kaip nustatyti „Enterprise“ prenumeratą, žr. [„Office 365“ diegimas organizacijoje](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises).
 
 **Daugiau puikių išteklių**
 
-- [„Office 365“ skirtas „FastTrack“](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365) yra geriausias „Office 365“ visuotinio diegimo būdas. „FastTrack“ padeda atlikti dažniausiai naudojamus diegimo konfigūravimus ir gali atsakyti į kylančius klausimus. 
+- [„FastTrack“, skirtas „Office 365“](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365), yra geriausias „Office 365“ diegimo būdas. „FastTrack“ supažindina su dažniausiomis diegimo konfigūracijomis ir gali atsakyti į kylančius klausimus. 
 
-- [Savarankiškai visuotinai diekite „Office 365 Enterprise“](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises#do-it-yourself-guided-deployment-of-office-365-enterprise) baigę planuoti. 
+- Baigę planuoti [savarankiškai įdiekite „Office 365 Enterprise“](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises#do-it-yourself-guided-deployment-of-office-365-enterprise). 

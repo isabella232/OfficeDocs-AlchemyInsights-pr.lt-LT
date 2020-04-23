@@ -1,5 +1,5 @@
 ---
-title: Atnaujinti mano kredito kortelės informaciją
+title: Kredito kortelės informacijos atnaujinimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,16 +18,16 @@ ms.contentlocale: lt-LT
 ms.lasthandoff: 04/09/2020
 ms.locfileid: "43207489"
 ---
-# <a name="update-my-credit-card-information"></a>Atnaujinti mano kredito kortelės informaciją
+# <a name="update-my-credit-card-information"></a>Kredito kortelės informacijos atnaujinimas
 
-Galite įtraukti / pašalinti mokėjimo  būdą **„Microsoft 365“ administravimo centre**. Jei jūsų mokėjimo būdas nėra susietas su prenumeratomis, galite iškart jį panaikinti. Jei jis susietas su prenumerata, žr. [Mokėjimo būdo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+Galite įtraukti / pašalinti mokėjimo būdą **„Microsoft 365“ administravimo centre**. Jei jūsų mokėjimo būdas nėra susietas su prenumeratomis, galite iškart jį panaikinti. Jei jis susietas su prenumerata, žr. [Mokėjimo būdo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
 
 1. Eikite į puslapį **Atsiskaitymas > Sąskaitos ir mokėjimai > [Mokėjimo būdai](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
-2. Laikykite žymiklį virš kortelės arba banko sąskaitos, tada pasirinkite piktogramą naikinti.
+2. Laikykite žymiklį virš kortelės arba banko sąskaitos, tada pasirinkite naikinimo piktogramą.
 
 3. Srities **Naikinti mokėjimo būdą** apačioje spustelėkite **Naikinti**.
 
 Norėdami gauti daugiau informacijos, žr. [Mokėjimo būdų įtraukimas, atnaujinimas ir pašalinimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
 
-Jei norite pašalinti triktis, žr. [mokėjimo būdų trikčių diagnostika](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#troubleshoot-payment-methods).
+Jei norite pašalinti triktis, žr. [Mokėjimo būdo trikčių šalinimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#troubleshoot-payment-methods).
