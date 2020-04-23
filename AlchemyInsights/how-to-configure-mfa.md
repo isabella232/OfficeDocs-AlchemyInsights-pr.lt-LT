@@ -1,5 +1,5 @@
 ---
-title: 955 kaip sukonfigūruoti MFP
+title: 955 Kaip sukonfigūruoti MFP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739645"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722384"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Konfigūruoti kelių dalių autentifikavimas Office 365
+# <a name="configure-multi-factor-authentication"></a>Kelių dalių autentifikavimo konfigūravimas
 
-Norėdami sukonfigūruoti MFP, žiūrėkite [nustatyti kelių dalių autentifikavimą Office 365 vartotojams](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Norėdami konfigūruoti DTS, [žr.](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
 
-Atkreipkite dėmesį, kad jūs turite būti Office 365 visuotinio administravimo įjungti ir konfigūruoti DTS.
+Atkreipkite dėmesį, kad turite būti visuotinis administratorius, kad įgalintumėte ir sukonfigūruotumėte DTS.

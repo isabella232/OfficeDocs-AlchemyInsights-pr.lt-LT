@@ -1,32 +1,32 @@
 ---
-title: "\"OneDrive\" klaidos ištaisymas 0x8004de40"
+title: Klaidos 0x8004de40 taisymas "OneDrive"
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052045"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716036"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>"OneDrive" klaidos ištaisymas 0x8004de40
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Klaidos 0x8004de40 taisymas "OneDrive"
 
-Jei įvyksta klaida 0x8004de40 su "OneDrive":
+Jei su "OneDrive" gaunate klaidos pranešimą 0x8004de40:
 
-- Perkraukite pažeistą kompiuterį, o prijungtas prie jūsų Acitve katalogo domenas.
-- Jei iš naujo nepavyksta išspręsti problemos, atsijungti ir prisijungti savo įrenginį iš Azure AD. 
+- Perkraukite paveiktą kompiuterį, kai prijungtas prie acitve katalogo domeno.
+- Jei iš naujo neišsprendžia problemos, atjunkite ir vėl prisijunkite prie įrenginio iš "Azure AD". 
 
-**Pastaba**: atlikdami šiuos veiksmus, turėtumėte būti įmonės tinkle. Neatlikite šių veiksmų, kai negalite prisijungti prie įmonės infrastruktūros (pvz., keliaudami). 
+**Pastaba:** atlikdami šiuos veiksmus turėtumėte būti įmonės tinkle. Neatlikite šių veiksmų, kai negalite prisijungti prie įmonės infrastruktūros (pvz., keliaudami). 
 
-- Atidarykite didesnių teisių komandų eilutę. 
-- Norėdami atidaryti didesnių teisių komandų eilutę, spustelėkite **pradėti**, dešiniuoju pelės mygtuku spustelėkite **Komandinė eilutė**, tada spustelėkite **paleisti administratoriaus teisėmis**.
-- Tipo *dsregcmd/atostogos* ir paspauskite **Enter**.
-- Baigę įveskite *dsregcmd/Join* ir paspauskite **Enter**.
+- Atidarykite didesnių teisių komandinę eilutę. 
+- Norėdami atidaryti didesnių teisių komandų eilutę, spustelėkite - **Pradėti**, dešiniuoju pelės mygtuku spustelėkite **Komandinė eilutė**, tada spustelėkite **Paleisti administratoriaus teisėmis**.
+- Įveskite *dsregcmd /leave* ir paspauskite **Enter**.
+- Baigę įveskite *dsregcmd /join* ir paspauskite **Enter**.
 - Baigę uždarykite komandinę eilutę.
-- Perkraukite kompiuterį ir prisijunkite prie OneDrive.
+- Perkraukite kompiuterį ir prisijunkite prie "OneDrive".

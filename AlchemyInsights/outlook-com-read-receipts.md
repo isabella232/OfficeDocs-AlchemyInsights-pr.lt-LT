@@ -1,9 +1,9 @@
 ---
-title: Perskaitymo pažymų programoje "Outlook.com"
+title: Skaityti kvitus Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545303"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744229"
 ---
-# <a name="read-receipts"></a>Perskaitymo pažymas
+# <a name="read-receipts"></a>Perskaitymo pažymos
 
-Jūs negalite reikalauti perskaitymo pažymos "Outlook.com", bet jūs galite prašyti Perskaitymo pažymų dėl "Outlook.com" pranešimus, siunčiami naudojant "Outlook" skirtą "Windows". Norėdami sužinoti kaip tai padaryti, žr. [įtraukti ir prašyti perskaitymo pažymas ir pristatymo pranešimai](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Negalite prašyti perskaitymo pažymos Outlook.com, bet galite prašyti perskaitymo pažymų Outlook.com pranešimams, siunčiamiems naudojant "Outlook", skirtą "Windows". Norėdami sužinoti, kaip tai padaryti, žiūrėkite [Perskaitymo pažymų ir pristatymo pranešimų pridėjimas ir užklausų teikimas](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Norėdami pasirinkti, kaip "Outlook.com" reaguoja į skaityti gavimo užklausos, eikite į [skaityti gavimo parametrai](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Norėdami pasirinkti, kaip Outlook.com atsako į perskaitymo pažymos užklausas, eikite į [Perskaitymo pažymos parametrai](https://outlook.live.com/mail/options/mail/handling/readReceipts).

@@ -1,9 +1,9 @@
 ---
-title: Kovos su sukčiavimo "Outlook.com"
+title: Sukčiavimo apsimetant Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,19 +11,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fe8d3b17aae386f04fae9c142eb608f504a380b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535816"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744927"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Kaip kovoti su phishing laišką
+# <a name="how-to-deal-with-a-phishing-email"></a>Kaip elgtis su apsimestinių svetainių el. laišku
 
-Sukčiavimas apsimetant yra el. laišką, kuris atrodo teisėtas, bet iš tiesų bandoma pavogti jūsų asmeninę informaciją arba pinigų. Sukčiai taip pat galite naudoti technika vadinama apsimesti kitu asmeniu, kad jis atsirastų, jei gavote el. laišką iš savęs.
+Sukčiavimas apsimetant yra el. laiškas, kuris atrodo teisėtas, bet iš tikrųjų yra bandymas pavogti jūsų asmeninę informaciją ar pinigus. Sukčiai taip pat gali naudoti techniką, vadinamą apsimetimo, kad jis atrodo taip, tarsi jūs gavote laišką iš savęs.
 
-Jei gavote el. laišką, kuris atrodo kaip sukčiavimo aferą, galite pranešti pranešimą ir tada pasirenkant **Junk** > **Phishing**.
+Jei gaunate el. laišką, kuris atrodo kaip sukčiavimas apsimetant, galite apie jį pranešti pasirinkdami pranešimą ir pasirinkdami **Junk** > **Phishing**.
 
-*Pastaba:* Kai pažymite laišką kaip apie sukčiavimą, kad tik ataskaitos siuntėjui.Neblokuoja to siuntėjo siųsti jums laiškus ateityje. Blokuoti siuntėją, turite įtraukti siuntėją į blokuojamų siuntėjų sąrašą. Norėdami gauti daugiau informacijos, peržiūrėkite [siuntėjų blokuoti arba neblokuoti siuntėjai "Outlook.com"](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Pastaba:* Kai pažymite pranešimą kaip sukčiavimą, jis praneša tik siuntėjui.Tai neblokuoja, kad siuntėjas ateityje neišsiųstų jūsų pranešimų. Norėdami blokuoti siuntėją, turite įtraukti siuntėją į blokuojamų siuntėjų sąrašą. Daugiau informacijos [ieškokite Senders (siuntėjų blokavimas) arba siuntėjų atblokavimas Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Sužinokite, kaip [spręsti piktnaudžiavimo, sukčiavimo, arba parodijos "Outlook.com"](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) ir ["Outlook.com" apsaugos "Office 365" prenumeratoriams](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Sužinokite, kaip [elgtis su piktnaudžiavimu, sukčiavimu apsimetant arba apsimetant Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) ir [išplėstinėje Outlook.com "Microsoft 365" prenumeratorių sauga.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)

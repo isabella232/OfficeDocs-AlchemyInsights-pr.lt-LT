@@ -12,18 +12,18 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 4e902ea2e91e6ee44bce9f1a2a94410aab9c05d9
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 5031c6218f8eee9e06e08fc902270ce299f12ed6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195266"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783835"
 ---
 # <a name="invoice-and-payment-information"></a>SF ir mokėjimo informacija
 
 **Mokėjimo**
 
-Kai "Office 365" verslui prenumeratą perkate tiesiogiai iš "Microsoft", galite mokėti kredito arba debeto kortele.  Kai kuriose šalyse / regionuose taip pat galite mokėti banko sąskaita.  Galite išmokti tvarkyti ir šalinti šiuos mokėjimo metodus [iš "Office 365" verslui kredito kortelės arba kitos mokėjimo parinkties įtraukimas, naujinimas arba šalinimas.](https://go.microsoft.com/fwlink/?linkid=2118133)  Tai apima problemų, kai kredito kortelė atmetama, sprendimą ir mokėjimo informacijos atnaujinimą.
+Kai įsigysite "Microsoft 365" verslui prenumeratą tiesiogiai iš "Microsoft", galite mokėti kredito arba debeto kortele.  Kai kuriose šalyse / regionuose taip pat galite mokėti banko sąskaita.  Galite išmokti tvarkyti ir šalinti šiuos mokėjimo metodus [iš "Microsoft 365" verslui kredito kortelės arba kito mokėjimo būdo įtraukimas, naujinimas arba pašalinimas](https://go.microsoft.com/fwlink/?linkid=2118133)iš jos .  Tai apima problemų, kai kredito kortelė atmetama, sprendimą ir mokėjimo informacijos atnaujinimą.
 
 **SĄSKAITA/sąskaita**
 
@@ -33,4 +33,4 @@ Sąskaitas faktūras galite rasti ir atsisiųsti puslapyje **Atsiskaitymo > [są
 
 Sąskaitos faktūros kuriamos kas mėnesį arba kasmet, atsižvelgiant į pirkimo metu pasirinktą mokėjimo dažnumą.  Jei mokate kasmet, galite gauti sąskaitą vidutinės trukmės, kai pridedate arba pašalinate licencijas į prenumeratą.
  
-- Daugiau informacijos rasite ["Office 365" verslui sąskaitos faktūros supratimas](https://go.microsoft.com/fwlink/?linkid=2119101).
+- Daugiau informacijos rasite ["Microsoft 365" verslui sąskaitos faktūros supratimas](https://go.microsoft.com/fwlink/?linkid=2119101).

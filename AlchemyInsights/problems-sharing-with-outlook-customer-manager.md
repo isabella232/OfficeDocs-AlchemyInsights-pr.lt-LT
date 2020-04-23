@@ -1,9 +1,9 @@
 ---
-title: problems-Sharing-with-Outlook-Customer-Manager
+title: problemų pasidalijimas su perspektyvų klientų vadybininkas
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554485"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758834"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Bendrinimas su "Outlook" kliento vadybininkas problemos
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Bendrinimo su "Outlook Customer Manager" problemos
 
-Jei kyla bendrinimo problemų su "Outlook" kliento vadybininkas mes rekomenduojame, kad jūs pirmiausia pabandykite išvalyti naršyklės talpyklą. Pvz., "Internet Explorer" būtų:
+Jei kyla bendrinimo problemų su "Outlook Customer Manager", rekomenduojame pirmiausia pabandyti išvalyti naršyklės talpyklą. Pavyzdžiui, programoje "Internet Explorer" turėtumėte:
 
-1. Eikite į **Parametrai** > **bendrojo** > parametrai dalyje **Naršymo retrospektyva** > **talpyklos ir duomenų bazių**.
-2. Ištrinti talpyklos failus žiniatinklio svetainės "outlookapps.com."
+1. Naršymo **Settings** >  **retrospektyvos** > **talpyklos ir duomenų bazės**eikite į Parametrai**Bendrieji** > Parametrai .
+2. Panaikinkite svetainės "outlookapps.com" talpyklos failus.
 3. Iš naujo paleiskite "Outlook".
 
-Daugiau informacijos apie bendrinimą, ieškokite [dalintis informacija, "Outlook" kliento vadybininkas](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Daugiau informacijos apie bendrinimą [ieškokite Share information in Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

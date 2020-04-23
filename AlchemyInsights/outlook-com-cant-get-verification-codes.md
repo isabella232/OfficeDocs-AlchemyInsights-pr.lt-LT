@@ -1,9 +1,9 @@
 ---
-title: "\"Outlook.com\" negalima gauti patvirtinimo kodus"
+title: Outlook.com negali gauti patvirtinimo kodų
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537703"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760816"
 ---
-# <a name="cant-get-verification-codes"></a>Negaliu gauti patvirtinimo kodų
+# <a name="cant-get-verification-codes"></a>Nepavykstai gauti patvirtinimo kodų
 
-Jei negalite pasiekti savo alternatyvus el. pašto adresas ar telefono numeris, eikite į "Microsoft" paskyros [saugos pagrindai](https://account.microsoft.com/security) puslapyje, pasirinkite **neturiu nė vieno iš šių** prisijungimo puslapyje, ir vykdykite nurodymus, kad pakeisti savo saugos informaciją.
+Jei negalite pasiekti alternatyvaus el. pašto arba telefono numerio, eikite į "Microsoft" paskyros [saugos pagrindų](https://account.microsoft.com/security) puslapį, prisijungimo puslapyje pasirinkite **Neturiu nė vieno iš jų** ir vykdykite nurodymus, kad pakeistumėte saugos informaciją.
 
-*Pastaba:* ["Microsoft" atpažintuvo programėlę](https://go.microsoft.com/fwlink/?linkid=2016117) nereikia interneto ryšio suteikti jums patvirtinimo kodą.
+*Pastaba:* ["Microsoft Authenticator" programėlei](https://go.microsoft.com/fwlink/?linkid=2016117) nereikia interneto ryšio, kad būtų pateiktas patvirtinimo kodas.
 
-Norėdami sužinoti daugiau, perskaitykite ["Microsoft" abonemento saugos informacijos ir patikros kodus](https://support.microsoft.com/help/12428/).
+Norėdami sužinoti daugiau, skaitykite ["Microsoft" paskyros saugos informaciją ir patvirtinimo kodus](https://support.microsoft.com/help/12428/).

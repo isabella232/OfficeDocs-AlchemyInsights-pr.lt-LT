@@ -1,9 +1,9 @@
 ---
-title: 646 kaip sukonfigūruoti AADConnect
+title: 646 Kaip sukonfigūruoti AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541593"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722571"
 ---
-# <a name="configure-sync-features"></a>Konfigūruoti sinchronizavimo funkcijos
+# <a name="configure-sync-features"></a>Sinchronizavimo funkcijų konfigūravimas
 
-Žydros AD jungtis yra kelios funkcijos, yra įjungta pagal numatytuosius nustatymus, arba, kad galite įgalinti vėliau. Kai kurios funkcijos reikalauja papildomos konfigūracijos konkrečių aplinkoje.
+"Azure AD Connect" yra kelios funkcijos, kurios įgalintos pagal numatytuosius nustatymus arba kurias galite įgalinti vėliau. Kai kurioms funkcijoms reikia papildomos konfigūracijos konkrečiose aplinkose.
 
-- [Filtravimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) ribas objektai yra sinchronizuoti su Azure AD. Iš numatytasis, visi vartotojai, kontaktus, grupes ir "Windows 10" sinchronizuojami kompiuterių sąskaitos. Jūs galite įtraukti arba pašalinti objektus, domenai, organizaciniai vienetai ar kiti atributai.
+- [Filtravimo](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) apribojimai objektai sinchronizuojami su Azure AD. Pagal numatytuosius nustatymus sinchronizuojami visi vartotojai, kontaktai, grupės ir "Windows 10" kompiuterių abonementai. Galite įtraukti arba išskirti objektus pagal domenus, ous ar kitus atributus.
 
-- [Slaptažodis maiša sinchronizavimo](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sinchronizuoja slaptažodį maišos iš vietinės Active Directory su Azure AD. Tokiu būdu slapta˛od˛io valdymo vienoje vietoje, bet naudoti tą patį slaptažodį, tiek vietiniame ir debesų kompiuterijos aplinkose. Todėl, kad Active Directory yra patikimas šaltinis, galite naudoti savo slaptažodžio strategijų.
+- [Slaptažodžio maišos sinchronizavimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sinchronizuoja slaptažodžio maišą iš vietinės "Active Directory" į "Azure AD". Tai leidžia valdyti slaptažodžius vienoje vietoje, bet naudoti tą patį slaptažodį tiek vietinėje, tiek debesies aplinkoje. Kadangi "Active Directory" yra patikimas šaltinis, galite naudoti savo slaptažodžių strategijas.
 
-- [Savitarnos slaptažodžio nustatymo iš naujo (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) leidžia vartotojams iš naujo nustatyti savo slaptažodžius debesis dar taikant vietinę slaptažodžių strategija.
+- [Savitarnos slaptažodžio nustatymas iš naujo (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) leidžia vartotojams iš naujo nustatyti savo slaptažodžius debesyje, tačiau vis dar taiko jūsų vietinę slaptažodžio politiką.
 
-- [Įrenginio write-back](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) leidžia registruoti įrenginiai Azure AD įrašomi atgal į vietinės Active Directory, jie gali būti naudojami dėl sąlygine prieiga.
+- [Įrenginio perrašymas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) leidžia registruotus įrenginius Azure AD galima rašyti atgal į vietinę Active Directory, kad jie gali būti naudojami sąlyginės prieigos.
 
-- [Išvengti atsitiktinio panaikina](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) yra įjungta pagal nutylėjimą padeda išvengti per daug vienu metu objektas naikinimus (daugiau kaip 500 objektų už sinchronizavimo). Galite pakeisti šį nustatymą, kad atitiktų jūsų organizacijos poreikius.
+- [Užkirsti kelią atsitiktiniams naikinimams](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) pagal numatytuosius nustatymus įgalinta, kad būtų išvengta per daug vienu metu esančių objektų naikinimų (daugiau nei 500 objektų sinchronizuojant). Šį parametrą galite pakeisti, kad jis atitiktų jūsų organizacijos poreikius.
 
-- [Automatinis atnaujinimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) įgalintas pagal numatytuosius nustatymus aiškaus įrenginiams ir padeda užtikrinti jūsų versija Azure AD Connect visada yra dabartinė.
+- [Automatinis naujinimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) yra įjungtas pagal numatytuosius nustatymus express įrenginių ir padeda užtikrinti, kad jūsų versija Azure AD Connect visada yra dabartinis.

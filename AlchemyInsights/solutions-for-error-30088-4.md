@@ -1,9 +1,9 @@
 ---
-title: Sprendimai dėl klaidos 30088-4
+title: Klaidų sprendimai 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501663"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756891"
 ---
-# <a name="solutions-for-error-30088-4"></a>Sprendimai dėl klaidos 30088-4
+# <a name="solutions-for-error-30088-4"></a>Klaidų sprendimai 30088-4
 
-Pabandykite šiuos problemos sprendimus išspręsti klaida [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Išbandykite šiuos sprendimus, norėdami ištaisyti klaidą [30088-4:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
-- Iš naujo paleiskite kompiuterį ir bandykite [diegti Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Paleiskite kompiuterį iš naujo ir pabandykite [įdiegti "Office".](https://portal.office.com/OLS/MySoftware.aspx)
 
-- Atsisiųskite ir įdiekite [palaikymo ir atkūrimo asistentas](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Atsisiųskite ir įdiekite [palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kai ji atveria, **pašalinti "Office" produktai** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **kitą**.
+1. Kai jis atsidaro, iš **Pašalinti "Office" produktus** pasirinkite versiją, kurią norite pašalinti ir pasirinkite **Pirmyn**.
 
-2. Toliau vyksta per ekranus ir iš naujo paleiskite kompiuterį kai pasirodys.
+2. Toliau eikite per ekranus ir, kai būsite paraginti, iš naujo paleiskite kompiuterį.
 
-    Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai iš naujo atidaro atlikti pašalinimo procesas.
+    Paleidus iš naujo, palaikymo ir atkūrimo asistentas automatiškai atidaromas iš naujo, kad būtų baigtas šalinimo procesas.
 
-3. Atlikite likusius raginimų, ir [iš naujo įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx) arba uždaryti asistentas.
+3. Vykdykite likusius raginimus ir [iš naujo įdiekite "Office"](https://portal.office.com/OLS/MySoftware.aspx) arba uždarykite asistentą.

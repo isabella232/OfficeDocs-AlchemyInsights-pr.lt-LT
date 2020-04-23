@@ -1,24 +1,24 @@
 ---
-title: Paskelbtos SharePoint naujos funkcijos
+title: Paskelbtos "SharePoint" naujos funkcijos
 ms.author: pebaum
 author: pebaum
-ms.date: 9/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 9c766a87b37ecb3dfe5c4cc9d43391eeab227adb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3ad14c42bdca8984c00d44c222dd242f0e00a9ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054025"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767689"
 ---
-# <a name="sharepoint-new-features-announced"></a>Paskelbtos SharePoint naujos funkcijos
+# <a name="sharepoint-new-features-announced"></a>Paskelbtos "SharePoint" naujos funkcijos
 
-Į Ignite 2018 konferencijoje, "Microsoft" paskelbė apie naujas naujoves "SharePoint", įskaitant naujų funkcijų šiuolaikinių portalų, naujų interneto dalių, daug patobulinimų koncentratorius svetainėse, naujienų nuorodą, auditorijos orientacija, prieinamumas naujų mobiliųjų programų, susijusių su Komandos ir daugiau...
+"Ignite 2018" konferencijoje "Microsoft" paskelbė apie naujas "SharePoint" naujoves, įskaitant naujas šiuolaikinių portalų funkcijas, naujas žiniatinklio dalis, daugybę telkinių svetainių patobulinimų, naujienų saitą, tikslinimą auditorijai, naujų mobiliųjų programų pasiekiamumą, ryšį su komandomis ir dar daugiau...
   
-Norėdami gauti daugiau informacijos apie šias funkcijas, žr dienoraštyje [naujų naujovių SharePoint &amp; Microsoft 365 pristatyti galia ir paprastumas turinio bendradarbiavimo.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Daugiau informacijos apie šias funkcijas ieškokite internetinio dienoraščio [įraše Naujos &amp; "SharePoint Microsoft 365" naujovės suteikia turinio bendradarbiavimo galią ir paprastumą.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Jūsų organizacija gali prisijungti prie tikslinės laidos programos, kad ankstyva prieiga prie naujų funkcijų. Peržiūrėkite [nustatyti Standard arba tikslinės laidos parinktys Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Jūsų organizacija gali prisijungti prie tikslinės leidimo programos, kad turėtų išankstinę prieigą prie naujų funkcijų. Žiūrėkite [Standartinio arba tikslinio leidimo parinkčių nustatymas programoje "Microsoft 365".](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365)

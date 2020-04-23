@@ -1,9 +1,9 @@
 ---
-title: Intune Insiders Onboarding
+title: Intune Saviškių onboarding
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1982"
 - "9000348"
-ms.openlocfilehash: a70a7093041bb8851ff729065969f81ebafcaa88
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: cf5262827d3161e6c78450e89d1daea7d6590a24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663592"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763081"
 ---
-# <a name="intune-insiders-onboarding"></a>Intune Insiders Onboarding
+# <a name="intune-insiders-onboarding"></a>Intune Saviškių onboarding
 
-Dėkojame už jūsų susidomėjimą Intune Insiders programa. Norėdami tęsti, naudokite instrukcijas Onboarding Intune Insiders PowerPoint.
+Dėkojame už jūsų susidomėjimą Intune Saviškių programa. Norėdami tęsti, naudokite nurodymus, pateiktus "PowerPoint" "Intune Intune Insiders".

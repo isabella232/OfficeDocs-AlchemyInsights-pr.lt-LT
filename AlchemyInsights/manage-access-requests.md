@@ -1,9 +1,9 @@
 ---
-title: Prieigos užklausų tvarkymas
+title: Prieigos užklausų valdymas
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542504"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721810"
 ---
-# <a name="manage-access-requests"></a>Prieigos užklausų tvarkymas
+# <a name="manage-access-requests"></a>Prieigos užklausų valdymas
 
-Kai vartotojas bando prieiti prie elemento programoje "SharePoint" ir jie neturi teisių, jie matys pranešimą, kad jiems reikia leidimo prieiti prie elemento. Vartotojas gali prašyti prieigos (kai kuriais atvejais, konkretaus elemento arba prisijungti prie grupės) ir svetainės savininkas gali patvirtinti arba atmesti užklausą. Jei kas nors, kas nėra svetainės savininkas, bendrina svetainę su kitu asmeniu, svetainės savininkas taip pat gaus naujojo naudotojo prieigos užklausą. Norėdami patvirtinti arba atmesti prieigos užklausas:
+Kai vartotojas bando pasiekti elementą programoje "SharePoint" ir jis neturi teisių, jis matys pranešimą, kad jiems reikia teisės pasiekti elementą. Vartotojas gali prašyti prieigos (kai kuriais atvejais prie konkretaus elemento arba prisijungti prie grupės) ir svetainės savininkas gali patvirtinti arba atmesti užklausą. Jei asmuo, kuris nėra svetainės savininkas, bendrina svetainę su kitu asmeniu, svetainės savininkas taip pat gaus prieigos užklausą naujam vartotojui. Norėdami patvirtinti arba atmesti prieigos užklausas:
   
-1. Eikite į svetainę, spustelėkite piktogramą parametrai viršutiniame dešiniajame, ir tada spustelėkite **Svetainės parametrai**. (Jei nematote svetainės parametrų, spustelėkite **svetainės teisės**, tada spustelėkite **Išplėstiniai teisių parametrai**. Ieškokite reklamjuostės, kuri turi nuorodą "Rodyti prieigos užklausas ir kvietimus.")
+1. Eikite į svetainę, spustelėkite piktogramą Parametrai viršutiniame dešiniajame kampe, tada spustelėkite **Svetainės parametrai**. (Jei nematote svetainės parametrų, spustelėkite **Svetainės teisės**, tada spustelėkite **Išplėstiniai teisių parametrai**. Ieškokite reklamjuostės, kurioje yra nuoroda "Rodyti prieigos užklausas ir kvietimus")
     
-2. Dalyje **vartotojai ir teisės**spustelėkite **prieigos užklausos ir kvietimai**. (Jei tai nerodoma, nebuvo pateikta prieigos užklausų.)
+2. Dalyje **Vartotojai ir teisės**spustelėkite **Prieigos užklausos ir kvietimai**. (Jei tai nerodoma, nebuvo pateikta jokių prieigos užklausų.)
     
-3. Norėdami vartotojui suteikti leidimą atskirai, spustelėkite **tvirtinti** arba **atmesti**. Norėdami pasirinkti konkretų teisių lygį, pirmiausia spustelėkite elipsė (...) šalia asmens vardo. Arba įtraukite vartotoją į grupę, kuri turi teises į svetainę. Dėl ryšių svetainių ir klasikinių komandos svetainių galite tai padaryti puslapyje Svetainės parametrai. Svetainėms, kurios priklauso "Office 365" grupei, galite įtraukti vartotoją į grupę.
+3. Norėdami suteikti vartotojui teises atskirai, spustelėkite **Patvirtinti** arba **Atmesti**. Norėdami pasirinkti konkretų teisių lygį, pirmiausia spustelėkite daugtaškį (...) šalia asmens vardo. Arba įtraukite vartotoją į grupę, turinčio teisę į svetainę. Ryšių svetainių ir klasikinių komandos svetainių atveju tai galite padaryti puslapyje Svetainės parametrai. Svetainių, kurios priklauso "Office 365" grupei, galite įtraukti vartotoją į grupę.
     
-    [Prieigos užklausų tvarkymas](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Prieigos užklausų valdymas](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Daugiau informacijos apie teisių lygius](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Daugiau informacijos apie teisių rinkinius](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

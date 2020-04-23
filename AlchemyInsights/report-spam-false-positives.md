@@ -1,5 +1,5 @@
 ---
-title: 975 ar norėtumėte pranešti apie šlamštą klaidingai teigiamą "Microsoft"?
+title: 975 Ar norite pranešti apie šlamštas klaidingai teigiamas "Microsoft"?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: a35b7217b28001bbe23fab0d78f855b50c353bc4
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 169d5c276f56f4941de73925e21cc045a65fd0c1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911603"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722710"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Ar norėtumėte "Microsoft" pranešti apie šlamštą klaidingai teigiamą?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Ar norite pranešti apie šlamštą, kuris yra teigiamas "Microsoft"?
 
-Kaip administratorius, geriausias būdas nustatyti, kodėl buvo pristatytas sukčiavimo arba šlamšto pranešimas, yra pateikti pavyzdį bendrovei "Microsoft" [pastabose "Internet Explorer](https://protection.office.com/reportsubmission)". Jei norite, kad ji būtų easer, jūs galite leisti savo vartotojams pranešti tiesiai į "Microsoft" per [pranešimą pranešimas papildinys](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kaip administratorius, geriausias būdas nustatyti, kodėl sukčiavimo apsimetant ar šlamšto pranešimas buvo pristatytas yra pateikti pavyzdį "Microsoft" [pateiktų naršyklėje](https://protection.office.com/reportsubmission). Kad jis būtų pa¹tinęs, galite leisti vartotojams tiesiogiai pranešti "Microsoft" [per ataskaitos pranešimo papildinç](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Patariame atsargiai, jei nusprendžiate [apeiti "Office 365" šlamšto filtrus](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Patariame būti atsargiems, jei nuspręsite [apeiti "Microsoft 365" pašto šiukšlių filtrus](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-**Ar žinote?**: dabar galite pateikti pavyzdžius tiesiogiai iš [pranešimų pėdsakų](https://protection.office.com/messagetrace) ir E5/ATP 2 plano Klientai gali pateikti pavyzdžius iš [grėsmių Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Ar žinote?**: Dabar galite pateikti pavyzdžius tiesiai iš [pranešimų sekimo](https://protection.office.com/messagetrace) ir E5 /ATP planas 2 klientai gali pateikti pavyzdžius iš [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).

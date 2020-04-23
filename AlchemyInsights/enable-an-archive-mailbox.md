@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703687"
+ms.locfileid: "43788674"
 ---
 # <a name="enable-an-archive-mailbox"></a>Archyvo pašto dėžutės įgalinimas
 
-Archyvuokite pašto dėžutes "Office 365" (dar *vadinamose "Online Archives"* arba *"In-Place Archives")* suteikia vartotojams papildomą el. pašto saugyklą. Vartotojai gali perkelti arba kopijuoti elementus į archyvo pašto dėžutę, o administratoriai gali sukurti archyvo strategiją, kuri automatiškai perkelia elementus į archyvo pašto dėžutes.
+Archyvuokite pašto dėžutes "Microsoft 365" (dar *vadinamose "Online Archives"* arba *"In-Place Archives")* suteikia vartotojams papildomą el. pašto saugyklą. Vartotojai gali perkelti arba kopijuoti elementus į archyvo pašto dėžutę, o administratoriai gali sukurti archyvo strategiją, kuri automatiškai perkelia elementus į archyvo pašto dėžutes.
   
 Štai kaip sukurti archyvo pašto dėžutę:
   
