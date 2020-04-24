@@ -1,5 +1,5 @@
 ---
-title: „Office 365“ prenumeratos aktyvinimas
+title: „Microsoft 365“ prenumeratos aktyvinimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191073"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784015"
 ---
-# <a name="activate-your-office-365-subscription"></a>„Office 365“ prenumeratos aktyvinimas
+# <a name="activate-your-subscription"></a>Prenumeratos aktyvinimas
 
 **Prenumeratos aktyvinimas**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191073"
 
 **Prenumeratos aktyvinimas iš naujo**
 
-Jei jūsų prenumeratos galiojimas baigėsi arba ji buvo išjungta „Microsoft“, arba jei atšaukėte prenumeratą įpusėjus jos galiojimo terminui, galite ją suaktyvinti iš naujo „Office 365“ administravimo centre.
+Jei jūsų prenumeratos galiojimas baigėsi arba ji buvo išjungta „Microsoft“, arba jei atšaukėte prenumeratą įpusėjus jos galiojimo terminui, galite ją suaktyvinti iš naujo „Microsoft 365“ administravimo centre.
 
-- „Office 365“ administravimo centre eikite į puslapį [Prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) arba pasirinkite **Atsiskaitymas > Prenumeratos**.
+- „Microsoft 365“ administravimo centre eikite į puslapį [Prenumeratos](https://go.microsoft.com/fwlink/p/?linkid=842054) arba pasirinkite **Atsiskaitymas > Prenumeratos**.
 
 - Pasirinkite prenumeratą, kurią norite aktyvinti iš naujo, tada pasirinkite **Aktyvinti iš naujo**. Jei tarp galimų veiksmų nematote parinkties **Aktyvinti iš naujo**, [kreipkitės į palaikymo tarnybą](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), kad jūsų prenumerata būtų suaktyvinta iš naujo.
 
@@ -42,6 +42,6 @@ Norėdami gauti daugiau informacijos, žr. [Prenumeratos aktyvinimas iš naujo](
 
 **Naujos prenumeratos aktyvinimas naudojant produkto kodą**
 
-- Norėdami suaktyvinti naują "Office 365" prenumeratą naudodami produkto kodą, pradėkite [čia](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Norėdami suaktyvinti naują „Microsoft 365“ prenumeratą naudodami produkto kodą, pradėkite [čia](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Įveskite savo „Office 365“ produkto kodą ir vykdykite nurodymus, kad suaktyvintumėte prenumeratą. Jei kiltų aktyvinimo problemų, peržiūrėkite šį [dažnai pasitaikančių produkto kodo klaidų ir sprendimų sąrašą](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Įveskite savo „Microsoft 365“ produkto kodą ir vykdykite nurodymus, kad suaktyvintumėte prenumeratą. Jei kiltų aktyvinimo problemų, peržiūrėkite šį [dažnai pasitaikančių produkto kodo klaidų ir sprendimų sąrašą](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

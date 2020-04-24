@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707741"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764377"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Kaip nustatyti garso konferencijas „Teams“
 
@@ -42,4 +42,4 @@ Norėdami patikrinti, ar vartotojas yra licencijuotas naudoti garso konferencija
 
 7. Pasirinkite reikiamą vartotoją ir patikrinkite, ar vartotojas turi **numatytąjį mokamą numerį**.
 
-Jei reikia daugiau informacijos, žr. [„Office 365“ skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
+Jei reikia daugiau informacijos, žr. [„Microsoft 365“ skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191108"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789454"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Licencijų perdavimas tarp nuomininkų
 
-Negalima perkelti „Office 365“ licencijų tarp 2 organizacijų (nuomininkų). 
+Negalima perkelti licencijų tarp 2 organizacijų (nuomotojų). 
 
 - Jei daugiau nebenorite naudoti nuomotojo, iš kurio norite perkelti, galite [atšaukti prenumeratą](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) ir [įsigyti naują](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (paskirties) nuomotoją.
 

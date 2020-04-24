@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509509"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788890"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Automatinių atsakymų nustatymas vartotojo pašto dėžutei
 
 **1 būdas**
 
-1. Prisijunkite prie „Office 365“ portalo.
+1. Prisijunkite prie „Microsoft 365“ portalo.
 
 2. Eikite į **Vartotojai > Aktyvūs vartotojai** (arba **Grupės > Bendrinamos pašto dėžutės**, jei nustatote bendrai naudojamai pašto dėžutei).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509509"
 
 **2 būdas**
 
-1. Prisijunkite prie „Office 365“ administravimo portalo naudodami administratoriaus kredencialus.
+1. Prisijunkite prie „Microsoft 365“ administravimo portalo naudodami administratoriaus kredencialus.
 
 2. Išplėskite **Administravimo centrai**, tada spustelėkite **Exchange**.
 

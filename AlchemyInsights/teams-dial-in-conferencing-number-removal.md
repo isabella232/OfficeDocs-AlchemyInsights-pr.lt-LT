@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541742"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789022"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>„Teams“ konferencinio skambinimo numerio šalinimas
 
@@ -24,7 +24,7 @@ Ar jums reikia pagalbos šalinant konferencinio skambinimo numerį iš konferenc
 
 Numatytasis konferencinio tilto telefono numeris apibrėžia skambintojo ID, kuris bus naudojamas siunčiant išeinantį skambutį susitikimo dalyviui arba organizatoriui.
 
-1. Prisijunkite prie „Office 365“ naudodami savo darbo arba mokyklos paskyrą.
+1. Prisijunkite naudodami darbo paskyrą.
 
 2. Eikite į **„Microsoft 365“ administravimo centrą**.
 
