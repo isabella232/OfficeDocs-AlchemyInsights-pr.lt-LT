@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 8b2342c1e4b7311c59ac7b3b6191de223bfc17ae
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 3a6a683e283b524d20da51d074aea417fe569b90
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509294"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799095"
 ---
 # <a name="power-bi-license-management"></a>„Power BI“ licencijų valdymas
 
@@ -26,6 +26,6 @@ ms.locfileid: "43509294"
 
 - Norėdami **priskirti** „Power BI“ licencijas, eikite į **Atsiskaitymas > [Licencijos](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Daugiau informacijos žr. [Licencijų priskyrimas](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide). 
 
-- Norėdami **įtraukti / šalinti** „Power BI“ licencijas, eikite į **Atsiskaitymas > [tarnybų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Daugiau informacijos žr. [Licencijų įtraukimas / šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
+- Norėdami **įtraukti / šalinti** „Power BI“ licencijas, eikite į **Atsiskaitymas > [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, raskite prenumeratą, kurios licencijas norite įtraukti ar šalinti, tada spustelėkite **Įtraukti / šalinti licencijas**.
 
 Daugiau informacijos žr. [ Prenumeratos licencijų tvarkymas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
