@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714410"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911156"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="497c1-102">El. duomenų aptikimo parametrai</span><span class="sxs-lookup"><span data-stu-id="497c1-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="4bba3-102">El. duomenų aptikimo parametrai</span><span class="sxs-lookup"><span data-stu-id="4bba3-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="497c1-103">El. duomenų aptikimo / turinio ieškos leidžia ieškoti, laikyti ir eksportuoti turinį iš "Exchange Online" pašto dėžučių, "SharePoint Online" ir "OneDrive" verslui svetainių, "Skype" verslui pokalbių, "Microsoft Teams" ir "Office 365" grupių.</span><span class="sxs-lookup"><span data-stu-id="497c1-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="4bba3-103">El. duomenų aptikimo / turinio ieškos leidžia ieškoti, laikyti ir eksportuoti turinį iš "Exchange Online" pašto dėžučių, "SharePoint Online" ir "OneDrive" verslui svetainių, "Skype" verslui pokalbių, "Microsoft Teams" ir "Microsoft 365" grupių.</span><span class="sxs-lookup"><span data-stu-id="4bba3-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Microsoft 365 Groups.</span></span>
 
-- <span data-ttu-id="497c1-104">Jei ieškote el. duomenų aptikimo arba turinio ieškos meniu parinkčių, [žr.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)</span><span class="sxs-lookup"><span data-stu-id="497c1-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="497c1-105">Sužinokite apie teises, reikalingas el. duomenų aptikimo ieškai atlikti iš [teisių, reikalingų el. duomenų aptikimo ieškai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="497c1-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="497c1-106">Jei ieška negrąžina laukiamų rezultatų, [žr.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)</span><span class="sxs-lookup"><span data-stu-id="497c1-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="4bba3-104">Jei ieškote el. duomenų aptikimo arba turinio ieškos meniu parinkčių, [žr.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)</span><span class="sxs-lookup"><span data-stu-id="4bba3-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="4bba3-105">Sužinokite apie teises, reikalingas el. duomenų aptikimo ieškai atlikti iš [teisių, reikalingų el. duomenų aptikimo ieškai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="4bba3-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="4bba3-106">Jei ieška negrąžina laukiamų rezultatų, [žr.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)</span><span class="sxs-lookup"><span data-stu-id="4bba3-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="497c1-107">Daugiau informacijos apie el. aptikimą ieškokite [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="497c1-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="4bba3-107">Daugiau informacijos apie el. aptikimą ieškokite [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="4bba3-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
