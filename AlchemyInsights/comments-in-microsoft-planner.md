@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706245"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911228"
 ---
 # <a name="comments-in-microsoft-planner"></a>Komentarai „Microsoft Planner“
 
-Plane esančių užduočių komentarai saugomi „Exchange Online“ pašto dėžutėje skirtoje „Office 365“ grupei susietai su planu.  Jums parašius komentarą apie užduotį, į grupės aplanką Gauta išsiunčiamas el. laiškas, o jūs gausite el. laišką kiekvieną kartą užduotyje atsiradus naujam komentarui.
+Plane esančių užduočių komentarai saugomi „Exchange Online“ pašto dėžutėje, skirtoje „Office 365“ grupei, susietai su planu.  Jums parašius komentarą apie užduotį, į grupės aplanką Gauta išsiunčiamas el. laiškas, o jūs gausite el. laišką kiekvieną kartą užduotyje atsiradus naujam komentarui.
 
 Pateikiame keletą atsakymų apie dažniausiai kylančias problemas, susijusius su komentarais:
 
 - **Vartotojai negauna el. laiškų** – Komentarai siunčiami į grupės aplanką Gauta, tai grupei, kuriai priklauso planas. Jei norite, kad vartotojas gautų grupės el. laiškus, grupė turi būti sukonfigūruota taip, kad grupės pokalbiai būtų siunčiami į nario pašto dėžutę.
 
-- **Komentarai neįrašomi** – Vartotojas, kuris bando pridėti komentarą, neturi leidimo siųsti el. laiškus „Office 365“ grupei. Skaitykite [Kaip veikia „Microsoft Planner“](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736), norėdami gauti daugiau informacijos apie šį scenarijų.
+- **Komentarai neįrašomi** – Vartotojas, kuris bando pridėti komentarą, neturi leidimo siųsti el. laiškus „Microsoft 365“ grupei. Skaitykite [Kaip veikia „Microsoft Planner“](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736), norėdami gauti daugiau informacijos apie šį scenarijų.
 
 - Rodoma klaida **Nebeturite prieigos** arba **Svečiai-vartotojai negali įtraukti komentarų** – Svečiai-vartotojai, kurie negali siųsti el. laiškų į grupės aplanką Gauta, gali matyti šį pranešimą. Norint išspręsti šią problemą, įsitikinkite, kad svečias-vartotojas turi galiojantį el. pašto adresą.
 
