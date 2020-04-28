@@ -1,5 +1,5 @@
 ---
-title: Programa „Office 365“ grupės, kurioje rodoma slaptumo žyma
+title: „Microsoft 365“ grupės su rodoma slaptumo žyma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218199"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911875"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a>Programa „Office 365“ grupės, kurioje rodoma slaptumo žyma
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>„Microsoft 365“ grupės su rodoma slaptumo žyma
 
-Jums gali būti rodoma ši problema naudojant „Office 365 Group“:
+Jums gali būti rodoma ši problema naudojant „Microsoft 365 Group“:
 
-- Nepavyksta sukurti „Office 365“ grupės iš OWA, klaida „Klasifikacijos laukas negali būti tuščias“.
+- Negalima sukurti „Microsoft 365“ grupės iš OWA, klaida „Klasifikacijos laukas negali būti tuščias“.
 
-- Rodoma programos „Office 365“ grupės slaptumo žyma, nors ši funkcija neįgalinta.
+- Rodoma „Microsoft 365“ grupių slaptumo žyma, nors šios funkcijos neįgalinote.
 
-Ši problema buvo aptikta ir išspręsta. Taisymas vykdomas ir turėtų būti baigtas per kelias valandas. O dabar, norėdami sukurti „Office 365“ grupės, naudokite „Office“ administravimo portalą arba „Azure“ administravimo portalą.  
+Ši problema buvo aptikta ir išspręsta. Taisymas vykdomas ir turėtų būti baigtas per kelias valandas. Iki tol, norėdami kurti „Microsoft 365“ grupes, pasinaudokite „Office“ administravimo portalu arba „Azure“ administravimo portalu.  
