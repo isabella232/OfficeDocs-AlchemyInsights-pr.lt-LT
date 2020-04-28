@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721810"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912411"
 ---
 # <a name="manage-access-requests"></a>Prieigos užklausų valdymas
 
@@ -26,7 +26,7 @@ Kai vartotojas bando pasiekti elementą programoje "SharePoint" ir jis neturi te
     
 2. Dalyje **Vartotojai ir teisės**spustelėkite **Prieigos užklausos ir kvietimai**. (Jei tai nerodoma, nebuvo pateikta jokių prieigos užklausų.)
     
-3. Norėdami suteikti vartotojui teises atskirai, spustelėkite **Patvirtinti** arba **Atmesti**. Norėdami pasirinkti konkretų teisių lygį, pirmiausia spustelėkite daugtaškį (...) šalia asmens vardo. Arba įtraukite vartotoją į grupę, turinčio teisę į svetainę. Ryšių svetainių ir klasikinių komandos svetainių atveju tai galite padaryti puslapyje Svetainės parametrai. Svetainių, kurios priklauso "Office 365" grupei, galite įtraukti vartotoją į grupę.
+3. Norėdami suteikti vartotojui teises atskirai, spustelėkite **Patvirtinti** arba **Atmesti**. Norėdami pasirinkti konkretų teisių lygį, pirmiausia spustelėkite daugtaškį (...) šalia asmens vardo. Arba įtraukite vartotoją į grupę, turinčio teisę į svetainę. Ryšių svetainių ir klasikinių komandos svetainių atveju tai galite padaryti puslapyje Svetainės parametrai. Svetainių, kurios priklauso "Microsoft 365" grupei, galite įtraukti vartotoją į grupę.
     
     [Prieigos užklausų valdymas](https://go.microsoft.com/fwlink/?linkid=2008747)
     

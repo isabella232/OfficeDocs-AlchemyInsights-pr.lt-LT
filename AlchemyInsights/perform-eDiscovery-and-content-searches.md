@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764736"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911839"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio ieškas ir el. duomenų aptikimo ieškas
 
-Naudokite saugos & atitikties centro turinio ieškos įrankį, kad greitai rastumėte el. laiškus "Exchange" pašto dėžutėse, "SharePoint" svetainėse ir "OneDrive" abonemente, ir tiesioginių pranešimų pokalbius "Skype" verslui. Turinio ieškos įrankį taip pat galite naudoti ieškodami el. pašto, dokumentų ir tiesioginių pranešimų pokalbių "Microsoft 365" bendradarbiavimo įrankiuose, pvz., "Microsoft Teams" ir "Office 365" grupėse.
+Naudokite saugos & atitikties centro turinio ieškos įrankį, kad greitai rastumėte el. laiškus "Exchange" pašto dėžutėse, "SharePoint" svetainėse ir "OneDrive" abonemente, ir tiesioginių pranešimų pokalbius "Skype" verslui. Turinio ieškos įrankį taip pat galite naudoti ieškodami el. pašto, dokumentų ir tiesioginių pranešimų pokalbių "Microsoft 365" bendradarbiavimo įrankiuose, pvz., "Microsoft Teams" ir "Microsoft 365" grupėse.
 
 **Turinio ieškos atlikimas**
 

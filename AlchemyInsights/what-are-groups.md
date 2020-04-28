@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: fe511850ec82d32be9aa2bc3832ad211c597b33c
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 1679f1b0452314395c5067b326f6b753f9baa84e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959362"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912158"
 ---
 # <a name="what-are-groups"></a>Kas yra grupės?
 
-"Office 365" grupės leidžia pasirinkti žmonių, su kuriais norite bendradarbiauti, rinkinį ir lengvai nustatyti išteklių, kuriuos gali bendrinti žmonės, rinkinį. Jums nereikės rūpintis, kaip neautomatiniu būdu priskirti teises visiems šiems ištekliams, nes įtraukti narių į grupę automatiškai suteikia jiems teises, kurių jiems reikia jūsų grupės suteiktiems įrankiams. Be to, grupės yra nauja ir patobulinta patirtis už tai, ką mes panaudojame naudoti paskirstymo sąrašus arba bendrai naudojamos pašto dėžutės daryti.  Daugiau informacijos rasite [Sužinokite apie "Office 365" grupes](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
+"Microsoft 365" grupės leidžia pasirinkti žmonių, su kuriais norite bendradarbiauti, rinkinį ir lengvai nustatyti išteklių rinkinį, kurį tie žmonės galėtų bendrinti. Jums nereikia jaudintis dėl neautomatinio teisių priskyrimo visiems šiems ištekliams, nes narių įtraukimas į grupę automatiškai suteikia jiems reikalingas teises į jūsų grupės įrankius. Be to, grupės yra nauja ir patobulinta patirtis, ką mes naudojome naudoti siuntimo sąrašus arba bendrai naudojamų pašto dėžučių daryti.  Daugiau informacijos [rasite Sužinokite apie "Microsoft 365" grupes.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 

@@ -1,5 +1,5 @@
 ---
-title: Viršytas dienos el. pašto limitas. Darbo eiga yra sustabdoma.
+title: Viršytas dienos el. pašto limitas. Darbo eiga sustabdyta.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053125"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908712"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Dienos el. pašto limitas viršytas. Darbo eiga yra sustabdoma.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Viršytas dienos el. pašto limitas. Darbo eiga sustabdyta.
 
 Ši klaida gali būti gauta šiais atvejais:
 
-- Jūs turite darbo eigos SharePoint Online, kuris naudoja SharePoint 2010 arba SharePoint 2013 darbo eigos platformos tipas.
-- Darbo eiga sukonfigūruota siųsti pasirinktinį el. laišką daugiau nei 200 vartotojų vienu metu, daugiau nei 10 000 gavėjų per dieną, arba daugiau nei 30 pranešimų per minutę.
-- Paleidus darbo eigą, el. laiškas nesiunčiamas, ir pastebite toliau nurodytą problemą.
-    - Darbo eigos naudojant SharePoint 2013 platformos tipą, galite naršyti į **darbo eigos būsenos** puslapis. Darbo eigos būsenos puslapyje, **Vidinė būsena** yra nustatyta kaip **pradėta**, ir informacijos balionas rodo **negali siųsti gavėjui**.
+- Jūs turite darbo eigos SharePoint Online, kuri naudoja SharePoint 2010 "arba" SharePoint 2013 darbo eigos platformos tipą.
+- Darbo eiga sukonfigūruota siųsti pasirinktinį el. laišką daugiau nei 200 vartotojų vienu metu, daugiau nei 10 000 gavėjų per dieną arba daugiau nei 30 pranešimų per minutę.
+- Kai vykdote darbo eigą, el. laiškas nesiunčiamas ir pastebite tokį veikimą:
+    - Darbo eigos naudojant SharePoint 2013 platformos tipą, galite naršyti **darbo eigos būsenos** puslapyje. Puslapyje Darbo eigos būsena **vidinė būsena** nustatyta kaip **Pradėta**, o informacijos debesėlis rodomas Neįmanoma **siųsti gavėjui**.
 
-Norėdami išspręsti šią problemą, sukonfigūruokite savo darbo eigą siųsti el. laiškus, neviršijant [Exchange Online siuntėjo ribų](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Pvz., naudokite pauzę darbo eigoje, siųskite el. laišką į "Office 365" grupę, paskirstymo grupę arba pašto saugos grupę arba siųskite laišką mažiau nei 200 gavėjams vienu metu.
+Norėdami išspręsti šią problemą, sukonfigūruokite savo darbo eigą siųsti el. laiškus neviršijant [Exchange Online siuntėjo apribojimai](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Pavyzdžiui, naudokite darbo eigos pauzę, siųskite el. laišką į "Microsoft 365" grupę, paskirstymo grupę arba pašto saugos grupę arba siųskite pranešimą mažiau nei 200 gavėjų vienu metu.
 
 
 Daugiau informacijos ieškokite šiame [straipsnyje](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Susijusios temos
-- [Sukurti srautą](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Kurti srautą](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - ["SharePoint" ir srautas](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

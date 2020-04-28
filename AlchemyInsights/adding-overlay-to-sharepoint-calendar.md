@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709415"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908856"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Perdangos įtraukimas į "SharePoint" kalendorių
 
-"SharePoint" kalendoriai yra klasikiniai sąrašų tipai, kartais painiojami su "Office 365" grupės kalendoriais.
+"SharePoint" kalendoriai yra klasikiniai sąrašų tipai, kartais painiojami su "Microsoft 365" grupės kalendoriais.
  
 Jei savo svetainėje naudojate "SharePoint" kalendorių, galite perdengti savo "Exchange" kalendorių, kad sukurtumėte kombinuotą kalendoriaus rodinį. Taip pat galite persidengti kitą SharePoint kalendorių, jei abu SharePoint kalendoriai yra tame pačiame svetainių rinkinyje.
  
