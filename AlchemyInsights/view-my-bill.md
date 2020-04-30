@@ -1,5 +1,5 @@
 ---
-title: Rodyti mano sąskaitą
+title: Peržiūrėti mano sąskaitą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665696"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947743"
 ---
-# <a name="view-my-bill"></a>Rodyti mano sąskaitą
+# <a name="view-my-bill"></a>Peržiūrėti mano sąskaitą
 
-1. "Microsoft" 365 administravimo centro, eikite į **atsiskaitymo** \> [sąskaitos & mokėjimų](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapyje.
+1. "Microsoft 365" administravimo centre eikite į puslapį **Atsiskaitymo** \> [sąskaitos & mokėjimai.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. Išplečiamajame sąraše pasirinkite duomenų diapazoną, ir tada pasirinkti, kad norite Rodyti.
+2. Išplečiamajame sąraše pasirinkite dienų seką, tada pasirinkite tvarką, kurią norite peržiūrėti.
 
-Daugiau informacijos rasite [Rodyti jūsų sąskaita ar sąskaitos-faktūros](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Norėdami išspausdinti sąskaitą, atsisiųskite sąskaitą kaip PDF failą ir spustelėkite **Spausdinti**.
+
+Daugiau informacijos žr. [Sąskaitos arba sąskaitos faktūros peržiūra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
