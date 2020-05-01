@@ -1,5 +1,5 @@
 ---
-title: "\"Teams\" \"Outlook\" papildinys"
+title: "\"Teams Outlook\" papildinis"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158737"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957950"
 ---
-# <a name="teams-outlook-add-in"></a>"Teams" "Outlook" papildinys
+# <a name="teams-outlook-add-in"></a>"Teams Outlook" papildinis
 
-Jei jūsų vartotojai nemato komandos "Outlook" papildinys po to, kai persikeliate į palaikomas komandos naujinimo režimas (TeamsOnly, Sfbwithteamscollabandsusitikimų arba salos), tada papildinys gali nepavyko įkelti tinkamai.  Norėdami išspręsti šią problemą, Peržiūrėkite šį straipsnį: 
+Yra daug veiksnių, dėl kurių jūsų "Teams" papildinys gali nebūti rodomas, ir jie visi išvardyti [čia](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).
 
-- [Kodėl nematau "Microsoft teams" susitikimo priedo, skirto "Outlook"?](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+**Pirmiausia rekomenduojame patikrinti, ar papildinis neišjungtas:**
+
+- Programoje "Outlook" spustelėkite **Failas,** tada **Parinktys**.
+- Dialogo lango **"Outlook" parinktys** skirtuką **Priedai.**
+- Patvirtinkite, kad **"Microsoft Teams" susitikimo papildinys, skirtas "Microsoft Office",** yra sąraše **"Aktyviųjų programų priedai".**
+- Jei "Teams" susitikimo papildinys nurodytas sąraše **Išjungti programos priedai,** dalyje **Tvarkyti** pasirinkite **COM papildiniai,** tada spustelėkite **Eiti...**
+- Nustatykite žymės langelį šalia **Microsoft Teams susitikimo papildinio, skirto "Microsoft Office".**
+- Spustelėkite **Gerai** visuose dialogo languose ir iš naujo paleiskite "Outlook".
