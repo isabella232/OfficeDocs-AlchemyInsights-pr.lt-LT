@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702890"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005338"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Bandomosios versijos išplėtimas "Microsoft 365" verslui
 
-Bandomąją versiją galite pratęsti dar 30 dienų laikotarpiui. Tai galite padaryti tik vieną kartą.
+Bandomąją versiją galite pratęsti 30 dienų laikotarpiui. Po to jūsų teismo eina į papildomą 30 dienų [atidėjimo laikotarpį](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Norėdami išplėsti bandomąją versiją, atlikite šiuos veiksmus:
   
 1. Administravimo centre eikite į **Atsiskaitymo** \> [produktai & paslaugos](https://portal.office.com/adminportal/home#/subscriptions).
 
