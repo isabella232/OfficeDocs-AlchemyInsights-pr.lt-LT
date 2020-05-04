@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218240"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010190"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Pataisymas –  „Šiuo metu jums nepriskirta „Office“ licencija“
 
-Norėdami įdiegti „Office“ kliento programas, įsitikinkite, kad turite „Office 365“ arba „Microsoft 365“ prenumeratą, kuri [apima „Office“ kliento programas](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), pvz., „Office 365 Business Premium“, „Office 365 Business“ arba „Office 365 ProPlus“.
+Norėdami įdiegti „Office“ kliento programas, įsitikinkite, kad turite „Office 365“ arba „Microsoft 365“ prenumeratą, kuri [apima „Office“ kliento programas](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), pvz., „Microsoft 365 Business Premium“, „Microsoft 365“ programas verslui ar „Microsoft 365“ programas įmonėms.
 
 **Pastaba**: [„Office“ namams ir verslui](https://products.office.com/home-and-business) yra [„Office“, skirto namams,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) produktas, o ne verslo prenumeratos dalis. Programoje „Project Online Essentials“ nėra „Project“ kompiuterio versijos, todėl nieko diegti nereikia. Internetinės „Visio“ 1 plano vartotojai gali pasiekti internetinę „Visio“, nes planas neapima „Visio“ kompiuterio taikomosios programos. „Project“ ir „Visio“ kompiuterio programos nėra pasiekiamos „Mac“
 
@@ -32,7 +32,7 @@ Kiekvienas vartotojas turi:
 
 2. Prisijunkite naudodami savo darbo arba mokymo įstaigos paskyrą, kuriai skirta „Office“ licencija.
 
-3. „Office“ skyriuje pasirinkti kalbą. Pasirinkite 32 bitų arba 64 bitų versiją.
+3. „Office“ skyriuje pasirinkite kalbą. Pasirinkite 32 bitų arba 64 bitų versiją.
 
 4. Spustelėkite **Diegti**.
 
