@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 5a1184201e5d9bd58837cb28072da0bf972e16dc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766825"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010577"
 ---
 # <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>"Office" programų taisymas "Jūsų paskyroje rastų produktų aktyvinti" pranešimas
 
@@ -29,8 +29,8 @@ Jei gaunate šį pranešimą, pabandykite atlikti šiuos veiksmus:
 - Paleiskite [Aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy), o tuomet iš naujo paleiskite kompiuterį.
 - Paveiktame kompiuteryje [iš naujo nustatykite "Office" aktyvinimo būseną](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Bendrai naudojamo kompiuterio scenarijų [ieškokite Trikčių šalinimas naudojant bendrai naudojamą kompiuterio aktyvinimą, skirtą "Microsoft 365" programėlėms, skirtai įmonei](https://docs.microsoft.com/deployoffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Bendrai naudojamo kompiuterio scenarijų [ieškokite Trikčių šalinimas naudojant bendrai naudojamą kompiuterio aktyvinimą, skirtą "Microsoft 365" programėlėms, skirtai įmonei](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation).
 
 Daugiau informacijos rasite: 
-- [Prenumeratos pranešimas rodomas, kai atidarau "Microsoft 365" programą](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+- [Atidarius „Microsoft 365“ programą, rodomas prenumeratos pranešimas](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - ["Office" aktyvinimo trikčių šalinimas](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

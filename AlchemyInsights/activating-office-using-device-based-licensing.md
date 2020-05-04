@@ -1,5 +1,5 @@
 ---
-title: "\"Office\" aktyvinimas naudojant įrenginio licencijavimą"
+title: "\"Office\" aktyvinimas naudojant įrenginiu pagrįstą licencijavimą"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d32106ac8f532306ad57c0d87dc294f50ea18fb3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708611"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010325"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>"Office" aktyvinimas naudojant įrenginio licencijavimą
+# <a name="activating-office-using-device-based-licensing"></a>"Office" aktyvinimas naudojant įrenginiu pagrįstą licencijavimą
 
-["Office" įrenginio aktyvinimas](https://aka.ms/officedba) JAV švietimo klientams dabar nebeteikiamas. Raginame organizacijas planuoti naujas "Microsoft 365" programėles įmonėms, pagrįstas įrenginių licencijavimu švietimui.
+> [!NOTE]
+> ["Office" įrenginio aktyvinimas](https://aka.ms/officedba) JAV švietimo klientams dabar nebeteikiamas. Raginame organizacijas planuoti naują "Microsoft 365" švietimo (įrenginio) licenciją švietimo klientams.
 
-Norėdami suaktyvinti "Office" naudodami įrenginių licencijavimą, turite turėti "Microsoft 365" programėlių, skirtų švietimo (įrenginio) priedo licencijai, kuri pasiekiama tik švietimo klientams ir pasiekiama tik naudojant "Education Solutions" (AIS) skirtą registracijos. Žiūrėkite ["Microsoft 365" įmonėms skirto įrenginio licencijavimo naudojimo reikalavimai.](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-office-365-proplus)
+Norėdami suaktyvinti "Office" naudodami įrenginį pagrįstą licencijavimą, turite turėti "Microsoft 365" švietimo (įrenginio) priedo licenciją, kuri pasiekiama tik švietimo klientams ir pasiekiama tik naudojant "Education Solutions" (AIS) registraciją. Žiūrėkite ["Microsoft 365" įmonėms skirto įrenginio licencijavimo naudojimo reikalavimai.](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-**Pastaba:** ["Office" įrenginio aktyvinimas](https://aka.ms/officedba) JAV švietimo klientams dabar nebeteikiamas. Raginame organizacijas planuoti naują **"Office 365 ProPlus" įrenginiu pagrįstą licencijavimą** švietimui.
 
 Išsamesnės informacijos apie nustatymą ieškokite:
 
-- ["Microsoft 365" programėlių, skirtų įmonėms, licencijavimo konfigūravimo veiksmai](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-office-365-proplus)
+- ["Microsoft 365" programėlių, skirtų įmonėms, licencijavimo konfigūravimo veiksmai](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Įrenginių licencijų valdymas](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
 
-Problemų sprendimo rekomendacijos, peržiūrėkite [įrenginių licencijavimo trikčių diagnostika "Microsoft 365" programėlių įmonėms](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-office-365-proplus).
+Trikčių šalinimo rekomendacijos, peržiūrėkite [įrenginio licencijavimo trikčių diagnostika "Microsoft 365" programėlių įmonėms](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).

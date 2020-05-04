@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726256"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010875"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>"Office" diegimo įrankio (ODT) naudojimas
 
@@ -42,4 +42,4 @@ Galite naudoti Office visuotinio diegimo įrankis (ODT) diegti Office 365 versij
 
     **Pastaba:** Šį veiksmą turite atlikti iš kliento kompiuterio, kuriame norite įdiegti "Office", ir tame kompiuteryje turite turėti vietinio administratoriaus teises.
 
-Norėdami sužinoti daugiau apie "Office" diegimo įrankio naudojimą "Microsoft 365" programoms, skirtose įmonės diegimo scenarijams, [žr.](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool) Daugiau informacijos apie tai, kaip naudoti "Office" tinkinimo įrankį, ieškokite ["Office" tinkinimo įrankio apžvalga](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Norėdami sužinoti daugiau apie "Office" diegimo įrankio naudojimą "Microsoft 365" programoms, skirtose įmonės diegimo scenarijams, [žr.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Daugiau informacijos apie tai, kaip naudoti "Office" tinkinimo įrankį, ieškokite ["Office" tinkinimo įrankio apžvalga](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

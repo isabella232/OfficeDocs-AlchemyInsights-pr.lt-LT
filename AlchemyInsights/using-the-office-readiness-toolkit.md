@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 869e00dd187e8bd2bf9c37c8e4574902db3cd6e8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6ead7c1f0e146056c008226c5689b912fd1fdf5
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766393"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010694"
 ---
 # <a name="using-the-office-readiness-toolkit"></a>"Office" pasirengimo įrankių rinkinio naudojimas
 
-Informacijos apie "Office" parengimo įrankių rinkinio naudojimą rasite ["Parengimo įrankių rinkinio naudojimas" programų suderinamumui, skirtam "Microsoft 365" įmonėms, įvertinti](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
+Informacijos apie "Office" parengimo įrankių rinkinio naudojimą rasite ["Microsoft 365 Apps" taikomųjų programų suderinamumo vertinimas](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
 
 Jei turite atsiliepimų ar klausimų apie pasirengimo priemonių rinkinį, rašykite mums adresu ReadyForOffice@microsoft.com.
