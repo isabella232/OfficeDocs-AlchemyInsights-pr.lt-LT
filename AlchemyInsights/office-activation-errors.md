@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713330"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010802"
 ---
 # <a name="office-activation-errors"></a>„Office“ aktyvinimo klaidos
 
-1. **„Office“** ieškokite dalyje **Valdymo skydas > Programos ir funkcijos**. Turėtumėte matyti **„Microsoft Office 365 ProPlus“** arba **„Microsoft Office 365 Business“**. Jei matote daugiau nei vieną „Office“ versiją, išdiekite versiją, kurios nenaudojate. Jei nepavyksta sėkmingai versijos išdiegti naudojant „Valdymo skydą“, naudokite „Palaikymo ir atkūrimo pagalbinę priemonę“ (SaRa), kad [išdiegtumėte](https://aka.ms/SARA-OfficeUninstall-Alchemy) versiją, kurios nenaudojate. Tuomet, paleiskite „Office“ iš naujo ir, jeigu būsite paraginti, prisijunkite naudodami darbo arba mokymo įstaigos paskyrą. 
+1. **„Office“** ieškokite dalyje **Valdymo skydas > Programos ir funkcijos**. Turėtumėte matyti **„Microsoft 365“ įmonėms** arba **„Microsoft 365“ verslui**. Jei matote daugiau nei vieną „Office“ versiją, išdiekite versiją, kurios nenaudojate. Jei nepavyksta sėkmingai versijos išdiegti naudojant „Valdymo skydą“, naudokite „Palaikymo ir atkūrimo pagalbinę priemonę“ (SaRa), kad [išdiegtumėte](https://aka.ms/SARA-OfficeUninstall-Alchemy) versiją, kurios nenaudojate. Tuomet, paleiskite „Office“ iš naujo ir, jeigu būsite paraginti, prisijunkite naudodami darbo arba mokymo įstaigos paskyrą. 
 
 2. Jei rodoma, jog „Office“ vis dar neturi licencijos, grįžkite į **Valdymo skydas > Programos ir funkcijos**, dešiniuoju pelės mygtuku paspauskite likusią įdiegtą „Office“, spustelėkite **Modifikuoti** (arba **Keisti**) ir tuomet spustelėkite **Atkūrimas internete**. Atkūrimas internete gali šiek tiek užtrukti. Tuomet, paleiskite „Office“ iš naujo ir, jeigu būsite paraginti, prisijunkite naudodami darbo arba mokymo įstaigos paskyrą. 
 
