@@ -1,9 +1,9 @@
 ---
-title: Kredito ir sumokėtų sumų grąžinimo
+title: Kreditas / grąžinimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 72b765ddd33d01be03c5dbd44600670fd26e5370
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705309"
 ---
-# <a name="creditrefund"></a>Kredito ir sumokėtų sumų grąžinimo
+# <a name="creditrefund"></a>Kreditas / grąžinimas
 
-**Atšaukimas**
+**Atšaukimo**
   
-Prenumeratos atšaukimas, gausite galutinę SF su kredito mokėjimo dieną kitą atsiskaitymo datą. Tai gali užtrukti iki 30 dienų nuo prenumeratos anuliavimo datos gauti.
+Atšaukę prenumeratą gausite galutinę sąskaitą faktūrą su kreditu kitą atsiskaitymo dieną. Tai gali užtrukti iki 30 dienų nuo prenumeratos atšaukimo dienos.
   
-**Sėdynių keitimas**
+**Sėdynės keitimas**
   
-Kai iš prenumeratos licencijas, dėl šių licencijų nepanaudotą laiką taikomas į kitą sąskaitą kredito. Tai gali užtrukti iki 30 dienų gauti nuo licencijos pašalinamos.
+Kai licencijos pašalinamos iš prenumeratos, nenaudojamas laikas šiose licencijose bus taikomas kaip kitos sąskaitos kreditas. Tai gali užtrukti iki 30 dienų gauti nuo licencijos pašalinimo dienos.
