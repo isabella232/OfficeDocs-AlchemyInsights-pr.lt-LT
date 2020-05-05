@@ -13,15 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: de5cf1992b413080436d8555c9f3b71ef5787bc6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a65a1611c8cd694039009303df4ea3602cfe82f
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763693"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016957"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="6c834-102">Kaip įsigyti "Office 365 Education" planus</span><span class="sxs-lookup"><span data-stu-id="6c834-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="fe069-102">Kaip įsigyti "Office 365 Education" planus</span><span class="sxs-lookup"><span data-stu-id="fe069-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="6c834-103">Mes peržiūrėjome jūsų užklausą ir nustatėme, kad ši organizacija negali būti laikoma "Microsoft" kvalifikuota akademine institucija.</span><span class="sxs-lookup"><span data-stu-id="6c834-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="6c834-104">Dabartiniai akademiniai bandomosios versijos pasiūlymai nustos galioti bandomojo laikotarpio pabaigoje.</span><span class="sxs-lookup"><span data-stu-id="6c834-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="fe069-103">Mes peržiūrėjome jūsų užklausą ir nustatėme, kad ši organizacija negali būti laikoma "Microsoft" kvalifikuota akademine institucija.</span><span class="sxs-lookup"><span data-stu-id="fe069-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="fe069-104">Dabartiniai akademiniai bandomosios versijos pasiūlymai nustos galioti bandomojo laikotarpio pabaigoje.</span><span class="sxs-lookup"><span data-stu-id="fe069-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="6c834-105">Norėdami įsigyti "Office 365" komerciniais tikslais, peržiūrėkite [galimus pasiūlymus](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="6c834-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
+<span data-ttu-id="fe069-105">Norėdami įsigyti "Microsoft 365" komerciniais tikslais, žiūrėkite [galimus pasiūlymus](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="fe069-105">To purchase Microsoft 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
