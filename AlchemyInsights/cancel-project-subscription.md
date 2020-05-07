@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599253"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061642"
 ---
 # <a name="cancel-project-subscription"></a>Atšaukti projekto prenumeratą
 
-Administratoriai gali atšaukti savo organizacijos "Project" prenumeratą iš **"Microsoft 365" administravimo centro**. 
+Administratoriai gali atšaukti savo organizacijos "Project" prenumeratą iš **"Microsoft 365" administravimo centro**.
 
-1. Pasirinkite **atsiskaitymo** parinktį.
+1. Eikite į puslapį **Atsiskaitymo > [jūsų produktai.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Spustelėkite [Produktai & paslaugos,](https://go.microsoft.com/fwlink/p/?linkid=842054) kad peržiūrėtumėte visas organizacijos prenumeratas.
+2. Raskite projekto planą, kurį norite atšaukti.
 
-3. Raskite projekto planą, kurį norite atšaukti.
+3. Spustelėkite **Atšaukti prenumeratą**.
 
-4. Spustelėkite **Atšaukti prenumeratą**.
+**Grąžinimas: bet koks proreitinguotas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.**
 
-**Grąžinimas: bet koks proreitinguotas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.** 
+**Pastaba**: jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir turėtumėte matyti **parinktį Atšaukti prenumeratą** **nustatymuose & Veiksmai**.
 
-**Pastaba**: jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir turėtumėte matyti **parinktį Atšaukti prenumeratą** **nustatymuose & Veiksmai**. 
-
-Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

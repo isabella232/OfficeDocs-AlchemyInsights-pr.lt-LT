@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705093"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062292"
 ---
 # <a name="declined-credit-card"></a>Atmesta kredito kortelė
 
-Jei mokate kreditine kortele ir jūsų kredito kortelė bus atmesta, gausite el. laišką, kuriame bus nurodyta, kad negalėjome apdoroti mokėjimo. Dar kartą patikrinkite, ar [kredito kortelės duomenys](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortelės numeris, galiojimo data, kredito kortelės pavadinimas ir adresas, įskaitant miestą, valtį ir pašto indeksą , rodomi tiksliai taip, kaip jie rodomi kredito kortelėje ir jūsų kredito kortelės išraše. Galite atnaujinti savo kredito kortelės informaciją ir iš karto pateikti mokėjimą naudodami parinktį **Sudengti likutį** puslapyje [Produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Jei mokate kreditine kortele ir jūsų kredito kortelė bus atmesta, gausite el. laišką, kuriame bus nurodyta, kad negalėjome apdoroti mokėjimo. Dar kartą patikrinkite, ar [kredito kortelės duomenys](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortelės numeris, galiojimo data, kredito kortelės pavadinimas ir adresas, įskaitant miestą, valtį ir pašto indeksą , rodomi tiksliai taip, kaip jie rodomi kredito kortelėje ir jūsų kredito kortelės išraše. Galite atnaujinti kredito kortelės informaciją ir iš karto pateikti mokėjimą naudodami puslapio **[Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** parinktį **Sudengti likutį.** 
 
 Norėdami sužinoti daugiau, žiūrėkite "Ką daryti, jei baigėsi mano kredito kortelės galiojimo laikas ir mokėjimas praėjęs?" ["Pay" už "Microsoft 365" verslui prenumeratą](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
