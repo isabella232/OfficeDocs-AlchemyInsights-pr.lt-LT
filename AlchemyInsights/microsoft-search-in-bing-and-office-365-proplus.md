@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762325"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043045"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>„Microsoft“ ieška „Bing“ ir „Microsoft 365“ programos įmonėms
 
-Pradedant nuo „Microsoft 365“ programų įmonėms 2002 m. versijos, „Microsoft“ ieškoje „Bing“ bus diegiamas plėtinys, kuris tik tam tikrose vietovėse įjungs „Bing“ kaip numatytąjį „Google Chrome“ žiniatinklio naršyklės ieškos modulį.
+***Pasirinktinis*** „Microsoft“ ieškos „Bing“ plėtinys, skirtas „Google Chrome“, yra pasiekiamas su „Microsoft 365“ programomis įmonėms (anksčiau vadinta „Office 365 ProPlus“), pradedant nuo 2005 m. versijos. Šis plėtinys pasiekiamas tam tikrose sujungtų domenų įrenginių, kuriuose veikia „Windows“, vietose. Jei nuspręsite įdiegti šį plėtinį, jis nustatys „Bing“ kaip numatytąjį ieškos modulį.
 
-**Jei nenorite, kad plėtinys būtų įdiegtas, [atlikite šiuos veiksmus](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Norėdami įdiegti plėtinį, turite ***pasirinkti jį naudoti*** sukonfigūruodami parametrą „Microsoft 365“ administravimo centro „Microsoft“ ieškos dalyje.
 
-Net po to, kai plėtinys bus įdiegtas, jūsų vartotojai gali patys lengvai nustoti naudoti „Bing“ kaip numatytąjį ieškos modulį, naudodami paprastą [įjungti/išjungti](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) jungiklį arba galite [pašalinti plėtinį](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) iš kelių jūsų organizacijos įrenginių.
+Šio ***pasirinktinio*** plėtinio diegimas taip pat priklauso nuo foninės tarnybos, kuri yra įtraukta į „Microsoft 365“ programas, skirtas įmonėms, pradedant nuo 2005 m. versijos. Jei foninė tarnyba neįdiegta, plėtinys nebus diegiamas.
 
-Pateikiame išsamų žinyno straipsnį, kuris padės jums suprasti daugiau apie šį keitimą, [čia](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Net kai plėtinys įdiegiamas, jūsų vartotojai gali lengvai nustoti naudoti „Bing“ kaip numatytąjį ieškos modulį, naudodamiesi paprastu įjungimo / išjungimo jungikliu.
+
+Daugiau informacijos apie šio ***pasirinktinio*** plėtinio diegimą žr. [„Microsoft“ ieška „Bing“ ir „Microsoft 365“ programos įmonėms](https://docs.microsoft.com/deployoffice/microsoft-search-bing).

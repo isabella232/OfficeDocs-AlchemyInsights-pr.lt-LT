@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 390aba6a8f7ce255548d9cb0edb4b427811a9efa
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160824"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063193"
 ---
 # <a name="payment-declined"></a>Mokėjimas atmestas
 
-"Microsoft" bandys apmokestinti jūsų kortelę kelis kartus per 3-4 savaites po sąskaitos faktūros datos.  Jei gavote tik vieną ar du pranešimus apie šio atsiskaitymo atmetimo laikotarpį, "Microsoft" automatiškai bandys vėl apmokestinti jūsų mokėjimo priemonę.  
+„Microsoft“ keletą kartų per 3–4 savaites po sąskaitos faktūros išrašymo datos bandys nuskaičiuoti mokestį nuo jūsų kortelės.  Jei šį atsiskaitymo laikotarpį gavote tik vieną arba du pranešimus apie atmetimą, „Microsoft“ automatiškai dar kartą bandys nuskaičiuoti mokestį nuo jūsų mokėjimo priemonės.  
 
-**Svarbu:** jei pridėjote naują kortelę ir vis dar gaunate pranešimą apie atsisakymą senoje kredito kortelėje, gali tekti susieti tą naują kortelę su prenumerata.
+**Svarbu**: jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie senosios kredito kortelės atmetimą, naująją kortelę gali reikėti susieti su prenumerata.
 
-1. Eikite į **Atsiskaitymo > [produktai & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Eikite į **Atsiskaitymo > [Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Pasirinkite prenumeratą, kurią norite mokėti naudodami naują kortelę arba banko sąskaitą. Skiltyje **Atsiskaitymas** šalia mokėjimo metodo spustelėkite **Redaguoti**.
+2. Pasirinkite prenumeratą, kurią norite apmokėti naująja kortele arba banko sąskaita. Dalyje **Atsiskaitymas**, šalia mokėjimo būdo, spustelėkite **Redaguoti**.
 
-3. Šalia dabartinio mokėjimo metodo spustelėkite **Keisti.**
+3. Spustelėkite **Keisti** šalia dabartinio mokėjimo būdo.
 
-4. Išskleidžiamajame meniu pasirinkite alternatyvų mokėjimo metodą arba pridėkite naują mokėjimo metodą.
+4. Išplečiamajame meniu pasirinkite alternatyvų mokėjimo būdą arba įtraukite naują mokėjimo būdą.
 
-**Naujo mokėjimo metodo atnaujinimas arba įtraukimas**
+**Mokėjimo būdo atnaujinimas arba naujo įtraukimas**
 
-1. Eikite į puslapį **Atsiskaitymo > sąskaitas & mokėjimai > [mokėjimo metodai.](https://go.microsoft.com/fwlink/p/?linkid=2018806) **
+1. Eikite į puslapį **Atsiskaitymas > Sąskaitos ir mokėjimai > [Mokėjimo būdai](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
-2. Spustelėkite **Pridėti mokėjimo būdą**, pasirinkite kortelę arba banko sąskaitą, kurią norite atnaujinti, ir spustelėkite **Redaguoti**.
+2. Spustelėkite **Įtraukti mokėjimo būdą**, pasirinkite norimą atnaujinti kortelę arba banko sąskaitą ir spustelėkite **Redaguoti**.
 
-3. Atnaujinkite mokėjimo metodo informaciją (kortelės arba banko sąskaitos pavadinimą, atsiskaitymo adresą, telefono numerį arba galiojimo datą), tada spustelėkite **Įrašyti**.
+3. Atnaujinkite mokėjimo būdo informaciją (vardą ir pavardę, nurodytus ant kortelės arba banko sąskaitoje, atsiskaitymo adresą, telefono numerį arba galiojimo pabaigos datą), tada spustelėkite **Įrašyti**.
 
-4. Nepamirškite pakeisti, kaip mokate už prenumeratą (-as) į šį naują mokėjimo metodą. Norėdami gauti daugiau informacijos, žr. [Mokėjimo metodų įtraukimas, atnaujinimas ir pašalinimas](https://go.microsoft.com/fwlink/?linkid=2118133). 
+4. Neužmirškite mokėjimo už prenumeratą (-as) būdo pakeisti į šį naują mokėjimo būdą. Norėdami gauti daugiau informacijos, žr. [Mokėjimo metodų įtraukimas, atnaujinimas ir pašalinimas](https://go.microsoft.com/fwlink/?linkid=2118133).
