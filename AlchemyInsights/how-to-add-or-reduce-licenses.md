@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957842"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063805"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Prenumeratos licencijų pridėjimas arba šalinimas
 
 Štai kaip pridėti / pašalinti licencijas.
   
-1. Eikite į **Atsiskaitymo > [prenumeratos](https://portal.office.com/adminportal/home#/subscriptions)**.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pasirinkite prenumeratą, kurios licencijas norite įtraukti/ pašalinti.
 
@@ -37,7 +37,7 @@ ms.locfileid: "43957842"
 
 Informacijos, kaip priskirti licencijas, [ieškokite Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
- **Išteklių**
+**Išteklių**
   
 - [Prenumeratos licencijų tvarkymas – įsigykite arba pašalinkite](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417728"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061787"
 ---
 # <a name="billing-and-payment"></a>Atsiskaitymas ir mokėjimas
 
@@ -24,7 +24,7 @@ Sąskaitas galima rasti skirtuke **Atsiskaitymo** > [sąskaitos & mokėjimai.](h
 
 **Sąskaitų faktūrų gavimas el. paštu**
 
-Puslapyje **Atsiskaitymo** > [atsiskaitymo pranešimai](https://go.microsoft.com/fwlink/p/?linkid=853212) galite įjungti šią funkciją ir valdyti vartotojus, kurie gaus sąskaitą faktūrą kaip el. laiško priedą. **** Sąskaita faktūra bus išsiųsta vartotojų el. pašto adresais, nurodytais sąraše Perspėjimo gavėjai. Sąraše yra visi atsiskaitymai ir visuotiniai administratoriai.  Galite valdyti, kas gauna sf pranešimus, pakeisdami vaidmenį.  Pašalinus visuotinio arba atsiskaitymo administratoriaus vaidmenį pašalinamas tas vartotojas iš gavėjų sąrašo, o įtraukus visuotinio arba atsiskaitymo administratoriaus vaidmenį vartotojas bus įrašytas į gavėjų sąrašą.
+Puslapyje **Atsiskaitymo** > [atsiskaitymo pranešimai](https://go.microsoft.com/fwlink/p/?linkid=853212) galite įjungti šią funkciją ir valdyti vartotojus, kurie gaus sąskaitą faktūrą kaip el. laiško priedą. **on** Sąskaita faktūra bus išsiųsta vartotojų el. pašto adresais, nurodytais sąraše Perspėjimo gavėjai. Sąraše yra visi atsiskaitymai ir visuotiniai administratoriai.  Galite valdyti, kas gauna sf pranešimus, pakeisdami vaidmenį.  Pašalinus visuotinio arba atsiskaitymo administratoriaus vaidmenį pašalinamas tas vartotojas iš gavėjų sąrašo, o įtraukus visuotinio arba atsiskaitymo administratoriaus vaidmenį vartotojas bus įrašytas į gavėjų sąrašą.
 
 **Pastaba**: gausite du atskirus el. Laiškus: vieną, kuris leidžia jums žinoti, kad jūsų sąskaita yra paruošta, su instrukcijomis, kaip įeiti į administravimo centrą, kad jį peržiūrėtumėte, ir antrą el. Laišką, kuriame yra atsiskaitymo ataskaita kaip priedas.
 
@@ -34,13 +34,13 @@ Jei mokėjimas kredito kortele arba banko sąskaita, mokėjimo būdas, susietas 
 
 Jei pridėjote naują kortelę ir vis dar gaunate pranešimą apie atsisakymą senoje kredito kortelėje, gali tekti susieti tą naują kortelę su prenumerata.
 
-1. Eikite į **Atsiskaitymo** > [produktai & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Eikite į **Atsiskaitymas** > **[Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Pasirinkite prenumeratą, kurią norite mokėti naudodami naują kortelę arba banko sąskaitą. Skiltyje **Atsiskaitymas** šalia mokėjimo metodo spustelėkite **Redaguoti**.
+2. Pasirinkite prenumeratą, kurią norite apmokėti naująja kortele arba banko sąskaita. Dalyje **Atsiskaitymas**, šalia mokėjimo būdo, spustelėkite **Redaguoti**.
 
-3. Šalia dabartinio mokėjimo metodo spustelėkite **Keisti.**
+3. Spustelėkite **Keisti** šalia dabartinio mokėjimo būdo.
 
-4. Išskleidžiamajame meniu pasirinkite alternatyvų mokėjimo metodą arba pridėkite naują mokėjimo metodą.
+4. Išplečiamajame meniu pasirinkite alternatyvų mokėjimo būdą arba įtraukite naują mokėjimo būdą.
 
 Peržiūrėkite [Mokėjimo metodų pridėjimas, atnaujinimas arba pašalinimas](https://go.microsoft.com/fwlink/?linkid=2118133).
 

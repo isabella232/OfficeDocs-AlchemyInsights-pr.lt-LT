@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417707"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063229"
 ---
 # <a name="subscription-status"></a>Prenumeratos būsena
 
-Prenumeratos būseną galima rasti "Microsoft 365" administravimo centro puslapyje Produktai ir paslaugos.
+Prenumeratos būseną galima rasti "Microsoft 365" administravimo centro puslapyje **Jūsų produktai.**
 
-1. Eikite į **Atsiskaitymo** > [produktai & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Eikite į **Atsiskaitymas** > **[Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Jei kyla problemų dėl kurios nors prenumeratos būsenos, šalia prenumeratos matysite raudoną įspėjimo piktogramą arba prenumeratos išsamios informacijos būsenos "galiojimo laikas baigėsi" arba "išjungta".
 
@@ -30,11 +30,11 @@ Prenumeratos būseną galima rasti "Microsoft 365" administravimo centro puslapy
 
 **Galiojimo data**
 
-1. Eikite į **Atsiskaitymo** > [produktai & paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Eikite į **Atsiskaitymas** > **[Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Atsižvelgiant į rodinį, galiojimo data bus rodoma dešiniajame stulpelyje **Data** arba prenumeratos informacijos skyriuje **Atsiskaitymas** šalia **Baigiasi**.
 
 **Licencijas**
 
-Įsigytų ir naudotų licencijų skaičius pateikiamas pagal prenumeratą puslapyje [Produktai & paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+Įsigytų ir naudotų licencijų skaičius pateikiamas pagal prenumeratą **puslapyje Jūsų produktai.**
 
