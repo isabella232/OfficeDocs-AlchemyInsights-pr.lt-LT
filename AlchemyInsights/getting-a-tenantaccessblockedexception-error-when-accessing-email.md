@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708911"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062220"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="ffea4-102">Gaunate TenantAccessBlockedException klaida bandant pasiekti el. pašto?</span><span class="sxs-lookup"><span data-stu-id="ffea4-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="2d6e5-102">Gaunate TenantAccessBlockedException klaida bandant pasiekti el. pašto?</span><span class="sxs-lookup"><span data-stu-id="2d6e5-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="ffea4-103">Yra kelios skirtingos priežastys, kodėl galite gauti šią klaidą.</span><span class="sxs-lookup"><span data-stu-id="ffea4-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="ffea4-104">Pavyzdžiui:</span><span class="sxs-lookup"><span data-stu-id="ffea4-104">For example:</span></span>
+<span data-ttu-id="2d6e5-103">Yra kelios skirtingos priežastys, kodėl galite gauti šią klaidą.</span><span class="sxs-lookup"><span data-stu-id="2d6e5-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="2d6e5-104">Pavyzdžiui:</span><span class="sxs-lookup"><span data-stu-id="2d6e5-104">For example:</span></span>
 
-- <span data-ttu-id="ffea4-105">Patikrinkite, ar jūsų prenumerata galioja "Microsoft 365" administravimo centro puslapyje **Atsiskaitymo** \> [produktai & paslaugos.](https://portal.office.com/adminportal/home#/subscriptions)</span><span class="sxs-lookup"><span data-stu-id="ffea4-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="2d6e5-105">Patikrinkite, ar jūsų prenumerata galioja "Microsoft 365" administravimo centro puslapyje **Atsiskaitymas** \> **[jūsų produktai.](https://portal.office.com/adminportal/home#/subscriptions)**</span><span class="sxs-lookup"><span data-stu-id="2d6e5-105">Verify that your subscription is valid on the **Billing** \> **[Your products](https://portal.office.com/adminportal/home#/subscriptions)** page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="ffea4-106">Patikrinkite, ar nėra pradelstų pranešimų puslapyje **Atsiskaitymo** \> [sąskaitos & mokėjimai,](https://portal.office.com/adminportal/home#/billoverview) esantis "Microsoft 365" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="ffea4-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="2d6e5-106">Patikrinkite, ar nėra pradelstų pranešimų puslapyje **Atsiskaitymo** \> **[sąskaitos & mokėjimai,](https://portal.office.com/adminportal/home#/billoverview)** esantis "Microsoft 365" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="2d6e5-106">Check for any past due notifications on the **Billing** \> **[Bills & payments](https://portal.office.com/adminportal/home#/billoverview)** page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="ffea4-107">Jei paskyros atsiskaitymas ir prenumeratos buvo neseniai atnaujintos, gali praeiti laiko platintiems pakeitimams.</span><span class="sxs-lookup"><span data-stu-id="ffea4-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="ffea4-108">Bandykite dar kartą po kelių minučių, ir jei problema išlieka, susisiekite su mumis.</span><span class="sxs-lookup"><span data-stu-id="ffea4-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="2d6e5-107">Jei paskyros atsiskaitymas ir prenumeratos buvo neseniai atnaujintos, gali praeiti laiko platintiems pakeitimams.</span><span class="sxs-lookup"><span data-stu-id="2d6e5-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="2d6e5-108">Bandykite dar kartą po kelių minučių, ir jei problema išlieka, susisiekite su mumis.</span><span class="sxs-lookup"><span data-stu-id="2d6e5-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
