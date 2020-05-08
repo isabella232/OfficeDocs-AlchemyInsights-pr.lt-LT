@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714158"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063481"
 ---
 # <a name="expired-subscription"></a>Nebegaliojanti prenumerata
 
@@ -26,7 +26,7 @@ Atrodo, kad turite vieną ar daugiau prenumeratų, kurių galiojimo laikas pasib
   
 **Aktyvinti prenumeratą iš naujo**
   
-1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Administravimo centre eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti. Sekcijoje**Atsiskaitymas** pasirinkite**Aktyvinti iš naujo**.
 
@@ -38,7 +38,7 @@ Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://d
 
 **Naujo pirkimo įsigijimas**
   
-1. Administravimo centre eikite į **puslapį Atsiskaitymo** \> [pirkimo paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+1. Administravimo centre eikite į **puslapį Atsiskaitymo** \> **[pirkimo paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 
 2. Pasirinkite prenumeratą, kurią norite pirkti, tada pasirinkite **Pirkti**.
 

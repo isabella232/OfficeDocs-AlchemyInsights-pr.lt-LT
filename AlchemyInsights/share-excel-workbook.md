@@ -1,5 +1,5 @@
 ---
-title: Bendrai naudoti "Excel" darbaknygę
+title: "\"Excel\" darbaknygės bendrinimas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045494"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163789"
 ---
-# <a name="collaborate-on-excel-documents"></a>Bendradarbiauti su "Excel" dokumentais
+# <a name="collaborate-on-excel-documents"></a>Bendradarbiavimas naudojant "Excel" dokumentus
 
-Bendradarbiauti su kolegomis "Excel" dokumentus, naudokite funkciją kelių autorių. Sužinoti apie leidimą ir [Dirbkime kartu apie "Excel" darbaknyges, kurti kartu su vienu metu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)naudojant šią funkciją.
+Norėdami bendradarbiauti su kolegomis naudodami "Excel" dokumentus, naudokite **kūrimo vienu metu funkciją**. 
+
+Sužinokite apie šios funkcijos įgalinimą ir naudojimą, ne tik atsakymų į dažnai užduodamus klausimus apie bendrinimo ir bendro kūrimo scenarijus, bet ir [bendradarbiavimą naudojant "Excel" darbaknyges tuo pačiu metu kartu su redagavimas vienu metu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).

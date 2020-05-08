@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763447"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064093"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kaip iš naujo suaktyvinti ir tvarkyti periodinį atsiskaitymą
 
 Atrodo, kad turite prenumeratos, kurios galiojimo laikas baigėsi. Jei norite jį suaktyvinti iš naujo, štai kaip tai padaryti.
   
-1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Administravimo centre eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti. Skiltyje **Atsiskaitymas** pasirinkite **Iš naujo suaktyvinti**.
 
@@ -36,7 +36,7 @@ Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://d
 
 Jei norite tvarkyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba išjungti **periodinį atsiskaitymą.**
   
-1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Administravimo centre eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pasirinkite prenumeratą, kurios pasikartojančius atsiskaitymus norite valdyti.
 
