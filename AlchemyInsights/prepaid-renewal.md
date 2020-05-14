@@ -14,15 +14,15 @@ ms.custom:
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062905"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Iš anksto apmokėtas "Microsoft 365" atnaujinimas
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Raskite prenumeratą, kurią norite išplėsti. Skiltyje **Atsiskaitymas** pasirinkite **Pratęsti pabaigos datą**.
 

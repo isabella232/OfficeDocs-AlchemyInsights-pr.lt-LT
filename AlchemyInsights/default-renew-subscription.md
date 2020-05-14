@@ -12,10 +12,10 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062256"
 ---
 # <a name="renewing-your-subscription"></a>Prenumeratos atnaujinimas
@@ -26,6 +26,6 @@ Jei iš anksto sumokėsite prenumeratą naudodami produkto kodą, prenumeratos g
 
 Norėdami įjungti periodinį atsiskaitymą: 
 
-1. Eikite į **Atsiskaitymas** > **[Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Eikite į **Atsiskaitymas**  >  **[Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Pasirinkite prenumeratą, kurios periodinį atsiskaitymą norite tvarkyti.
 3. Dalies **Atsiskaitymas**lange **Periodinio atsiskaitymo nustatymai** pasirinkite **Redaguoti** ir atlikti pakeitimus. 

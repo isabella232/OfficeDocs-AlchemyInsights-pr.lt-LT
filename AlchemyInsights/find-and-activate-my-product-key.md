@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062472"
 ---
 # <a name="find-and-activate-my-product-key"></a>Produkto kodo radimas ir aktyvinimas
@@ -32,7 +32,7 @@ Jei įsigijote "Microsoft 365 Business Premium Standard" iš mažmeninės prekyb
 
 **Pastaba:** norint naudoti produkto kodą galiojimo datai pratęsti arba licencijos pridėjimui prie esamos "Microsoft 365 Business Premium Standard" prenumeratos, reikia naujo ir nenaudoto tos pačios "Microsoft 365" prenumeratos rakto.  Pradinio "Microsoft 365" produkto kodo įvedimas neveiks, nes rakto, kuris jau buvo išpirktas, negalima naudoti dar kartą.
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymas už** > **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Administravimo centre eikite į puslapį **Atsiskaitymas**  >  **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Raskite prenumeratą, kuriai norite pratęsti galiojimo datą, arba pridėkite licencijų.  Spustelėkite [išplėsti pabaigos datą](https://go.microsoft.com/fwlink/p/?linkid=842054) arba pridėkite daugiau [licencijų](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

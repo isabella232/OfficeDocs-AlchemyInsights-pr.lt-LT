@@ -14,17 +14,17 @@ ms.custom:
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
 ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44059085"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Atšaukite "Microsoft 365" prenumeratą?
 
 Atsiprašome, kad tave pamatysime!
   
-Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos einamosios prenumeratos turi mažiau nei 25 vietas. Norėdami atšaukti prenumeratą internetu, eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Sekcijoje **Parametrai & Veiksmai** pasirinkite Atšaukti **prenumeratą**.
+Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos einamosios prenumeratos turi mažiau nei 25 vietas. Norėdami atšaukti prenumeratą internetu, eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Sekcijoje **Parametrai & Veiksmai** pasirinkite Atšaukti **prenumeratą**.
   
 **Grąžinimas: bet koks proreitinguotas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.** 
 
