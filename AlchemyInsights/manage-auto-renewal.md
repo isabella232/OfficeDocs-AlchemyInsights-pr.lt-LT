@@ -14,22 +14,22 @@ ms.custom:
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
 ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063841"
 ---
-# <a name="manage-recurring-billing"></a><span data-ttu-id="660a8-102">Periodinio atsiskaitymo tvarkymas</span><span class="sxs-lookup"><span data-stu-id="660a8-102">Manage recurring billing</span></span>
+# <a name="manage-recurring-billing"></a><span data-ttu-id="a2636-102">Periodinio atsiskaitymo tvarkymas</span><span class="sxs-lookup"><span data-stu-id="a2636-102">Manage recurring billing</span></span>
 
-<span data-ttu-id="660a8-103">Periodinį atsiskaitymą galite įjungti arba išjungti "Microsoft 365" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="660a8-103">You can turn recurring billing on or off in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="a2636-103">Periodinį atsiskaitymą galite įjungti arba išjungti "Microsoft 365" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="a2636-103">You can turn recurring billing on or off in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="660a8-104">Administravimo centre eikite į puslapį **Atsiskaitymas už** \> **[produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="660a8-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="a2636-104">Administravimo centre eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="a2636-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="660a8-105">Dalyje **Atsiskaitymas**šalia **Atnaujinimas** įjungtas arba **Baigiasi**, pasirinkite **Redaguoti**.</span><span class="sxs-lookup"><span data-stu-id="660a8-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="a2636-105">Dalyje **Atsiskaitymas**šalia **Atnaujinimas** įjungtas arba **Baigiasi**, pasirinkite **Redaguoti**.</span><span class="sxs-lookup"><span data-stu-id="a2636-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
 
-3. <span data-ttu-id="660a8-106">Srityje **Periodinio atsiskaitymo parametrai** pasirinkite **Išjungti,** kad jį išjungtumėte.</span><span class="sxs-lookup"><span data-stu-id="660a8-106">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="660a8-107">Jei periodinis atsiskaitymas jau išjungtas, pasirinkite **Kas mėnesį** arba **Vieną,** kad jį įjungtumėte.</span><span class="sxs-lookup"><span data-stu-id="660a8-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+3. <span data-ttu-id="a2636-106">Srityje **Periodinio atsiskaitymo parametrai** pasirinkite **Išjungti,** kad jį išjungtumėte.</span><span class="sxs-lookup"><span data-stu-id="a2636-106">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="a2636-107">Jei periodinis atsiskaitymas jau išjungtas, pasirinkite **Kas mėnesį** arba **Vieną,** kad jį įjungtumėte.</span><span class="sxs-lookup"><span data-stu-id="a2636-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-4. <span data-ttu-id="660a8-108">Pasirinkite **Pateikti pakeitimą**.</span><span class="sxs-lookup"><span data-stu-id="660a8-108">Select **Submit change**.</span></span>
+4. <span data-ttu-id="a2636-108">Pasirinkite **Pateikti pakeitimą**.</span><span class="sxs-lookup"><span data-stu-id="a2636-108">Select **Submit change**.</span></span>
 
-<span data-ttu-id="660a8-109">Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="660a8-109">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="a2636-109">Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="a2636-109">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
