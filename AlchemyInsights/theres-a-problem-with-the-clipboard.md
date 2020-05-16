@@ -1,5 +1,5 @@
 ---
-title: Yra problema su į mainų sritį
+title: Kilo problemų dėl mainų srities
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045488"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263885"
 ---
-# <a name="disable-excel-live-preview"></a>Išjungti "Excel" tiesioginę peržiūrą
+# <a name="resolving-excel-clipboard-error"></a>"Excel" mainų srities klaidos sprendimas
 
-Jei gaunate klaidos, sako: "yra problema su į mainų sritį, bet vis dar galite įklijuoti turinį per šią darbaknygę" "Excel", pabandykite išjungti peržiūros realiuoju laiku priemone, atlikite šiuos veiksmus:
+Jei programoje "Excel" gaunate klaidos pranešimą " Iškilo mainų srities problema, bet vis tiek galite įklijuoti turinį šioje darbaknygėje", pabandykite išjungti tiesioginės peržiūros funkciją atlikdami šiuos veiksmus:
 
-1. Programoje "Excel" spustelėkite **failas** > **variantų**.
-3. **"Excel" parinktys** dialogo lange, pasirinkite **bendrosios**.
-4. **Vartotojo sąsajos pasirinktys**išvalykite **Įgalinti Live Preview**.
+1. Programoje "Excel" spustelėkite **Failo**  >  **parinktys**.
+3. Dialogo lange **"Excel" parinktys** pasirinkite **Bendra**.
+4. Dalyje **Vartotojo sąsajos parinktys**išvalykite Įjungti **tiesioginę peržiūrą**.
 5. Spustelėkite **Gerai**.
 6. Iš naujo paleiskite "Excel".
