@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711387"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278828"
 ---
 # <a name="cannot-access-sharepoint"></a>Nepavyksta pasiekti „SharePoint“
-
-**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
 
 Yra kelios priežastys, kodėl „Microsoft SharePoint“ arba „Microsoft OneDrive“ gali būti nepasiekiama. Jei negalite pasiekti „SharePoint Online“, naudokite šį vadovą, kad išspręstumėte šią problemą.
 
