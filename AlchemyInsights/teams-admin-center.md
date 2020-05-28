@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021647"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354096"
 ---
 # <a name="teams-admin-center"></a>„Teams“ administravimo centras
 
@@ -30,4 +30,6 @@ Jei negalite pasiekti „Teams“ administravimo centro, patikrinkite šiuos ele
 Jei vartotojai neatsiranda „Teams“ administravimo centre, patikrinkite šiuos elementus:
 
 - Ar per pastarąsias 24 valandas sukūrėte vartotojus arba licencijas? Prieš atidarydami palaikymo bilietą būtinai palaukite bent 24 valandas.
-- Įsitikinkite, kad priskyrėte reikiamas licencijas? 
+- Įsitikinkite, kad priskyrėte reikiamas licencijas?
+- If you have an on-premise Active Directory, verify that [the value of msRTCSIP-PrimaryUserAddress or the SIP address in the ProxyAddresses field in your local Active Directory is unique and the format matches](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Username** of the user from the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jei ketinate išlaikyti "Skype" Business Server diegimo ir vartotojų homed vietiniame ir internete: **vykdykite "Nustatyti hibridas su komandos ir "Skype" Business Online "Skype"** Business Server valdymo skyde ir perkelti vartotojus internete.
