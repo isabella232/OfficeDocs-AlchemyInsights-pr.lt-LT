@@ -1,5 +1,5 @@
 ---
-title: Valdyti sinchronizuoto vartotojo
+title: Tvarkyti sinchronizuotą vartotoją
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542005"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407358"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Neįmanoma nustatyti pagrindinį el. pašto adresą arba pakeisti vartotojo atributus
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Neįmanoma nustatyti pagrindinio el. pašto adreso, keisti vartotojo atributų arba pašalinti / panaikinti sinchronizuoto vartotojo
 
-Jei katalogų sinchronizavimo yra įjungta jūsų aplinkoje, kai vartotojas ar objekto atributų negalima keisti naudojant "Microsoft" 365 administravimo centro.
+Jei katalogų sinchronizavimas įgalintas jūsų aplinkoje, kai kurių vartotojo arba objekto atributų negalima keisti naudojant "Microsoft 365" administravimo centrą.
 
-Visiškai valdyti sinchronizuota vartotojams ir jų atributus, naudokite savo vietos Aktyvaus katalogo vartotojus ir grupes valdymo pultą (adsiedit.msc).  
+Norėdami visiškai valdyti sinchronizuotus naudotojus ir visus jų atributus, naudokite vietinius active directory naudotojus ir grupių valdymo konsolę (adsiedit.msc).  
 
-Taip pat galite keisti atskirų vartotojų arba atributai sinchronizuota vartotojams naudojant "PowerShell", kaip parodyta šių pavyzdžių: 
-- Rinkinys-MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Rinkinys-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Bandomojo vartotojo" - pavardė "Vartotojas"-pavadinimas "Manager"-skyrius "HR"
-- Pašalinti-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com
+Taip pat galite keisti atskirus vartotojus arba atributus sinchronizuotiems vartotojams naudodami "PowerShell", pvz., parodyta šiuose bendruosiuose pavyzdžiuose: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
