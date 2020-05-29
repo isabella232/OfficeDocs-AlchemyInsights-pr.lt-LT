@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062112"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418044"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Prenumeratos aktyvinimas arba aktyvinimas iš naujo
 
@@ -37,7 +37,7 @@ Jei jūsų prenumeratos galiojimo laikas baigiasi, "Microsoft" ją išjungė arb
 
 2. Pasirinkite prenumeratą, kurią norite aktyvinti iš naujo, tada pasirinkite **Iš naujo suaktyvinti**. Jei tarp galimų veiksmų nematote parinkties **Aktyvinti iš naujo**, [kreipkitės į palaikymo tarnybą](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), kad jūsų prenumerata būtų suaktyvinta iš naujo.
 
-3. Įveskite savo mokėjimo duomenis. Jau [esančią mokėjimo informaciją galite atnaujinti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) čia.
+3. Įveskite savo mokėjimo duomenis. Jau [esančią mokėjimo informaciją galite atnaujinti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) čia.
 
 Norėdami gauti daugiau informacijos, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 

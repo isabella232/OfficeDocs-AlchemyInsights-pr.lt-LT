@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062292"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417612"
 ---
 # <a name="declined-credit-card"></a>Atmesta kredito kortelė
 
@@ -28,4 +28,4 @@ Norėdami sužinoti daugiau, žiūrėkite "Ką daryti, jei baigėsi mano kredito
   
 Jei ir toliau matysite pranešimą "atmesta", kreipkitės į banką. Gali būti, kad jūsų kredito kortelė nėra aktyvi, pvz., jei neseniai gavote kredito kortelę laiške su atnaujinta galiojimo data, vis tiek gali reikėti ją suaktyvinti. Jūsų bankas taip pat gali nurodyti, ar jūsų kredito kortelė nepatvirtinta internetinėms, tarptautinėms ar pasikartojančioms operacijoms.
   
-Daugiau informacijos rasite [Kredito kortelių ir banko sąskaitų trikčių diagnostika](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Daugiau informacijos rasite [Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
