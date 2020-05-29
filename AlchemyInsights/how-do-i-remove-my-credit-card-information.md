@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: dbe971468add6cc7278b5d5aa4511408ae33b296
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709983"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417288"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="fb293-102">Kaip pašalinti kredito kortelės informaciją?</span><span class="sxs-lookup"><span data-stu-id="fb293-102">How do I remove my credit card information?</span></span>
+# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="3fae8-102">Kaip pašalinti kredito kortelės informaciją?</span><span class="sxs-lookup"><span data-stu-id="3fae8-102">How do I remove my credit card information?</span></span>
 
-1. <span data-ttu-id="fb293-103">„Microsoft 365“ administravimo centre eikite į **Atsiskaitymas** \> [Mokėjimo būdų](https://go.microsoft.com/fwlink/p/?linkid=2018806) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="fb293-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="3fae8-103">„Microsoft 365“ administravimo centre eikite į **Atsiskaitymas** \> [Mokėjimo būdų](https://go.microsoft.com/fwlink/p/?linkid=2018806) puslapyje.</span><span class="sxs-lookup"><span data-stu-id="3fae8-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="fb293-104">Puslapyje **Mokėjimo būdai** pasirinkite kredito kortelę arba banko sąskaitą, kurią norite ištrinti.</span><span class="sxs-lookup"><span data-stu-id="fb293-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
+2. <span data-ttu-id="3fae8-104">Puslapyje **Mokėjimo būdai** pasirinkite kredito kortelę arba banko sąskaitą, kurią norite ištrinti.</span><span class="sxs-lookup"><span data-stu-id="3fae8-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
 
-3. <span data-ttu-id="fb293-105">Norėdami pašalinti kredito kortelę arba banko sąskaitą, pasirinkite **Ištrinti mokėjimo būdą.**</span><span class="sxs-lookup"><span data-stu-id="fb293-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
+3. <span data-ttu-id="3fae8-105">Norėdami pašalinti kredito kortelę arba banko sąskaitą, pasirinkite **Ištrinti mokėjimo būdą.**</span><span class="sxs-lookup"><span data-stu-id="3fae8-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="fb293-106">Negalėsite pašalinti kredito kortelės arba banko sąskaitos, jei ji šiuo metu naudojama apmokėti už prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="fb293-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
+> <span data-ttu-id="3fae8-106">Negalėsite pašalinti kredito kortelės arba banko sąskaitos, jei ji šiuo metu naudojama apmokėti už prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="3fae8-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
 
-4. <span data-ttu-id="fb293-107">Srityje **Naikinti mokėjimo metodą** pasirinkite **Naikinti**.</span><span class="sxs-lookup"><span data-stu-id="fb293-107">In the **Delete payment method** pane, select **Delete**.</span></span>
+4. <span data-ttu-id="3fae8-107">Srityje **Naikinti mokėjimo metodą** pasirinkite **Naikinti**.</span><span class="sxs-lookup"><span data-stu-id="3fae8-107">In the **Delete payment method** pane, select **Delete**.</span></span>
 
-<span data-ttu-id="fb293-108">Norėdami sužinoti daugiau, žiūrėkite [Kredito kortelės arba banko sąskaitos įtraukimas, naujinimas arba pašalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="fb293-108">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="3fae8-108">Norėdami sužinoti daugiau, žiūrėkite [Tvarkyti mokėjimo metodus](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="3fae8-108">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
