@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 17dfcdb03e875c05116a3553e3160947a5957938
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709199"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505279"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="f1edb-102">Siųsti el. laišką iš pseudonimo arba antrinio adreso</span><span class="sxs-lookup"><span data-stu-id="f1edb-102">Send email from an alias or secondary address</span></span>
+# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="4d372-102">Siųsti el. laišką iš pseudonimo arba antrinio adreso</span><span class="sxs-lookup"><span data-stu-id="4d372-102">Send email from an alias or secondary address</span></span>
 
-<span data-ttu-id="f1edb-103">"Microsoft 365" šiuo metu nepalaiko el. laiškų siuntimo iš pseudonimo arba antrinio el. pašto adreso.</span><span class="sxs-lookup"><span data-stu-id="f1edb-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="f1edb-104">El. pašto slapyvardžiai gali būti naudojami tik el. laiškams gauti.</span><span class="sxs-lookup"><span data-stu-id="f1edb-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="f1edb-105">Jei norite siųsti el. laiškus iš kito el. pašto adreso, turite sukurti bendrinamą pašto dėžutę.</span><span class="sxs-lookup"><span data-stu-id="f1edb-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="f1edb-106">Bendrinama pašto dėžutė suteiks jums kitą el. pašto adresą, nereikalaujant kitos licencijos.</span><span class="sxs-lookup"><span data-stu-id="f1edb-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
+<span data-ttu-id="4d372-103">"Microsoft 365" šiuo metu nepalaiko el. laiškų siuntimo iš pseudonimo arba antrinio el. pašto adreso.</span><span class="sxs-lookup"><span data-stu-id="4d372-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="4d372-104">El. pašto slapyvardžiai gali būti naudojami tik el. laiškams gauti.</span><span class="sxs-lookup"><span data-stu-id="4d372-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="4d372-105">Jei norite siųsti el. laiškus iš kito el. pašto adreso, turite sukurti bendrinamą pašto dėžutę.</span><span class="sxs-lookup"><span data-stu-id="4d372-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="4d372-106">Bendrinama pašto dėžutė suteiks jums kitą el. pašto adresą, nereikalaujant kitos licencijos.</span><span class="sxs-lookup"><span data-stu-id="4d372-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
   
-- [<span data-ttu-id="f1edb-107">Eikite čia norėdami sukurti bendrinamą pašto dėžutę</span><span class="sxs-lookup"><span data-stu-id="f1edb-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="4d372-107">Eikite čia norėdami sukurti bendrinamą pašto dėžutę</span><span class="sxs-lookup"><span data-stu-id="4d372-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-<span data-ttu-id="f1edb-108">Taip pat galite perskaityti straipsnį [Kurti bendrinamą pašto dėžutę,](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) kuriame bus nurodyta viskas, ką reikia žinoti apie bendrinamas pašto dėžutes, įskaitant tai, kaip jas naudoti.</span><span class="sxs-lookup"><span data-stu-id="f1edb-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="4d372-108">Taip pat galite perskaityti straipsnį [Kurti bendrinamą pašto dėžutę,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) kuriame bus nurodyta viskas, ką reikia žinoti apie bendrinamas pašto dėžutes, įskaitant tai, kaip jas naudoti.</span><span class="sxs-lookup"><span data-stu-id="4d372-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
