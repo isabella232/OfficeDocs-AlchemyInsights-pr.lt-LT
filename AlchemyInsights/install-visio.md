@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765997"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508672"
 ---
 # <a name="install-visio"></a>"Visio" diegimas
 
@@ -25,7 +25,7 @@ ms.locfileid: "43765997"
 
 **Pastaba:**"Visio Online" 1 plane nėra "Visio" darbalaukio versijos, todėl įdiegti neįmanoma.
 
-Jei turite "Visio Online" 2 plano prenumeratą, turite [priskirti licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) vartotojui arba jis neturės galimybės įdiegti "Visio" iš **mano diegimų** [mano abonemento portale](https://portal.office.com/account#installs). 
+Jei turite "Visio Online" 2 plano prenumeratą, turite [priskirti licenciją](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) vartotojui arba jis neturės galimybės įdiegti "Visio" iš **mano diegimų** [mano abonemento portale](https://portal.office.com/account#installs). 
 
 "Visio Standard" arba "Visio Professional" ne bendrojo licencijavimo versijos yra susietos su "Microsoft" abonementais ir negali būti valdomos administravimo centre. Norėdami įdiegti šias versijas, vartotojai turi prisijungti prie [account.microsoft.com](https://account.microsoft.com) su "Microsoft" abonementu, susietu su šia "Visio" versija.
 

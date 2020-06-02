@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44059085"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508276"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Atšaukite "Microsoft 365" prenumeratą?
 
@@ -30,4 +30,4 @@ Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos einamosios pr
 
 **Pastaba**: jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir turėtumėte matyti **parinktį Atšaukti prenumeratą** **nustatymuose & Veiksmai**. 
 
-Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

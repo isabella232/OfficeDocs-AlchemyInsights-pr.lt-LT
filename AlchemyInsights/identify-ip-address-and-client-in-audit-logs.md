@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716396"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508924"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Nustatyti IP adresą ir kliento audito žurnaluose
 
@@ -25,7 +25,7 @@ IP adresas, kuris atitinka "Microsoft 365" vartotojo arba administratoriaus veik
 
 1. Prisijunkite prie ["Microsoft 365" saugos & atitikties centro](https://protection.office.com/).
 
-2. Eikite į **ieškos** > **tikrinimo žurnalo ieškos** puslapį.
+2. Eikite į **Search**  >  **ieškos tikrinimo žurnalo ieškos** puslapį.
 
    Jei jus domina konkreti veikla, pasirinkite ją iš **sąrašo Veikla.** Jei ne, bus grąžintos visos pasirinkto vartotojo veiklos (numatytasis parametras).
 
@@ -35,4 +35,4 @@ IP adresas, kuris atitinka "Microsoft 365" vartotojo arba administratoriaus veik
 
 Rezultatuose rezultatų srityje galite matyti tos veiklos IP adresą. Pasirinkite audito įrašą, kad pamatytumėte išsamią informaciją **iškeliamame** pranešime (pvz., Klientas, Vartotojas, kuris atliko veiksmą ir t. t.).
 
-Daugiau informacijos [ieškokite Kompiuterio, naudojamo norint pasiekti pažeistą abonementą, IP adreso radimas](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Daugiau informacijos [ieškokite Kompiuterio, naudojamo norint pasiekti pažeistą abonementą, IP adreso radimas](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

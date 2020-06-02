@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063553"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509212"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kaip įsigyti "Microsoft 365"
 
@@ -27,7 +27,7 @@ Pirkimai sistemoje "Microsoft 365" gali būti atliekami administravimo centre.
 
 - Norėdami įsigyti papildomų licencijų, eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Pasirinkite prenumeratą, į kurią norite įtraukti licencijų, tada pasirinkite **Įtraukti/šalinti licencijas**.
   
-Norėdami sužinoti daugiau, žiūrėkite ["Microsoft 365" verslui prenumeratos licencijų įsigijimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Norėdami sužinoti daugiau, žiūrėkite ["Microsoft 365" verslui prenumeratos licencijų įsigijimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Trikčių diagnostika**
 
@@ -35,6 +35,6 @@ Jei kilo problemų dėl puslapio įkėlimo, bandykite atidaryti tinklalapį kito
 
 **Papildomi ištekliai**
   
-- [Licencijų priskyrimas vartotojams sistemoje "Microsoft 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licencijų priskyrimas vartotojams sistemoje "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Atšaukti "Microsoft 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Atšaukti "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

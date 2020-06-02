@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742763"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509464"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>El. laiško atšaukimas arba keitimas "Microsoft 365"
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742763"
 
 1. "Outlook" lango kairėje esančioje aplankų srityje pasirinkite aplanką Išsiųsta.
 2. Atidarykite pranešimą, kurį norite atšaukti. Norėdami atidaryti pranešimą, turite dukart spustelėti. Pažymėjus pranešimą, kad jis būtų rodomas skaitymo srityje, pranešimo atšaukti negalima.
-3. Skirtuke Pranešimas pasirinkite **Veiksmai** > **Atšaukti šį pranešimą**.
+3. Skirtuke Pranešimas pasirinkite **Veiksmai**  >  **Atšaukti šį pranešimą**.
 4. Pasirinkite **Naikinti neskaitytas šio pranešimo kopijas** arba **Naikinti neskaitytas kopijas ir pakeiskite nauju pranešimu**, tada pasirinkite **Gerai**.
 5. Jei siunčiate pakaitinį pranešimą, sukurkite pranešimą, tada pasirinkite **Siųsti**.
 6. Pranešimo atšaukimo sėkmė arba nesėkmė priklauso nuo gavėjų parametrų programoje "Outlook".
@@ -39,7 +39,7 @@ Daugiau informacijos, įskaitant tai, kaip patikrinti atšaukimą, rasite [El. l
 
 ***El. laiškų ieška ir naikinimas organizacijoje*** Jei norite ieškoti ir naikinti el. laiškus savo organizacijoje, lengviausia, jei esate visuotinis administratorius. Jei nesate visuotinis administratorius, jūsų abonementas turi būti įtrauktas į el. duomenų aptikimo tvarkytuvo vaidmenų grupę arba į atitikties ieškos valdymo vaidmenį. Norėdami panaikinti pranešimus, turėsite prisijungti prie vaidmenų grupės Organizacijos valdymas arba ieškos ir valymo valdymo vaidmens. Šių vaidmenų teisės priskiriamos [saugos & atitikties centre](https://protection.office.com/).
 
-1. [Sukurkite turinio iešką,](https://docs.microsoft.com/office365/securitycompliance/content-search) kad rastumėte naikintiną pranešimą.
+1. [Sukurkite turinio iešką,](https://docs.microsoft.com/microsoft-365/compliance/content-search) kad rastumėte naikintiną pranešimą.
 2. [Prisijunkite prie saugos & atitikties centro "PowerShell".](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps) 
 
 Jei naudojate DTS, [&](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)žr. 

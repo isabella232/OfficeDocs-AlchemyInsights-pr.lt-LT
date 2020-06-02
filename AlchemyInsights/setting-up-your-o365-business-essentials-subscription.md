@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767797"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509356"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>"O365 Business Essentials" prenumeratos nustatymas
 
@@ -23,11 +23,11 @@ ms.locfileid: "43767797"
     
 - Eikite į ["Microsoft 365" administravimo centrą](https://login.partner.microsoftonline.cn/).
     
-- Norėdami paleisti vedlį, pasirinkite **Eiti į sąranką**. Norėdami sužinoti daugiau, žiūrėkite [Domeno įtraukimas į "Microsoft 365".](https://docs.microsoft.com/office365/admin/setup/add-domain)
+- Norėdami paleisti vedlį, pasirinkite **Eiti į sąranką**. Norėdami sužinoti daugiau, žiūrėkite [Domeno įtraukimas į "Microsoft 365".](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
     
 Importuoti el. paštą
   
-- Perkelkite esamus el. laiškus ir kontaktus iš kitų el. pašto sistemų į "Microsoft 365" pašto dėžutę, kad galėtumėte matyti viską vienoje vietoje. Perkėlimo parinkčių [perkėlimas į "Microsoft 365" – perkelti el. laiškus ir kontaktus į "Microsoft 365".](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)
+- Perkelkite esamus el. laiškus ir kontaktus iš kitų el. pašto sistemų į "Microsoft 365" pašto dėžutę, kad galėtumėte matyti viską vienoje vietoje. Perkėlimo parinkčių [perkėlimas į "Microsoft 365" – perkelti el. laiškus ir kontaktus į "Microsoft 365".](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)
     
 - El. pašto paskyrų prijungimas
     
@@ -41,6 +41,6 @@ Saugoti failus internete
   
 - Norėdami sužinoti, kurios saugojimo vietos geriausiai tinka jūsų įmonei, [žr.](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx) Kiekvienas gauna **"OneDrive"** debesies saugyklos vietą automatiškai, kai sukuriate jiems "Microsoft 365" abonementus. Naudodami "OneDrive" galite pasiekti failus savo kompiuteriuose, telefonuose ir planšetiniuose kompiuteriuose. 
     
-Išsamius sąrankos veiksmus galima rasti [šiame straipsnyje](https://docs.microsoft.com/office365/admin/setup/setup).
+Išsamius sąrankos veiksmus galima rasti [šiame straipsnyje](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

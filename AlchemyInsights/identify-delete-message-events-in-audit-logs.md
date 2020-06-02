@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716504"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508996"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Panaikintų el. laiškų audito žurnalai
 
@@ -33,6 +33,6 @@ Nuo 2019 m. sausio , "Microsoft" įjungia pašto dėžutės audito registravimą
 
 Rezultatuose pasirinkite audito įrašą. Išsamios informacijos iškeliamamejį meniu spustelėkite **Daugiau informacijos**. Papildoma informacija apie panaikintą elementą (pvz., temos eilutė ir elemento vieta, kai jis buvo panaikintas) rodoma lauke **Susijusio Elementai.** **Ypatybė ClientInfoString** bus rodoma, jei naikinimas įvyko programoje "Outlook", "Outlook" žiniatinklyje (anksčiau vadinta "Outlook Web App") ar bet kuriame kitame įrenginyje.
 
-Daugiau informacijos [ieškokite Nustatymas, kas nustato pašto dėžutės el. pašto peradresavimą](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Daugiau informacijos [ieškokite Nustatymas, kas nustato pašto dėžutės el. pašto peradresavimą](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Pastaba:** negalite nuskaityti panaikintų elementų naudodami audito žurnalo funkciją. Norėdami nuskaityti panaikintus pranešimus internetinėje "Outlook", žiūrėkite [Panaikintų elementų atkūrimas "Outlook Web App".](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)

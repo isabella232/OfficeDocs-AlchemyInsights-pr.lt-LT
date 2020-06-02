@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493177"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508384"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatinis klasifikavimas neveikia taip, kaip tikėtasi, su AIP klientu
 
 Automatinė klasifikacija neveikia taip, kaip tikėtasi, naudokite šias rekomenduojamas gaires:
 
-1. Jei kyla problemų dėl automatinio ženklinimo, sužinokite, [kaip konfigūruoti automatinio ir rekomenduojamo "Azure" informacijos apsaugos klasifikavimo ir](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ["What the sensitive information types" slaptumo žymų priskyrimo](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)sąlygas .
+1. Jei kyla problemų dėl automatinio ženklinimo, sužinokite, [kaip konfigūruoti automatinio ir rekomenduojamo "Azure" informacijos apsaugos klasifikavimo ir](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ["What the sensitive information types" slaptumo žymų priskyrimo](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)sąlygas .
 2. Patikrinkite, ar naudojate aprėpties strategijas, kurios nėra tinkamai sukonfigūruotos: [kaip konfigūruoti konkrečių vartotojų Azure informacijos apsaugos strategiją naudojant aprėpties strategijas](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Jei automatinis žymėjimas neveikia programoje "Outlook" pridėdami pažymėtą dokumentą, patikrinkite, ar `DRMEncryptProperty` jis nėra apibrėžtas taip, kaip aprašyta čia: [IRM registro parametrai saugai](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Jei savo "Azure" informacijos apsaugos strategijai naudojote [įtaisytuosius informacijos tipus,](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) patikrinkite, ar jūsų turinys atitinka numatytą formatą.
