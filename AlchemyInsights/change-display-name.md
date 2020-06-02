@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 870b96cf04e69722690cbd50083899e32b6811b1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706979"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506127"
 ---
 # <a name="change-your-display-name"></a>Rodomo vardo keitimas
   
 Norėdami pakeisti rodomą pavadinimą programoje "Outlook", atlikite toliau nurodytus veiksmus.
   
-1. Programoje "Outlook" pasirinkite **Failų** \> **abonemento parametrų** \> **abonemento parametrai**.
+1. Programoje "Outlook" pasirinkite **File** \> **Failų abonemento parametrų** \> **abonemento parametrai**.
 
 2. Pasirinkite el. pašto paskyrą, tada pasirinkite **Keisti**.
 
     > [!NOTE]
-    > Jei nematote parinkties pakeisti rodomą vardą, tikriausiai naudojate "Microsoft Exchange" el. pašto abonementą. Tokiu atveju turite susisiekti su administratoriumi, kad pakeistumėte rodomą vardą. [®r. Vartotojo vardo ir el. pašto adreso keitimas](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Jei nematote parinkties pakeisti rodomą vardą, tikriausiai naudojate "Microsoft Exchange" el. pašto abonementą. Tokiu atveju turite susisiekti su administratoriumi, kad pakeistumėte rodomą vardą. [®r. Vartotojo vardo ir el. pašto adreso keitimas](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Pakeitę rodomą vardą, spustelėkite **Gerai,** kad įrašytumėte pakeitimus. Gali praeiti kelios valandos, kad pakeitimai atsispindėtų visoje organizacijoje.
 

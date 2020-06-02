@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 7d3e3a6f72221b3c9b1ef3dd9d293813bf4b278a
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 247168d6c7973ba45fa3e504791190251ad67eab
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911337"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506091"
 ---
 # <a name="change-the-domain-for-microsoft-365-group"></a>"Microsoft 365 Group" domeno keitimas
 
-Jei norite pakeisti "Microsoft 365" grupės domeną kūrimo metu, atlikite veiksmus, nurodytus [dalyje Pasirinkite domeną, kurį naudosite kurdami "Microsoft 365" grupes](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Jei norite pakeisti "Microsoft 365" grupės domeną kūrimo metu, atlikite veiksmus, nurodytus [dalyje Pasirinkite domeną, kurį naudosite kurdami "Microsoft 365" grupes](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
   
 Sukūrus "Microsoft 365" grupę, šiuo metu nėra jokio būdo keisti domeną. Vienintelis būdas yra sukurti naują "Microsoft 365" grupę ir, jei reikia, panaikinti senąjį (papildomus el. pašto adresus galima pridėti per ["Exchange" administravimo centrą](https://outlook.office365.com/ecp.aspx)).

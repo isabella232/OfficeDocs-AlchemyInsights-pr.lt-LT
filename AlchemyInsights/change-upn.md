@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706457"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506019"
 ---
 # <a name="change-a-users-email-address"></a>Vartotojo el. pašto adreso keitimas
 
 Pakeisti kažkieno elektroninio pašto adresą yra paprasta! Tiesiog atlikite šiuos veiksmus:
   
-1. "Microsoft 365" administravimo centre eikite į puslapį [Vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) arba pasirinkite **Vartotojai** \> **Aktyvūs vartotojai**.
+1. "Microsoft 365" administravimo centre eikite į puslapį [Vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) arba pasirinkite **Users** \> **Vartotojai Aktyvūs vartotojai**.
     
 2. Pasirinkite vartotoją.
     
@@ -38,6 +38,6 @@ Pakeisti kažkieno elektroninio pašto adresą yra paprasta! Tiesiog atlikite š
     
 6. Pasirinkite **Išsaugoti**, tada **Uždaryti**, ir viskas!
     
-Ar gi ne taip paprasta? Norėdami gauti daugiau informacijos ir veiksmų su ekrano kopijomis, peržiūrėkite šį straipsnį: [Pakeiskite vartotojo vardą ir el. Pašto adresą](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Ar gi ne taip paprasta? Norėdami gauti daugiau informacijos ir veiksmų su ekrano kopijomis, peržiūrėkite šį straipsnį: [Pakeiskite vartotojo vardą ir el. Pašto adresą](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

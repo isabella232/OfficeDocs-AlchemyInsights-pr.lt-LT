@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709451"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505551"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Ieškote pirkti naują prenumeratą?
 
@@ -32,8 +32,8 @@ Jei jau turite "Microsoft 365" verslui prenumeratą ir norite įsigyti kitą sav
 
  **Papildomi ištekliai:**
   
-- [Licencijų priskyrimas vartotojams sistemoje "Microsoft 365" verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licencijų priskyrimas vartotojams sistemoje "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Prenumeratos atšaukimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Jei norite perjungti prenumeratas, [žr.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Jei norite perjungti prenumeratas, [žr.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
