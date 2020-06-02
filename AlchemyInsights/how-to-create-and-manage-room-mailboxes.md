@@ -1,5 +1,5 @@
 ---
-title: 614 kaip kurti ir tvarkyti kambarių pašto dėžutes
+title: 614 Kaip sukurti ir valdyti kambario pašto dėžutes
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fb0bdea1d1e2bace748971706ac119976ec9bf69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735613"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495779"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Kaip kurti ir tvarkyti kambarių pašto dėžutes
+# <a name="how-to-create-and-manage-room-mailboxes"></a>Kaip sukurti ir valdyti kambario pašto dėžutes
 
-Norėdami kurti ir modifikuoti kambarių pašto dėžutes, žiūrėkite [kurti ir tvarkyti kambarių pašto dėžutes](https://technet.microsoft.com/library/jj215781.aspx).
+Norėdami kurti ir modifikuoti kambario pašto dėžutes, žiūrėkite [Kambario pašto dėžučių kūrimas ir valdymas](https://technet.microsoft.com/library/jj215781.aspx).
 
-Norėdami daugiau sužinoti apie kambario ir įrangos pašto dėžutes (dar vadinamas išteklių pašto dėžutėmis) [, žr.](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+Norėdami sužinoti daugiau apie vietos ir įrangos pašto dėžutes (dar vadinamas išteklių pašto dėžutėmis), [žr.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
