@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059852"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511444"
 ---
 # <a name="reset-or-change-passwords"></a>Slaptažodžių nustatymas iš naujo arba keitimas
 
-Vartotojas gali pakeisti savo slaptažodį iš **Mano abonementas** > [Saugos & privatumą](https://portal.office.com/account/#security).
+Vartotojas gali pakeisti savo slaptažodį iš **Mano abonementas**Sauga  >  [& privatumą](https://portal.office.com/account/#security).
   
-Jei vartotojas pamiršo slaptažodį, administratorius gali iš naujo nustatyti slaptažodį nuėjęs **vartotojams** > [Aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users), pasirinkite vartotoją (-us) ir spustelėkite Iš naujo nustatyti **slaptažodį**.
+Jei vartotojas pamiršo slaptažodį, administratorius gali iš naujo nustatyti slaptažodį **nuėjęs vartotojams**  >  [Aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users), pasirinkite vartotoją (-us) ir spustelėkite Iš naujo nustatyti **slaptažodį**.
   
-[Spustelėkite čia, jei norite sužinoti daugiau](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)arba leisti vartotojams iš naujo nustatyti savo pamirštus slaptažodžius.
+[Spustelėkite čia, jei norite sužinoti daugiau](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)arba leisti vartotojams iš naujo nustatyti savo pamirštus slaptažodžius.

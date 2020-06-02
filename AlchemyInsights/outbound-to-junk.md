@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761176"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511732"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Siunčiamas el. laiškas į nepageidaujamo el. pašto aplanką
 
 Jei matote, kad siunčiami pranešimai pažymėti kaip nepageidaujamas el. paštas, atlikite šiuos veiksmus:
 
-- Jei to dar nepadarėte, apsvarstykite galimybę [konfigūruoti siunčiamus šlamšto strategijos pranešimus](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Jei to dar nepadarėte, apsvarstykite galimybę [konfigūruoti siunčiamus šlamšto strategijos pranešimus](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Naudokite [pranešimų sekimą,](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) kad sužinotumėte, ar siunčiamas pranešimas turi įvykio reikšmę **Šlamštas** su papildoma informacija: **naudokite didelės rizikos pristatymo telkinį**.
+- Naudokite [pranešimų sekimą,](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) kad sužinotumėte, ar siunčiamas pranešimas turi įvykio reikšmę **Šlamštas** su papildoma informacija: **naudokite didelės rizikos pristatymo telkinį**.
 
   Patikrinkite šių pranešimų turinį, kad sužinotumėte, kas gali būti laikoma pašto šiukšlėmis. Pavyzdžiui, parašai kartais gali sukelti problemų daugeliui vartotojų.
 

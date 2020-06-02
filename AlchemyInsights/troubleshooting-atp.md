@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732410"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512598"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>"Office 365" išplėstinės apsaugos nuo grėsmių trikčių diagnostika
 
-- Ar pastebite pranešimų pristatymo vėlavimą? Naudokite [atsaugaus](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) priedų strategijos parinktį Dinaminis pristatymas. Tai padės išvengti pranešimų delsos apsaugant gavėjus nuo kenkėjiškų failų.
+- Ar pastebite pranešimų pristatymo vėlavimą? Naudokite [atsaugaus](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) priedų strategijos parinktį Dinaminis pristatymas. Tai padės išvengti pranešimų delsos apsaugant gavėjus nuo kenkėjiškų failų.
 
 - Ar norite pranešti "Microsoft" apie klaidingus teigiamus arba klaidingus negatyvus? Naudokite šį [saitą](https://www.microsoft.com/wdsi/filesubmission/) norėdami pateikti analizei failus.
 
