@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059852"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511444"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="49340-102">Slaptažodžių nustatymas iš naujo arba keitimas</span><span class="sxs-lookup"><span data-stu-id="49340-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="0fab3-102">Slaptažodžių nustatymas iš naujo arba keitimas</span><span class="sxs-lookup"><span data-stu-id="0fab3-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="49340-103">Vartotojas gali pakeisti savo slaptažodį iš **Mano abonementas** > [Saugos & privatumą](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="49340-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="0fab3-103">Vartotojas gali pakeisti savo slaptažodį iš **Mano abonementas**Sauga  >  [& privatumą](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="0fab3-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="49340-104">Jei vartotojas pamiršo slaptažodį, administratorius gali iš naujo nustatyti slaptažodį nuėjęs **vartotojams** > [Aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users), pasirinkite vartotoją (-us) ir spustelėkite Iš naujo nustatyti **slaptažodį**.</span><span class="sxs-lookup"><span data-stu-id="49340-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="0fab3-104">Jei vartotojas pamiršo slaptažodį, administratorius gali iš naujo nustatyti slaptažodį **nuėjęs vartotojams**  >  [Aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users), pasirinkite vartotoją (-us) ir spustelėkite Iš naujo nustatyti **slaptažodį**.</span><span class="sxs-lookup"><span data-stu-id="0fab3-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="49340-105">[Spustelėkite čia, jei norite sužinoti daugiau](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)arba leisti vartotojams iš naujo nustatyti savo pamirštus slaptažodžius.</span><span class="sxs-lookup"><span data-stu-id="49340-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="0fab3-105">[Spustelėkite čia, jei norite sužinoti daugiau](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)arba leisti vartotojams iš naujo nustatyti savo pamirštus slaptažodžius.</span><span class="sxs-lookup"><span data-stu-id="0fab3-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
