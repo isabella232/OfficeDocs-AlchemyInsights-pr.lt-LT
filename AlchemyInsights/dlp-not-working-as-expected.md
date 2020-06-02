@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704421"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507486"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP neveikia taip, kaip tikėtasi
 
@@ -36,18 +36,18 @@ Naudojant **įtaisytuosius slaptos informacijos tipus** saugos ir atitikties cen
   
 - **Įtaisytieji slaptos informacijos tipai**
 
-    Informacijos apie įtaisytuosius slaptus tipus ir tai, ko ieško DLP strategija, kai aptinkamas slaptus tipus, žr.: [Ko ieško slaptos informacijos tipai](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Informacijos apie įtaisytuosius slaptus tipus ir tai, ko ieško DLP strategija, kai aptinkamas slaptus tipus, žr.: [Ko ieško slaptos informacijos tipai](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
 - **Pasirinktiniai slaptos informacijos tipai**
 
-    Jei bandote kurti pasirinktinius slaptos informacijos tipus, naudokite šį straipsnį, kad sužinotumėte, kaip sukurti pasirinktinį slaptą tipą: [Pasirinktinio slaptos informacijos tipo kūrimas](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Jei bandote kurti pasirinktinius slaptos informacijos tipus, naudokite šį straipsnį, kad sužinotumėte, kaip sukurti pasirinktinį slaptą tipą: [Pasirinktinio slaptos informacijos tipo kūrimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
 
 **DLP strategijos tikrinimas**
 
-Norėdami patikrinti duomenis naudodami įtaisytąjį arba tinkintą slaptos informacijos tipą, naudokite parinktį **Bandymo tipas** dalyje **Slaptus slaptus informacijos** > **tipus**klasifikavimas . Daugiau informacijos [ieškokite Test custom sensitive information types](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Norėdami patikrinti duomenis naudodami įtaisytąjį arba tinkintą slaptos informacijos tipą, naudokite parinktį **Bandymo tipas** dalyje **Slaptus slaptus informacijos**tipus klasifikavimas  >  **Sensitive info types**. Daugiau informacijos [ieškokite Test custom sensitive information types](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Ataskaitos**
   
-- Gaukite slaptis duomenų įžvalgas naudodami [DLP ataskaitas.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Gaukite slaptis duomenų įžvalgas naudodami [DLP ataskaitas.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Peržiūrėkite konkrečią įvykio informaciją su [incidento ataskaita](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Peržiūrėkite konkrečią įvykio informaciją su [incidento ataskaita](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).

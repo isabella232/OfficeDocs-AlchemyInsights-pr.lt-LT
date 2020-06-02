@@ -11,18 +11,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049813"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507666"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Bendrai naudojamos pašto dėžutės kūrimas ir naudojimas
+# <a name="create-and-use-a-shared-mailbox"></a>Bendrinamos pašto dėžutės kūrimas ir naudojimas
 
-Bendrinama pašto dėžutė leidžia daugiau nei vienam asmeniui siųsti ir gauti el. laišką pseudonimo, pvz., sales@contoso.com, nepriskiriant kitos licencijos.
+Bendrinama pašto dėžutė leidžia daugiau nei vienam asmeniui siųsti ir gauti el. laiškus pseudomajam, pvz., sales@contoso.com, nepriskiriant kitos licencijos.
   
-- [Atlikite šiuos veiksmus](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Microsoft 365 administravimo centro pradėti. 
+- [Norėdami](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) pradėti, atlikite šiuos veiksmus "Microsoft 365" administravimo centre. 
 
-Taip pat galite perskaityti straipsnį [bendrai naudojamos pašto dėžutės kūrimas](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , kuris nurodys jums viską, ką reikia žinoti apie bendrai naudojamas pašto dėžutes, įskaitant tai, kaip jomis naudotis.
+Taip pat galite perskaityti straipsnį [Kurti bendrinamą pašto dėžutę,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) kuriame bus nurodyta viskas, ką reikia žinoti apie bendrinamas pašto dėžutes, įskaitant tai, kaip jas naudoti.
   

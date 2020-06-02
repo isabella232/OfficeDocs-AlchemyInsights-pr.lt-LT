@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788674"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507034"
 ---
 # <a name="enable-an-archive-mailbox"></a>Archyvo pašto dėžutės įgalinimas
 
@@ -23,11 +23,11 @@ Archyvuokite pašto dėžutes "Microsoft 365" (dar *vadinamose "Online Archives"
   
 Štai kaip sukurti archyvo pašto dėžutę:
   
-1. Eikite [https://protection.office.com](https://protection.office.com)į .
+1. Eikite į [https://protection.office.com](https://protection.office.com) .
 
 2. Prisijunkite prie "Microsoft 365" naudodami administratoriaus abonementą.
 
-3. Saugos &amp; atitikties centro kairiojoje srityje pasirinkite **Informacijos valdymo** \> **archyvas**.
+3. Saugos atitikties centro kairiojoje srityje &amp; pasirinkite **Informacijos valdymo** \> **archyvas**.
 
 4. Pasirinkite vartotoją, kurio archyvo pašto dėžutę norite įgalinti.
 
@@ -43,7 +43,7 @@ Norėdami įgalinti bendrai naudojamos pašto dėžutės archyvą:
 
 1. Eikite į ["Exchange" administravimo centrą](https://outlook.office365.com/ecp) ir prisijunkite naudodami administratoriaus abonementą.
 
-2. Eikite į**Bendrai naudojami** **gavėjai** > .
+2. Eikite **Recipients**į  >  **Bendrai naudojami**gavėjai .
 
 3. Pasirinkite bendrinamą pašto dėžutę.
 
@@ -51,6 +51,6 @@ Norėdami įgalinti bendrai naudojamos pašto dėžutės archyvą:
 
 Daugiau informacijos rasite:
   
-- [Įgalinti archyvo pašto dėžutes](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Įgalinti archyvo pašto dėžutes](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Archyvo ir naikinimo strategijos nustatymas](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

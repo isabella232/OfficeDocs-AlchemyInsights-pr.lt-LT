@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010262"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507594"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>"Microsoft 365" programėlių, skirtų bendrai naudoti RDS, terminalų serveryje arba VDI, diegimas
 
@@ -38,9 +38,9 @@ Norėdami ištaisyti klaidas, susijusias su kompiuterio aktyvinimu:
 
 Jei norite įdiegti "Microsoft 365" programėlių įmonėms RDS iš "Microsoft 365" administravimo centro, ***kuris naudoja numatytuosius diegimo parametrus***, atlikite šiuos veiksmus:
 
-1.    Patikrinkite, kokią prenumeratą turite. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Jei reikia, perjunkite į kitą prenumeratą. [Sužinokite, kaip](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Jei "Office" jau įdiegtas RDS serveryje naudojant kitas "Microsoft" prenumeratas, pašalinkite ją. Pavyzdžiui, eikite į **Valdymo skydas** > **Pašalinti programą**. Pašalinkite naudodami ["Microsoft" palaikymo ir atkūrimo pagalbinę priemonę,](https://aka.ms/SARA-OfficeUninstall-Alchemy) jei kyla problemų.
+1.    Patikrinkite, kokią prenumeratą turite. [Sužinokite, kaip](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Jei reikia, perjunkite į kitą prenumeratą. [Sužinokite, kaip](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Jei "Office" jau įdiegtas RDS serveryje naudojant kitas "Microsoft" prenumeratas, pašalinkite ją. Pavyzdžiui, eikite į **Valdymo skydas**  >  **Pašalinti programą**. Pašalinkite naudodami ["Microsoft" palaikymo ir atkūrimo pagalbinę priemonę,](https://aka.ms/SARA-OfficeUninstall-Alchemy) jei kyla problemų.
 4.    RDS serveryje prisijunkite prie "Microsoft 365" administravimo centro naudodami administratoriaus abonementą ir [įdiekite "Microsoft 365 Apps for enterprise".](https://portal.office.com/OLS/MySoftware.aspx)
 5.    Įdiegę "Office", ***neatidarykite ir neprisijunkite prie*** jokių "Office" taikomųjų programų.
 6.    RDS serveryje, įgalinti bendro naudojimo kompiuterio aktyvinimo redaguodami registrą, atlikite šiuos veiksmus:

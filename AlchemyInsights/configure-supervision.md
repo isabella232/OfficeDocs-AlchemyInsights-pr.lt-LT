@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705921"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507774"
 ---
 # <a name="configure-supervision-policies"></a>Priežiūros strategijų konfigūravimas
 
@@ -29,5 +29,5 @@ Norėdami naudoti priežiūros strategijas savo organizacijoje, turite:
 
 sužinoti daugiau, sužinok daugiau:
 
-- [Priežiūros politikos apžvalga](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Priežiūros strategijų konfigūravimas](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Priežiūros politikos apžvalga](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Priežiūros strategijų konfigūravimas](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
