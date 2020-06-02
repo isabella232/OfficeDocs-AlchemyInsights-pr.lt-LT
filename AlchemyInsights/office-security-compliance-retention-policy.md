@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761310"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510976"
 ---
 # <a name="more-info-about-retention-policies"></a>Daugiau informacijos apie saugojimo strategijas
 
@@ -27,15 +27,15 @@ Daugumai organizacijų jų duomenų apimtis ir sudėtingumas didėja kasdien - e
 ## <a name="a-from-security-and-compliance-center"></a>A) Iš saugos ir atitikties centro
 
 - Eikite į Saugos ir atitikties > duomenų valdymas > saugojimas
-  - Žiūrėti [šį](https://docs.microsoft.com/office365/securitycompliance/retention-policies) straipsnį
+  - Žiūrėti [šį](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) straipsnį
 
 - Eiti į Saugos ir atitikties > el. duomenų aptikimo> išplėstinis el. duomenų aptikimas 
-  - Žiūrėti [šį](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) straipsnį
+  - Žiūrėti [šį](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) straipsnį
 
 - Eikite į Saugos ir atitikties > priskyrimo > saugojimas
   - Peržiūrėkite šiuos straipsnius
-    - [Jautrumo etiketės](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Etikečių apžvalga](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Jautrumo etiketės](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Etikečių apžvalga](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) Senstelėjusios įrangos el. duomenų aptikimo strategijos
 
