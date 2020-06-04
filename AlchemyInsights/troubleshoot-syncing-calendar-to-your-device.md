@@ -1,5 +1,5 @@
 ---
-title: 3800017 šalinti triktis sinchronizuoti kalendoriaus į savo prietaisą
+title: 3800017 Kalendoriaus sinchronizavimo su įrenginiu trikčių diagnostika
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665804"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Šalinti triktis, sinchronizuoti savo kalendorių su jūsų įrenginiu
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Kalendoriaus sinchronizavimo su įrenginiu trikčių diagnostika
 
-Jei jums kyla sinchronizavimo problemų nustatydami savo mobilųjį laišką pirmą kartą, matyti [negalite sinchronizuoti kalendoriaus ir kontaktų su savo telefone ar planšetiniame kompiuteryje](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Jei pirmą kartą nustatydami mobilųjį el. paštą kyla sinchronizavimo problemų, [žr.](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
   

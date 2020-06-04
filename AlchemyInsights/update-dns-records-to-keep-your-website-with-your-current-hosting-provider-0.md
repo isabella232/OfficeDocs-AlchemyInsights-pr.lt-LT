@@ -1,5 +1,5 @@
 ---
-title: Atnaujinti DNS įrašus laikyti savo svetainę su jūsų prieglobos paslaugų teikėjas
+title: Atnaujinkite DNS įrašus, kad jūsų svetainė būtų išsaugota su dabartiniu išteklių nuomos teikėju
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665768"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atnaujinti DNS įrašus laikyti savo svetainę su jūsų prieglobos paslaugų teikėjas
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atnaujinkite DNS įrašus, kad jūsų svetainė būtų išsaugota su dabartiniu išteklių nuomos teikėju
 
-1. "Microsoft" 365 administravimo centro, eikite į **nustatymas** > [domenai](https://portal.office.com/adminportal/home#/Domains) puslapio ir domenų sąrašą, pasirinkite domeno, jūs naudojate savo svetainę.
+1. "Microsoft 365" administravimo centre eikite į puslapį **Sąrankos**  >  [domenai](https://portal.office.com/adminportal/home#/Domains) ir domenų sąraše pasirinkite domeną, kurį naudojate savo svetainei.
 
-2. Pasirinkite **+ naują vartotojo įrašą** ir įveskite šiuos veiksmus:
+2. Pasirinkite **+ Naujas pasirinktinis įrašas** ir įveskite:
 
-  - **DNS** tipo įveskite: **(adresas)**
+  - **DNS tipui** įveskite: **A (adresas)**
 
-  - **Pagrindinio kompiuterio vardą arba pseudonimą**, įveskite:**@**
+  - Pagrindinio **kompiuterio vardą arba pseudonimą**įveskite:**@**
 
-  - **IP adresą**, įveskite statinį IP adresą į savo svetainę, kur ji šiuo metu yra Patalpinta (pavyzdžiui, 172.16.140.1).
+  - **IP adresui**įveskite svetainės, kurioje šiuo metu nuomojama, statinį IP adresą (pvz., 172.16.140.1).
 
-    Tai turi būti svetainės, ne *dinaminis* IP adresas yra *statinis* IP adresas. Teiraukitės svetainę kur jūsų svetainė hosted įsitikinkite, kad jums yra Statinis IP adresas, jūsų viešąją žiniatinklio svetainę.
+    Tai turi būti *statinis* IP adresas svetainėje, o ne *dinaminis* IP adresas. Pasitarkite su svetaine, kurioje nuomojama jūsų svetainė, kad įsitikintumėte, jog galite gauti statinį viešosios žiniatinklio svetainės IP adresą.
 
-3. Pasirinkite **įrašyti**.
+3. Pasirinkite **I¹saugoti**.
 
-Be to, sukuriate CNAME įrašą, padėti klientams surasti jūsų svetainę.
+Be to, galite sukurti CNAME įrašą, kad padėtumėte klientams rasti jūsų svetainę.
   
-1. Pasirinkite **+ naują vartotojo įrašą** ir įveskite šiuos veiksmus:
+1. Pasirinkite **+ Naujas pasirinktinis įrašas** ir įveskite:
 
-  - **DNS** tipo įveskite: **CNAME (pseudonimas)**
+  - **DNS tipui** įveskite: **CNAME (pseudonimas)**
 
-  - **Pagrindinio kompiuterio vardą arba pseudonimą**, įveskite: **www**
+  - Pagrindinio **kompiuterio vardą arba pseudonimą**įveskite: **www**
 
-  - **Atkreipia dėmesį į adresą**, įrašykite visiškai apibrėžtą domeno vardą (FQDN) į savo svetainę (pvz.,.: contoso.com).
+  - Jei **norite, kad nukreipia adresu**, įveskite visiškai apibrėžtą domeno vardą (FQDN) savo svetainei (pvz., contoso.com).
 
-2. Pasirinkite **įrašyti**.
+2. Pasirinkite **I¹saugoti**.

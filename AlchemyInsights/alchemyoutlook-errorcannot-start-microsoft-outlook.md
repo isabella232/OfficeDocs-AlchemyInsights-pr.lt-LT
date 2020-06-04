@@ -1,5 +1,5 @@
 ---
-title: Alchemija - "Outlook" klaidos "negalima paleisti Microsoft Outlook"
+title: Alchemija - "Outlook" klaida "Nepavyksta paleisti Microsoft Outlook"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,18 +13,18 @@ ms.custom:
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
 ms.openlocfilehash: f17ff5ccd11ca5769885f10a596cde85677ba5a3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36664544"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>"Outlook" klaida: "Nepavyksta paleisti Microsoft Outlook"
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook klaida: "Nepavyksta paleisti Microsoft Outlook"
 
-Jums iškilo problemų, pradedant "Outlook" 2016, "Outlook" 2013 arba "Outlook 2010", arba gavimas "negalima paleisti Microsoft Outlook. "Nepavyksta atidaryti" Outlook "lango" klaidų pranešimai?
+Kyla problemų paleidžiant "Outlook 2016", "Outlook 2013" arba "Outlook 2010" arba gaunate "Nepavyksta paleisti "Microsoft Outlook". Nepavyksta atidaryti "Outlook" lango" klaidų pranešimų?
   
-Pirma, naudokite trikčių šalinimo veiksmus [šiame](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) straipsnyje siekiant išspręsti šiuos paleisties problemas. 
+Pirmiausia atlikite [šiame straipsnyje](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) nurodytus trikčių šalinimo veiksmus, kad išspręstumėte šias paleisties problemas. 
   
-Taip pat [Išplėstinė diagnostikos įrankį](https://aka.ms/SaRA-OutlookAdvDiagnostics) į pažeistą mašiną. 
+Taip pat galite paleisti [įrankį Išplėstinė diagnostika](https://aka.ms/SaRA-OutlookAdvDiagnostics) paveiktame kompiuteryje. 
   
 

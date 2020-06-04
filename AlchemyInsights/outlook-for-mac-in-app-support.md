@@ -1,5 +1,5 @@
 ---
-title: 1800009 "Outlook", skirta "Mac"-App palaikymas
+title: 1800009 "Outlook for Mac" palaikymas programoje
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
 ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "37035763"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>In-App parama programoje "Outlook", skirta "Mac"
+# <a name="in-app-support-in-outlook-for-mac"></a>"Outlook for Mac" palaikymas programėlėje
 
-Norėdami gauti palaikymą programėlėje, skirta "Outlook", skirta "Mac" problemoms, atidarykite "Outlook" ir spustelėkite **Žinynas** \> **kreipkitės į palaikymo tarnybą**. Įveskite savo klausimą, ir "Outlook for Mac" palaikymo komandos narys susisieksime su jumis. 
+Norėdami gauti palaikymo programėlėje, skirtą "Outlook **Help** for Mac" problemoms, atidarykite "Outlook" ir spustelėkite \> **Žinyno kontaktų palaikymo tarnyba**. Įveskite klausimą, o "Outlook for Mac" palaikymo komandos narys susisieks su jumis. 
 
-Sužinokite daugiau: [kreipkitės į palaikymo tarnybą "Outlook", skirta "Mac"](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Sužinokite daugiau: [Susisiekite su palaikymo tarnyba programoje "Outlook for Mac"](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

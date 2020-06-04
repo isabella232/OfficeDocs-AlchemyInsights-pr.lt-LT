@@ -1,5 +1,5 @@
 ---
-title: Pateikti PowerApps arba Flow "Microsoft" palaikymo užklausos
+title: "\"PowerApps\" arba \"Microsoft Flow\" palaikymo užklausų pateikimas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559489"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Pateikti PowerApps arba Flow "Microsoft" palaikymo užklausos
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>"PowerApps" arba "Microsoft Flow" palaikymo užklausų pateikimas
 
-Jei esate **PowerApps** ar **"Microsoft" srauto** klientų prašome pateikti bilietą per naują [energijos platforma administravimo centrą](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Naujasis portalas suteikia daugiau Tiesaus kelio į palaikymo, optimizuotą PowerApps ir kitų galios platforma.
+Jei esate **"PowerApps"** arba **"Microsoft Flow"** klientas, pateikite bilietą per naują [maitinimo platformos administravimo centrą](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Naujasis portalas suteikia daugiau tiesioginio kelio į palaikomą palaikymą, optimizuotą "PowerApps" ir kitiems "Power Platform" produktams.
 
-[Pateikti palaikymo užklausą "Microsoft" Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Pateikti "Microsoft Flow" palaikymo užklausą](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
