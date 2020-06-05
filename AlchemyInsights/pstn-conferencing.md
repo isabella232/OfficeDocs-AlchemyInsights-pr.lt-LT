@@ -12,18 +12,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4a5f95a1f21c5c78c80088145632d37cb9acb6d5
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: e7492d024667509e3766b4fd2569518d54ed5767
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316903"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581455"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN skambučiai naudojant "Skype" verslui internete
+# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN skambinimas naudojant "Skype" verslui internete
 
-Kad PSTN skambučiai Office 365, jums reikia [Office 365 skambinimo planą](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) arba ryšį su savo vietinėje PSTN telefonijos infrastruktūra. Daugiau informacijos rasite šiuose šaltiniuose: 
+Norint skambinti PSTN sistemoje "Microsoft 365", reikia ["Microsoft 365" skambinimo plano](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) arba ryšio su vietine PSTN telefonijos infrastruktūra. Jei norite gauti daugiau informacijos, peržiūrėkite šiuos išteklius: 
 
-- [Garso konferencijų ir skambinimo planų pasiekiamumas šalies ir regiono šalyse](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Garso konferencijų dažniausiai užduodami klausimai](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Įtraukite lėšų ir valdykite ryšių kreditus](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN skambintuvai negali prisijungti prie "Skype" verslo telefono konferencinio skambučio](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Garso konferencijų ir skambinimo planų šalių ir regionų pasiekiamumas](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Dažniausiai užduodami klausimai apie garso konferencijas](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Pridėti lėšų ir valdyti ryšių kreditus](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [PSTN skambinant negalite prisijungti prie "Skype" verslui konferencinio skambučio](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

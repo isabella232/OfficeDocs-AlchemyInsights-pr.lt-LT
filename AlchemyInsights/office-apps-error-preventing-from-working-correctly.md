@@ -1,5 +1,5 @@
 ---
-title: 'Office apps klaida: App buvo paleisti į klaida, kuri neleidžia tinkamai veikia'
+title: "\"Microsoft 365\" programėlės Klaida: programėlė įvyko klaida, kuri neleidžia tinkamai veikti"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886545"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576820"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office apps klaida: App buvo paleisti į klaida, kuri neleidžia tinkamai veikia
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>"Microsoft 365" programėlių klaida: programėlė įvyko klaida, kuri neleidžia tinkamai veikti
 
-Norėdami išspręsti šią klaidą, išbandykite toliau nurodytas parinktis.
+Norėdami išspręsti šią klaidą, išbandykite šias parinktis:
 
-- Patikrinkite arba [įdiekite naujausius](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5) "Office" naujinimus
-- Ištirkite galimas [problemas su priedais](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID=HA104114659&CorrelationId=98329f6f-f51f-4f44-a876-4142c3583312#bkmk_addins) , įdiegtu "Office"
-- [Taisyti "Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) " naudojant valdymo skydą
-- [Pašalinti](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) ir iš naujo įdiegti Office
+- Naujausių "Office" [naujinimų](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5) tikrinimas arba diegimas
+- Galimų problemų, susijusių su "Office" [įdiegtais priedais,](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID=HA104114659&CorrelationId=98329f6f-f51f-4f44-a876-4142c3583312#bkmk_addins) šalinimas
+- ["Office" taisymas](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) naudojant valdymo skydą
+- ["Office" šalinimas](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) ir diegimas iš naujo
 
-**Pastaba:** Jei problema iškyla dėl konkrečių dokumentų, šie dokumentai gali būti sugadinti. Sužinokite [, kaip šalinti sugadintų dokumentų triktis](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
+**Pastaba:** Jei problema iškyla dėl konkrečių dokumentų, šie dokumentai gali būti sugadinti. [Sužinokite, kaip šalinti sugadintų dokumentų triktis](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Daugiau informacijos žr. 
+Daugiau informacijos rasite: 
 
-- [Klaida atidarant "Microsoft Office" programėles](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
-- [Gaunu "nustojo veikti" klaida, kai aš paleisti Office programas į savo kompiuterį](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Šalinti triktis, kylančias paleidus arba naudojant "Office Apps"](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Klaida atidarant "Microsoft Microsoft 365" programėles](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Gaunu klaidą "nustojo veikti", kai kompiuteryje paleisiu "Office" taikomąsias programas](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Trikčių šalinimas, kai paleidžiate arba naudojate "Microsoft 365" programėles](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

@@ -1,9 +1,9 @@
 ---
-title: Teisių paveldimumas
+title: Teisių paveldėjimas
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 791085593433dcad9b800fdea8c7ea4a878604e7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36554960"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581059"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kaip teisės paveldimumas veikia "SharePoint"
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kaip teisių paveldėjimas veikia "SharePoint"
 
-Pagal numatytuosius nustatymus "SharePoint" teisės paveldimos aukštesniu hierarchijos atveju. Taigi failas paveldi savo teises iš aplanko, kuris paveldi savo teises iš bibliotekos, kuri paveldi savo teises iš svetainės, kuri paveldi savo teises iš svetainių rinkinio.
+Pagal numatytuosius nustatymus "SharePoint" teisės hierarchijoje paveldimos iš aukštesnio lygio. Taigi failas paveldi savo teises iš aplanko, kuris paveldi jo teises iš bibliotekos, kuri paveldi jo teises iš svetainės, kuri paveldi savo teises iš svetainių rinkinio.
   
-Informacijos apie unikalių teisių pašalinimą ir paveldėjimo atkūrimą rasite [sąrašo arba bibliotekos teisių redagavimas ir tvarkymas](https://go.microsoft.com/fwlink/?linkid=869946).
+Informacijos apie unikalių teisių šalinimą ir paveldimo turto atkūrimą [ieškokite Sąrašo arba bibliotekos teisių redagavimas ir tvarkymas](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

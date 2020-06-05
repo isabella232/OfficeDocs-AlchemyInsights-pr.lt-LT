@@ -1,22 +1,22 @@
 ---
-title: Teisių problemos pereinant
+title: Teisių problemos perkeliant
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: a9e0746327dd092d6232a43d12e354a3a64c11be
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e337cad7b1015711f53960d6a1832fd38519e14f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054458"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582603"
 ---
-# <a name="permissions-issues-while-migrating"></a>Teisių problemos, kai perkėlimas
+# <a name="permissions-issues-while-migrating"></a>Teisių problemos perkeliant
 
-Jei norite gauti informacijos apie bendrąsias teisių problemas perkeliant į SharePoint Online, žiūrėkite [suprasti teises ir SharePoint perkėlimo įrankį.](https://go.microsoft.com/fwlink/?linkid=2019753)
+Informacijos apie bendrąsias teisių problemas perkėlimo į "SharePoint Online" metu [ieškokite Teisių supratimas ir "SharePoint" perkėlimo įrankis.](https://go.microsoft.com/fwlink/?linkid=2019753)
   
 
