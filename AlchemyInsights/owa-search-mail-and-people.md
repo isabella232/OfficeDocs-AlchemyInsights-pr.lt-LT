@@ -1,9 +1,9 @@
 ---
-title: 8000003 paieškos paštas ir žmonės programoje "Outlook" žiniatinklyje
+title: 8000003 Ieškos paštas ir žmonės programoje "Outlook" žiniatinklyje
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 1b4cde0ccfce5c1607c57a5fab4253c7923b6b0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09a7db3224011f3268a655d6b56a7dfe699dd34f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556177"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581955"
 ---
-# <a name="search-mail-and-people-on-outlook-on-the-web"></a><span data-ttu-id="d26eb-102">Ieškoti el. pašte ir žmonių, "Outlook" žiniatinklyje</span><span class="sxs-lookup"><span data-stu-id="d26eb-102">Search Mail and People on Outlook on the Web</span></span>
+# <a name="search-mail-and-people-on-outlook-on-the-web"></a><span data-ttu-id="b38e4-102">Pašto ir žmonių ieška internetinėje programoje "Outlook"</span><span class="sxs-lookup"><span data-stu-id="b38e4-102">Search Mail and People on Outlook on the Web</span></span>
 
-1. <span data-ttu-id="d26eb-103">Į į</span><span class="sxs-lookup"><span data-stu-id="d26eb-103">In the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- <span data-ttu-id="d26eb-104">Puslapio viršuje esančiame **ieškos** lauke įveskite, ką norite ieškoti (kontaktai, siųsti temą arba pranešimo dalis) ir paspauskite Enter.</span><span class="sxs-lookup"><span data-stu-id="d26eb-104">**Search** box at the top of the page, type what you want to search for (a contact, email subject, or part of a message) and press Enter.</span></span>
+1. <span data-ttu-id="b38e4-103">Į</span><span class="sxs-lookup"><span data-stu-id="b38e4-103">In the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ <span data-ttu-id="b38e4-104">**Puslapio** viršuje esančiame ieškos lauke įveskite, ko norite ieškoti (kontaktą, el. pašto temą arba pranešimo dalį) ir paspauskite "Enter".</span><span class="sxs-lookup"><span data-stu-id="b38e4-104">**Search** box at the top of the page, type what you want to search for (a contact, email subject, or part of a message) and press Enter.</span></span>
 
-2. <span data-ttu-id="d26eb-105">Kai baigsite su paiešką, pasirinkite rodyklę atgal</span><span class="sxs-lookup"><span data-stu-id="d26eb-105">When you're done with the search, select the back arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> <span data-ttu-id="d26eb-106">į **paieškos** langelį arba pasirinkite bet kurį aplanką kairiojoje srityje į iešką.</span><span class="sxs-lookup"><span data-stu-id="d26eb-106">in the **Search** box or select any folder in the left pane to exit the search.</span></span>
+2. <span data-ttu-id="b38e4-105">Baigę paiešką, pasirinkite rodyklę atgal</span><span class="sxs-lookup"><span data-stu-id="b38e4-105">When you're done with the search, select the back arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> <span data-ttu-id="b38e4-106">lauke **Ieška** arba pasirinkite bet kurį aplanką kairiojoje srityje, kad išeitumėte iš ieškos.</span><span class="sxs-lookup"><span data-stu-id="b38e4-106">in the **Search** box or select any folder in the left pane to exit the search.</span></span>
 
-<span data-ttu-id="d26eb-107">Norėdami gauti daugiau informacijos, perskaityti [paieškos paštas ir žmonės programoje "Outlook" žiniatinklyje](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span><span class="sxs-lookup"><span data-stu-id="d26eb-107">For more information, read [Search Mail and People in Outlook on the web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span></span>
+<span data-ttu-id="b38e4-107">Norėdami gauti daugiau informacijos, [skaitykite "Outlook" ieškos pašto ir žmonių žiniatinklyje](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span><span class="sxs-lookup"><span data-stu-id="b38e4-107">For more information, read [Search Mail and People in Outlook on the web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span></span>
