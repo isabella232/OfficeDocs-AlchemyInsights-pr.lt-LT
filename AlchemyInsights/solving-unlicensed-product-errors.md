@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512020"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582747"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Pasiūlymai, kaip spręsti klaidas "Nelicencijuotas produktas"
 
@@ -26,7 +26,7 @@ Norėdami išspręsti klaidas, susijusias su "Nelicencijuotu produktu", pabandyk
 - Įsitikinkite, kad turite prenumeratą, kuri leidžia kliento licencijas, pvz., "Microsoft 365 Apps" verslui arba "Business Premium", ir [įsitikinkite, kad vartotojas turi priskirtą licenciją](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Įsitikinkite, kad vartotojas prisijungia prie "Office" naudodami tą patį abonementą, kuriam priskirta licencija.
 - Peržiūrėkite [puslapį Tarnybos sveikata,](https://docs.microsoft.com/office365/enterprise/view-service-health) kad sužinotumėte, ar yra žinomų paslaugos problemų.
-- Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja "Office" taikomųjų programų prieigos prie interneto. Peržiūrėkite [URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja "Microsoft 365" programėlių prieigos prie interneto. Peržiūrėkite [URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Taip pat galite išbandyti šiuos trikčių šalinimo veiksmus: 
 

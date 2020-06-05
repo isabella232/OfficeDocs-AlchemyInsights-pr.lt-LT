@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474469"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582567"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Išspręskite „Office“ aktyvinimo klaidą 0xD000000C
 
 - Patikrinkite, ar „Mac“ įrenginyje, kuriame bandote įdiegti, veikia interneto ryšys. Tai galite padaryti atidarydami interneto naršyklę ir eidami į [Microsoft](https://www.microsoft.com). Jei svetainė atidaroma, jūsų interneto ryšys veikia.
 
-- Uždarykite visas „Office“ programas.
+- Uždarykite visas "Microsoft 365" programas.
 
 - Atsisiųskite ir paleiskite [Licencijos pašalinimo įrankį](https://go.microsoft.com/fwlink/?linkid=849815), kad pašalintumėte visus „Office“ kodų grandinės įrašus.
 
