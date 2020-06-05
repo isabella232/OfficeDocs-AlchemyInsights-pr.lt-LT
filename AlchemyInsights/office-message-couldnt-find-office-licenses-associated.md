@@ -1,5 +1,5 @@
 ---
-title: „Office“ programų pranešimas – Nepavyko rasti susijusių „Office“ licencijų
+title: "\"Microsoft 365\" programų pranešimas – nepavyko rasti susietų \"Office\" licencijų"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,37 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505099"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581659"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a><span data-ttu-id="e2434-102">„Office“ programų pranešimas – Nepavyko rasti susijusių „Office“ licencijų</span><span class="sxs-lookup"><span data-stu-id="e2434-102">Office apps message - Couldn't find Office licenses associated</span></span>
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a><span data-ttu-id="083eb-102">"Microsoft 365" programų pranešimas – nepavyko rasti susietų "Office" licencijų</span><span class="sxs-lookup"><span data-stu-id="083eb-102">Microsoft 365 apps message - Couldn't find Office licenses associated</span></span>
 
-<span data-ttu-id="e2434-103">Norėdami pašalinti šią klaidą, atlikite šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="e2434-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="083eb-103">Norėdami pašalinti šią klaidą, atlikite šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="083eb-103">To fix this error, try the following:</span></span>
 
-- <span data-ttu-id="e2434-104">Pašalinkite ir [priskirkite „Office“ licenciją](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) susijusiam vartotojui.</span><span class="sxs-lookup"><span data-stu-id="e2434-104">Remove and [reassign Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.</span></span>
+- <span data-ttu-id="083eb-104">Pašalinkite ir [priskirkite „Office“ licenciją](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) susijusiam vartotojui.</span><span class="sxs-lookup"><span data-stu-id="083eb-104">Remove and [reassign Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.</span></span>
 
-- <span data-ttu-id="e2434-105">Atidarykite „Office“ programą ir [atsijunkite](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) nuo bet kokių esamų vartotojų paskyrų.</span><span class="sxs-lookup"><span data-stu-id="e2434-105">Open an Office app, and [Sign Out](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>
+- <span data-ttu-id="083eb-105">Atidarykite „Office“ programą ir [atsijunkite](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) nuo bet kokių esamų vartotojų paskyrų.</span><span class="sxs-lookup"><span data-stu-id="083eb-105">Open an Office app, and [Sign Out](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>
 
-- <span data-ttu-id="e2434-106">Eikite į **„Windows“ parametrai > Paskyros > El. paštas ir paskyros** ir pašalinkite esamas darbo paskyras.</span><span class="sxs-lookup"><span data-stu-id="e2434-106">Go to **Windows Settings > Accounts > Email & Accounts** and remove existing work accounts.</span></span>
+- <span data-ttu-id="083eb-106">Eikite į **„Windows“ parametrai > Paskyros > El. paštas ir paskyros** ir pašalinkite esamas darbo paskyras.</span><span class="sxs-lookup"><span data-stu-id="083eb-106">Go to **Windows Settings > Accounts > Email & Accounts** and remove existing work accounts.</span></span>
 
-- <span data-ttu-id="e2434-107">Eikite į **„Windows“ parametrai > Paskyros > Pasiekti darbo arba mokymo įstaigos** ir atjunkite esamas paskyras.</span><span class="sxs-lookup"><span data-stu-id="e2434-107">Go to **Windows Settings > Accounts > Access work or school** and disconnect existing accounts.</span></span>
+- <span data-ttu-id="083eb-107">Eikite į **„Windows“ parametrai > Paskyros > Pasiekti darbo arba mokymo įstaigos** ir atjunkite esamas paskyras.</span><span class="sxs-lookup"><span data-stu-id="083eb-107">Go to **Windows Settings > Accounts > Access work or school** and disconnect existing accounts.</span></span>
 
-- <span data-ttu-id="e2434-108">Spustelėkite **+** piktogramą, kad įtrauktumėte arba prijungtumėte savo paskyrą.</span><span class="sxs-lookup"><span data-stu-id="e2434-108">Click the **+** icon to add or connect your account.</span></span> <span data-ttu-id="e2434-109">Įveskite savo kredencialus ir palaukite, kol bus baigtas procesas.</span><span class="sxs-lookup"><span data-stu-id="e2434-109">Enter your credentials and wait for the process to complete.</span></span>
+- <span data-ttu-id="083eb-108">Spustelėkite **+** piktogramą, kad įtrauktumėte arba prijungtumėte savo paskyrą.</span><span class="sxs-lookup"><span data-stu-id="083eb-108">Click the **+** icon to add or connect your account.</span></span> <span data-ttu-id="083eb-109">Įveskite savo kredencialus ir palaukite, kol bus baigtas procesas.</span><span class="sxs-lookup"><span data-stu-id="083eb-109">Enter your credentials and wait for the process to complete.</span></span>
 
-- <span data-ttu-id="e2434-110">Paleiskite „Office“ programą ir, jei reikia, vėl prisijunkite.</span><span class="sxs-lookup"><span data-stu-id="e2434-110">Launch the Office app and sign-in again if needed.</span></span>
+- <span data-ttu-id="083eb-110">Paleiskite „Office“ programą ir, jei reikia, vėl prisijunkite.</span><span class="sxs-lookup"><span data-stu-id="083eb-110">Launch the Office app and sign-in again if needed.</span></span>
 
-<span data-ttu-id="e2434-111">Jei problema išlieka, bandykite atlikti šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="e2434-111">If the issue persists, try the following steps:</span></span>
+<span data-ttu-id="083eb-111">Jei problema išlieka, bandykite atlikti šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="083eb-111">If the issue persists, try the following steps:</span></span>
 
-- <span data-ttu-id="e2434-112">Nustatykite „Office“ aktyvinimo būseną iš naujo.</span><span class="sxs-lookup"><span data-stu-id="e2434-112">Reset Office activation state.</span></span> <span data-ttu-id="e2434-113">Žr. [Iš naujo nustatyti „Microsoft 365“ programas, skirtas „Enterprise Activation“](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="e2434-113">See [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
+- <span data-ttu-id="083eb-112">Nustatykite „Office“ aktyvinimo būseną iš naujo.</span><span class="sxs-lookup"><span data-stu-id="083eb-112">Reset Office activation state.</span></span> <span data-ttu-id="083eb-113">Žr. [Iš naujo nustatyti „Microsoft 365“ programas, skirtas „Enterprise Activation“](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="083eb-113">See [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
 
-- <span data-ttu-id="e2434-114">Patikrinkite užkardos, antivirusinės programos ir tarpinio serverio parametrus, kad užtikrintumėte, jog jie neblokuoja „Office“ programų prieigos prie interneto.</span><span class="sxs-lookup"><span data-stu-id="e2434-114">Check your firewall, antivirus software, and proxy settings to confirm they are not blocking Office apps access to the Internet.</span></span> 
+- <span data-ttu-id="083eb-114">Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja "Microsoft 365" programėlių prieigos prie interneto.</span><span class="sxs-lookup"><span data-stu-id="083eb-114">Check your firewall, antivirus software, and proxy settings to confirm they are not blocking Microsoft 365 apps access to the Internet.</span></span> 
 
-<span data-ttu-id="e2434-115">Jei reikia papildomų problemų sprendimo patarimų, žr.:</span><span class="sxs-lookup"><span data-stu-id="e2434-115">For additional troubleshooting solutions, see:</span></span>
+<span data-ttu-id="083eb-115">Jei reikia papildomų problemų sprendimo patarimų, žr.:</span><span class="sxs-lookup"><span data-stu-id="083eb-115">For additional troubleshooting solutions, see:</span></span>
 
-[<span data-ttu-id="e2434-116">Nelicencijuoto produkto ir aktyvinimo klaidos „Office“</span><span class="sxs-lookup"><span data-stu-id="e2434-116">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="083eb-116">Nelicencijuoto produkto ir aktyvinimo klaidos „Office“</span><span class="sxs-lookup"><span data-stu-id="083eb-116">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[<span data-ttu-id="e2434-117">"Microsoft 365" URL ir IP adresų diapazonai</span><span class="sxs-lookup"><span data-stu-id="e2434-117">Microsoft 365 URLs and IP address ranges</span></span>](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[<span data-ttu-id="083eb-117">"Microsoft 365" URL ir IP adresų diapazonai</span><span class="sxs-lookup"><span data-stu-id="083eb-117">Microsoft 365 URLs and IP address ranges</span></span>](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
