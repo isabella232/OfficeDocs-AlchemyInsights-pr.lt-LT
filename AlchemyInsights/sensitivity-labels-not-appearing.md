@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511660"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581023"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nerodomos jautrumo etiketės
 
 Jautrumo etiketės leidžia klasifikuoti ir apsaugoti slaptą turinį. Juos galima sukurti "Microsoft 365" atitikties centre, "Microsoft 365" saugos centre arba "Microsoft 365" saugos & atitikties centre pagal klasifikavimo > jautrumo etiketes. Norėdami sužinoti daugiau apie šią funkciją, [žiūrėkite Jautrumo etikečių apžvalga](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Jei sukonfigūravote jautrumo etiketes, bet jos nerodomos "Office" programose, patikrinkite šiuos dalykus:
+Jei sukonfigūravote jautrumo etiketes, bet jos nerodomos "Microsoft 365" programėlėse, patikrinkite šiuos dalykus:
 
 - Patvirtinkite, kad jautrumo etiketė buvo [publikuota](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) norimiems vartotojams ir grupėms.
 

@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710919"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580859"
 ---
-# <a name="deploy-office-apps"></a>"Office" taikomųjų programų diegimas
+# <a name="deploy-microsoft-365-apps"></a>"Microsoft 365" programėlių diegimas
 
-Norėdami įdiegti "Office" programas keliems galutiniams vartotojams naudojant "Office" diegimo įrankį, "Microsoft Endpoint Configuration Manager", kaip operacinės sistemos disko atvaizdo dalį, arba bendrai naudojamo kompiuterio scenarijuje naudodami "Windows Server" su nuotolinio darbalaukio tarnybomis (RDS) arba terminalų tarnybomis, apsvarstykite galimybę naudoti **"Microsoft 365 Apps for Enterprise Deployment Advisor"** veiksmų vadovą .
+Norėdami įdiegti "Microsoft 365" programas keliems galutiniams vartotojams naudojant "Office" diegimo įrankį, "Microsoft Endpoint Configuration Manager", kaip operacinės sistemos disko atvaizdo dalį arba bendrai naudojamo kompiuterio scenarijų naudodami "Windows Server" su nuotolinio darbalaukio tarnyba (RDS) arba terminalų tarnybomis, apsvarstykite galimybę naudoti **"Microsoft 365 Apps for Enterprise Deploy Advisor"** veiksmų vadovą .
   
-Norėdami pradėti, įsitikinkite, kad esate prisijungę kaip nuomotojo administratorius arba [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)visuotinis administratorius, tada spustelėkite čia: .
+Norėdami pradėti, įsitikinkite, kad esate prisijungę kaip nuomotojo administratorius arba visuotinis administratorius, tada spustelėkite čia: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   
