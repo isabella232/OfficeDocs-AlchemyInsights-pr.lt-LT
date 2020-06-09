@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010226"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617903"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>"Teams" diegimas kaip atskiros arba su naujais arba esamais "Office" diegimais
 
 "Microsoft Teams" dabar įtraukta kaip naujų "Microsoft 365 Apps" verslui, "Microsoft 365 Apps" verslui ir "Office for Mac" ***diegimų*** dalis. Daugiau informacijos ieškokite [Kada "Microsoft Teams" pradės būti įtraukta į naujus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Be to, pradedant 1906 versija mėnesio kanale, komandos bus ***įtrauktos į esamus*** "Microsoft 365 Apps" įmonėms (ir "Microsoft 365 Apps for business") diegimus įrenginiuose, kuriuose veikia "Windows", kai atnaujinsite esamą diegimą į naujausią versiją. Daugiau informacijos rasite [Ką apie esamus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Be to, pradedant versija 1906 dabartiniame kanale , komandos bus ***įtrauktos į esamus*** "Microsoft 365 Apps" įmonėms (ir "Microsoft 365 Apps for business") diegimus įrenginiuose, kuriuose veikia "Windows", kai atnaujinsite esamą diegimą į naujausią versiją. Daugiau informacijos rasite [Ką apie esamus "Office" diegimus?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Jei nenorite laukti šio diegimo grafiko, galite diegti "Teams" kaip atskirą savo vartotojams [vadovaudamiesi šiomis instrukcijomis](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) arba galite nustatyti, kad vartotojai patys įdiegtų "Teams" patys. [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)
+> Jei nenorite laukti šio diegimo grafiko, galite diegti "Teams" kaip atskirą savo vartotojams [vadovaudamiesi šiomis instrukcijomis](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)   arba galite nustatyti, kad vartotojai patys įdiegtų "Teams" patys.  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)
 
 Jei jūsų organizacija nėra pasirengusi diegti "Teams", turime atlikti veiksmus, kuriuos galite atlikti, kad ***"Teams" nebūtų*** įtrauktos į [naujus](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) arba [esamus](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) "Office" diegimus. Jei norite, kad "Teams" būtų įdiegta, bet nenorite, kad įdiegus "Teams" automatiškai būtų paleista vartotojui, [žr.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
