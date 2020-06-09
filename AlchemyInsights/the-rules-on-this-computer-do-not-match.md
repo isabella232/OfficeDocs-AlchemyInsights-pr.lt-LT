@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618021"
+ms.locfileid: "44664254"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Klaida: šio kompiuterio taisyklės nesutampa
 
@@ -28,3 +28,4 @@ Kol taisyti yra, naudokite šiuos problemos sprendimo veiksmus:
 **Sprendimo būdas**: Naujausiose ataskaitose problema kilo tiems, kurie "Outlook" darbalaukyje sukūrė tik kliento taisykles. Jei ir toliau kyla problema, apsvarstykite galimybę panaikinti taisykles ir tada kurti ir redaguoti taisykles tik OWA (Outlook Web App), kol problema bus išspręsta.
 
 Jei negalite panaikinti taisykles rankiniu būdu galite paleisti "Outlook" komandą paleidus programą Outlook paleisdami Outlook.exe /cleanrules. Tai panaikins kliento ir serverio taisykles. Tai ištrins visas taisykles visoms "Outlook" profilio paskyroms. Ši komanda toliau aprašyta straipsnyje Komandinės eilutės raktai.
+
