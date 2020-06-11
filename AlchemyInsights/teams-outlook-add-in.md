@@ -1,5 +1,5 @@
 ---
-title: "\"Teams Outlook\" papildinis"
+title: "\"Teams Outlook\" papildinys"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021506"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702214"
 ---
-# <a name="teams-outlook-add-in"></a>"Teams Outlook" papildinis
+# <a name="teams-outlook-add-in"></a>"Teams Outlook" papildinys
 
-Yra daug veiksnių, dėl kurių jūsų "Teams" papildinys gali nebūti rodomas, ir jie visi išvardyti [čia](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Norėdami pašalinti trūkstamą "Teams Outlook" papildinį, pirmiausia paleiskite tarnybos diagnostiką čia, administravimo portale.  Jei tarnybos diagnostika nenurodo jokių problemų, pereikite prie ["Microsoft" palaikymo ir atkūrimo asistentas](https://aka.ms/SaRA-TeamsAddInScenario) **komandos "Outlook" papildinio scenarijų** susijusio vartotojo mašinos diagnozuoti ir išspręsti kliento problemas.
 
-**Pirmiausia rekomenduojame patikrinti, ar papildinis neišjungtas:**
-
-- Programoje "Outlook" spustelėkite **Failas,** tada **Parinktys**.
-- Dialogo lango **"Outlook" parinktys** skirtuką **Priedai.**
-- Patvirtinkite, kad **"Microsoft Teams" susitikimo papildinys, skirtas "Microsoft Office",** yra sąraše **"Aktyviųjų programų priedai".**
-- Jei "Teams" susitikimo papildinys nurodytas sąraše **Išjungti programos priedai,** dalyje **Tvarkyti** pasirinkite **COM papildiniai,** tada spustelėkite **Eiti...**
-- Nustatykite žymės langelį šalia **Microsoft Teams susitikimo papildinio, skirto "Microsoft Office".**
-- Spustelėkite **Gerai** visuose dialogo languose ir iš naujo paleiskite "Outlook".
+Norėdami rankiniu būdu išspręsti problemą, peržiūrėkite galimų veiksnių, dėl kurių jūsų "Teams" papildinys gali būti nerodomas [čia,](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)sąrašą.
