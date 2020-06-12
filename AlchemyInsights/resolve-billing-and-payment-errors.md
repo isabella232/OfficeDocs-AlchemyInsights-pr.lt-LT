@@ -1,0 +1,34 @@
+---
+title: Atsiskaitymo ir mokėjimo klaidų sprendimas
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003021"
+- "5757"
+ms.openlocfilehash: bcef12a3b1d4438df07a67b73ec8b59ac0f7d8c3
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.translationtype: MT
+ms.contentlocale: lt-LT
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44707901"
+---
+# <a name="resolving-billing-and-payment-errors"></a><span data-ttu-id="a3f59-102">Atsiskaitymo ir mokėjimo klaidų sprendimas</span><span class="sxs-lookup"><span data-stu-id="a3f59-102">Resolving Billing and Payment Errors</span></span>
+
+<span data-ttu-id="a3f59-103">Toliau pateikiami keli dažniausiai pasitaikantys scenarijai, susiję su sąskaitų ir mokėjimo klaidomis</span><span class="sxs-lookup"><span data-stu-id="a3f59-103">Here are some common scenarios related to bill and payment errors</span></span>
+
+- <span data-ttu-id="a3f59-104">**Sąskaita išrašyta suma** skiriasi nuo to, ko tikėjotės.</span><span class="sxs-lookup"><span data-stu-id="a3f59-104">The  **amount billed** is different from what you were expecting.</span></span>
+- <span data-ttu-id="a3f59-105">Licencijos buvo pridėtos arba pašalintos iš prenumeratos.</span><span class="sxs-lookup"><span data-stu-id="a3f59-105">Licenses were added or removed from your subscription.</span></span> <span data-ttu-id="a3f59-106">Pakeitus licencijas laikotarpio viduryje, tai atsispindi toliau pateiktoje sąskaitoje faktūroje.</span><span class="sxs-lookup"><span data-stu-id="a3f59-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="a3f59-107">Galite matyti ankstesnio aptarnavimo laikotarpio kreditą ir iš naujo apmokėti, kad galėtumėte atsiskaityti už šį pakeitimą.</span><span class="sxs-lookup"><span data-stu-id="a3f59-107">You may see a credit and re- bill for the previous service period to account for this change.</span></span>
+- <span data-ttu-id="a3f59-108">Prenumerata buvo atšaukta.</span><span class="sxs-lookup"><span data-stu-id="a3f59-108">The subscription was cancelled.</span></span> <span data-ttu-id="a3f59-109">Po atšaukimo gausite sąskaitą faktūrą, kurioje nurodytas neapmokėtas likutis, atėmus visus kreditus.</span><span class="sxs-lookup"><span data-stu-id="a3f59-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
+- <span data-ttu-id="a3f59-110">Jūsų prenumerata pratęsta naujam laikotarpiui, o licencijos kaina pasikeitė.</span><span class="sxs-lookup"><span data-stu-id="a3f59-110">Your subscription renewed for a new term and the license price changed.</span></span>
+- <span data-ttu-id="a3f59-111">Daugiau informacijos apie sąskaitą faktūrą rasite: [Sąskaitos faktūros supratimas.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="a3f59-111">For more information about your invoice, see:  [Understand your invoice.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span></span>
+- <span data-ttu-id="a3f59-112">Turite **problemų apdorojant mokėjimą kredito kortele**</span><span class="sxs-lookup"><span data-stu-id="a3f59-112">You have  **issues processing a credit card payment**</span></span>
+- <span data-ttu-id="a3f59-113">**Administravimo centre**eikite į puslapį **Atsiskaitymo**   >   **sąskaitos & mokėjimo**   >   **[metodai.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**</span><span class="sxs-lookup"><span data-stu-id="a3f59-113">In the  **admin center**, go to the  **Billing**  >  **Bills & payments**  >  **[Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span> <span data-ttu-id="a3f59-114">Pasirinkite mokėjimo metodą ir patvirtinkite, kad vardas, galiojimo data ir adresas yra teisingi.</span><span class="sxs-lookup"><span data-stu-id="a3f59-114">Select your payment method and verify that the name, expiration date and address are correct.</span></span> <span data-ttu-id="a3f59-115">Daugiau informacijos [ieškokite Mokėjimo metodų trikčių diagnostika](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="a3f59-115">For more information, see  [Troubleshoot payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).</span></span>
+
+- <span data-ttu-id="a3f59-116">Turite **pakeisti mokėjimo būdą**.</span><span class="sxs-lookup"><span data-stu-id="a3f59-116">You need to  **change payment method**.</span></span> <span data-ttu-id="a3f59-117">Galite [įtraukti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method), [atnaujinti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details), [pakeisti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method) arba [panaikinti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method) mokėjimo metodą.</span><span class="sxs-lookup"><span data-stu-id="a3f59-117">You can [add](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method),  [update](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details),  [replace](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method)  or  [delete](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method)  a payment method.</span></span> <span data-ttu-id="a3f59-118">Norėdami sužinoti daugiau, [žr.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="a3f59-118">To learn more, see  [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span></span>
+- 
