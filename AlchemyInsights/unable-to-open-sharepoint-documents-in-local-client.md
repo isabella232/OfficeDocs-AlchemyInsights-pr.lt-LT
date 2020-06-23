@@ -1,5 +1,5 @@
 ---
-title: Neįmanoma atidaryti Sharepoint dokumentų vietiniame kliente
+title: Nepavyksta atidaryti SharePoint dokumentų vietiniame kliente
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: ae577b33c37d597477582c6e6ac45304548f97b4
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357930"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841079"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Neįmanoma atidaryti Sharepoint dokumentų vietiniame kliente
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Nepavyksta atidaryti SharePoint dokumentų vietiniame kliente
 
-Kartais gali būti sunku atidaryti "Office" failus ir dokumentus iš "SharePoint" vietiniams "Office" klientams.
-- [Nepavyksta atidaryti "Office" failų iš "SharePoint Online"](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+Kartais gali būti sunku atidaryti "Office" failus ir dokumentus iš "SharePoint" arba "OneDrive" iš vietinių "Office" klientų.
+
+- [Nepavyksta atidaryti "Office" failų iš "SharePoint" arba "OneDrive"](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
