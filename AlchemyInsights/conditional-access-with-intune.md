@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706029"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931444"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="a4169-102">Sąlyginė prieiga su "Intune"</span><span class="sxs-lookup"><span data-stu-id="a4169-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="3b8fc-102">Sąlyginė prieiga su "Intune"</span><span class="sxs-lookup"><span data-stu-id="3b8fc-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="a4169-103">Norint naudoti **sąlyginę prieigą** su "Intune", reikia atlikti 3 veiksmus:</span><span class="sxs-lookup"><span data-stu-id="a4169-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
-  
-- <span data-ttu-id="a4169-104">**Sukurkite sąlyginės prieigos strategiją,** kuri apibrėžia, kokie ištekliai yra saugomi ir kokios sąlygos turi būti įvykdytos norint pasiekti šiuos išteklius.</span><span class="sxs-lookup"><span data-stu-id="a4169-104">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span> <span data-ttu-id="a4169-105">Pavyzdžiui, įrenginys turi atitikti reikalavimus prieš prisijungdamas prie įmonės el. pašto.</span><span class="sxs-lookup"><span data-stu-id="a4169-105">For example, a device must be compliant before accessing corporate email.</span></span> 
-    
-- <span data-ttu-id="a4169-106">Sukurkite **atitikties strategiją,** kad nustatytumėte parametrus, kurių reikia laikyti įvykdytais prieš laikant įrenginiusuderinamus.</span><span class="sxs-lookup"><span data-stu-id="a4169-106">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="a4169-107">Pavyzdžiui, prieš jį laikant atitinkančiu įtaisu, įrenginys turi turėti bent 6 skaitmenų kaištį.</span><span class="sxs-lookup"><span data-stu-id="a4169-107">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
-    
-- <span data-ttu-id="a4169-108">Atitikties **politikos** ir **sąlyginės prieigos strategijų** užtikrinimas būtų nukreiptas į norimas vartotojų grupes.</span><span class="sxs-lookup"><span data-stu-id="a4169-108">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users.</span></span> <span data-ttu-id="a4169-109">Tam gali reikėti kurti konkrečias vartotojų grupes "Azure Active Directory".</span><span class="sxs-lookup"><span data-stu-id="a4169-109">This may require creating specific groups of users in Azure Active Directory.</span></span> 
-    
-<span data-ttu-id="a4169-110">Skaityti daugiau:</span><span class="sxs-lookup"><span data-stu-id="a4169-110">Read more:</span></span>
-  
-- [<span data-ttu-id="a4169-111">Sąlyginės prieigos geriausios praktikos pavyzdžiai</span><span class="sxs-lookup"><span data-stu-id="a4169-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [<span data-ttu-id="a4169-112">Darbo su sąlygine prieiga pradžia</span><span class="sxs-lookup"><span data-stu-id="a4169-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+<span data-ttu-id="3b8fc-103">Norint naudoti **sąlyginę prieigą** su "Intune", reikia atlikti 3 veiksmus:</span><span class="sxs-lookup"><span data-stu-id="3b8fc-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
 
+- <span data-ttu-id="3b8fc-104">Sukurkite **atitikties politiką** (["Android",](https://docs.microsoft.com/intune/compliance-policy-create-android) ["iOS",](https://docs.microsoft.com/intune/compliance-policy-create-ios) ["Windows"),](https://docs.microsoft.com//intune/compliance-policy-create-windows)kad nustatytumėte parametrus, kuriuos reikia įvykdyti prieš įrenginiui laikantis.</span><span class="sxs-lookup"><span data-stu-id="3b8fc-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="3b8fc-105">Pavyzdžiui, prieš tai, kai įrenginys turi būti bent 6 skaitmenų pin, jis turi būti laikomas suderinamu.</span><span class="sxs-lookup"><span data-stu-id="3b8fc-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
+- <span data-ttu-id="3b8fc-106">Sukurkite **sąlyginės prieigos strategiją,** kuri apibrėžia, kokie ištekliai yra saugomi ir kokias sąlygas reikia įvykdyti norint pasiekti šiuos išteklius.</span><span class="sxs-lookup"><span data-stu-id="3b8fc-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="3b8fc-107">[Pavyzdžiui,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) įrenginys turi būti suderinamas prieš pasiekiant įmonės el. paštą.</span><span class="sxs-lookup"><span data-stu-id="3b8fc-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
+- <span data-ttu-id="3b8fc-108">**Užtikrinkite,** kad atitikties strategijos ir **sąlyginės prieigos strategijos** būtų taikomos norimoms vartotojų grupėms.</span><span class="sxs-lookup"><span data-stu-id="3b8fc-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="3b8fc-109">Tam gali reikėti sukurti konkrečias vartotojų grupes "Azure Active Directory".</span><span class="sxs-lookup"><span data-stu-id="3b8fc-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
+
+<span data-ttu-id="3b8fc-110">**Naudingos nuorodos:**</span><span class="sxs-lookup"><span data-stu-id="3b8fc-110">**Helpful links:**</span></span>
+
+[<span data-ttu-id="3b8fc-111">Įrenginio atitikties apžvalga</span><span class="sxs-lookup"><span data-stu-id="3b8fc-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[<span data-ttu-id="3b8fc-112">TRIKČIŲ DIAGNOSTIKA CA</span><span class="sxs-lookup"><span data-stu-id="3b8fc-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[<span data-ttu-id="3b8fc-113">Trikčių šalinimo strategija</span><span class="sxs-lookup"><span data-stu-id="3b8fc-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+<span data-ttu-id="3b8fc-114">Norint apsaugoti el. paštą ("Exchange online") nuo prieigos iš neatitinkančių įrenginių, turi būti laikomasi abiejų dokumentų:</span><span class="sxs-lookup"><span data-stu-id="3b8fc-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
+
+1. [<span data-ttu-id="3b8fc-115">Apsaugokite el. pašto prieigą iš įrenginių naudodami EAS</span><span class="sxs-lookup"><span data-stu-id="3b8fc-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [<span data-ttu-id="3b8fc-116">Apsaugokite el. pašto prieigą iš įrenginių naudodami modernius autentifikavimo klientus, pvz., "Outlook"</span><span class="sxs-lookup"><span data-stu-id="3b8fc-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
