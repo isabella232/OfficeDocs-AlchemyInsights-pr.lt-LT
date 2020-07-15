@@ -1,5 +1,5 @@
 ---
-title: Darbo eigų trikčių diagnostika programoje "SharePoint"
+title: Darbo eigų trikčių šalinimas "SharePoint"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162984"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138979"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Darbo eigų trikčių diagnostika programoje "SharePoint"
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Darbo eigų trikčių šalinimas "SharePoint"
 
-**"SharePoint" darbo eigų trikčių diagnostika ir derinimas**
+**Darbo eigų trikčių diagnostika ir derinimas "SharePoint"**
 
-Peržiūrėkite " [SharePoint" darbo eigos tikrinimo klaidų triktis](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ir " [SharePoint" darbo eigų derinimą](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+[Peržiūrėkite "SharePoint" darbo eigos tikrinimo klaidų trikčių diagnostika](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ir ["SharePoint" darbo eigų derinimas](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-**Energijos automatizuoti**
+**Galia Automatizuoti**
 
-Jei tik pradedate dirbti su darbo eigomis, apsvarstykite galimybę naudoti " [Power automatizuoti](https://docs.microsoft.com/power-automate/modern-approvals) " vietoj klasikinių "SharePoint" darbo eigos sprendimų.
+Jei tik pradedate dirbti su darbo eigomis, apsvarstykite galimybę naudoti ["Power Automate",](https://docs.microsoft.com/power-automate/modern-approvals) o ne klasikinius "SharePoint" darbo eigos sprendimus.
+
+Daugiau informacijos ieškokite [SharePoint darbo eigų į pensiją](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
