@@ -1,0 +1,38 @@
+---
+title: Failai ir vaizdo įrašai "Yammer"
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: lt-LT
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148349"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="4d075-102">Failai ir vaizdo įrašai "Yammer"</span><span class="sxs-lookup"><span data-stu-id="4d075-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="4d075-103">Failus galima pridėti prie "Yammer" pranešimų arba nusiųsti tiesiai į grupes.</span><span class="sxs-lookup"><span data-stu-id="4d075-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="4d075-104">Vartotojo patirtis šiek tiek skiriasi nuo klasikinio ir naujo "Yammer", tačiau failai įkeliami į tas pačias vietas.</span><span class="sxs-lookup"><span data-stu-id="4d075-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="4d075-105">Daugiau informacijos rasite [Failo arba vaizdo pridėjimas prie "Yammer" pranešimo](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span><span class="sxs-lookup"><span data-stu-id="4d075-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="4d075-106">Kai vartotojai susiduria su problemomis, pabandykite nusiųsti iš kitos naršyklės arba įrenginio.</span><span class="sxs-lookup"><span data-stu-id="4d075-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="4d075-107">Naudokite greičiausią tinklo ryšį ir naujausią pasiekiamą naršyklę.</span><span class="sxs-lookup"><span data-stu-id="4d075-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="4d075-108">Naudojant naują naršyklės langą prisijungti dar kartą gali padėti užtikrinti, kad tinkamą Azure AD atpažinimo ženklai yra.</span><span class="sxs-lookup"><span data-stu-id="4d075-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="4d075-109">Vaizdo įrašų įkėlimą į "Yammer" reikia nusiųsti ir koduoti.</span><span class="sxs-lookup"><span data-stu-id="4d075-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="4d075-110">Daugiau informacijos rasite ["Yammer" įkėlimo ir kodavimo vaizdo įrašų pranešimų peržiūra Atskirai](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span><span class="sxs-lookup"><span data-stu-id="4d075-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="4d075-111">Atsižvelgiant į vaizdo įrašo dydį, kodavimas gali užtrukti.</span><span class="sxs-lookup"><span data-stu-id="4d075-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="4d075-112">Apsvarstykite galimybę naudoti ["Microsoft Stream",](https://docs.microsoft.com/stream/overview) kad nusiųstumėte vaizdo įrašus, kuriuos bendrinate "Microsoft 365".</span><span class="sxs-lookup"><span data-stu-id="4d075-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="4d075-113">**Failų ir vaizdų įkėlimų ribojimas**</span><span class="sxs-lookup"><span data-stu-id="4d075-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="4d075-114">"Yammer" leidžia įkelti visų tipų failus pagal numatytuosius nustatymus.</span><span class="sxs-lookup"><span data-stu-id="4d075-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="4d075-115">Administratoriai gali keisti parametrus, kad užblokuotų failų nusiuntimus į "Yammer".</span><span class="sxs-lookup"><span data-stu-id="4d075-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="4d075-116">Daugiau informacijos rasite [Failų įkėlimo ir failų formatų apribojimo priemonės](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span><span class="sxs-lookup"><span data-stu-id="4d075-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="4d075-117">Susijęs parametras galimas GIF apribojimui "Yammer".</span><span class="sxs-lookup"><span data-stu-id="4d075-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="4d075-118">Daugiau informacijos [ieškokite Allow Tenor GIF in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span><span class="sxs-lookup"><span data-stu-id="4d075-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="4d075-119">**"Yammer" failų saugykla**</span><span class="sxs-lookup"><span data-stu-id="4d075-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="4d075-120">"Yammer" yra integruota su "Microsoft 365" ir naudoja "SharePoint Online" failų nusiuntimai.</span><span class="sxs-lookup"><span data-stu-id="4d075-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="4d075-121">Daugiau informacijos ieškokite [Yammer failų saugyklos apžvalga](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span><span class="sxs-lookup"><span data-stu-id="4d075-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="4d075-122">Kad failai būtų perkelti į "SharePoint Online", rekomenduojame konfigūruoti "Yammer" tinklą prigimtiniam režimui.</span><span class="sxs-lookup"><span data-stu-id="4d075-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="4d075-123">Daugiau informacijos rasite [Native Mode apžvalga](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span><span class="sxs-lookup"><span data-stu-id="4d075-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
