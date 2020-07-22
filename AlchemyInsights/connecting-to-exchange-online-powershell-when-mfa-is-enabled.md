@@ -1,5 +1,5 @@
 ---
-title: 761 Prisijungimas prie Exchange Online "PowerShell" įgalinus DTS
+title: 761 prisijungimas prie Exchange Online "PowerShell" įgalinus DTS
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705813"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205311"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Prisijungti prie Exchange Online "PowerShell", kai DTS yra įjungtas
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Prisijungimas prie Exchange Online "PowerShell" įgalinus DTS
 
-Jei jūsų abonementas įgalintas kelių dalių autentifikavimas (DTS), turite vadovautis šiomis instrukcijomis, kad prisijungtumėte prie "Exchange Online PowerShell": [prisijunkite prie "Exchange Online PowerShell" naudodami kelių dalių autentifikavimą](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Pastaba:** net jei anksčiau prisijungėte prie "Exchange Online PowerShell" naudodami [įprasto ryšio instrukcijas,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)turite naudoti DTS ryšio instrukcijas, kai jūsų abonemente įgalinta DTS.
+Jei jūsų abonementas turi kelių dalių autentifikavimas (DTS) įjungtas, turite laikytis šių nurodymų prisijungti prie Exchange Online "PowerShell": [naudokite "Exchange Online PowerShell" su šiuolaikinės autentifikavimo naudojant V2 modulis](https://aka.ms/exops-docs). Šiame puslapyje ieškokite DTS / kelių faktorių autentifikavimo instrukcijų.
