@@ -13,14 +13,14 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: cabb1463fd27cc26f2482210d50eb38823e8a60a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b6596aedf360cb9e3199a759960dc03e76338cac
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511264"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431261"
 ---
-# <a name="restore-a-user"></a>Vartotojo atkūrimas
+# <a name="restore-a-deleted-user"></a>Panaikinto vartotojo atkūrimas
 
 Atkurkite vartotoją atlikdami šiuos veiksmus:
   
@@ -30,6 +30,6 @@ Atkurkite vartotoją atlikdami šiuos veiksmus:
 
 3. Vykdykite nurodymus, kad nustatytumėte slaptažodį.
 
-4. Spustelėkite **Siųsti el. laišką ir uždaryti**, ir viskas!
+4. Spustelėkite **Siųsti el. laišką ir uždaryti,** ir viskas!
 
-Ar gi ne taip paprasta? Norėdami gauti daugiau informacijos ir veiksmų su ekrano nuotraukų, peržiūrėkite šį straipsnį: [Atkurti vartotoją](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Jei suprantate, kad vietoj to reikia atkurti vartotojo pašto dėžutę, žr.: [Vartotojo pašto dėžučių naikinimas arba atkūrimas "Exchange Online".](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
+Ar nebuvo taip lengva? Norėdami gauti daugiau informacijos ir žingsnių su ekrano kopijomis, peržiūrėkite šį straipsnį: [Vartotojo atkūrimas](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Jei suprantate, kad reikia atkurti vartotojo pašto dėžutę, žr.: [Vartotojo pašto dėžučių naikinimas arba atkūrimas "Exchange Online".](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
