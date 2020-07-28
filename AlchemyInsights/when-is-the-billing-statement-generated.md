@@ -1,9 +1,9 @@
 ---
-title: Kada sugeneruojama atsiskaitymo ataskaita?
+title: Kada generuojama atsiskaitymo ataskaita?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510400"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431225"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="e3a99-102">Kada sugeneruojama atsiskaitymo ataskaita</span><span class="sxs-lookup"><span data-stu-id="e3a99-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="34b8b-102">Kada generuojama atsiskaitymo ataskaita</span><span class="sxs-lookup"><span data-stu-id="34b8b-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="e3a99-103">Kiekvieną mėnesį gausite el. laišką, kuriame nurodoma, kad naujas atsiskaitymo patvirtinimas pasiekiamas "Microsoft 365" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="e3a99-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="e3a99-104">Sąskaitoje faktūroje yra du puslapiai.</span><span class="sxs-lookup"><span data-stu-id="e3a99-104">Your invoice contains two pages.</span></span> <span data-ttu-id="e3a99-105">1 puslapis yra SF suvestinė ir pateikiama bendra informacija apie SF, užsakymą, mokėtiną sumą, kaip atlikti mokėjimą ir kaip susisiekti su palaikymo tarnyba.</span><span class="sxs-lookup"><span data-stu-id="e3a99-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="e3a99-106">2 puslapyje pateikiama išsami informacija apie kiekvienos prenumeratos atsiskaitymo veiklą.</span><span class="sxs-lookup"><span data-stu-id="e3a99-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="34b8b-103">Ataskaitos data nustatoma kaip mėnesio diena po paskyros sukūrimo.</span><span class="sxs-lookup"><span data-stu-id="34b8b-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="34b8b-104">Pavyzdžiui, jei savo paskyrą sukūrėte sausio 20 d., ataskaitos data nustatoma į kiekvieno paskesnio mėnesio 21-ąją datą.</span><span class="sxs-lookup"><span data-stu-id="34b8b-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="34b8b-105">Papildomi mokesčiai, atsirandantys aktyvaus atsiskaitymo ciklo metu, įtraukiami į kito mėnesio SĄSKAITĄ faktūrą.</span><span class="sxs-lookup"><span data-stu-id="34b8b-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="34b8b-106">Kiekvienos sąskaitos faktūros atsiskaitymo ciklo pradžios ir pabaigos datos išvardytos sąskaitos faktūros **atsiskaitymo suvestinėje.**</span><span class="sxs-lookup"><span data-stu-id="34b8b-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="34b8b-107">Kredito kortelės ir (arba) banko sąskaitos (jei taikoma) mokėjimai sudengiami kitą dieną po **SĄSKAITOS išrašymo datos**.</span><span class="sxs-lookup"><span data-stu-id="34b8b-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="e3a99-107">Norėdami sužinoti daugiau apie atsiskaitymo koncepcijas, [žr.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="e3a99-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="34b8b-108">Jei norite sužinoti daugiau, [žr.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="34b8b-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
