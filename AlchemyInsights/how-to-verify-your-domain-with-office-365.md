@@ -1,5 +1,5 @@
 ---
-title: 'Kaip patikrinti domeną '
+title: 'Kaip patikrinti, ar domenas '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509032"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634314"
 ---
-# <a name="how-to-verify-your-domain"></a>Kaip patikrinti domeną
+# <a name="how-to-verify-your-domain"></a>Kaip patikrinti, ar domenas
 
-Norėdami patikrinti savo domeną, į domeno registratorių turėsite įtraukti TXT įrašą, kad patvirtintumėte, jog domenas priklauso jums. Pirmiausia vykdykite [domeno įtraukimo vedlį](https://portal.office.com/adminportal/home#/Domains/Wizard) spustelėdami **Sąrankos** \> **domenai**, tada **– Įtraukti domeną**.
-  
-Vykdykite [nurodymus, pateiktus bet kurio DNS išteklių nuomos teikėjo DNS įrašų kūrimas,](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) kad įtrauktumėte TXT įrašą, kad patvirtintumėte savo domeną.
+Norėdami patikrinti domeną, atlikite domeno [įtraukimo vediklį](https://portal.office.com/adminportal/home#/Domains/Wizard)arba rankiniu būdu eikite į **sąrankos**  >  **domenų**  >  **įtraukimas**.
 
-Dėl kitų domenų problemų pabandykite [domenų DUK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Norėdami gauti daugiau informacijos apie tai, kaip įtraukti TXT įrašą, kad patvirtintumėte savo domeną, peržiūrėkite instrukcijas [įtraukti DNS įrašus, kad prijungtumėte savo domeną](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Jei turite klausimų apie kitus domenus, skaitykite [domenų DUK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
