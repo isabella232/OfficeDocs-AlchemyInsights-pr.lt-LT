@@ -1,5 +1,5 @@
 ---
-title: 'Kaip patikrinti domeną '
+title: 'Kaip patikrinti, ar domenas '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509032"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634314"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="5a428-102">Kaip patikrinti domeną</span><span class="sxs-lookup"><span data-stu-id="5a428-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="4b8c3-102">Kaip patikrinti, ar domenas</span><span class="sxs-lookup"><span data-stu-id="4b8c3-102">How to verify your domain</span></span>
 
-<span data-ttu-id="5a428-103">Norėdami patikrinti savo domeną, į domeno registratorių turėsite įtraukti TXT įrašą, kad patvirtintumėte, jog domenas priklauso jums.</span><span class="sxs-lookup"><span data-stu-id="5a428-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="5a428-104">Pirmiausia vykdykite [domeno įtraukimo vedlį](https://portal.office.com/adminportal/home#/Domains/Wizard) spustelėdami **Sąrankos** \> **domenai**, tada **– Įtraukti domeną**.</span><span class="sxs-lookup"><span data-stu-id="5a428-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="5a428-105">Vykdykite [nurodymus, pateiktus bet kurio DNS išteklių nuomos teikėjo DNS įrašų kūrimas,](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) kad įtrauktumėte TXT įrašą, kad patvirtintumėte savo domeną.</span><span class="sxs-lookup"><span data-stu-id="5a428-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="4b8c3-103">Norėdami patikrinti domeną, atlikite domeno [įtraukimo vediklį](https://portal.office.com/adminportal/home#/Domains/Wizard)arba rankiniu būdu eikite į **sąrankos**  >  **domenų**  >  **įtraukimas**.</span><span class="sxs-lookup"><span data-stu-id="4b8c3-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="5a428-106">Dėl kitų domenų problemų pabandykite [domenų DUK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="5a428-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="4b8c3-104">Norėdami gauti daugiau informacijos apie tai, kaip įtraukti TXT įrašą, kad patvirtintumėte savo domeną, peržiūrėkite instrukcijas [įtraukti DNS įrašus, kad prijungtumėte savo domeną](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="4b8c3-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="4b8c3-105">Jei turite klausimų apie kitus domenus, skaitykite [domenų DUK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="4b8c3-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
