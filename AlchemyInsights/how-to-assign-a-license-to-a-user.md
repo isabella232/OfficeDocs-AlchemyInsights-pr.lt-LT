@@ -1,8 +1,8 @@
 ---
-title: Licencijų priskyrimas vartotojams arba jų priskyrimas
+title: Licencijų priskyrimas vartotojams arba jų atšaukimas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495995"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657075"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Licencijų priskyrimas vartotojams arba jų priskyrimas
+# <a name="assign-or-unassign-licenses-to-users"></a>Licencijų priskyrimas vartotojams arba jų atšaukimas
 
-Vartotojui reikia licencijos, kad galėtų naudotis paslaugomis. Čia pateikiami **veiksmai,** kaip įtraukti, keisti arba pašalinti vartotojo licenciją.
+Vartotojui turi būti suteikta licencija naudotis paslaugomis. Toliau pateikiami veiksmai, kaip priskirti licenciją arba panaikinti licenciją iš vartotojo.
   
-1. Administravimo centre eikite į **Vartotojai** \> [Aktyvūs vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Administravimo centre eikite į **vartotojai** \> [aktyvūs vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Pasirinkite vartotojo, kuriam norite priskirti licenciją, eilutę.
+3. Dešiniojoje srityje pasirinkite **licencijos ir taikomosios programos**.
+4. Išplėskite sekciją **licencijos** , pažymėkite arba išvalykite licencijų, kurias norite priskirti arba panaikinti, žymės langelius, tada pasirinkite **įrašyti pakitimus**.
 
-2. Pasirinkite vartotojo, kuriam norite priskirti, keisti arba pašalinti licenciją, vardą.
-
-3. Spustelėkite **Tvarkyti produkto licencijas**ir pasirinkite licenciją, kurią norite priskirti šiam vartotojui.
-
-    Pagal numatytuosius nustatymus visos su ta licencija susietos paslaugos automatiškai priskiriamos vartotojui. Norėdami apriboti, kurios paslaugos pasiekiamos vartotojui, išvalykite tarnybų, kurių nenorite, kad tas vartotojas turėtų, žymės langelį.
-
-4. Srities apačioje spustelėkite **Įrašyti keitimus**.
-
-Daugiau informacijos [ieškokite Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ir [Licencijų šalinimas iš vartotojų](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+Daugiau informacijos ieškokite [licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)ir [vartotojų licencijų priskyrimas](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
