@@ -1,7 +1,7 @@
 ---
-title: "\"Sharepoint Online\" \"PowerShell\""
-ms.author: v-todmc
-author: todmccoy
+title: "\"SharePoint Online PowerShell\""
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764269"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786897"
 ---
-# <a name="sharepoint-online-powershell"></a>"Sharepoint Online" "PowerShell"
+# <a name="sharepoint-online-powershell"></a>"SharePoint Online PowerShell"
 
-Darbas su "PowerShell" arba scenarijais "Sharepoint Online"? Norėdami gauti daugiau informacijos, apsilankykite toliau pateiktose nuorodose.
-- [Darbo su "SharePoint Online" valdymo aplinka pradžia](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Prisijungimas prie SPO "PowerShell" naudojant kelių dalių autentifikavimą (DTS)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- ["SharePoint" šablonuose ir praktikoje (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) yra "PowerShell" komandų biblioteka, leidžianti atlikti sudėtingus valdymo veiksmus SPO atžvilgiu.
+Darbas su "PowerShell" arba scenarijais naudojant "SharePoint Online"? Daugiau informacijos rasite apsilankę toliau pateiktose nuorodose.
+- [Darbo su "SharePoint Online Management Shell" Pradžia](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Prisijungimas prie "SPO PowerShell" naudojant kelių dalių autentifikavimą (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- " [SharePoint" trafaretai ir praktika (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) yra "PowerShell" komandų biblioteka, leidžianti atlikti sudėtingus valdymo veiksmus siekiant SPO.
 
 > [!NOTE]
-> - Jei kyla problemų jungiantis prie SPO valdymo aplinkoje, įsitikinkite, kad atnaujinote į naujausią versiją ir bandote [iš naujo importuoti modulį](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) naudodami *"Importuoti modulis Microsoft.Online.SharePoint.PowerShell".*
-> - Jei bandote paleisti kliento objekto modelio scenarijus, jums reikės [turėti Sharepoint Online kliento komponentų SDK](https://www.microsoft.com/download/details.aspx?id=42038) įdiegta vietiniame kompiuteryje.
-> - Jei kyla problemų vykdant scenarijus iš "PowerShell", galbūt norėsite paleisti "PowerShell" kaip administratorius ir pakeisti [vykdymo strategijos](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+> - Jei kyla problemų jungiantis naudojant SPO valdymo aplinką, įsitikinkite, kad atnaujinote į naujausią versiją ir bandote [iš naujo importuoti modulį](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) naudodami *"Import-Module Microsoft. Online. SharePoint. PowerShell".*
+> - Jei bandote paleisti kliento pusės objekto modelio scenarijus, jums reikės " [SharePoint Online" kliento komponentų SDK](https://www.microsoft.com/download/details.aspx?id=42038) įdiegtą vietiniame kompiuteryje.
+> - Jei kyla problemų paleidus "PowerShell" scenarijus, galbūt norėsite "PowerShell" paleisti administratoriaus teisėmis ir pakeisti [vykdymo strategiją](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).

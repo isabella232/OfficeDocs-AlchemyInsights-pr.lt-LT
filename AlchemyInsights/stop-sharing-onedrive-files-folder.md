@@ -1,7 +1,7 @@
 ---
-title: "\"OneDrive\" arba \"SharePoint\" failų arba aplankų bendrinimo sustabdymas"
-ms.author: v-todmc
-author: todmccoy
+title: "\"OneDrive\" arba \"SharePoint\" failų arba aplankų bendro naudojimo sustabdymas"
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: 6c58d81fc817c6c4238ef2fab47107b865c20c4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33633ca4bddd9ef2a0fde774346157f8044ec869
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763909"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787041"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Kaip sustabdyti "OneDrive" arba "SharePoint" failų arba aplankų bendrinimą
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Kaip baigti "OneDrive" arba "SharePoint" failų arba aplankų naudojimą
 
-Jei esate elemento savininkas, galite sustabdyti elemento bendrinimą, matyti, su kuo jis bendrinamas, arba pakeisti teises, kurias turi kiti.
+Jei esate elemento savininkas, galite baigti bendrinti elementą, matyti, su kuo jis bendrinamas arba pakeisti teises.
 
-["OneDrive" arba "SharePoint" failų arba aplankų bendrinimo sustabdymas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+["OneDrive" arba "SharePoint" failų arba aplankų bendro naudojimo sustabdymas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
