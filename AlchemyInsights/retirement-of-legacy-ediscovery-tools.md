@@ -1,5 +1,5 @@
 ---
-title: Legacy eDiscovery Tools išėjimas į pensiją
+title: Senstelėjusių "Udiscovery" įrankių išėjimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650576"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902628"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Legacy eDiscovery Tools išėjimas į pensiją
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Senstelėjusių "Udiscovery" įrankių išėjimas
 
-Dėl naujos ir patobulintos el. duomenų aptikimo funkcijos "Microsoft 365" atitikties centre, per ateinančius mėnesius bus panaikinti šie senstelėjusios įrangos el. duomenų aptikimo įrankiai ir komandos:
+"Microsoft 365" atitikties centre naudojant naująsias ir geresnes "eDiscovery" funkcijas, toliau pateikti senstelėjusių eDiscovery įrankiai ir commandlet bus išėję per ateinančius mėnesius:
 
-- [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) "Exchange" administravimo centre [esan-](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)
+- [Vietoje](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) "Exchange" administravimo centre [turi](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) būti "e" aptikimas ir vietos.
 
-- "Exchange Online PowerShell" cmdlet, palaikančios vietos el. duomenų aptikimą ir sulaikymus vietoje. (Šios cmdlet bendrai identifikuojamos kaip *-MailboxSearch cmdlet.) Tai apima šiuos cmdlet:
+- "Exchange Online" "PowerShell" cmdlet, palaikančių vietinį "Udiscovery" ir vietinį sulaikymą. (Šios "cmdlet" bendrai identifikuotos kaip *-MailboxSearch "cmdlet"). Tai aprėpia šias "cmdlet":
 
-    - [Nauja pašto dėžutės ieška](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Paleisti pašto dėžutęIeška](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stabdyti pašto dėžutės iešką](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Pašto dėžutės ieška](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Naujoji MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - ["Stop-MailboxSearch"](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet Exchange Online "PowerShell".
-- Šios operacijos Exchange žiniatinklio tarnybos API:
-    - [GetSearchablePašto dėžutės](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailboxes (Nustatyti, kad pašto dėžutėje)](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxes (GautiHoldOnMailboxes)](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- [Ieškos pašto dėžutės](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet "Exchange Online PowerShell".
+- Toliau nurodytos "Exchange" žiniatinklio tarnybų API operacijos:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [Setholdonupašto dėžutės](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [Getholdonpašto dėžutės](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Išplėstinė eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Išplėstinė "Udiscovery" v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Išėjimo į pensiją tvarkaraštis:**
-- 2020 m. balandžio 1 d.: negalėsite kurti naujų paieškų ir sulaikymų, tačiau vis tiek galite vykdyti, redaguoti ir ištrinti esamas paieškas savo rizika. "Microsoft" palaikymo nebepalaikys el. duomenų aptikimo vietoje & telkinys EAC.
-
-- 2020 m. liepos 1 d.: Vietoje eDiscovery & funkcijos EAC bus dedamas tik skaitymo režimu. Tai reiškia, kad galėsite pašalinti tik esamas paieškas ir sulaikymus.
+**Išėjimo į pensiją grafikas**:
+- **2020 liepos 1 d** . Nebegalite kurti naujų paieškų ir sulaikymų, tačiau galite vykdyti, redaguoti ir naikinti esamą iešką savo pačių rizika. "Microsoft" palaikymo tarnyba nebepalaiko in-Place udiscovery & priklauso EAC.
+    
+- **Spalio 1 d., 2020** Vietoje "udiscovery" & turi funkciją EAC bus Patalpinta tik skaitymo režimu, todėl galite pašalinti tik esamas paieškas ir sulaikymus.
 
 **Daugiau informacijos rasite**:
 
- - [Perkelti senstelėjusios įrangos el. duomenų aptikimo ieškas ir laiko "Microsoft 365" atitikties centre](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Senųjų el. duomenų aptikimo įrankių išėjimas į pensiją](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [DUK apie el. duomenų aptikimą vietoje ir sulaikymus vietoje](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Senstelėjusių e. duomenų aptikimo paieškų ir sulaikymų "Microsoft 365" atitikties centro perkėlimas](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Senstelėjusių "Udiscovery" įrankių išėjimas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [DUK apie vietinį "Udiscovery" ir vietinį sulaikymą](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
