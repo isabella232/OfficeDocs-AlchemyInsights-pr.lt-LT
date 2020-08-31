@@ -1,5 +1,5 @@
 ---
-title: Privatus kanalas
+title: Asmeninis kanalas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005446"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316207"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="1a615-102">Privatūs kanalai programoje "Microsoft Teams"</span><span class="sxs-lookup"><span data-stu-id="1a615-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="34185-102">Privatūs kanalai programoje "Microsoft teams"</span><span class="sxs-lookup"><span data-stu-id="34185-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="1a615-103">Privatūs kanalai yra nauja "Microsoft Teams" funkcija.</span><span class="sxs-lookup"><span data-stu-id="1a615-103">Private channels is a new feature in Microsoft Teams.</span></span> <span data-ttu-id="1a615-104">Atminkite, kad privačių kanalų negalima konvertuoti iš standartinių kanalų arba atvirkščiai.</span><span class="sxs-lookup"><span data-stu-id="1a615-104">Note that private channels cannot be converted from standard channels or vice versa.</span></span>
+<span data-ttu-id="34185-103">Privatūs kanalai programoje "Microsoft teams" kurti sutelktas erdves bendradarbiavimui jūsų komandoms.</span><span class="sxs-lookup"><span data-stu-id="34185-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="34185-104">Kanalą gali pasiekti tik komandos vartotojai, kurie yra privataus kanalo savininkai arba nariai.</span><span class="sxs-lookup"><span data-stu-id="34185-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="34185-105">Bet kas, įskaitant svečius, gali būti įtrauktas kaip privataus kanalo narys, kol jis yra komandos nariu.</span><span class="sxs-lookup"><span data-stu-id="34185-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="1a615-105">Daugiau informacijos apie privačius kanalus, pvz., informaciją apie [privačių kanalų kūrimą ir narystę](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) bei [privatų kanalą "SharePoint" svetainėse,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)rasite [Privatūs kanalai programoje "Microsoft Teams".](https://docs.microsoft.com/MicrosoftTeams/private-channels)</span><span class="sxs-lookup"><span data-stu-id="1a615-105">For details about private channels, such as information on [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), see [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> 
+<span data-ttu-id="34185-106">Norėdami sužinoti daugiau, pradėkite nuo [privačiųjų kanalų programoje "Microsoft teams"](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="34185-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="34185-107">Tai yra informacija, pvz., [asmeninis kanalo kūrimas ir narystė](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) bei [privačios kanalo "SharePoint" svetainės](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span><span class="sxs-lookup"><span data-stu-id="34185-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="1a615-106">**Pastaba:** Kadangi privačių kanalų pranešimų saugojimo konfigūracija dar nepalaikoma, nuomininkams, kuriuose įgalintos saugojimo strategijos, pagal numatytuosius nustatymus nebus įgalinti privatūs kanalai.</span><span class="sxs-lookup"><span data-stu-id="1a615-106">**Note:** Because configuration for retention of private channel messages is not yet supported, tenants with retention policies enabled will not have private channels enabled by default.</span></span> <span data-ttu-id="1a615-107">Privatūs kanalai gali būti įgalinti "Teams" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="1a615-107">Private channels can be enabled in the Teams admin center.</span></span> <span data-ttu-id="1a615-108">Be to, atminkite, kad nors privačių kanalų pranešimų saugojimas nepalaikomas, palaikomas privačių kanalų bendrinamų failų saugojimas.</span><span class="sxs-lookup"><span data-stu-id="1a615-108">Also, note that while retention of private channel messages is not supported, retention of files shared in private channels is supported.</span></span>
+<span data-ttu-id="34185-108">**Reikia naujo komandos savininko?**</span><span class="sxs-lookup"><span data-stu-id="34185-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="1a615-109">**Reikia naujo komandos savininko?**</span><span class="sxs-lookup"><span data-stu-id="1a615-109">**Need a new team owner?**</span></span>
+<span data-ttu-id="34185-109">Jei jūsų privatus kanalo savininkas palieka jūsų organizaciją arba yra pašalinamas iš grupės, asmeninis kanalo narys automatiškai bus paaukštintas, kad būtų privatus kanalo savininkas.</span><span class="sxs-lookup"><span data-stu-id="34185-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="1a615-110">Jei išeisite iš privataus kanalo savininko, galite pridėti naują komandos savininką naudodami "Teams PowerShell".</span><span class="sxs-lookup"><span data-stu-id="1a615-110">If your private channel owner leaves, you can add a new team owner via Teams Powershell.</span></span>
-
-
-- <span data-ttu-id="1a615-111">Eikite [čia](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) norėdami įdiegti "Teams PowerShell".</span><span class="sxs-lookup"><span data-stu-id="1a615-111">Go [here](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) to install Teams Powershell.</span></span>
-
-<span data-ttu-id="1a615-112">Čia yra cmdlet jums reikės:</span><span class="sxs-lookup"><span data-stu-id="1a615-112">Here is the cmdlet you will need:</span></span>
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-<span data-ttu-id="1a615-113">Daugiau informacijos apie "Teams PowerShell" rasite ["Teams PowerShell" apžvalga](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span><span class="sxs-lookup"><span data-stu-id="1a615-113">For more information on Teams Powershell, see [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span></span>
+<span data-ttu-id="34185-110">Administratoriai taip pat gali peržiūrėti [privačių kanalų gyvavimo ciklą "Microsoft teams"](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , kad sužinotumėte daugiau apie strategijas, skirtas valdyti, kas gali kurti privačius kanalus, taip pat būdus, kaip padėti kurti užklausas, skirtas "eDiscovery" arba "Legal" sulaikymai.</span><span class="sxs-lookup"><span data-stu-id="34185-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
