@@ -1,5 +1,5 @@
 ---
-title: Nepavyksta pasiekti viešųjų aplankų
+title: Negalima pasiekti viešųjų aplankų
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891757"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341411"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Programa Outlook negali prisijungti prie viešųjų aplankų
+# <a name="outlook-cannot-connect-to-public-folders"></a>"Outlook" negali prisijungti prie viešųjų aplankų
 
-Jei kai kuriems vartotojams viešojo aplanko prieiga neveikia, pabandykite atlikti šiuos veiksmus:
+Jei kai kuriems vartotojams viešojo aplanko prieiga neveikia, bandykite atlikti šiuos veiksmus:
 
-Prisijunkite prie EXO "PowerShell" ir sukonfigūruokite parametrą DefaultPublicFolderMailbox problemos vartotojo abonemente, kad atitiktų parametrą, esantį veikiančiame vartotojo abonemente.
+Prisijunkite prie "EXO PowerShell" ir Konfigūruokite parametrą DefaultPublicFolderMailbox, esantį probleminiame vartotojo abonemente, kad jis atitiktų vartotojo paskyros parametrą.
 
-Pavyzdys:
+Pavyzdžiui
 
-Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox ft Default
+Get-Mailbox WorkingUser | FT DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<reikšmė iš ankstesnės komandos>
+Nustatyti pašto dėžutės probleminių vartotojų – DefaultPublicFolderMailbox \<value from previous command>
 
-Palaukite bent vieną valandą, kol pakeitimas įsigalios.
+Palaukite bent vieną valandą, kad pakeitimai įsigaliotų.
 
-Jei problema išlieka, atlikite [šią procedūrą,](https://aka.ms/pfcte) norėdami išspręsti viešųjų aplankų prieigos problemas naudodami "Outlook".
+Jei problema išlieka, atlikite [šią procedūrą](https://aka.ms/pfcte) , kad išspręstumėte viešojo aplanko prieigos problemas naudodami "Outlook".
+ 
+**Norėdami valdyti, kurie vartotojai gali pasiekti viešuosius aplankus naudodami "Outlook"**:
+
+1.  Naudokite Set-CASMailbox <mailboxname> -publicfolderclientaccess $TRUE arba $FALSE  
+      
+    $true: leisti vartotojams pasiekti viešuosius aplankus programoje "Outlook"  
+      
+    $false: uždrausti vartotojų prieigą prie viešųjų aplankų programoje "Outlook". – tai yra numatytoji reikšmė.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Pastaba** Ši procedūra gali valdyti ryšius tik su "Outlook" kompiuteriu, skirtais "Windows" klientams. Vartotojas gali toliau naudotis viešaisiais aplankais naudodami OWA arba "Outlook for Mac".
+ 
+Daugiau informacijos ieškokite straipsnyje [palaikymo, skirto valdomam ryšiui su viešaisiais aplankais programoje "Outlook", palaikymas](https://aka.ms/controlpf).
