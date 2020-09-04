@@ -14,21 +14,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431189"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364631"
 ---
 # <a name="billing-or-invoice-faq"></a>Atsiskaitymo arba sąskaitos faktūros DUK
 
 - Mokėjimai gali būti **atmesti** dėl kelių priežasčių, įskaitant pasibaigusį kredito kortelės galiojimą. Norėdami tai išspręsti, žr. [Mokėjimo būdo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
 - Jei jūsų mokėjimas **vėluoja**, naudokite funkciją **Sudengimo likutis**, kad iš naujo pateiktumėte mokėjimą. Norėdami išspręsti problemą, žr. [Ką daryti, jei mokėjimas vėluoja?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Vis tiek esate apmokestinami už licencijas, kurios nėra priskirtos vartotojams. Norėdami išvengti nereikalingų mokesčių, pašalinkite licencijas, kad sumažintumėte licencijų skaičių. Peržiūrėkite [Licencijų įtraukimas arba šalinimas](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) iš prenumeratos.
+- Vis tiek gaunate mokestį už licencijas, kurios nėra priskirtos vartotojams. Kad išvengtumėte nereikalingų mokesčių, pašalinkite nenaudojamas licencijas, kad sumažintumėte licencijų skaičių. Žiūrėkite [įtraukti arba pašalinti licencijas](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) iš prenumeratos.
 - Jei norite pakeisti **atsiskaitymo dažnumą** į kas mėnesį ar kas metus, žr. [Atsiskaitymo dažnumo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Jei reikia pagalbos dėl mokėjimo, žr. [Sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Jei reikia pagalbos, norint **peržiūrėti** sąskaitą, žr. [Sąskaitos ar sąskaitos faktūros peržiūra](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Jei norite pakeisti atsiskaitymo informaciją, žr. [Atsiskaitymo profilio tvarkymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) arba [Atsiskaitymo adreso keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Jei norite pakeisti atsiskaitymo informaciją, peržiūrėkite [atsiskaitymo profilio valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) arba [atsiskaitymo adreso keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Daugiau informacijos rasite [Sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Daugiau informacijos rasite [savo sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
