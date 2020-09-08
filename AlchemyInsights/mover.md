@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157651"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406334"
 ---
-# <a name="mover"></a><span data-ttu-id="e0b3e-102">Mover</span><span class="sxs-lookup"><span data-stu-id="e0b3e-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="bacc9-102">Mover</span><span class="sxs-lookup"><span data-stu-id="bacc9-102">Mover</span></span>
 
-<span data-ttu-id="e0b3e-103">Spalio 21, 2019, Microsoft įsigijo **Mover**, pirmaujanti tiekėjas debesis failų migracija.</span><span class="sxs-lookup"><span data-stu-id="e0b3e-103">On October 21, 2019, Microsoft acquired **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="bacc9-103">Spalio 21 d. 2019 "Microsoft" įsigijo  **Mover**, pirmaujantį debesies failų perkėlimo teikėją.</span><span class="sxs-lookup"><span data-stu-id="bacc9-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
 
-<span data-ttu-id="e0b3e-104">Norėdami gauti daugiau informacijos apie Mover, prašome nurodyti šiuos straipsnius:</span><span class="sxs-lookup"><span data-stu-id="e0b3e-104">For more information on Mover, please reference the following articles:</span></span>
+<span data-ttu-id="bacc9-104">Šiuo metu [prašome tiesiogiai pateikti palaikymo užklausas](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="bacc9-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
 
-- [<span data-ttu-id="e0b3e-105">Mover migracijos gidai</span><span class="sxs-lookup"><span data-stu-id="e0b3e-105">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="e0b3e-106">Bendrosios migracijos DUK</span><span class="sxs-lookup"><span data-stu-id="e0b3e-106">General Migration FAQ</span></span>](https://mover.io/guides/general/)
-- [<span data-ttu-id="e0b3e-107">Mover jungtys</span><span class="sxs-lookup"><span data-stu-id="e0b3e-107">Mover Connectors</span></span>](https://mover.io/connectors/)
+<span data-ttu-id="bacc9-105">Daugiau informacijos apie Mover ieškokite šiuose straipsniuose:</span><span class="sxs-lookup"><span data-stu-id="bacc9-105">For more information on Mover, please reference the following articles:</span></span>
 
-<span data-ttu-id="e0b3e-108">Šiuo metu, **prašome tiesiogiai bet kokios paramos prašymus** [support@mover.io](mailto:support@mover.io) pagalbos su produktu.</span><span class="sxs-lookup"><span data-stu-id="e0b3e-108">At the current time, **please direct any support requests to** [support@mover.io](mailto:support@mover.io) for help with the product.</span></span> 
-
- 
+- [<span data-ttu-id="bacc9-106">Mover perkėlimo orientyrai</span><span class="sxs-lookup"><span data-stu-id="bacc9-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
+- [<span data-ttu-id="bacc9-107">Bendrojo perkėlimo DUK</span><span class="sxs-lookup"><span data-stu-id="bacc9-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
