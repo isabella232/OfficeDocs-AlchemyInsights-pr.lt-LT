@@ -1,10 +1,11 @@
 ---
-title: Kaip įsigyti "Microsoft 365"
+title: Kaip padaryti "Microsoft 365" pirkimą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 57cf149b0ecfaf06f34b7fb8cd746584e305a232
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509212"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703885"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Kaip įsigyti "Microsoft 365"
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Kaip padaryti "Microsoft 365" pirkimą
 
-Pirkimai sistemoje "Microsoft 365" gali būti atliekami administravimo centre.
+"Microsoft 365" pirkimai gali būti atliekami administravimo centre.
   
-- Norėdami įsigyti planą, **Billing** eikite į puslapį \> [Atsiskaitymo pirkimo paslaugos.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+- Norėdami įsigyti planą, eikite į puslapį **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- Norėdami įsigyti papildomų licencijų, eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Pasirinkite prenumeratą, į kurią norite įtraukti licencijų, tada pasirinkite **Įtraukti/šalinti licencijas**.
+- Norėdami įsigyti papildomų licencijų, eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Pasirinkite prenumeratą, į kurią norite įtraukti licencijų, tada pasirinkite **Įtraukti/šalinti licencijas**.
   
-Norėdami sužinoti daugiau, žiūrėkite ["Microsoft 365" verslui prenumeratos licencijų įsigijimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Jei norite sužinoti daugiau, peržiūrėkite ["Microsoft 365" verslui prenumeratos licencijų pirkimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Trikčių diagnostika**
 
@@ -35,6 +36,6 @@ Jei kilo problemų dėl puslapio įkėlimo, bandykite atidaryti tinklalapį kito
 
 **Papildomi ištekliai**
   
-- [Licencijų priskyrimas vartotojams sistemoje "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Licencijų priskyrimas vartotojams "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Atšaukti "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- ["Microsoft 365" verslui atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
