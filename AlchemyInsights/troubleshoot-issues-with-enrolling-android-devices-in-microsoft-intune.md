@@ -1,46 +1,47 @@
 ---
-title: "\"Android\" įrenginių įtraukimo į \"Microsoft Intune\" trikčių šalinimas"
+title: Trikčių šalinimas naudojant "Microsoft Intune" "Android" įrenginius
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759628"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689962"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>"Android" įrenginių įtraukimo į "Microsoft Intune" trikčių šalinimas
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Trikčių šalinimas naudojant "Microsoft Intune" "Android" įrenginius
 
-Peržiūrėkite toliau išvardytus išteklius, kad išspręstumėte problemą dabar.
+Peržiūrėkite toliau išvardytus išteklius ir Išspręskite problemą dabar.
   
-Kai kurios dažniausios problemos ir sprendimo veiksmai:
+Kai kurios Dažniausios problemos ir sprendimo veiksmai:
   
- **Įrenginio neužšifruota klaida įmonės portale:** Naujesnėms "Android" versijoms, ypač pradedant v7.0, reikia paleisties kodą, kad įsitikintumėte, jog jūsų įrenginys yra visiškai užšifruotas. Įprasti sprendimai yra įgalinti paleisties smeigtuką arba visiškai užšifruoti įrenginį. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) jei norite gauti daugiau informacijos.
+ **Įrenginio neužšifruota klaida įmonės portale:** Naujesnės "Android" versijos, ypač pradedant nuo v 7.0, reikalauja paleisties slaptojo kodo, kad įsitikintumėte, jog jūsų įrenginys visiškai šifruotas. Įprasti sprendimai yra įgalinti paleisties PIN arba visiškai užšifruoti įrenginį. Norėdami gauti daugiau informacijos, peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) .
   
- **Įrenginiai nepavyksta patikrinti su Intune paslauga arba rodyti kaip "Nesveika" Intune administratoriaus konsolėje:** Kai kurie "Samsung 4.4" ir "5.5" įrenginiai gali netikrinti paslaugos. Yra 3 galimi šios problemos sprendimai:
+ **Įrenginių nepavyksta patikrinti naudojant Intune tarnybą arba Rodyti kaip "nesveika" Intune administravimo konsolėje:** Kai kurie "Samsung" 4,4 ir "5,5" įrenginiai gali netikrinti tarnybos. Yra 3 galimi šios problemos sprendimo būdai:
   
-1. Rankiniu būdu atidarykite "Intune" įmonės portalo programą, kuri automatiškai pradės įrenginio sinchronizavimą.
+1. Neautomatiškai atidarykite "Intune" įmonės portalo programą, kuri automatiškai pradės įrenginio sinchronizavimą.
 
-2. Atnaujinkite įrenginį į 6.0 ar naujesnę "Android".
+2. Atnaujinkite įrenginį į "Android" 6,0 arba naujesnę versiją.
 
-3. Išjunkite "Samsung Smart Manager" nuo "Intune" įmonės portalo valdymo. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) jei reikia daugiau informacijos šiais klausimais ir sprendimais.
+3. Išjunkite "Samsung Smart Manager" naudodami "Intune" įmonės portalą. Peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , kad sužinotumėte daugiau apie šias problemas ir rezoliucijas.
 
- **Vartotojo licencijos tipas neleistinas** arba **vartotojo vardas neatpažintas klaida:** vartotojui reikia priskirti Intune arba EMS licenciją. Peržiūrėkite šiuos dokumentus, kad priskirtumėte licenciją per: "Office" administravimo centras arba "Azure" portalas.
+ **Vartotojo licencijos tipas neleistinas** arba **vartotojo vardas neatpažinta klaida:** vartotojui reikia priskirti Intune arba EMS licenciją. Peržiūrėkite šiuos dokumentus, kad priskirtumėte licenciją naudodami: "Office" administravimo centras arba "Azure" portalas.
   
 Papildomi ištekliai, padėsiantys išspręsti problemą:
   
-1. Naudokite [Intune trikčių diagnostikos portalas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnozuoti ir išspręsti bendrąsias registracijos klaidas. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune/help-desk-operators) jei norite gauti daugiau informacijos.
+1. Naudokite " [Intune" trikčių diagnostikos portalą](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , kad išspręstumėte ir išspręstumėte įprastas registracijos triktis. Peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune/help-desk-operators) , kad sužinotumėte daugiau.
 
-2. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) kuriame pateikiamas dažniausiai pasitaikančių klaidų, kurios neleidžia registruotis ir priimti sprendimai kiekvienam, sąrašas.
+2. Peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , kad būtų dažnai pasitaikančių klaidų, neleidžiančių atlikti įtraukimo ir sprendimų, sąrašas.
 
-3. [Sužinokite, kaip užregistruoti "Android" įrenginius "Microsoft Intune".](https://docs.microsoft.com/intune/android-enroll)
+3. [Sužinokite, kaip užregistruoti "Android" įrenginius programoje "Microsoft Intune"](https://docs.microsoft.com/intune/android-enroll).

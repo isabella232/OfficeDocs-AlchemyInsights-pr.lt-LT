@@ -1,41 +1,42 @@
 ---
-title: Prieigos uždraustų pranešimų trikčių diagnostika
+title: "\"Access\" uždraustų žinučių trikčių diagnostika"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510508"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691691"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Prieigos uždraustų pranešimų trikčių diagnostika
+# <a name="troubleshoot-access-denied-messages"></a>"Access" uždraustų žinučių trikčių diagnostika
 
-Jei bandydami naršyti "Sharepoint Online" svetainę gaunate pranešimą, kad prieiga uždrausta, žiūrėkite toliau pateiktus straipsnius.
+Jei bandydami naršyti "SharePoint Online" svetainę gaunate pranešimą "prieiga uždrausta", peržiūrėkite toliau pateiktus straipsnius.
 
-**Vartotojo įtraukimas ir licencijavimas**
+**Vartotojo įtraukimas ir licencijuoti**
 
-Įsitikinkite, kad [priskiriate licencijas vartotojams "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Įsitikinkite, kad [vartotojams priskiriate licencijas "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
-**Priskirti teises**
+**Teisių priskyrimas**
 
-Jei vartotojui buvo priskirta "SharePoint" licencija ir vis dar gaunamas pranešimas apie prieigą, kuriai uždrausta, įsitikinkite, kad jam [priskirtas atitinkamas teisių lygis.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+Jei vartotojui priskirta "SharePoint" licencija ir vis tiek gaunamas pranešimas "prieiga uždrausta", įsitikinkite, kad jiems [priskirtas reikiamas teisių lygis](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Apsvarstykite galimybę naudoti prieigos užklausos funkciją**
+**Naudokite "Access" užklausos funkciją**
 
-[Prieigos užklausos](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkcija leidžia žmonėms prašyti prieigos prie turinio, kurio jie šiuo metu neturi teisės matyti. 
+" [Access" užklausos](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkcija leidžia žmonėms prašyti prieigos prie turinio, kurio jie šiuo metu neturi teisės matyti. 
 
-**Leisti pasirinktinį scenarijų gali sukelti prieigos uždrausta problemos**
+**Leisti pasirinktiniam scenarijui gali sukelti "Access" uždraustas problemas**
 
-Yra tam tikrų scenarijų, kai funkcija "Leisti pasirinktinį scenarijų" gali būti pateikti prieiga uždrausta. Dėl funkcijų, susijusių su paveiktų funkcijų sąrašą, saugos sumetimais ir galimybę išjungti funkciją. Apsilankykite , [Leisti pasirinktinį scenarijų arba jo prevencija](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Yra tam tikrų scenarijų, kai "leisti pasirinktiniam scenarijui" funkcija gali pateikti prieigą uždrausta. Dėl paveiktų funkcijų sąrašo, saugos sumetimais ir galimybės išjungti funkciją. Apsilankykite, [leiskite arba užkirkite kelią pasirinktiniam scenarijui](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Pastaba: jei "OneDrive" arba "SharePoint" svetainė nepasiekiama keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema. [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
+Pastaba: jei "OneDrive" arba "SharePoint" svetainė neprieinama keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema. [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

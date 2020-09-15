@@ -1,50 +1,51 @@
 ---
-title: Esamo monitoriaus trikčių diagnostika
+title: Trikčių diagnostika esamas monitorius
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: d90baddd01bdf8508bd6289509c8399b8241887a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738576"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690719"
 ---
-# <a name="troubleshoot-an-existing-monitor"></a>Esamo monitoriaus trikčių diagnostika
+# <a name="troubleshoot-an-existing-monitor"></a>Esamo monitoriaus trikčių šalinimas
 
-Išbandykite šiuos sprendimus monitoriui šalinti. 
+Išbandykite šiuos sprendimus, kad išspręstumėte monitorių. 
 
-**Atnaujinkite monitoriaus ekraną:**
+**Atnaujinkite monitoriaus rodymą:**
 
-Vienu metu paspauskite šiuos klavišus: "Windows" klavišas + "Ctrl" + "Shift" + B. Taip bus atnaujintas ryšys su grafikos tvarkykle. Jūsų monitoriai mirksės trumpam ir po kelių sekundžių grįš.
+Vienu metu paspauskite šiuos klavišus: "Windows" klavišas + "Ctrl" + "Shift" + B. Taip bus atnaujintas ryšys su jūsų grafikos tvarkykle. Jūsų monitoriai mirksės akimirksniu ir grįš po kelių sekundžių.
 
 **Monitoriaus aparatūros trikčių diagnostika:**
 
-1. Atjunkite kabelį, jungiančio kompiuterį prie monitoriaus, ir vėl jį prijunkite.
-2. Atjunkite visus neesminius prietaisus iš savo kompiuterio (pvz., adapterius arba dokus).
+1. Atjunkite kabelį, jungiantį kompiuterį su monitoriumi, ir vėl jį prijunkite.
+2. Atjunkite visus neesminius savo kompiuterio įrenginius (pvz., adapterius arba dokus).
 
-**Jei neseniai įdiegėte naujinimą savo kompiuteryje, galite atkurti ekrano tvarkyklę:**
+**Jei neseniai įdiegėte naujinimą kompiuteryje, galite atšaukti savo rodymo tvarkyklę:**
 
-1. Pasirinkite **pradėti**, įveskite **įrenginių tvarkytuvė**ir rezultatuose pasirinkite **įrenginių tvarkytuvė** .
-2. Išplėskite skyrių **rodymo adapteriai** , dešiniuoju pelės mygtuku spustelėkite ekrano plokštę, tada pasirinkite **Ypatybės**.
+1. Pasirinkite **Pradžia**, įveskite **Device Manager**ir pasirinkite **įrenginių tvarkytuvas** iš rezultatų.
+2. Išplėskite sekciją **rodymo adapteriai** , dešiniuoju pelės mygtuku spustelėkite savo rodymo adapterį, ands pasirinkite **Properties (ypatybės**).
 3. Pereikite į skirtuką **tvarkyklė** ir pasirinkite **Atšaukti tvarkyklę**. <br>
-Pastaba: jei tai nepasiekiama arba yra papilkinti, pasirinkite **ne** iš toliau pateiktų parinkčių, kad pereitumėte prie kito veiksmo.
-4. Gali reikėti iš naujo paleisti kompiuterį, kad įsigaliotų šie keitimai.
+Pastaba: jei tai nėra arba yra papilkinta, pasirinkite **ne** iš toliau pateiktų parinkčių, kad pereitumėte prie paskesnio veiksmo.
+4. Gali tekti iš naujo paleisti kompiuterį, kad įsigaliotų šie pokyčiai.
 
-**Pašalinkite ir iš naujo įdiekite ekrano tvarkyklę:**
+**Ekrano tvarkyklės šalinimas ir diegimas iš naujo:**
 
-1. Pasirinkite **pradėti**, įveskite **įrenginių tvarkytuvė**ir rezultatuose pasirinkite **įrenginių tvarkytuvė** .
-2. Išplėskite skyrių **rodymo adapteriai** , dešiniuoju pelės mygtuku spustelėkite ekrano adapterį, tada pasirinkite **pašalinti įrenginį**. 
-3. Pažymėkite laukelį šalia **panaikinti šio įrenginio tvarkyklės programinę įrangą** ir pasirinkite **pašalinti**.<br>
-Pastaba: šiame etape jūsų gali būti paprašyta paleisti kompiuterį iš naujo. Prieš paleisdami iš naujo Būtinai užsirašykite likusias instrukcijas.
+1. Pasirinkite **Pradžia**, įveskite **Device Manager**ir pasirinkite **įrenginių tvarkytuvas** iš rezultatų.
+2. Išplėskite sekciją **rodymo adapteriai** , dešiniuoju pelės mygtuku spustelėkite ekrano adapterį, ands pasirinkite **pašalinti įrenginį**. 
+3. Pažymėkite žymės langelį, esantį prie **panaikinti šio įrenginio tvarkyklės programinę įrangą** , ir pasirinkite **pašalinti**.<br>
+Pastaba: šiame etape gali būti paprašyta iš naujo paleisti kompiuterį. Prieš paleisdami iš naujo Būtinai užsirašykite likusias instrukcijas.
 4. Dar kartą atidarykite įrenginių tvarkytuvę.
-5. Išplėskite skyrių **rodymo adapteriai** , dešiniuoju pelės mygtuku spustelėkite ekrano adapterį ir pasirinkite **Naujinti tvarkyklę**.
-6. Pasirinkite **automatiškai ieškoti tvarkyklės programinės įrangos** ir vykdykite diegimo instrukcijas.
+5. Išplėskite sekciją **rodymo adapteriai** , dešiniuoju pelės mygtuku spustelėkite ekrano adapterį ir pasirinkite **Naujinti tvarkyklę**.
+6. **Norėdami atnaujinti tvarkyklės programinę įrangą, pasirinkite Ieškoti automatiškai** ir vykdykite diegimo instrukcijas.

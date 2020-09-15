@@ -1,10 +1,11 @@
 ---
-title: Sukeiskite savo klasikinę šakninę svetainę su modernia svetaine
+title: Klasikinės šaknies svetainės keitimas naudojant šiuolaikinę svetainę
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741552"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691187"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Sukeiskite savo klasikinę šakninę svetainę su modernia svetaine
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasikinės šaknies svetainės keitimas naudojant šiuolaikinę svetainę
 
-Jei jūsų aplinka buvo nustatyta iki 2019 m. balandžio mėn., galite pakeisti šakninę svetainę į modernią svetainę naudodami "Microsoft PowerShell":
+Jei jūsų aplinka buvo nustatyta iki balandžio 2019, galite pakeisti savo šaknies svetainę į šiuolaikinę svetainę naudodami "Microsoft PowerShell":
 
-- Jei turite kitą svetainę, kurią norite naudoti kaip savo šakninę svetainę, galite pakeisti [(apsikeitimo) šakninė svetainė](https://docs.microsoft.com/sharepoint/modern-root-site) su juo. 
-    - Naudokite [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pakeisti svetainės vietą su kita svetaine, o archyvuoti pradinę svetainę. Galima naudoti ir komandos svetainėje (neprijungtoje prie grupės), ir ryšių svetainėje. 
+- Jei turite kitą svetainę, kurią norite naudoti kaip savo šaknies svetainę, galite pakeisti [(sukeisti) šaknies svetainę](https://docs.microsoft.com/sharepoint/modern-root-site) su ja. 
+    - Naudokite funkciją [Invoke – SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Norėdami sukeisti svetainės vietą su kita svetaine archyvuodami pradinę svetainę. Galima naudoti ir komandos svetainėje (nėra prijungta prie grupės) ir bendravimo svetainėje. 
 
-- Netrukus bus įvestos papildomos galimybės, kurios leis jums toliau naudoti svetainės turinį, bet konvertuoti esamą svetainę į ryšio svetainę. 
+- Netrukus bus įdiegtos papildomos galimybės, leidžiančios toliau naudoti svetainės turinį, bet konvertuoti esamą svetainę į ryšių svetainę. 
 >[!Important]
->Šios galimybės bus diegiamos palaipsniui. Toliau patikrinkite, ar pranešimų centre nėra naujinimų. 
+>Šie pajėgumai bus palaipsniui išskleidžiami. Toliau tikrinkite naujinimų centro naujinimus. 
 
-## <a name="known-issues-with-swapping-sites"></a>Žinomos problemos, susijusios su svetainių swapping
+## <a name="known-issues-with-swapping-sites"></a>Žinomos problemos keičiant svetaines
 
-- Paskirties svetainė gali pateikti klaidos "nerasta" (HTTP 404) trumpą laiką.
-- Norint atnaujinti ieškos indeksą, turinį reikės nuskaityti iš naujo. Nėra rankinio žingsnio reikia - tai bus daroma automatiškai.
-- Viskas, kas priklauso nuo "statinių" saitų (pvz., failų sinchronizavimo ir "OneNote" failų), turės būti ištaisyta rankiniu būdu.
-- Jei šaltinio svetainė buvo organizacijos naujienų svetainė, atnaujinkite URL.Gaukite visų organizacinių naujienų svetainių sąrašą.
-- Project Server svetainėse gali tekti patikrinti, siekiant užtikrinti, kad jie vis dar tinkamai susiję.
+- Paskirties svetainė trumpą laiką gali pateikti klaidą "nerastas" (HTTP 404).
+- Turiniui atnaujinti reikia atnaujinti ieškos indeksą. Nėra reikalingo rankinio veiksmo – tai bus atlikta automatiškai.
+- Viskas, kas priklauso nuo "statinio" saitų (pvz., failų sinchronizavimo ir "OneNote" failų), turės būti rankiniu būdu pataisyta.
+- Jei šaltinio svetainė buvo organizacijos naujienų svetainė, atnaujinkite URL.Gaukite visų organizacijos naujienų svetainių sąrašą.
+- "Project Server" svetaines gali reikėti patvirtinti, kad jos būtų tinkamai susietos.

@@ -1,34 +1,35 @@
 ---
-title: Prieigos uždraustų pranešimų trikčių diagnostika
+title: "\"Access\" uždraustų žinučių trikčių diagnostika"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3550081a12379f73725253214a2c2d44974ab740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690791"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Prieigos uždraustų pranešimų trikčių diagnostika
+# <a name="troubleshoot-access-denied-messages"></a>"Access" uždraustų žinučių trikčių diagnostika
 
-Jei kas nors gavo pranešimą "Prieiga uždrausta" į bendrai naudojamą aplanką "SharePoint", svetainių rinkinio administratorius galėjo įgalinti "Ribotos prieigos vartotojo teisių blokavimo režimą". Norėdami tai išjungti: 
+Jei kas nors gavo pranešimą "prieiga uždrausta" "SharePoint" bendrinamame aplanke, svetainių rinkinio administratorius galėjo įgalinti "Riboto priėjimo vartotojo teisių blokavimo režimą". Norėdami išjungti: 
   
-1. Raskite svetainę, spustelėkite piktogramą Parametrai, tada spustelėkite **Svetainės parametrai**.
+1. Eikite į svetainę, spustelėkite piktogramą parametrai, tada spustelėkite **Svetainės parametrai**.
     
-2. Dalyje **Svetainių rinkinio administravimas**spustelėkite **Svetainių rinkinio priemonės**.
+2. Dalyje **svetainių rinkinio administravimas**spustelėkite **svetainių rinkinio funkcijos**.
     
-3. Šalia **Apribotos prieigos vartotojo teisių užrakinimo režimas**spustelėkite **Išjungti**.
+3. Šalia **riboto priėjimo vartotojų teisių blokavimo režimo**spustelėkite **išjungti**.
     
-Prieiga uždrausta pranešimas taip pat gali atsirasti bendrai naudojamų aplankų, jei svetainė yra publikavimo svetainėje. Informacijos ieškokite [Prieiga uždrausta, kai prisijungiate prie bendrai naudojamo aplanko](https://go.microsoft.com/fwlink/?linkid=2004317).
+"Access Denied" pranešimas taip pat gali įvykti bendrinamuose aplankuose, jei svetainė yra publikavimo svetainė. Informacijos ieškokite skyriuje [prieiga uždrausta jungiantis prie bendrinamo aplanko](https://go.microsoft.com/fwlink/?linkid=2004317).
   
-Jei bandant peržiūrėti prieigos užklausas kažkas gavo pranešimą "Prieiga uždrausta", vartotojas turi būti įtrauktas kaip svetainės svetainių rinkinio administratorius arba savininkų grupės narys. Daugiau informacijos [ieškokite Prieiga uždrausta prie prieigos užklausų sąrašo](https://go.microsoft.com/fwlink/?linkid=2004220).
+Jei kas nors gavo pranešimą "prieiga uždrausta" bandydami Peržiūrėti prieigos užklausas, vartotojas turi būti įtrauktas kaip svetainių rinkinio administratorius arba svetainės savininkų grupės narys. Daugiau informacijos ieškokite " [Access" uždrausta prieigos užklausų sąrašui](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Jei vartotojas gavo pranešimą "Prieiga uždrausta", kai jie buvo pašalinti iš "Active Directory" vietiniame ir tada įtraukti atgal, žr [Prieiga uždrausta, kai vartotojo abonementas sinchronizuojamas su "Microsoft 365".](https://go.microsoft.com/fwlink/?linkid=2004318)
+Jei vartotojas gavo pranešimą "prieiga uždrausta" po to, kai jis buvo pašalintas iš "Active Directory" vietoje ir vėl įtrauktas, peržiūrėkite " [Access" uždraustas, kai vartotojo paskyra sinchronizuojama su "Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318)".
   
 
