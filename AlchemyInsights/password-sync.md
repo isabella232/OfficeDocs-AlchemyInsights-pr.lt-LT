@@ -1,5 +1,5 @@
 ---
-title: Kaip patikrinti slaptažodžio sinchronizavimo būseną
+title: Kaip patikrinti slaptažodžių sinchronizavimo būseną
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765601"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665654"
 ---
-# <a name="enable-password-sync"></a><span data-ttu-id="41bc1-102">Įgalinti slaptažodžio sinchronizavimą</span><span class="sxs-lookup"><span data-stu-id="41bc1-102">Enable Password Sync</span></span>
+# <a name="enable-password-sync"></a><span data-ttu-id="b1873-102">Slaptažodžių sinchronizavimo įgalinimas</span><span class="sxs-lookup"><span data-stu-id="b1873-102">Enable Password Sync</span></span>
 
-1.  <span data-ttu-id="41bc1-103">"Microsoft 365" administravimo centro pagrindiniame puslapyje pasirinkite **"DirSync" būsena.**</span><span class="sxs-lookup"><span data-stu-id="41bc1-103">Choose **DirSync Status** on the Microsoft 365 admin center home page.</span></span> 
+1.  <span data-ttu-id="b1873-103">"Microsoft 365" administravimo centro pagrindiniame puslapyje pasirinkite " **DirSync" būsena** .</span><span class="sxs-lookup"><span data-stu-id="b1873-103">Choose **DirSync Status** on the Microsoft 365 admin center home page.</span></span> 
     
-     <span data-ttu-id="41bc1-104">*Arba galite eiti į **Users** \> **Vartotojai Aktyvūs vartotojai**ir puslapyje Aktyvūs vartotojai pasirinkite **Daugiau** \> **katalogų sinchronizavimo.***</span><span class="sxs-lookup"><span data-stu-id="41bc1-104">*Alternately, you can go to **Users** \> **Active users**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
+     <span data-ttu-id="b1873-104">*Taip pat galite eiti į **vartotojus** \> **aktyvūs vartotojai**ir puslapyje aktyvūs vartotojai pasirinkite **daugiau** \> **katalogų sinchronizavimo.***</span><span class="sxs-lookup"><span data-stu-id="b1873-104">*Alternately, you can go to **Users** \> **Active users**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
     
-2. <span data-ttu-id="41bc1-105">Srityje Katalogų sinchronizavimas pasirinkite **Eiti į DirSync valdymas**.</span><span class="sxs-lookup"><span data-stu-id="41bc1-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
+2. <span data-ttu-id="b1873-105">Srityje katalogų sinchronizavimas pasirinkite **Eiti į "DirSync" valdymą**.</span><span class="sxs-lookup"><span data-stu-id="b1873-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
     
-3. <span data-ttu-id="41bc1-106">Dabar matysite savo būseną ir atlikite pakeitimus.</span><span class="sxs-lookup"><span data-stu-id="41bc1-106">Now you'll see your status, and make changes:</span></span>
+3. <span data-ttu-id="b1873-106">Dabar matysite būseną ir atlikite norimus veiksmus:</span><span class="sxs-lookup"><span data-stu-id="b1873-106">Now you'll see your status, and make changes:</span></span>
     
-    <span data-ttu-id="41bc1-107">**Slaptažodžio sinchronizavimas įgalintas:** (Teisinga arba Klaidinga).</span><span class="sxs-lookup"><span data-stu-id="41bc1-107">**Password sync enabled:** (True or False).</span></span> <span data-ttu-id="41bc1-108">Nurodo, ar įgalintas vietinio ir nuomotojo slaptažodžio sinchronizavimas.</span><span class="sxs-lookup"><span data-stu-id="41bc1-108">Specifies whether you have password sync enabled between on-premises and your tenant.</span></span> 
+    <span data-ttu-id="b1873-107">**Įgalintas slaptažodžių sinchronizavimas:** (TRUE (teisinga) arba neteisinga).</span><span class="sxs-lookup"><span data-stu-id="b1873-107">**Password sync enabled:** (True or False).</span></span> <span data-ttu-id="b1873-108">Nurodo, ar yra įgalintas slaptažodžių sinchronizavimas tarp vietinių ir jūsų nuomotojo.</span><span class="sxs-lookup"><span data-stu-id="b1873-108">Specifies whether you have password sync enabled between on-premises and your tenant.</span></span> 
     
-    <span data-ttu-id="41bc1-109">**Paskutinis slaptažodžio sinchronizavimas:** (paskutinį kartą buvo sinchroniškai sinchronizuojama slaptažodžiu).</span><span class="sxs-lookup"><span data-stu-id="41bc1-109">**Last Password Sync:** (Last time password sync ran).</span></span> <span data-ttu-id="41bc1-110">Bus rodomas įspėjimas ir saitas su trikčių šalinimo įrankiu, jei paskutinis sinchronizavimas buvo prieš tris dienas.</span><span class="sxs-lookup"><span data-stu-id="41bc1-110">This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
+    <span data-ttu-id="b1873-109">**Paskutinis slaptažodžių sinchronizavimas:** (paskutinį kartą buvo sinchronizuotas slaptažodis).</span><span class="sxs-lookup"><span data-stu-id="b1873-109">**Last Password Sync:** (Last time password sync ran).</span></span> <span data-ttu-id="b1873-110">Bus rodomas įspėjimas ir saitas su trikčių diagnostikos įrankiu, jei paskutinį kartą buvo sinchronizuota daugiau nei prieš tris dienas.</span><span class="sxs-lookup"><span data-stu-id="b1873-110">This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
     
 
