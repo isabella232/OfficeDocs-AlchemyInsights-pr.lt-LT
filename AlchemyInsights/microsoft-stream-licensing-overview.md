@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713942"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675342"
 ---
-# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="f83cb-102">"Microsoft Stream" licencijavimo apžvalga</span><span class="sxs-lookup"><span data-stu-id="f83cb-102">Microsoft Stream Licensing overview</span></span>
+# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="e8d5b-102">"Microsoft Stream" licencijavimo apžvalga</span><span class="sxs-lookup"><span data-stu-id="e8d5b-102">Microsoft Stream Licensing overview</span></span>
 
-<span data-ttu-id="f83cb-103">"Microsoft Stream" yra debesies paslauga, licencijuota kiekvienam vartotojo prenumeratai.</span><span class="sxs-lookup"><span data-stu-id="f83cb-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="f83cb-104">Ji pasiekiama kaip reikalavimus atitinkančių "Microsoft 365" prenumeratų dalis.</span><span class="sxs-lookup"><span data-stu-id="f83cb-104">It is available as part of eligible Microsoft 365 subscriptions.</span></span> <span data-ttu-id="f83cb-105">Informacijos apie kiekvieną prenumeratos tipą ieškokite "Microsoft 365" kainodara.</span><span class="sxs-lookup"><span data-stu-id="f83cb-105">See Microsoft 365 pricing for information on each subscription type.</span></span>
+<span data-ttu-id="e8d5b-103">"Microsoft Stream" yra debesies tarnyba, licencijuota vienam vartotojui prenumeratos pagrindu.</span><span class="sxs-lookup"><span data-stu-id="e8d5b-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="e8d5b-104">Ji pasiekiama kaip tinkamų "Microsoft 365" prenumeratų dalis.</span><span class="sxs-lookup"><span data-stu-id="e8d5b-104">It is available as part of eligible Microsoft 365 subscriptions.</span></span> <span data-ttu-id="e8d5b-105">Peržiūrėkite "Microsoft 365" kainodaros informaciją apie kiekvieną prenumeratos tipą.</span><span class="sxs-lookup"><span data-stu-id="e8d5b-105">See Microsoft 365 pricing for information on each subscription type.</span></span>
 
-- [<span data-ttu-id="f83cb-106">"Microsoft Stream" licencijavimo apžvalga</span><span class="sxs-lookup"><span data-stu-id="f83cb-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
+- [<span data-ttu-id="e8d5b-106">"Microsoft Stream" licencijavimo apžvalga</span><span class="sxs-lookup"><span data-stu-id="e8d5b-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
