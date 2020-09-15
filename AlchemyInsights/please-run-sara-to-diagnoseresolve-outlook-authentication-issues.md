@@ -1,10 +1,11 @@
 ---
-title: 182 Paleiskite SaRA, kad nustatytumėte ir išspręstumėte "Outlook" autentifikavimo problemas
+title: "\"182\" paleiskite \"Outlook\" autentifikavimo problemoms diagnozuoti ir išspręsti"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765539"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802029"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>SaRA naudojimas norint diagnozuoti ir išspręsti „Outlook“ autentifikavimo problemas
 
-**Pastaba:** patikrinkite, ar jūsų organizacijoje [įgalintas numatytasis saugos parametras.](https://aka.ms/securitydefaults) Jei jūsų nuomotojo buvo sukurtas po spalio 21, 2019 ir jūsų "Outlook" pakartotinai prašo slaptažodžio, galite turėti **saugos numatytuosius parametrus įjungtas** jūsų nuomotojo.
+**Pastaba**: patikrinkite, ar jūsų organizacijoje įgalinta [saugos numatytosios](https://aka.ms/securitydefaults) nuostatos. Jei jūsų nuomotojas buvo sukurtas po 21 spalis, "2019" ir jūsų "Outlook" pakartotinai prašo slaptažodžio, jūsų nuomotojuje gali būti įgalintos **saugos numatytosios** nuostatos.
 
-Labai rekomenduojame naudoti ["Outlook" ir toliau prašo mano slaptažodžio diagnostikos](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) paveiktame kompiuteryje, kad būtų galima spręsti problemas, kai "Outlook" nuolat ragina įvesti slaptažodį. Ši [SaRA](https://diagnostics.office.com/#/) diagnostika atlieka automatinius patikrinimus ir pateikia galimus sprendimus, kuriuos galite naudoti bet kokioms aptiktas problemoms spręsti.
+Primygtinai rekomenduojame naudoti "Outlook", [prašydama nustatyti savo slaptažodžių](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostiką paveiktame kompiuteryje, kad išspręstumėte problemas, kai "Outlook" nuolat ragina įvesti slaptažodį. " [SaRA](https://diagnostics.office.com/#/) " diagnostika automatiškai patikrina ir pateikia galimus sprendimus, kuriuos galite naudoti Norėdami išspręsti aptiktas problemas.

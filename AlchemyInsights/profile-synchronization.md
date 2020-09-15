@@ -1,30 +1,31 @@
 ---
 title: Profilio sinchronizavimas
-ms.author: arnek
-author: arnek
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768121"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801777"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kada mano profilis pasikeičia į "SharePoint" vartotojo profilio taikomąją programą?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kada mano profilis pakeis sinchronizavimą su "SharePoint" vartotojo profilio taikomąja programa?
 
-"SharePoint Online" naudoja Active Directory importavimo laikmačio užduotį (AD importavimas) vartotojams ir grupėms į vartotojo profilio taikomąją programą importuoti. 
+"SharePoint Online" naudoja "Active Directory" importavimo laikmačio užduotį (skelbimų importavimą), kad importuotumėte vartotojus ir grupes į vartotojo profilio taikomąją programą. 
   
-1. AD importavimas sinchronizuoja pakeitimus iš SharePoint Online Directory store vartotojo profilio programa. Šie pakeitimai apdorojami paketuose.
+1. SKELBIMŲ importavimas sinchronizuoja duomenis iš "SharePoint Online" katalogų parduotuvės į vartotojo profilio taikomąją programą. Šie pokyčiai apdorojami paketais.
     
-2. Laikmačio užduotis vykdoma tol, kol pakeitimai bus sinchronizuojami.
+2. Laikmačio užduotis vykdoma tol, kol bus sinchronizuoti pasikeitimai.
     
 > [!NOTE]
-> Užduoties vykdymo laikas priklauso nuo apdorojamų pakeitimų skaičiaus. Daug pakeitimų trunka ilgiau. Paslaugų lygio sutartyje (SLA) teigiama, kad "SharePoint Online Directory" vartotojo pakeitimas bus atspindėtas vartotojo profilio taikomojoje programoje per 24 valandas. 
+> Darbo vykdymo laikas priklauso nuo proceso keitimo skaičiaus. Daug pasikeitimų trunka ilgiau. Paslaugų lygio sutartyje (SLA) nurodoma, kad "SharePoint Online" kataloge vartotojas pakeis vartotoją per 24 valandas. 
   
 [Daugiau informacijos apie vartotojo profilio sinchronizavimą "SharePoint Online"](https://go.microsoft.com/fwlink/?linkid=875671)
   
