@@ -6,25 +6,26 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088401"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801849"
 ---
-# <a name="print-spooler-issue-is-resolved"></a><span data-ttu-id="288c9-102">Spausdinimo kaupos problema išspręsta</span><span class="sxs-lookup"><span data-stu-id="288c9-102">Print spooler issue is resolved</span></span>
+# <a name="print-spooler-issue-is-resolved"></a><span data-ttu-id="d6e61-102">Spausdinimo kaupos problema išspręsta</span><span class="sxs-lookup"><span data-stu-id="d6e61-102">Print spooler issue is resolved</span></span>
 
-<span data-ttu-id="288c9-103">Jei jūsų įrenginys buvo atnaujintas naudojant "Windows 10 **OS Build 19041.329",** galbūt pastebėjote problemą, dėl kurios tam tikriems spausdintuvams nepavyksta spausdinti.</span><span class="sxs-lookup"><span data-stu-id="288c9-103">If your device was updated with Windows 10  **OS Build 19041.329**, you might have observed an issue where certain printers fail to print.</span></span> <span data-ttu-id="288c9-104">Spausdinimo kaupos programa gali mesti klaidą arba netikėtai uždaryti bandant spausdinti, ir nėra išvesties iš susijusio spausdintuvo.</span><span class="sxs-lookup"><span data-stu-id="288c9-104">The print spooler might throw an error or close unexpectedly when attempting to print, and no output comes from the affected printer.</span></span> <span data-ttu-id="288c9-105">Ši problema išspręsta OS komponavimo versijos **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).</span><span class="sxs-lookup"><span data-stu-id="288c9-105">This issue is resolved in OS Build  **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).</span></span>  
+<span data-ttu-id="d6e61-103">Jei jūsų įrenginys buvo atnaujintas naudojant "Windows 10"  **OS komponavimo versiją 19041,329**, galite pastebėti problemą, dėl kurios kai kurie spausdintuvai nesugeba spausdinti.</span><span class="sxs-lookup"><span data-stu-id="d6e61-103">If your device was updated with Windows 10  **OS Build 19041.329**, you might have observed an issue where certain printers fail to print.</span></span> <span data-ttu-id="d6e61-104">Spausdinimo kaupos programa gali mesti klaidą arba uždaryti netikėtai, kai bandote spausdinti, o išvesties nėra iš susijusio spausdintuvo.</span><span class="sxs-lookup"><span data-stu-id="d6e61-104">The print spooler might throw an error or close unexpectedly when attempting to print, and no output comes from the affected printer.</span></span> <span data-ttu-id="d6e61-105">Ši problema išspręsta "OS Build  **19041,331**", [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).</span><span class="sxs-lookup"><span data-stu-id="d6e61-105">This issue is resolved in OS Build  **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).</span></span>  
 
-<span data-ttu-id="288c9-106">**Vykdomas tyrimas**</span><span class="sxs-lookup"><span data-stu-id="288c9-106">**Ongoing investigation**</span></span>
+<span data-ttu-id="d6e61-106">**Vykstantis tyrimas**</span><span class="sxs-lookup"><span data-stu-id="d6e61-106">**Ongoing investigation**</span></span>
 
-<span data-ttu-id="288c9-107">Vietinės saugos tarnybos posistemės tarnybos (LSASS) failas (**Isass.exe**) gali nepavykti kai kuriuose įrenginiuose su klaidos pranešimu "Kritinis sistemos procesas, C:\WINDOWS\system32\Isass.exe nepavyko dėl būsenos kodo c0000008.</span><span class="sxs-lookup"><span data-stu-id="288c9-107">The Local Security Authority Subsystem Service (LSASS) file (**Isass.exe**) might fail on some devices with the error message, "A critical system process, C:\WINDOWS\system32\Isass.exe, failed with status code c0000008.</span></span> <span data-ttu-id="288c9-108">Dabar mašiną reikia paleisti iš naujo".</span><span class="sxs-lookup"><span data-stu-id="288c9-108">The machine must now be restarted".</span></span>  <span data-ttu-id="288c9-109">**"Microsoft" dirba su rezoliucija ir pateiks naujinimą būsimame leidime.**</span><span class="sxs-lookup"><span data-stu-id="288c9-109">**Microsoft is working on a resolution and will provide an update in an upcoming release.**</span></span>
+<span data-ttu-id="d6e61-107">Vietinio saugos tarnybos posistemės tarnybos (LSASS) failas (**Isass.exe**) gali nepavykti kai kuriuose įrenginiuose su klaidos pranešimu "kritinis sistemos procesas, C:\WINDOWS\system32\Isass.exe, nepavyko dėl būsenos kodo c0000008.</span><span class="sxs-lookup"><span data-stu-id="d6e61-107">The Local Security Authority Subsystem Service (LSASS) file (**Isass.exe**) might fail on some devices with the error message, "A critical system process, C:\WINDOWS\system32\Isass.exe, failed with status code c0000008.</span></span> <span data-ttu-id="d6e61-108">Dabar kompiuteris turi būti paleistas iš naujo ".</span><span class="sxs-lookup"><span data-stu-id="d6e61-108">The machine must now be restarted".</span></span>  <span data-ttu-id="d6e61-109">**"Microsoft" dirba su rezoliucija ir pateiks naujinimą būsimame leidime.**</span><span class="sxs-lookup"><span data-stu-id="d6e61-109">**Microsoft is working on a resolution and will provide an update in an upcoming release.**</span></span>
 
-<span data-ttu-id="288c9-110">Norėdami gauti daugiau informacijos, prašome patikrinti [Windows 10 versija 2004 žinomos problemos](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).</span><span class="sxs-lookup"><span data-stu-id="288c9-110">For more information, please check out  [Windows 10 Version 2004 known issues](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).</span></span>
+<span data-ttu-id="d6e61-110">Daugiau informacijos rasite  ["Windows 10" versijoje 2004 žinomos problemos](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).</span><span class="sxs-lookup"><span data-stu-id="d6e61-110">For more information, please check out  [Windows 10 Version 2004 known issues](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).</span></span>
