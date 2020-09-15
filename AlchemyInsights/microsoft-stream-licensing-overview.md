@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713942"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675342"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>"Microsoft Stream" licencijavimo apžvalga
 
-"Microsoft Stream" yra debesies paslauga, licencijuota kiekvienam vartotojo prenumeratai. Ji pasiekiama kaip reikalavimus atitinkančių "Microsoft 365" prenumeratų dalis. Informacijos apie kiekvieną prenumeratos tipą ieškokite "Microsoft 365" kainodara.
+"Microsoft Stream" yra debesies tarnyba, licencijuota vienam vartotojui prenumeratos pagrindu. Ji pasiekiama kaip tinkamų "Microsoft 365" prenumeratų dalis. Peržiūrėkite "Microsoft 365" kainodaros informaciją apie kiekvieną prenumeratos tipą.
 
 - ["Microsoft Stream" licencijavimo apžvalga](https://docs.microsoft.com/stream/license-overview)

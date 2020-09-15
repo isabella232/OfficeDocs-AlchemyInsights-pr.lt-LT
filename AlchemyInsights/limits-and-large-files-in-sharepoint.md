@@ -1,33 +1,34 @@
 ---
-title: Apribojimai ir dideli failai "SharePoint"
+title: "\"SharePoint\" apribojimai ir stambūs failai"
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 78c952dc27e2a201c3379dcce62d0c2ee7dc26d6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675774"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failai, kurių negalima nusiųsti į "SharePoint Online"
 
-Jei failas nebus nusiųstas į "SharePoint Online", įsitikinkite, kad:
+Jei nepavyksta nusiųsti failo į "SharePoint Online", įsitikinkite, kad:
   
-- Jis mažesnis nei 15 GB dydžio.
+- Tai mažiau nei 15 GB dydžio.
     
-- Visas maršrutas, įskaitant failo vardą, yra mažesnis nei 400 simbolių.
+- Visas kelias, įskaitant failo vardą, yra mažiau nei 400 simbolių.
     
-- Failo varde nėra simbolių \* " \< \> : ? / \ | ir nėra [neleistinų vardų](https://go.microsoft.com/fwlink/?linkid=866430)sąraše .
+- Failo varde nėra simbolių " \* : \< \> ? / \ | ir nėra [neleistinų pavadinimų](https://go.microsoft.com/fwlink/?linkid=866430)sąraše.
     
-Jei bandote nusiųsti failą naudodami "OneDrive" darbalaukio programėlę, [peržiūrėkite Apribojimai ir apribojimai sinchronizuojant failus ir aplankus](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) arba ["OneDrive" sinchronizavimo problemų sprendimas](https://go.microsoft.com/fwlink/?linkid=866431).
+Jei bandote nusiųsti failą naudodami "OneDrive" kompiuterio taikomąją programą, peržiūrėkite [apribojimus ir apribojimus sinchronizuodami failus ir aplankus](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) arba [išspręsdami "OneDrive" sinchronizavimo problemas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 
