@@ -1,23 +1,24 @@
 ---
-title: Paskirstymo grupė {AimKIObject}' nerodoma grupių sąraše po {AimKITimeElapsed} minučių
+title: Paskirstymo grupė {AimKIObject} nerodoma grupių sąraše po {Aimkitimepraėjo} min.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715050"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679809"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Paskirstymo grupė "{AimKIObject}" nerodoma grupių sąraše po {AimKITimeElapsed} minučių
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Platinimo grupė "{AimKIObject}" nerodomi grupių sąraše po {Aimkitimepraėjo} min.
 
-Jūsų grupė {AimKIObject}" buvo sukurta prieš {AimKITimeElapsed} minutes. Paprastai naujos paskirstymo grupės rodymo administravimo centre užtrunka ne ilgiau kaip 60 minučių.
+Jūsų grupė "{AimKIObject}" buvo sukurta {Aimkitimepraėjo} min. Paprastai jūsų naujojoje paskirstymo grupėje daugiau nei 60 minučių bus rodoma administravimo centre.
   
-Galite naudoti funkciją Gavėjai > grupės ["Exchange" administravimo centre,](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) kad galėtumėte valdyti savo grupę dabar, arba naudoti parinktį "Paskambinkime jums", kad pasikalbėtumėte su palaikymo inžinieriumi. 
+Galite naudoti " [Exchange" administravimo centro](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) funkciją gavėjai > grupės, kad galėtumėte valdyti savo grupę dabar arba naudoti parinktį "Leiskite jums paskambinti", kad galėtumėte pasikalbėti su palaikymo inžinieriumi. 
   

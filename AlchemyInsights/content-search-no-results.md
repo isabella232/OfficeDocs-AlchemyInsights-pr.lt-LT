@@ -1,29 +1,30 @@
 ---
-title: Turinio paieška jokių rezultatų
+title: Turinio ieškos rezultatų nėra
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516787"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680655"
 ---
-# <a name="no-results-from-content-searchexports"></a>Jokių rezultatų iš turinio paieškos/eksportas
+# <a name="no-results-from-content-searchexports"></a>Nėra rezultatų iš turinio ieškos/eksportavimo
 
-Problemos su turinio paieškos/eksporto negrįžta duomenis gali būti dėl tam tikrų atitikties saugos filtrą, kuris buvo setup iš konkrečių Admin ir nėra perduoti visi administratorių.
+Problemos dėl turinio ieškos/eksportavimo negrąžinant jokių duomenų gali būti dėl tam tikro atitikties saugos filtro, kurį nustatė konkretus administratorius, o ne visiems administratoriams.
 
-Norėdami išspręsti šią problemą, patikrinkite, ar yra bet atitikties saugos filtrus, kurie gali kelti tai:
-1. Prisijungti prie saugos ir atitikties užtikrinimo centre "PowerShell"
-2. Vykdykite ir toliau "commandlet" komandas.
+Norėdami išspręsti šią problemą, patikrinkite, ar yra atitikties saugos filtrų, kurie gali sukelti šiuos veiksmus:
+1. Prisijungimas prie saugos ir atitikties centro "PowerShell"
+2. Vykdykite šiuos commandlets:
 <br>$org = "yourdomain.com"
-<br>Gauti ComplianceSecurityFilter-organizacijos $org
+<br>Gauti – ComplianceSecurityFilter – organizacijos $org

@@ -1,5 +1,5 @@
 ---
-title: Įgalinti kelių dalių autentifikavimą
+title: Kelių dalių autentifikavimo įgalinimas
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703470"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678044"
 ---
-# <a name="enable-multi-factor-authentication"></a>Įgalinti kelių dalių autentifikavimą
+# <a name="enable-multi-factor-authentication"></a>Kelių dalių autentifikavimo įgalinimas
 
 Norėdami įgalinti kelių dalių autentifikavimą "Microsoft 365" administravimo centre:
 
-1. Eikite į puslapį **Vartotojai** \> **Aktyvūs vartotojai.**
+1. Eikite į puslapį **vartotojai** \> **aktyvūs vartotojai** .
     
-2. Puslapio viršuje pasirinkite Kelių **dalių autentifikavimas**. 
+2. Puslapio viršuje pasirinkite **kelių dalių autentifikavimas**. 
     
-3. Raskite vartotoją arba vartotojus, kuriuos norite įgalinti kelių dalių autentifikavimui. Jei norite matyti visus vartotojus, gali tekti pakeisti būsenos filtrą **Kelių dalių autentifikavimas** viršuje.
+3. Raskite vartotoją arba vartotojus, kuriems norite įgalinti kelių dalių autentifikavimą. Norėdami matyti visus vartotojus, gali tekti pakeisti **kelių dalių autentifikavimo būsenos** filtrą viršuje.
     
-4. Pažymėkite žymės langelį šalia vartotojų, kuriuos norite įgalinti.
+4. Pažymėkite žymės langelį, esantį prie norimų įgalinti vartotojų.
     
-5.  Dešiniojoje vartotojo informacijos srityje, dalyje **Spartieji veiksmai**, pasirinkite **Įgalinti**. 
+5.  Dešiniojoje vartotojų informacijos srityje, dalyje **trumpi veiksmai**, pasirinkite **įgalinti**. 
     
-6. Atsidariusiame dialogo lange pasirinkite **Įgalinti kelių dalių autentifikavimą**. 
+6. Atsidariusiame dialogo lange pasirinkite **įjungti kelių dalių autentifikavimą**. 
     
 

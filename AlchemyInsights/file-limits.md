@@ -5,30 +5,31 @@ author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: dc77375a46c3a0973193e2d055fd7ab5ce125500
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702818"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677972"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Failų nusiuntimo apribojimai "SharePoint Online"
+# <a name="file-upload-limits-in-sharepoint-online"></a>"SharePoint Online" failų įkėlimo apribojimai
 
-- Bibliotekoje gali būti iki 30 milijonų failų ir aplankų.
+- Bibliotekoje gali būti iki "30 000 000" failų ir aplankų.
     
 - Bendras URL ilgis, įskaitant failo vardą, negali viršyti 400 simbolių.
     
-- Kiekvienas failas mush būti mažesnis nei 15 GB. Prie sąrašo elementų pridėti failai gali būti iki 250 MB dydžio.
+- Kiekvienas failas turi būti mažesnis nei 15 GB. Failai, pridėti prie sąrašo elementų, gali būti iki 250 MB dydžio.
     
-- Kad našumas būtų optimalus sinchronizuojant su nauju "OneDrive" sinchronizavimo klientu, bibliotekoje rekomenduojame saugoti ne daugiau kaip 100 000 failų. 
+- Siekiant optimalaus našumo sinchronizavimo su naujuoju "OneDrive" sinchronizavimo klientu rekomenduojame saugoti ne daugiau nei 100 000 failus bibliotekoje. 
     
 [Simboliai, kurių negalima naudoti failų varduose](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[Failų, kurių negalima įtraukti į sąrašą arba biblioteką, tipai](https://go.microsoft.com/fwlink/?linkid=273757)
+[Failų tipai, kurių negalima įtraukti į sąrašą arba biblioteką](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Daugiau informacijos apie "SharePoint Online" apribojimus](https://go.microsoft.com/fwlink/?linkid=271273)
+[Daugiau informacijos apie "SharePoint Online" limitus](https://go.microsoft.com/fwlink/?linkid=271273)
   
 
