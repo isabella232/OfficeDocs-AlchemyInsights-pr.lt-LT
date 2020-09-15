@@ -1,11 +1,12 @@
 ---
-title: Aplanko naikinimas Outlook.com
+title: Aplanko naikinimas "Outlook.com"
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 5c7c563c1f86930df24828f1ae478bea6602bb53
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 231ea7b7afb167190d8952c621f593c48233cf1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723830"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672532"
 ---
-# <a name="delete-a-folder-in-outlookcom"></a>Aplanko naikinimas Outlook.com
+# <a name="delete-a-folder-in-outlookcom"></a>Aplanko naikinimas "Outlook.com"
 
 1. Kairiojoje srityje dešiniuoju pelės mygtuku spustelėkite aplanką arba poaplankį, kurį norite panaikinti, ir pasirinkite **Naikinti aplanką**.
-2. Pasirinkite **Gerai,** kad patvirtintumėte.
+2. Pasirinkite **gerai** , kad patvirtintumėte.
 
-Norėdami sužinoti daugiau, žiūrėkite [Darbas su pranešimų aplankais Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami sužinoti daugiau, žiūrėkite [darbas su laiškų aplankais programoje "Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)".

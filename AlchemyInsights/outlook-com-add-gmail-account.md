@@ -1,33 +1,34 @@
 ---
-title: "\"Gmail\" paskyros pridėjimas prie Outlook.com"
+title: "\"Gmail\" paskyros įtraukimas į \"Outlook.com\""
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 75e5c4b76192daa1793717c7e9534583e6c15c78
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760924"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672568"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>"Gmail" paskyros pridėjimas prie Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>"Gmail" paskyros įtraukimas į "Outlook.com"
 
 1. Atidarykite [sinchronizavimo el. pašto parametrus](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Dalyje **Prijungtos paskyros**pasirinkite **Gmail**.
-3. Įveskite rodomą vardą (vardas gavėjai matys, kai jie gaus el. laišką iš jūsų).
-4. Pasirinkite, ar Outlook.com turėtų importuoti el. paštą iš "Gmail" ir kur bus saugomas importuotas el. laiškas.
-5. Pasirinkite **Gerai,** kad pereitumėte į "Google" prisijungimo puslapį.
+2. Dalyje **prijungtos paskyros**pasirinkite **"Gmail"**.
+3. Nurodykite rodomą vardą (gavėjų vardai bus rodomi gavus laišką iš jūsų).
+4. Pasirinkite, ar Outlook.com turėtų importuoti jūsų laiškus iš "Gmail" ir kur bus išsaugotas importuotas laiškas.
+5. Pasirinkite **gerai** , kad pereitumėte į "Google" prisijungimo puslapį.
 
-Sinchronizavimas iš prijungto abonemento į Outlook.com abonementą yra tik vienas pusę. El. laiškai, siunčiami iš "Gmail" paskyros naudojant Outlook.com nebus rodomi "Gmail" dalyje Išsiųsta.
+Sinchronizavimas iš prijungtojo abonemento į "Outlook.com" paskyrą yra tik viena kryptimi. El. laiškas, atsiųstas iš jūsų "Gmail" paskyros, naudojant "Outlook.com", bus nerodomas išsiųstuose elementuose "Gmail"
 
-El. laiškus galite siųsti Outlook.com iš prijungtos "Gmail" paskyros. Kurdami el. laišką pasirinkite **Iš** ir pasirinkite "Gmail" adresą arba [atnaujinkite numatytąjį adresą Nuo adreso](https://go.microsoft.com/fwlink/?linkid=875264).
+Galite siųsti elektroninį paštą iš "Outlook.com" iš savo prijungto "Gmail" paskyros. Kurdami elektroninį paštą **pasirinkite ir pasirinkite** savo "Gmail" adresą arba [atnaujinkite numatytąjį adresą iš adreso](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Daugiau informacijos rasite [Kitų el. pašto paskyrų įtraukimas į Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Daugiau informacijos ieškokite [kitų el. pašto paskyrų įtraukimas į "Outlook.com"](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
