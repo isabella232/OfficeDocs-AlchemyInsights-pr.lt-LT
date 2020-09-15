@@ -1,32 +1,33 @@
 ---
-title: Išorinis bendrinimas su komandos svetaine
+title: Išorinis bendras naudojimas su komandos svetaine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 05dc591bec1414fbc9f6eca9efcd0fdbf93bd9b9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702854"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708475"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Išorinis bendrinimas su komandos svetaine
+# <a name="external-sharing-with-a-team-site"></a>Išorinis bendras naudojimas su komandos svetaine
 
-Norėdami įjungti išorinį komandos svetainių vartotojų bendrinimą, atlikite šiuos veiksmus: 
+Norėdami įjungti išorinius vartotojų mainus komandos svetainėse, atlikite šiuos veiksmus: 
   
-1. Naujame "SharePoint" administravimo centre spustelėkite **Aktyvios svetainės**.
+1. Naujajame "SharePoint" administravimo centre spustelėkite **aktyvios svetainės**.
   
 2. Pasirinkite svetainę, kurioje yra **komandos svetainės** šablonas. 
   
-3. Viršutiniame meniu pasirinkite mygtuką **Bendrinimas.** 
+3. Viršutiniame meniu pasirinkite mygtuką **dalytis** . 
   
- **Pastaba:** pagal numatytuosius nustatymus sukūrus šiuolaikinės komandos svetainę, išorinio bendrinimo parinktis bus nustatyta kaip Nauji ir esami išoriniai vartotojai. 
+ **Pastaba**: pagal numatytuosius, kai sukuriama moderni komandos svetainė, išorinio naudojimo parinktis bus nustatyta naujiems ir esamiems išoriniams vartotojams. 
   
- **Pastaba:** Jei pasirinkote daugiau nei vieną svetainę, mygtukas **Bendrinimas** bus išjungtas. Pasirinkite tik vieną svetainę. 
+ **Pastaba:** Jei pažymėjote daugiau nei vieną svetainę, mygtukas **dalytis** bus išjungtas. Pasirinkite tik vieną svetainę. 
   
 

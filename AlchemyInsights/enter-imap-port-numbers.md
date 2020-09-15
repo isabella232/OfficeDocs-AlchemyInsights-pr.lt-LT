@@ -1,31 +1,32 @@
 ---
-title: Įveskite IMAP prievadų numerius
+title: IMAP prievado Numerių įvedimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279094"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709447"
 ---
-# <a name="enter-imap-port-numbers"></a>Įveskite IMAP prievadų numerius
+# <a name="enter-imap-port-numbers"></a>IMAP prievado Numerių įvedimas
 
-Prisijunkite per išankstinio sąrankos ekraną ir pridėkite prievado informaciją už dvitaškio, atitinkančio gaunamus ir siunčiamus serverio adresus. (Šią informaciją galite gauti iš savo el. pašto paslaugų teikėjo.) 
+Naudodami "Advance" sąrankos ekraną, įtraukite prievado išsamią informaciją, esančią už dvitaškio pagal gaunamus ir siunčiamus serverio adresus. (Šiuos duomenis galite gauti iš savo elektroninio pašto paslaugos teikėjo). 
 
-Eikite į **Parametrai** > **Pridėti abonemento** > **IMAP** > ir spustelėkite Rodyti **išplėstinius parametrus**; tada įveskite savo duomenis. 
+Eikite į **Parametrai**  >  **įtraukti paskyros**  >  **IMAP** > ir spustelėkite **Rodyti išplėstinius parametrus**; tada įveskite savo duomenis. 
 
-*Gaunamo pašto serveris*: imap.servername.com:000 (paprastai 993 arba 143) 
+*Gaunamo pašto serveris*: IMAP.servername.com:000 (paprastai "993" arba "143") 
 
-*Siunčiamo pašto serveris*: smtp.servername.com:000 (paprastai 465 arba 25) 
+*Siunčiamo pašto serveris*: SMTP.servername.com:000 (paprastai 465 arba 25) 
 
-Turėkite omenyje, kad dvitaškis yra svarbus. 
+Atminkite, kad dvitaškis svarbu. 

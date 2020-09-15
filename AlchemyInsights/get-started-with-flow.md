@@ -1,29 +1,30 @@
 ---
-title: Darbo su "Flow" pradžia
+title: Darbo su srautu Pradžia
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: 2c248929987ebd01c5b80ca49ab19e4424cde642
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2cb1f6b6621f467f7f626c8fe66d53e7f36601a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720891"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707395"
 ---
-# <a name="get-started-with-microsoft-flow"></a>Darbo su "Microsoft Flow" pradžia
+# <a name="get-started-with-microsoft-flow"></a>Darbo su "Microsoft Flow" Pradžia
 
 Naudodami "Microsoft Flow" galite:
   
-- Lengvai ieškokite šablonų ir paslaugų.
+- Lengvai ieškokite šablonų ir tarnybų.
     
-- Pasirinkite iš populiariausių paslaugų.
+- Pasirinkite iš populiariausių tarnybų.
     
-- Peržiūrėkite kiekvieno srauto apžvalgą.
+- Peržiūrėkite kiekvieno srauto suvestinę.
     
 [Sužinokite daugiau apie "Microsoft Flow"](https://go.microsoft.com/fwlink/?linkid=874446)
   
