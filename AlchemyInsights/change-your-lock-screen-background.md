@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 2ec68eb164748f27ef0f43a48994c61c9e67d310
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588132"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714480"
 ---
 # <a name="change-your-lock-screen-background"></a>Užrakto ekrano fono keitimas
 
-- Eikite į **Parametrų** > **personalizavimo** > **užrakto ekranas**. Arba spustelėkite arba bakstelėkite [čia](ms-settings:lockscreen?activationSource=GetHelp).
+- Eikite į **parametrų**  >  **personalizavimo**  >  **užrakto ekranas**. Arba spustelėkite arba bakstelėkite [čia](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Norėdami nustatyti pasirinktinį fono paveikslėlį, išplečiamajame sąraše **Fonas** pasirinkite **Paveikslėlis** ir pasirinkite arba **Naršyti** paveikslėlį.
+- Norėdami nustatyti pasirinktinę fono paveikslėlį, išplečiamajame sąraše **fonas** pasirinkite **paveikslėlis** ir pasirinkite arba **naršykite** į paveikslėlį.
 
-  ![Nustatykite pasirinktinį fono paveikslėlį.](media/set-custom-background-pic.png)
+  ![Nustatyti pasirinktinę fono paveikslėlį.](media/set-custom-background-pic.png)
 
-- Norėdami nustatyti pasirinktinių paveikslėlių skaidrių demonstravimą, išplečiamajame sąraše **Fonas** pasirinkite **Skaidrių demonstravimas** ir pasirinkite albumą arba įtraukite aplanką, kuriame yra skaidrių demonstravimo paveikslėliai.
+- Norėdami nustatyti skaidrių demonstraciją su pasirinktiniais paveikslėliais, išplečiamajame sąraše **fonas** pasirinkite **skaidrių demonstravimas** , tada pasirinkite albumą arba įtraukite aplanką, kuriame yra skaidrių demonstravimo paveikslėliai.
 
-  ![Nustatyti pasirinktinių paveikslėlių skaidrių demonstravimą.](media/set-up-slideshow-background.png)
+  ![Nustatykite skaidrių demonstraciją su pasirinktiniais paveikslėliais.](media/set-up-slideshow-background.png)

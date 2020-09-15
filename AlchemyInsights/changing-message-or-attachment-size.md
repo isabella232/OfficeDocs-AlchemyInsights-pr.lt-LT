@@ -4,25 +4,26 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706404"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714219"
 ---
 # <a name="changing-message-or-attachment-size"></a>Pranešimo arba priedo dydžio keitimas
 
-Kaip "Microsoft 365" administratorius galite pakeisti maksimalų / minimalų vartotojų siunčiamų pranešimų (įskaitant priedus) dydį. Tai galite padaryti atskiriems vartotojams arba visiems vartotojams (numatytoji organizacija). Pakeitus šį parametrą, tai trunka apie 30 minučių, kad įsigaliotų.
+Kaip "Microsoft" 365 administratorius, galite pakeisti maksimalų/minimalų pranešimų (kuriuose yra priedų), kuriuos siunčia jūsų vartotojai, dydį. Tai galite padaryti atskiriems vartotojams arba visiems vartotojams (organizacijos numatytoji reikšmė). Pakeitus šį parametrą, užtrunka apie 30 minučių.
   
-- Norėdami pakeisti konkretaus vartotojo pranešimo dydį, eikite į **Administravimo centrai** \> **"Exchange"** \> **gavėjų** \> **pašto dėžutės**. Pasirinkite vartotojo pašto dėžutę. Pasirinkite redagavimo piktogramą, pasirinkite **pašto dėžutės funkcijas**, tada dalyje **Pranešimo dydžio apribojimai**pasirinkite **Peržiūrėti išsamią informaciją** ir nurodykite naują maksimalų pranešimo dydį.
+- Norėdami pakeisti konkretaus vartotojo pranešimo dydį, eikite į **administravimo centrų** " \> **Exchange** " \> **gavėjų** \> **pašto dėžutės**. Pasirinkite vartotojo pašto dėžutę. Pasirinkite piktogramą Redaguoti, pasirinkite **pašto dėžutės funkcijos**, tada dalyje **pranešimo dydžio apribojimai**pasirinkite **Peržiūrėti išsamią informaciją** ir nurodykite naujas maksimalus pranešimo dydis.
 
-- Norėdami sužinoti, kaip tai pakeisti visoms pašto dėžutėms, skaitykite [šį straipsnį](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Norėdami sužinoti, kaip pakeisti visas pašto dėžutes, skaitykite [šį straipsnį](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- Apie maksimalius apribojimus skaitykite žiniatinklyje naudodami "Outlook" arba "Outlook", skaitykite [šį straipsnį](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). "Outlook Mobile" yra ne daugiau kaip 25 MB. Norėdami gauti "Outlook" "iOS" ir "Android" palaikymą, [spustelėkite čia](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Norėdami skaityti apie didžiausius "Outlook" arba "Outlook" žiniatinklyje esančius apribojimus, peržiūrėkite [šį straipsnį](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). "Outlook Mobile" turi didžiausią 25MB limitą. Norėdami gauti "Outlook iOS" ir "Android" palaikymą, [spustelėkite čia](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
