@@ -1,29 +1,30 @@
 ---
-title: Pagrindinė taisyklė
+title: Bazinė taisyklė
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549703"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686362"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Šalinti triktis su MDM institucija Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>"Microsoft Intune" problemų, susijusių su MDM tarnyba, trikčių šalinimas
 
-Štai keletas naudingų straipsnių apie tai, kaip pradėti su Intune:
+Toliau pateikiami keli naudingi straipsniai apie darbo su Intune pradžia:
 
 - [Kas yra Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Kaip nustatyti Intune pirmą kartą](https://docs.microsoft.com/intune/setup-steps)
+- [Kaip nustatyti pirmą kartą "Intune"](https://docs.microsoft.com/intune/setup-steps)
 - ["Intune" naudojimas ir naršymas](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Jei turite problemų su jūsų MDM institucija, kreiptis į [pakeisti Intune MDM institucija](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Jei iškilo problemų su jūsų MDM tarnyba, kreipkitės į "Intune" [MDM tarnybos keitimas](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).

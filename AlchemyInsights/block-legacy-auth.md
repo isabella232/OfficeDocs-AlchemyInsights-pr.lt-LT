@@ -1,34 +1,35 @@
 ---
-title: BlockLegacyAuth (Netoli viešbučio)
+title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079268"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685606"
 ---
-# <a name="blocking-legacy-authentication"></a>Blokavimas senstelėjusios įrangos autentifikavimas
+# <a name="blocking-legacy-authentication"></a>Senstelėjusio autentifikavimo blokavimas
 
-Senstelėjusios įrangos autentifikavimas yra terminas, kuris nurodo autentifikavimo užklausą, kurią pateikė:
+Senstelėjęs autentifikavimas yra terminas, nurodantis autentifikavimo užklausą, kurią pateikia:
 
-- Senesni "Office" klientai, kurie nenaudoja šiuolaikinės autentifikavimas (pvz., Office 2010 kliento).
+- Senesni "Office" Klientai, naudojantys šiuolaikinį autentifikavimą (pvz., "Office 2010" klientą).
 
-- Bet kuris klientas, kuris naudoja senstelėjusios įrangos pašto protokolus, pvz., IMAP/SMTP/POP3.
+- Bet kuris klientas, kuris naudoja senstelėjusius pašto protokolus, pvz., IMAP/SMTP/POP3.
 
-Jei norite gauti daugiau informacijos apie blokavimo senstelėjusios įrangos autentifikavimą ir įgalinti šiuolaikinės autentifikavimas, [ieškokite blokavimo senstelėjusios įrangos autentifikavimas](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+Daugiau informacijos apie senstelėjusio autentifikavimo blokavimą ir modernaus autentifikavimo įgalinimą rasite [senstelėjusio autentifikavimo blokavimą](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-Saugos numatytieji numatytieji "Azure Active Directory" ("Azure AD") numatytieji saugos duomenys palengvina jūsų organizacijos saugumą ir padeda apsaugoti jūsų organizaciją. Numatytuose saugos parametruose yra iš anksto sukonfigūruotų bendrųajų atakų saugos parametrų.
-Daugiau informacijos apie saugos numatytuosius parametrus ieškokite [Kas yra numatytieji saugos nustatymai?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+"Azure Active Directory" numatytoji saugos reikšmė ("Azure AD") padeda apsaugoti jūsų organizaciją ir ją apsaugoti. Saugos numatytose yra iš anksto sukonfigūruoti bendrųjų atakų saugos parametrai.
+Daugiau informacijos apie saugos numatytąsias reikšmes rasite [kas yra saugos numatytosios reikšmės?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Pastaba:** jei jūsų nuomotojas buvo sukurtas 2019 m. spalio 22 d. arba po jo, gali būti, kad susidūrėte su nauju saugiu pagal numatytuosius nustatymus ir nuomotojo numatytuosius saugos numatytuosius parametrus.  Siekiant apsaugoti visus mūsų vartotojus, saugumo numatytieji nustatymai yra iškočiojama visiems naujiems nuomininkams, sukurtiems.
+**Pastaba**: jei jūsų nuomotojas buvo sukurtas arba po spalio 22 d., "2019", gali būti, kad kyla naujų saugių pagal numatytuosius parametrus ir jūsų nuomotojuje jau yra įgalintos saugos numatytosios reikšmės.  Siekiant apsaugoti visus vartotojus, numatytosios saugos reikšmės yra diegiamos visiems naujiems nuomininkams, sukurtiems.

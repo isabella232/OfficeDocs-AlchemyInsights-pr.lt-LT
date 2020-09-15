@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: a409db3a997e970ff2bf7a1288a81e0881105567
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582063"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688990"
 ---
 # <a name="workflow-troubleshooting"></a>Darbo eigos trikčių diagnostika
 
-Norėdami gauti informacijos apie SharePoint darbo eigų derinimą, peržiūrėkite šiuos dalykus:
-- Derinimo darbo eigos panašus į ankstesnių versijų.  Daugiau informacijos ieškokite [SharePoint darbo eigų derinimas](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Daugiau informacijos apie trikčių diagnostiką ieškokite [SharePoint Server darbo eigos tikrinimo klaidų šalinimas](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Informacijos apie "SharePoint" darbo eigų derinimą peržiūrėkite:
+- Derinimo darbo eigos primena ankstesnes versijas.  Daugiau informacijos ieškokite " [SharePoint" darbo eigų derinimas](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- Daugiau informacijos apie trikčių diagnostiką ieškokite " [SharePoint Server" darbo eigos tikrinimo klaidų trikčių diagnostika](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Susijusios temos

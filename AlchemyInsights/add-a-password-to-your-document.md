@@ -1,25 +1,26 @@
 ---
-title: Įtraukite į dokumentą slaptažodį
+title: Slaptažodžio įtraukimas į dokumentą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 89556c12ce22c16b30162c5e61a3ef57aceba82d
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959572"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688522"
 ---
-# <a name="add-a-password-to-a-word-document"></a>Įtraukite slaptažodį į "Word" dokumentą
+# <a name="add-a-password-to-a-word-document"></a>Slaptažodžio įtraukimas į "Word" dokumentą
 
-1. Eikite į **failų** > **informacija** > **Apsaugokite dokumento** > **šifravimas slaptažodžiu**.
+1. Eikite į **failo**  >  **informacija**  >  **apsaugoti dokumentą**  >  **užšifruoti slaptažodžiu**.
 2. Įveskite norimą naudoti slaptažodį, tada pasirinkite **gerai**.
-3. Iš naujo įveskite slaptažodį, tada pasirinkite **gerai**.
+3. Dar kartą įveskite slaptažodį, tada pasirinkite **gerai**.

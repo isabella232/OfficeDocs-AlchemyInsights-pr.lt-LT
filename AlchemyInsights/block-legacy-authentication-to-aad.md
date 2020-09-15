@@ -1,26 +1,27 @@
 ---
-title: Blokuoti senstelėjusios įrangos autentifikavimas Azure AD sąlyginės prieigos
+title: Blokuoti senstelėjusį autentifikavimą "Azure AD" su sąlygine prieiga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: 1b2da141d99b25d71147bdd709a6a3191c02a8ae
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846983"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685498"
 ---
-# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Blokuoti senstelėjusios įrangos autentifikavimas Azure AD sąlyginės prieigos
+# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Blokuoti senstelėjusį autentifikavimą "Azure AD" su sąlygine prieiga
 
 Rekomenduojami dokumentai:
 
-- [Blokuoti senstelėjusios įrangos autentifikavimas Azure AD sąlyginės prieigos](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [Blokuoti prieigą, kai seanso rizika aptinkama su Azure Active Directory sąlyginės prieigos](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [Blokuoti senstelėjusį autentifikavimą "Azure AD" su sąlygine prieiga](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
+- [Blokuoti prieigą, kai aptinkama seanso rizika naudojant "Azure Active Directory" sąlyginę prieigą](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
