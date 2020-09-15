@@ -1,40 +1,41 @@
 ---
-title: Sukurkite el. Laiško sugavimo viską
+title: El. laiško kūrimas visiems
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 35f31c1662547d57c2fc9978ffb495ac29abcc01
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286200"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712994"
 ---
-# <a name="create-an-email-catch-all"></a>Sukurkite el. Laiško sugavimo viską
+# <a name="create-an-email-catch-all"></a>El. laiško kūrimas visiems
 
-Laimikio naudojimas yra labai varžomas. Geriau pateikti atmetimą siuntėjui, kad siuntėjai žinotų, jog jų pranešimas negali būti pristatytas taip, kaip sprendžiama, kad jie galėtų imtis veiksmų. Taip pat galite apriboti stebimą pašto dėžutę tik sugavimo tik anksčiau galiojančius el. pašto adresus. 
+Naudokite sugavimo visi primygtinai nenori. Jei norite, kad būtų lengviau grįžti prie siuntėjo, pranešantiems siuntėjams žinotų, kad pranešimo negalima pristatyti, kad jie galėtų imtis veiksmų. Taip pat galite apriboti stebimą pašto dėžutę, kad tik galėtumėte sugauti anksčiau galiojančius el. pašto adresus. 
 
-Bet koks laimikis visos pašto dėžutės gaus nemažai šlamštas ir galiausiai gali užpildyti, jei nėra atidžiai stebimi. (Yra gavimo ribos.) 
+Bet koks laimikis visos pašto dėžutės gaus gerą pašto šiukšlių ir galiausiai gali būti užpildytas, jei nėra atidžiai stebimas. (Yra gaunamų apribojimų.) 
 
 Jei nuspręsite tęsti, atlikite šiuos veiksmus:
 
-1. Dinaminio paskirstymo grupės kūrimas & apima "Visi gavėjų tipai".
+1. Dinaminio paskirstymo grupės kūrimas & įtraukti "visi gavėjų tipai".
 
-2. Sukurkite specialią pašto dėžutę el. laiškams sugauti, pvz., catchall@domain.com.
+2. Sukurkite specialią pašto dėžutę, kad galėtumėte sugauti laiškus, pvz., catchall@domain.com.
 
-3. Konkretaus domeno, nustatykite DomainType į "InternalRelay". Jei vėliau pašalinsite visus sugavimus, būtinai nustatykite domeną atgal į Autoritetingą.
+3. Konkrečiam domenui nustatykite DomainType "InternalRelay". Jei po to norite pašalinti viską, įsitikinkite, kad domeną norite grąžinti į patikimą.
 
-4. Sukurkite Mailflow transportavimo taisyklę taip:
+4. Sukurkite pašto srauto transportavimo taisyklę taip:
 
     - Jei siuntėjas yra "už organizacijos ribų"
-    - Peradresuoti pranešimą į Catchall@domain.com
-    - Išskyrus atvejus, kai gavėjas yra allusers@domain.com narys (paskirstymo grupėje yra visi nariai)
-    - Įsitikinkite, kad patikrinti, ar naujos pašto dėžutės yra įtrauktos į dinaminio paskirstymo grupės
+    - Peradresuokite pranešimą į "Catchall@domain.com"
+    - Išskyrus atvejus, kai gavėjas yra "allusers@domain.com" narys (paskirstymo grupėje yra visi nariai)
+    - Įsitikinkite, kad patvirtintumėte, jog naujos pašto dėžutės įtraukiamos į dinaminio paskirstymo grupę
