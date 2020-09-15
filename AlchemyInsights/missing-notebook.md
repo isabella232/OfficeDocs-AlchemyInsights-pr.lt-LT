@@ -1,27 +1,28 @@
 ---
-title: Trūksta kompiuterio
+title: Trūksta bloknoto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800484"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667166"
 ---
-# <a name="recover-missing-notebook"></a>Atkurti trūkstamus Notepad
+# <a name="recover-missing-notebook"></a>Trūkstamo bloknoto atkūrimas
 
-Jei netyčia panaikintas bloknotu, esančiu OneDrive, galėsite juos atkurti iš šiuos veiksmus [atkurti ištrintus failus ar aplankus į "OneDrive"](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Jei "OneDrive" buvo netyčia panaikintas bloknotas, galite jį atkurti atlikę veiksmus, aprašytus skyriuje ["OneDrive" panaikintų failų ar aplankų atkūrimas](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Galite atkurti panaikintus "OneDrive" bloknotas per 30 dienų pagal numatytuosius nustatymus pagal toliau nurodytus dalykus veiksmus [Atkurti panaikintus "OneDrive"](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Galite atkurti bloknotą panaikintu "OneDrive" per 30 dienų pagal numatytuosius numatytuosius " [OneDrive" atkūrimo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) veiksmus
 
-"OneNote" gali naudoti kitą abonentą nei tikitės. Jei turite savo darbo arba mokyklos pateiktą sąskaitą be asmeninės "Microsoft" paskyros, jums reikės kitos paskyros įtraukimas į Rodyti visuose bloknotuose (žr. instrukcijas, kaip [Įtraukti abonementą į "OneNote"](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+"OneNote" gali naudoti kitą abonementą nei tikėjotės. Jei turite darbo ar mokymo įstaigos paskyrą, o ne asmeninę "Microsoft" paskyrą, turėsite įtraukti kitą paskyrą, kad peržiūrėtumėte visus savo bloknotus (nurodyti instrukcijas, kaip [įtraukti abonementą programoje "OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)".

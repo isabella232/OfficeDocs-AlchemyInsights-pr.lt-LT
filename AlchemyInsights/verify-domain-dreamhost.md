@@ -1,26 +1,27 @@
 ---
-title: Domeno patvirtinimas naudojant "Dreamhost"
+title: Domeno tikrinimas naudojant Dreamhost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766249"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669039"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a>Domeno patvirtinimas naudojant "Dreamhost"
+# <a name="verify-your-domain-with-dreamhost"></a>Domeno tikrinimas naudojant Dreamhost
 
-Norėdami patikrinti savo domeną, į domeno registratorių turėsite įtraukti TXT įrašą, kad patvirtintumėte, jog domenas priklauso jums. 
+Norėdami patikrinti, ar domenas priklauso jums, turite įtraukti TXT įrašą į domeno registratorių ir patvirtinti, kad domenas priklauso jums. 
 
-Pirmiausia vykdykite [domeno įtraukimo vedlį](https://portal.office.com/adminportal/home#/Domains) pasirinkdami **Parametrai** \> **Domenai**, tada – Įtraukti **domeną**.
+Pirmiausia vadovaukitės [domeno įtraukimo vedikliu](https://portal.office.com/adminportal/home#/Domains) , pasirinkite **parametrų** \> **domenai**, tada **įtraukite domeną**.
   
-Nuoseklių instrukcijų [ieškokite "Dreamhost", skirtos "Microsoft 365", DNS įrašų kūrimas.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)
+Žiūrėkite [kurti DNS įrašus Dreamhost, skirtą "Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) , kad būtų pateikiamos nuoseklios instrukcijos.

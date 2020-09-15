@@ -1,23 +1,24 @@
 ---
-title: Įdiekite QoS ir stebėkite skambučių kokybę komandose
+title: QoS ir monitoriaus skambučio kokybės įgyvendinimas programoje "teams"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599996"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667958"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Įdiekite QoS ir stebėkite skambučių kokybę komandose
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>QoS ir monitoriaus skambučio kokybės įgyvendinimas programoje "teams"
 
-Skambučių "Analytics" ir skambučių kokybės ataskaitų sritį galima naudoti skambučių kokybės problemoms "Microsoft Teams" spręsti. Norėdami sužinoti daugiau apie paslaugų kokybę (QoS), skambučių analizę ir skambučių kokybės ataskaitų sritį (CQD), [žr.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 
+Skambučių analizės ir skambučių kokybės ataskaitų sritis galima naudoti "Microsoft teams" skambučių kokybės problemoms šalinti. Norėdami sužinoti daugiau apie paslaugos kokybę (QoS), skambučių analizės ir skambučių kokybės ataskaitų srities (CQD), žiūrėkite ["Microsoft teams" QoS ir monitoriaus skambučio kokybės įdiegimas](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 

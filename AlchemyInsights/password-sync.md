@@ -1,5 +1,5 @@
 ---
-title: Kaip patikrinti slaptažodžio sinchronizavimo būseną
+title: Kaip patikrinti slaptažodžių sinchronizavimo būseną
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765601"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665654"
 ---
-# <a name="enable-password-sync"></a>Įgalinti slaptažodžio sinchronizavimą
+# <a name="enable-password-sync"></a>Slaptažodžių sinchronizavimo įgalinimas
 
-1.  "Microsoft 365" administravimo centro pagrindiniame puslapyje pasirinkite **"DirSync" būsena.** 
+1.  "Microsoft 365" administravimo centro pagrindiniame puslapyje pasirinkite " **DirSync" būsena** . 
     
-     *Arba galite eiti į **Users** \> **Vartotojai Aktyvūs vartotojai**ir puslapyje Aktyvūs vartotojai pasirinkite **Daugiau** \> **katalogų sinchronizavimo.*** 
+     *Taip pat galite eiti į **vartotojus** \> **aktyvūs vartotojai**ir puslapyje aktyvūs vartotojai pasirinkite **daugiau** \> **katalogų sinchronizavimo.*** 
     
-2. Srityje Katalogų sinchronizavimas pasirinkite **Eiti į DirSync valdymas**. 
+2. Srityje katalogų sinchronizavimas pasirinkite **Eiti į "DirSync" valdymą**. 
     
-3. Dabar matysite savo būseną ir atlikite pakeitimus.
+3. Dabar matysite būseną ir atlikite norimus veiksmus:
     
-    **Slaptažodžio sinchronizavimas įgalintas:** (Teisinga arba Klaidinga). Nurodo, ar įgalintas vietinio ir nuomotojo slaptažodžio sinchronizavimas. 
+    **Įgalintas slaptažodžių sinchronizavimas:** (TRUE (teisinga) arba neteisinga). Nurodo, ar yra įgalintas slaptažodžių sinchronizavimas tarp vietinių ir jūsų nuomotojo. 
     
-    **Paskutinis slaptažodžio sinchronizavimas:** (paskutinį kartą buvo sinchroniškai sinchronizuojama slaptažodžiu). Bus rodomas įspėjimas ir saitas su trikčių šalinimo įrankiu, jei paskutinis sinchronizavimas buvo prieš tris dienas. 
+    **Paskutinis slaptažodžių sinchronizavimas:** (paskutinį kartą buvo sinchronizuotas slaptažodis). Bus rodomas įspėjimas ir saitas su trikčių diagnostikos įrankiu, jei paskutinį kartą buvo sinchronizuota daugiau nei prieš tris dienas. 
     
 

@@ -1,32 +1,33 @@
 ---
-title: Prieiga uždrausta susiejant diską su "SharePoint"
+title: Prieiga uždrausta konvertuojant diską į "SharePoint"
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 23ee86df5404b6f20f3a4b605038b31b6f9fd731
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687374"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668751"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>"SharePoint" bibliotekų, susietų su tinklo diskais, problemų sprendimas
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>"SharePoint" bibliotekų, susietų su tinklo įrenginiais, problemų sprendimas
 
-Kai naršote susietasis tinklo diskas, galite matyti vieną iš šių pranešimų:
+Kai naršote susietame tinklo diske, galite matyti vieną iš šių žinučių:
   
-- **\\Kelias nepasiekiamas. Galbūt neturite teisės naudoti šio tinklo ištekliaus. Kreipkitės į šio serverio administratorių ir sužinokite, ar turite prieigos teises.**
+- **\\Kelias nepasiekiamas. Galbūt neturite teisių naudoti šį tinklo išteklių. Kreipkitės į šio serverio administratorių ir Sužinokite, ar turite prieigos teises.**
 
-- **Prieiga uždrausta. Prieš atidarydami failus šioje vietoje, pirmiausia turite įtraukti svetainę į patikimų svetainių sąrašą, naršyti svetainėje ir pasirinkti parinktį prisijungti automatiškai.**
+- **Prieiga uždrausta. Prieš atidarydami failus šioje vietoje, pirmiausia turite įtraukti svetainę į patikimų svetainių sąrašą, rasti žiniatinklio svetainę ir pasirinkti prisijungimo parinktį automatiškai.**
 
-[Gaukite pagalbos trikčių diagnostika susietų tinklo diskų](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[Gaukite pagalbos trikčių diagnostika susietieji tinklo diskai](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Bibliotekos susiejimas kaip tinklo disko yra laikinas ir palaikomas tik "Internet Explorer". Vietoj to [sinchronizuokite "SharePoint" failus su nauju "OneDrive" sinchronizavimo klientu,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) kuriame yra [failų pareikalavus](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pasiekite visus failus "OneDrive" nenaudodami vietinės saugyklos vietos.
+Bibliotekos susiejimas su tinklo disku yra laikinas ir palaikomas tik "Internet Explorer". Vietoj to, [Sinchronizuokite "SharePoint" failus su naujuoju "OneDrive" sinchronizavimo klientu](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , kuriame yra [failai pagal pareikalavimą](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pasiekite visus savo failus "OneDrive" nenaudodami vietos saugyklos vietos.
   

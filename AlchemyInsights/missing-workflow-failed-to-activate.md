@@ -5,40 +5,41 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 2598111005c219c398b63ca374e8e99348efc02c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 604dc770c5c14ded6a8de1cec9e311b03b69f094
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762109"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667094"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Nepavyko suaktyvinti trūkstamos darbo eigos
 
-Microsoft SharePoint svetainių rinkinyje negalite įtraukti visuotinai pakartotinai naudojamos darbo eigos (pvz., "Patvirtinimas – "SharePoint 2010") į sąrašą arba biblioteką.
+"Microsoft SharePoint" svetainių rinkinyje negalite įtraukti globaliai pakartotinai naudojamos darbo eigos (pvz., "patvirtinimas –" SharePoint 2010 ") į sąrašą arba biblioteką.
   
 Norėdami išspręsti šią problemą, atlikite šiuos veiksmus: 
   
-1. Atidarykite svetainių rinkinio šakninę svetainę naudodami "SharePoint Designer 2013".
+1. Atidarykite svetainių rinkinio svetainę "SharePoint Designer 2013".
   
-2. Dalyje **Svetainės objektai**pasirinkite Darbo **eigos**. 
+2. Dalyje **svetainės objektai**pasirinkite **darbo eigos**. 
   
-3. Juostelės **Darbo eigos** sekcijoje **Naujas** pasirinkite **Daugkartinio naudojimo darbo eiga**. 
+3. Juostelėje esančioje **naujoje** **darbo** eigos sekcijoje pasirinkite pakartotinai naudojama **darbo eiga**. 
   
-4. Formoje **Kurti pakartotinai naudoti darbo eigą** įveskite pavadinimą ** *Repair2010* **. **Platformos tipo**spustelėkite **SharePoint 2010 darbo eiga**, tada spustelėkite **Gerai**. 
+4. Formoje **kurti pakartotinai naudojamą darbo eigą** , parašykite pavadinimą * * *Repair2010* * *. Jei turite **platformos tipą**, spustelėkite " **SharePoint 2010" darbo eiga**, tada spustelėkite **gerai**. 
   
-1. Juostelės **Darbo eiga** sekcijoje **Įrašyti** pasirinkite **Publikuoti**. 
+1. **Darbo eigos** juostelės sekcijoje **įrašyti** pasirinkite **publikuoti**. 
   
-2. Juostelės **Darbo** **eiga** sekcijoje Tvarkyti pasirinkite **Publikuoti visame pasaulyje**. Pasirodžiusiame patvirtinimo dialogo lange pasirinkite **Gerai**. 
+2. **Darbo eigos** juostelės sekcijoje **tvarkyti** pasirinkite **publikuoti visuotinai**. Rodomame patvirtinimo dialogo lange pasirinkite **gerai**. 
   
-3. Žiniatinklio naršyklėje raskite svetainių rinkinio šakninę svetainę ir pasiekite **Svetainės parametrų** \> **svetainių rinkinio funkcijos**. Tada perjunkite **darbo eigų** funkciją: 
+3. Žiniatinklio naršyklėje raskite svetainių rinkinio svetainę, tada pasiekite svetainės **parametrų** \> **svetainių rinkinio funkcijas**. Tada perjunkite **darbo eigų** funkciją: 
   
-· Jei priemonė *suaktyvinta* , spustelėkite **Išjungti,** tada spustelėkite **Aktyvinti**. 
+· Jei funkcija  *suaktyvinta*  , spustelėkite **išjungti,** tada spustelėkite **Aktyvinti**. 
   
-· Jei funkcija *išjungta* , spustelėkite **Aktyvinti**. 
+· Jei funkcija  *išjungta, spustelėkite* **Aktyvinti**. 
   
-Daugiau informacijos rasite šiame [straipsnyje](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Daugiau informacijos ieškokite šiame [straipsnyje](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 
