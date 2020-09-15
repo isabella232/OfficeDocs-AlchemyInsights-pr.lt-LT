@@ -1,35 +1,36 @@
 ---
-title: Problemų su Apple Žiūrėti
+title: "\"Apple Watch\" triktis"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: 131b21469e189c0db2d4c88a1f90cecffe1315f4
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288314"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700031"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Problemų su Apple Žiūrėti
+# <a name="trouble-with-the-apple-watch"></a>"Apple Watch" triktis
 
-Jei kyla problemų naudojant "Outlook" "Apple Watch", atlikite toliau nurodytus veiksmus: 
+Jei kyla problemų naudojant "Outlook" "Apple Watch", Čia pateikiami keli trikčių šalinimo veiksmai: 
 
-1. Eikite į "Watch" programą "iPhone".
+1. Eikite į "iPhone" skirtą žiūrėjimo programą.
 
 2. Slinkite į "Outlook" programėlę.
 
-3. Norėdami pašalinti, perjunkite "Rodyti programą "Apple Watch" į **IŠJUNGTA.**
+3. Perjunkite "Rodyti programą" Apple Watch "į **išjungta, kad pašalintumėte** .
 
-4. Perjunkite "Rodyti programą "Apple Watch" į **ĮJUNGTA,** kad iš naujo įdiegtumėte "Watch".
+4. Perjunkite "Rodyti programą" Apple Watch "į **įjungta** , kad iš naujo įdiegtumėte laikrodį.
 
-5. Paleiskite "Outlook" programėlę "Apple Watch" ir palaukite, kol duomenys bus sinchronizuojami su naujausiais. 
+5. Paleidžia "Outlook" taikomąją programą "Apple Watch" ir palaukite, kol duomenys bus sinchronizuojami su naujausiais. 
 
-Jei problema neišspręsta, palaikymo komanda mielai padėtų. Eikite į **Parametrai > Žinynas & Atsiliepimų > kontaktų palaikymas**. 
+Jei problema neišspręsta, palaikymo komanda mielai padės. Eikite į **parametrai > žinyno & atsiliepimą > susisiekite su palaikymo tarnyba**. 

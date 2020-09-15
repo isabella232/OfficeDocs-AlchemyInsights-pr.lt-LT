@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 0945a341c6456ee4178c0485f3bfb9232fa78a11
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796248"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700211"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c7 klaida "Microsoft teams"
+# <a name="4c7-error-in-microsoft-teams"></a>4c7 klaida programoje "Microsoft teams"
 
-Ši klaida įvyksta, nes "Microsoft teams" reikalingas formų autentifikavimas. Kai diegiate Active Directory susiejimo tarnyba (AD FS), formų autentifikavimas neįgalintas intraneto pagal numatytuosius parametrus. Jei "Windows" integruotasis autentifikavimas nepavyksta, būsite paraginti prisijungti naudodami formų autentifikavimas.
+Ši klaida įvyksta dėl to, kad "Microsoft teams" reikia formų autentifikavimo. Kai diegiate "Active Directory" susiejimo tarnybą (AD FS), intraneto formų autentifikavimas neįgalintas pagal numatytuosius. Jei nepavyksta "Windows" integruoto autentifikavimo, būsite paraginti prisijungti naudodami formų autentifikavimą.
 
-Norėdami išspręsti šią problemą, įgalinkite formų autentifikavimas naudojant AD FS Microsoft valdymo konsolės (MMC) pridėtiniame įrankyje kompiuteryje, kuriame yra vietos kopiją Active Directory. Jei norite tai padaryti, atlikite tokius veiksmus: 
+Norėdami išspręsti šią problemą, įgalinkite formų autentifikavimą naudodami AD FS "Microsoft" valdymo konsolės (MMC) pridėtinį įrankį kompiuteryje, kuriame yra vietinė "Active Directory" kopija. Jei norite tai padaryti, atlikite tokius veiksmus: 
 
-1. Naršymo srityje suraskite **autentifikavimo strategijos**.
+1. Naršymo srityje raskite **autentifikavimo strategijas**.
 2. Dalyje **veiksmai** išsamios informacijos srityje pasirinkite **Redaguoti visuotinį pirminį autentifikavimą**.
 3. Skirtuke **intranetas** pasirinkite **formų autentifikavimas**.
 4. Pasirinkite **gerai** (arba **taikyti**).

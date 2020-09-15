@@ -1,25 +1,26 @@
 ---
-title: 665 ar jūs gaunate per daug Phish ar šlamštas jūsų pašto dėžutę?
+title: "\"665\" pašto dėžutėje gaunate per daug \"Phish\" arba pašto šiukšlių?"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911639"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700247"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ar jūs gaunate per daug Phish ar šlamštas jūsų pašto dėžutę?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ar pašto dėžutėje gaunate per daug Fish arba pašto šiukšlių?
 
-Kaip Microsoft 365 admin, geriausias būdas nustatyti, kodėl phishing arba šlamštas buvo pristatytas pateikti mėginio Microsoft [pastabose Explorer](https://protection.office.com/reportsubmission). Gausite tiesioginį atsiliepimą, susijusį su pranešimų filtravimu ir kodėl yra problemų.
+Kaip "Microsoft" 365 administratorius, geriausias būdas nustatyti, kodėl buvo pristatytas apsimestinis ar šlamštas pranešimas, pateikti pavyzdį į "Microsoft" [pateikčių naršyklėje](https://protection.office.com/reportsubmission). Iškart gausite atsiliepimus, susijusius su pranešimų filtravimu ir kodėl kyla problemų.
 
-Jei norite, kad ji būtų easer, jūs galite leisti savo vartotojams pranešti tiesiai į "Microsoft" per [pranešimą pranešimas papildinys](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kad jis taptų easer, galite leisti vartotojams tiesiogiai pranešti "Microsoft", naudojant [ataskaitos pranešimo priedą](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Ar žinote?**: dabar galite pateikti pavyzdžius tiesiogiai iš [pranešimų pėdsakų](https://protection.office.com/messagetrace) ir E5/ATP 2 plano Klientai gali pateikti pavyzdžius iš [grėsmių Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Ar žinojote?**: dabar galite pateikti pavyzdžius tiesiogiai iš [pranešimų sekimo](https://protection.office.com/messagetrace) ir E5/ATP Plan 2 Klientai gali pateikti pavyzdžius iš [grėsmių naršyklės](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
