@@ -1,11 +1,12 @@
 ---
-title: Kaip pakeisti mokėjimus kredito kortelėmis į sąskaitą faktūrą?
+title: Kaip pakeisti iš kredito kortelės į sąskaitą faktūrą?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4004ce468accad778e52b61bbab7e6c5dd1b13dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44498943"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704983"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kaip pakeisti mokėjimus kredito kortelėmis į sąskaitą faktūrą?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kaip pakeisti iš kredito kortelės į sąskaitą faktūrą?
 
 > [!NOTE]
-> Mokėjimo pagal sąskaitą faktūrą parinktis galima tik tuo atveju, jei jūsų abonementas kainuoja daugiau nei tam tikra suma (kuri priklauso nuo aptarnavimo vietos). Didesniems SF mokėjimams gali reikėti kredito patikrinimo. Norėdami sužinoti daugiau, [žr.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+> Galimybė sumokėti pagal sąskaitą faktūrą pasiekiama tik tuo atveju, jei jūsų prenumeratos išlaidos viršija tam tikrą sumą (priklauso nuo paslaugos vietos). Kredito patikra gali būti reikalinga didesnėms sąskaitos faktūros mokėjimams. Norėdami sužinoti daugiau, žiūrėkite [sumokėti už prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymas**  >  [už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Raskite norimą keisti prenumeratą. Dalyje **Atsiskaitymas**šalia mokėjimo metodo pasirinkite **Redaguoti**.
+2. Raskite prenumeratą, kurią norite keisti. Dalyje **atsiskaitymas**šalia mokėjimo būdo pasirinkite **Redaguoti**.
 
-3. Šalia esamo mokėjimo metodo pasirinkite **Keisti**.
+3. Prie esamo mokėjimo būdo pasirinkite **keisti**.
 
-4. Išskleidžiamajame meniu pasirinkite **Sąskaita faktūra arba pavedimas**.
+4. Išplečiamajame meniu pasirinkite **sąskaitos faktūros arba banko pervedimas**.
 
-5. Įveskite savo vardą, adresą ir telefono numerį. Taip pat galite pridėti PU numerį, kuris bus rodomas SF.
+5. Įveskite savo vardą, adresą ir telefono numerį. Taip pat galite įtraukti PU numerį, kuris bus rodomas sąskaitoje faktūroje.
 
-6. Baigę pasirinkite **Įrašyti**.
+6. Baigę pasirinkite **įrašyti**.
 
-7. Patikrinkite, ar pasirinktas mokėjimo metodas teisingas, tada pasirinkite **Įrašyti**.
+7. Patikrinkite, ar pasirinktas mokėjimo būdas teisingas, tada pasirinkite **įrašyti**.
 
-Jei norite sužinoti daugiau, žiūrėkite [Mokėjimo metodo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Norėdami sužinoti daugiau, žiūrėkite [mokėjimo būdo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).

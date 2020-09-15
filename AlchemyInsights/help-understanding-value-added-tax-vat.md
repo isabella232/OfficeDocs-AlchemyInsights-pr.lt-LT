@@ -1,11 +1,12 @@
 ---
-title: Padėkite suprasti pridėtinės vertės mokestį (PVM)
+title: Padėti suprasti pridėtinės vertės mokestį (PVM)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710127"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705501"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Padėkite suprasti pridėtinės vertės mokestį (PVM)
+# <a name="help-understanding-value-added-tax-vat"></a>Padėti suprasti pridėtinės vertės mokestį (PVM)
 
-Jei esate šalyje, kurioje naudojamas pridėtinės vertės mokestis (PVM), pvz., Jungtinė Karalystė, "Microsoft" SF išrašymas apskaičiuoja PVM už jus ir taiko sumą jūsų SF.
+Jei esate šalyje, kurioje naudojamas įvertintas pridėtinės vertės mokestis (PVM), pvz., Jungtinė Karalystė, "Microsoft" SF apskaičiuoja PVM už jus ir taiko sumą jūsų sąskaitoms.
   
-Dėl mokesčių taip pat turite nurodyti PVM mokėtojo kodą SF išrašymo parametruose.
+Dėl mokestinių priežasčių taip pat privalote nustatyti PVM mokėtojo kodą sąskaitos faktūros parametruose.
   
-Negalite pridėti arba pašalinti PVM tarifų, bet dalyje Parametrai galite pakeisti numatytąjį PVM tarifą. Pagal numatytuosius nustatymus SĄSKAITŲ FAKTŪRŲ IŠRAŠYMAS naudoja paslaugą PVM registracijos numeriams tikrinti, tačiau rekomenduojame perskaityti [Vies atsakomybės atsisakymą,](https://go.microsoft.com/fwlink/?LinkID=841741) kurį paskelbė Europos Komisija. Jei pasirinksite išjungti paslaugą, turite patikrinti visus PVM registracijos numerius.
+Negalite įtraukti arba pašalinti PVM tarifų, tačiau galite pakeisti numatytąjį PVM tarifą dalyje Parametrai. Pagal numatytuosius, sąskaitų faktūrų išrašymo sistema naudoja paslaugą, kad patikrintų PVM registravimo numerius, tačiau rekomenduojame skaityti [VIES atsakomybės atsisakymą](https://go.microsoft.com/fwlink/?LinkID=841741) , kurį paskelbia Europos Komisija. Jei pasirinksite išjungti paslaugą, turite patikrinti visus PVM registravimo numerius.

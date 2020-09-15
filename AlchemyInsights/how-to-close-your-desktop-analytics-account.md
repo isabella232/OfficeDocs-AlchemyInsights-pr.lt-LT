@@ -1,27 +1,28 @@
 ---
-title: Kaip uždaryti "Desktop Analytics" paskyrą
+title: Kaip uždaryti kompiuterio analizės paskyrą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771043"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704722"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Kaip uždaryti "Desktop Analytics" paskyrą
+# <a name="how-to-close-your-desktop-analytics-account"></a>Kaip uždaryti kompiuterio analizės paskyrą
 
-Jei nustatysite "Desktop Analytics" savo aplinkoje ir nuspręsite, kad reikia ją pašalinti, naudokite šį procesą toliau pateiktoje nuorodoje:
+Jei nustatėte kompiuterio analizės funkciją savo aplinkoje, tada Nuspręskite, kad jums reikia jį pašalinti, naudokite procesą šiame saite:
 
-[Kaip uždaryti paskyrą](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
+[Savo paskyros uždarymas](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Pirmasis žingsnis yra susisiekti su Microsoft Support. Atidarykite palaikymo atvejį, kad uždarytumėte "Desktop Analytics" paskyrą. Netęskite papildomų veiksmų, kol gausite patvirtinimą, kad "Microsoft" uždarė jūsų paskyrą.
+Pirmasis veiksmas – susisiekite su "Microsoft" palaikymo tarnyba. Atidarykite palaikymo atvejį, kad uždarytumėte kompiuterio "Analytics" paskyrą. Netęskite papildomų veiksmų, kol gausite patvirtinimą, kad "Microsoft" uždarė jūsų paskyrą.

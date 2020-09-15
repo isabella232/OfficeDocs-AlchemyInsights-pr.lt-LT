@@ -1,11 +1,12 @@
 ---
-title: 126 Gauti pašto dėžutės owa nerastas klaida?
+title: "\"126\" nepavyksta rasti pašto dėžutės klaidos OWA?"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 72556651c3431379953b05118c688a876eab0632
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720812"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706758"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Gaunate pašto dėžutę, kuri žiniatinklyje nerado klaidos programoje "Outlook"?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Nepavyksta rasti pašto dėžutės internetinėje "Outlook"?
 
-Jei naudojate "Outlook" žiniatinklyje ir pašto dėžutės nepavyko **rasti dėl** klaidų, abonementas, kurį naudojote jungdamiesi prie "Outlook" žiniatinklyje, neturi "Exchange Online" licencijos, todėl su abonementu nesusieta jokia pašto dėžutė. Administratorius gali priskirti paskyrą licenciją atlikdami šiuos veiksmus:
+Jei naudojate "Outlook" žiniatinklyje ir gavote pašto dėžutę, kurioje **nepavyko rasti** klaidos, paskyroje, kurią naudojote jungdamiesi prie "Outlook" žiniatinklyje, nėra "Exchange Online" licencijos, todėl jokia pašto dėžutė susieta su paskyra. Jūsų administratorius gali priskirti jūsų paskyrai licenciją atlikdami šiuos veiksmus:
 
-1. Atidarykite ["Microsoft 365" administravimo centrą](https://portal.office.com/adminportal/home#/homepage) ir eikite į **Aktyvūs vartotojai** skyriuje **Vartotojai** ir pasirinkite vartotoją, kuris mato klaidą.
+1. Atidarykite ["Microsoft" 365 administravimo centrą](https://portal.office.com/adminportal/home#/homepage) ir eikite į **aktyvūs vartotojai** dalyje **vartotojai** , tada pasirinkite vartotoją, kuris mato klaidą.
 
-2. Atsidariusiame vartotojo puslapyje eikite į skyrių **Licencijos ir programėlės,** pasirinkite atitinkamą **vietos** reikšmę ir priskirkite licenciją, kurioje yra "Exchange Online" (išplėskite licenciją, kad pamatytumėte išsamią jos informaciją). Baigę spustelėkite **Įrašyti keitimus**.
+2. Atidarytame vartotojo puslapyje eikite į sekciją **licencijos ir programos** , pasirinkite reikiamą **vietos** reikšmę ir priskirkite licenciją, kurioje yra "Exchange Online" (išplėskite licenciją, kad pamatytumėte išsamią informaciją). Baigę spustelėkite **įrašyti pakitimus**.

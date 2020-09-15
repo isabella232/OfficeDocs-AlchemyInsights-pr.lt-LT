@@ -1,11 +1,12 @@
 ---
-title: 127 Gaunate TenantAccessBlockedException klaida bandant pasiekti el. pašto?
+title: 127 gaunate TenantAccessBlockedException klaidą, kai jungiatės prie elektroninio pašto?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062220"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706639"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Gaunate TenantAccessBlockedException klaida bandant pasiekti el. pašto?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Gaunate TenantAccessBlockedException klaidą, kai jungiatės prie elektroninio pašto?
 
-Yra kelios skirtingos priežastys, kodėl galite gauti šią klaidą. Pavyzdžiui:
+Yra kelios skirtingos priežastys, kodėl gali būti parodytas šis klaidos pranešimas. Pavyzdžiui:
 
-- Patikrinkite, ar jūsų **Billing** prenumerata galioja \> "Microsoft 365" administravimo centro puslapyje Atsiskaitymas **[jūsų produktai.](https://portal.office.com/adminportal/home#/subscriptions)**
+- Įsitikinkite, kad jūsų produktų prenumerata galioja **Billing** " \> Microsoft 365" administravimo centro puslapyje **[produktų](https://portal.office.com/adminportal/home#/subscriptions)** atsiskaitymas.
 
-- Patikrinkite, ar nėra pradelstų pranešimų puslapyje **Atsiskaitymo** \> **[sąskaitos & mokėjimai,](https://portal.office.com/adminportal/home#/billoverview)** esantis "Microsoft 365" administravimo centre.
+- " **Billing** \> Microsoft 365" administravimo centro puslapyje Atsiskaitymo **[sąskaitos & mokėjimai](https://portal.office.com/adminportal/home#/billoverview)** patikrinkite, ar nėra praėję pranešimai.
 
-- Jei paskyros atsiskaitymas ir prenumeratos buvo neseniai atnaujintos, gali praeiti laiko platintiems pakeitimams. Bandykite dar kartą po kelių minučių, ir jei problema išlieka, susisiekite su mumis.
+- Jei jūsų paskyros Atsiskaitymas ir prenumeratos neseniai atnaujinti, gali praeiti laiko, kad išplatintas keitimas. Bandykite dar kartą po kelių minučių, o jei problema išlieka, susisiekite su mumis.
