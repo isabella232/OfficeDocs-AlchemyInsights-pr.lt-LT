@@ -1,23 +1,24 @@
 ---
-title: Naujesnė versija
+title: Pasiekiama naujesnė versija
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: 42f82c873e8674b41975782b33aefe55b821ca39
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ce38d96381c5be7a10459313df18e586e5dd6267
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045489"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663890"
 ---
-# <a name="delete-the-office-document-cache"></a>Panaikinkite Office dokumentų talpykla
+# <a name="delete-the-office-document-cache"></a>"Office" dokumentų talpyklos naikinimas
 
-Jei gavote "Excel" eilutę, kad **yra naujesnė versija failo**, pabandykite panaikinti Office dokumentų talpykla sekdami nurodymus [pašalinti jūsų Office dokumentų talpykla](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Bandykite atnaujinti failą.
+Jei gavote "Excel" raginimą, kad **yra naujesnė failo versija**, pabandykite panaikinti "Office" dokumentų talpyklą, vykdydami instrukcijas, esančias " [Office" dokumentų talpykloje](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Tada bandykite iš naujo atidaryti failą.

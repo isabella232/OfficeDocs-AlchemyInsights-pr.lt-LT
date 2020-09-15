@@ -1,26 +1,27 @@
 ---
-title: Vartotojo el. pašto pseudonimo pridėjimas arba šalinimas
+title: Vartotojo el. laiško pseudonimo įtraukimas arba šalinimas
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 3a75ee42d93b1661f8d7fea0c7a1e87a4465b58b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7275cf99a92f0eedeeb86f7beb555120c5649453
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505459"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687946"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>Vartotojo el. pašto adreso pridėjimas arba šalinimas
+# <a name="add-or-remove-an-email-address-for-a-user"></a>Vartotojo elektroninio pašto adreso įtraukimas arba šalinimas
 
-[Norėdami](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) pradėti, atlikite šiuos veiksmus "Microsoft 365" administravimo centre.
+[Atlikite šiuos veiksmus](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) "Microsoft" 365 administravimo centre, kad pradėtumėte.
 
- **Pastaba:** galite turėti daugiau nei vieną vartotojo el. pašto adresą, tačiau papildomi *el. Pašto slapyvardžiai* gali būti naudojami tik el. Paštui gauti. Jei reikia siųsti el. laiškus su pseudonimu, sukurkite [bendrinamą pašto dėžutę](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Tokiu būdu gausite pseudonimą siųsti ir gauti laiškus.
+ **Pastaba**: galite turėti daugiau nei vieną vartotojo el. pašto adresą, bet papildomi el. pašto  *pseudonimai*  gali būti naudojami tik gauti el. laiškus. Jei reikia siųsti laišką su pseudonimu, sukurkite [bendrinamą pašto dėžutę](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Tokiu būdu gausite pseudonimą siųsti ir gauti paštą.
   
