@@ -1,10 +1,11 @@
 ---
-title: Alchemija - Sukurkite ir pridėkite parašą prie pranešimų "Outlook"
+title: "\"Alchemy\" – kurti ir pridėti parašą \"Outlook\" laiškuose"
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506530"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718824"
 ---
-# <a name="creating-email-signatures"></a>El. pašto parašų kūrimas
+# <a name="creating-email-signatures"></a>Elektroninio pašto parašų kūrimo
 
-Šie straipsniai turėtų padėti jums sukurti el. Pašto parašus "Outlook".
+Šie straipsniai turėtų padėti kurti elektroninio pašto parašus programoje "Outlook".
   
-- Noriu sukurti el. pašto parašą naudodami "Outlook" sistemoje "Windows": [sukurkite ir įtraukite parašą į pranešimus](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Noriu sukurti elektroninio pašto parašą naudojant "Outlook" sistemoje "Windows": [parašo kūrimas ir įtraukimas į laiškus](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Noriu sukurti el. Pašto parašą naudodami "Outlook" žiniatinklyje: [sukurkite ir pridėkite el. Pašto parašą "Outlook" žiniatinklyje](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Noriu sukurti elektroninio pašto parašą naudojant internetinę "Outlook": [kurti ir įtraukti el. laiško parašą internetinėje "Outlook"](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Noriu sukurti el. pašto parašą naudodami Outlook.com: [sukurkite ir pridėkite el. pašto parašą Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Noriu sukurti elektroninio pašto parašą naudodami Outlook.com: [sukurkite ir įtraukite el. laiško parašą į "Outlook.com"](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Noriu sukurti visuotinį el. pašto parašą visiems el. laiškams, siunčiamiems iš mano įmonės: [Kurti visos organizacijos parašus ir atsakomybės atsisakymus](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
+- Noriu sukurti visuotinį elektroninio pašto parašą visiems iš mano įmonės atsiųstiems laiškams: [kurti organizacijos parašus ir atsakomybės atsisakymus](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
- **Patarimas:** Organizacijos parašai vadinami "atsakomybės atsisakymais".
+ **Patarimas:** Organizacijos platūs parašai vadinami "atsakomybės atsisakymais".
   
