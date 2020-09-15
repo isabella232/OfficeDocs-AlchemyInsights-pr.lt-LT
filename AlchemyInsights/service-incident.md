@@ -1,23 +1,24 @@
 ---
-title: Naujus klausimus
+title: Kylančios problemos
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: b5d0108e6419cb71b7f30991e15773d400b97bed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550343"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653845"
 ---
-# <a name="emerging-issue"></a>Naujus klausimus
+# <a name="emerging-issue"></a>Kylančios problemos
 
-Per keletą klientų skundėsi panašus į ką jūs pranešate problema. Mes ieškome į šią problemą.
+Keli Klientai skundėsi problema, panaši į tai, ką jūs pranešėte. Mes ieškome šios problemos.
 
-Prašome patikrinti [Tarnybų sveikatos stebėjimo skydas](https://admin.microsoft.com/adminportal/home#/servicehealth) sustabdyti atnaujinti visose tarnybose įtakoja incidentų.
+Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/adminportal/home#/servicehealth) , kad galėtumėte atnaujinti bet kurioje tarnyboje, kuri turi įtakos įvykiams.

@@ -1,37 +1,37 @@
 ---
-title: Komandos rekomendacijos atnaujinti
+title: Komandų atnaujinimo rekomendacijos
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44254757"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653557"
 ---
-# <a name="microsoft-teams-upgrade"></a>"Microsoft Teams" versijos naujinimas
+# <a name="microsoft-teams-upgrade"></a>"Microsoft teams" versijos naujinimas
 
-**Svarbu:** jei buvote atnaujinti iš internetinės "Skype" verslui į "Microsoft Teams" tik "Teams" režimu, bet rasti dar nepasiruošę, galime padėti išspręsti šią problemą naudodami palaikymo diagnostiką. Įsitikinkite, kad naudojate naują administravimo centrą stumdami perjungiklį viršutiniame dešiniajame kampe, kuriame sakoma **apie naują administravimo centrą**į dešinę. Naudodami naują administravimo centrą, spustelėkite**Teams Upgrade** **valdiklį Reikia pagalbos?**
+**Svarbu**: jei iš internetinės "Skype" verslui atnaujinote į "Microsoft teams" tik režimu "teams", bet dar nesate pasirengę, galime padėti tai pataisyti, kad galėtumėte naudoti palaikymo diagnostiką. Įsitikinkite, kad naudojate naują administravimo centrą stumdami perjungiklį viršutiniame dešiniajame kampe, kuriame sakoma, kad **Naujasis administravimo centras**yra dešinėje. Naudodami naująjį administravimo centrą, spustelėkite **reikiamą žinyną?** widget, įveskite "**teams atnaujinti**", tada vykdykite nurodymus, kad paleistumėte diagnostiką.
 
-Nesvarbu, ar tik pradedate dirbti su "Teams", jau naudojate "Teams" kartu su "Skype" verslui, ar pasiruošę naujinti, norime užtikrinti, kad turite viską, ko reikia norint sėkmingai naršyti "Teams". Norėdami gauti daugiau informacijos, apsilankykite žemiau pateiktose nuorodose.
+Nesvarbu, ar esate pradėję dirbti su "teams", jau naudojate "Skype" verslui "komandas, ar pasirengę atnaujinti, norime užtikrinti, kad turite viską, ko jums reikia, kad pereitumėte prie sėkmingų kelionės į" teams ". Daugiau informacijos rasite toliau pateiktose nuorodose.
 
-[Darbo su "Microsoft Teams" versijos naujinimu pradžia](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Darbo su "Microsoft teams" naujinimui Pradžia](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Versijos naujinimas planas](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Versijos naujinimo planavimas](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-["Microsoft Teams" ir "Skype" verslui sambūvio supratimas](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+["Microsoft teams" ir "Skype" verslui sambūvio supratimas](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Versijos naujinimo iš internetinės "Skype" verslui į "Teams" atlikimas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Versijos naujinimas iš internetinės "Skype" verslui į "teams"](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Versijos naujinimo iš vietinės "Skype" verslui į "Teams" atlikimas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Versijos naujinimas iš "Skype" verslui vietinėje svetainėje į "teams"](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-["Skype" Business Online būseną į "Teams" versijos naujinimą naudodami "PowerShell"](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Internetinės "Skype" verslui būsenos tikrinimas "teams" versijos naujinimas naudojant "PowerShell"](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
