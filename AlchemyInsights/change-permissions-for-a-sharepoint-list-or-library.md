@@ -1,31 +1,32 @@
 ---
-title: "\"SharePoint\" sąrašo arba bibliotekos teisių keitimas"
+title: "\"SharePoint\" sąrašo ar bibliotekos teisių keitimas"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: a42d23edd663523f8da1392eaf57290ee1fc900b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706648"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681823"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>"SharePoint" sąrašo arba bibliotekos teisių keitimas
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>"SharePoint" sąrašo ar bibliotekos teisių keitimas
 
 1. Eikite į "SharePoint" svetainę žiniatinklio naršyklėje ir atidarykite sąrašą arba biblioteką.
     
-2. Viršutiniame dešiniajame kampe spustelėkite piktogramą Parametrai, tada spustelėkite **Bibliotekos parametrai** arba **Sąrašo parametrai**. (Jei komandos nematote, pasirinkite skirtuką **Biblioteka** arba **Sąrašas,** kad atidarytumėte juostelę, tada juostelėje spustelėkite **Bibliotekos parametrai** arba **Sąrašo parametrai.)** 
+2. Spustelėkite piktogramą parametrai, esančią viršuje dešinėje, tada spustelėkite **bibliotekos parametrai** arba **sąrašo parametrai**. (Jei nematote komandos, pasirinkite skirtuką **biblioteka** arba **sąrašas** , kad atidarytumėte juostelę, tada juostelėje spustelėkite **bibliotekos parametrai** arba **sąrašo parametrai** .) 
     
-3. Dalyje **Teisės ir valdymas**spustelėkite Šio **sąrašo teisės** arba Šios **dokumentų bibliotekos teisės**.
+3. Dalyje **teisės ir valdymas**spustelėkite **šio sąrašo teisės** arba **šios dokumentų bibliotekos teisės**.
     
-Atkreipkite dėmesį, kad pagal numatytuosius nustatymus "SharePoint" sąrašai ir bibliotekos paveldi savo teises iš svetainės. Jei sulaužysite teisių paveldimumą, dabartinės teisės bus nukopijuotos į sąrašą ar biblioteką ir viskas jame. Jei svetainės teisės vėliau pakeičiamos, pakeitimai nebus taikomi sąrašui ar bibliotekai ir joje esantiems elementams.
+Žinokite, kad pagal numatytuosius "SharePoint" sąrašus ir bibliotekas jie paveldi teises iš svetainės. Jei nutrauksite teisių paveldėjimą, esamos teisės bus nukopijuotos į sąrašą arba biblioteką ir viskas joje. Jei svetainės teisės yra pakeistos, pakeitimai nebus taikomi sąrašui arba bibliotekai ir jame esančius elementus.
   
 

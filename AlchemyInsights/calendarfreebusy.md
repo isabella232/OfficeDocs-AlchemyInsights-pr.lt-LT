@@ -1,21 +1,22 @@
 ---
-title: 400 Kalendorius - FreeBusy
+title: 400 kalendorius – FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711855"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684058"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Kalendoriaus užimtumo informacijos pateikimo problemos
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problemos, susijusios su kalendoriaus užimtumo informacija
 
-Jei kituose "Outlook" kalendoriuose nematote kalendoriaus užimtumo informacijos arba jei kiti žmonės jūsų kalendoriuje nemato užimtumo informacijos, naudokite ["Microsoft" palaikymo ir atkūrimo pagalbinę priemonę, skirtą "Microsoft 365".](https://diagnostics.office.com/)
+Jei negalite matyti kalendoriaus užimtumo informacijos kituose "Outlook" kalendoriuose arba jei kiti žmonės negali matyti užimtumo informacijos kalendoriuje, naudokite "Microsoft [" palaikymo ir atkūrimo pagalbinę priemonę, skirtą "microsoft 365"](https://diagnostics.office.com/).

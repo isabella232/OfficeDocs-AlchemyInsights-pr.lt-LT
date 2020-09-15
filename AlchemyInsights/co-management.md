@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770899"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681268"
 ---
 # <a name="co-management"></a>Bendras valdymas
 
-**Būtinosios sąlygos migruoti iš config Manager Hybrid Intune**
+**Būtinųjų sąlygų perėjimas iš config Manager hibridinio į Intune**
 
 - Peržiūrėkite [šį straipsnį](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Įtraukite "Intune" licenciją į savo vartotojus](https://docs.microsoft.com/intune/licenses-assign).
-- Konfigūruodami bendrą valdymą naudokite [Edge naršyklę](https://www.microsoft.com/windows/microsoft-edge) .
+- [Įtraukite "Intune" licenciją savo vartotojams](https://docs.microsoft.com/intune/licenses-assign).
+- Naudokite [krašto naršyklę](https://www.microsoft.com/windows/microsoft-edge) , kai konfigūruojate bendrą valdymą.
 
-**Kaip įdiegti kliento konfigūracijos tvarkyklė Intune valdomi įrenginiai**
+**Kaip įdiegti "config Manager" klientą Intune valdomuose įrenginiuose**
 
-Peržiūrėkite [Intune MDM valdomus "Windows" įrenginius](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Peržiūrėkite ["Intune" MDM – valdomi "Windows" įrenginiai](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Ką daryti, jei aš tik noriu pakeisti MDM institucija?**
+**Ką daryti, jei noriu pakeisti MDM įgaliojimą?**
 
-MDM tarnyba gali būti pakeista neatidarius palaikymo atvejo. Prašome peržiūrėti šiuos dokumentus padėti keičiant jūsų MDM institucija:
+MDM tarnyba gali būti pakeista neatidarant palaikymo atvejo. Peržiūrėkite toliau pateiktus dokumentus, kad galėtumėte padėti pakeisti jūsų MDM instituciją:
 
-- [Keisti MDM tarnyba iš Configuration Manager į Intune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Keisti MDM autoritetą iš Intune standalone konfigūracijos tvarkyklė](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [MDM tarnybos keitimas iš konfigūracijos tvarkytuvo į Intune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [MDM autonominės institucijos keitimas iš "Intune" į konfigūravimo tvarkytuvą](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

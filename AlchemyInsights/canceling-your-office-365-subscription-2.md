@@ -1,11 +1,12 @@
 ---
-title: Atšaukite "Microsoft 365" prenumeratą?
+title: Atšauksite savo "Microsoft" 365 prenumeratą?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 746cfe6e929a0584a10569bfb0ee8d7e7df0a857
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 661c962d7a6f19c7de036da87a02b44f8e463b86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508204"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683014"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Atšaukite "Microsoft 365" prenumeratą?
+# <a name="canceling-your-microsoft-365-subscription"></a>Atšauksite savo "Microsoft" 365 prenumeratą?
 
-Atsiprašome, kad tave pamatysime!
+Apgailestaujame, kad jūs einate!
   
-Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos einamosios prenumeratos turi daugiau nei 25 priskirtas licencijas. Galite pašalinti naudotojus, kol turėsite mažiau nei 25, tada eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Sekcijoje **Parametrai & Veiksmai** pasirinkite Atšaukti **prenumeratą**.
+Atsižvelgdami į savo organizacijos duomenis, manome, kad visi jūsų esami prenumeratos turi daugiau nei 25 priskirtas licencijas. Galite pašalinti vartotojus, kol turite mažiau nei 25, tada eikite į **Billing** \> **[produktų](https://go.microsoft.com/fwlink/p/?linkid=842054)** atsiskaitymo puslapį. Dalyje **parametrai & veiksmai** pasirinkite **atšaukti prenumeratą**.
  
-**Grąžinimas: bet koks proreitinguotas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.** 
+**Grąžinimas: bet koks proporcingai grąžinamas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.** 
 
-**Pastaba**: jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir turėtumėte matyti **parinktį Atšaukti prenumeratą** **nustatymuose & Veiksmai**. 
+**Pastaba**: Jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir peržiūrėkite parinktį **atšaukti prenumeratą** dalyje **Parametrai & veiksmai**. 
 
-Norėdami sužinoti daugiau, žiūrėkite [Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

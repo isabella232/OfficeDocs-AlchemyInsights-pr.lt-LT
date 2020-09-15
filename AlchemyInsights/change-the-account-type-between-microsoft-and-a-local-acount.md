@@ -1,29 +1,30 @@
 ---
-title: Abonemento tipo tarp "Microsoft" abonemento ir vietinės paskyros keitimas
+title: Abonemento tipo keitimas tarp "Microsoft" paskyros ir vietinės paskyros
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 322e53e2a4ecd48f84be90b48dc0270af993a849
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796249"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681520"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Paskyros, prie kurios prisijungiate, tipo keitimas
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Paskyros tipo, prie kurio prisijungiate, keitimas
 
-Toliau nurodyta, kaip pakeisti paskyros, kurią naudojate prisijungdami prie "Windows 10", tipą.
+Štai kaip pakeisti paskyros, kurią naudojate prisijungdami prie "Windows 10", tipą:
 
-1. Pasirinkite **paleidimo** > **Parametrai** > **** abonementai > **jūsų informacija**.
-2. Jei naudojate vietinį abonementą, kuris nėra susietas su el. pašto adresu, bet norite naudoti "Microsoft" abonementą, pasirinkite **prisijungti naudodami "Microsoft" abonementą**.
-3. Jei naudojate "Microsoft" abonementą, susietą su el. pašto adresu, bet norite naudoti vietinį abonementą, pasirinkite **prisijungti naudodami vietinį abonementą**.
+1. Pasirinkite **pradžios**  >  **Parametrai**  >  **paskyrų**  >  **jūsų informacija**.
+2. Jei naudojate vietinį abonementą, kuris nėra susietas su elektroninio pašto adresu, bet norite naudoti "Microsoft" paskyrą, pasirinkite **prisijungti naudojant "Microsoft" paskyrą**.
+3. Jei naudojate "Microsoft" paskyrą, susietą su elektroninio pašto adresu, bet norite naudoti vietinį abonementą, pasirinkite **prisijungti naudojant vietinį abonementą**.
 4. Jei reikia, įveskite slaptažodį, tada pasirinkite **Pirmyn**.
-5. Iš naujo paleiskite įrenginį. Kai kitą kartą prisijungsite, paskyra, kurią perjungėte, bus rodoma.
+5. Paleiskite įrenginį iš naujo. Kai kitas kartas prisijungsite, bus rodomas jūsų įjungtas abonementas.
