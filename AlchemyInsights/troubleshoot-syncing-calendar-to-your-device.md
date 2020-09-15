@@ -1,10 +1,11 @@
 ---
-title: 3800017 Kalendoriaus sinchronizavimo su įrenginiu trikčių diagnostika
+title: "\"3800017\" kalendoriaus sinchronizavimo trikčių šalinimas įrenginyje"
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,14 +13,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 271c2161868b43aa7f8b18bb9bbad967b121125e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665804"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664790"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="4319b-102">Kalendoriaus sinchronizavimo su įrenginiu trikčių diagnostika</span><span class="sxs-lookup"><span data-stu-id="4319b-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="12d9e-102">Kalendoriaus sinchronizavimo su įrenginiu trikčių šalinimas</span><span class="sxs-lookup"><span data-stu-id="12d9e-102">Troubleshoot syncing your calendar to your device</span></span>
 
-<span data-ttu-id="4319b-103">Jei pirmą kartą nustatydami mobilųjį el. paštą kyla sinchronizavimo problemų, [žr.](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)</span><span class="sxs-lookup"><span data-stu-id="4319b-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="12d9e-103">Jei kyla sinchronizavimo problemų, kai pirmą kartą nustatote savo mobiliojo elektroninio pašto adresą, skaitykite [nepavyksta sinchronizuoti kalendoriaus ir kontaktų su telefonu arba planšetiniu kompiuteriu](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="12d9e-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   
