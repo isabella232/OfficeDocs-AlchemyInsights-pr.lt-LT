@@ -1,10 +1,11 @@
 ---
-title: "\"OneDrive\" išjungimas"
+title: Išjungti "OneDrive"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 650ed5cabd2d692ff07a88e81f8c2d01498f8eb5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7cfe02546f6bed02282f544037cb5d84a711cd87
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715168"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712552"
 ---
-# <a name="disable-onedrive"></a><span data-ttu-id="bc23c-102">"OneDrive" išjungimas</span><span class="sxs-lookup"><span data-stu-id="bc23c-102">Disable OneDrive</span></span>
+# <a name="disable-onedrive"></a><span data-ttu-id="739c2-102">Išjungti "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="739c2-102">Disable OneDrive</span></span>
 
-<span data-ttu-id="bc23c-103">Yra keli būdai, kaip galite išjungti prieigą prie "OneDrive" ir jos paslaugų, atsižvelgdami į verslo poreikius:</span><span class="sxs-lookup"><span data-stu-id="bc23c-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
+<span data-ttu-id="739c2-103">Yra keli būdai, kaip galite išjungti prieigą prie "OneDrive" ir jos tarnybų, atsižvelgiant į jūsų įmonės poreikius:</span><span class="sxs-lookup"><span data-stu-id="739c2-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
 
-[<span data-ttu-id="bc23c-104">"OneDrive" programos atsieti, slėpti arba pašalinti</span><span class="sxs-lookup"><span data-stu-id="bc23c-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[<span data-ttu-id="739c2-104">Atsieti, Slėpti arba pašalinti "OneDrive" taikomąją programą</span><span class="sxs-lookup"><span data-stu-id="739c2-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[<span data-ttu-id="bc23c-105">Leisti sinchronizuoti tik su konkrečiomis organizacijomis</span><span class="sxs-lookup"><span data-stu-id="bc23c-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[<span data-ttu-id="739c2-105">Leisti tik konkrečių organizacijų sinchronizavimą</span><span class="sxs-lookup"><span data-stu-id="739c2-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[<span data-ttu-id="bc23c-106">Išjungti "OneDrive" svetainės kūrimą kai kuriems vartotojams</span><span class="sxs-lookup"><span data-stu-id="bc23c-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[<span data-ttu-id="739c2-106">"OneDrive" svetainių kūrimo išjungimas kai kuriems vartotojams</span><span class="sxs-lookup"><span data-stu-id="739c2-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[<span data-ttu-id="bc23c-107">Prieigos prie "SharePoint Online" ir "OneDrive" duomenų valdymas pagal tinklo vietą</span><span class="sxs-lookup"><span data-stu-id="bc23c-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[<span data-ttu-id="739c2-107">Prieigos prie "SharePoint Online" ir "OneDrive" duomenų valdymas pagal tinklo vietą</span><span class="sxs-lookup"><span data-stu-id="739c2-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[<span data-ttu-id="bc23c-108">Asmeninio "OneDrive" sinchronizavimo išjungimas</span><span class="sxs-lookup"><span data-stu-id="bc23c-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[<span data-ttu-id="739c2-108">Asmeninio "OneDrive" sinchronizavimo išjungimas</span><span class="sxs-lookup"><span data-stu-id="739c2-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[<span data-ttu-id="bc23c-109">Ryšių valdymas iš "Windows" įrenginių į "OneDrive" ir kitas tarnybas</span><span class="sxs-lookup"><span data-stu-id="bc23c-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[<span data-ttu-id="739c2-109">Ryšių iš "Windows" įrenginių valdymas į "OneDrive" ir kitas tarnybas</span><span class="sxs-lookup"><span data-stu-id="739c2-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

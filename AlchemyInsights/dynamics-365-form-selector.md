@@ -1,21 +1,22 @@
 ---
-title: "\"Dynamics 365\" formų išrinkiklis"
+title: "\"Dynamics 365\" formų parinkiklis"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1469"
 - "6200014"
-ms.openlocfilehash: f74eb8d366b86878620ae6f038a09feb0128c32e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d8160ba67ea87e112c377fcd1501a2fda44815fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528966"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712012"
 ---
-# <a name="dynamics-365-form-selector"></a><span data-ttu-id="08ed2-102">"Dynamics 365" formų išrinkiklis</span><span class="sxs-lookup"><span data-stu-id="08ed2-102">Dynamics 365 form selector</span></span>
+# <a name="dynamics-365-form-selector"></a><span data-ttu-id="f5c01-102">"Dynamics 365" formų parinkiklis</span><span class="sxs-lookup"><span data-stu-id="f5c01-102">Dynamics 365 form selector</span></span>
 
-* [<span data-ttu-id="08ed2-103">Formos prieigos valdymo paaiškinta</span><span class="sxs-lookup"><span data-stu-id="08ed2-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [<span data-ttu-id="f5c01-103">Formos prieigos kontrolės paaiškinimas</span><span class="sxs-lookup"><span data-stu-id="f5c01-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
