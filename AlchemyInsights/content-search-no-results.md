@@ -1,29 +1,30 @@
 ---
-title: Turinio paieška jokių rezultatų
+title: Turinio ieškos rezultatų nėra
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516787"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680655"
 ---
-# <a name="no-results-from-content-searchexports"></a><span data-ttu-id="38a00-102">Jokių rezultatų iš turinio paieškos/eksportas</span><span class="sxs-lookup"><span data-stu-id="38a00-102">No results from Content Search/Exports</span></span>
+# <a name="no-results-from-content-searchexports"></a><span data-ttu-id="ea137-102">Nėra rezultatų iš turinio ieškos/eksportavimo</span><span class="sxs-lookup"><span data-stu-id="ea137-102">No results from Content Search/Exports</span></span>
 
-<span data-ttu-id="38a00-103">Problemos su turinio paieškos/eksporto negrįžta duomenis gali būti dėl tam tikrų atitikties saugos filtrą, kuris buvo setup iš konkrečių Admin ir nėra perduoti visi administratorių.</span><span class="sxs-lookup"><span data-stu-id="38a00-103">Issues with Content Search/Exports not returning any data may be due to certain Compliance Security Filter that was setup by a specific Admin and not communicating it to all Admins.</span></span>
+<span data-ttu-id="ea137-103">Problemos dėl turinio ieškos/eksportavimo negrąžinant jokių duomenų gali būti dėl tam tikro atitikties saugos filtro, kurį nustatė konkretus administratorius, o ne visiems administratoriams.</span><span class="sxs-lookup"><span data-stu-id="ea137-103">Issues with Content Search/Exports not returning any data may be due to certain Compliance Security Filter that was setup by a specific Admin and not communicating it to all Admins.</span></span>
 
-<span data-ttu-id="38a00-104">Norėdami išspręsti šią problemą, patikrinkite, ar yra bet atitikties saugos filtrus, kurie gali kelti tai:</span><span class="sxs-lookup"><span data-stu-id="38a00-104">To resolve this, check to see if there are any Compliance Security Filters that may be causing this:</span></span>
-1. <span data-ttu-id="38a00-105">Prisijungti prie saugos ir atitikties užtikrinimo centre "PowerShell"</span><span class="sxs-lookup"><span data-stu-id="38a00-105">Connect to Security and Compliance Center Powershell</span></span>
-2. <span data-ttu-id="38a00-106">Vykdykite ir toliau "commandlet" komandas.</span><span class="sxs-lookup"><span data-stu-id="38a00-106">Run the following commandlets:</span></span>
-<br><span data-ttu-id="38a00-107">$org = "yourdomain.com"</span><span class="sxs-lookup"><span data-stu-id="38a00-107">$org = “yourdomain.com”</span></span>
-<br><span data-ttu-id="38a00-108">Gauti ComplianceSecurityFilter-organizacijos $org</span><span class="sxs-lookup"><span data-stu-id="38a00-108">Get-ComplianceSecurityFilter -Organization $org</span></span>
+<span data-ttu-id="ea137-104">Norėdami išspręsti šią problemą, patikrinkite, ar yra atitikties saugos filtrų, kurie gali sukelti šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="ea137-104">To resolve this, check to see if there are any Compliance Security Filters that may be causing this:</span></span>
+1. <span data-ttu-id="ea137-105">Prisijungimas prie saugos ir atitikties centro "PowerShell"</span><span class="sxs-lookup"><span data-stu-id="ea137-105">Connect to Security and Compliance Center Powershell</span></span>
+2. <span data-ttu-id="ea137-106">Vykdykite šiuos commandlets:</span><span class="sxs-lookup"><span data-stu-id="ea137-106">Run the following commandlets:</span></span>
+<br><span data-ttu-id="ea137-107">$org = "yourdomain.com"</span><span class="sxs-lookup"><span data-stu-id="ea137-107">$org = “yourdomain.com”</span></span>
+<br><span data-ttu-id="ea137-108">Gauti – ComplianceSecurityFilter – organizacijos $org</span><span class="sxs-lookup"><span data-stu-id="ea137-108">Get-ComplianceSecurityFilter -Organization $org</span></span>
