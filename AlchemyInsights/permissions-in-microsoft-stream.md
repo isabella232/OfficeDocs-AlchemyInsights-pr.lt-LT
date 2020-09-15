@@ -1,29 +1,30 @@
 ---
-title: Teisės programoje "Microsoft Stream"
+title: "\"Microsoft Stream\" teisės"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403592"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721419"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Teisės programoje "Microsoft Stream"
+# <a name="permissions-in-microsoft-stream"></a>"Microsoft Stream" teisės
 
-Pagal numatytuosius nustatymus, kai įkeliate vaizdo įrašą, nustatomos teisės, kad vaizdo įrašas būtų matomas visai įmonei. Jei norite nurodyti teises konkretiems vartotojams / grupėms, galite tinkinti vaizdo įrašų teises.
+Pagal numatytuosius vaizdo įrašus, kai nusiunčiate vaizdo įrašą, visos įmonės vaizdo įrašo teisės yra nustatomos. Jei norite nustatyti teises konkretiems vartotojams/grupėms, galite tinkinti vaizdo įrašo teises.
 
 - ["Microsoft Stream" teisės ir privatumas](https://docs.microsoft.com/stream/portal-permissions)
 
-- [Grupės teisės](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [Grupių teisės](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
 - [Kanalo teisės](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
