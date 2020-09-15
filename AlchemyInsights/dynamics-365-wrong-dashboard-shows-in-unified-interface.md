@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-neteisingas ataskaitų srities rodo Dynamics 365 vieningosios sąsajos
+title: Dynamics 365 – neteisinga ataskaitų srities rodoma "Dynamics 365" bendroji sąsaja
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528559"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711283"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Neteisinga ataskaitų srities rodo Dynamics 365 vieningosios sąsajos
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Neteisinga ataskaitų srities rodoma Dynamics 365 bendroji sąsaja
 
-Yra kelios priežastys, kodėl galite matyti kitą ataskaitų sritį nei tikitės:
+Yra kelios priežastys, kodėl galite matyti kitokią ataskaitų sritį nei tikitės:
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>Vartotojas nustatė vartotojo numatytąjį ataskaitų sritį 
 
-Paprastai galite nustatyti vartotojo numatytąją ataskaitų sritį, jei mygtukas **nustatyti kaip numatytąjį** nerodomas ataskaitų srities komandų juostoje. Vartotojo numatytoji ataskaitų sritis pakeis visas kitas numatytąsias ataskaitų sritis, net jei vartotojo numatytoji ataskaitų sritis nėra dabartinėje programėlėje.
+Paprastai galite nustatyti vartotojo numatytąjį ataskaitų sritį, jei mygtukas **nustatyti kaip numatytąjį** nerodomas ataskaitų srities komandų juostoje. Vartotojo numatytoji ataskaitų sritis pakeis visas kitas numatytąsias ataskaitų sritis, net jei vartotojo numatytosios ataskaitų srities nėra dabartinėje taikomojoje programoje.
 
-Norėdami nustatyti numatytąją ataskaitų sritį, naudokite toliau nurodytą problemos sprendimą.
+Norėdami panaikinti numatytąjį ataskaitų sritį, naudokite šį sprendimo būdą.
 
-1. Sukurkite naują asmeninę ataskaitų sritį.
+1. Kurti naują asmeninį ataskaitų sritį.
 
-2. Nustatykite naują ataskaitų sritį kaip numatytąją vartotojo.
+2. Nustatyti naują ataskaitų sritį kaip numatytąjį vartotojo.
 
-3. Panaikinkite tą ataskaitų sritį.
+3. Naikinti tą ataskaitų sritį.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Informacijos suvestinė nustatyta svetainės struktūroje
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Ataskaitų sritis nustatyta struktūra
 
-Galite nustatyti organizacijos numatytąjį ataskaitų sritį pasirinkdami ataskaitų sritį ir pasirinkę "nustatyti kaip numatytąjį" dalyje "tinkinti sistemą". Bet informacijos suvestinė, nurodyta svetainės struktūros konstruktoriuje, bus viršesnė už šią ataskaitų sritį, jei vartotojas turi prieigą prie jos.
+Galbūt nustatėte organizacijos numatytąją ataskaitų sritį pasirinkdami ataskaitų sritį ir pasirinkę "nustatyti kaip numatytąjį" dalyje "tinkinti sistemą". Tačiau, jei vartotojas turi prieigą prie šio ataskaitų srities, pagal šią ataskaitų sritį bus teikiama pirmenybė schemos dizaino įrankyje.
 
-Jei norite, kad vartotojai matytų ataskaitų sritį, kurią nustatėte kaip numatytąją organizaciją, galite:
+Jei norite, kad vartotojai matytų ataskaitų sritį, kurią nustatėte kaip numatytąjį organizacijos, galite:
 
-* Nustatykite ataskaitų sritį svetainės struktūroje
+* Nustatyti, kad ataskaitų sritis būtų "Sitemap"
 
-* Pašalinti prieigą prie svetainės struktūra nustatyta ataskaitų srities tiems vartotojams
+* Prieigos prie "Sitemap" apibrėžtosios ataskaitų srities pašalinimas tiems vartotojams

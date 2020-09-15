@@ -1,21 +1,22 @@
 ---
-title: Dynamics 365 formos verslo taisyklės-verslo taisyklės nešaudo formos
+title: "\"Dynamics 365\" formuoja verslo taisykles"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769383"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711463"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Verslo taisyklės nešaudyti forma
+# <a name="business-rule-not-firing-for-a-form"></a>"Business" taisyklė negali būti skirta formai
 
-Verslo taisyklės vykdyti negalima, nes verslo taisyklėje nurodytas laukas neįtrauktas į formą. Norėdami gauti daugiau informacijos, žiūrėkite, [ar jūsų verslo taisyklė nėra naudojama formai?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+Verslo taisyklės gali būti neįvykdytos, nes verslo taisyklėje nurodomas laukas nėra įtrauktas į formą. Daugiau informacijos rasite [jūsų verslo taisyklė, kuri nėra skirta formai?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)

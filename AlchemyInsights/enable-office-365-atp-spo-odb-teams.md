@@ -1,29 +1,30 @@
 ---
-title: "\"Office 365 ATP\", skirtos \"SharePoint\", \"OneDrive\" ir \"Microsoft Teams\", įgalinimas"
+title: "\"Office 365\" ATP įgalinimas \"SharePoint\", \"OneDrive\" ir \"Microsoft teams\""
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 564a7f1f6a37e64dbd7d679878ebadbbe35f3fa0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c84458622ae86bcf0f9f541a3a209b4f0ff2fc3f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506926"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709915"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>"Office 365" išplėstinės apsaugos nuo grėsmių įgalinimas "SharePoint Online", "OneDrive" ir "Microsoft Teams"
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>"Office 365" išplėstinės grėsmių apsaugos "SharePoint Online", "OneDrive" ir "Microsoft teams" įgalinimas
 
-1. Eikite https://protection.office.com ir prisijunkite.
-2. Pasirinkite **Grėsmių valdymo**  >  **strategijos**  >  **saugūs priedai**.
-3. Pasirinkite **Įjungti "SharePoint", "OneDrive" ir "Microsoft Teams" ATP,** tada spustelėkite **Įrašyti**.
-4. (Rekomenduojama) Kaip visuotinis administratorius arba "SharePoint Online" administratorius, vykdykite [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet su **parametru NeleistiInfectedFileDownload** nustatyta *kaip teisinga*.
-5. (Rekomenduojama) Nustatyti aptiktų [failų įspėjimus.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files)
+1. Eikite į https://protection.office.com ir prisijunkite.
+2. Pasirinkite **grėsmių valdymo**  >  **strategijos**  >  **saugos priedai**.
+3. Pasirinkite **įjungti "SharePoint", "OneDrive" ir "Microsoft teams" ATP**, tada spustelėkite **įrašyti**.
+4. Rekomenduojama Kaip visuotinis administratorius arba "SharePoint Online" administratorius, paleiskite [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet, naudodami parametrą **Disallowinfectedfiledownload** ( *teisinga*).
+5. Rekomenduojama [Nustatykite](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) aptiktų failų įspėjimus.
 
 > [!NOTE]
-> ATP nuskaitys kiekvieną failą "SharePoint Online", "OneDrive" arba "Microsoft Teams". Failai nuskaitomi asinchroniškai, naudojant procesą, kuris naudoja bendrinimo ir svečių veiklos įvykius, taip pat išmaniuosius euristikus ir grėsmės signalus kenkėjiškiems failams identifikuoti. Peržiūrėkite ["SharePoint", "OneDrive" ir "Microsoft Teams" ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+> ATP bus nNorėdami nuskaityti kiekvieną failą "SharePoint Online", "OneDrive" arba "Microsoft teams". Failai nuskaitomi asinchroniškai, taikant procesą, kuris naudoja bendro naudojimo ir svečių veiklos įvykius, kartu su "Smart euristiką" ir grėsmių signalais, kad identifikuotumėte kenkėjiškus failus. Ieškokite " [SharePoint", "OneDrive" ir "Microsoft teams" ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

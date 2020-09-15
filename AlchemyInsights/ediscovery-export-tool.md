@@ -1,10 +1,11 @@
 ---
-title: El. duomenų aptikimo eksportavimo įrankis
+title: "\"Udiscovery\" eksportavimo įrankis"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,22 +15,22 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507178"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711103"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nepavyksta įdiegti arba paleisti el. duomenų aptikimo eksportavimo įrankio?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nepavyksta įdiegti arba paleisti "Udiscovery" eksportavimo įrankio?
 
-Jei negalite įdiegti arba paleisti el. duomenų aptikimo eksportavimo įrankio ieškos rezultatams atsisiųsti, patikrinkite šiuos dalykus:
+Jei negalite įdiegti arba paleisti "Udiscovery" eksportavimo įrankio, kad atsisiųstumėte ieškos rezultatus, patikrinkite šiuos dalykus:
   
 - Jūsų naudojamas kompiuteris atitinka šias išankstines sąlygas:
 
-  - 32 arba 64 bitų "Windows 7" ir naujesnės versijos
+  - "32" arba "64" bitų versijos "Windows 7" ir naujesnėse versijose
 
-  - Rodyti originalų straipsnį anglų kalba: 3085555
+  - „Microsoft .NET Framework 4.7“
 
   - Palaikoma naršyklė:
 
@@ -37,13 +38,13 @@ Jei negalite įdiegti arba paleisti el. duomenų aptikimo eksportavimo įrankio 
 
     Arba
 
-  - "Internet Explorer 10" ir naujesnės versijos
+  - "Internet Explorer 10" ir vėlesnės versijos
 
-    Kitos naršyklės, pvz., "Google Chrome" ir "Mozilla Firefox", nepalaikomos.
+    Kitos naršyklės, pvz., "Google Chrome" ir "Mozilla Firefox", yra nepalaikomos.
 
-- Jūsų organizacija gali prisijungti prie "Azure" galinio punkto, kuris yra ** \* .blob.core.windows.net** (pakaitos simbolis nurodo unikalų jūsų eksportavimo užduoties identifikatorių).
+- Jūsų organizacija gali prisijungti prie galinio punkto "Azure", kuris yra ** \* . BLOB.Core.Windows.net** (pakaitos simbolis nurodo unikalų jūsų eksportavimo užduoties identifikatorių).
 
-- Jums priskirtas eksporto vaidmenį "Microsoft 365" saugos &amp; atitikties centre. Pagal numatytuosius nustatymus šis vaidmuo priskiriamas tik el. duomenų aptikimo tvarkytuvo vaidmenų grupei. Žiūrėkite [El. duomenų aptikimo teisių priskyrimas](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- "Microsoft 365" saugos atitikties centre priskirtas eksportavimo vaidmuo &amp; . Pagal numatytuosius numatytuosius reikšmę šis vaidmuo priskiriamas tik "Udiscovery Manager" vaidmenų grupei. Žiūrėkite [priskirti elektroninės aptikimo teises](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Daugiau informacijos [ieškokite Content Search results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Daugiau informacijos ieškokite [turinio ieškos rezultatų eksportavimas](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
