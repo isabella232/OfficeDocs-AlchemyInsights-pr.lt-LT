@@ -1,30 +1,31 @@
 ---
-title: 8000089 Outlook.com patikimi siuntėjai
+title: "\"8000089\" Outlook.com Patikimi siuntėjai"
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743641"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722895"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Stabdyti pranešimus, kad jie nepatektų į nepageidaujamo el. pašto aplanką
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Laiškų nusiuntimas į nepageidaujamo pašto aplanką
 
-Kartais nenorite, kad laiškai iš konkretaus asmens ar domeno baigtųsi Outlook.com aplanke Nepageidaujamas el. paštas. Pranešimai iš adresų arba domenų, esančių patikimų siuntėjų sąraše, nebus perkelti į aplanką Nepageidaujamas el. paštas.
+Yra atvejų, kai nenorite, kad laiškai iš konkretaus asmens ar domeno būtų rodomi jūsų nepageidaujamo pašto aplanke "Outlook.com". Laiškai iš adresų arba domenų, esančių patikimų siuntėjų sąraše, nebus perkelti į aplanką Nepageidaujamas el. paštas.
 
-1. Atidarykite [patikimų siuntėjų parametrus](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Dalyje **Patikimi siuntėjai ir domenai**įveskite el. pašto adresą arba domeną, kurį norite įtraukti, tada pasirinkite **Įtraukti**.
-3. Norėdami įtraukti adresatų sąrašą į patikimus siuntėjus, dalyje **Patikimi adresatų sąrašai** įveskite adresatų sąrašą ir pasirinkite **Įtraukti**.
-4. Pasirinkite **I¹saugoti**.
+1. Atidarykite [Patikimų siuntėjų parametrus](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Dalyje **Patikimi siuntėjai ir domenai**Įveskite elektroninio pašto adresą ar domeną, kurį norite įtraukti, ir pasirinkite **įtraukti**.
+3. Norėdami įtraukti siuntimo sąrašą į patikimų siuntėjų sąrašą, įveskite siuntimo sąrašą dalyje **saugių laiškų sąrašai** ir pasirinkite **įtraukti**.
+4. Pasirinkite **įrašyti**.
 
-Skaitykite daugiau programoje ["Block" arba atblokuokite siuntėjus Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Skaitykite daugiau [blokavimą arba atblokuoti siuntėjus programoje "Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)".
