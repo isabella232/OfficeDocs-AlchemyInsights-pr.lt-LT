@@ -1,28 +1,29 @@
 ---
-title: Komandos Freemium
+title: "\"Teams\" freemium"
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 8de8414610fa181c0ad477563c5fdb8eaee5a3bd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737804"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736548"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Norėčiau užsiregistruoti komandos nemokamai
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Norėčiau prisiregistruoti naudoti "teams" nemokamai
 
-Komandos yra prieinamos nemokamai per keletą skirtingų programų. Kadangi kreipiatės į palaikymo tarnybą naudodami šią užklausą, jau turite esamą "Microsoft 365" nuomotoją, o tai reiškia, kad jau turite "Microsoft Teams".
+"Teams" galima nemokamai naudoti naudojant kelias skirtingas programas. Kadangi kreipdamiesi į palaikymą su šia užklausa, jau turite esamą "Microsoft" 365 nuomotoją, o tai reiškia, kad jau turite "Microsoft teams".
 
-Daugeliu atvejų "Teams" pagal numatytuosius nustatymus yra įjungta visiems vartotojams. Kai ji įjungta, vartotojai gali paleisti "Teams" įdiegdami [stalinius](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) ir [mobiliuosius](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) klientus arba [iš naršyklės](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client) adresu <https://teams.microsoft.com.>
+Daugeliu atvejų "teams" įjungiama pagal numatytuosius ir visiems jūsų vartotojams. Kai jis bus įjungtas, vartotojai gali naudoti komandas, arba įdiegti [kompiuterio](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   ir [mobiliuosius](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) klientus, arba [naršyklėje](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client)   <https://teams.microsoft.com.>
 
-Išimtis yra "Microsoft Teams for Education" (EDU). Jei turite EDU licenciją, turite įgalinti "Microsoft Teams" rankiniu būdu. Norėdami tai padaryti, eikite į "Microsoft 365" administravimo centro **> tarnybos ir priedai > "Microsoft Teams".** Jei naudojate naują "Teams" administravimo centrą, turėsite išjungti **Išbandykite naują administravimo centrą,** kad rastumėte **Tarnybas ir priedus**. SVARBU: Jums gali tekti palaukti iki 24 valandų, kol pakeitimai įsigalios.
+Išimtis – "Microsoft teams" švietimui (EDU). Jei turite EDU licenciją, turite įgalinti "Microsoft teams" rankiniu būdu. Norėdami tai padaryti, eikite į "Microsoft" 365 administravimo centras **> tarnybų ir papildinių > "Microsoft teams"**. Jei naudojate naują komandų administravimo centrą, turite išjungti **išbandyti naują administravimo centrą**,   kad rastumėte **paslaugas ir papildinius**. Svarbu: jums gali tekti palaukti iki 24 valandų, kol įsigalios jūsų pasikeitimai.
 
-Nepraleiskite visų mūsų rekomendacijų, kaip [remti nuotolinius darbuotojus su komandomis](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Nepraleiskite visų mūsų rekomendacijų, kaip [remti nuotolinius darbuotojus su "teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)".

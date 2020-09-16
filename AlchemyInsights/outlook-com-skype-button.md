@@ -1,23 +1,24 @@
 ---
-title: 8000049 "Skype" piktogramą nėra Outlook.com
+title: Outlook.com "Skype" piktogramos trūksta "" 8000049
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767869"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802245"
 ---
 # <a name="skype-icon-missing"></a>Trūksta "Skype" piktogramos
 
-Laikinai pašalinome "Skype" piktogramą iš Outlook.com kaip dizaino atnaujinimo ir funkcijų atnaujinimo dalį, kurią džiaugiamės, kad diegiame. Mes vertiname jūsų kantrybę, o mes rengiame naują ir patobulintą patirtį jums.
+Mes laikinai pašalinome "Skype" piktogramą iš Outlook.com kaip dizaino atnaujinimo ir funkcijų naujinimo dalį, kurią džiaugiamės, kad būtų diegiamos. Dėkojame už kantrybę, o mes paruošime jums naują ir geresnę patirtį.
 
-Vis tiek galite naudoti "Skype" per naršyklę [web.skype.com](https://web.skype.com).
+Vis dar galite naudoti "Skype" naudodami savo naršyklę " [Web.Skype.com](https://web.skype.com)".
