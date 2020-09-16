@@ -1,41 +1,41 @@
 ---
-title: Nerodomos jautrumo etiketės
+title: Nerodoma jautrumo Žymos
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581023"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801192"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Nerodomos jautrumo etiketės
+# <a name="sensitivity-labels-not-appearing"></a>Nerodoma jautrumo Žymos
 
-Jautrumo etiketės leidžia klasifikuoti ir apsaugoti slaptą turinį. Juos galima sukurti "Microsoft 365" atitikties centre, "Microsoft 365" saugos centre arba "Microsoft 365" saugos & atitikties centre pagal klasifikavimo > jautrumo etiketes. Norėdami sužinoti daugiau apie šią funkciją, [žiūrėkite Jautrumo etikečių apžvalga](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Slaptumo Žymos leidžia klasifikuoti ir padėti apsaugoti slaptą turinį. Jas galima sukurti "Microsoft" 365 atitikties centre, "Microsoft 365" saugos centre arba "Microsoft 365" saugos & atitikties centre, dalyje klasifikacijos > jautrumo Žymos. Norėdami sužinoti daugiau apie šią funkciją, peržiūrėkite [slaptumo žymių apžvalga](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Jei sukonfigūravote jautrumo etiketes, bet jos nerodomos "Microsoft 365" programėlėse, patikrinkite šiuos dalykus:
+Jei sukonfigūravote savo slaptumo žymas, bet jos nerodomos "Microsoft" 365 programose, patikrinkite šiuos dalykus:
 
-- Patvirtinkite, kad jautrumo etiketė buvo [publikuota](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) norimiems vartotojams ir grupėms.
+- Įsitikinkite, kad jūsų pageidautiems vartotojams ir grupėms buvo [publikuota](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) jautrumo žymė.
 
-- Patvirtinkite, kad vartotojas naudoja programą, palaikančią jautrumo etiketes , [žr.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
+- Įsitikinkite, kad vartotojas naudoja taikomąją programą, palaikančią jautrumo žymes – Peržiūrėkite [savo dokumento slaptumo žymas](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Jei [perkeliate "Azure" informacijos apsaugos etiketes](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), atkreipkite dėmesį į [čia](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)išvardytus aspektus .
+- Jei perkeliate " [Azure" informacijos apsaugos žymas](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), Atkreipkite dėmesį į [čia](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)išvardytus dalykus.
 
-- Duomenų praradimo prevencijos (DLP) palaikymas: šiuo metu dlp strategijose kaip sąlygą galima naudoti tik saugojimo etiketes.  Jautrumo etikečių palaikymas DLP politikoje dar negalimas, bet su ja dirbame.
+- Apsaugos nuo duomenų praradimo (DLP) palaikymas: šiuo metu tik saugojimo etiketes galima naudoti kaip DLP strategijos sąlygą.  DLP strategijos jautrumo žymių palaikymas dar nepasiekiamas, bet mes dirbame.
 
-- Įgalinę šifravimą jautrumo etiketėje, galite pasirinkti:
+- Kai šifravimas įgalintas naudojant slaptumo žymą, galite pasirinkti:
     - Teisių priskyrimas dabar
-    - Leisti vartotojams priskirti teises
+    - Teisių priskyrimas vartotojams
 
 
-Daugiau informacijos apie galimas problemas [ieškokite Žinomos jautrumo etikečių problemos](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Daugiau informacijos apie galimas problemas ieškokite [žinomos problemos su jautrumo žymėmis](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

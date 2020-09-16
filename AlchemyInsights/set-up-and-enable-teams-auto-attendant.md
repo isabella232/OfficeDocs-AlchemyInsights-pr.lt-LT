@@ -1,29 +1,30 @@
 ---
-title: Sąranka ir įgalinkite komandos automatinį operatorių
+title: Nustatymas ir komandų automatinio operatoriaus įgalinimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: e55239d6a06e6e590066e5e5bd66579d111f5b89
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344175"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801120"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>"Cloud" automatinio operatoriaus nustatymas
+# <a name="set-up-a-cloud-auto-attendant"></a>Debesies automatinio operatoriaus nustatymas
 
-Dabar automatiniai operatoriai turi specialius licencijavimo reikalavimus. Sužinokite, [kas yra "Cloud" automatiniai operatoriai?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) Norėdami sužinoti, kaip kurti ir nustatyti "teams" automatinius operatorius. 
+Automatiniai operatoriai šiuo metu turi konkrečius licencijavimo reikalavimus. Sužinokite, [kas yra debesies automatiniai operatoriai?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) Norėdami sužinoti apie komandų automatinių operatorių kūrimą ir nustatymą. 
 
-Daugiau informacijos žr.
+Daugiau informacijos rasite:
 
-- "Microsoft teams" [nustatykite debesies automatinį operatorių](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) . 
-- [Sukurkite debesies skambučių eilę](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) su "Microsoft teams". 
-- [Atsiliepkite į automatinį operatorių ir skambučių eilės skambučius tiesiai iš komandos](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Nustatykite debesies automatinį operatorių](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) su "Microsoft teams". 
+- [Sukurkite debesies skambučio eilę](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) su "Microsoft teams". 
+- [Atsakykite į automatinį operatorių ir skambinkite į eilę tiesiogiai iš "teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)". 
