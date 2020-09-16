@@ -1,28 +1,29 @@
 ---
-title: Klaidų sprendimai 30180-28
+title: Klaidos 30180-28 sprendimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: 1a30df2a78a838ddeb7be83b8ddebc9114bccabb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 75a0fe3459fdf2cfd83b7889a28440e7a9cb3b27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767123"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738429"
 ---
-# <a name="solutions-for-error-30180-28"></a>Klaidų sprendimai 30180-28
+# <a name="solutions-for-error-30180-28"></a>Klaidos 30180-28 sprendimas
 
-Galite matyti [klaidą 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) "Office" naujinimo metu, jei turite prastas interneto ryšys. Štai keletas dalykų, kuriuos galite pabandyti išspręsti problemą.
+Jei turite prastą interneto prieigą, galite matyti [klaidą 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) "Office" naujinimu. Štai keletas dalykų, kuriuos galite išbandyti, kad išspręstumėte problemą.
   
-- Paleiskite kompiuterį iš naujo ir [atnaujinkite "Office".](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA)
+- Paleiskite kompiuterį iš naujo ir [atnaujinkite "Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA)".
 
-- Atlikite anksčiau nurodytus veiksmus, bet atnaujindami "Office" naudokite laidinį ryšį.
+- Atlikite anksčiau nurodytus veiksmus, tačiau naujindami "Office" naudokite laidinį sujungimą.
