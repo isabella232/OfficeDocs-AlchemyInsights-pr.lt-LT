@@ -1,38 +1,39 @@
 ---
-title: Intune įrenginių inventorius
+title: "\"Intune\" įrenginių inventorius"
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: d59ee014a64de39d01837e90909619f30ec35e89
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439658"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667886"
 ---
-# <a name="intune-device-inventory"></a>Intune įrenginių inventorius
+# <a name="intune-device-inventory"></a>"Intune" įrenginių inventorius
 
-Įrenginių ašmenys suteikia administratoriui įžvalgą apie įrenginius, kurie yra valdomi "Intune", kiekvienam įrenginiui. Rodoma informacija apima: aparatūrą, aptiktas programas, įrenginio atitikties būseną ir įrenginio konfigūracijos būseną.
+Įrenginių ašmenys suteikia administratoriui įžvalgų įrenginių dalyje valdymas, kurį naudoja "Intune" vienam įrenginiui. Rodoma informacija: aparatūra, aptiktos taikomosios programos, įrenginio atitikties būsena ir įrenginio konfigūracijos būsena.
 
-Atsargų duomenys aparatinei įrangai ir aptiktosioms programoms renkami septynių dienų ciklu. Nurodytos taikomosios programos ir konkretūs aparatūros elementai skiriasi priklausomai nuo įrenginio operacinės sistemos ir nuo to, ar įrenginys yra asmeniškai, ar priklausantis įmonei.
+Įrenginių atsargų duomenys ir aptiktos taikomosios programos renkamos septynių dienų ciklu. Taikomosios programos ir specifiniai aparatūros elementai skiriasi atsižvelgiant į įrenginio operacinę sistemą ir į tai, ar įrenginys yra asmeniškai, ar įmonės nuosavybė.
 
-Daugiau informacijos [ieškokite įrenginio informacijoje in Intune](https://docs.microsoft.com/intune/device-inventory).
+Daugiau informacijos rasite [įrenginio informacijos peržiūra "Intune](https://docs.microsoft.com/intune/device-inventory)".
 
 **DUK**
 
-Klausimas: Aš negaunu visą inventoriaus sąrašą programų, esančių Intune-enrolled Windows prietaisai. kodėlgi ne?
+K: aš negavau visos inventorizacijos programos, esančios "Intune", įtrauktų į "Windows" įrenginius. kodėlgi ne?
 
-A: Šiuo metu išvardytos tik šiuolaikinės programėlės, skirtos "Windows 10" kompiuteriams, kurie identifikuojami kaip įmonės įrenginiai. "Intune" nerenka informacijos apie šiuose įrenginiuose įdiegtas "Win32" programas.
+A: šiuo metu "Windows 10" kompiuteriuose, kurie identifikuojami kaip įmonės įrenginiai, nurodomos tik šiuolaikinės taikomosios programos. Intune nerenka informacijos apie "Win32" taikomąsias programas, įdiegtas šiuose įrenginiuose.
 
-Kl.: Kodėl telefono numeriai renkami ne iš visų įrenginių?
+K: Kodėl telefono numeriai nerenkami iš visų įrenginių?
 
-A: Telefonai, priskiriami įmonės įrenginiams intune, neidentifikuojami su visu telefono numeriu, kai, pvz., paleidžiate mobiliojo įrenginio atsargų ataskaitą. Bring-you-own-device telefono numeriai visada iš dalies užmaskuotas žvaigždutėmis (****), ir rodo tik paskutinius keturis skaitmenis.
+A: kai, pvz., paleidus mobiliųjų įrenginių atsargų ataskaitą, į "Intune" priskiriami telefonai, kurie priskiriami įmonės įrenginiams. "Bring-Your-Own" įrenginio telefono numeriai visada yra dalinai užmaskuoti žvaigždute (* * * *) ir rodomi tik keturi paskutiniai skaitmenys.

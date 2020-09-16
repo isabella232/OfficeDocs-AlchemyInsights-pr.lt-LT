@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354096"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670372"
 ---
 # <a name="teams-admin-center"></a>„Teams“ administravimo centras
 
@@ -31,5 +32,5 @@ Jei vartotojai neatsiranda „Teams“ administravimo centre, patikrinkite šiuo
 
 - Ar per pastarąsias 24 valandas sukūrėte vartotojus arba licencijas? Prieš atidarydami palaikymo bilietą būtinai palaukite bent 24 valandas.
 - Įsitikinkite, kad priskyrėte reikiamas licencijas?
-- If you have an on-premise Active Directory, verify that [the value of msRTCSIP-PrimaryUserAddress or the SIP address in the ProxyAddresses field in your local Active Directory is unique and the format matches](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Username** of the user from the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Jei ketinate išlaikyti "Skype" Business Server diegimo ir vartotojų homed vietiniame ir internete: **vykdykite "Nustatyti hibridas su komandos ir "Skype" Business Online "Skype"** Business Server valdymo skyde ir perkelti vartotojus internete.
+- Jei turite vietinį "Active Directory", patikrinkite, ar " [msRTCSIP-PrimaryUserAddress" arba SIP adreso reikšmė jūsų vietinio "Active Directory" lauke ProxyAddresses yra unikali ir formatas sutampa](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) su SIP: vartotojo**vartotojo vardas** iš ["Microsoft 365" administravimo centro](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jei norite išlaikyti "Skype" verslui serverio įdiegtį ir vartotojai dirba vietiniame ir tinkle: atlikite "Skype" verslui serverio valdymo skyde esančią parinktį **"nustatyti hibridinę funkciją su" teams "ir" Skype "verslui"** ir vartotojų perkėlimas internetu.

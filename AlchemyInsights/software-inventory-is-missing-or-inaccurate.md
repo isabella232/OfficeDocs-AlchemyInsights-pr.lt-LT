@@ -1,32 +1,33 @@
 ---
-title: Trūksta programinės įrangos atsargų arba jos netikslios
+title: Trūksta programinės įrangos atsargų arba jos nėra tikslios
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198053"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665294"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Trūksta programinės įrangos atsargų arba jos netikslios
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Trūksta programinės įrangos atsargų arba jos nėra tikslios
 
-"Microsoft Defender ATP" tarnybos programinės įrangos atsargos pateikia produkto pavadinimą arba tiekėją, naujausią versijos numerį ir aptiktus trūkumus bei pažeidžiamumą. Daugiau informacijos rasite [Programinės įrangos atsargos – grėsmės ir pažeidžiamumo valdymas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+"Microsoft Defender ATP" programinės įrangos inventoriuje pateikiamas produkto pavadinimas arba tiekėjas, naujausias versijos numeris ir aptikti trūkumai bei pažeidžiamumas. Daugiau informacijos ieškokite [programinės įrangos inventorius – grėsmių ir pažeidžiamumo valdymas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Atlikdami šiuos veiksmus galite pranešti apie neaiškią arba neišsamią informaciją, netikslius versijų numerius arba ištaisomos programinės įrangos atsargų informaciją.  
+Galite pranešti apie neaiškius arba neišsamius duomenis, netikslinius versijų numerius ar išvalotą programinės įrangos atsargų informaciją atlikdami šiuos veiksmus.  
 
-1. Atidarykite programinės įrangos iškeliamą ir pasirinkite programą programinės įrangos atsargų puslapyje.
-2. Pasirinkite **Ataskaitos netikslumas**, tada iškeliamojoje srityje išskleidžiamajame meniu pasirinkite kategoriją.
-3. Įveskite savo el. pašto adresą ir netikslumo duomenis.
-4. Pasirinkite **Pateikti**.</br>
-    Jūsų atsiliepimai nedelsiant siunčiami grėsmių & pažeidžiamumo valdymo ekspertams.
+1. Atidarykite programinės įrangos Iškeliamasis ir pasirinkite taikomąją programą, esančią puslapyje programinės įrangos aprašas.
+2. Pasirinkite **ataskaitos netikslumą**ir iškeliamosios srities išplečiamajame meniu pasirinkite kategoriją.
+3. Įveskite savo elektroninio pašto adresą ir išsamią informaciją apie netikslumą.
+4. Pasirinkite **pateikti**.</br>
+    Jūsų atsiliepimai bus nedelsiant nusiųsti grėsmių & pažeidžiamumo valdymo ekspertams.

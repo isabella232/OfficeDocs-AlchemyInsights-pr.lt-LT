@@ -1,25 +1,26 @@
 ---
-title: Perėjimas į "Microsoft Intune"
+title: Perėjimas prie "Microsoft Intune"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: acfebfb787bfc93eb9a2a7a365ebdb78cc597366
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: c2b474e2a12b4ad60ad95eab18b7f01d3c1933e1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493337"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674514"
 ---
-# <a name="migrating-to-microsoft-intune"></a>Perėjimas į "Microsoft Intune"
+# <a name="migrating-to-microsoft-intune"></a>Perėjimas prie "Microsoft Intune"
 
-Jei bandote perkelti į Intune peržiūrėti [Intune perkėlimo vadovas](https://docs.microsoft.com/intune/fundamentals/migration-guide).
+Jei bandote perkelti į "Intune" peržiūrėkite " [Intune" perkėlimo vadovą](https://docs.microsoft.com/intune/fundamentals/migration-guide).
 
-Norėdami gauti daugiau konkrečių patarimų, kaip pereiti iš System Center Configuration Manager (ir SCCM Hybrid) intune, reivew mūsų [hibridinio perkėlimo dokumentacija](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa). 
+Daugiau specifinių rekomendacijų apie perėjimą iš System Center Configuration Manager (ir SCCM hibridinį) į Intune, reivew mūsų [hibridinio perkėlimo dokumentus](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa). 

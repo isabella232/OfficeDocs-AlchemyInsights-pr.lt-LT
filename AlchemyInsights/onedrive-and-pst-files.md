@@ -1,29 +1,30 @@
 ---
-title: "\"OneDrive\" ir .pst failai"
+title: "\"OneDrive\" ir. pst failai"
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: b9a6be8707c935fd8069a6a030a1249d04c497b9
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141567"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673253"
 ---
-# <a name="onedrive-and-pst-files"></a>"OneDrive" ir .pst failai 
+# <a name="onedrive-and-pst-files"></a>"OneDrive" ir. pst failai 
 
-"OneDrive" palaiko "Outlook" .pst failus, tačiau jie sinchronizuojami rečiau, palyginti su kitais failų tipais, siekiant sumažinti tinklo srautą. Norėdami neleisti "OneDrive" sinchronizavimo programėlei nusiųsti .pst [failų,](https://docs.microsoft.com/onedrive/block-file-types)žr. 
+"OneDrive" palaiko "Outlook. pst" failus, tačiau jos sinchronizuojamos rečiau, palyginti su kitais failų tipais, kad sumažintumėte tinklo srautą. Jei nenorite, kad "OneDrive" sinchronizavimo programėlė nusiųstumėte. pst failus, peržiūrėkite [blokuoti konkrečių failų tipų sinchronizavimą](https://docs.microsoft.com/onedrive/block-file-types). 
 
-Norėdami perkelti .pst failus iš "OneDrive", [sužinokite, kaip pašalinti "Outlook" .pst duomenų failą iš "OneDrive".](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) 
+Norėdami perkelti. pst failus iš "OneDrive", Sužinokite, [kaip pašalinti "Outlook". pst duomenų failą iš "OneDrive"](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e). 
 
-Jei vartotojai įgalinti kompiuterio aplanko atsarginę kopiją rankiniu būdu be grupės strategijos, įvyksta klaida, jei jie turi .pst failą į vieną iš savo žinomų aplankų.
+Jei vartotojai kompiuterio aplanko atsarginę kopiją įjungs rankiniu būdu be grupės strategijos, klaida įvyksta, jei jie turi. pst failą viename iš jų žinomų aplankų.
 
-Jei naudojate "OneDrive" darbui arba mokyklai, organizacijos "SharePoint" svetainės administratorius gali blokuoti kai kuriuos failų tipus.
+Jei naudojate "OneDrive" darbui arba mokyklai, kai kuriuos failų tipus gali užblokuoti organizacijos "SharePoint" svetainės administratorius.
