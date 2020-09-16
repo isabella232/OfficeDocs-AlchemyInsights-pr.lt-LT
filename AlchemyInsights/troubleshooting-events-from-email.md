@@ -1,47 +1,48 @@
 ---
-title: Trikčių diagnostika įvykių el. paštu
+title: Trikčių šalinimo įvykiai iš elektroninio pašto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569137"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658742"
 ---
-# <a name="troubleshooting-events-from-email"></a>Trikčių diagnostika įvykių el. paštu
+# <a name="troubleshooting-events-from-email"></a>Trikčių šalinimo įvykiai iš elektroninio pašto
 
-1. Patikrinkite, ar funkcija įgalinta pašto dėžutės: **Get-EventsFromEmailConfiguration-Identity <mailbox> **
+1. Patikrinkite, ar įgalinta pašto dėžutės funkcija: **get-Eventsofromemailconfiguration – tapatybė <mailbox> **
 
-2. Tada peržiūrėkite "Įvykiai iš el. pašto" žurnalus **Eksporto-MailboxDiagnosticLogs <mailbox> komponento TimeProfile**
+2. Tada Pažvelkite į "įvykiai iš pašto" žurnalai **Export-MailboxDiagnosticLogs <mailbox> -komponento timeprofile**
 
-3. Žurnaluose "Įvykiai iš el. pašto" raskite internetMessageId, kuris atitinka pašto dėžutės elementą.  
+3. Žurnaluose "įvykiai iš pašto" raskite InternetMessageId, atitinkantį elementą pašto dėžutėje.  
 
-4. TrustScore nustato, ar elementas yra įtrauktas, ar ne. Įvykiai bus įtraukti tik tada, jei TrustScore = "Patikimas".
+4. TrustScore nustato, ar elementas įtrauktas, ar ne. Įvykiai bus įtraukti tik jei TrustScore = "patikimas".
 
-TrustScore nustatomas pagal SPF, Dkim arba Dmarc ypatybes, kurios yra pranešimo antraštėje.
+TrustScore nustatomas pagal SPF, DKIM arba DMARC ypatybes, kurios yra pranešimo antraštėje.
 
 Norėdami peržiūrėti šias ypatybes:
 
-**Darbalaukio "Outlook"**
+**Kompiuterio "Outlook"**
 
 - Atidaryti elementą
 - Failų > ypatybės – > interneto antraštės
 
-Arba
+arba
 
-**MFCMapi (Netoli viešbučio mfc)**
+**MFCMapi**
 
 - Pereiti į aplanko Gauta elementą
-- Ieškokite PR_TRANSPORT_MESSAGE_HEADERS_W
+- Ieškoti PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Šios savybės nustatomos ir registruojamos transportavimo ir maršruto parinkimo metu. Jei reikia daugiau trikčių šalinimo, gali tekti stebėti, kaip palaikymo tarnyba dėl SPF, DKIM ir.arba DMARC trikčių.
+Šios ypatybės nustatomos ir registruojamos transportavimo ir nukreipimo metu. Norėdami gauti daugiau trikčių diagnostikos, jums gali tekti stebėti transportavimo palaikymą apie NPN, DKIM ir. or DMARC gedimus.

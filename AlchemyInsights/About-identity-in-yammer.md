@@ -6,26 +6,27 @@ manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: 2c4c2c836d18d2ab45e2368e778c793277b18aa0
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664178"
 ---
 # <a name="about-identity-in-yammer"></a>Apie tapatybę "Yammer"
 
-Rekomenduojama, kad visi tinklai imtųsi šių veiksmų, kad išvengtų su tapatybe susijusių problemų:
+Rekomenduojama, kad visi tinklai imtųsi toliau nurodytų veiksmų, kad išvengtumėte su tapatybe susijusių problemų:
 
-1. Įgalinti "Office 365" tapatybės po parengimo Microsoft 365 abonementai vartotojams Azure AD užtikrinti, kad visi vartotojai prisijungti naudodami savo pagrindinį "Microsoft 365" abonementą. Daugiau informacijos rasite ["Office 365" tapatybės įgalininimas "Yammer" vartotojams](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
-2. Sujunkite kelis "Yammer" tinklus. Senstelėjusios įrangos "Yammer" konfigūracijos leidžia kelis "Yammer" tinklus prijungti prie vieno nuomotojo. Daugiau informacijos rasite [Network migration - Consolidate multiple Yammer networks](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
-3. Jei norite, įgalinkite "Yammer" licencijavimą, kad užblokuotumėte vartotojus iš "Yammer", jei jie neturi licencijos. Daugiau informacijos rasite ["Yammer" vartotojų licencijų valdymas "Office 365".](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
-4. Galiausiai patikrinkite senesnių "Yammer" tinklų vartotojų sąrašą ir laikinai sustabdykite senstelėjusius vartotojus. Rekomenduojama laikinai sustabdyti (išjungti) vartotojus, o ne juos naikinti, nes naikinimas yra negrįžtamas. Daugiau informacijos rasite ["Yammer" vartotojų tikrinimas tinkluose, prijungtuose prie "Office 365",](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) ir [Vartotojų šalinimas](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
+1. "Office 365" tapatybės užtikrinimas sukonfigūravus "Microsoft 365" paskyras "Azure AD" vartotojams, kad visi vartotojai prisijungtų naudodami savo pirminį "Microsoft 365" abonementą. Daugiau informacijos ieškokite " [Office 365" tapatybės, skirtos "Yammer" vartotojams](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity), "vykdymą.
+2. Konsoliduoti kelis "Yammer" tinklus. Senstelėjusios "Yammer" konfigūracijos leidžia prijungti kelis "Yammer" tinklus prie vieno nuomotojo. Daugiau informacijos ieškokite [tinklo perkėlimas – sutraukti kelis "Yammer" tinklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+3. Pasirinktinai galite įgalinti licencijavimą, kad "Yammer" blokuotų vartotojus iš "Yammer", jei jie neturi licencijos. Daugiau informacijos rasite " [Yammer" vartotojų licencijų valdymas "Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)".
+4. Galiausiai, tikrins senesnių "Yammer" tinklų vartotojų sąrašą ir laikinai sustabdykite senesnius vartotojus. Rekomenduojama laikinai sustabdyti (išjungti) vartotojus, o ne panaikinti juos, nes naikinimas neatšaukiamas. Daugiau informacijos rasite " [Office 365" tinklų, sujungtų su "Office", audito "Yammer" vartotojai](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) ir [vartotojų pašalinimas](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
 
-Konfigūruodami "Yammer" naudodami šiuos veiksmus, taip pat galėsite konfigūruoti "Yammer" tinklą vietiniam režimui, skirtam "Microsoft 365". Daugiau informacijos rasite ["Yammer" tinklo konfigūravimas "Native Mode for Microsoft 365".](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)
+Sukonfigūravę "Yammer" atlikdami šiuos veiksmus, taip pat būsite pasirengę sukonfigūruoti "Yammer" tinklą, skirtą "Microsoft 365" prigimtiniame režime. Daugiau informacijos ieškokite ["Yammer" tinklo "Microsoft 365" pirminio režimo konfigūravimas](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).
