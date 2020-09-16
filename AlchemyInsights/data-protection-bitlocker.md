@@ -1,46 +1,47 @@
 ---
-title: DataProtection-"BitLocker"
+title: "\"DataProtection\" – \"BitLocker\""
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: c23a2a2bde240900119382a9c1185a6e02520149
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908717"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731247"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>"BitLocker" šifravimo įgalinimas naudojant "Intune"
+# <a name="enabling-bitlocker-encryption-with-intune"></a>"BitLocker" šifravimo su "Intune" įgalinimas
 
- Intune Endpoint Protection politika gali būti naudojama konfigūruoti BitLocker šifravimo parametrus Windows įrenginiams. Daugiau informacijos rasite ["Windows 10" (ir naujesniuose) parametruose, kad apsaugotume įrenginius naudojant "Intune"](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+ "Intune Endpoint Protection" strategiją galima naudoti konfigūruojant "BitLocker" šifravimo parametrus "Windows" įrenginiuose. Daugiau informacijos rasite ["Windows 10" (ir vėlesnės versijos) parametruose, kad apsaugotumėte įrenginius naudodami Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
  
-Turėtumėte žinoti, kad daug naujesnių įrenginių, kuriuose veikia "Windows 10", palaiko automatinį "BitLocker" šifravimą, kuris paleidžiamas netaikant MDM strategijos. Tai gali paveikti strategijos taikymą, jei sukonfigūruoti ne numatytieji parametrai. Daugiau informacijos rasite toliau pateiktuose DUK.
+Turėtumėte žinoti, kad daugelis naujesnių įrenginių, kuriuose veikia "Windows 10", palaiko automatinį "BitLocker" šifravimą, kuris paleidžiamas nenaudojant MDM strategijos. Tai gali turėti įtakos strategijos taikymui, jei nenumatytieji parametrai yra sukonfigūruoti. Daugiau informacijos rasite toliau pateiktuose DUK.
  
-Informacijos apie "BitLocker" trikčių šalinimą rasite ["Microsoft Intune" "BitLocker" strategijos trikčių diagnostika](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Informacijos apie "BitLocker" problemų diagnostiką ieškokite ["BitLocker" strategijų trikčių diagnostika "Microsoft Intune"](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
-**Duk**
+**DUK**
 
- Klausimas: kokie leidimai Windows palaikymo įrenginių šifravimo naudojant galinio punkto apsaugos strategijos?<br>
- A: Intune galinio punkto apsaugos strategijos parametrai yra įgyvendinami naudojant " [BitLocker" CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ne visi leidimai ar komponavimo versijos Windows palaiko BitLocker CSP. <br><br>
-      Šiuo metu palaikomi šie Windows leidimai: Enterprise, Education, Mobile, Mobile Enterprise ir Professional (statyti 1809 ir vėliau).
+ K: kokių "Windows" palaikymo įrenginių šifravimo leidimų naudojant galinio punkto apsaugos strategiją?<br>
+ A: "Intune Endpoint Protection" strategijos parametrai vykdomi naudojant ["BitLocker" CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ne visi "Windows" leidimai arba komponavimo versijos palaiko "BitLocker" CSP. <br><br>
+      Šiuo metu palaikomi šie "Windows" leidimai: "Enterprise", "Education", mobilusis, mobiliųjų įrenginių įmonė ir profesionalai (1809 Komponavimo versija ir vėlesnė versija).
  
-Q: Jei įrenginys jau yra užšifruotas naudojant "BitLocker" naudodami numatytuosius OS parametrus šifravimo metodui ir šifro patvarumui (XTS-AES-128), taikant strategiją su skirtingais parametrais, automatiškai suaktyvins disko šifravimą su naujais parametrais?<br>
-A: ne. Norint taikyti naują šifro parametrus, diskas pirmiausia turi būti iššifruotas.<br><br>
-**Pastaba:** Prietaisų, kurie mokosi su Autopilotas, automatinio šifravimo, kad atsirastų OOBE metu nėra paleidžiamas kol Intune strategija yra vertinama, kuri leidžia strategijos parametrai turi būti naudojami vietoj OS numatytąsias reikšmes.
+K: Jei įrenginys jau užšifruotas naudojant "BitLocker", kai "BitLocker" yra šifravimo metodo ir šifro stiprumo parametrai (XTS-AES – 128), pritaikys strategiją su skirtingais parametrais, automatiškai suaktyvins disko, kuriame yra nauji parametrai, šifravimą?<br>
+A.: Ne. Norint taikyti naujus šifro parametrus, pirmiausia reikia iššifruoti loginį diską.<br><br>
+**Pastaba:** "Autopilot" registruotam įrenginiams Automatinis šifravimas, įvykęs OOBE metu, nėra paleidžiamas, kol bus įvertinta Intune strategija, kuri leidžia naudoti strategijos parametrus, naudojamus vietoj OS numatytųjų reikšmių.
  
-Q: Jei įrenginys yra užšifruotas dėl Intune strategijos taikymo, ar jis bus iššifruoti, kai ši politika bus pašalinta?<br>
-A: pašalinus šifravimo susijusios politikos ne rezultatas iššifravimas diskus, kurie buvo sukonfigūruotas.
+K: Jei įrenginys užšifruotas kaip "Intune" strategijos taikymas, jis bus iššifruotas pašalinus šią strategiją?<br>
+A: su šifravimu susijusios strategijos pašalinimas nesukelia loginių diskų iššifravimo.
  
-Klausimas: Kodėl Intune atitikties politika rodo, kad mano įrenginys nėra įgalintas "BitLocker", nors ji yra?<br>
-A: "BitLocker" įjungtas "nustatymas Intune atitikties strategijos naudoja" Windows "įrenginio sveikatos patvirtinimo (DHA) kliento. Šis klientas tik priemonės prietaiso būseną įkrovos metu. Taigi, jei įrenginys nebuvo paleistas, nes "BitLocker" šifravimas buvo baigtas, DHA kliento tarnyba nebus pranešti "BitLocker" kaip aktyvus.
+K: Kodėl Intune atitikties strategija rodo, kad mano įrenginyje nėra įgalintas "BitLocker", net jei jis yra?<br>
+A: "BitLocker" įgalintas parametras Intune atitikties strategijoje naudoja "Windows" įrenginio sveikatos patvirtinimo (DHA) klientą. Šis klientas tik matuoja įrenginio būseną įkrovimo metu. Taigi, jei įrenginys nebuvo paleistas, nes "BitLocker" šifravimas buvo užbaigtas, DHA kliento tarnyba nepateiks "BitLocker" kaip aktyvaus.
  
  
