@@ -1,26 +1,27 @@
 ---
-title: 8000037 negauna teistį el. laiškų Outlook.com
+title: "\"8000037\" negauna elektroninio pašto \"Outlook.com\""
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: 4d2fd6d68c88407740729aecd9e4d63f5b0d712b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761750"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772486"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="201fb-102">Negaunamas laiškas Outlook.com</span><span class="sxs-lookup"><span data-stu-id="201fb-102">Not receiving mail in Outlook.com</span></span>
+# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="53d0d-102">Negauti laiškų "Outlook.com"</span><span class="sxs-lookup"><span data-stu-id="53d0d-102">Not receiving mail in Outlook.com</span></span>
 
-<span data-ttu-id="201fb-103">Jei negaunate konkretaus siuntėjo el. laiškų, pvz., banko išrašų arba slaptažodžio nustatymo iš naujo pranešimų, turėsite susisiekti su siuntėju ir pranešti jiems, kad negaunate el. laiškų Outlook.com paskyroje.</span><span class="sxs-lookup"><span data-stu-id="201fb-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="201fb-104">Prašome kreiptis [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)į siuntėją , kur jis gali rasti informacijos apie geriausią praktiką, rekomenduoti trikčių diagnostika, ir nuorodą susisiekti su mūsų siuntėjo palaikymo komanda.</span><span class="sxs-lookup"><span data-stu-id="201fb-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="53d0d-103">Jei negausite elektroninio pašto iš konkretaus siuntėjo, pvz., banko išrašų ar slaptažodžio nustatymo iš naujo, turėsite susisiekti su siuntėju ir pranešti, kad negaunate el. laiško savo "Outlook.com" paskyroje.</span><span class="sxs-lookup"><span data-stu-id="53d0d-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="53d0d-104">Paprašykite siuntėjo [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , kur jie gali surasti informacijos apie geriausią praktiką, rekomenduoti trikčių diagnostiką ir saitą, kad galėtumėte susisiekti su mūsų siuntėjo palaikymo komanda.</span><span class="sxs-lookup"><span data-stu-id="53d0d-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="201fb-105">Jei Outlook.com paskyra iš viso negauna el. pašto, [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363)žr.</span><span class="sxs-lookup"><span data-stu-id="201fb-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
+<span data-ttu-id="53d0d-105">Jei jūsų "Outlook.com" abonementas iš viso negauna elektroninio pašto, skaitykite " [Outlook.com" el. pašto sinchronizavimo problemų sprendimas](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="53d0d-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
   
 
