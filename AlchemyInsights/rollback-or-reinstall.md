@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: a8b30eeb61b20283efbcc5968dbf36aef45f36e8
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 43c3c97d95b271c51283fcd492597de0eccd8799
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969628"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727719"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Iš naujo įdiegti arba atšaukti "Office"
+# <a name="reinstall-or-roll-back-office"></a>"Office" diegimas iš naujo arba grįžimas
 
-Jei susiduriate su bendrosiomis "Excel" problemomis arba susidūrėte su konkrečia "Excel" problema po neseniai atnaujinto "Office" paketo naujinimo, problemą galite išspręsti atlikdami iš naujo įdiegti "Office" arba grįždami į ankstesnę "Office" versiją.
+Jei susidūrėte su bendromis "Excel" problemomis arba kyla konkreti "Excel" problema, kai neseniai "Office" paketo naujinimas yra, galite išspręsti problemą atlikdami iš naujo įdiegti "Office" arba grįžę į ankstesnę "Office" versiją.
 
-Norėdami atlikti iš **naujo įdiegti** Office, peržiūrėkite [atsisiųsti ir įdiegti arba iš naujo įdiegti Office 365 arba Office 2019 kompiuteryje arba "Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)".
+Norėdami atlikti "Office" **įdiegtį iš naujo** , peržiūrėkite [Atsisiųskite ir įdiekite arba iš naujo įdiekite "Office 365" arba "Office 2019" asmeniniame arba "Mac" kompiuteryje](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
 
-Norėdami atlikti **atkūrimą** "Office", peržiūrėkite, [kaip atkurti ankstesnę "Office" versiją](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). 
+Norėdami atlikti "Office" **atkūrimą** , peržiūrėkite, [kaip grįžti prie ankstesnės "Office" versijos](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). 

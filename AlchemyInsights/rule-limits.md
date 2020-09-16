@@ -1,24 +1,25 @@
 ---
-title: 924 Taisyklių apribojimai
+title: 924 taisyklės apribojimai
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681868"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727647"
 ---
-# <a name="rule-limits"></a>Taisyklių apribojimai
+# <a name="rule-limits"></a>Taisyklės apribojimai
 
-Taisyklių apribojimai gali skirtis priklausomai nuo plano parinkčių ir atskirų parinkčių. Daugiau informacijos ieškokite [Journal, Transport ir Gautieji taisyklės apribojimai](https://technet.microsoft.com/library/exchange-online-limits.aspx).
+Taisyklės ribos gali skirtis atsižvelgiant į plano parinktis ir atskiras parinktis. Daugiau informacijos ieškokite [žurnalo, transportavimo ir aplanko Gauta taisyklių limitai](https://technet.microsoft.com/library/exchange-online-limits.aspx).

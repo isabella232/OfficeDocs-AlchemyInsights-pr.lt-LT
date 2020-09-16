@@ -1,38 +1,39 @@
 ---
-title: Trikčių diagnostika – vartotojas nerastas kataloge
+title: Trikčių šalinimo problema – vartotojas kataloge nerastas
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702746"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725415"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Trikčių diagnostika – vartotojas nerastas kataloge
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Trikčių šalinimo problema – vartotojas kataloge nerastas
 
-Jei vartotojai gauna klaidos pranešimą "vartotojas negali būti rastas" kataloge, bandykite dar kartą, kai problemos tipas yra vartotojo nėra kataloge.
+Jei vartotojai gauna klaidos pranešimą "vartotojas negali būti rastas" kataloge, bandykite dar kartą, kai problemos tipas yra vartotojo kataloge nėra.
 
-Norėdami išspręsti šią problemą, galima atlikti šiuos veiksmus.
+Toliau nurodytus veiksmus galima atlikti, kad išspręstumėte problemą.
 
-- Įsitikinkite, kad paskyrą, kuri priėmė kvietimą el. paštu, yra ta pati paskyra, kuri naudojama prisijungti vėliau. Įsitikinkite, kad vartotojas naudoja tą patį abonementą, kad priimtų kvietimą ir prisijungtumėte prie svetainės. 
+- Įsitikinkite, kad abonementas, kuris priėmė kvietimą į laišką, yra ta pati paskyra, kuri yra naudojama prisijungiant. Įsitikinkite, kad vartotojas naudoja tą pačią paskyrą, kad priimtų kvietimą ir prisijungtų prie svetainės. 
 
-Daugiau informacijos rasite [Kaip tvarkyti "Microsoft" paskyros</a> pseudonimus, kad galėtumėte valdyti "Microsoft 365" prisijungimą](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Daugiau informacijos ieškokite [kaip valdyti "Microsoft" paskyros pseudonimus, </a> kad galėtumėte valdyti "microsoft" 365 prisijungimą](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Pereikite prie kiekvienos (-ių) svetainės (-ių), kurioje (-iose) vartotojas gauna klaidą. 
+- Eikite į kiekvieną svetainę (-as), kurioje vartotojas gauna klaidą. 
 
-Pridėti "/_layouts/15/people.aspx/membershipgroupid=0" (per dvigubas kabutes) svetainės URL pabaigoje. 
+Įtraukite "/_layouts/15/People.aspx/membershipgroupid = 0" (per dvigubų kabučių) į svetainės URL pabaigą. 
 
-Pavyzdys: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Pavyzdys: https://< "Contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
-- Pasirinkite vartotoją iš sąrašo.
+- Sąraše pasirinkite vartotoją.
 
-- Juostelėje spustelėkite **Šalinti vartotojo teises.** 
--  Pridėkite atgal vartotoją ir iš naujo nusiųskite kvietimą vartotojui.
+- Juostelėje spustelėkite **pašalinti vartotojų teises** . 
+-  Įtraukti vartotoją ir iš naujo persiųsti kvietimą vartotojui.
 

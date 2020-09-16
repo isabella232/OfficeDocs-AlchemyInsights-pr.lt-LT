@@ -1,26 +1,27 @@
 ---
-title: Domeno patvirtinimas naudojant "Cloudflare"
+title: Domeno tikrinimas naudojant "Cloudpaūmėjimą"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 481afa2550afd25797133ef6f3fff04111118a8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d19ca284066d34e03c0dac6305a4b227ac3dc701
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766321"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726351"
 ---
-# <a name="verify-your-domain-with-cloudflare"></a>Domeno patvirtinimas naudojant "Cloudflare"
+# <a name="verify-your-domain-with-cloudflare"></a>Domeno tikrinimas naudojant "Cloudpaūmėjimą"
 
-Norėdami patikrinti savo domeną, į domeno registratorių turėsite įtraukti TXT įrašą, kad patvirtintumėte, jog domenas priklauso jums. 
+Norėdami patikrinti, ar domenas priklauso jums, turite įtraukti TXT įrašą į domeno registratorių ir patvirtinti, kad domenas priklauso jums. 
 
-Pirmiausia vykdykite [domeno įtraukimo vedlį](https://portal.office.com/adminportal/home#/Domains) pasirinkdami **Parametrai** \> **Domenai**, tada – Įtraukti **domeną**.
+Pirmiausia vadovaukitės [domeno įtraukimo vedikliu](https://portal.office.com/adminportal/home#/Domains) , pasirinkite **parametrų** \> **domenai**, tada **įtraukite domeną**.
   
-Nuoseklių instrukcijų ieškokite ["Cloudflare for Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) DNS įrašų kūrimas naudojant nuoseklius nurodymus.
+Išsamios informacijos ieškokite " [Microsoft 365" "Cloudišlyginimu" DNS įrašus](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) .
