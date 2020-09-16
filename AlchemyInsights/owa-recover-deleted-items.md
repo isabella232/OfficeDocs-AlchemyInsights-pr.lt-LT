@@ -1,31 +1,32 @@
 ---
-title: Atkurti ištrintus el. Laiškus "Outlook" internete
+title: Panaikintų laiškų atkūrimas internetinėje "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765673"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721882"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a><span data-ttu-id="3ea7e-102">Atkurti ištrintus el. Laiškus "Outlook" internete</span><span class="sxs-lookup"><span data-stu-id="3ea7e-102">Recover deleted email in Outlook on the web</span></span>
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a><span data-ttu-id="08179-102">Panaikintų laiškų atkūrimas internetinėje "Outlook"</span><span class="sxs-lookup"><span data-stu-id="08179-102">Recover deleted email in Outlook on the web</span></span>
 
-1. <span data-ttu-id="3ea7e-103">Kairiojoje srityje pasirinkite aplanką Pašalinta arba nepageidaujamo el. pašto aplanką.</span><span class="sxs-lookup"><span data-stu-id="3ea7e-103">In the left pane, select the Deleted Items folder or the Junk Email folder.</span></span>
+1. <span data-ttu-id="08179-103">Kairiojoje srityje pasirinkite aplanką Panaikinta arba nepageidaujamas el. paštas.</span><span class="sxs-lookup"><span data-stu-id="08179-103">In the left pane, select the Deleted Items folder or the Junk Email folder.</span></span>
 
-2. <span data-ttu-id="3ea7e-104">Atlikite vieną iš šių veiksmų:</span><span class="sxs-lookup"><span data-stu-id="3ea7e-104">Do one of the following:</span></span>
+2. <span data-ttu-id="08179-104">Atlikite vieną iš šių veiksmų:</span><span class="sxs-lookup"><span data-stu-id="08179-104">Do one of the following:</span></span>
 
-    - <span data-ttu-id="3ea7e-105">Aplankas "Ištrinti elementai": pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **Atkurti**.</span><span class="sxs-lookup"><span data-stu-id="3ea7e-105">Deleted Items folder: Select the message you want to recover and select **Restore**.</span></span> <span data-ttu-id="3ea7e-106">Jei laiško nėra aplanke Panaikinti elementai, pranešimų sąrašo viršuje pasirinkite **Atkurti elementus, panaikintus iš šio aplanko,** pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **Atkurti**.</span><span class="sxs-lookup"><span data-stu-id="3ea7e-106">If the message isn't in the Deleted Items folder, select **Recover items deleted from this folder** at the top of the message list, select the message you want to recover, and select **Restore**.</span></span>
+    - <span data-ttu-id="08179-105">Panaikintų elementų aplankas: pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **atkurti**.</span><span class="sxs-lookup"><span data-stu-id="08179-105">Deleted Items folder: Select the message you want to recover and select **Restore**.</span></span> <span data-ttu-id="08179-106">Jei pranešimo nėra aplanke panaikinta, pranešimų sąrašo viršuje pasirinkite **Atkurti panaikintus iš šio aplanko elementus** , pasirinkite laišką, kurį norite atkurti, ir pasirinkite **atkurti**.</span><span class="sxs-lookup"><span data-stu-id="08179-106">If the message isn't in the Deleted Items folder, select **Recover items deleted from this folder** at the top of the message list, select the message you want to recover, and select **Restore**.</span></span>
 
-    - <span data-ttu-id="3ea7e-107">Nepageidaujamo el. pašto aplankas: pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **Ne nepageidaujamas el. paštas**.</span><span class="sxs-lookup"><span data-stu-id="3ea7e-107">Junk Email folder: Select the message you want to recover, and select **Not junk**.</span></span>
+    - <span data-ttu-id="08179-107">Nepageidaujamo pašto aplankas: pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **ne nepageidaujamas**.</span><span class="sxs-lookup"><span data-stu-id="08179-107">Junk Email folder: Select the message you want to recover, and select **Not junk**.</span></span>
 
-<span data-ttu-id="3ea7e-108">Norėdami sužinoti daugiau, žiūrėkite [Atkurti ištrintus el. laiškus programoje "Outlook" internete](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span><span class="sxs-lookup"><span data-stu-id="3ea7e-108">To learn more, see [Recover deleted email messages in Outlook on the web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span></span>
+<span data-ttu-id="08179-108">Norėdami sužinoti daugiau, peržiūrėkite [panaikintų el. laiškų atkūrimas internetinėje "Outlook"](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span><span class="sxs-lookup"><span data-stu-id="08179-108">To learn more, see [Recover deleted email messages in Outlook on the web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span></span>
