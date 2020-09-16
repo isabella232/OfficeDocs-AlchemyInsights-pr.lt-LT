@@ -1,23 +1,24 @@
 ---
-title: OSE bendrinimo klaidos "SharePoint" ir "OneDrive"
+title: "\"SharePoint\" ir \"OneDrive\" bendro naudojimo klaidos"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: ff3b802c91afd762e33c488258fe365fb8584882
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43641792"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769299"
 ---
-# <a name="ose-sharing-errors"></a>OSE bendrinimo klaidos
+# <a name="ose-sharing-errors"></a>OSE bendro naudojimo klaidos
 
-Straipsnyje aptariamos skirtingos klaidos, su kuriomis galite susidurti bendrindami failus arba aplankus iš "SharePoint Online" arba "OneDrive" verslui "Microsoft 365". Norėdami ištaisyti šias klaidas, turite būti visuotinis arba "SharePoint" administratorius organizacijoje. Jei nesate administratorius, kreipkitės į pagalbos tarnybą ir pateikite jiems klaidos kodą.
+Straipsnyje aptariamos įvairios klaidos, kurios gali kilti, kai "SharePoint Online" arba "OneDrive" verslui programoje "Microsoft 365" su failais ar aplankais. Norėdami ištaisyti šias klaidas, turite būti visuotinis arba "SharePoint" administratorius. Jei nesate administratorius, kreipkitės į pagalbos tarnybą ir suteikite jiems klaidos kodą.
 
-Daugiau informacijos apie OSE klaidų kodus ieškokite [Bendrinimo klaidos SharePoint ir OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Daugiau informacijos apie OSE klaidų kodus ieškokite " [SharePoint" ir "OneDrive" klaidų naudojimas](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

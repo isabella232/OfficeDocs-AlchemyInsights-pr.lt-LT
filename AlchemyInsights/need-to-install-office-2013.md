@@ -5,22 +5,23 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512056"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769587"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>"Office 2013" nebepalaikoma "Microsoft 365" prenumeratose
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>"Microsoft 365" prenumeratos nebepalaikoma "Office 2013"
 
-Nuo 2017 m. vasario 28 d. "Office 2013" nebepalaikoma "Microsoft 365" prenumeratose.
+"Microsoft 365" prenumeratų "Office 2013" nebepalaiko "2017".
   
-Norėdami užtikrinti "Office" paketo saugą ir gauti visas naujausias funkcijas, įdiekite naujausią "Office" versiją nemokamai kaip "Microsoft 365" prenumeratos dalį. Peržiūrėkite [Vartotojų naujinimas į naujausią "Office" klientą](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
+Norėdami užtikrinti savo "Office" programų paketo saugumą ir gauti visas naujausias funkcijas, kaip savo "Microsoft" 365 prenumeratos dalį įdiekite naujausią "Office" versiją. Peržiūrėkite [vartotojų naujinimą į naujausią "Office" klientą](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
   
