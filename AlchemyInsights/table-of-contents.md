@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769779"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758037"
 ---
 # <a name="table-of-contents"></a>Turinys
 
-Informacijos, kaip sukurti turinį programoje "Word", ieškokite kaip [Įterpti turinį](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)arba atsisiųskite mūsų [lentelę turinys pamoka](https://go.microsoft.com/fwlink/?linkid=2065106).
+Informacijos, kaip sukurti turinį programoje "Word", ieškokite [turinio įterpimas](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)arba atsisiųskite mūsų [turinio vadovėlį](https://go.microsoft.com/fwlink/?linkid=2065106).
 
-**Bendrų problemų sprendimai**
+**Dažniausiai pasitaikančių problemų sprendimai**
 
 - Turinyje nėra antraštės, kurią ką tik įtraukėte į savo dokumentą.
-  1. Pasirinkite antraštės tekstą, eikite į **namų** > **stilius**ir patvirtinkite, kad Antraštei taikomas stilius.
-  2. Eikite į **nuorodų** > **naujinimo lentelę** , kad atnaujintumėte turinį.
+  1. Pažymėkite antraštės tekstą, eikite į **Pagrindinis**  >  **stiliai**ir patikrinkite, ar Antraštei taikomas stilius.
+  2. Norėdami atnaujinti **References**turinį, eikite į  >  **lentelę** nuorodos.
 
-- Turinyje rodomas per didelis tekstas. 
-  1. Pasirinkite pastraipos tekstą, tada eikite į **namų** > **stilius**.
-  2. Pasirinkite stilių, pvz., **įprastą**, kuris neįtrauktas į turinį.
+- Turinyje rodomas per daug teksto. 
+  1. Pažymėkite pastraipos tekstą, tada eikite į **Pagrindinis**  >  **stilius**.
+  2. Pasirinkite stilių, pvz., **įprastas**, kuris neįtrauktas į turinį.
