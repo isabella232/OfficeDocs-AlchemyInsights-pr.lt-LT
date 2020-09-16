@@ -1,32 +1,33 @@
 ---
-title: Tiesioginių švietimo organizacijų antraščių valdymas
+title: Sąveikiųjų titrų valdymas švietimo organizacijoms
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
-ms.translationtype: MT
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46555646"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812771"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Tiesioginių švietimo organizacijų antraščių valdymas
+# <a name="managing-live-captions-for-education-organizations"></a>Sąveikiųjų titrų valdymas švietimo organizacijoms
 
-Mes rekomenduojame švietimo organizacijų administratoriams apsvarstyti galimybę naudoti politikos paketus studentų ir pedagogų saugos ir pedagogams. Daugiau informacijos rasite:  
+Rekomenduojame švietimo organizacijų administratoriams naudoti strategijos paketus studentams ir pedagogams. Daugiau informacijos rasite:  
 
-- [Strategijos paketus "Microsoft Teams".](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
+- [Strategijos paketai programoje "Microsoft teams"](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Politika, kuri turėtų būti priskirta studentų saugai.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [Strategijas, kurios turėtų būti priskirtos studentų saugai](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Politika, kuri turėtų būti priskirta pedagogams.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
+- [Strategijos, kurios turėtų būti priskirtos pedagogams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Jei norite valdyti tik galimybę įgalinti tiesiogines antraštes, [žr.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) Daugiau informacijos rasite [Susitikimų strategijų valdymas "Teams".](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+Jei norite valdyti tik galimybę įgalinti tiesiogines antraštes, žiūrėkite [įjungti tiesiogines antraštes](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Daugiau informacijos ieškokite [susitikimo strategijų valdymas "teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)".

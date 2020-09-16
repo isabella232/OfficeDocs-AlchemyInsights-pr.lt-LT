@@ -1,11 +1,12 @@
 ---
-title: 1800014 El. pašto nustatymas "Outlook" mobiliųjų įrenginių programėlėje
+title: "\"1800014\" pašto nustatymas \"Outlook\" mobiliųjų įrenginių programėlėje"
 ms.author: anahitab
 author: anahitab
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: get-started-article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,31 +16,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512490"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801048"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>El. pašto nustatymas "Outlook" mobiliųjų įrenginių programėlėje
 
-1. Pasirinkite **Pradėti,** jei pirmą kartą nustatote el. laiškus programoje mobiliesiems. Kitu atveju bakstelėkite **Meniu,** tada bakstelėkite **Parametrai** \> **Įtraukti paskyrą** \> **Įtraukti el. pašto abonementą**.
+1. Pasirinkite darbo **Pradžia** , jei jis pirmą kartą nustato elektroninio pašto adresą mobiliojoje programėlėje. Priešingu atveju bakstelėkite **meniu** , tada bakstelėkite **Parametrai** \> **Įtraukti paskyrą** \> **įtraukti el. pašto paskyrą**.
 
-2. Įveskite visą el. pašto adresą ir bakstelėkite **Tęsti** arba **Įtraukti paskyrą**.
+2. Įveskite savo el. pašto adresą ir bakstelėkite **tęsti** arba **Įtraukti paskyrą**.
 
-3. Įveskite el. pašto paskyros slaptažodį ir palieskite **Prisijungti** arba **Pirmyn**.
+3. Įveskitesavo pašto paskyros slaptažodį ir bakstelėkite **prisijungti** arba **Pirmyn**.
 
-4. Jei [įgalintas kelių dalių autentifikavimas,](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) patikrinkite naudodami nustatytą metodą (6 skaitmenų kodą, telefono skambutį arba "Microsoft Authenticator" programėlę).
+4. Jei įgalintas [kelių dalių autentifikavimas](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) , patikrinkite, ar naudojate nustatytą (6 skaitmenų kodą, telefono skambutį arba "Microsoft authenticator" taikomąją programą).
 
-5. Jei yra papildomų IT administravimo strategijų, palieskite **Aktyvinti,** kad jas įgalintumėte.
+5. Jei įdiegtos papildomos IT administravimo strategijos, bakstelėkite **Aktyvinti** , kad jas įgalintumėte.
 
-6. Programa Outlook gali prašyti leidimo pasiekti jūsų kalendorių, kontaktus ir kitą informaciją. Pasirinkite **Taip** arba **Leisti**.
+6. "Outlook" gali paprašyti teisės pasiekti jūsų kalendorių, kontaktus ir kitą informaciją. Pasirinkite **taip** arba **leisti**.
 
-Čia gaukite išsamias ["Outlook", skirtos "Android",](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) arba ["Outlook", skirtos "iOS",](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) nustatymo instrukcijas.
+Susipažinkite su " [Outlook",](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) skirtos "Android" arba ["iOS",](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) čia pateiktomis išsamiomis instrukcijomis.
   
  **Reikia pagalbos?**
   
-- [El. pašto sąrankos trikčių šalinimas mobiliuosiuose įrenginiuose](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [El. pašto sąrankos mobiliajame įrenginyje trikčių šalinimas](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Gaukite "Outlook", skirtos "iOS" ir "Android", programėlės žinyną](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Gaukite "Outlook", skirtos "iOS" ir "Android", taikomųjų programų žinyną](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -5,22 +5,23 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5aaca1ca3095616606da2e36c1f992af6366ac47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762469"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812735"
 ---
 # <a name="managing-yammer-users"></a>"Yammer" vartotojų valdymas
 
-1. Informacijos apie "Yammer" vartotojų valdymą iš "Microsoft 365" rasite ["Yammer" vartotojų valdymas jų gyvavimo cikle](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Tai apima informaciją apie:
+1. Informacijos, kaip valdyti "Yammer" vartotojus iš "Microsoft 365", rasite " [Yammer" vartotojų valdymas per visą jo gyvavimo ciklą](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Čia pateikiama išsami informacija apie:
 
   - Vartotojo kūrimas
 
@@ -28,12 +29,12 @@ ms.locfileid: "43762469"
 
   - "Yammer" vartotojų valdymas iš "Microsoft 365"
 
-2. Informacijos apie vartotojų valdymą iš "Yammer" administratoriaus konsolės rasite ["Yammer" vartotojų įtraukimas, blokavimas arba šalinimas.](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) Tai apima:
+2. Daugiau informacijos apie vartotojų valdymą "Yammer" administravimo konsolėje rasite ["Yammer" vartotojų įtraukimas, blokavimas arba šalinimas](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . Tai yra:
 
-  - Vartotojų kvietimas arba šalinimas
+  - Vartotojų kvietimas arba pašalinimas
 
-  - Kviesti svečius vartotojams
+  - Svečių dalyvių kvietimas
 
   - Vartotojų sąrašo eksportavimas
 
-3. Informacijos apie išorinių vartotojų įtraukimą, šalinimą ir valdymą [ieškokite Išorinių pranešimų dalyvių įtraukimas į "Yammer" tinklą](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Informacijos apie išorinių vartotojų įtraukimą, šalinimą ir valdymą rasite [išorinių pranešimų dalyvių įtraukimas į "Yammer" tinklą](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
