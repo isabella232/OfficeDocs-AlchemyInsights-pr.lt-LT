@@ -5,41 +5,42 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: 1975d3b1b5f22090c151826b5cc044f8ef3787c3
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744678"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744922"
 ---
 # <a name="fix-bluetooth-printer-connection-issues"></a>"Bluetooth" spausdintuvo ryšio problemų sprendimas
 
-Išbandykite šiuos trikčių šalinimo veiksmus, kad "Bluetooth" spausdintuvas vėl galėtų veikti:
+Išbandykite šiuos trikčių šalinimo veiksmus, kad dar kartą gautumėte "Bluetooth" spausdintuvą:
 
 
-1. Patikrinkite ir įsitikinkite, kad "Bluetooth" įjungtas:
-    1. Pasirinkite **paleisti** > **parametrus** > **** įrenginiai > **"Bluetooth" & kiti įrenginiai**.
-    2. Įjunkite **"Bluetooth" perjungiklį**.
+1. Patikrinkite, ar įjungtas "Bluetooth" ryšys:
+    1. Pasirinkite **pradėti**  >  **Parametrai**  >  **įrenginiai**  >  **"Bluetooth" & kitų įrenginių**.
+    2. Įjunkite **"Bluetooth"** jungiklį.
 2. Paleiskite "Bluetooth" trikčių diagnostikos priemonę. <br>
-    Pasirinkite **pradėti**, įveskite **trikčių šalinimo parametrai**, ir tada pasirinkite parinktį **šalinti parametrus** . Meniu pasirinkite **"Bluetooth"** ir **paleiskite trikčių diagnostikos priemonę**.
+    Pasirinkite **Pradžia**, įveskite **trikčių diagnostikos parametrai**, tada pasirinkite parinktį **trikčių diagnostikos parametrai** . Meniu pasirinkite **"Bluetooth"** ir **paleiskite trikčių diagnostikos priemonę**.
 
-Jei tai nepadeda, pabandykite pašalinti ir iš naujo įdiegti "Bluetooth" spausdintuvą:
+Jei tai nepadeda, bandykite pašalinti ir iš naujo įdiegti "Bluetooth" spausdintuvą:
 
-1. Pašalinkite spausdintuvą parametruose:
-    1. Pasirinkite **paleidimo** > **parametrų** > **** įrenginiai > **spausdintuvai & skaitytuvai**.
-    2. **Spausdintuvų & skaitytuvai**, pasirinkite spausdintuvą, kurį norite diagnozuoti. Pasirinkite **pašalinti įrenginį**. Vykdykite nurodymus, kad visiškai pašalintumėte spausdintuvą.
-2. Pašalinkite bet kokią trečiųjų šalių spausdintuvo gamintojo programinę įrangą:
-    1. Pasirinkite **pradėti** > **nustatymus** > **Apps**.
-    2. Dalyje **programėlių & funkcijos**slinkite, kad rastumėte bet kokią programinę įrangą, įdiegtą spausdintuvo gamintojo (pvz., "HP", "Canon" arba "Epson").
-3. Išjunkite ir iš naujo paleiskite spausdintuvą.
-   1. Išjunkite spausdintuvą ir atjunkite jo maitinimo laidą. Palaukite 30 sekundžių. 
+1. Pašalinkite spausdintuvą dalyje Parametrai:
+    1. Pasirinkite **pradžios**  >  **Parametrai**  >  **įrenginių**  >  **spausdintuvai & skaitytuvus**.
+    2. Dalyje **spausdintuvai & skaitytuvai**pasirinkite norimą šalinti spausdintuvą. Pasirinkite **pašalinti įrenginį**. Vykdykite instrukcijas, kad visiškai pašalintumėte spausdintuvą.
+2. Pašalinkite bet kurią trečiosios šalies spausdintuvo gamintojo programinę įrangą:
+    1. Pasirinkite **pradžios**  >  **parametrų**  >  **programėlės**.
+    2. Dalyje **taikomosios programos & funkcijos**slinkite, kad rastumėte iš spausdintuvo gamintojo įdiegtą programinę įrangą (pvz., "HP", "Canon" arba "Epson").
+3. Išjunkite ir paleiskite spausdintuvą iš naujo.
+   1. Išjunkite spausdintuvą ir atjunkite jo maitinimo kabelį. Palaukite 30 sekundžių. 
    2. Vėl prijunkite spausdintuvą ir vėl įjunkite spausdintuvą.
-4. Iš naujo įdiekite spausdintuvą parametruose:
-    1. Pasirinkite **paleidimo** > **parametrų** > **** įrenginiai > **spausdintuvai & skaitytuvai**.
-    2. Pasirinkite ekrano viršuje esančią nuorodą **Pridėti spausdintuvą arba skaitytuvą** ir vykdykite nurodymus, kad iš naujo įdiegtumėte spausdintuvą.
+4. Iš naujo įdiekite spausdintuvą dalyje Parametrai:
+    1. Pasirinkite **pradžios**  >  **Parametrai**  >  **įrenginių**  >  **spausdintuvai & skaitytuvus**.
+    2. Pasirinkite saitą **Įtraukti spausdintuvą arba skaitytuvą** ekrano viršuje ir vykdykite nurodymus, kad iš naujo įdiegtumėte spausdintuvą.

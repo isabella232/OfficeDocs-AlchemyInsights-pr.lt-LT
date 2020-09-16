@@ -1,25 +1,26 @@
 ---
-title: "\"SharePoint\" svetainės stebėjimas arba stebėjimas"
+title: "\"SharePoint\" svetainės stebėjimas"
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744437"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>"SharePoint" svetainės stebėjimas arba stebėjimas
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>"SharePoint" svetainės stebėjimas
 
-Jei vartotojams kyla problemų po arba nešiuos SharePoint išteklius, atlikite šiuos veiksmus:
+Jei vartotojai patiria problemų, susijusių su "SharePoint" ištekliais, atlikite šiuos veiksmus:
 
-* Paprašykite vartotojo atsijungti ir vėl prisijungti prie "SharePoint" ir pabandykite atlikti tuos pačius veiksmus, kad galėtumėte stebėti / nestebėti "SharePoint" išteklių.
-* Nustatykite, ar problema yra su konkrečia svetaine ar visomis svetainėmis. Jei problema kyla su konkrečiomis svetainėmis, įsitikinkite, kad svetainės funkcija "Toliau pateikiamas turinys" yra aktyvi, eikite į **svetainės parametrai > svetainės funkcijų valdymas > toliau pateikiamas turinys**. Jei funkcija nustatyta kaip Aktyvus, pabandykite išjungti ir aktyvinti funkciją dar kartą svetainėje.
-* Paprašykite vartotojo išbandyti kitą interneto naršyklę, kad sužinotumėte, ar problema būdinga vartotojo naršyklei.
-* Jei visi vartotojai ir visos svetainės susiduria su ta pačia problema, patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir sužinokite, ar jūsų organizacijai daromas poveikis.
+* Paprašykite vartotojo atsijunkite ir vėl prisijunkite prie "SharePoint" ir išbandykite tuos pačius veiksmus, kad stebite/anuliuokite "SharePoint" išteklius.
+* Nustatykite, ar problema yra konkreti svetainė ar visos svetainės. Jei problema iškyla naudojant konkrečias svetaines, įsitikinkite, kad svetainėje suaktyvinta funkcija "toliau pateiktas turinys", eikite į **Svetainės parametrai > valdyti svetainės funkcijas > toliau pateiktą turinį**. Jei funkcija nustatyta kaip aktyvi, bandykite išjungti ir aktyvinti funkciją dar kartą svetainėje.
+* Paprašykite vartotojo išbandyti kitą interneto naršyklę, kad sužinotumėte, ar problema yra būdinga vartotojo naršyklei.
+* Jei visi vartotojai ir visos svetainės susiduria su ta pačia problema, patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir Sužinokite, ar jūsų organizacija turi įtakos.

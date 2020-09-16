@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762397"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742751"
 ---
 # <a name="microsoft-365-service-health"></a>"Microsoft 365" tarnybos sveikata
 
 
-Patikrinkite bet kurios paslaugos tarnybos būklę iš [tarnybos sveikatos ataskaitų srities](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Viršutiniame dešiniajame kampe pasirinkę **Naujas administravimo centras,** matysite naujas tarnybos sveikatos parinktis.
+Tarnybos sveikatos [ataskaitų](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)srityje patikrinkite tarnybos sveikatą. Pasirinkę **naują administravimo centrą** viršutiniame dešiniajame kampe matysite naujas tarnybos sveikatos parinktis.
 
-- Pasirinkite **Nuostatos** , kad gautumėte paslaugos sveikatos **el. pašto pranešimus**.
+- Pasirinkite **nuostatos** , kad gautumėte tarnybos sveikatos **pranešimus el. paštu**.
 
-- Pasirinkite **Pranešti apie problemą,** jei kyla paslaugos problemų.
+- Pasirinkite **pranešti apie problemą** , jei susidūrėte su tarnybos problema.
 
-- Pasirinkite **Retrospektyva,** kad peržiūrėtumėte organizacijos tarnybos sveikatos retrospektyvą. 
+- Norėdami peržiūrėti organizacijos tarnybos sveikatos retrospektyvą, pasirinkite **Retrospektyva** . 
 
-Daugiau informacijos rasite [Kaip patikrinti "Microsoft 365" tarnybos sveikatą](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Daugiau informacijos rasite peržiūrėję skyrių [kaip patikrinti "Microsoft 365" tarnybos sveikatą](https://docs.microsoft.com/office365/enterprise/view-service-health). 
