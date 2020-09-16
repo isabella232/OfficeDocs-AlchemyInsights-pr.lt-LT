@@ -1,31 +1,32 @@
 ---
-title: Trikčių šalinimas Klaida 404, failas nerastas
+title: Klaidos "404" trikčių šalinimas, Failas nerastas
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: c860b9db63e8d341cbe5e6d8d1d420b4c9d01c9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505351"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750099"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Trikčių šalinimas Klaida 404, failas nerastas
+# <a name="troubleshoot-error-404-file-not-found"></a>Klaidos "404" trikčių šalinimas, Failas nerastas
 
-Klaida 404 gaunama, kai vartotojai bando pasiekti svetainę arba failą "SharePoint" arba "OneDrive". Taip dažnai nutinka dėl to, kad svetainė, failas arba grupė gauna pervardytą, perkeltų arba panaikintų. Pvz.: Vartotojai patirs 404 klaida bandant pasiekti šakninį svetainių rinkinį ir jis buvo panaikintas.
+Kai vartotojai bando pasiekti svetainę arba failą "SharePoint" arba "OneDrive", bus gauta klaida 404. Tai dažnai nutinka dėl svetainės arba failo arba grupės, kurią galima pervardyti, perkelti arba naikinti. Pavyzdžiui: vartotojai patirs "404" klaidą bandydama pasiekti šaknies svetainių rinkinį ir jis buvo ištrintas.
 
-Norėdami išspręsti pervardytos, perkeltos arba panaikintos svetainės 404 klaidą:
+Norėdami išspręsti klaidą 404, skirtą svetainei, kuri buvo pervardyta, perkelta arba panaikinta:
 
-Klasikiniame administravimo centre esančių klasikinių svetainių [ieškokite Panaikintų svetainių rinkinio atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Klasikinių svetainių, kurios yra klasikiniame administravimo centre, ieškokite [panaikinto svetainių rinkinio atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Apie šiuolaikines svetaines (ryšiai, ryšiai, ryšiai, ryšiai ar kitos svetainės), esančių naujame "SharePoint" administravimo centre, rasite [Naujo "SharePoint" administravimo centro panaikintų svetainių peržiūra ir atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Naujų "SharePoint" administravimo centre esančių modernių svetainių (ryšių, grupinių prijungtų arba kitų svetainių) ieškokite " [SharePoint" administravimo centre panaikintų svetainių peržiūra ir atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Norėdami išspręsti pervardyto, perkelto arba panaikinto failo (arba kito elemento) 404 klaidą:
+Norėdami išspręsti failo (ar kito elemento), pervardyto, perkelto arba panaikinto, klaidą 404:
 
-Eikite į "SharePoint" arba "OneDrive" svetainę ir peržiūrėkite šiukšlinę iš svetainės turinio. [Peržiūrėkite, Atkurti elementus SharePoint svetainės šiukšlinėje](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Eikite į "SharePoint" arba "OneDrive" svetainę ir peržiūrėkite šiukšlinės turinį iš svetainės turinio. Peržiūrėkite, [atkurkite elementus "SharePoint" svetainės Šiukšlinėje](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Jei vis tiek negalite rasti elemento, galite ieškoti audito žurnale, jei registravimas įgalintas pamatyti, [ieškokite audito žurnale Microsoft 365 saugos & atitikties centras](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+Jei vis dar negalite rasti elemento, galite ieškoti audito žurnale, jei registravimas įgalintas, ieškokite [audito žurnale "Microsoft 365" saugos & atitikties centre](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).

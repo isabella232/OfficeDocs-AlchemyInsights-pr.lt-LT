@@ -1,41 +1,42 @@
 ---
-title: Darbo eigos el. laiškas nesiunčiamas
+title: Neatsiųstas darbo eigos laiškas
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766141"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748997"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Darbo eigos el. laiškas nesiunčiamas SharePoint sąrašui arba bibliotekai
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>"SharePoint" sąrašui arba bibliotekai nesiunčiama darbo eigos el. paštas
 
-1. El. laiškai iš darbo eigų siunčiami ne visiems vartotojams arba tik konkretiems vartotojams arba matote **klaidą El. laiško išsiųsti negalima. Įsitikinkite, kad el. laiške yra tinkamas gavėjas**.
+1. El. laiškai iš darbo eigų nesiunčiami visiems vartotojams arba tik konkretiems vartotojams arba rodoma klaida, **kai el. laiško išsiųsti negalima. Įsitikinkite, kad el. laiškas turi galiojantį gavėją**.
 
-    Patikrinkite, ar vartotojas yra to svetainių rinkinio teisių grupėje **Visi žmonės** (vartotojo informacijos sąraše).  Tiesioginio URL<tenant>pavyzdys: https:// .sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId=0
+    Patikrinkite, ar vartotojas nėra to svetainių rinkinio grupėje **Visos žmonių** teisės (vartotojų informacijos sąrašas).  Pavyzdinis tiesioginis URL: https:// <tenant> . SharePoint.com/sites/ <sitename> /_layouts/15/People.aspx? MembershipGroupId = 0
 
     - Jei vartotojo nėra, įsitikinkite, kad vartotojas yra prisijungęs prie puslapio. 
-    - Jei jis yra išorinis vartotojas, įsitikinkite, kad jų kvietimas buvo priimtas.
-    - Jei vartotojas yra teisių grupėje, įsitikinkite, kad el. pašto adresas yra teisingas.
-    - Jei čia vartotojų el. pašto adresas nenustatytas, sukurkite to vartotojo įspėjimo pavyzdį, kuris verčia sinchronizuoti tą vartotojo abonementą iš "SharePoint" vartotojų profilių į šį svetainių rinkinį.
+    - Jei tai išorinis vartotojas, įsitikinkite, kad jų kvietimas priimtas.
+    - Jei vartotojas yra grupėje teisės, įsitikinkite, kad teisingas elektroninio pašto adresas.
+    - Jei vartotojas elektroninio pašto adresas nustatytas čia, tada sukurkite įspėjimų apie tą vartotoją, kuris verčia tos vartotojo paskyros sinchronizavimą iš "SharePoint" vartotojų profilių su šiuo svetainių rinkiniu.
  
-2. El. laiškas iš darbo eigų siunčiamas svetainių rinkinio administratoriams, bet ne kitiems vartotojams ir rodoma klaida **HTTP Draudžiama <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
+2. El. laiškai iš darbo eigų siunčiami svetainių rinkinio administratoriams, bet ne kitiems vartotojams ir matyti klaidos **http uždraustas <span>https:</span>//URL/_vti_bin/Client.xvc.sp.utilities.Utility.sendemail**.
  
 
-    Prieiga [uždrausta, kai siunčiate el. laišką SharePoint grupei](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    [Jei siunčiate laišką "SharePoint" grupei, žiūrėkite prieiga uždrausta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Be to, patikrinkite, ar **ribotos prieigos vartotojo teisių užrakinimo režimo** svetainių rinkinio funkcija nėra aktyvi.
+    Taip pat patikrinkite, ar neaktyvi " **Access" vartotojo teisių blokavimo režimo** svetainių rinkinio funkcija.
 
 
 ## <a name="related-topics"></a>Susijusios temos
