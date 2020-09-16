@@ -1,29 +1,30 @@
 ---
 title: Vykdomas tarnybos incidentas
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 5dd353c68aeda88c9adf3264eecc40f8e84a1f3f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9bd973c26d7decb40a97884ab241bbde7165f31a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681796"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767873"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="985f8-102">Vykdomas tarnybos incidentas</span><span class="sxs-lookup"><span data-stu-id="985f8-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="1e45a-102">Vykdomas tarnybos incidentas</span><span class="sxs-lookup"><span data-stu-id="1e45a-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="985f8-103">Jums gali turėti įtakos tarnybos incidentas arba patariamasis, kuris šiuo metu tiriamas.</span><span class="sxs-lookup"><span data-stu-id="985f8-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="985f8-104">Naujausią būseną galite patikrinti apsilankę puslapyje [Tarnybos sveikata.](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="985f8-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="1e45a-103">Jums gali pakenkti šiuo metu tiriama tarnybos incidentas arba patariamoji.</span><span class="sxs-lookup"><span data-stu-id="1e45a-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="1e45a-104">Galite patikrinti naujausią būseną nuėję į [tarnybos sveikatos](https://admin.microsoft.com/adminportal/home#/servicehealth) puslapį.</span><span class="sxs-lookup"><span data-stu-id="1e45a-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="985f8-105">Jūsų patogumui, jūs galite rasti šio incidento santrauką žemiau:</span><span class="sxs-lookup"><span data-stu-id="985f8-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="1e45a-105">Jūsų patogumui galite gauti šio incidento suvestinę:</span><span class="sxs-lookup"><span data-stu-id="1e45a-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="985f8-106">**Įvykio numeris:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="985f8-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="1e45a-106">**Incidento numeris:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="1e45a-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="985f8-107">Poveikio aprašas: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="985f8-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="1e45a-107">Poveikio aprašas: {Impactidescription}</span><span class="sxs-lookup"><span data-stu-id="1e45a-107">Impact description: {ImpactDescription}</span></span>
