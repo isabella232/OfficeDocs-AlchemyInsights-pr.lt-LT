@@ -1,23 +1,24 @@
 ---
-title: "\"Outlook Mobile\" aplankai nauja tvarka"
+title: "\"Outlook\" mobiliųjų įrenginių aplankai naujoje tvarkoje"
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: de48e5d22eb9ea8a43250d8a497c34ab242a29e3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764844"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772234"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>Mano aplankai yra naujos eilės tvarka
+# <a name="my-folders-are-in-a-new-order"></a>Mano aplankai yra naujoje tvarkoje
 
-Su mėgstamų aplankų ir grupių įtraukimas į "Outlook", skirtą "iOS" ir "Android", galite pastebėti, kad jūsų aplankai yra nauja tvarka. Jei turite parankinių, šoninės juostos viršuje matysite parankinių skiltį. Parankinius galite pridėti naudodami pieštuko piktogramą, esančią šoninės juostos viršuje. Tai išlaikys visus svarbiausius aplankus ir grupes viršuje, kur galite lengvai juos pasiekti.
+Naudodami parankinius aplankus ir grupes į "Outlook", skirtą "iOS" ir "Android", galite pastebėti, kad jūsų aplankai yra naujoje tvarkoje. Jei turite parankinių, šoninės juostos viršuje matysite sekciją Parankiniai. Galite įtraukti parankinius naudodami pieštuko piktogramą šalia šoninės juostos viršaus. Bus išsaugoti visi svarbiausi aplankai ir grupės viršuje, kur galite lengvai juos pasiekti.
