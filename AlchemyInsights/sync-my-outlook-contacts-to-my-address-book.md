@@ -1,39 +1,40 @@
 ---
-title: "\"Outlook\" kontaktų sinchronizavimas su mano adresų knyga"
+title: Mano "Outlook" kontaktų sinchronizavimas su mano adresų knygele
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737385"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>"Outlook" kontaktų sinchronizavimas su mano adresų knyga
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Mano "Outlook" kontaktų sinchronizavimas su mano adresų knygele
 
-"Outlook" leidžia eksportuoti kontaktus į numatytąją "Android" kontaktų programą. Tai leidžia matyti kontakto vardą, kai gaunate skambutį arba teksto pranešimą, ir peržiūrėti visą jo kontaktinę informaciją tiesiogiai numatytoje kontaktų programėlėje.
+"Outlook" leidžia eksportuoti kontaktus į numatytąją kontaktų programą "Android". Tai leidžia matyti kontakto vardą gavus skambutį ar tekstinį pranešimą ir peržiūrėti visą kontaktinę informaciją tiesiogiai numatytojoje kontaktų programoje.
  
-**Norėdami įjungti šią funkciją:**
+**Norėdami įgalinti šią funkciją**:
  
 1. Įrenginyje eikite į **Parametrai**.
 
-2. Dalyje **Abonementai**bakstelėkite paskyrą, su kuria norite sinchronizuoti kontaktus.
+2. Dalyje **paskyros**bakstelėkite paskyrą, su kuria norėtumėte sinchronizuoti kontaktus.
 
-3. Įjunkite slankiklį **Sinchronizuoti kontaktus.**
+3. Perjunkite slankiklį **sinchronizuoti kontaktus** .
  
-Dvipusis kontaktų eksportavimas palaikomas "Microsoft 365", Outlook.com ir hibridiniame moderniame autentifikavime vietinėms pašto dėžutėms. Dvipusis palaikymas užtikrina, kad visi nauji įtraukti kontaktai arba esami jūsų redaguojami kontaktai bus sinchronizuojami tarp įrenginio ir "Outlook" abonementų.
+Dvipusio kontakto eksportavimas palaikomas "Microsoft 365", "Outlook.com" ir hibridinio modernaus autentifikavimo vietinėms pašto dėžutėms. Dvipusis palaikymas užtikrina, kad jūsų įtraukti nauji kontaktai arba esami Kontaktai bus sinchronizuojami su jūsų įrenginiu ir jūsų "Outlook" paskyromis.
  
-Senstelėjusios įrangos "Exchange" abonementų, galite eksportuoti savo kontaktus, kuriuos norite įrašyti į įrenginį. Įgalinus **sinchronizavimo kontaktus,** naujai pridėti kontaktai ir pakeitimai, atlikti jūsų kontaktams programoje "Outlook", bus įrašyti į jūsų įrenginio kontaktų programėlę. Tačiau pakeitimai, atlikti tiesiogiai įrenginio programėlėje Kontaktai, nebus įrašyti į "Outlook". Atkreipkite dėmesį, kad mes nepalaikome kontaktų iš "Outlook", skirto "Android", pridėjimo / redagavimo vietinėms mainų paskyroms, todėl turėsite tvarkyti kontaktus iš kito "Outlook" kliento.
+Norėdami naudoti senstelėjusias "Exchange" paskyras, galite eksportuoti savo kontaktus, kad jie būtų įrašyti į įrenginį. Įgalinus **sinchronizavimo kontaktus** , naujai įtraukti Kontaktai ir redagavimai programoje "Outlook" bus įrašyti kontaktų taikomojoje programoje jūsų įrenginyje. Tačiau pakeitimai, atlikti tiesiogiai įrenginio kontaktų taikomojoje programoje, nebus įrašyti į "Outlook". Žinokite, kad nepalaikome kontaktų įtraukimo/redagavimo iš "Outlook for Android", skirtos vietinėms "Exchange" paskyroms, todėl turėsite tvarkyti kontaktus iš kito "Outlook" kliento.
  
-Šiuo metu "GMAIL" ir "iCloud" kontaktų sinchronizavimas nepalaikomas.
+Šiuo metu "GMAIL" ir "iCloud" yra nepalaikomas kontakto sinchronizavimas.
  
-Jei norite pašalinti šiuos sinchronizuotus kontaktus, galite bet kada perjungti **sinchronizuoti kontaktus** ir jie bus pašalinti iš adresų knygos.
+Jei norite pašalinti šiuos sinchronizuotus kontaktus, galite bet kada perjungti **sinchronizavimo kontaktus** ir jie bus pašalinti iš jūsų adresų knygelės.

@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734314"
 ---
 # <a name="verify-your-domain"></a>Domeno tikrinimas
 
- **Įrašas tikriausiai nebuvo atnaujintas visame internete.**
+ **Įrašas tikriausiai neatnaujintas internete.**
   
-Paprastai mums reikia tik kelių minučių, kad galėtume pamatyti naują įrašą, tačiau kartais tai gali užtrukti tiek laiko, kiek kelias valandas. 
+Paprastai, kad galėtume matyti naują įrašą, tačiau kartais gali užtrukti kelias valandas, nes tai gali užtrukti keletą minučių. 
   
-- Jei jau ilgai laukėte, dar kartą patikrinkite, ar nukopijavote ir įklijavote tikslią reikšmę į TXT patvirtinimo įrašą DNS išteklių nuomos teikėjo svetainėje. Viena dažniausia problema nėra įrašo dalis "MS=". Mums to reikia!
+- Jei dar ilgai laukėte, dar kartą patikrinkite, ar nukopijavote ir įklijavote tikslią reikšmę į TXT patvirtinimo įrašą savo DNS išteklių nuomos teikėjo svetainėje. Viena dažniausių problemų nėra įtraukiant "MS =" įrašo dalį. Turime taip pat!
 
-- Kai kuriuose DNS pagrindiniuose kompiuteriuose turite atlikti papildomą veiksmą, kad įrašytumėte zonos failą (kuriame saugomas DNS įrašas), kad jis būtų atnaujintas internete. Įsitikinkite, kad įrašėte pakeitimus, kad "Microsoft" galėtų matyti ir patvirtinti įrašą.
+- Kai kuriuose DNS pagrindiniuose kompiuteriuose turite atlikti papildomą veiksmą, kad įrašytumėte zonos failą (kur saugomas DNS įrašas), kad jis būtų atnaujintas internete. Įsitikinkite, kad įrašėte savo atliktus įrašus, kad "Microsoft" galėtų matyti ir patvirtinti įrašą.
