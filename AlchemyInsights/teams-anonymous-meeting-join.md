@@ -1,27 +1,30 @@
 ---
-title: Neleisti anoniminiams vartotojams prisijungti prie "Teams" susitikimų arba neleisti jam prisijungti
+title: Anoniminių vartotojų įgalinimas arba neleidimas prisijungti prie komandos susitikimų
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: HT
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493330"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669904"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="3f067-102">Neleisti anoniminiams vartotojams prisijungti prie "Teams" susitikimų arba neleisti jam prisijungti</span><span class="sxs-lookup"><span data-stu-id="3f067-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="409e1-102">Anoniminių vartotojų įgalinimas arba neleidimas prisijungti prie komandos susitikimų</span><span class="sxs-lookup"><span data-stu-id="409e1-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
 
-<span data-ttu-id="3f067-103">Anoniminius susitikimo prisijungimo parametrus galite valdyti "Teams" administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="3f067-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
+<span data-ttu-id="409e1-103">Galite valdyti anoniminius susitikimo sujungimo parametrus komandų administravimo centre.</span><span class="sxs-lookup"><span data-stu-id="409e1-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
 
-1.  <span data-ttu-id="3f067-104">Eikite į administravimo centrą [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) .</span><span class="sxs-lookup"><span data-stu-id="3f067-104">Go to the admin center at  [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).</span></span>
-2.  <span data-ttu-id="3f067-105">Kairiojoje naršymo srityje **Meetings**eikite į   >   **Susitikimų susitikimo parametrai**.</span><span class="sxs-lookup"><span data-stu-id="3f067-105">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
-3.  <span data-ttu-id="3f067-106">Dalyje **Dalyviai**įjunkite **Anoniminiai vartotojai gali prisijungti prie susitikimo**.</span><span class="sxs-lookup"><span data-stu-id="3f067-106">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
+<span data-ttu-id="409e1-104">**Šis pakeitimas gali užtrukti iki 24 valandų, kad įsigaliotų.**</span><span class="sxs-lookup"><span data-stu-id="409e1-104">**It may take up to 24 hours for this change to take effect.**</span></span>
+
+1.  <span data-ttu-id="409e1-105">Eiti į [komandų administravimo centrą](https://admin.teams.microsoft.com)</span><span class="sxs-lookup"><span data-stu-id="409e1-105">Go to the [Teams admin center](https://admin.teams.microsoft.com)</span></span>
+2.  <span data-ttu-id="409e1-106">Kairiojoje naršymo srityje eikite į susitikimų susitikimų **Meetings**   >   **Parametrai**.</span><span class="sxs-lookup"><span data-stu-id="409e1-106">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
+3.  <span data-ttu-id="409e1-107">Dalyje  **dalyviai**įjunkite  **anoniminius vartotojus, kurie gali prisijungti prie susitikimo**.</span><span class="sxs-lookup"><span data-stu-id="409e1-107">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
