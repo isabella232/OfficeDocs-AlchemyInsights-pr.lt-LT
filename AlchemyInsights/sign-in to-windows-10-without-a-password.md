@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588288"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719961"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Prisijungimas prie "Windows 10" nenaudojant slaptažodžio
 
-Kad nereikėtų įvesti slaptažodžio "Windows" paleisties metu, rekomenduojame naudoti vieną iš "Windows Hello" saugaus prisijungimo parinkčių, pvz., PIN kodą, veido atpažinimą arba piršto atspaudą, jei toks yra. Jei tikrai norite išjungti saugų prisijungimą, žiūrėkite toliau pateiktas instrukcijas "Automatiškai prisijungti prie "Windows 10".
+Kad nereikėtų įvesti slaptažodžio "Windows" paleisties metu, rekomenduojame naudoti vieną iš "Windows Hello" saugaus prisijungimo parinkčių, pvz., PIN, veido atpažinimo arba pirštų atspaudų, jei yra. Jei tikrai norite išjungti saugią prisijungimo funkciją, peržiūrėkite toliau pateiktas instrukcijas "automatiškai prisijungti prie" Windows 10 ".
 
-**Apsaugokite "Windows Hello" alternatyvas abonemento slaptažodžiui**
+**Apsaugokite "Windows Hello" į paskyros slaptažodį**
 
-Eikite į **Parametrai > Paskyros > prisijungimo parinktys** (arba spustelėkite [čia](ms-settings:signinoptions?activationSource=GetHelp)). Bus išvardytos galimos prisijungimo parinktys. Pavyzdžiui:
+Eikite į **parametrai > paskyros > prisijungimo parinktys** (arba spustelėkite [čia](ms-settings:signinoptions?activationSource=GetHelp)). Bus įtrauktos galimos prisijungimo parinktys. Pavyzdžiui:
 
 ![Prisijungimo parinktys.](media/sign-in-options.png)
 
-Spustelėkite arba bakstelėkite vieną iš parinkčių, kad ją sukonfigūruotumėte. Kitą kartą paleidę arba atrakindami "Windows", galėsite naudoti naują parinktį, o ne slaptažodį. 
+Spustelėkite arba bakstelėkite vieną iš parinkčių, kad ją sukonfigūruotumėte. Kai tik pradėsite arba atrakinsite "Windows", galėsite naudoti naują parinktį vietoj slaptažodžio. 
 
 **Automatinis prisijungimas prie "Windows 10"**
 
-**Pastaba:** automatinis prisijungimas yra patogus, tačiau kelia saugos pavojų, ypač jei kompiuterį pasiekia keli žmonės. 
+**Pastaba**: Automatinis prisijungimas yra patogus, tačiau įveda saugos pavojų, ypač, jei jūsų kompiuterį gali naudoti keli žmonės. 
 
-1. Užduočių juostoje spustelėkite arba bakstelėkite mygtuką **Pradėti.**
+1. Spustelėkite arba bakstelėkite mygtuką **pradėti** užduočių juostoje.
 
-2. Įveskite **netplwiz** ir paspauskite klavišą Enter, kad atidarytumėte langą Vartotojų abonementai.
+2. Įveskite **netplwiz** ir paspauskite klavišą "įvesti", kad atidarytumėte langą vartotojų abonementai.
 
-3. Dalyje **Vartotojų abonementai**spustelėkite abonementą, prie kurio norite automatiškai prisijungti, kai paleidžiama sistema Windows.
+3. **Vartotojų abonementuose**spustelėkite abonementą, kurį norite automatiškai prisijungti, kai "Windows" pradės.
 
-4. Atžymėkite žymės langelį "Vartotojai turi įvesti vartotojo vardą ir slaptažodį, kad galėtų naudoti šį kompiuterį".
+4. Atžymėkite žymimąjį langelį "vartotojai turi įvesti vartotojo vardą ir slaptažodį, kad galėtų naudoti šį kompiuterį".
 
-    ![Vartotojai turi įvesti vartotojo vardo ir slaptažodžio parinktį.](media/users-must-enter-username.png)
+    ![Vartotojai turi įvesti vartotojo vardą ir slaptažodį.](media/users-must-enter-username.png)
 
-5. Spustelėkite **Gerai**. Jūsų bus paprašyta įvesti ir patvirtinti pasirinktos paskyros slaptažodį. Spustelėkite **Gerai,** kad baigtumėte. Kai kitą kartą paleidžiama "Windows 10", ji automatiškai prisijungs prie pasirinkto abonemento.
+5. Spustelėkite **Gerai**. Jūsų bus paprašyta įvesti ir patvirtinti pasirinkto abonemento slaptažodį. Spustelėkite **gerai** , kad pabaigtumėte. Paleidus "Windows 10", jis automatiškai prisijungs prie pasirinktos paskyros.

@@ -5,18 +5,19 @@ author: daeite
 manager: joallard
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768553"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721923"
 ---
-# <a name="issues-with-email-delivery"></a>El. pašto pristatymo problemos
+# <a name="issues-with-email-delivery"></a>Su pašto pristatymu susijusios problemos
 
-Kai kyla problemų pateikiant išsiųstą el. laišką, "Microsoft 365" siunčia el. laišką, kad praneštų. Gautas el. laiškas yra pristatymo būsenos pranešimas, dar vadinamas DSN arba atmetimo pranešimu. Dažniausiai pasitaiko tipas vadinamas nepristatymo pažyma (NDR), kuri nurodo, kad pranešimas nebuvo pristatytas. Nepristatymą gali sukelti kažkas taip paprasta, kaip el. pašto adreso rašybos klaidos. NDR yra klaidos kodas, nurodantis, kodėl jūsų el. paštas nebuvo pristatytas, sprendimai, padėsiantys pristatyti el. laišką, nuoroda į daugiau pagalbos žiniatinklyje ir administratoriams skirta techninė informacija.
+Kai kyla problemų pristatant atsiųstą el. laišką, "Microsoft" 365 siunčia laišką, kuris jums praneš. Jūsų gaunamas laiškas yra pristatymo būsenos pranešimas, taip pat žinomas kaip DSN arba peradresavimo pranešimas. Dažniausias tipas vadinamas Nepristatymo pažyma (NDR), kuri nurodo, kad pranešimas nebuvo pristatytas. Non-Delivery gali sukelti kažką taip paprasta, kaip rašybos klaidos elektroninio pašto adresą. NDR apima klaidos kodą, kuris nurodo, kodėl jūsų laiškas nebuvo pristatytas, sprendimus, padėsiančius gauti jūsų elektroninį paštą, saitą į daugiau pagalbos žiniatinklyje ir technines informacijos administratoriams.
 
-Norėdami peržiūrėti NDR sąrašą ir sužinoti, kodėl jūsų pranešimas nebuvo pristatytas, [žr.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
+Norėdami peržiūrėti NDR sąrašą ir sužinoti, kodėl jūsų laiškas nebuvo pristatytas, peržiūrėkite el. [pašto nepristatymo ataskaitas "Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)".
