@@ -1,27 +1,28 @@
 ---
-title: "\"Microsoft Teams\" teisės"
+title: "\"Microsoft teams\" teisės"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911946"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777720"
 ---
-# <a name="microsoft-teams-permissions"></a><span data-ttu-id="67b85-102">"Microsoft Teams" teisės</span><span class="sxs-lookup"><span data-stu-id="67b85-102">Microsoft Teams permissions</span></span>
+# <a name="microsoft-teams-permissions"></a><span data-ttu-id="f3245-102">"Microsoft teams" teisės</span><span class="sxs-lookup"><span data-stu-id="f3245-102">Microsoft Teams permissions</span></span>
 
-<span data-ttu-id="67b85-103">"Microsoft Teams" yra du vartotojo vaidmenys: savininkas ir narys.</span><span class="sxs-lookup"><span data-stu-id="67b85-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="67b85-104">Pagal numatytuosius parametrus vartotojui, sukūrusiam naują komandą, suteikiamas savininko statusas.</span><span class="sxs-lookup"><span data-stu-id="67b85-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="67b85-105">Be to, savininkai ir nariai gali turėti kanalo moderatoriaus galimybes (jei nustatytas nuosaikumas).</span><span class="sxs-lookup"><span data-stu-id="67b85-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="67b85-106">Jei komanda sukuriama iš esamos "Microsoft 365" grupės, teisės paveldimos.</span><span class="sxs-lookup"><span data-stu-id="67b85-106">If a team is created from an existing Microsoft 365 Group, permissions are inherited.</span></span> <span data-ttu-id="67b85-107">Daugiau informacijos rasite:</span><span class="sxs-lookup"><span data-stu-id="67b85-107">For more information, see:</span></span>
+<span data-ttu-id="f3245-103">"Microsoft teams" yra du vartotojų vaidmenys: savininkas ir narys.</span><span class="sxs-lookup"><span data-stu-id="f3245-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="f3245-104">Pagal numatytuosius parametrus vartotojui, sukūrusiam naują komandą, suteikiamas savininko statusas.</span><span class="sxs-lookup"><span data-stu-id="f3245-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="f3245-105">Be to, savininkai ir nariai gali turėti kanalo Moderatoriaus galimybes (jei yra nustatytas nuosaikiai).</span><span class="sxs-lookup"><span data-stu-id="f3245-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="f3245-106">Jei komanda sukurta iš esamos "Microsoft" 365 grupės, teisės yra paveldėtos.</span><span class="sxs-lookup"><span data-stu-id="f3245-106">If a team is created from an existing Microsoft 365 Group, permissions are inherited.</span></span> <span data-ttu-id="f3245-107">Daugiau informacijos rasite:</span><span class="sxs-lookup"><span data-stu-id="f3245-107">For more information, see:</span></span>
 
-- [<span data-ttu-id="67b85-108">Komandų savininkų ir narių priskyrimas programoje "Microsoft Teams"</span><span class="sxs-lookup"><span data-stu-id="67b85-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [<span data-ttu-id="67b85-109">"Microsoft Teams" programėlių teisės ir svarstymai</span><span class="sxs-lookup"><span data-stu-id="67b85-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [<span data-ttu-id="67b85-110">Nustatyti svečio teises į "Teams" kanalus</span><span class="sxs-lookup"><span data-stu-id="67b85-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [<span data-ttu-id="f3245-108">Komandos savininkų ir narių priskyrimas "Microsoft teams"</span><span class="sxs-lookup"><span data-stu-id="f3245-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [<span data-ttu-id="f3245-109">"Microsoft teams" taikomųjų programų teisės ir svarstymai</span><span class="sxs-lookup"><span data-stu-id="f3245-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [<span data-ttu-id="f3245-110">"Teams" kanalų teisių nustatymas</span><span class="sxs-lookup"><span data-stu-id="f3245-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

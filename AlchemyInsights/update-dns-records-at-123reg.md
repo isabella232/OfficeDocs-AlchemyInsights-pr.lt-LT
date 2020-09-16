@@ -1,26 +1,27 @@
 ---
-title: Dns įrašų naujinimas 123-reg
+title: Atnaujinti DNS įrašus "123-reg"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5812"
-ms.openlocfilehash: bc62bdbe83844fca700a5e7b20a2367cb244e45e
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 4afb11bb77436c1a3e39972b63573995f3d88e01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650475"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657797"
 ---
-# <a name="update-dns-records-at-123-reg"></a><span data-ttu-id="2e768-102">Dns įrašų naujinimas 123-reg</span><span class="sxs-lookup"><span data-stu-id="2e768-102">Update DNS records at 123-reg</span></span>
+# <a name="update-dns-records-at-123-reg"></a><span data-ttu-id="c4c84-102">Atnaujinti DNS įrašus "123-reg"</span><span class="sxs-lookup"><span data-stu-id="c4c84-102">Update DNS records at 123-reg</span></span>
 
-<span data-ttu-id="2e768-103">Naudokite toliau pateiktus saitus, kad atnaujintumėte DNS įrašus</span><span class="sxs-lookup"><span data-stu-id="2e768-103">Use the links below to help update your DNS records</span></span>
+<span data-ttu-id="c4c84-103">Naudokite toliau pateiktus saitus, kad galėtumėte atnaujinti DNS įrašus</span><span class="sxs-lookup"><span data-stu-id="c4c84-103">Use the links below to help update your DNS records</span></span>
 
-- [<span data-ttu-id="2e768-104">DNS įrašų kūrimas 123-reg.co.uk</span><span class="sxs-lookup"><span data-stu-id="2e768-104">Create DNS records at 123-reg.co.uk</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk?view=o365-worldwide)
-- [<span data-ttu-id="2e768-105">Pasirinktinių DNS įrašų įtraukimas arba redagavimas "Office 365"</span><span class="sxs-lookup"><span data-stu-id="2e768-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="c4c84-104">DNS įra ų kūrimas "123-reg.co.uk"</span><span class="sxs-lookup"><span data-stu-id="c4c84-104">Create DNS records at 123-reg.co.uk</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk?view=o365-worldwide)
+- [<span data-ttu-id="c4c84-105">Pasirinktinių DNS įra ų pridėjimas arba redagavimas "Office 365"</span><span class="sxs-lookup"><span data-stu-id="c4c84-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

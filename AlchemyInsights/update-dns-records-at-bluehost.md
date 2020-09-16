@@ -1,26 +1,27 @@
 ---
-title: DNS įrašų naujinimas "Bluehost"
+title: DNS įrašo naujinimas Bluehost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: ceaa1901b2ab3cabd3df055815270d1c1471542f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707860"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657725"
 ---
-# <a name="update-dns-records-at-bluehost"></a><span data-ttu-id="8c116-102">DNS įrašų naujinimas "Bluehost"</span><span class="sxs-lookup"><span data-stu-id="8c116-102">Update DNS records at Bluehost</span></span>
+# <a name="update-dns-records-at-bluehost"></a><span data-ttu-id="72080-102">DNS įrašo naujinimas Bluehost</span><span class="sxs-lookup"><span data-stu-id="72080-102">Update DNS records at Bluehost</span></span>
 
-<span data-ttu-id="8c116-103">Naudokite toliau pateiktus saitus, kad padėtumėte atnaujinti DNS įrašus.</span><span class="sxs-lookup"><span data-stu-id="8c116-103">Use the links below to help update your DNS records.</span></span>
+<span data-ttu-id="72080-103">Naudokite toliau pateiktus saitus, kad galėtumėte atnaujinti DNS įrašus.</span><span class="sxs-lookup"><span data-stu-id="72080-103">Use the links below to help update your DNS records.</span></span>
 
-- [<span data-ttu-id="8c116-104">DNS įrašų kūrimas "Bluehost"</span><span class="sxs-lookup"><span data-stu-id="8c116-104">Create DNS records at Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
-- [<span data-ttu-id="8c116-105">Pasirinktinių DNS įrašų įtraukimas arba redagavimas "Office 365"</span><span class="sxs-lookup"><span data-stu-id="8c116-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="72080-104">DNS įra ų kūrimas "Bluehost"</span><span class="sxs-lookup"><span data-stu-id="72080-104">Create DNS records at Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [<span data-ttu-id="72080-105">Pasirinktinių DNS įra ų pridėjimas arba redagavimas "Office 365"</span><span class="sxs-lookup"><span data-stu-id="72080-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

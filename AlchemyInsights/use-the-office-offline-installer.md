@@ -1,27 +1,27 @@
 ---
-title: "\"Office\" diegimo neprisijungus diegimo programos naudojimas"
+title: Naudokite "Office" diegimo neprisijungus programą
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726328"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770199"
 ---
-# <a name="use-the-office-offline-installer"></a><span data-ttu-id="beb8d-102">"Office" diegimo neprisijungus diegimo programos naudojimas</span><span class="sxs-lookup"><span data-stu-id="beb8d-102">Use the Office offline installer</span></span>
+# <a name="use-the-office-offline-installer"></a><span data-ttu-id="aa993-102">Naudokite "Office" diegimo neprisijungus programą</span><span class="sxs-lookup"><span data-stu-id="aa993-102">Use the Office offline installer</span></span>
 
-<span data-ttu-id="beb8d-103">Norėdami atsisiųsti diegimo programos failus, turite būti prisijungę prie interneto, bet kai tai bus padaryta, galite įdiegti "Office" neprisijungę prie kompiuterio savo patogumui naudodami "Office" diegimo įrankį (ODT)</span><span class="sxs-lookup"><span data-stu-id="beb8d-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
+<span data-ttu-id="aa993-103">Turite būti prisijungę prie interneto, kad atsisiųstumėte diegimo failus, bet tai atlikę, galite įdiegti "Office" neprisijungę asmeniniame kompiuteryje naudodami "Office" diegimo įrankį (ODT)</span><span class="sxs-lookup"><span data-stu-id="aa993-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="beb8d-104">ODT yra skirtas įmonės aplinkoje ir veikia iš komandinės eilutės, todėl veiksmai yra sudėtingesni, bet jie vis tiek dirbs diegti viename įrenginyje.</span><span class="sxs-lookup"><span data-stu-id="beb8d-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="beb8d-105">Žiūrėkite ["Office" diegimo neprisijungus naudojimas](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="beb8d-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="aa993-104">ODT skirtas "Enterprise" aplinkoms ir veikia komandų eilutėje, todėl veiksmai yra sudėtingesni – tačiau jie vis tiek veiks diegiant viename įrenginyje.</span><span class="sxs-lookup"><span data-stu-id="aa993-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="aa993-105">Žiūrėkite [naudoti "Office" diegimo neprisijungus programą](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="aa993-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
