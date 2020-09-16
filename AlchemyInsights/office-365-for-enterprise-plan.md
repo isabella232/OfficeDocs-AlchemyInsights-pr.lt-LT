@@ -1,10 +1,11 @@
 ---
-title: "\"Office 365 for Enterprise\" planas"
+title: "\"Office 365\", skirtas \"Enterprise\" planams"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,13 +13,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 25e349bd3353340b91b9d4401ad3e61f456b6263
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 37fee31a4c2fa0dcf9661376533dfbf7b1035971
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768772"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729447"
 ---
-# <a name="office-365-for-enterprise-plan"></a>"Office 365 for Enterprise" planas
+# <a name="office-365-for-enterprise-plan"></a>"Office 365", skirtas "Enterprise" planams
 
-"Office 365 for Enterprise" galima naudoti kelis skirtingus planus. [Palyginkite "Office 365" su "Enterprise" planais ir kainodara](https://products.office.com/business/compare-more-office-365-for-business-plans).  
+Yra keli skirtingi planai, kuriuos galima naudoti su "Office 365" verslui. " [Office 365" palyginimas su įmonės planais ir kainodara](https://products.office.com/business/compare-more-office-365-for-business-plans).  
