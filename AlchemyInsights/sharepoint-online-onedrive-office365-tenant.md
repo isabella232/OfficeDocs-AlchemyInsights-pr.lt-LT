@@ -4,23 +4,24 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787378"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771000"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>"SharePoint Online" arba "OneDrive" "Nustatymas"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>"SharePoint Online" arba "OneDrive" nustatymas
 
-Kai vartotojas įtraukiamas į esamą nuomotoją, jis gali matyti "SharePoint Online" arba "OneDrive" verslui piktogramas, nurodytas kaip "Nustatymas" arba "Mes vis dar dirbame gauti failų sąranką", kol parengimo procesas bus baigtas. Jei reikia pagalbos, vadovaukitės šiuo [trikčių šalinimo vadovu.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
+Kai vartotojas įtraukiamas į esamą nuomotoją, jie gali matyti "SharePoint Online" arba "OneDrive" verslui piktogramas, išvardytas kaip "nustatymas" arba "mes vis dar stengiamės gauti failų sąranką", kol bus užbaigtas parengimo procesas. Vadovaukitės šiuo [trikčių diagnostikos vadovu](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
 
-Jei praėjo daugiau nei 24 valandos nuo to laiko, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo atvejo.
+Jei praėjo daugiau nei 24 valandos po to, kai pirmą kartą matėte šią problemą, užregistruokite palaikymo atvejį.
 
-Mes suprantame, kad 24 valandos gali atrodyti kaip ilgas laikas. Daugeliu atvejų jau dirbame su sprendimu. Prašome duoti mums ne mažiau kaip 24 valandas užbaigti sprendimą.
+Suprantame, kad per 24 valandas gali atrodyti ilgas laikas. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtumėte sprendimą.

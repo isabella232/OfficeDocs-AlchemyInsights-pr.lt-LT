@@ -1,36 +1,37 @@
 ---
-title: Ieškos schemos valdymas "SharePoint Online"
+title: Ieškos schemos tvarkymas "SharePoint Online"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042971"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770559"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Ieškos schemos valdymas "SharePoint Online"
+# <a name="manage-search-schema-in-sharepoint-online"></a>Ieškos schemos tvarkymas "SharePoint Online"
 
-Ieškos schema kontroliuoja, ko vartotojai gali ieškoti, kaip vartotojai gali jį ieškoti ir kaip galite pateikti rezultatus savo paieškos svetainėse. 
+Ieškos schema kontroliuoja, ką vartotojai gali ieškoti, kaip vartotojai gali jį rasti ir kaip galite pateikti rezultatus savo ieškos svetainėse. 
 
-Žiūrėkite [valdyti ieškos schemą "SharePoint Online"](https://docs.microsoft.com/sharepoint/manage-search-schema) ir Sužinokite, kaip: 
+Peržiūrėkite " [SharePoint Online" ieškos schemos valdymą](https://docs.microsoft.com/sharepoint/manage-search-schema) , kad sužinotumėte, kaip: 
 - Pakeiskite ieškos schemą.
 - Kurti valdomas ypatybes.
-- Žemėlapis aptiktos žemėlapio aptiktos ypatybės valdomos ypatybės.
+- Žemėlapio aptikto žemėlapio aptiktos ypatybės valdomos ypatybės.
 
-Atkreipkite dėmesį į šiuos veiksmus, susijusius su jūsų paieškos schemos valdymu:
+Pastaba: jei norite tvarkyti ieškos schemą, atlikite šiuos veiksmus:
 
-- Jei gaunate įspėjimą, **kad programa pristabdyta** , kai pasikeičia schema, tai yra laikina, nes yra aptarnavimo priežiūra. 
+- Jei gaunate įspėjimą, **kad taikomoji programa pristabdyta** keičiant schemą, tai yra laikina, nes yra tarnybos priežiūra. 
 
-    Jei praėjo daugiau nei 24 valandos ir jums vis tiek kyla įspėjimas, prašome prisijungti prie palaikymo atvejo.
-- Pakeitus valdomąsias ypatybes arba pridėjus naujų, keitimai įsigalios tik iš naujo aptikus turinį. SharePoint Online aptikimas vyksta automatiškai pagal nustatytą aptikimo grafiką.
-- Norėdami įsitikinti, kad jūsų pakeitimai yra nuskaityti, galite konkrečiai prašyti iš [naujo indeksavimo sąrašo arba bibliotekos](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Jei praėjo daugiau nei 24 valandos ir jūs vis dar susiduriate su įspėjime, kreipkitės į palaikymo atvejį.
+- Pakeitus valdomas ypatybes arba pridedant naujų, pakeitimai įsigalios tik tada, kai turinys bus pakartotinai aptinkamas. "SharePoint Online" aptikimas vyksta automatiškai, atsižvelgiant į apibrėžtą aptikimo grafiką.
+- Norėdami įsitikinti, kad jūsų atlikti pakitimai yra aptikti, galite konkrečiai [prašyti iš naujo indeksuoti sąrašą arba biblioteką](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Išsamios ieškos schemos apžvalgos ieškokite [paieškos schemos įvedimas](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Išsamią ieškos schemos apžvalgą rasite [ieškos schemos įvedimas](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

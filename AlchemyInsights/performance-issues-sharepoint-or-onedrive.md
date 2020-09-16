@@ -1,9 +1,10 @@
 ---
-title: Našumo problemos – "SharePoint" arba "OneDrive"
+title: Efektyvumo problemos – "SharePoint" arba "OneDrive"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -12,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: aecbf4043c6456ece73f7deed6b068040f0691a2
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068418"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771909"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>"SharePoint" arba "OneDrive" veikia lėtai, nepasiekiama arba nepasiekiama keliems vartotojams
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>"SharePoint" arba "OneDrive" lėtas, nepasiekiamas arba nepasiekiamas keliems vartotojams
 
-SharePoint arba OneDrive gali būti lėtas, nepasiekiamas arba nepasiekiamas, arba gali Rodyti paslaugos nepasiekiamas arba 503 klaidos, dėl kelių priežasčių:
+"SharePoint" arba "OneDrive" gali būti lėta, neprieinama arba neprieinama arba gali būti rodoma paslauga neprieinama arba 503 klaidos dėl kelių priežasčių:
   
-- Jei SharePoint arba "OneDrive" svetainė yra lėta arba uždelsta keliems vartotojams, gali būti laikina paslaugų problema, dėl kurios vartotojai patiria pertrūkiais uždelsimą arba naršymo klaidas, kai pasiekiate "SharePoint" svetaines arba "OneDrive" turinį. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir pažiūrėkite, ar jūsų organizacija turi įtakos.
+- Jei jūsų "SharePoint" arba "OneDrive" svetainė yra lėta ar atidėta keliems vartotojams, gali būti laikina tarnybos problema, dėl kurios vartotojai susiduria su pertrūkiais arba naršymo klaidomis, kai jungiasi prie "SharePoint" svetainių arba "OneDrive" turinio. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir Sužinokite, ar jūsų organizacija turi įtakos.
   
-- Vartotojai gali gauti *503 serverio yra užimtas* klaida bandant pereiti prie SharePoint arba OneDrive svetainių. Ši klaida gali kilti dėl buferinės per SharePoint tarnybos. SharePoint Online naudoja buferizavimo išlaikyti optimalų efektyvumą ir patikimumą SharePoint Online paslaugos. Buferinis ribojimas riboja vartotojo veiksmų arba vienu metu vykstančių skambučių skaičių (pagal scenarijų arba kodą), kad ištekliai nebūtų naudojami per daug. Daugiau informacijos apie buferizavimo pamatyti, [išvengti gauti neleista arba užblokuotas SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Vartotojai gali gauti " *503" serveris yra užimtas* klaida bandant pereiti į "SharePoint" arba "OneDrive" svetaines. Šią klaidą gali sukelti "SharePoint" tarnyboje. „SharePoint Online“ naudoja ribojimo funkciją, kad užtikrintų optimalų „SharePoint Online“ paslaugos veiksmingumą ir patikimumą. Ribojimas apriboja vartotojo veiksmų arba vienu metu vykstančių skambučių (pagal scenarijų ar kodą) skaičių, kad būtų užkirstas kelias per dideliam išteklių naudojimui. Daugiau informacijos apie buferizavimą rasite " [SharePoint Online" negauti ribojimo arba užblokuotas](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-- Jei naudodami **klasikinę** arba **modernią** "SharePoint" svetainę ar puslapį jaučiate lėto veikimo efektyvumą, pasinaudokite [puslapio diagnostikos įrankiu](https://aka.ms/perftool) puslapiams analizuoti.
+- Jei su **klasikine** arba **šiuolaikine** "SharePoint" svetaine ar puslapiu susiduriate lėčiau, naudokite [puslapį diagnostikos įrankis](https://aka.ms/perftool) , kad išanalizuotumėte puslapius.
   
-- Jei vis dar patirtis apskritai lėto veikimo, prašome peržiūrėti išteklius šio straipsnio apačioje: [Įvadas į veiklos reguliavimas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Jei vis dar susiduriate su bendrąja lėtu veikimu, peržiūrėkite išteklius šio straipsnio apačioje: [Įvadas į "SharePoint Online" našumo reguliavimą](https://go.microsoft.com/fwlink/?linkid=2024334)
   
