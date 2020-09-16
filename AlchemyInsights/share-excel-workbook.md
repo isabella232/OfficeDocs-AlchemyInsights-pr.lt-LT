@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
-ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163789"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739293"
 ---
-# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="64ce3-102">Bendradarbiavimas naudojant "Excel" dokumentus</span><span class="sxs-lookup"><span data-stu-id="64ce3-102">Collaborate on Excel documents</span></span>
+# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="56938-102">Bendradarbiaukite naudodami "Excel" dokumentus</span><span class="sxs-lookup"><span data-stu-id="56938-102">Collaborate on Excel documents</span></span>
 
-<span data-ttu-id="64ce3-103">Norėdami bendradarbiauti su kolegomis naudodami "Excel" dokumentus, naudokite **kūrimo vienu metu funkciją**.</span><span class="sxs-lookup"><span data-stu-id="64ce3-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
+<span data-ttu-id="56938-103">Norėdami bendradarbiauti su kolegomis "Excel" dokumentuose, naudokite **redagavimo**vienu metu funkciją.</span><span class="sxs-lookup"><span data-stu-id="56938-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
 
-<span data-ttu-id="64ce3-104">Sužinokite apie šios funkcijos įgalinimą ir naudojimą, ne tik atsakymų į dažnai užduodamus klausimus apie bendrinimo ir bendro kūrimo scenarijus, bet ir [bendradarbiavimą naudojant "Excel" darbaknyges tuo pačiu metu kartu su redagavimas vienu metu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span><span class="sxs-lookup"><span data-stu-id="64ce3-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
+<span data-ttu-id="56938-104">Sužinokite apie šios funkcijos įgalinimą ir naudojimą, be to, kad matote atsakymus į dažnai užduodamus klausimus apie bendro naudojimo ir redagavimo vienu metu scenarijus, bendradarbiaujant [su "Excel" darbaknygėmis tuo pačiu metu su redagavimo vienu metu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span><span class="sxs-lookup"><span data-stu-id="56938-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
