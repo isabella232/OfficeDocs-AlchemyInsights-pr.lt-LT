@@ -1,29 +1,30 @@
 ---
-title: "\"Microsoft\" autentifikavimo priemonės programėlės naudojimas"
+title: "\"Microsoft authenticator\" taikomosios programos naudojimas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 1594f8413cd1d20c61871c05d94fb8d3d7653805
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559034"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770091"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>"Microsoft" autentifikavimo priemonės programėlės naudojimas
+# <a name="using-the-microsoft-authenticator-app"></a>"Microsoft authenticator" taikomosios programos naudojimas
 
-Prisijunkite prie savo asmeninės "Microsoft" paskyros naudodami piršto atspaudą, veido atpažinimą arba PIN kodą.
+Prisijunkite prie savo asmeninės "Microsoft" paskyros naudodami pirštų atspaudus, veido atpažinimo funkciją arba PIN.
 
-- [Kaip naudoti "Microsoft Authenticator" programėlę](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [Kaip naudoti "Microsoft authenticator" programą](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- [Nustatykite autentifikavimo priemonės programėlę](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) nuskaitydami QR kodą arba [rankiniu būdu pridėdami paskyrą](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [Nustatykite authenticator programą](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) NUSKAITYDAMI QR kodą arba [rankiniu būdu įtraukdami paskyrą](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
 
-Daugiau informacijos rasite [autentifikavimo priemonės programos apžvalgoje](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+Daugiau informacijos ieškokite [autentifikavimo programos apžvalga](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
