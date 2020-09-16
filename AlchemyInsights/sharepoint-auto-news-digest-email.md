@@ -1,30 +1,31 @@
 ---
-title: "\"SharePoint\" automatinis skaidinimas el. paštas"
+title: "\"SharePoint\" Automatinis suvestinės elektroninis paštas"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: fbca2ef975b46451c833bcc2691e008a9d82c28f
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847058"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751179"
 ---
-# <a name="sharepoint-auto-digest-email"></a>"SharePoint" automatinis skaidinimas el. paštas
+# <a name="sharepoint-auto-digest-email"></a>"SharePoint" Automatinis suvestinės elektroninis paštas
 
-"SharePoint Auto-News Digest" siunčia automatizuotus el. laiškus jūsų įmonės vartotojams apie naujausius naujienų įrašus, kurių jie dar neperskaitė, kurie jiems aktualūs.
+"SharePoint" Automatinis naujienų sąrašas siunčia automatinius laiškus jūsų įmonės vartotojams apie naujausius naujienų įrašus, kurie dar nėra perskaityti.
 
-Norėdami gauti daugiau informacijos, apsilankykite[https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Daugiau informacijos rasite apsilankę [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- "Microsoft 365" veiksmų plano ID: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Laikas: Tiksliniai išleidimo klientai **liepos viduryje (anksčiau birželio** mėnesį ir užbaigti visiems klientams **iki rugpjūčio vidurio (anksčiau rugpjūčio pradžioje)**.
-- Diegimas: vartotojo lygio diegimas
-- Valdymo tipas: Vartotojo kontrolė, ** Administratoriaus valdymas per "PowerShell" (jau greitai)
+- "Microsoft 365" veiksmų plano ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Laikas: tikslinio išleidimo Klientai  **liepos viduryje (anksčiau birželį**  ir visiems klientams užbaigti iki  **rugpjūčio vidurio (anksčiau rugpjūčio pradžioje)**.
+- Išriedėjimo: vartotojo lygio išriedėjimo
+- Valdiklio tipas: vartotojo valdymas, * * administratorių valdymas naudojant "PowerShell" (jau greitai)
