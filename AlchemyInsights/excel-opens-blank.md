@@ -1,23 +1,24 @@
 ---
-title: "\"Excel\" atidaro tuščią dokumentą"
+title: "\"Excel\" atidaro tuščią"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 32546a6fcab15e7712f8008b372fe51250e85853
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391407"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783451"
 ---
-# <a name="excel-opens-blank"></a>"Excel" atidaro tuščią dokumentą
+# <a name="excel-opens-blank"></a>"Excel" atidaro tuščią
 
-Jei "Excel" pasileidžia, bet rodo tuščią ekraną, jei manote, kad faile atvykti, žr [Šalinti Excel atidarydami tuščią dokumentą dukart spustelėjus failo piktogramą arba failo vardą](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Jei programa "Excel" pasileidžia, bet rodo tuščią ekraną, kuriame tikitės, kad būtų rodomas failas, peržiūrėkite ["Excel" atidarymo tuščio trikčių šalinimas dukart spustelėjus failo piktogramą arba failo vardą](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).

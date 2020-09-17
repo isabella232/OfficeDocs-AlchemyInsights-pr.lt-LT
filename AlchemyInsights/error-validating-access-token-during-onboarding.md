@@ -1,25 +1,26 @@
 ---
-title: Atliekant darbalaukio "Analytics" sulaikymo metu įvyko klaida patvirtinant prieigos atpažinimo ženklo klaidą
+title: Įvyko klaida tikrinant "Access" atpažinimo ženklo klaidą atliekant "Desktop Analytics" įlipimo metu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 7472af5c4e19e5697b5fb4802ed1cbb2c74f1d19
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741226"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783559"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Įvyko klaida patvirtinant prieigos žetonas" klaida per Desktop Analytics supažindinimo
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Įvyko klaida tikrinant prieigos žetoną" klaida atliekant darbalaukio analizės parengimo paslaugą
 
-Ši klaida paprastai pastebima, kai baigiasi autentifikavimo atpažinimo ženklo galiojimo laikas. Paprastai, gaivus puslapį atnaujina atpažinimo ženklas. Tačiau ši problema gali tęstis, jei yra sąlyginis prieigos strategijos taikomos sąskaitos naudojamas borto darbalaukio analizė. Galite peržiūrėti Azure AD prisijungti žurnalus Azure portale Norėdami pamatyti, jei yra kokių nors prisijungimo nesėkmių paskyros naudojama Desktop Analytics parengimas.
+Ši klaida paprastai stebima, kai baigiasi autentifikavimo atpažinimo ženklas. Paprastai atnaujinti puslapį atnaujina atpažinimo ženklą. Tačiau ši problema gali tęstis, jei yra sąlyginės prieigos strategijos, pritaikytos paskyrai, kuri naudojama kompiuterio analizei laive. Galite peržiūrėti "Azure AD" prisijungimo žurnalus, esančius "Azure" portale, Norėdami sužinoti, ar yra kokių nors prisijungimo prie kompiuterio "Analytics" parengimo naudojamo abonemento klaidų.
 
-Jei turite daugiau informacijos apie sąlyginę prieigą, apsilankykite ["sąlyginės prieigos" diegimo planavimas](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Daugiau informacijos apie [sąlyginę prieigą rasite savo sąlyginės prieigos diegimo planavimas](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
