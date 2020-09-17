@@ -1,10 +1,11 @@
 ---
-title: Kaip nustatyti "Skype" susitikimo transliacija
+title: Kaip nustatyti "Skype" susitikimų transliaciją
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305234"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781471"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nepavyksta paleisti arba prisijungti prie "Skype" susitikimo Broadcast?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Negalite paleisti arba prisijungti prie "Skype" susitikimo transliacijos?
 
-Jei kyla problemų pradedant arba prisijungiant prie "Skype" susitikimo transliuoti kaip įvykių komandos narys (susitikimo gamintojas), būtinai patikrinkite savo konfigūraciją. "Skype" susitikimo transliavimui reikia kai kurių rankiniu būdu sąrankos veiksmus. Atlikite veiksmus šiame straipsnyje, siekiant užtikrinti, kad jūsų tinklo ir "Skype" Business Online portalas yra tinkamai sukonfigūruotas ir kad nukentėjo vartotojas nėra užblokuotas nesuderinamos licencijos:
+Jei kyla problemų paleidžiant arba prisijungiant prie "Skype" susitikimo transliacijos kaip įvykio komandos narys (susitikimo gamintojas), įsitikinkite, kad dar kartą patikrinkite konfigūraciją. "Skype" susitikimų transliavimui reikia rankiniu būdu atlikti veiksmus. Atlikite šiame straipsnyje nurodytus veiksmus, kad užtikrintumėte, jog jūsų tinklas ir "Skype" verslui internetinis portalas būtų tinkamai sukonfigūruoti ir kad paveikto vartotojo neužblokuotų nesuderinamos licencijos:
 
-[Nustatykite tinklą "Skype" susitikimų transliavimui](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+["Skype" susitikimų transliavimo tinklo nustatymas](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

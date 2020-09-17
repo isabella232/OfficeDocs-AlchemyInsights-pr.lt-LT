@@ -1,11 +1,12 @@
 ---
-title: Kaip nustatyti mokestį kredito kortelėje arba banko išraše
+title: Kaip nustatyti mokesčio kredito kortelėje arba banko išraše
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724382"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780139"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kaip nustatyti mokestį kredito kortelėje arba banko išraše
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kaip nustatyti mokesčio kredito kortelėje arba banko išraše
 
 "Microsoft 365" prenumeratos mokesčio aprašas atrodo taip:
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
+MSFT \* E012345ABC 0000-MSBILL.info, WA
   
-10 simbolių raidinė-skaitinė eilutė po MSFT \* yra SF numeris, su kuria susijęs mokestis. Norėdami rasti sąskaitą faktūrą, eikite į puslapį **Atsiskaitymo** \> [sąskaitos & mokėjimai,](https://go.microsoft.com/fwlink/p/?linkid=848039) kad peržiūrėtumėte naujausias sąskaitas faktūras. SF numeris yra netoli dešiniajame SF dokumento kampe.
+10 simbolių raidinę raidinę skaitmeninę eilutę, esančią po MSFT, \* yra sąskaitos faktūros numeris su mokesčiu. Jei norite sužinoti sąskaitą faktūrą, eikite į **atsiskaitymo** sąskaitų \> [& mokėjimai](https://go.microsoft.com/fwlink/p/?linkid=848039) puslapį, kad peržiūrėtumėte savo naujausias sąskaitas faktūras. Sąskaitos faktūros numeris yra netoli dešiniojo sąskaitos faktūros dokumento kampo.

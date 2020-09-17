@@ -1,27 +1,28 @@
 ---
-title: Kaip išvalyti talpyklą arba vietoje iš naujo/atnaujinti kliento/App?
+title: Kaip išvalyti talpyklą arba vietinį nustatymą iš naujo/atnaujinti klientą/programėlę?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: e6ec9d321c4ec09661bfc712084f920dc8c6054d
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627690"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780283"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Kaip išvalyti talpyklą arba vietoje iš naujo/atnaujinti kliento/App?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Kaip išvalyti talpyklą arba vietinį nustatymą iš naujo/atnaujinti klientą/programėlę?
 
-Jei matote neišsamius arba neteisingus duomenis, bandykite priverstinai uždaryti ir iš naujo atidaryti programėlę.  
+Jei matote nebaigtus arba neteisingus duomenis, pabandykite priversti uždaryti ir iš naujo atidaryti taikomąją programą.  
 
-Jei tai nepadeda, galite pabandyti iš naujo nustatyti paskyrą įrenginyje.
+Jei tai nepadeda, galite pabandyti iš naujo nustatyti abonementą įrenginyje.
  
-Atidarykite programėlę, eikite į **Parametrai**, pasirinkite el. pašto paskyrą ir pasirinkite **iš naujo nustatyti paskyrą**.
+Atidarykite taikomąją programą, eikite į **Parametrai**, pasirinkite el. pašto paskyrą ir pasirinkite **iš naujo nustatyti paskyrą**.
