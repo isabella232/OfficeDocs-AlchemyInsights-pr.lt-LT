@@ -5,28 +5,29 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: f2312714bdb7e5bc6944c46de21e5669c6c18e41
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 20211a15d02d5051782f6fc6c044211f0b70661d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509068"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779347"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Atkurti trūkstamus arba panaikintus svetainių rinkinius
+# <a name="recover-missing-or-deleted-site-collections"></a>Trūkstamų arba panaikintų svetainių rinkinių atkūrimas
 
-Ieškokite šiuose straipsniuose, jei norite gauti informacijos apie tai, kaip atkurti trūkstamus arba panaikintus svetainių rinkinius "SharePoint".
+Informacijos, kaip atkurti trūkstamus arba panaikintus svetainių rinkinius programoje "SharePoint", ieškokite tolesniuose straipsniuose.
 
 [Panaikintų svetainių atkūrimas](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
 [Atkūrimas naudojant "SPO PowerShell" modulį](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Jei nerandate svetainės, kurios galbūt norėsite [ieškoti audito žurnale "Microsoft 365" saugos &amp; atitikties centre](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+Jei negalite rasti svetainės, galbūt norėsite [Ieškoti audito žurnalų "Microsoft" 365 saugos &amp; atitikties centre](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-**Pastaba:** "Šiuolaikinės" komandos svetainės nematomos **klasikinis** SharePoint administratoriaus vartotojo sąsaja. Galite pasiekti "šiuolaikinių" svetainių sąrašą iš [naujo "Sharepoint" administravimo centro](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Pastaba:** "Modernios" komandos svetainės nematomos **klasikiniame** "SharePoint" administratoriaus vartotojo sąsajoje. "Modernių" svetainių sąrašą galite pasiekti naudodami naują "SharePoint" [administravimo centrą](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 
