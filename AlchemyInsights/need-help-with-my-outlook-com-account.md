@@ -1,29 +1,30 @@
 ---
-title: Reikia pagalbos dėl mano Outlook.com paskyros
+title: Reikia pagalbos naudojant mano Outlook.com paskyrą
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288291"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803289"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Reikia pagalbos dėl mano Outlook.com paskyros
+# <a name="need-help-with-my-outlookcom-account"></a>Reikia pagalbos naudojant mano Outlook.com paskyrą
 
-Jei jums reikia pagalbos dėl Outlook.com paslaugos, mes turime specialią pagalbą jums padėti. Norėdami gauti palaikymą tiesiogiai žiniatinklio programoje: 
+Jei reikia pagalbos naudojant "Outlook.com" tarnybą, mes jums padėsime jums padėti. Norėdami gauti palaikymą tiesiogiai žiniatinklio taikomojoje programoje: 
 
-1. Spauskite ant ? piktogramą viršutiniame dešiniajame ekrano kampe. 
+1. Spustelėkite? piktograma ekrano viršuje dešinėje. 
 
-2. Įveskite, su kuo reikia pagalbos, įveskite, su kuo reikia pagalbos, esantį iššokančiame skydelyje, ir spustelėkite **Pateikti**. 
+2. Įveskite, ko jums reikia pagalbos naudojant iššokančiajame skydelyje rodomą žinyno lauką ir spustelėkite **pateikti**. 
 
-3. Jei sprendimas nepateikiamas, slinkite šoniniu skydeliu ir spustelėkite **rašykite mums**el. paštu .
+3. Jei sprendimas nepateiktas, slinkite žemyn į šoninį skydelį ir spustelėkite **rašykite mums**.
