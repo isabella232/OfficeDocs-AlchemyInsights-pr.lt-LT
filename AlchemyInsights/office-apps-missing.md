@@ -1,27 +1,28 @@
 ---
-title: Trūksta "Microsoft 365" programėlių
+title: Trūkstamos "Microsoft" 365 programos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 5f935408bac9ac8ad36d18740bd61aba12bca1ca
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24ad5efafa7551e9d29c2b1f4a438bfb781a1417
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576784"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802893"
 ---
-# <a name="microsoft-365-apps-missing"></a><span data-ttu-id="c4a71-102">Trūksta "Microsoft 365" programėlių</span><span class="sxs-lookup"><span data-stu-id="c4a71-102">Microsoft 365 apps missing</span></span>
+# <a name="microsoft-365-apps-missing"></a><span data-ttu-id="b87ed-102">Trūkstamos "Microsoft" 365 programos</span><span class="sxs-lookup"><span data-stu-id="b87ed-102">Microsoft 365 apps missing</span></span>
 
-<span data-ttu-id="c4a71-103">Jei įdiegę arba atnaujinę negalite rasti "Office" taikomųjų programų kompiuteryje, [žr.](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6)</span><span class="sxs-lookup"><span data-stu-id="c4a71-103">If you are unable to locate Office applications on your computer after an install or update, see [Can't find Office applications in Windows 10, Windows 8, or Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6).</span></span> <span data-ttu-id="c4a71-104">Jei meniu Pradėti arba dalyje **Visos programėlės**nerandate "Office" sparčiųjų klavišų, [žr.](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc)</span><span class="sxs-lookup"><span data-stu-id="c4a71-104">If you can’t find the Office shortcuts on the Start menu or under **All apps**, see [Microsoft 365 apps are missing from all apps on Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc).</span></span> 
+<span data-ttu-id="b87ed-103">Jei negalite rasti "Office" taikomųjų programų kompiuteryje įdiegę arba atnaujinę, ieškokite ["Office" taikomųjų programų "Windows 10", "Windows 8" arba "Windows 7"?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6).</span><span class="sxs-lookup"><span data-stu-id="b87ed-103">If you are unable to locate Office applications on your computer after an install or update, see [Can't find Office applications in Windows 10, Windows 8, or Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6).</span></span> <span data-ttu-id="b87ed-104">Jei negalite rasti "Office" sparčiųjų klavišų meniu Pradžia arba dalyje **Visos programos**, peržiūrėkite ["Microsoft" 365 taikomųjų programų nėra visose "Windows 10" programose](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc).</span><span class="sxs-lookup"><span data-stu-id="b87ed-104">If you can’t find the Office shortcuts on the Start menu or under **All apps**, see [Microsoft 365 apps are missing from all apps on Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc).</span></span> 
 
-<span data-ttu-id="c4a71-105">Pabandykite [pataisyti "Office" programą,](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) jei prisijungus arba iš naujo paleidus kompiuterį dingo "Office" nuorodos.</span><span class="sxs-lookup"><span data-stu-id="c4a71-105">Try to [repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) if Office shortcuts disappeared after logging in or restarting the computer.</span></span> 
+<span data-ttu-id="b87ed-105">Pabandykite [pataisyti "Office" taikomąją programą](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) , jei prisijungę arba iš naujo paleisdami kompiuterį dingo "Office" spartieji klavišai.</span><span class="sxs-lookup"><span data-stu-id="b87ed-105">Try to [repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) if Office shortcuts disappeared after logging in or restarting the computer.</span></span> 
 
-<span data-ttu-id="c4a71-106">**Pastaba:** Jei "Microsoft 365" programėlių nėra diegti "Office" portale, eikite į ["Office" diegimo trikčių diagnostika](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) ir eikite į **"Office" verslui**  >  **Bendrosios problemos**  >  **Nematote parinkties įdiegti "Office".**</span><span class="sxs-lookup"><span data-stu-id="c4a71-106">**Note:** If Microsoft 365 apps are missing for installation on the Office portal, go to [Troubleshoot installing Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) and go to **Office for business** > **Common issues** > **You don't see an option to install Office**.</span></span> 
+<span data-ttu-id="b87ed-106">**Pastaba:** Jei diegiant "Office" portalo "Microsoft 365" programų nėra, eikite į "Office" diegimo [trikčių šalinimas](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) ir eikite į " **Office" verslui**  >  **dažnai pasitaikančių problemų**,  >  **su kuriomis negalite įdiegti "Office**", parinkties.</span><span class="sxs-lookup"><span data-stu-id="b87ed-106">**Note:** If Microsoft 365 apps are missing for installation on the Office portal, go to [Troubleshoot installing Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) and go to **Office for business** > **Common issues** > **You don't see an option to install Office**.</span></span> 
