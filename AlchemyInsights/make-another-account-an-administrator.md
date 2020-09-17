@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 060492f0792caa34de872ccd97b27006ff172ba0
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738436"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794702"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Standartinio vartotojo abonemento keitimas į "Windows 10" administratorių
 
-Toliau nurodyta, kaip pakeisti standartinį vartotojo abonementą į "Windows 10" administratorių.
+Štai kaip pakeisti standartinį vartotojo abonementą į "Windows 10" administratorių:
 
-1. Eikite į **pradžios ekrano** > **parametrų** > **paskyrą** > **šeima & kitų žmonių** (ar **kitų žmonių**, jei naudojate "Windows 10 Enterprise").
-2. Pasirinkite paskyrą, kurią norite padaryti administratoriumi, ir pasirinkite **keisti paskyrą**.
-3. Dalyje **abonemento tipas**pasirinkite **administratorius**, tada pasirinkite **gerai**.
+1. Eikite į **pradžios**  >  **parametrų**  >  **paskyros**  >  **šeimos & kitų žmonių** (arba **kitų žmonių**, jei naudojate "Windows 10 Enterprise").
+2. Pasirinkite paskyrą, kurią norite suteikti administratoriui, ir pasirinkite **keisti paskyrą**.
+3. Dalyje **paskyros tipas**pasirinkite **administratorius**, tada pasirinkite **gerai**.
 
-**Pastaba:** Abonementus į administratorių galite keisti tik iš esamo administratoriaus abonemento.
+**Pastaba:** Galite keisti paskyras tik esamo administratoriaus abonemento administratoriui.

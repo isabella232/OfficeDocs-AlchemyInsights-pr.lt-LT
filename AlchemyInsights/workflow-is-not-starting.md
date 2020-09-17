@@ -6,40 +6,41 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766105"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794775"
 ---
 # <a name="workflow-is-not-starting"></a>Darbo eiga nepradedama
 
-- Nepaleidžiama "SharePoint 2010" ir "SharePoint 2013" darbo eigos.
+- "SharePoint 2010" ir "SharePoint 2013" darbo eigos nepaleidžiamos.
 
-    - Jei jūsų darbo eiga neprasideda, gali būti laikina tarnybos problema, kai vartotojai gali susidurti su pasikartojančiais delsa darbo eigos eiga. Patikrinkite [tarnybos sveikatos ataskaitų sritį,](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) kad sužinotumėte, ar jūsų organizacijai daromas poveikis.
+    - Jei darbo eiga nepradedama, gali būti laikina aptarnavimo problema, kai vartotojai gali susidurti su pertrūkiais dėl darbo eigos eigos. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) ir Sužinokite, ar jūsų organizacija turi įtakos.
 
-    - Jei praėjo daugiau nei 24 valandos nuo to laiko, kai pirmą kartą matėte šią problemą, prisijunkite palaikymo bilietą. Daugeliu atvejų jau dirbame su sprendimu. Prašome duoti mums ne mažiau kaip 24 valandas užbaigti sprendimą.
+    - Jei praėjo daugiau nei 24 valandos po to, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo bilieto. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtumėte sprendimą.
 
-- "SharePoint 2010" darbo eigos vėluoja paleisti.
+- "SharePoint 2010" darbo eigos vėluoja pradėti.
 
-    - Taip nutinka, jei darbo eiga paleidžiama dideliais paketais. (pvz., kai vienu metu pridedami keli elementai).
+    - Taip nutinka, jei darbo eiga suaktyvinama dideliais paketais. (pvz., kai keli elementai įtraukiami vienu metu).
 
-    - Darbo eigos nėra skirtos veikti realiuoju laiku, todėl delsa yra pagal dizainą.
+    - Darbo eigos nėra sukurtos veikti realiuoju laiku, todėl vėlavimas yra dizaino elgesys.
 
-   -  Jei darbo eiga yra sudėtinga išplėstinė objekto aprašų kalba (XMOL), kompiliavimas gali būti lėtas. Patikrinkite [šį](https://support.microsoft.com//kb/3043697) straipsnį.
+   -  Jei darbo eiga yra sudėtinga Išplėstinė objekto aprašų kalba (XMOL), Kompiliacija gali būti lėta. Pažymėkite [šį](https://support.microsoft.com//kb/3043697) straipsnį.
 
-    - Turėtumėte supaprastinti darbo eigą arba pertvarkyti ją naudodami "Microsoft SharePoint 2013" darbo eigos platformos tipą.
+    - Turėtumėte supaprastinti darbo eigą arba perdaryti ją naudodami "Microsoft SharePoint 2013" darbo eigos platformos tipą.
 
-    - Jei jūsų darbo eigos retrospektyva išaugo didelis, galbūt norėsite išvalyti elementus arba sukurti naują retrospektyvos sąrašą.
+    - Jei jūsų darbo eigos retrospektyva išaugo daug, galbūt norėsite išvalyti elementus arba kurti naują retrospektyvos sąrašą.
 
-        Daugiau informacijos : [Išvalyti darbo eigos retrospektyvą](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Daugiau informacijos: [darbo eigos retrospektyvos](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/) šalinimas
 
 
 ## <a name="related-topics"></a>Susijusios temos

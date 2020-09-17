@@ -1,34 +1,35 @@
 ---
-title: Keisti MDM instituciją
+title: MDM institucijos keitimas
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f336ef2b84dcc7a44c6b603e2fbdb1aa08bd367d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706799"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793838"
 ---
-# <a name="change-intune-mdm-authority"></a>Keisti Intune MDM instituciją
+# <a name="change-intune-mdm-authority"></a>"Intune" MDM tarnybos keitimas
 
-MDM instituciją galite pakeisti neatidarydami palaikymo dėklo. Instrukcijų ieškokite šiuose dokumentuose:
+Galite pakeisti savo MDM tarnybą neatidarydami palaikymo atvejo. Instrukcijų ieškokite šiuose dokumentuose:
   
-- [MDM institucijos keitimas iš konfigūracijos tvarkytuvo į "Intune" atskirą](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- ["MDM" tarnybos keitimas iš konfigūracijos tvarkytuvo į "Intune" atskirą](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [MDM institucijos keitimas iš "Intune" atskirą į konfigūracijos tvarkyklė](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [MDM institucijos keitimas iš "Intune" į konfigūravimo tvarkytuvą](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **MDM institucija Sambūvis**
+ **MDM institucijos koegzistavimas**
   
-- Galite vienu metu suaktyvinti abi MDM institucijas, jei jau esate įjungę "Office 365 MDM", bet norite išbandyti "Intune MDM".
+- Tuo pačiu metu galite turėti abi MDM institucijas, jei jau turite "Office 365" MDM, bet norite išbandyti "Intune MDM".
     
-- Administratoriai, kurie jau turi O365 MDM aktyvus gali tiesiog pažymėti Intune MDM kaip aktyvus iš Azure portalas.
+- Administratoriai, kurie jau turi "O365 MDM", "Azure" portale aktyviai gali tiesiog naudoti "Intune" MDM.
     
-- Jei turite "Intune MDM", bet norite pasinaudoti "Office 365 MDM": atidarykite žemiau esantį bilietą ir palaikymo agentas padės tai įgalinti už jus.
+- Jei turite "Intune" MDM, bet norite naudoti "Office 365" MDM: Atidarykite toliau pateiktą bilietą ir palaikymo agentas padės jums tai padaryti.
     
 

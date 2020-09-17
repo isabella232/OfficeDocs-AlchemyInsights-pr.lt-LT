@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b8e5347285577a8d45cb4f3e5698cfd630d7ea7b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743137"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795972"
 ---
 # <a name="change-the-look-of-your-outlook-mailbox"></a>"Outlook" pašto dėžutės išvaizdos keitimas
 
-Galite keisti pranešimų sąrašo ir skaitymo srities išvaizdą, kad ji atrodytų ir elgtųsi taip, kaip norite. Pasirinkite, ar jūsų pranešimai turi būti rodomi atskirai, ar kaip pokalbiai, ar nauji pranešimai turėtų būti rodomi pranešimų sąrašo viršuje ar apačioje ir kt.
+Galite pakeisti laiškų sąrašo ir skaitymo srities išvaizdą, kad ji atrodytų ir veiktų taip, kaip norite. Pasirinkite, ar laiškai turėtų būti rodomi atskirai, ar kaip pokalbiai, jei pranešimų sąrašo viršuje arba apačioje turėtų būti rodomi nauji laiškai ir dar daugiau.
 
 1. Pasirinkite krumpliaračio piktogramą <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- , kad atidarytumėte sritį Parametrai.
-1. Pasirinkite tikslinių gautųjų, rodymo tankio, pokalbio rodinio ir skaitymo srities parametrus.
-1. Pranešimų sąrašo viršuje pasirinkite **Filtruoti** > **rūšiavimą pagal,** kad pasirinktumėte, kaip norite rūšiuoti el. laiškus.
+ puslapio viršuje, kad atidarytumėte sritį parametrai.
+1. Pasirinkite parametrus reikšmingiausi Gautieji, rodymo tankis, pokalbių rodinys ir skaitymo sritis.
+1. Pranešimų sąrašo viršuje pasirinkite **filtruoti**  >  **pagal** ir pasirinkite, kaip norite rikiuoti el. paštą.
 
-Norėdami sužinoti daugiau, žiūrėkite [Pašto dėžutės išvaizdos keitimas](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Norėdami sužinoti daugiau, žiūrėkite [savo pašto dėžutės išvaizdos keitimas](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
