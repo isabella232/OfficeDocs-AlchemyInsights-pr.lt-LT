@@ -1,39 +1,40 @@
 ---
-title: Iškarpų & eskizas naudojimas vaizdams fiksuoti, žymėti ir bendrinti
+title: Naudokite "SNiP" & eskizą, kad užfiksuotumėte, pažymėtumėte ir bendrintumėte vaizdus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584485"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773207"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Iškarpų & eskizas naudojimas vaizdams fiksuoti, žymėti ir bendrinti
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Naudokite "SNiP" & eskizą, kad užfiksuotumėte, pažymėtumėte ir bendrintumėte vaizdus
 
-Ekrano eskizas dabar vadinamas **įkarpa & eskizas**. **Norėdami greitai paimti įkarpą:**
+Ekrano eskizas dabar vadinamas " **SNiP" & eskizas**. **Norėdami greitai paimti įkarpą**:
 
-1. Paspauskite **"Windows" logotipo klavišą + Shift + S**. Ekranas patamsės, o žymeklis bus rodomas kaip kryžius. 
+1. Paspauskite **"Windows" logotipo klavišą + "Shift" + S**. Matysite ekraną patamsėti ir žymiklis rodomas kaip kryželiu. 
 
-2. Pasirinkite tašką norimos kopijuoti srities krašte ir kairėje spustelėkite žymiklį. 
+2. Pasirinkite tašką, esantį krašto srityje, kurią norite kopijuoti, ir kairiuoju pelės mygtuku spustelėkite žymiklį. 
 
-3. Perkelkite žymeklį, kad paryškintumėte sritį, kurią norite įrašyti. Ekrane bus rodoma fiksuojamas plotas.
+3. Perkelkite žymiklį, kad pažymėtumėte norimą Fiksuoti sritį. Jūsų užfiksuta sritis bus rodoma ekrane.
 
-   ![pažymėto pasirinkimo vaizdas](media/snipone.png)
+   ![pažymėto žymėjimo vaizdas](media/snipone.png)
 
-Vaizdas, kurį nušlažote, įrašomas į mainų sritį, paruoštas įklijuoti į el. laišką arba dokumentą. 
+Paveikslėlis, kurį nukirpėte, įrašytas į mainų sritį, paruoštas įklijuoti į el. laišką arba dokumentą. 
 
-**Jei norite redaguoti arba per3/4iþrìti atvaizd±:** 
+**Jei norite redaguoti arba peržiūrėti vaizdą**: 
 
-- Spustelėkite pranešimų piktogramą dešinėje užduočių juostos pusėje; tada spustelėkite nuotrauką, kurią ką tik užfiksavote. Įkarpa atidaroma programoje "Įkarpa & eskizą".
+- Spustelėkite piktogramą pranešimai, esančią užduočių juostos dešinėje pusėje; tada spustelėkite ką tik užfiksuotą paveikslėlį. "SNiP" atidaroma programa "SNiP &" eskizas.
 
-   ![paveikslėlio vaizdas, rodomas iškarpų programoje](media/sniptwo.png)
+   ![paveikslėlio vaizdas, rodomas iškarpų programėlėje](media/sniptwo.png)
