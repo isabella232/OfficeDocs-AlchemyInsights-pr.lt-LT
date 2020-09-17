@@ -1,25 +1,26 @@
 ---
-title: Kas yra automatinis įrašymas
-ms.author: chrsm
-author: chrsm
+title: Kas yra Automatinis įrašymas
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 36e4b57d518010c8a77bba5dd3828fe26178d20e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714230"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783523"
 ---
-# <a name="what-is-autosave"></a><span data-ttu-id="d455a-102">Kas yra automatinis įrašymas?</span><span class="sxs-lookup"><span data-stu-id="d455a-102">What is AutoSave?</span></span>
+# <a name="what-is-autosave"></a><span data-ttu-id="17b2e-102">Kas yra Automatinis įrašymas?</span><span class="sxs-lookup"><span data-stu-id="17b2e-102">What is AutoSave?</span></span>
 
-<span data-ttu-id="d455a-103">Automatinis įrašymas yra "Excel", "Word" ir "PowerPoint", skirtos "Microsoft 365" prenumeratoriams, funkcija, kuri kas kelias sekundes įrašo failą automatiškai, kai dirbate.</span><span class="sxs-lookup"><span data-stu-id="d455a-103">AutoSave is a feature available in Excel, Word, and PowerPoint for Microsoft 365 subscribers that saves your file automatically, every few seconds, as you work.</span></span> 
+<span data-ttu-id="17b2e-103">Automatinio įrašymo funkcija pasiekiama "Excel", "Word" ir "PowerPoint", skirtos "Microsoft" 365 prenumeratoriams, kurie jūsų failą įrašo automatiškai, kas kelias sekundes, kai dirbate.</span><span class="sxs-lookup"><span data-stu-id="17b2e-103">AutoSave is a feature available in Excel, Word, and PowerPoint for Microsoft 365 subscribers that saves your file automatically, every few seconds, as you work.</span></span> 
 
-<span data-ttu-id="d455a-104">Dažnai užduodamus klausimus rasite [Kas yra Automatinis įrašymas?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span><span class="sxs-lookup"><span data-stu-id="d455a-104">For frequently asked questions, see [What is AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span></span>
+<span data-ttu-id="17b2e-104">Jei reikia dažnai užduodamų klausimų, žiūrėkite [kas yra Automatinis įrašymas?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span><span class="sxs-lookup"><span data-stu-id="17b2e-104">For frequently asked questions, see [What is AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span></span>
