@@ -1,36 +1,36 @@
 ---
-title: "\"Microsoft teams\" – svečių prieiga"
+title: "\"Microsoft teams\" – svečio prieiga"
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
-ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
+ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019106"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798384"
 ---
-# <a name="microsoft-teams---guest-access"></a>"Microsoft teams" – svečių prieiga
+# <a name="microsoft-teams---guest-access"></a>"Microsoft teams" – svečio prieiga
 
-Jei jums reikia pagalbos bendraujant su vartotojais, nepriklausančiais jūsų organizacijai programoje "teams", turite nuspręsti, ar naudoti [svečio prieigą arba išorinę prieigą (Federaciją)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), ar galite naudoti abu.
+Jei reikia pagalbos bendraujant su "teams" nepriklausančiais vartotojais, reikia nuspręsti, ar naudoti [svečio prieigą arba išorinę prieigą (susiejimo)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), ar galite naudoti abi.
 
-Būtinai [Peržiūrėkite skirtumus](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , kad suprastumėte, kokios funkcijos prieinamos kiekvienam.  Pvz., išorinės prieigos (federacija) leidžia 1:1 pranešimų, pvz., pokalbiai ir buvimas.  Susietuose vartotojai negali dalyvauti komandos bendradarbiavimo tačiau.  Jei norite, kad išorinis vartotojas prisijungtų ir dalyvautų "teams" kanalų pokalbiuose arba bendrinkite failus, turėsite įjungti svečio prieigą.
+Įsitikinkite, kad [peržiūrėtumėte skirtumus](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , kad suprastumėte kiekvienos funkcijos galimybes.  Pvz., išorinė prieiga (federacija) leidžia "1:1" ryšiams, pvz., pokalbiams ir buvimui.  Tačiau susietieji vartotojai negali dalyvauti komandų bendradarbiavime.  Jei norite, kad išorinis vartotojas prisijungtų ir dalyvautų "teams" pokalbių pokalbiuose arba bendrintų failus, turėsite įjungti svečio prieigą.
 
-**1 būdas: įjunkite svečio prieigą**   
-"Teams" administravimo centre eikite į [organizacijos pločio parametrai > svečio prieiga](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ir įjunkite "leisti svečio prieigą į komandas".  Su visais kitais numatytaisiais parametrais nuomininkas, tai turėtų būti viskas, ką jums reikia padaryti.  Norėdami tinkinti svečio prieigos konfigūraciją, įsitikinkite, kad jums sekti visus veiksmus, [svečio prieigos kontrolinis sąrašas](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Kai būsite visiškai atlikti, turėsite [palaukti iki 24 valandų, kol](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) parametrai įsigalios.
+**1 parinktis: įjunkite svečio prieigą**   
+"Teams" administravimo centre eikite į [organizacijos plačios parametrų > Svečių prieigą](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ir įjunkite "leisti Svečių prieigą prie" teams ".  Jei naudojate nuomotoją su visais kitais numatytaisiais parametrais, tai turi būti viskas, ką reikia daryti.  Norėdami tinkinti svečio prieigos konfigūraciją, įsitikinkite, kad stebite visus [svečio prieigos kontroliniame sąraše](https://docs.microsoft.com/microsoftteams/guest-access-checklist)nurodytus veiksmus. Kai būsite visiškai atlikti, turėsite [palaukti iki 24 valandų, kol](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) parametrai įsigalios.
 
-Jei esate įsitikinę, kad atlikote visus kontrolinio sąrašo veiksmus, ir tai buvo daugiau nei 24 valandos, eikite į priekį ir pabandykite [įtraukti svečio į savo komandą](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Jei esate įsitikinę, kad atlikote visus kontrolinio sąrašo veiksmus ir praėjo daugiau nei 24 valandos, eikite į priekį ir pabandykite [įtraukti Svečių į savo komandą](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Daugiau informacijos, įskaitant "kaip" vaizdo įrašus, ieškokite [svečio prieiga prie "Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access)".
+Daugiau informacijos, įskaitant mokomųjų vaizdo įrašų, ieškokite [Svečių Prieiga naudojant "Microsoft teams"](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**2 parinktis: įjungti išorinę prieigą (federacija)** Jei taip pat norite įjungti išorinę prieigą (federacija), komandų administravimo centre eikite į [organizacijos parametrus > išorinė prieiga](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ir įjunkite "vartotojai gali užmegzti ryšį su" Skype "verslui ir" teams "vartotojams", tada atlikite visus veiksmus, kad [jūsų komandos vartotojai galėtų kalbėtis ir bendrauti su kitos organizacijos vartotojais](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**2 parinktis: įjunkite išorinę prieigą (federacija)** Jei taip pat norite įjungti išorinę prieigą (Federaciją), komandų administravimo centre eikite į visos [organizacijos parametrus > išorinė prieiga](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ir įjunkite "vartotojai gali bendrauti su" Skype "verslui ir" teams "vartotojais", tada atlikite visus veiksmus, aprašytus skyriuje [jūsų komandos vartotojų pokalbis ir bendravimas su vartotojais kitoje organizacijoje](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
 
 

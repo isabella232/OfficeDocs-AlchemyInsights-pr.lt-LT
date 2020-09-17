@@ -1,30 +1,31 @@
 ---
-title: Ką galiu daryti su versijų kūrimo?
+title: Ką galiu daryti su versijų kūrimu?
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3fcf8c4d1e890a565ace6961ac3f9c1292953248
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765349"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798420"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Ką galiu daryti su versijų kūrimo?
+# <a name="what-can-i-do-with-versioning"></a>Ką galiu daryti su versijų kūrimu?
 
-SharePoint sąrašuose ir bibliotekose galite naudoti versijų kūrimą:
+"SharePoint" sąrašuose ir bibliotekose galite naudoti versijų kūrimą:
   
-- **Sekti versijos retrospektyvą**. Įgalinę versijų kūrimo funkciją, galite matyti, kada elementas arba failas buvo pakeistas ir kas jį pakeitė. Taip pat galite matyti, kada buvo pakeistos ypatybės (informacija apie failą). Pavyzdžiui, jei kas nors pakeičia sąrašo elemento terminą, ta informacija rodoma versijų retrospektyvoje. Taip pat galite matyti komentarus, kuriuos žmonės pateikia tikrindami failus bibliotekose. 
+- **Versijos retrospektyvos sekimas**. Kai įgalintas versijos kūrimas, galite matyti, kada elementas arba failas buvo pakeistas ir kas jį pakeitė. Taip pat galite matyti, kada ypatybės (informacija apie failą) buvo pakeistos. Pavyzdžiui, jei kas nors pakeis sąrašo elemento terminą, ta informacija rodoma versijų istorijoje. Taip pat galite matyti žmonių komentarus, kad jie tikrintų failus į bibliotekas. 
     
-- **Atkurti ankstesnę versiją**. Jei padarėte klaidą dabartinėje versijoje, jei dabartinė versija yra sugadinta arba jei jums tiesiog patinka ankstesnė versija geriau, galite pakeisti dabartinę versiją ankstesne. Atkurta versija tampa nauja dabartine versija. 
+- **Atkurti ankstesnę versiją**. Jei padarėte klaidą dabartinėje versijoje, jei dabartinė versija sugadinta arba jei tiesiog norite geriau naudoti ankstesnę versiją, esamą versiją galite pakeisti ankstesniu. Atkurta versija tampa nauja dabartine versija. 
     
-- **Peržiūrėkite ankstesnę versiją**. Galite peržiūrėti ankstesnę versiją neperrašydami dabartinės versijos. Jei peržiūrite Microsoft Office dokumento versijų retrospektyvą, pvz., "Word" arba "Excel" failą, galite palyginti dvi versijas, kad nustatytumėte, kokie yra skirtumai. 
+- **Peržiūrėti ankstesnę versiją**. Galite peržiūrėti ankstesnę versiją Neperrašydami dabartinės versijos. Jei peržiūrite versijų retrospektyvą "Microsoft Office" dokumente, pvz., "Word" arba "Excel" failu, galite palyginti dvi versijas ir nustatyti skirtumus. 
     
-[Sužinokite daugiau apie tai, kaip versijų kūrimo veikia "SharePoint Online"](https://go.microsoft.com/fwlink/?linkid=875710)
+[Sužinokite daugiau apie tai, kaip veikia "SharePoint Online" versijų kūrimas](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

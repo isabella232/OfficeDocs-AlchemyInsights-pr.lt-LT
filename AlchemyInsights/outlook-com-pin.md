@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 5b859967d9336306b4b0a4879a7ffd5bee24f7a5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744891"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798204"
 ---
-# <a name="change-your-pin"></a>PIN kodo keitimas
+# <a name="change-your-pin"></a>PIN keitimas
 
-Outlook.com nenaudoja PIN kodo, bet galite prisijungti prie kompiuterio naudodami PIN arba "Windows Hello". Norėdami pakeisti PIN kodą sistemoje "Windows 10":
+"Outlook.com" nenaudoja PIN, bet galite prisijungti prie savo kompiuterio naudodami PIN arba "Windows Hello". Norėdami pakeisti PIN sistemoje "Windows 10":
 
-1. Pasirinkite pradžios mygtuką arba paspauskite klaviatūros klavišą "Windows", tada pasirinkite > **Abonementų** >  **Settings****prisijungimo parinktys**.
-2. Pasirinkite mygtuką **Keisti,** esantį **po PIN**.
-3. Įveskite dabartinį PIN kodą, tada po juo įveskite ir patvirtinkite naują PIN kodą.
+1. Pasirinkite mygtuką pradėti arba klaviatūroje paspauskite "Windows" klavišą, tada pasirinkite **parametrų**  >  **paskyrų**  >  **prisijungimo parinktys**.
+2. Dalyje **PIN**pasirinkite mygtuką **keisti** .
+3. Įveskite dabartinį PIN, tada įveskite ir patvirtinkite savo naują PIN po.
 
 [Skaitykite daugiau apie "Windows Hello".](https://support.microsoft.com/help/17215/)

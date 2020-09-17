@@ -1,33 +1,34 @@
 ---
-title: Naujinti mano profilio informaciją arba keisti paveikslėlį
+title: Profilio informacijos naujinimas arba mano paveikslėlio keitimas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720109"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796944"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Naujinti mano profilio informaciją arba keisti paveikslėlį
+# <a name="update-my-profile-information-or-change-my-picture"></a>Profilio informacijos naujinimas arba mano paveikslėlio keitimas
 
-Šiuo metu neįmanoma redaguoti ir atnaujinti savo profilio informacijos tiesiogiai iš "Outlook", skirtos "iOS", tačiau šią informaciją galima redaguoti kitur. 
+Šiuo metu negalima redaguoti ir atnaujinti savo profilio informacijos tiesiogiai iš "Outlook", skirtos "iOS", tačiau galima redaguoti šią informaciją bet kurioje vietoje. 
 
-Savo profilį galite atnaujinti naudodami "Outlook", skirtą "Windows", arba "Outlook" žiniatinklyje (OWA). 
+Savo profilio naujinimus galite atlikti naudodami "Outlook", skirtą "Windows", arba internetinę "Outlook" (OWA). 
 
-**"Outlook", skirta "Windows":** 
+" **Outlook", skirta "Windows"**: 
 
-- **Failų** > **Biuro abonemento** > **vartotojo informacija** > **Apie mane** (atneša jus į "Microsoft 365" profilį internete) > **naujinimo profilį** arba spustelėkite fotoaparato piktogramą, kad pakeistumėte nuotrauką  
+- **Failas**  >  " **Office" paskyra**  >  **Vartotojo informacija**  >  **Apie mane** (pateikia "Microsoft" 365 profilio internete) > **atnaujinti profilį** arba spustelėkite fotoaparato piktogramą, kad pakeistumėte nuotrauką  
   
-**"Outlook" žiniatinklyje (OWA):** 
+**Internetinė "Outlook" (OWA)**: 
 
-- **Profilio vaizdas** > **Mano profilio** > **naujinimo profilis**
+- **Profilio vaizdas**  >  **Mano profilis**  >  **Atnaujinti profilį**
