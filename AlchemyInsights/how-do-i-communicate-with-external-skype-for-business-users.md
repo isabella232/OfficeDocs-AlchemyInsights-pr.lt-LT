@@ -1,10 +1,11 @@
 ---
-title: Kaip susisiekti su išoriniais "Skype" verslui vartotojais
+title: Kaip bendrauti su išoriniais "Skype" verslui vartotojais
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496283"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781867"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Leisti išorinius ryšius su "Skype" verslui 
 
-Ar norite leisti savo "Skype" verslui vartotojams susisiekti su vartotojais, nepriklausančiais jūsų organizacijai? Žiūrėkite [Leisti vartotojams susisiekti su išoriniais "Skype" verslui vartotojais](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Ar norite leisti savo "Skype" verslui vartotojams susisiekti su jūsų organizacijai nepriklausančiais vartotojais? Peržiūrėkite [leisti vartotojams susisiekti su išoriniais "Skype" verslui vartotojais](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Jūsų DNS įrašai turi būti tinkamai nustatyti, kad išorinis ryšys veiktų tinkamai. Patikrinkite [čia,](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) ar turime konkrečių instrukcijų, kaip nustatyti DNS įrašus su teikėju. 
+Norint tinkamai funkcionuoti, jūsų DNS įrašus reikia tinkamai nustatyti išoriniams ryšiams. Patikrinkite [, ar turite](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) konkrečių instrukcijų, kaip nustatyti DNS įrašus su tiekėju. 
 
-Ar norite tik įgalinti savo "Skype" verslui vartotojus susisiekti su "Skype" vartotojų vartotojais? Žr.:
+Ar norite įgalinti "Skype" verslui vartotojus susisiekti su "Skype" vartotojų vartotojais? Žr.:
 
-- [Leiskite "Skype" verslui vartotojams įtraukti "Skype" kontaktus](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Leisk "Skype" verslui vartotojams įtraukti "Skype" kontaktus](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
-- [Įtraukite kontaktą į "Skype" verslui](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Kontakto įtraukimas programoje "Skype" verslui](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Jei norite, kad jūsų "Teams" vartotojai galėtų susisiekti su vartotojais, nepriklausančiais jūsų organizacijai (įskaitant "Skype" verslui vartotojus), peržiūrėkite [Išorinės prieigos valdymas programoje "Microsoft Teams".](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
+Jei norite, kad jūsų komandos vartotojai galėtų kreiptis į jūsų organizacijai nepriklausančius vartotojus (įskaitant "Skype" verslui vartotojus), peržiūrėkite ["Microsoft teams" išorinių prieigos valdymą](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
