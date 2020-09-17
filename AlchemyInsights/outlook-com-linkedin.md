@@ -1,28 +1,29 @@
 ---
-title: Nepageidaujamo el. laiško problemos, susijusios su "LinkedIn"
+title: Nepageidaujamo el. pašto, reikalaujančio būti iš "LinkedIn", problemos
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: 1cac908edee18c92219a46d24e38f9aed7cb2249
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715928"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799464"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Nepageidaujamo el. laiško problemos, susijusios su "LinkedIn"
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Nepageidaujamo el. pašto, reikalaujančio būti iš "LinkedIn", problemos
 
-Žinome, kad kai kurie naudotojai gauna nepageidaujamą el. laišką, kuriame teigiama, kad jie yra iš "LinkedIn".
+Žinome, kad kai kurie vartotojai gauna nepageidaujamo elektroninio pašto, kuris teigia, kad iš "LinkedIn".
 
-Rekomenduojame naudoti aplanko Gauta taisyklę šiems el. laiškams filtruoti.
+Rekomenduojame naudoti aplanko Gauta taisyklę, kad filtruotumėte šiuos laiškus.
 
-Norėdami gauti daugiau informacijos, skaitykite, kaip [naudoti aplanko Gauta taisykles Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Daugiau informacijos rasite kaip [naudoti aplanko Gauta taisykles "Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)".

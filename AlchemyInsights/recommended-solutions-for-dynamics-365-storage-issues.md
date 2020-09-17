@@ -1,24 +1,25 @@
 ---
-title: Rekomenduoti sprendimai Dynamics 365 saugyklos problemos
+title: Rekomenduokite sprendimus Dynamics 365 saugyklos problemoms
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36509874"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799176"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Rekomenduokite sprendimus Dynamics 365 saugyklos problemos
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Rekomenduokite sprendimus Dynamics 365 saugyklos problemoms
 
-* Kaip visuotinis administratorius, peržiūrėti saugyklos suskirstymas pagal aplinkos, Top 10 lenteles, ir daugiau
+* Kaip visuotinis administratorius, peržiūrėkite saugyklos suskirstymą pagal aplinką, 10 viršutinių lentelių ir dar daugiau
 
 * [Saugyklos sąskaitos ir prenumeratos klausimai](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
@@ -26,4 +27,4 @@ ms.locfileid: "36509874"
 
 * [Kaip įsigyti daugiau saugyklos vietos](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Kaip atlaisvinti vietos saugykloje](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Kaip atlaisvinti saugyklos vietos](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
