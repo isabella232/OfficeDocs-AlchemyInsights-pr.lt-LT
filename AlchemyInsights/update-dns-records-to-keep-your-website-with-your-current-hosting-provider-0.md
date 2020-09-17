@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699527"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815793"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atnaujinkite DNS įrašus ir atnaujinkite savo svetainę su dabartiniu išteklių nuomos teikėju
 
-1. "Microsoft 365" administravimo centre eikite į puslapį **sąrankos**  >  [domenai](https://portal.office.com/adminportal/home#/Domains) ir domenų sąraše pasirinkite domeną, kurį naudojate savo žiniatinklio svetainei.
+1. "Microsoft 365" administravimo centre eikite į puslapį **sąrankos**  >  [domenai](https://admin.microsoft.com/Adminportal#/Domains) ir domenų sąraše pasirinkite domeną, kurį naudojate savo žiniatinklio svetainei.
 
 2. Pasirinkite **+ naujas tinkintas įrašas** ir įrašykite šiuos dalykus:
 
