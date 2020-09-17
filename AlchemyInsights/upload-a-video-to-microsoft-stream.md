@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: f1f2464ad654b4abefaa9ad301a09397e4c39e17
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282847"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811889"
 ---
 # <a name="upload-a-video-to-microsoft-stream"></a>Vaizdo įrašo nusiuntimas į "Microsoft Stream"
 
-Įkelti vaizdo įrašus naudojant "Microsoft Stream" paprasta ir bet kas gali tai padaryti.
+Vaizdo įrašų nusiuntimas naudojant "Microsoft Stream" yra paprastas ir bet kas gali tai padaryti.
 
-- [Vaizdo įrašo įkėlimas](https://docs.microsoft.com/stream/portal-upload-video)
+- [Vaizdo įrašo nusiuntimas](https://docs.microsoft.com/stream/portal-upload-video)
