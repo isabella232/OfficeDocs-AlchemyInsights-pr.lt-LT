@@ -1,11 +1,12 @@
 ---
-title: Outlook.com Trūksta aplankų
+title: Outlook.com trūkstami aplankai
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: b484939b1427c0461e9893f75cfc8c5c6288b70f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698354"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777577"
 ---
 # <a name="find-missing-folders"></a>Trūkstamų aplankų radimas
 
-Kai kuriems vartotojams gali nepavykti matyti kairiojo aplanko srities, kai peržiūrite mažame ekrane.
+Kai kurie vartotojai gali nematyti srities left folder, kai peržiūrima mažame ekrane.
 
-- Jei nematote aplankų srities, padidinkite naršyklės langą arba slinkite į kairę, kad peržiūrėtumėte aplankų sąrašą.
-- Išplėskite aplankų sritį tik tada, kai to reikia. Kairėje šoninėje juostoje pasirinkite trijų eilučių piktogramą, kad būtų rodomi arba slepiami aplankai.
-- Atidarykite [maketo parametrus,](https://outlook.live.com/mail/options/mail/layout) pasirinkite **Slėpti skaitymo sritį,** tada **Įrašyti**. Tai suteiks ekranui daugiau vietos aplankams rodyti.
+- Jei nematote aplankų srities, Maksimizuokite naršyklės langą arba slinkite kairėn, kad peržiūrėtumėte aplankų sąrašą.
+- Išplėskite aplankų sritį tik tada, kai jos reikia. Pasirinkite trijų eilučių piktogramą kairiojoje juostoje, kad būtų rodomi arba slepiami aplankai.
+- Atidarykite [maketo parametrus](https://outlook.live.com/mail/options/mail/layout) ir pasirinkite **Slėpti skaitymo sritį** , tada – **įrašyti**. Tai suteiks ekrano daugiau vietos, kad būtų rodomi aplankai.
 
-Jei netyčia panaikinote aplanką, galite jį atkurti, jei jis vis dar yra aplanke Pašalinta. Norėdami sužinoti daugiau, skaitykite [panaikintų el. laiškų atkūrimas Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Jei netyčia panaikinote aplanką, galite jį atkurti, jei jis vis dar yra aplanke Panaikinti elementai. Norėdami sužinoti daugiau, skaitykite [panaikintų el. laiškų atkūrimas "Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)".
