@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812303"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213035"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Žinomos ADFS problemos ir jų sprendimo būdai
 
 Išorinio domeno konfigūraciją gali būti atnaujinta, kaip paaiškinta toliau pateiktuose „Microsoft“ žinių bazės straipsniuose.
 
 - [ADFS susiejimo sertifikato galiojimas baigiasi](adfs-federation-certificate-expiring.md)
+
+- ["Office 365" "ADFS" nustatymas naudoti bendrąją autentifikacija](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  "įvyko klaida jungiantis prie svetainės" iš AD FS, kai išorinis vartotojas prisijungia prie "Microsoft 365", "Azure" arba "Intune".
 
