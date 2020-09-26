@@ -2,7 +2,7 @@
 title: Prenumeratos būsena
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773495"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286966"
 ---
 # <a name="subscription-status"></a>Prenumeratos būsena
 
-Prenumeratos būseną galima rasti "Microsoft 365" administravimo centro puslapyje **produktai** .
+Prenumeratos būsena, galiojimo pabaigos data ir licencijų skaičius galima rasti "Microsoft 365" administravimo centro puslapyje **produktai** .
 
-1. Eikite į **produktų atsiskaitymą**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Jei kyla problemų dėl kurios nors prenumeratos būsenos, prenumeratos išsamios informacijos sekcijoje atsiskaitymo dalyje matysite raudoną įspėjimo piktogramą arba "baigėsi" arba "išjungta" būseną.
-
-3. Jei norite iš naujo aktyvinti nebegaliojančią arba išjungtą prenumeratą, spustelėkite **iš naujo aktyvinti dabar**.
-
-**Galiojimo pabaigos data**
-
-1. Eikite į **produktų atsiskaitymą**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Atsižvelgiant **į rodinį**, galiojimo pabaigos data bus rodoma dešiniajame stulpelyje **data** arba prenumeratos išsamios informacijos, esančios šalia galiojimo pabaigos, sekcijoje **atsiskaitymas** .
-
-**Licencijas**
-
-Įsigytų ir naudojamų licencijų skaičius yra įtrauktas į **produktų paketą produktų** puslapyje.
-
+1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pagal numatytuosius numatytuosius, skirtuke **produktai** matysite visas prenumeratas ir jų būseną (aktyvi, galiojimas baigėsi, išjungta arba panaikinta). Norėdami peržiūrėti visų prenumeratų pogrupį, pasirinkite filtro piktogramą, tada pasirinkite **prenumeratos būseną** , kurią norite matyti.
+3. Norėdami iš naujo suaktyvinti nebegaliojančią arba išjungtą prenumeratą, pasirinkite **daugiau veiksmų** (trys taškai), tada pasirinkite **iš naujo suaktyvinti šią prenumeratą**.
+4. Puslapyje **jūsų produktai** taip pat rodoma ši informacija:
+    - Vartotojams priskirtų licencijų skaičius rodomas stulpelyje **priskirtos licencijos** .
+    - Visas produktų, įtrauktų į produktų paketą, licencijų skaičius rodomas stulpelyje **nupirktas kiekis** .
+    - Galiojimo pabaigos arba atnaujinimo data stulpelyje **prenumeratos būsena** .
+    - Mokėjimo už kiekvieną prenumeratą mokėjimo būdas rodomas stulpelyje **apmokėta** .
+    - Atsiskaitymo paskyra, susieta su kiekviena prenumerata, rodoma stulpelyje **atsiskaitymo paskyra** .
+5. Norėdami įtraukti arba pašalinti stulpelius, pasirinkite **pasirinkti stulpelius**.

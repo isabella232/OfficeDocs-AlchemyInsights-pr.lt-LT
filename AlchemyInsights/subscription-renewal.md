@@ -2,7 +2,7 @@
 title: Prenumeratos atnaujinimas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 36884e924e50df72f9eb53c713f93116271564ba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808391"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286858"
 ---
 # <a name="subscription-recurring-billing"></a>Prenumeratos periodinis atsiskaitymas
 
-Jei norite sužinoti, kada bus išrašyta jūsų mėnesinė arba metinė prenumerata (jei įjungtas **Periodinis atsiskaitymas** ) arba galiojimas baigiasi (jei **Periodinis atsiskaitymas** yra išjungtas):
+Jei norite sužinoti, kada yra išrašyta mėnesinė arba metinė prenumerata (jei įjungtas **Periodinis atsiskaitymas** ) arba kai galiojimo laikas baigėsi (jei **Periodinis atsiskaitymas** išjungtas), atlikite šiuos veiksmus:
   
-1. Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Prenumeratos, apie kurią norite sužinoti daugiau, dalyje **atsiskaitymas**Peržiūrėkite datą **atnaujina** arba **baigiasi** .
-
-4. Norėdami pakeisti, pasirinkite **Redaguoti** , tada srityje **periodinio atsiskaitymo** parametrai **pasirinkite išjungti, kad** išjungtumėte. Jei periodinis atsiskaitymas jau išjungtas, pasirinkite **kas mėnesį** arba **vieną kartą** , kad jį įjungtumėte.
+1. Administravimo centre eikite į puslapį **atsiskaitymo** \> [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Skirtuke **produktai** raskite prenumeratą, apie kurią norite sužinoti daugiau. Stulpelyje **prenumeratos būsena** rodoma atnaujinimo arba galiojimo pabaigos data.
+3. Norėdami pakeisti, pasirinkite **daugiau veiksmų** (trys taškai), tada pasirinkite **Redaguoti periodinį atsiskaitymą**.
+4. Srityje **Redaguoti periodinį atsiskaitymą** pasirinkite **įjungti**, **įjungti, atnaujinti**arba **išjungti**.
+5. Pasirinkite **įrašyti**.
 
 Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
