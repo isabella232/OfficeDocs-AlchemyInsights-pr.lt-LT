@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795576"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295614"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="ca868-102">Slaptažodžių nustatymas niekada nesibaigs</span><span class="sxs-lookup"><span data-stu-id="ca868-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="24164-102">Slaptažodžių nustatymas niekada nesibaigs</span><span class="sxs-lookup"><span data-stu-id="24164-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="ca868-103">Norėdami nustatyti, kad visi slaptažodžiai niekada nesibaigtų, "Microsoft 365" administravimo centre eikite į puslapį **parametrų**  >  [saugos &amp; Privatumas](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="ca868-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="ca868-104">Pasirinkite **Redaguoti** prie **slaptažodžių strategijos**ir įjunkite slankiklį į **įjungta**.</span><span class="sxs-lookup"><span data-stu-id="ca868-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="24164-103">Norėdami nustatyti, kad visi slaptažodžiai niekada nesibaigtų, "Microsoft 365" administravimo centre eikite į **Parametrai**  >  \*\*organizacijos parametrai > [saugos ir privatumo](https://portal.office.com/adminportal/home#/settings/security)  >  [slaptažodžio galiojimo laikas](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) \*\* ir panaikinkite "nustatyti vartotojų slaptažodžius, kad jie pasibaigtų po kelių dienų".</span><span class="sxs-lookup"><span data-stu-id="24164-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > **Org Settings > [Security and privacy](https://portal.office.com/adminportal/home#/settings/security) > [Password Expiration Policy](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** and un-check “Set user passwords to expire after a number of days”.</span></span>
   
-<span data-ttu-id="ca868-105">Išsamesnės informacijos ieškokite:</span><span class="sxs-lookup"><span data-stu-id="ca868-105">For more detailed information see:</span></span> 
+<span data-ttu-id="24164-104">Išsamesnės informacijos ieškokite:</span><span class="sxs-lookup"><span data-stu-id="24164-104">For more detailed information see:</span></span>
 
-- [<span data-ttu-id="ca868-106">Nustatykite savo organizacijos slaptažodžių galiojimo strategiją.</span><span class="sxs-lookup"><span data-stu-id="ca868-106">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [<span data-ttu-id="24164-105">Nustatykite savo organizacijos slaptažodžių galiojimo strategiją.</span><span class="sxs-lookup"><span data-stu-id="24164-105">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [<span data-ttu-id="ca868-107">Nustatyti slaptažodį, kurio galiojimas niekada nesibaigtų konkretiems vartotojams</span><span class="sxs-lookup"><span data-stu-id="ca868-107">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [<span data-ttu-id="24164-106">Nustatyti slaptažodį, kurio galiojimas niekada nesibaigtų konkretiems vartotojams</span><span class="sxs-lookup"><span data-stu-id="24164-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [<span data-ttu-id="ca868-108">Slaptažodis turi būti tenkinant sudėtingumo reikalavimus</span><span class="sxs-lookup"><span data-stu-id="ca868-108">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [<span data-ttu-id="24164-107">Slaptažodis turi būti tenkinant sudėtingumo reikalavimus</span><span class="sxs-lookup"><span data-stu-id="24164-107">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
