@@ -2,7 +2,7 @@
 title: Per daug licencijų?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736035"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307242"
 ---
 # <a name="too-many-licenses"></a>Per daug licencijų?
 
@@ -28,9 +28,9 @@ Jei manote, kad jums mokami per daug licencijų, tai paprastai lėmė, kad įsig
 **Įsigytų licencijų skaičiaus sumažinimas**
   
 1. Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. Skirtuke **produktai** pasirinkite prenumeratą, kurią norite keisti.
+3. Puslapyje išsami prenumeratos informacija pasirinkite **pašalinti licencijas**.
+4. Srities **pašalinti licencijas** dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių, kurį norite naudoti šioje prenumeratoje. Pavyzdžiui, jei turite "100" licencijas ir norite pašalinti 25 iš jų, įeikite į "75".
+5. Pasirinkite **įrašyti**.
 
-2. Raskite prenumeratą, kurios licencijas norite pašalinti, tada pasirinkite **Įtraukti/šalinti licencijas**.
-
-3. Lauke **Bendra licencija** įveskite bendrą licencijų skaičių, kurio reikia šiai prenumeratai, tada pasirinkite **pateikti pakeitimą**. Pavyzdžiui, jei turite "110" licencijas ir norite pašalinti 5 iš jų, į "105".
-
-Norėdami sužinoti daugiau, peržiūrėkite [licencijų šalinimas iš "Microsoft 365" verslui prenumeratos](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Norėdami sužinoti daugiau, žiūrėkite [įsigyti arba pašalinti prenumeratos licencijas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

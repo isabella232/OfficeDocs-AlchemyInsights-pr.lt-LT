@@ -1,8 +1,8 @@
 ---
 title: Jūsų produktai
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799248"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307026"
 ---
 # <a name="your-products"></a>Jūsų produktai
 
-Jūsų organizacijai priklausančias prenumeratas galite surasti puslapyje **atsiskaitymas**su  >  **[produktais](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Toliau pateikiami keli šio puslapio akcentai ir saitai, kad būtų pateikiama daugiau informacijos apie kiekvieną funkciją:
+Jūsų organizacijai priklausančias prenumeratas galite surasti puslapyje **atsiskaitymas**su  >  [produktais](https://go.microsoft.com/fwlink/p/?linkid=842054) . Toliau pateikiami keli šio puslapio akcentai ir saitai, kad būtų pateikta daugiau informacijos apie kiekvieną funkciją:
 
-1. Valdykite kiekvienos prenumeratos įsigytų licencijų skaičių kartu su tuo, kiek jos naudojamos.  **Pastaba**: nenaudojamos licencijos (nepriskirtos vartotojui) vis dar apmokestinamos.  Jei nepanaudotos licencijos nebus apmokestinamos, sumažinkite įsigytų licencijų skaičių. Informacijos, kaip įtraukti arba pašalinti licencijas iš prenumeratos, rasite [kaip įtraukti arba sumažinti licencijas](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
-
-2. Peržiūrėkite prenumeratos atnaujinimo arba galiojimo pabaigos datą.  Galite valdyti atnaujinimą spustelėję saitą **Redaguoti** , esantį prie atnaujinimo **/galiojimo pabaigos** datos.  Sužinokite, kaip [atnaujinti "Microsoft 365" verslui](https://go.microsoft.com/fwlink/?linkid=2119216) daugiau informacijos apie tai, kaip valdyti periodinį atsiskaitymą.
-
-3. [Iš naujo suaktyvinti nebegaliojančią arba išjungtą prenumeratą](https://go.microsoft.com/fwlink/?linkid=2117519).
-
-4. [Redaguokite mokėjimo už produktų paketą mokėjimo būdą](https://go.microsoft.com/fwlink/?linkid=2117167).
-
-5. [Pakeiskite, kaip dažnai esate apmokestinti](https://go.microsoft.com/fwlink/?linkid=2119112).
-
+1. Peržiūrėkite priskirtų licencijų skaičių ir kiek licencijų buvo įsigyta kiekvienai prenumeratai.
+    > [!NOTE]
+    > Vis tiek esate apmokestinami už licencijas, kurios nėra naudojamos (nepriskirtos vartotojui). Jei nepanaudotos licencijos nebus apmokestinamos, sumažinkite įsigytų licencijų skaičių. Informacijos, kaip įtraukti arba pašalinti licencijas iš prenumeratos, rasite [kaip įtraukti arba sumažinti licencijas](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+2. Peržiūrėkite kiekvienos prenumeratos būseną. Norėdami sužinoti, kaip iš naujo suaktyvinti prenumeratą, skaitykite [iš naujo suaktyvinti prenumeratą](reactivate-your-subscription.md).
+3. Peržiūrėkite kiekvienos prenumeratos atnaujinimo arba galiojimo pabaigos datą. Galite valdyti atnaujinimą pasirinkę prenumeratą, tada pasirinkite **Redaguoti periodinį atsiskaitymą**. Norėdami sužinoti, kaip valdyti periodinį atsiskaitymą, peržiūrėkite [periodinių sąskaitų valdymas](manage-auto-renewal.md).
+4. Peržiūrėkite kiekvienai prenumeratai naudotą mokėjimo būdą. Norėdami sužinoti, kaip pakeisti mokėjimo būdą, skaitykite [mokėjimo būdo keitimas](change-payment-method.md).
+5. [Pakeiskite, kaip dažnai mokate](change-how-often-you-pay.md).
 6. [Atšaukti prenumeratą](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Galite įsigyti papildomų prenumeratų iš **atsiskaitymo**  >  [**pirkimo paslaugų**](https://go.microsoft.com/fwlink/p/?linkid=868433) puslapio.
+Galite įsigyti papildomų prenumeratų iš **atsiskaitymo**  >  [pirkimo paslaugų](https://go.microsoft.com/fwlink/p/?linkid=868433) puslapio.
