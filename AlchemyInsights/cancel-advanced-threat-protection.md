@@ -1,8 +1,8 @@
 ---
 title: Atšaukti patobulintų grėsmių apsaugą
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683698"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416267"
 ---
-# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="c2d73-102">Atšaukti patobulintų grėsmių apsaugą</span><span class="sxs-lookup"><span data-stu-id="c2d73-102">Cancel Advanced Threat Protection</span></span>
+# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="83e71-102">Atšaukti patobulintų grėsmių apsaugą</span><span class="sxs-lookup"><span data-stu-id="83e71-102">Cancel Advanced Threat Protection</span></span>
 
-<span data-ttu-id="c2d73-103">Išplėstinė apsauga nuo grėsmių galima atšaukti **"Microsoft 365" administravimo centre**.</span><span class="sxs-lookup"><span data-stu-id="c2d73-103">Advanced Threat Protection can be canceled in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="83e71-103">Administratoriai gali atšaukti savo organizacijos "Microsoft 365" administravimo centre patobulintų grėsmių apsaugos prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="83e71-103">Admins can cancel the Advanced Threat Protection subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="c2d73-104">Eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="c2d73-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="c2d73-105">Raskite išplėstinį grėsmės apsaugos planą, kad atšauktumėte.</span><span class="sxs-lookup"><span data-stu-id="c2d73-105">Locate the Advanced Threat Protection Plan to cancel.</span></span>
-3. <span data-ttu-id="c2d73-106">Spustelėkite **atšaukti prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="c2d73-106">Click **Cancel subscription**.</span></span>
+1. <span data-ttu-id="83e71-104">Eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="83e71-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="83e71-105">Skirtuke **produktai** raskite išplėstinį grėsmės apsaugos planą, kurį norite atšaukti.</span><span class="sxs-lookup"><span data-stu-id="83e71-105">On the **Products** tab, find the Advanced Threat Protection plan that you want to cancel.</span></span> <span data-ttu-id="83e71-106">Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="83e71-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="83e71-107">Srityje **atšaukti prenumeratą** pasirinkite priežastį, kodėl atšaukiate.</span><span class="sxs-lookup"><span data-stu-id="83e71-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="83e71-108">Pasirinktinai pateikite atsiliepimų.</span><span class="sxs-lookup"><span data-stu-id="83e71-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="83e71-109">Pasirinkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="83e71-109">Select **Save**.</span></span>
 
-<span data-ttu-id="c2d73-107">Grąžinimas: bet koks proporcingai grąžinamas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.</span><span class="sxs-lookup"><span data-stu-id="c2d73-107">Refund: Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="83e71-110">**Grąžinimas:** Bet koks proporcintas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.</span><span class="sxs-lookup"><span data-stu-id="83e71-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="c2d73-108">**Pastaba**: Jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir peržiūrėkite parinktį **atšaukti prenumeratą** dalyje **Parametrai & veiksmai**.</span><span class="sxs-lookup"><span data-stu-id="c2d73-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="c2d73-109">Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="c2d73-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="83e71-111">Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="83e71-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
