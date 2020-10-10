@@ -2,36 +2,32 @@
 title: "\"Visio\" prenumeratos atšaukimas"
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: af41ef0469d475b1964d721ab52f175bf8812ffc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683302"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416397"
 ---
 # <a name="cancel-visio-subscription"></a>"Visio" prenumeratos atšaukimas
 
-Administratoriai gali atšaukti savo organizacijos "Visio" prenumeratą iš **"Microsoft" 365 administravimo centro**.
+Administratoriai gali atšaukti savo organizacijos "Visio" prenumeratą "Microsoft" 365 administravimo centre.
 
-1. Eikite į puslapį **atsiskaitymo > [savo produktus](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Eikite į puslapį **atsiskaitymo** \> [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Skirtuke **produktai** raskite "Visio" prenumeratą, kurią norite atšaukti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.
+3. Srityje **atšaukti prenumeratą** pasirinkite priežastį, kodėl atšaukiate. Pasirinktinai pateikite atsiliepimų.
+4. Pasirinkite **įrašyti**.
 
-2. Raskite "Visio" planą, kad atšauktumėte.
-
-3. Spustelėkite **atšaukti prenumeratą**.
-
-**Grąžinimas: bet koks proporcingai grąžinamas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.**
-
-**Pastaba**: Jei nematote parinkties atšaukti, spustelėkite prenumeratą, kad peržiūrėtumėte išsamią informaciją, ir peržiūrėkite parinktį **atšaukti prenumeratą** dalyje **Parametrai & veiksmai**.
+**Grąžinimas:** Bet koks proporcintas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.
 
 Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
