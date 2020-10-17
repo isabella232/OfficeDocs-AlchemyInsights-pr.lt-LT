@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473109"
+ms.locfileid: "48478345"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Pašto peradresavimo blokavimas arba atblokavimas
 
 Norėdami įjungti arba išjungti konkrečios pašto dėžutės pašto peradresavimą, skaitykite [pašto peradresavimo konfigūravimas](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Nuomotojo lygmenyje išorinio peradresavimo valdymas atliekamas naudojant siuntimo pašto šiukšlių strategiją. Galite patikrinti siuntimo pašto šiukšlių filtravimo strategiją iš saugos ir atitikties centro [čia] ( https://protection.office.com/antispam) arba naudodami [komandą Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Nuomotojo lygmenyje išorinio peradresavimo valdymas atliekamas naudojant siuntimo pašto šiukšlių strategiją. Galite patikrinti siuntimo pašto šiukšlių filtravimo strategiją iš saugos ir atitikties centro [čia](https://protection.office.com/antispam) arba naudodami [komandą Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
 Jei gaunate šį klaidos pranešimą: **"550 5.7.520" prieiga uždrausta, jūsų organizacija neleidžia naudoti išorinio peradresavimo "**, įsitikinkite, kad strategija sukonfigūruota įgalinti išorinį automatinį persiuntimą.
 
