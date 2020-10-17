@@ -2,8 +2,8 @@
 title: Kaip įsigyti "Microsoft" 365 taikomųjų programų licencijas verslui
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781111"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488889"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kaip įsigyti "Microsoft" 365 taikomųjų programų licencijas verslui
 
-Priskirdami licencijas vartotojams, galite sužinoti, kad turite įsigyti papildomų licencijų. Norėdami tai atlikti:
+Priskirdami licencijas vartotojams, galite pastebėti, kad jums reikia įsigyti papildomų licencijų. Atlikite šiuos veiksmus:
   
-1. Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Skirtuke **produktai** raskite prenumeratą, kurią norite atnaujinti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **pirkti licencijas**.
+3. Srities **įsigyti licencijas** dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių, kurį norite naudoti šioje prenumeratoje. Pavyzdžiui, jei turite "100" licencijas ir norite įtraukti dar 25, įveskite 125.
+4. Pasirinkite **įrašyti**.
 
-2. Raskite prenumeratą, į kurią norite įtraukti licencijų, tada pasirinkite **Įtraukti/šalinti licencijas**.
-
-3. Lauke **Bendra licencija** įveskite bendrą licencijų skaičių, kurio reikia šiai prenumeratai, tada pasirinkite **pateikti pakeitimą**. Pavyzdžiui, jei turite "100" licencijas ir turite įtraukti dar 5, įveskite 105.
-
-Jei norite sužinoti daugiau, skaitykite ["Microsoft" 365 taikomųjų programų, skirtų verslui](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses), produktų pirkimas.
+Jei norite sužinoti daugiau, peržiūrėkite ["Microsoft 365" verslui prenumeratos licencijų pirkimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

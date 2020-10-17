@@ -1,8 +1,8 @@
 ---
 title: Licencijų sustabdymas arba pristabdymas
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800184"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488925"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licencijų sustabdymas arba pristabdymas
 
-Norėdami laikinai sustabdyti arba pristabdyti vartotojų licencijas, galite pašalinti licencijas iš **"Microsoft" 365 administravimo centro** ir vėl įtraukti jas vėliau.
+Norėdami laikinai sustabdyti arba pristabdyti licencijos naudojimą, galite pašalinti licencijas iš "Microsoft" 365 administravimo centro, tada vėl įtraukti jas vėliau.
 
-1. Prieš pašalindami iš savo produktų paketą, pirmiausia turite [panaikinti licencijų priskyrimą](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) vartotojams.
+1. Prieš pašalindami licencijas iš prenumeratos, pirmiausia turite pašalinti [vartotojų licencijas](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+2. Tada eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+3. Skirtuke **produktai** pasirinkite prenumeratą, kurią norite atnaujinti.
+4. Puslapyje išsami prenumeratos informacija pasirinkite **pašalinti licencijas**.
+5. Srityje **pašalinti licencijas** , lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių, kurį norite naudoti šioje prenumeratoje, tada pasirinkite **įrašyti**. Pavyzdžiui, jei turite "100" licencijas ir norite sustabdyti arba pristabdyti 25, tada įveskite "75" kaip visas savo prenumeratos licencijas.
 
-2. Tada eikite į **atsiskaitymas > [savo produktus](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-3. Puslapyje **produktai** raskite prenumeratą, kurios licencijas norite pašalinti, tada spustelėkite **Pridėti/šalinti licencijas**.
-
-4. Lauke bendra licencija įveskite bendrą licencijų skaičių, kurio reikia šiai prenumeratai, tada spustelėkite **pateikti pakeitimą**. Pavyzdžiui, jei turite "100" licencijas ir norite laikinai sustabdyti arba pristabdyti "50", įveskite 50 kaip bendras jūsų produktų paketą.
-
-Daugiau informacijos žr. [ Prenumeratos licencijų tvarkymas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+Daugiau informacijos žr. [ Prenumeratos licencijų tvarkymas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

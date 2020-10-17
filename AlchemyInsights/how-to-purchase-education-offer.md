@@ -2,8 +2,8 @@
 title: Kaip įsigyti švietimo įstaigoms skirtą pasiūlymą
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703668"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489285"
 ---
-# <a name="how-to-purchase-education-offer"></a>Kaip įsigyti švietimo įstaigoms skirtą pasiūlymą
+# <a name="how-to-purchase-an-education-offer"></a>Kaip įsigyti švietimo įstaigos pasiūlymą
 
 Gavote patvirtinimą įsigyti „Office 365 Education“. Norėdami įsigyti:
   
-1. Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Pasirinkite **studentams arba mokomajam personalui**skirtą bandomąją versiją.
-
-3. Sekcijoje **licencijos** pasirinkite **įsigyti prenumeratą**.
-
+1. Administravimo centre eikite į puslapį **atsiskaitymo** \> [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Skirtuke **produktai** pasirinkite **studentams arba mokomajam personalui**skirtą bandomąją versiją.
+3. Puslapio išsami prenumeratos informacija sekcijoje **licencija** pasirinkite **pirkti mokamą prenumeratą dabar**.
 4. Atlikite likusius veiksmus, kad patikrintumėte.
 
-Jei norite įsigyti prenumeratą, išskyrus tai, kas yra bandomąja versija, eikite į puslapį **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) ir pasirinkite iš sąrašo, esančio dalyje **švietimo planai**.
+Jei norite įsigyti kitą prenumeratą nei bandomojo produktų paketą, eikite į puslapį **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) . Dalyje **švietimo planai**pasirinkite norimą planą.
 
-Norėdami sužinoti daugiau, žiūrėkite [įsigyti tą patį planą kaip bandomosios versijos](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos įsigijimas iš nemokamos bandomosios versijos](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).

@@ -2,7 +2,7 @@
 title: Prenumeratos aktyvinimas iš naujo
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,23 +13,20 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 1e0c64e468d1d3aa12b2fb08710910e48521677a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05ce5b6d8916db795919036aee1b3687a809bf93
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751539"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489015"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>"Microsoft 365" prenumeratos aktyvinimas iš naujo
 
 Jei jūsų prenumeratos galiojimas baigėsi, "Microsoft" išjungė arba atšaukėte ją prenumeratos termino viduryje, galite iš naujo suaktyvinti administravimo centre.
   
-1. Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Pasirinkite prenumeratą, kurią norite aktyvinti iš naujo. Sekcijoje atsiskaitymas pasirinkite **Aktyvinti iš naujo**.
-
-    Jei nematote aktyvinti **iš naujo** kaip galimas veiksmas, skambinkite į [palaikymo tarnybą](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) , kad iš naujo suaktyvintumėte savo prenumeratą.
-
-3. Patvirtinkite savo mokėjimo duomenis. Jau esančią mokėjimo informaciją galite atnaujinti čia. Baigę įvesti mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
+1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Skirtuke **produktai** raskite prenumeratą, kurią norite aktyvinti iš naujo. Pasirinkite **daugiau veiksmų** (trys taškai), tada pasirinkite **iš naujo suaktyvinti šią prenumeratą**.
+3. Srityje iš **naujo suaktyvinti šią prenumeratą** pasirinkite mokėjimo būdą išplečiamajame sąraše arba pasirinkite **įtraukti mokėjimo būdą**.
+4. Pasirinkite **įrašyti**.
 
 Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
