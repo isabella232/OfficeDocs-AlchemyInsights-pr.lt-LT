@@ -2,8 +2,8 @@
 title: Kaip įsigyti švietimo įstaigoms skirtą pasiūlymą
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703668"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489285"
 ---
-# <a name="how-to-purchase-education-offer"></a><span data-ttu-id="6cd4d-102">Kaip įsigyti švietimo įstaigoms skirtą pasiūlymą</span><span class="sxs-lookup"><span data-stu-id="6cd4d-102">How to purchase education offer</span></span>
+# <a name="how-to-purchase-an-education-offer"></a><span data-ttu-id="0d234-102">Kaip įsigyti švietimo įstaigos pasiūlymą</span><span class="sxs-lookup"><span data-stu-id="0d234-102">How to purchase an education offer</span></span>
 
-<span data-ttu-id="6cd4d-103">Gavote patvirtinimą įsigyti „Office 365 Education“.</span><span class="sxs-lookup"><span data-stu-id="6cd4d-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="6cd4d-104">Norėdami įsigyti:</span><span class="sxs-lookup"><span data-stu-id="6cd4d-104">To purchase:</span></span>
+<span data-ttu-id="0d234-103">Gavote patvirtinimą įsigyti „Office 365 Education“.</span><span class="sxs-lookup"><span data-stu-id="0d234-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="0d234-104">Norėdami įsigyti:</span><span class="sxs-lookup"><span data-stu-id="0d234-104">To purchase:</span></span>
   
-1. <span data-ttu-id="6cd4d-105">Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="6cd4d-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="0d234-105">Administravimo centre eikite į puslapį **atsiskaitymo** \> [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="0d234-105">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="0d234-106">Skirtuke **produktai** pasirinkite **studentams arba mokomajam personalui**skirtą bandomąją versiją.</span><span class="sxs-lookup"><span data-stu-id="0d234-106">On the **Products** tab, select the trial for **Students or Faculty**.</span></span>
+3. <span data-ttu-id="0d234-107">Puslapio išsami prenumeratos informacija sekcijoje **licencija** pasirinkite **pirkti mokamą prenumeratą dabar**.</span><span class="sxs-lookup"><span data-stu-id="0d234-107">On the subscription details page, in the **License** section, select **Buy paid subscription now**.</span></span>
+4. <span data-ttu-id="0d234-108">Atlikite likusius veiksmus, kad patikrintumėte.</span><span class="sxs-lookup"><span data-stu-id="0d234-108">Follow the remaining steps to check out.</span></span>
 
-2. <span data-ttu-id="6cd4d-106">Pasirinkite **studentams arba mokomajam personalui**skirtą bandomąją versiją.</span><span class="sxs-lookup"><span data-stu-id="6cd4d-106">Choose the trial for **Students or Faculty**.</span></span>
+<span data-ttu-id="0d234-109">Jei norite įsigyti kitą prenumeratą nei bandomojo produktų paketą, eikite į puslapį **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="0d234-109">If you want to buy a different subscription than your trial subscription, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span> <span data-ttu-id="0d234-110">Dalyje **švietimo planai**pasirinkite norimą planą.</span><span class="sxs-lookup"><span data-stu-id="0d234-110">Under **Education Plans**, select the plan that you want.</span></span>
 
-3. <span data-ttu-id="6cd4d-107">Sekcijoje **licencijos** pasirinkite **įsigyti prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="6cd4d-107">In the **Licenses** section, choose **Purchase subscription**.</span></span>
-
-4. <span data-ttu-id="6cd4d-108">Atlikite likusius veiksmus, kad patikrintumėte.</span><span class="sxs-lookup"><span data-stu-id="6cd4d-108">Follow the remaining steps to check out.</span></span>
-
-<span data-ttu-id="6cd4d-109">Jei norite įsigyti prenumeratą, išskyrus tai, kas yra bandomąja versija, eikite į puslapį **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) ir pasirinkite iš sąrašo, esančio dalyje **švietimo planai**.</span><span class="sxs-lookup"><span data-stu-id="6cd4d-109">If you would like to purchase a subscription other than what is in trial, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, and choose from the list under **Education Plans**.</span></span>
-
-<span data-ttu-id="6cd4d-110">Norėdami sužinoti daugiau, žiūrėkite [įsigyti tą patį planą kaip bandomosios versijos](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).</span><span class="sxs-lookup"><span data-stu-id="6cd4d-110">To learn more, see [Buy the same plan as your trial](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).</span></span>
+<span data-ttu-id="0d234-111">Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos įsigijimas iš nemokamos bandomosios versijos](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).</span><span class="sxs-lookup"><span data-stu-id="0d234-111">To learn more, see [Buy a subscription from your free trial](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).</span></span>
