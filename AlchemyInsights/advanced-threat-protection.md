@@ -1,5 +1,5 @@
 ---
-title: "\"Office 365\" Išplėstinė apsauga nuo grėsmių"
+title: "\"Microsoft Defender for Office 365\""
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696629"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801235"
 ---
-# <a name="office-365-advanced-threat-protection"></a>"Office 365" Išplėstinė apsauga nuo grėsmių
+# <a name="microsoft-defender-for-office-365"></a>"Microsoft Defender for Office 365"
 
-- Saugūs priedai, saugūs saitai ir apsauga nuo sukčiavimo yra "Office 365" išplėstinės grėsmės apsauga (ATP) dalis. "Enterprise E5", "Education A5" ir "Microsoft 365 Business Premium" apima ATP. Visiems kitiems planams reikia priedo ATP prenumeratos.
+- Saugūs priedai, saugūs saitai ir apsauga nuo sukčiavimo apsimetant priklauso "Microsoft Defender", skirto "Office 365" (ATP). "Enterprise E5", "Education A5" ir "Microsoft 365 Business Premium" apima ATP. Visiems kitiems planams reikia priedo ATP prenumeratos.
 
 - Turite priskirti reikiamas licencijas, kad apsaugotumėte savo vartotojus "Office 365 ATP". Peržiūrėkite [šią temą](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) instrukcijas, kaip masiškai taikyti licencijas vartotojams.
 
-- Visuotiniai administratoriai arba saugos administratoriai gali pasiekti "Office 365 ATP" funkcijas saugos & atitikties centre **grėsmių valdymo** \> **strategijoje**.
+- Visuotiniai administratoriai arba saugos administratoriai gali pasiekti "Office 365 ATP" funkcijas saugos & atitikties centre **grėsmių valdymo** \> **strategijoje** .
 
 - Saugius priedus ir saugaus susiejimo strategijas galima aprėpčiai jums visą organizaciją, konkrečius domenus arba mažesnes vartotojų grupes.
 

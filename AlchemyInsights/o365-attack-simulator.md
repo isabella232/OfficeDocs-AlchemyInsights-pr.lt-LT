@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759227"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801559"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>"Microsoft 365" atakos simuliatorius
 
-- Ar trūksta atakos treniruoklio? Atakos treniruokliui reikia " **office 365" išplėstinės grėsmės apsaugos plano 2 (ATP planas 2)** arba " **Office 365 Enterprise E5**". Atakos simuliatorius **nėra** įtrauktas į "Office 365" išplėstinės grėsmės apsaugos planą 1 (ATP planas 1), "Office 365 Enterprise E3" arba bet kurias "Microsoft 365" taikomąsias programas verslui prenumeratos.
+- Ar trūksta atakos treniruoklio? Atakos simuliatorius reikalauja **"Microsoft Defender" "office 365" plano 2 (ATP 2 planas) arba "** **Office 365 Enterprise E5** ". Atakos **simuliatorius neįtrauktas į** "Microsoft Defender", skirtą "Office 365" 1 planas (ATP 1 planas), "Office 365 Enterprise E3" arba bet kurią "Microsoft 365" verslui prenumeratų taikomąsias programas.
 
 - Paskyrai, kurią naudojate norėdami inicijuoti modeliuojamoms atakoms, reikia visuotinių administratoriaus ar saugos administratoriaus teisių ir kelių dalių autentifikavimo (MFA). Daugiau informacijos apie atakos imitatoriaus reikalavimus rasite [šioje temoje](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759227"
 
 - Svarbūs dalykai, kuriuos reikia žinoti apie " **Spear phishing** " pridėti modeliavimų:
 
-  - Pagal dizainą negalite pateikti " **phishing" prisijungimo serverio URL**pasirinktinio reikšmės.
+  - Pagal dizainą negalite pateikti " **phishing" prisijungimo serverio URL** pasirinktinio reikšmės.
 
   - Jei gavėjas naudoja [ataskaitos pranešimo priedą įgalinti](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) , kad pranešimas būtų praneštas kaip sukčiavimas apsimetant, galite negauti pranešimo įspėjimų (nes tai sumodeliuotas išpuolis).
 

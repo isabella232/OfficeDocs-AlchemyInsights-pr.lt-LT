@@ -1,5 +1,5 @@
 ---
-title: Įsigykite "Office 365" išplėstinę apsaugą nuo grėsmių
+title: Įsigykite "Microsoft Defender", skirtą "Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693563"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801155"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Įsigykite "Office 365" išplėstinę apsaugą nuo grėsmių
+# <a name="purchase-microsoft-defender-for-office-365"></a>Įsigykite "Microsoft Defender", skirtą "Office 365"
 
-"Office 365" Išplėstinė grėsmių apsauga (ATP) yra įtraukta į tam tikras prenumeratas, pvz., "Microsoft 365 E5", "Office 365 E5", "Office 365 A5" ir "Microsoft 365 Business Premium" Jei jūsų prenumeratoje nėra "Office 365 ATP", galite įsigyti [ATP planą 1 arba ATP 2 planą](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kaip priedą prie tam tikros prenumeratos. Jei norite įsigyti "Microsoft 365" administravimo centre:
+"Microsoft Defender for Office 365 (ATP) yra įtrauktas į tam tikras prenumeratas, pvz.," Microsoft 365 E5 "," Office 365 E5 "," Office 365 A5 "ir" Microsoft 365 Business Premium ". Jei jūsų prenumeratoje nėra "Office 365 ATP", galite įsigyti [ATP planą 1 arba ATP 2 planą](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kaip priedą prie tam tikros prenumeratos. Jei norite įsigyti "Microsoft 365" administravimo centre:
 
 1. Eikite į **atsiskaitymo**   >   [pirkimų paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Pasirinkite **priedų**  puslapį iš **kitų kategorijų, kurios gali jus sudominti.**
