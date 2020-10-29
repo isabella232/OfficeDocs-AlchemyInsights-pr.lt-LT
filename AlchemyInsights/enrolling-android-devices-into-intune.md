@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784315"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791266"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>"Android" įrenginių konvertavimas į "Intune"
 
-Intune palaiko šių "Android" įrenginių registraciją:
-- "Samsung KNOX and Zebra"
-- "Android Enterprise" darbo profilis
-- Skirta "Android" įmonė
-- Visiškai valdoma "Android" įmonė
+Jei norite perkelti vartotojus iš "Android" įrenginių administratoriaus įtraukimo į "Android Enterprise", peržiūrėkite: [perkelkite "Android" įrenginius iš įrenginio administratoriaus į darbo profilių valdymą](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Prieš nustatydami "Android" įrenginiams skirtą registraciją, [Peržiūrėkite išankstines priemones] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune palaiko šių "Android" įrenginių registraciją:  
 
-Informacijos apie trikčių diagnostikos įrenginio registraciją apskritai ir kai kurias "Android" registracijos klaidas ieškokite [įrenginio įtraukimo į "Microsoft Intune" trikčių šalinimas](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- ["Samsung KNOX", Zebra, įrenginio administratorius](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- ["Android Enterprise" darbo profilis](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Skirta "Android" įmonė](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Visiškai valdoma "Android" įmonė](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Taip pat galite naudoti [turinį, aprašantį "Intune" trikčių diagnostikos diską](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , kad nustatytumėte, ką jūsų vartotojų įtraukimo problemos kyla.
+Prieš nustatydami registraciją "Android" įrenginiams, [Peržiūrėkite išankstines rekvietas](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Informacijos apie trikčių diagnostikos įrenginio registraciją apskritai ir kai kurias "Android" registracijos klaidas ieškokite [įrenginio įtraukimo į "Microsoft Intune" trikčių šalinimas](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Taip pat galite naudoti turinį, aprašantį "Intune" trikčių diagnostikos diską, kad nustatytumėte, ką jūsų vartotojų įtraukimo problemos kyla.
