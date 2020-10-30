@@ -12,19 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
+ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681880"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48804431"
 ---
 # <a name="change-strong-password-requirement"></a>Griežto slaptažodžio reikalavimo keitimas
 
-"Microsoft" pagal numatytuosius numatytuosius slaptažodžius reikalauja tvirtų slaptažodžių. 
+"Microsoft" pagal numatytuosius numatytuosius slaptažodžius reikalauja tvirtų slaptažodžių.
 
-Naudodami "PowerShell", galite išjungti tam tikrų vartotojų sudėtingus slaptažodžius naudodami šią komandą:<br>
-*Set-MsolUser – UserPrincipalName <UserPrincipalName> – strongpasswordrequired $FALSE*
+Naudodami "PowerShell", galite išjungti sudėtingus slaptažodžius konkretiems vartotojams su šiomis komandomis:
+
+`Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
+
+Norėdami išjungti visų vartotojų sudėtingus slaptažodžius, naudokite:
+
+`Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
 - [Daugiau informacijos apie slaptažodžių strategiją](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
 - [Kaip prisijungti prie "Microsoft 365" naudojant "PowerShell"](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
