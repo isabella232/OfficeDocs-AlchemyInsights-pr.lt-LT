@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720069"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947456"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>"SharePoint" perkėlimo buferizavimo su "503" klaidomis
 
-**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
+Rodomas perėjimas prie "SharePoint Online" ir "503" klaidų gavimas. Atlikite toliau nurodytus veiksmus, kad galėtume kuo greičiau jums padėti.
 
-**503 klaidos perkėlus į "SharePoint Online"**
-
-Rodomas perėjimas prie "SharePoint Online" ir "503" klaidų gavimas. Atlikite toliau nurodytus veiksmus, kad galėtume kuo greičiau jums padėti. 
-
-1. Spustelėkite **kreipkitės į palaikymo tarnybą**, tada – **nauja tarnybos užklausa**.
-2. Dalyje pavadinimas ir aprašas įveskite " **SharePoint" perkėlimo buferizavimo su "503**".
+1. Spustelėkite **kreipkitės į palaikymo tarnybą** , tada – **nauja tarnybos užklausa**.
+2. Dalyje pavadinimas ir aprašas įveskite " **SharePoint" perkėlimo buferizavimo su "503** ".
 3. Kai tik bus pateiktas bilietas, atnaujinkite jį su šia informacija:
-    - Kiek liko perkėlimo (pvz., kiek "CBS"?).
+    - Kiek liko perkelti (pvz., kiek "Tonb")?
     - Perkėlimo pradžios ir pabaigos data.
     - Apibūdinkite, kur perkeliate turinį, pvz., "SharePoint Server", Box, GDrive, failų bendrinimo ir kt.
-    - Įvertinkite skaičių buferizavimo klaidų (pvz., x droselio per valandą?) ir kada įvyko buferizavimo funkcija.
-    - Jūsų naudojamą perkėlimo įrankį (pvz., SPMT arba ShareGate).
-
-
+    - Apskaičiuojame buferizavimo klaidų skaičių (pvz., x droselio per valandą) ir kada įvyksta buferizavimas.
+    - Kurį perkėlimo įrankį naudojate (pvz., SPMT arba ShareGate)?
