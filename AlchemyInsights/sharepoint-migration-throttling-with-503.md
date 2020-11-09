@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720069"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947456"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="44c49-102">"SharePoint" perkėlimo buferizavimo su "503" klaidomis</span><span class="sxs-lookup"><span data-stu-id="44c49-102">SharePoint migration throttling with 503 errors</span></span>
+# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="f7402-102">"SharePoint" perkėlimo buferizavimo su "503" klaidomis</span><span class="sxs-lookup"><span data-stu-id="f7402-102">SharePoint migration throttling with 503 errors</span></span>
 
-<span data-ttu-id="44c49-103">**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="44c49-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="f7402-103">Rodomas perėjimas prie "SharePoint Online" ir "503" klaidų gavimas.</span><span class="sxs-lookup"><span data-stu-id="f7402-103">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="f7402-104">Atlikite toliau nurodytus veiksmus, kad galėtume kuo greičiau jums padėti.</span><span class="sxs-lookup"><span data-stu-id="f7402-104">Please follow the steps below so we may assist you as soon as possible.</span></span>
 
-<span data-ttu-id="44c49-104">**503 klaidos perkėlus į "SharePoint Online"**</span><span class="sxs-lookup"><span data-stu-id="44c49-104">**503 errors when migrating to SharePoint Online**</span></span>
-
-<span data-ttu-id="44c49-105">Rodomas perėjimas prie "SharePoint Online" ir "503" klaidų gavimas.</span><span class="sxs-lookup"><span data-stu-id="44c49-105">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="44c49-106">Atlikite toliau nurodytus veiksmus, kad galėtume kuo greičiau jums padėti.</span><span class="sxs-lookup"><span data-stu-id="44c49-106">Please follow the steps below so we may assist you as soon as possible.</span></span> 
-
-1. <span data-ttu-id="44c49-107">Spustelėkite **kreipkitės į palaikymo tarnybą**, tada – **nauja tarnybos užklausa**.</span><span class="sxs-lookup"><span data-stu-id="44c49-107">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="44c49-108">Dalyje pavadinimas ir aprašas įveskite " **SharePoint" perkėlimo buferizavimo su "503**".</span><span class="sxs-lookup"><span data-stu-id="44c49-108">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
-3. <span data-ttu-id="44c49-109">Kai tik bus pateiktas bilietas, atnaujinkite jį su šia informacija:</span><span class="sxs-lookup"><span data-stu-id="44c49-109">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="44c49-110">Kiek liko perkėlimo (pvz., kiek "CBS"?).</span><span class="sxs-lookup"><span data-stu-id="44c49-110">How much left of migration (for example, how many TBs?).</span></span>
-    - <span data-ttu-id="44c49-111">Perkėlimo pradžios ir pabaigos data.</span><span class="sxs-lookup"><span data-stu-id="44c49-111">Migration start and end date.</span></span>
-    - <span data-ttu-id="44c49-112">Apibūdinkite, kur perkeliate turinį, pvz., "SharePoint Server", Box, GDrive, failų bendrinimo ir kt.</span><span class="sxs-lookup"><span data-stu-id="44c49-112">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
-    - <span data-ttu-id="44c49-113">Įvertinkite skaičių buferizavimo klaidų (pvz., x droselio per valandą?) ir kada įvyko buferizavimo funkcija.</span><span class="sxs-lookup"><span data-stu-id="44c49-113">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
-    - <span data-ttu-id="44c49-114">Jūsų naudojamą perkėlimo įrankį (pvz., SPMT arba ShareGate).</span><span class="sxs-lookup"><span data-stu-id="44c49-114">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
-
-
+1. <span data-ttu-id="f7402-105">Spustelėkite **kreipkitės į palaikymo tarnybą** , tada – **nauja tarnybos užklausa**.</span><span class="sxs-lookup"><span data-stu-id="f7402-105">Click **Contact Support** , and then **New Service Request**.</span></span>
+2. <span data-ttu-id="f7402-106">Dalyje pavadinimas ir aprašas įveskite " **SharePoint" perkėlimo buferizavimo su "503** ".</span><span class="sxs-lookup"><span data-stu-id="f7402-106">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
+3. <span data-ttu-id="f7402-107">Kai tik bus pateiktas bilietas, atnaujinkite jį su šia informacija:</span><span class="sxs-lookup"><span data-stu-id="f7402-107">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="f7402-108">Kiek liko perkelti (pvz., kiek "Tonb")?</span><span class="sxs-lookup"><span data-stu-id="f7402-108">How much is left of migration (for example, how many TBs)?</span></span>
+    - <span data-ttu-id="f7402-109">Perkėlimo pradžios ir pabaigos data.</span><span class="sxs-lookup"><span data-stu-id="f7402-109">Migration start and end date.</span></span>
+    - <span data-ttu-id="f7402-110">Apibūdinkite, kur perkeliate turinį, pvz., "SharePoint Server", Box, GDrive, failų bendrinimo ir kt.</span><span class="sxs-lookup"><span data-stu-id="f7402-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc.</span></span>
+    - <span data-ttu-id="f7402-111">Apskaičiuojame buferizavimo klaidų skaičių (pvz., x droselio per valandą) ir kada įvyksta buferizavimas.</span><span class="sxs-lookup"><span data-stu-id="f7402-111">Estimate the number of throttling errors (for example, x throttle per hour) and when did the throttling happen.</span></span>
+    - <span data-ttu-id="f7402-112">Kurį perkėlimo įrankį naudojate (pvz., SPMT arba ShareGate)?</span><span class="sxs-lookup"><span data-stu-id="f7402-112">Which migration tool are you using (for example, SPMT or ShareGate)?</span></span>
