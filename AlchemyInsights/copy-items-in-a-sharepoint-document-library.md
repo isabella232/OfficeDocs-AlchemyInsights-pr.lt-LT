@@ -1,5 +1,5 @@
 ---
-title: Elementų kopijavimas "SharePoint" dokumentų bibliotekoje
+title: Failų kopijavimas "SharePoint" ir "OneDrive"
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,18 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 8d7b2b6c997faf057be1c7fafdd401411d48c7bd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 473c7376b9f413732ac766e25817b2406b5dbd75
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807163"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002637"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a><span data-ttu-id="81d53-102">Elementų kopijavimas "SharePoint" dokumentų bibliotekoje</span><span class="sxs-lookup"><span data-stu-id="81d53-102">Copy items in a SharePoint document library</span></span>
+# <a name="copy-files-in-sharepoint-and-onedrive"></a><span data-ttu-id="12439-102">Failų kopijavimas "SharePoint" ir "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="12439-102">Copy files in SharePoint and OneDrive</span></span>
 
-1. <span data-ttu-id="81d53-103">Žiniatinklio naršyklėje naršykite failus, aplankus ar saitus, kuriuos norite kopijuoti, tada spustelėkite **Kopijuoti į**.</span><span class="sxs-lookup"><span data-stu-id="81d53-103">In a web browser, browse to the files, folders, or links that you want to copy, and then click **Copy to**.</span></span>
+<span data-ttu-id="12439-103">Galite kopijuoti failus iš žiniatinklio naršyklės į skirtingas "SharePoint" ir "OneDrive" vietas.</span><span class="sxs-lookup"><span data-stu-id="12439-103">You can copy files from web browser to different locations within SharePoint and OneDrive.</span></span>
 
-    > [!NOTE]
-    > <span data-ttu-id="81d53-104">Jei naudojate klasikinę "SharePoint Online" **versiją, kopijuoti į** negalima.</span><span class="sxs-lookup"><span data-stu-id="81d53-104">**Copy to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
-  
-2. <span data-ttu-id="81d53-105">Dalyje **pasirinkti paskirties**vietą pasirinkite vietą, į kurią norite nukopijuoti elementus.</span><span class="sxs-lookup"><span data-stu-id="81d53-105">Under **Choose a destination**, select the location to which you want to copy the items.</span></span> <span data-ttu-id="81d53-106">Jei kopijuojate į kitą svetainę arba antrinę svetainę ir jos nematote sąraše, spustelėkite **Naršyti svetaines** , kad pamatytumėte išsamų sąrašą svetainių, kurias galite kopijuoti.</span><span class="sxs-lookup"><span data-stu-id="81d53-106">If you're copying to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can copy to.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="81d53-107">Jei nematote kitų svetainių, kurios išvardytos kopijuojant elementus, kopijavimas kitose svetainėse nesukonfigūruotas.</span><span class="sxs-lookup"><span data-stu-id="81d53-107">If you don't see other sites listed when you copy items, copying across sites hasn't been configured.</span></span> <span data-ttu-id="81d53-108">Norėdami ją įjungti, eikite į "SharePoint" administravimo centro puslapį parametrai ir spustelėkite **gerai**.</span><span class="sxs-lookup"><span data-stu-id="81d53-108">To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span>
-  
-    <span data-ttu-id="81d53-109">Norėdami sukurti naują aplanką, į kurį nukopijuosite failus, pasirinkite vietą aplankų hierarchijoje, spustelėkite **Naujas aplankas**, įrašykite aplanko pavadinimą ir spustelėkite žymės langelį, kad įrašytumėte vardą.</span><span class="sxs-lookup"><span data-stu-id="81d53-109">To create a new folder to copy the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
-
-3. <span data-ttu-id="81d53-110">Spustelėkite **Kopijuoti čia**.</span><span class="sxs-lookup"><span data-stu-id="81d53-110">Click **Copy here**.</span></span>
+<span data-ttu-id="12439-104">Daugiau informacijos ieškokite straipsnyje [perkelti arba kopijuoti](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span><span class="sxs-lookup"><span data-stu-id="12439-104">For more information, see [Move or Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="81d53-111">Vienu metu galite kopijuoti iki 500 MB failų ir aplankų.</span><span class="sxs-lookup"><span data-stu-id="81d53-111">You can copy up to 500 MB of files and folders at one time.</span></span> <span data-ttu-id="81d53-112">> naudodami **kopijavimo** funkciją su dokumentais, turinčiais versijų retrospektyvą, nukopijuojama tik naujausia versija.</span><span class="sxs-lookup"><span data-stu-id="81d53-112">>  When you use **Copy to** with documents that have version history, only the latest version is copied.</span></span>
-  
-<span data-ttu-id="81d53-113">Daugiau informacijos rasite:</span><span class="sxs-lookup"><span data-stu-id="81d53-113">For more information, see:</span></span>
-
- - <span data-ttu-id="81d53-114">[Perkelti arba kopijuoti failus "SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) " ("Office" palaikymo straipsnyje)</span><span class="sxs-lookup"><span data-stu-id="81d53-114">[Move or copy files in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support article)</span></span>
- - <span data-ttu-id="81d53-115">[Perkelti failus iš bet kurio aplanko](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) ("Microsoft" technologijų bendruomenės interneto dienoraščio straipsnis)</span><span class="sxs-lookup"><span data-stu-id="81d53-115">[Move files from any folder](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog article)</span></span>   
+> <span data-ttu-id="12439-105">Jei naudojate klasikinę "SharePoint Online" **versiją, kopijuoti į** negalima.</span><span class="sxs-lookup"><span data-stu-id="12439-105">**Copy to** isn't available if you are using the classic experience of SharePoint Online.</span></span>
