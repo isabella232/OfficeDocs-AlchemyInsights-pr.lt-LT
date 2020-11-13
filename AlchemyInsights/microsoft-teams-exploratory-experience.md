@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674946"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019555"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>"Microsoft teams" tiriamoji patirtimi
 
-"Microsoft teams" tiriamoji funkcija leidžia jūsų organizacijos vartotojams, turintiems "Azure Active Directory" (AAD), ir nėra licencijuota komandoms inicijuoti "teams" žvalgomosios patirties. Administratoriai gali įjungti arba išjungti šią funkciją savo organizacijos vartotojams. (Ankstesnė "Microsoft" komercinė debesies bandomoji versija dabar vadinama "teams" žvalgomąja patirtimi.)
-
-"Microsoft teams" tiriamoji patirtimi galima naudotis be papildomų išlaidų iki kitos įmonės sutarties pasirašymo arba atnaujinimo arba po sausio 2021. Tuo metu galutiniai vartotojai "Microsoft" žvalgomosios patirties licencijoje turės pereiti prie mokamos licencijos, kurioje yra "teams".
-
-Daugiau informacijos ieškokite ["Microsoft teams" bandomosios licencijos valdymas](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Kas yra " [teams" tiriamoji](https://docs.microsoft.com/microsoftteams/teams-exploratory)? "Microsoft teams" tiriamoji patirtimi leidžia jūsų organizacijos vartotojams, kurie nėra licencijuoti "teams", inicijuoti žvalgomąsias komandas. Daugiau informacijos ieškokite [kas yra komandos tiriamoji patirtimi](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Kada baigsis mano licencijos galiojimas](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? "Microsoft teams" tiriamoji patirtimi galima naudotis be papildomų išlaidų iki kitos sutarties pasirašymo ar atnaujinimo "2021" arba po sausio mėn.
+- Kaip administratorius galite [atnaujinti vartotojus](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) iš "teams" bandomosios licencijos įsigydami prenumeratą, kurioje yra "teams", pašalindami iš vartotojo "teams" ir naujai įsigytos licencijos priskyrimas.
+- Daugiau informacijos ieškokite " [teams" bandomosios licencijos valdymas.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
