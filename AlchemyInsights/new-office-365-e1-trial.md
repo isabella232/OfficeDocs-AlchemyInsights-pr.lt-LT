@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769515"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086092"
 ---
 # <a name="new-office-365-e1-trial"></a>Naujas "Office 365 E1" bandomasis laikotarpis
 
-Nauja 2020 kovas, nemokamas 6 mėnesių " [Office 365 E1" bandomoji versija](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), įskaitant "Microsoft teams", dabar pasiekiama. Norėdami sužinoti, kas pasiekiama su E1 licencija, skaitykite " [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software)".
-
-**Kas turi teisę?**
-
-Šis pasiūlymas skirtas klientams, kuriuos valdo "Microsoft" paskyros Rep. Tai yra organizacijos, kurios praeityje neįjungė jokių kitų "Office 365 E1" bandymų. Po to, kai naudojote savo E1 bandomąją reklaminį kodą, negalite jo naudoti dar kartą ir negalite aktyvinti kito E1 bandomojo kodo. Šiais atvejais galite nustatyti, kad jūsų darbuotojai suaktyvins [komandos tiriamąją licenciją](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**Kas neatitinka reikalavimų?**
-
-- Šis pasiūlymas negalimas "GCC", "GCC High", "DoD" arba "EDU" klientams. Dirbame su E1 bandomosios versijos GCC versija – netrukus bus galima naudoti.
-
- - EDU klientai turi naudoti nemokamą "Office 365 a1" licenciją.
-
-Nepraleiskite visų mūsų rekomendacijų, kaip [remti nuotolinius darbuotojus su "teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)".
+Nuo liepos 1 d. "2020" "Office 365 E1" bandomoji licencija nebepasiekiama. Jei jums reikia licencijuoti vartotojus "Microsoft teams", skaitykite mokamų prenumeratų, kuriuose yra "teams", sąrašo ["Microsoft teams" tarnybos aprašą](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) . Be to, reikalavimus atitinkančios organizacijos gali naudoti [nemokamą "teams" versiją](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)arba darbuotojai gali aktyvinti "teams" [žvalgomąją](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) patirtį.
