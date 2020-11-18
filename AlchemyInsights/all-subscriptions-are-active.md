@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718341"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348709"
 ---
 # <a name="all-subscriptions-are-active"></a>Visos prenumeratos yra aktyvios
 
-Jūsų prenumeratos yra aktyvios. Tai galima patikrinti nueinant į produktų **atsiskaitymą** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje. Jūsų prenumeratos yra užsakomos pagal būseną, kurios viršuje yra aktyvios prenumeratos. Papildomą informaciją, pvz., licencijų skaičių ir mokėjimo būdą, galima matyti pasirenkant prenumeratą.
+Jūsų prenumeratos yra aktyvios. Tai galima patikrinti nueinant į produktų **atsiskaitymą** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) puslapyje. Jūsų prenumeratos pateiktos skirtuke **produktai** , o kiekvienos prenumeratos būsena rodoma stulpelyje **prenumeratos būsena** . Norėdami gauti daugiau informacijos, pasirinkite prenumeratą, kad peržiūrėtumėte prenumeratos išsamios informacijos puslapį.
   
 Jei norite pašalinti savo aktyvią prenumeratą arba uždaryti savo paskyrą, Sužinokite, [kaip uždaryti savo paskyrą](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).

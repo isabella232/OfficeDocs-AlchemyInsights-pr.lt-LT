@@ -2,8 +2,7 @@
 title: "\"Microsoft 365\" prenumeratos atšaukimas"
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811865"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348637"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>Atšaukiate savo "Microsoft" 365 prenumeratą?
+# <a name="canceling-your-microsoft-365-subscription"></a>Atšauksite savo "Microsoft" 365 prenumeratą?
 
-Apgailestaujame, bet pateikiame savo prenumeratos atšaukimo parinktis:
+Apgailestaujame, tačiau jei norite atšaukti savo produktų paketą, Štai jūsų parinktys:
   
 - Jei esate bandomasis klientas, nieko negalima atšaukti. Bandomasis prenumeratų galiojimas baigiasi automatiškai, išskyrus atvejus, kai pateikiate mokėjimo būdą.
+- Jei turite mažiau nei 25 priskirtas licencijas, galite atšaukti savo produktų paketą internetu. Eikite į puslapį **atsiskaitymas** už \> [produktus](https://go.microsoft.com/fwlink/p/?linkid=842054) ir raskite prenumeratą, kurią norite atšaukti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.
+- Jei turite daugiau nei 25 vartotojų priskirtas licencijas, [skambinkite palaikymo tarnybai, kad atšauktumėte prenumeratą](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
 
-- Jei turite mažiau nei 25 priskirtas licencijas, galite atšaukti savo produktų paketą internetu. Eikite į **produktų atsiskaitymą** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dalyje **parametrai & veiksmai** pasirinkite **atšaukti prenumeratą**.
+**Grąžinimas: bet koks proporcingai grąžinamas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.**
 
-- Jei turite daugiau nei 25 priskirtas licencijas, galite pašalinti vartotojus, kol turite mažiau nei 25, arba naudoti parinktį "Leiskite jums paskambinti", kad galėtumėte pasikalbėti su palaikymo inžinieriumi.
+> [!NOTE]
+> Jei nematote parinkties atšaukti, pasirinkite prenumeratą, kad peržiūrėtumėte išsamios informacijos puslapį. Sekcijoje **prenumeratos ir mokėjimo parametrai** pasirinkite **atšaukti prenumeratą**.
 
 Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
