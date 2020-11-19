@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799212"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353514"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Laiško atšaukimas arba pakeitimas "Microsoft 365"
 
-- Galite **atšaukti tik tuos, kurie siunčiami į jūsų organizacijos žmones**. Jei laiškas buvo išsiųstas į "Gmail" adresą, pvz., jo atšaukti negalėsite.
-- Galite **atšaukti tik iš "Outlook 2016" kompiuteriui atsiųstus tekstinius** Jei vartotojas siunčia laišką naudodamas "Outlook for Mac" arba internetinę "Outlook", jo atšaukti negalėsite.
-- Jei esate administratorius, galite **Atšaukti vartotojų vardu siunčiamus, naudodami "PowerShell"**. Negalite atšaukti laiško administravimo centre. Norėdami gauti daugiau informacijos, slinkite žemyn iki "ieškoti ir naikinti el. laiškus organizacijoje".
+- Galite **atšaukti tik tuos, kurie siunčiami į jūsų organizacijos žmones**. Pavyzdžiui, jei laiškas buvo nusiųstas į "Gmail" adresą, jo atšaukti negalėsite.
+- **Iš "Outlook" kompiuteriui siunčiamų žinučių galite atšaukti tik**. Jei vartotojas siunčia laišką naudodamas "Outlook for Mac" arba internetinę "Outlook", jo atšaukti negalėsite.
+- Kaip nuomotojo administratorius galite **Atšaukti vartotojų vardu esančius laiškus naudodami "PowerShell"** (daugiau informacijos rasite: [el. laiškų ieška ir naikinimas](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- Negalite atšaukti laiško administravimo centre. Norėdami gauti daugiau informacijos, slinkite žemyn iki "ieškoti ir naikinti el. laiškus organizacijoje".
 
 **Atsiųsto el. laiško atšaukimas arba pakeitimas**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799212"
 
 Jei reikia daugiau informacijos, įskaitant tai, kaip patikrinti atšaukimą, žr. [pranešimo atšaukimas arba pakeitimas, kurį nusiuntėte](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Savo organizacijos el. laiškų ieška ir naikinimas*** Jei norite ieškoti ir naikinti el. laiškus organizacijoje, paprasčiausia, jei esate visuotinis administratorius. Jei nesate visuotinis administratorius, jūsų abonementas turi būti įtrauktas į "e" aptikimo tvarkytuvo vaidmenų grupę arba atitikties ieškos valdymo vaidmenį. Norėdami panaikinti laišką, turite prisijungti prie organizacijos valdymo vaidmenų grupės arba ieškos ir valymo valdymo vaidmens. Šių vaidmenų teisės priskirtos [saugos & atitikties centre](https://protection.office.com/).
+Jei norite **_Ieškoti ir naikinti el. laiškus organizacijoje_**, paprasčiausia, jei esate visuotinis administratorius. Jei nesate visuotinis administratorius, jūsų abonementas turi būti įtrauktas į "e" aptikimo tvarkytuvo vaidmenų grupę arba atitikties ieškos valdymo vaidmenį. Norėdami panaikinti laišką, turite prisijungti prie organizacijos valdymo vaidmenų grupės arba ieškos ir valymo valdymo vaidmens. Šių vaidmenų teisės priskirtos [saugos & atitikties centre](https://protection.office.com/).
 
 1. [Sukurkite turinio iešką](https://docs.microsoft.com/microsoft-365/compliance/content-search) , kad rastumėte pranešimą, kurį norite panaikinti.
-2. [Prisijunkite prie saugos & atitikties centro "PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)". 
+2. [Prisijunkite prie saugos & atitikties centro "PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell)".
 
-Jei naudojate MFA, ieškokite [prisijungimas prie "Microsoft 365" saugos & atitikties centro "PowerShell" naudojant kelių dalių autentifikavimą](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Jei naudojate MFA (kelių dalių autentifikavimą), žiūrėkite [prisijungti prie "Microsoft 365" saugos & atitikties centro "PowerShell", naudodami kelių dalių autentifikavimą](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
