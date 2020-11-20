@@ -2,7 +2,7 @@
 title: Didinti SMB SKU pašto dėžutės dydį
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778303"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363691"
 ---
-# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="e5329-102">Versijos naujinimo planai, kad padidintumėte pašto dėžutės dydį</span><span class="sxs-lookup"><span data-stu-id="e5329-102">Upgrade plans to increase mailbox size</span></span>
+# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="9801e-102">Versijos naujinimo planai, kad padidintumėte pašto dėžutės dydį</span><span class="sxs-lookup"><span data-stu-id="9801e-102">Upgrade plans to increase mailbox size</span></span>
 
-<span data-ttu-id="e5329-103">Jei pašto dėžutės dydis yra 50 GB, galite padidinti pašto dėžutės dydį iki 100 GB, kai perjungsite " [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) " arba " [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)".</span><span class="sxs-lookup"><span data-stu-id="e5329-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="e5329-104">Toliau pateikiami veiksmai, kaip perjungti kitą prenumeratą:</span><span class="sxs-lookup"><span data-stu-id="e5329-104">Here are the steps to switch to a different subscription:</span></span>
+<span data-ttu-id="9801e-103">Jei pašto dėžutės dydis yra 50 GB, galite padidinti pašto dėžutės dydį iki 100 GB naujindami į " [office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab)", ["Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab)", " [Office 365 e5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)" arba ["Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab)".</span><span class="sxs-lookup"><span data-stu-id="9801e-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by upgrading to [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab), or [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab).</span></span> <span data-ttu-id="9801e-104">Toliau pateikiami veiksmai, kaip atnaujinti į kitą prenumeratą:</span><span class="sxs-lookup"><span data-stu-id="9801e-104">Here are the steps to upgrade to a different subscription:</span></span>
   
-1. <span data-ttu-id="e5329-105">"Microsoft 365" administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="e5329-105">In the Microsoft 365 admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="9801e-105">Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="9801e-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="9801e-106">Skirtuke **produktai** pasirinkite prenumeratą, kurią norite atnaujinti.</span><span class="sxs-lookup"><span data-stu-id="9801e-106">On the **Products** tab, select the subscription that you want to upgrade.</span></span>
+3. <span data-ttu-id="9801e-107">Puslapio išsami prenumeratos informacija sekcijoje **išsami produkto informacija ir atnaujinimai** pasirinkite **jūsų organizacijai rekomenduotų naujinimų peržiūra**.</span><span class="sxs-lookup"><span data-stu-id="9801e-107">On the subscription details page, in the **Product details and upgrades** section, select **View upgrades recommended for your org**.</span></span>
+4. <span data-ttu-id="9801e-108">Puslapyje **galimi atnaujinimai** raskite norimą naują planą, tada pasirinkite **Naujinti versiją**.</span><span class="sxs-lookup"><span data-stu-id="9801e-108">On the **Available upgrades** page, find the new plan that you want, then select **Upgrade**.</span></span>
+5. <span data-ttu-id="9801e-109">Puslapyje **paėmimas** pasirinkite arba įtraukite mokėjimo būdą, tada pasirinkite **pateikti užsakymą**.</span><span class="sxs-lookup"><span data-stu-id="9801e-109">On the **Checkout** page, select or add a payment method, then select **Place order**.</span></span>
+6. <span data-ttu-id="9801e-110">Viskas, **ką nustatėte!**</span><span class="sxs-lookup"><span data-stu-id="9801e-110">On the **You’re all set!**</span></span> <span data-ttu-id="9801e-111">Pasirinkite **versijos naujinimo būseną** arba **toliau nustatykite savo produktų paketą**.</span><span class="sxs-lookup"><span data-stu-id="9801e-111">page, select **status of your upgrade**, or **Continue to setup your subscription**.</span></span>
 
-2. <span data-ttu-id="e5329-106">Pasirinkite naujinimui skirtą prenumeratą, tada pasirinkite skirtuką **Naujinti** , kad peržiūrėtumėte galimų naujų planų sąrašą.</span><span class="sxs-lookup"><span data-stu-id="e5329-106">Select the subscription to upgrade, then select the **Upgrade** tab to view the list of new plans that are available.</span></span>
+<span data-ttu-id="9801e-112">Baigus vykdyti patikrą, "Microsoft 365" perjungia kelias minutes.</span><span class="sxs-lookup"><span data-stu-id="9801e-112">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="9801e-113">Galite iš karto pradėti naudoti savo naują prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="9801e-113">You can start using your new subscription right away.</span></span>
 
-3. <span data-ttu-id="e5329-107">Pasirinkite planą, kad pamatytumėte naują bendrą kainą per mėnesį.</span><span class="sxs-lookup"><span data-stu-id="e5329-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="e5329-108">Įsitikinkite, kad perskaitėte **rakto informaciją**, tada pasirinkite **Pirmyn** , kad patikrintumėte.</span><span class="sxs-lookup"><span data-stu-id="e5329-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span>
-
-4. <span data-ttu-id="e5329-109">Baigus vykdyti patikrą, "Microsoft 365" perjungia kelias minutes.</span><span class="sxs-lookup"><span data-stu-id="e5329-109">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="e5329-110">Galite iš karto pradėti naudoti savo naują prenumeratą.</span><span class="sxs-lookup"><span data-stu-id="e5329-110">You can start using your new subscription right away.</span></span>
-
-<span data-ttu-id="e5329-111">Daugiau informacijos rasite [versijos naujinimas į kitą planą](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="e5329-111">For more details, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
+<span data-ttu-id="9801e-114">Daugiau informacijos ieškokite [kito plano versijos naujinimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="9801e-114">For more information, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
