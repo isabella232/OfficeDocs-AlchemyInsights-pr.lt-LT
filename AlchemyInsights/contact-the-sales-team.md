@@ -1,28 +1,27 @@
 ---
-title: Susisiekite su pardavimo komanda
+title: Susisiekite su Pardavimų komanda
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932078"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529026"
 ---
-# <a name="contact-the-sales-team"></a>Susisiekite su pardavimo komanda
+# <a name="contact-the-sales-team"></a>Susisiekite su Pardavimų komanda
 
-Naudojant "Microsoft Graph" jungtis, jūsų organizacija gali indeksuoti trečiųjų šalių duomenis, kad jie būtų rodomi "Microsoft" ieškos rezultatuose.
+Yra keletas būdų, kaip susisiekti su „Microsoft 365“ pardavimų komanda.
 
-- ["Microsoft" jungtys](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Mūsų partnerių jungtys](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Daugiau informacijos [rasite Microsoft Graph jungčių apžvalga](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Naudokite formą [Susisiekite su mumis](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409), kad „Microsoft 365“ pardavimų ekspertas susisiektų su jumis.
+- Norėdami susisiekti su įmonės sutarties bendrojo licencijavimo ekspertu, pradėkite [Bendrojo licencijavimo paslaugų centro](https://go.microsoft.com/fwlink/p/?LinkId=329762) portale.
