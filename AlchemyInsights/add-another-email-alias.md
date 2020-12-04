@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688486"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571673"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Vartotojo el. pašto pseudonimo kūrimas arba įtraukimas
 
 Reikia sukurti vartotojo el. pašto pseudonimą arba pridėti papildomą elektroninio pašto adresą? Tiesiog atlikite šiuos veiksmus!
   
-1. "Microsoft 365" administravimo centre eikite į puslapį [vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) arba pasirinkite **vartotojai** \> **aktyvūs vartotojai**.
+1. "Microsoft 365" administravimo centre eikite į puslapį [vartotojai](https://go.microsoft.com/fwlink/p/?linkid=834822) arba pasirinkite **vartotojai**  >  **aktyvūs vartotojai**.
     
 2. Puslapyje **aktyvūs vartotojai** pasirinkite asmens, kurį norite redaguoti, vardą. 
     
