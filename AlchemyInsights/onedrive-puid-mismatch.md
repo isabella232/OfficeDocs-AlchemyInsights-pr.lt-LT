@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605717"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653268"
 ---
 # <a name="onedrive-puid-mismatch"></a>"OneDrive" PUID neatitikimas
 
@@ -26,6 +26,6 @@ Pasirodo, kad "OneDrive" verslui yra [ID neatitikimas](https://docs.microsoft.co
 
 1. Spustelėkite  **kreipkitės į palaikymo tarnybą**, tada –  **nauja tarnybos užklausa**.
 2. Palikite pavadinimą ir aprašą kaip  **"OneDrive" svetainės vartotojo ID nesutapimą**.
-3. Kai tik bus pateiktas bilietas, atnaujinkite jį su šia informacija:
+3. Kai bilietas bus pateiktas, atnaujinkite jį su šia informacija:
     - Paveiktas "OneDrive" svetainės URL.
     - Paveikto vartotojo vartotojo vardą (UPN).
