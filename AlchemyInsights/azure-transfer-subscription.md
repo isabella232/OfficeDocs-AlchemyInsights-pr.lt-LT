@@ -1,5 +1,5 @@
 ---
-title: "\"Azure\" atsiskaitymo nuosavybės perdavimas"
+title: Perduoti „Azure“ atsiskaitymo nuosavybės teises
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922163"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736886"
 ---
-# <a name="transfer-azure-billing-ownership"></a>"Azure" atsiskaitymo nuosavybės perdavimas
+# <a name="transfer-azure-billing-ownership"></a>Perduoti „Azure“ atsiskaitymo nuosavybės teises
 
-Prisijunkite prie " [Azure" portalo](https://portal.azure.com/) kaip atsiskaitymo paskyros, kurioje yra norima perduoti prenumeratą, administratorius. Jei nesate tikri, ar esate ir administratorius, arba jei reikia nustatyti, kas yra, peržiūrėkite [paskyros atsiskaitymo administratoriaus](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa)nustatymas.
+Prisijunkite prie [„Azure“ portalas](https://portal.azure.com/) kaip atsiskaitymo paskyros, kurios prenumeratą norite perduoti, administratorius. Jei nesate tikri, ar esate administratorius, arba jums reikia nustatyti, kas yra, žr. [Nustatyti paskyros atsiskaitymo administratorių](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- **Išlaidų valdymo ir atsiskaitymo** ieška.
-- Kairiojoje srityje pasirinkite **prenumeratos** . Atsižvelgiant į "Access", gali tekti pasirinkti atsiskaitymo aprėptį ir **prenumeratos** arba "Azure" **prenumeratas**.
-- Pasirinkite prenumeratos, kurią norite perkelti, **nuosavybę**
-- Įveskite vartotojo, kuris yra paskyros administratorius, kuris bus naujas prenumeratos savininkas, elektroninio pašto adresą, tada pasirinkite **Siųsti perkėlimo užklausą**
-- Vartotojas gauna laišką su nurodymais, kaip peržiūrėti savo perkėlimo užklausą. Norėdami patvirtinti perkėlimo užklausą, vartotojas pasirenka saitą el. laiške ir vadovaujasi nurodymais.
+1. Ieškokite _Išlaidų valdymas + Atsiskaitymas_.
+1. Pasirinkite **Prenumeratos** kairiojoje srityje. Atsižvelgiant į prieigą, gali tekti pasirinkti atsiskaitymo aprėptį ir tada **Prenumeratos** arba **„Azure“ prenumeratos**.
+1. Pasirinkite **Perduoti atsiskaitymo nuosavybės teises** prenumeratai, kurią norite perkelti.
+1. Įveskite vartotojo, kuris yra paskyros atsiskaitymo administratorius ir bus naujas prenumeratos savininkas, el. pašto adresą ir pasirinkite **siųsti perdavimo užklausą**.
+1. Vartotojas gaus el. laišką su instrukcijomis, kaip peržiūrėti jūsų perdavimo užklausą. Norint patvirtinti perdavimo užklausą, vartotojas el. laiške pasirenka nuorodą ir vadovaujasi instrukcijomis.
 
-**Pastaba** : jei persiunčiate savo prenumeratos nuosavybėn vartotojo paskyrą kitame "Azure AD" nuomotojuje, visi [vaidmenimis pagrįsti "Access" valdymo (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)priskyrimai, skirti išteklių prenumeratai, yra visam laikui pašalinti. Tik naujasis savininkas turės prieigą prie prenumeratos išteklių valdymo. Daugiau informacijos ieškokite [vartotojo prenumeratos perdavimas kitam "AZURE AD" nuomotojui](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Atminkite, kad jei perduodate savo prenumeratos atsiskaitymo nuosavybės teisę vartotojo paskyrai kitame „Azure AD“ kliente, visos [vaidmenimis pagrįstas prieigos valdymas (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) prenumeratos išteklių tvarkymo užduotys yra visam laikui pašalinamos. Tik naujas savininkas turės prieigą prie prenumeratos išteklių tvarkymo. Daugiau informacijos apie tai, kaip pakeisti prenumeratos katalogą, žr. [Prenumeratos perdavimas kitam „Azure AD“ nuomininkui priklausančiam vartotojui](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+_**Svarbus poveikis jūsų sąskaitoms faktūroms**_: jei perdavėte „Azure“ prenumeratos atsiskaitymo nuosavybės teisę, jūsų mokesčiai bus imami proporcingai. Turėsite prieigą prie sąskaitų faktūrų kai nurodyta toliau:  
+
+1. Pasirinkite savo prenumeratą [Prenumeratų puslapis](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) „Azure“ portale kaip [vartotojas, turintis prieigą prie sąskaitų faktūrų](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), tuomet pasirinkite **Sąskaitos**.
+1. Spustelėkite **Atsisiųsti sąskaitą faktūrą** norėdami peržiūrėti PDF sąskaitos faktūros kopiją. Jei rodoma žinutė _Nepasiekiama_, že. [Kodėl nematau sąskaitos už paskutinį atsiskaitymo laikotarpį?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Taip pat galite peržiūrėti savo kasdienį naudojimą spustelėdami **atsiskaitymo laikotarpis**, kad gautumėte sąskaitos faktūros PDF failą ir išsamaus kasdienio naudojimo failo (.CSV) kopiją. Norėdami gauti daugiau informacijos, žr. [Gaukite sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Rekomenduojami dokumentai**
 
-- [Atsiskaitymo už "Azure" prenumeratos nuosavybės perdavimas į kitą paskyrą](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [Apie "Azure" prenumeratos atsiskaitymo nuosavybės perdavimą](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- ["Visual Studio", "Microsoft" partnerių tinklo (MPN) perkėlimas ir mokėjimas už "dev/Test" prenumeratas](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Perduoti nuosavybės DUK](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Perdavimo nuosavybės problemų šalinimas](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Perduoti „Azure“ prenumeratos atsiskaitymo nuosavybės teises kitai paskyrai](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Apie „Azure“ prenumeratos atsiskaitymo nuosavybės teisių perdavimą](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [„Visual Studio“, „Microsoft“ partnerių tinklo (MPN) ir einamųjų įmokų („Pay as you go“) Kūrėjų / Testavimo prenumeratų perdavimas](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Nuosavybės teisių perdavimo DUK](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Pašalinti nuosavybės teisių perdavimo problemas](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
