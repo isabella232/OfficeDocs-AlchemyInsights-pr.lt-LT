@@ -1,5 +1,5 @@
 ---
-title: Kaip įtraukti ir valdyti administratoriai – MCA FL/CL
+title: Kaip įtraukti ir valdyti administratoriai
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692306"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755503"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Kaip įtraukti ir valdyti administratoriai – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Kaip įtraukti ir valdyti administratoriai
+
+Atsižvelgdami į savo problemos aprašą, radome sprendimą. Daugelis klientų galėjo išspręsti savo problemą, atlikę šiuos dokumentus.
 
 Norėdami valdyti savo "Microsoft" kliento sutarties (MCA) atsiskaitymo paskyrą, galite naudoti skirtingus vaidmenis naudodami norimą "Access" lygį. Šie vaidmenys yra be įtaisytųjų "Azure" tarnybų vaidmenų, padedančių jums valdyti išteklius.
 

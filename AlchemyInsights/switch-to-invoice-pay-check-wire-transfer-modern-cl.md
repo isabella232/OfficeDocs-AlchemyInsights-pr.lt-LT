@@ -1,5 +1,5 @@
 ---
-title: Perjungti į sąskaitos faktūros mokėjimą (varnelė/Wire pervedimas) – moderni CL
+title: Perjungti į mokėjimą pagal sąskaitą faktūrą (Check/Wire pervedimas)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706650"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755475"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Perjungti į sąskaitos faktūros mokėjimą (varnelė/Wire pervedimas) – moderni CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Perjungti į mokėjimą pagal sąskaitą faktūrą (Check/Wire pervedimas)
+
+Atsižvelgdami į savo problemos aprašą, radome sprendimą. Daugelis klientų galėjo išspręsti savo problemą, atlikę šiuos dokumentus.
 
 Jei pereinate prie mokėjimo pagal sąskaitą faktūrą, tai reiškia, kad mokėsite sąskaitą per 30 dienų nuo sąskaitos faktūros datos. Norėdami gauti teisę sumokėti už "Azure" prenumeratą pagal sąskaitą faktūrą, pateikite "Azure" palaikymo užklausą. Kai jūsų užklausa patvirtinama, galite pakeisti "Azure" portalo "sąskaitos faktūros" prenumeratą.
 
