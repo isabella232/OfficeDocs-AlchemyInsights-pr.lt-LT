@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768825"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778201"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>"BitLocker" šifravimo su "Intune" įgalinimas
 
- "Intune Endpoint Protection" strategiją galima naudoti konfigūruojant "BitLocker" šifravimo parametrus "Windows" įrenginiuose. Daugiau informacijos rasite ["Windows 10" (ir vėlesnės versijos) parametruose, kad apsaugotumėte įrenginius naudodami Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+"Intune Endpoint Protection" strategiją galima naudoti konfigūruojant "BitLocker" šifravimo parametrus "Windows" įrenginiuose. Daugiau informacijos rasite ["Windows 10" (ir vėlesnės versijos) parametruose, kad apsaugotumėte įrenginius naudodami Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Be galinio punkto apsaugos strategijos taip pat yra šifravimo ataskaita, kurioje pateikiamas išsamesnis įrenginių šifravimo būsenos rodinys. Šią ataskaitą galima pasiekti iš MEM portalo dalyje **įrenginiai > monitorius**, tada dalyje **konfigūracija** pasirinkite [šifravimo ataskaita](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Jei pastebėsite, kad "BitLocker" nepavyksta įgalinti, kaip tikėtasi, arba kad "BitLocker" įgalinimas naudojamas profilis yra klaidos būsenos, peržiūrėkite šifruotės ataskaitą, kad geriau suprastumėte, kodėl vyksta veikimas.
+
+Norėdami rasti išsamios informacijos apie tai, kaip interpretuoti ataskaitą, įskaitant įvairias šifravimo būsenas, žiūrėkite [įrenginių šifravimo su "Intune" stebėjimas](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Turėtumėte žinoti, kad daugelis naujesnių įrenginių, kuriuose veikia "Windows 10", palaiko automatinį "BitLocker" šifravimą, kuris paleidžiamas nenaudojant MDM strategijos. Tai gali turėti įtakos strategijos taikymui, jei nenumatytieji parametrai yra sukonfigūruoti. Daugiau informacijos rasite toliau pateiktuose DUK.
- 
+
 Informacijos apie "BitLocker" problemų diagnostiką ieškokite ["BitLocker" strategijų trikčių diagnostika "Microsoft Intune"](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
