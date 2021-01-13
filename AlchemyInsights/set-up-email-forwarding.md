@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801084"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847608"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Pašto dėžutės pašto peradresavimo parametrų tikrinimas
 
-Galite lengvai patikrinti pašto peradresavimo parametrus "Microsoft" 365 pašto dėžutėje. Tiesiog atlikite šiuos veiksmus.
+Pirmiausia, pašto peradresavimas turi būti įgalintas nuomotojo lygyje. Jei pašto dėžutėje nustatėte el. pašto peradresavimą, bet jis neveikia, žiūrėkite [valdyti automatinį išorinį el. pašto peradresavimą "Microsoft 365"](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Lengva patvirtinti pašto dėžutės pašto peradresavimo parametrus! Tiesiog atlikite šiuos veiksmus.
   
 > Jei tai vartotojo pašto dėžutė, **eikite į** \> **aktyvūs** vartotojai ir pasirinkite vartotoją, kurio pašto dėžutę persiunčiate. Skirtuke **paštas** pasirinkite **tvarkyti pašto peradresavimą**.
 
