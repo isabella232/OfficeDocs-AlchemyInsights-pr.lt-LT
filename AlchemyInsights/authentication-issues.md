@@ -13,89 +13,89 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974484"
+ms.locfileid: "49976857"
 ---
 # <a name="authentication-issues"></a>Autentifikavimo problemos
 
-**Ieškote informacijos apie "AADSTS" klaidų kodus, kuriuos grąžino "Azure Active Directory" ("Azure AD") saugos atpažinimo ženklų tarnyba (STS)?** Peržiūrėkite " [AZURE AD" autentifikavimo ir autorizavimo klaidų kodus](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) , kad rastumėte AADSTS klaidų aprašus, pataisymus ir kai kuriuos siūlomus sprendimo būdus.
+**Ieškote informacijos apie AADSTS klaidų kodus, kuriuos pateikia „Azure Active Directory“ („Azure AD“) saugos atpažinimo ženklų tarnyba (STS)?** Peržiūrėkite [„Azure AD“ autentifikavimo ir autorizavimo klaidų kodus](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes), kad rastumėte AADSTS klaidų aprašus, taisymus ir kai kuriuos siūlomus sprendimus.
 
-Autorizavimo klaidos gali kilti dėl kelių skirtingų problemų, kurių dauguma generuoja "401" arba "403" klaidą. Pvz., toliau nurodytos problemos gali sukelti autorizavimo klaidas:
+Autorizavimo klaidos gali atsirasti dėl kelių skirtingų problemų, kurių dauguma generuoja 401 arba 403 klaidą. Pavyzdžiui, autorizavimo klaidų gali kilti dėl šių problemų:
 
-- Neteisingi [prieigos žetono įsigijimo srautai](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
-- Netinkamai sukonfigūruotos [teisių aprėptis](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
-- [Sutikimo](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent) stoka
+- Netinkami [atpažinimo ženklo gavimo srautai](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
+- Prastai konfigūruotos [teisių aprėptys](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [Sutikimo](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent) trūkumas
 
-Norėdami išspręsti įprastas autorizavimo klaidas, išbandykite toliau pateiktus veiksmus, kurie labiausiai atitinka jūsų gaunamas klaidas. Dėl klaidos, kurią gaunate, gali būti taikomi daugiau nei vienas veiksmas.
+Norėdami išspręsti dažniausiai pasitaikančių autorizavimo klaidų problemą, bandykite atlikti toliau nurodytus veiksmus, kurie labiausiai atitinka gaunamą klaidą. Gaunamai klaidai gali būti taikomas daugiau negu vienas žingsnis.
 
-- **401 Neleistina klaida: ar jūsų žetonas galioja?**
+**401 neįgaliotos prieigos klaida: ar jūsų atpažinimo ženklas tinkamas?**
 
-Įsitikinkite, kad jūsų programa pateikia tinkamą "Microsoft Graph" prieigos žetoną kaip užklausos dalį. Ši klaida dažnai reiškia, kad "Access" atpažinimo ženklas gali trūkti HTTP autentifikavimo užklausos antraštėje arba kad atpažinimo ženklas negalioja arba nebegalioja. Primygtinai rekomenduojame naudoti "Microsoft" autentifikavimo biblioteką (MSAL) "Access" atpažinimo ženklų įsigijimui. Be to, ši klaida gali įvykti, jei bandote naudoti įgaliotojo prieigos žetoną, suteiktą asmeniniam "Microsoft" abonementui, kad pasiektumėte API, kuris palaiko tik darbo arba mokymo įstaigos paskyras (organizacijos paskyras).
+Įsitikinkite, kad programa kaip užklausos dalį pateikia tinkamą prieigos atpažinimo ženklą „Microsoft Graph“. Ši klaida dažnai reiškia, kad prieigos atpažinimo ženklo gali trūkti HTTP autentifikavimo užklausos antraštėje arba kad atpažinimo ženklas yra netinkamas ar baigėsi jo galiojimas. Primygtinai rekomenduojame naudoti „Microsoft“ autentifikavimo biblioteką (MSAL) prieigos atpažinimo ženklo gavimui. Be to, ši klaida gali įvykti, jei bandote naudoti įgaliotosios prieigos atpažinimo ženklą, suteiktą asmeninei „Microsoft“ paskyrai, kad pasiektumėte API, palaikančią tik darbo arba mokymo įstaigos paskyras (organizacijos paskyras).
 
-**403 Forbidden klaida: pasirinkote tinkamą teisių rinkinį?**
+**403 draudžiamos prieigos klaida: ar pasirinkote tinkamą teisių rinkinį?**
 
-Įsitikinkite, kad prašėte tinkamo teisių rinkinio pagal "Microsoft Graph" API taikomųjų programų iškvietimus. Rekomenduojamos mažiausiai privilegijuotos teisės pateikiamos visose "Microsoft Graph" API nuorodų metodo temose. Be to, šios teisės turi būti suteiktos taikomajai programai pagal vartotoją arba administratorių. Teisių suteikimas paprastai įvyksta naudojant "Azure" portalo taikomosios programos registracijos peilio sutikimo puslapį arba naudojimą. Taikomosios programos **parametrų** ašmenys spustelėkite **reikiamas teises**, tada spustelėkite **suteikti teises**. Daugiau informacijos rasite:
+Įsitikinkite, kad pageidaujate tinkamo teisių rinkinio, pagrįsto programos „Microsoft Graph“ API. Rekomenduojamos mažiausiai privilegijuotos teisės yra pateiktos visose „Microsoft Graph“ API nuorodos metodų temose. Be to, šias teises programai turi suteikti vartotojas arba administratorius. Paprastai teisės suteikiamos sutikimo puslapyje arba naudojant „Azure Portal“ programos registracijos portalą. Programos dalyje **Parametrai** spustelėkite **Būtinos teisės**, tada spustelėkite **Suteikti teises**. Daugiau informacijos rasite:
 
-- ["Microsoft Graph" teisės](https://docs.microsoft.com/graph/permissions-reference) 
-- ["Azure AD" teisių ir sutikimo supratimas](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
+- [„Microsoft Graph“ teisės](https://docs.microsoft.com/graph/permissions-reference) 
+- [Apie „Azure AD“ teises ir sutikimą](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
-**403 Forbidden klaida: ar jūsų programa įsigyja atpažinimo ženklą, kad atitiktų pasirinktas teises?**
+**403 draudžiamos prieigos klaida: ar programa gavo atpažinimo ženklą, kad atitiktų pasirinktas teises?**
 
-Įsitikinkite, kad prašomos arba suteiktos teisės atitinka jūsų taikomosios programos "Access" atpažinimo ženklo tipą. Galite prašyti ir suteikti taikomųjų programų teises, bet naudoti interaktyvius interaktyviojo kodo srauto atpažinimo ženklus, o ne kliento kredencialų srauto atpažinimo ženklus, arba prašyti ir suteikti įgaliotasis teises, bet naudoti kliento kredencialų srauto atpažinimo ženklus vietoj įgaliotojo kodo srautų žetonų.
+Įsitikinkite, kad prašomų arba suteiktų teisių tipai atitinka programos gaunamo prieigos atpažinimo ženklo tipą. Gali būti, kad prašote ir suteikiate programos teises, tačiau naudojate įgaliotuosius interaktyviuosius kodo srauto atpažinimo ženklus vietoje kliento kredencialų srauto atpažinimo ženklų arba prašydami ir suteikdami įgaliotąsias teises, tačiau vietoje įgaliotųjų kodo srauto atpažinimo ženklų naudokite kliento kredencialų srauto atpažinimo ženklus.
 
-Daugiau informacijos, susijusios su žetonų įgijimui, rasite:
+Daugiau informacijos apie atpažinimo ženklų gavimą žr.:
 
-- [Gaukite prieigą vartotojų ir įgaliotų teisių vardu](https://docs.microsoft.com/graph/auth-v2-user) 
-- ["Azure AD v 2.0" – "OAuth" 2,0 autorizavimo kodo srautas](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Gaukite "Access" nenaudodami vartotojo (Daemon Service) ir taikomosios programos teisių](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v 2.0-OAuth 2,0 kliento kredencialų srautas](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Prieigos gavimas vartotojų ir įgaliotųjų teisių vardu](https://docs.microsoft.com/graph/auth-v2-user) 
+- [„Azure AD“ v2.0 – „OAuth“ 2.0 autorizavimo kodo srautas](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Prieigos gavimas nenaudojant vartotojo („daemon“ tarnyba) ir programos teisių](https://docs.microsoft.com/graph/auth-v2-service) 
+- [„Azure AD v2.0 – „OAuth“ 2.0 kliento kredencialų srautas](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
-**403 uždrausta klaida: slaptažodžio nustatymas iš naujo**
+**403 draudžiamos prieigos klaida: slaptažodžio nustatymas iš naujo**
 
-Šiuo metu nėra taikomųjų programų teisių demono paslaugų, kurios leidžia iš naujo nustatyti vartotojų slaptažodžius. Šios API palaikomos tik naudojant interaktyvius įgaliotojo kodo srautus su prisijungusiems administratoriui. Daugiau informacijos ieškokite ["Microsoft Graph" teisės](https://docs.microsoft.com/graph/permissions-reference).
+Šiuo metu nėra jokių programos teisių, „daemon“ tarnybos tarnybai suteikimo teisių, kurios leistų nustatyti vartotojų slaptažodžius. Šios API palaikomos tik naudojant interaktyvių įgaliotųjų kodų srautus su prisiregistravusiu administratoriumi. Daugiau informacijos žr. [„Microsoft Graph“ teisės](https://docs.microsoft.com/graph/permissions-reference).
 
-**403 uždrausta: ar vartotojas turi prieigą ir jie yra licencijuoti?**
+**403 draudžiama prieiga: ar vartotojas turi prieigą ir yra licencijuotas?**
 
-Jei tai yra įgaliotasis kodo srautai, "Microsoft Graph" įvertina, ar užklausa buvo suteikta remiantis programėlei suteiktomis teisėmis ir prisijungusiems vartotojui suteiktomis teisėmis. Paprastai ši klaida nurodo, kad vartotojas nėra pakankamai privilegijuotas, kad galėtų atlikti užklausą, **arba** vartotojas nėra licencijuotas duomenims, kurie yra pasiekiami. Užklausą gali sėkmingai atlikti tik vartotojai, turintys reikiamas teises arba licencijas.
+Kai naudojamas įgaliotojo kodo srautas, „Microsoft Graph“ įvertina, ar užklausa buvo leidžiama pagal programai suteiktas teises ir prisijungusio vartotojo turimas teises. Paprastai ši klaida nurodo, kad vartotojui nepakanka teisių atlikti užklausą **arba** vartotojas neturi prieigos teisių prie duomenų. Užklausą sėkmingai gali pateikti tik vartotojai, kurie turi reikiamas teises arba licencijas.
 
-**403 uždrausta: ar pasirinkote tinkamą išteklių API?**
+**403 draudžiama prieiga: ar pasirenkate tinkamą išteklių API?**
 
-API paslaugos, pvz., "Microsoft Graph", tikrina, kad "Access" atpažinimo ženklo *AUD* reikalavimas (auditorija) sutampa su jo paties nurodyta reikšme, o jei ne, įvyksta 403 uždrausta klaida. Dažna klaida dėl šios klaidos bando naudoti atpažinimo ženklą, įsigytą "Azure AD Graph" API, "Outlook" API arba "SharePoint"/"OneDrive" API, kad paskambintumėte į "Microsoft Graph" (arba atvirkščiai). Įsitikinkite, kad išteklių (arba aprėpties) jūsų programa įgyja atpažinimo ženklą, atitinkantį API, kurį skambina programa.
+API tarnybos, pvz., „Microsoft Graph“, patikrina, ar *aud* pareiškimas (auditorija) gautame prieigos atpažinimo ženkle atitinka reikšmę, kurios sau tikisi, jei taip nėra, įvyksta 403 draudžiamos prieigos klaida. Dažnai šį klaida gaunama bandant naudoti atpažinimo ženklą, gautą „Azure AD Graph“ API, „Outlook“ API arba „SharePoint“ / „OneDrive“ API, siekiant iškviesti „Microsoft Graph“ (arba atvirkščiai). Įsitikinkite, kad išteklius (arba aprėptis), kuriam programa gauna atpažinimo ženklą, atitinka API, kurią iškviečia programa.
 
-**400 netinkama užklausa arba 403 uždrausta: ar vartotojas laikosi savo organizacijos sąlyginės prieigos (CA) strategijų?**
+**400 bloga užklausa arba 403 draudžiama prieiga: ar vartotojas atitinka organizacijos sąlyginės prieigos (CA) strategijas?**
 
-Atsižvelgiant į organizacijos sąlyginės prieigos (CA) strategijas, vartotojui prieigą prie "Microsoft Graph" išteklių galima ginčyti naudojant papildomą informaciją, kuri nėra jūsų taikomosios programos "Access" atpažinimo ženkle. Šiuo atveju programa gauna **400 su *interaction_required*** klaida "Access" atpažinimo ženklų įsigijimo metu arba **403 su *Insufficient_claims*** klaida, kai skambinama į "Microsoft Graph". Abiem atvejais klaidos atsakyme yra papildomos informacijos, kurią galima pateikti įgaliotajam įverčiui, kad būtų galima užginčyti papildomą informaciją (pvz., kelių dalių autentifikavimą arba įrenginio registraciją).
+Atsižvelgiant į organizacijos sąlyginės prieigos (CA) strategijas, vartotojui, kuris bando pasiekti „Microsoft Graph“ išteklius per programą, gali reikėti nurodyti papildomą informaciją, kurios nėra iš pradžių gautame prieigos atpažinimo ženkle. Tokiu atveju programa gauna **400 su *interaction_required*** klaidą bandant gauti prieigos atpažinimo ženklą, arba **403 su *insufficient_claims*** klaidą bandant iškviesti „Microsoft Graph“. Abiem atvejais klaidos atsakyme pateikiama papildomos informacijos, kurią galima pateikti įgaliotam pabaigos taškui, kad vartotojas galėtų pateikti papildomos informacijos (pvz., kelių dalių autentifikavimas arba įrenginio registracija).
 
-Daugiau informacijos, susijusios su sąlygine prieiga, rasite:
+Daugiau informacijos, susijusios su sąlygine prieiga, žr.:
 
-- [Sąlyginės prieigos iššūkių naudojimas naudojant MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
-- ["Azure Active Directory" sąlyginės prieigos kūrėjo gairės](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
+- [Sąlyginės prieigos problemų sprendimas naudojant MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
+- [„Azure Active Directory“ sąlyginės prieigos kūrėjų rekomendacijos](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-*" *_Azure Active Directory" autentifikavimo bibliotekos (ADAL) ir "AZURE ad Graph" API (AAD grafikas) palaikymo pabaiga_*
+**_„Azure Active Directory“ autentifikavimo bibliotekos (ADAL) ir „Azure AD Graph“ API („AAD Graph“) palaikymo pabaiga_* _
 
-- Nuo birželio 30 d., 2020, nebegalėsime įtraukti jokių naujų funkcijų į "Azure Active Directory" autentifikavimo biblioteką (ADAL) ir "Azure AD Graph API" (AAD Graph). Mes ir toliau suteiksime techninio palaikymo ir saugos naujinimus, tačiau nebepateiksime funkcijų naujinimų.
-- Nuo birželio 30 d., 2022, mes užbaigsime ADAL ir AAD Graph palaikymą ir nebepateiks techninio palaikymo ar saugos naujinimų.
-    - Taikomosios programos, naudojančios ADAL esamą operacinės sistemos versiją, toliau veiks po šio laiko, bet negalės gauti jokio techninio palaikymo ar saugos naujinimų.
-    - Taikomosios programos, naudojančios AAD grafiką po šio laiko, gali nebegauti atsakymų iš AAD diagramos galinio punkto.
+- Nuo 2020 m. birželio 30 d. mes neįtrauksime jokių naujų funkcijų į „Azure Active Directory“ autentifikavimo biblioteką (ADAL) ir „Azure AD Graph“ API („AAD Graph“). Mes toliau teiksime techninį palaikymą ir saugos naujinimus, bet nebeteiksime funkcijų naujinimų.
+- Nuo 2022 m. birželio 30 d. baigsime ADAL ir „AAD Graph“ palaikymą ir nebeteisime techninio palaikymo ar saugos naujinimų.
+    - Programos, kurios naudoja ADAL esamoms OS versijoms, po šio laiko veiks ir toliau, tačiau negaus jokių techninio palaikymo ar saugos naujinimų.
+    - P nurodytos datos programos, naudojančios „AAD Graph“, gali nebegauti atsakymų iš „AAD Graph“ galinio punkto.
 
-−*Adal perkėlimas**
+_ *ADAL perkėlimas**
 
-Rekomenduojame naujinti į ["Microsoft" autentifikavimo biblioteką (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), kuri turi naujausias funkcijas ir saugos naujinimus. Ši rekomendacija taikoma "Microsoft" perkeliant jos taikomąsias programas į MSAL pagal palaikymo pabaigos terminą. "Microsoft" programų perkėlimo į MSAL tikslas – užtikrinti, kad programos būtų naudingos naudojant MSAL esamą saugos ir funkcijų patobulinimus.
+Rekomenduojame atnaujinti į [„Microsoft“ autentifikavimo biblioteką (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), kurioje yra naujausios funkcijos ir saugos naujinimai. Ši rekomendacija pateikta kontekste, kai „Microsoft“ perkelia savo programas į MSAL iki palaikymo teikimo pabaigos. „Microsoft“ programų perkėlimo į MSAL tikslas yra užtikrinti, kad programos naudotų MSAL nuolatinius saugos ir funkcijų patobulinimus.
 
-- [DUK apie ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Sužinokite, kaip perkelti taikomąsias programas pagal platformą](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Jei reikia pagalbos norint suprasti, kurios iš jūsų taikomųjų programų naudoja ADAL, rekomenduojame Peržiūrėti visus savo programų šaltinio kodus ir, jei reikia, susisiekti su bet kuriuo nepriklausomu programinės įrangos pardavėjais (ISVs) arba taikomųjų programų teikėjais. "Microsoft" palaikymas taip pat gali suteikti jums visų ne "Microsoft" ADAL taikomųjų programų sąrašą savo nuomotojuje.
+- [Skaityti ADAL DUK](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- [Sužinokite, kaip perkelti programas pagal platformą](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Jei reikia pagalbos norint suprasti, kurios iš programų naudoja ADAL, rekomenduojame peržiūrėti visą programų šaltinio kodą ir, jei taikoma, susisiekti su nepriklausomais programinės įrangos teikėjais (ISV) ar programų teikėjais. „Microsoft“ palaikymo tarnyba taip pat gali pateikti visų jūsų nuomotojo ne „Microsoft“ ADAL programų sąrašą.
 
-**AAD Graph perkėlimas**
+**„AAD Graph“ perkėlimas**
 
-Jei naudojate "AAD Graph" taikomąsias programas, vadovaukitės mūsų rekomendacijomis, kaip [perkelti "AZURE ad Graph" taikomąsias programas į "Microsoft Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
+Jei naudojate programas, kurios naudoja „AAD Graph“, vadovaukitės mūsų nurodymais, kaip [perkelti „Azure AD Graph“ programas į „Microsoft Graph“](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
-- [Mūsų perkėlimo kontrolinis sąrašas suteikia darbo pradžios tašką](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-- "Azure App" registracijos portale rodoma, kurios taikomosios programos naudoja AAD grafiką. Rekomenduojame Peržiūrėti visus savo taikomųjų programų šaltinio kodus ir, jei reikia, pasiekti bet kokius ISVs arba taikomųjų programų teikėjus. "Microsoft" palaikymas taip pat gali suteikti jums informaciją apie visus "AAD Graph" naudojimą savo nuomotojuje.
+- [Mūsų perkėlimo kontroliniame sąraše apibūdinama darbo pradžia](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+- Jūsų „Azure“ programos registracijos portale rodoma, kuriose programose naudojama „AAD Graph“. Rekomenduojame peržiūrėti visą programų šaltinio kodą ir, jei taikoma, susisiekti su visais ISV arba programų teikėjais. „Microsoft“ palaikymo tarnyba taip pat gali suteikti informacijos apie visą „AAD Graph“ naudojimą jūsų nuomotojuje.
 
  
 
