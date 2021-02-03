@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697889"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094045"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>"Office" aktyvinimas naudojant įrenginį pagal licenciją
 
-> [!NOTE]
-> "Office" [įrenginys pagrįstas aktyvinimas](https://aka.ms/officedba) JAV švietimo įstaigoms šiuo metu yra nepasenusi. Mes skatiname organizacijas planuoti naujas "Microsoft 365" taikomąsias programas švietimo įstaigoms (įrenginių).
+"Microsoft 365" taikomųjų programų, skirtų "Enterprise", licencijavimui galima naudoti kaip licenciją tik kai kuriems komerciniams klientams ir kai kuriems švietimo įstaigoms. Išsamesnės informacijos ieškokite: ["Microsoft 365" taikomųjų programų, skirtų "Microsoft", įrenginių licencijavimas](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Jei norite aktyvinti "Office" naudodami įrenginių licencijavimo programą, turite turėti "Microsoft" 365 programas švietimo įstaigoms (įrenginių) priedo licenciją, kuri pasiekiama tik švietimo įstaigoms, ir pasiekiama tik per registraciją švietimo įstaigoms (EUS). Peržiūrėkite ["Microsoft 365" taikomųjų programų, skirtų "Enterprise", naudojimo įrenginių licencijavimo reikalavimus](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Jei norite aktyvinti "Microsoft" 365 taikomąsias programas, skirtas įmonėms, naudojantiems įrenginių licencijavimą, žiūrėkite:
 
-
-Išsamesnės informacijos apie sąranką ieškokite:
-
+- [Įrenginių licencijavimo naudojant "Microsoft 365" taikomąsias programas įmonėms reikalavimai](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - ["Microsoft 365" taikomųjų programų, skirtų "Enterprise", licencijavimo konfigūravimo veiksmai](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Įrenginių licencijų valdymas](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Informacijos apie trikčių diagnostiką ieškokite [įrenginio licencijavimo, skirto "Microsoft 365" programoms įmonėms, trikčių diagnostika](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Informacijos apie trikčių diagnostiką ieškokite [įrenginio licencijavimo, skirto "Microsoft 365" programoms įmonėms, trikčių šalinimas](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+> [!NOTE]
+> Jei "Microsoft 365" programos jau įdiegtos ir suaktyvintos naudojant vartotojo prenumeratos licencijavimą arba bendrinamą kompiuterio aktyvinimą, jums reikės iš naujo nustatyti licencijos būseną įrenginyje, kol bus pereita prie įrenginių licencijavimo. Norėdami iš naujo nustatyti aktyvinimo būseną, peržiūrėkite ["Microsoft 365" taikomųjų programų, skirtų įmonės aktyvinimo būsenos, nustatymas iš naujo](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
