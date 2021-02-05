@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560448"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093363"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Įgalinkite slaptažodžio atgalinį įrašymą „Azure AD Connect“
 
@@ -43,4 +43,4 @@ Jei norite įjungti savitarnos slaptažodžio nustatymo iš naujo atgalinį įra
 Daugiau informacijos žr. [„Azure Active Directory“ savitarnos slaptažodžio nustatymo iš naujo atgalinis įrašymas į vietinę aplinką](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Kai administratorius iš naujo nustato vartotojo slaptažodį „Azure“ portale, jei tas vartotojas yra išorinis arba slaptažodžio maiša sinchronizuota, slaptažodis įrašomas į vietinę versiją. Ši funkcija šiuo metu nepalaikoma „Office“ administravimo portale.
+>  Kai administratorius iš naujo nustato vartotojo slaptažodį „Azure“ portale, jei tas vartotojas yra išorinis arba slaptažodžio maiša sinchronizuota, slaptažodis įrašomas į vietinę versiją. Šiai funkcijai reikalinga „Azure Premium“ licencija (P1 arba P2) ir šiuo metu ji nepalaikoma „Office“ administravimo portale.
