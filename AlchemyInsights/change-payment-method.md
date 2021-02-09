@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681836"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152429"
 ---
 # <a name="change-payment-method"></a>Mokėjimo būdo keitimas
 
@@ -35,6 +34,6 @@ Galite pakeisti mokėjimo būdą iš **"Microsoft" 365 administravimo centro**.
 6. Srityje **įtraukti mokėjimo metodą** Įveskite abonemento informaciją, tada pasirinkite **įrašyti**. Turite naudoti mokėjimo būdą iš tos pačios šalies kaip ir jūsų nuomotojas.
 7. Naujas mokėjimo būdas jau pasirinktas išplečiamajame sąraše. Pasirinkite **keisti**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [mokėjimo būdų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Norėdami sužinoti, kaip įtraukti, naujinti, keisti arba Naikinti mokėjimo būdus, žr.: [mokėjimo būdų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Norėdami sužinoti, kaip pakeisti mokėjimo kreditine kortele sąskaitos faktūros mokėjimus, peržiūrėkite [kredito kortelės arba banko sąskaitos keitimas į sąskaitą faktūrą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Norėdami sužinoti, kaip pakeisti mokėjimo būdus, Sužinokite, [kaip mokėti už prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
