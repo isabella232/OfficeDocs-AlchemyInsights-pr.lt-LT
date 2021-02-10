@@ -3,32 +3,32 @@ title: Atsiskaitymo arba sąskaitos faktūros DUK
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500024"
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
-ms.translationtype: MT
+ms.openlocfilehash: 2bd9f76f0521d51e41b9746df0ee0983876a48c9
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364631"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152503"
 ---
 # <a name="billing-or-invoice-faq"></a>Atsiskaitymo arba sąskaitos faktūros DUK
 
-- Mokėjimai gali būti **atmesti** dėl kelių priežasčių, įskaitant pasibaigusį kredito kortelės galiojimą. Norėdami tai išspręsti, žr. [Mokėjimo būdo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
-- Jei jūsų mokėjimas **vėluoja**, naudokite funkciją **Sudengimo likutis**, kad iš naujo pateiktumėte mokėjimą. Norėdami išspręsti problemą, žr. [Ką daryti, jei mokėjimas vėluoja?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Vis tiek gaunate mokestį už licencijas, kurios nėra priskirtos vartotojams. Kad išvengtumėte nereikalingų mokesčių, pašalinkite nenaudojamas licencijas, kad sumažintumėte licencijų skaičių. Žiūrėkite [įtraukti arba pašalinti licencijas](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) iš prenumeratos.
+- Mokėjimai gali būti **atmesti** dėl kelių priežasčių, įskaitant pasibaigusį kredito kortelės galiojimą. Norėdami tai išspręsti, žr. [Mokėjimo būdo informacijos naujinimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- Jei jūsų mokėjimas **vėluoja**, naudokite funkciją **Sudengimo likutis**, kad iš naujo pateiktumėte mokėjimą. Norėdami tai išspręsti, žr. [Ką daryti, jei turiu neapmokėtą likutį?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- Vis tiek būsite apmokestinti už licencijas, kurios nėra priskirtos vartotojams. Siekdami išvengti nereikalingų mokesčių, pašalinkite nenaudojamas licencijas, kad sumažintumėte licencijų skaičių. Žr. [Prenumeratos licencijų įsigijimas arba šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Jei norite pakeisti **atsiskaitymo dažnumą** į kas mėnesį ar kas metus, žr. [Atsiskaitymo dažnumo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Jei reikia pagalbos dėl mokėjimo, žr. [Sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Jei reikia pagalbos, norint **peržiūrėti** sąskaitą, žr. [Sąskaitos ar sąskaitos faktūros peržiūra](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Jei norite pakeisti atsiskaitymo informaciją, peržiūrėkite [atsiskaitymo profilio valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) arba [atsiskaitymo adreso keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Jei norite pakeisti atsiskaitymo informaciją, žr. [Atsiskaitymo profilių paaiškinimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) arba [Atsiskaitymo adreso keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Daugiau informacijos rasite [savo sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Daugiau informacijos žr. [Sąskaitos faktūros paaiškinimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

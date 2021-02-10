@@ -1,30 +1,29 @@
 ---
 title: Mokėjimo būdo keitimas
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933403"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152602"
 ---
 # <a name="change-payment-method-fromto"></a>Mokėjimo būdo keitimas iš / į
 
 1. **Keitimas iš sąskaitos faktūros į kredito kortelę ar banko sąskaitą**
 
-    - Jums pakeitus mokėjimą pagal sąskaitą faktūrą į mokėjimą kredito kortele arba per banko sąskaitą, automatiškai sukuriame jums naują prenumeratą, perkeliame į ją jūsų vartotojus, tada išjungiame senąją prenumeratą. Nesirūpinkite, jūsų vartotojai nematys paslaugos sutrikimų ir visa jų informacija bus pasiekiama per naująją prenumeratą. 
-
-    - Atlikite veiksmus, aprašytus temoje [Keitimas iš sąskaitos faktūros į kredito kortelę ar banko sąskaitą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Negalite automatiškai pakeisti iš mokėjimo pagal sąskaitą faktūrą į mokėjimą naudojant kitą mokėjimo būdą. Vietoj to turite [įsigyti kitą prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), už kurią mokėsite kredito ar debeto kortele arba banko sąskaita, [perkelti visus vartotojus į naująją prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), tada [atšaukti senąją prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Keitimas iš kredito kortelės ar banko sąskaitos į sąskaitą faktūrą**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933403"
 
     - Jei jūsų užsakymo kiekis per didelis, gali būti reikalingas kredito tikrinimas. Jei taip, matysite pranešimą „Negalima keisti į sąskaitą faktūrą. Jūsų užsakymui įvykdyti reikalingas kredito tikrinimas“. Tokiu atveju pakeičiate mokėjimą pagal sąskaitą faktūrą rankiniu būdu.
 
-    - Atlikite veiksmus, aprašytus temoje [Keitimas iš kredito kortelės ar banko sąskaitos į sąskaitą faktūrą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice), kad užbaigtumėte rankiniu būdu atliekamą keitimą.
+    - Atlikite veiksmus, aprašytus temoje [Kaip keisti iš mokėjimo kredito kortele į mokėjimą pagal sąskaitą faktūrą?](how-do-i-change-from-credit-card-payments-to-invoice.md), kad užbaigtumėte rankiniu būdu atliekamą keitimą.
 
-Daugiau informacijos žr. [Mokėjimo būdo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Daugiau informacijos žr. [Kaip mokėti už prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
