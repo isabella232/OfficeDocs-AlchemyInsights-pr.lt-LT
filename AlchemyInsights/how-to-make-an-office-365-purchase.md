@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287146"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232375"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kaip padaryti "Microsoft 365" pirkimą
 
 Galite įsigyti "Microsoft" 365 prenumeratą administravimo centre.
   
-- Norėdami įsigyti planą, eikite į puslapį **atsiskaitymo** \> [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-- Norėdami įsigyti papildomų licencijų, eikite į puslapį **atsiskaitymo** \> [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) . Pasirinkite prenumeratą, kurią norite keisti, tada pasirinkite **pirkti licencijas** arba **pašalinti licencijas**.
+- Norėdami įsigyti planą, eikite į puslapį **atsiskaitymo** \> **[pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+- Norėdami įsigyti papildomų licencijų, eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Pasirinkite prenumeratą, kurią norite keisti, tada pasirinkite **pirkti licencijas**. \
+**Peržiūrėkite vaizdo įrašą** , kuriame rodoma, kaip tai padaryti: [naujų licencijų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Jei norite sužinoti daugiau, peržiūrėkite ["Microsoft 365" verslui prenumeratos licencijų pirkimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Norėdami sužinoti daugiau, skaitykite [licencijų pirkimas arba šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Trikčių diagnostika**
 

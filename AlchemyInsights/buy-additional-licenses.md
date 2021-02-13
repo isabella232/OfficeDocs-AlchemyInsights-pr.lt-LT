@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307206"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232303"
 ---
 # <a name="buy-additional-licenses"></a>Papildomų licencijų įsigijimas
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Skirtuke **produktai** raskite prenumeratą, kurios licencijas norite įsigyti arba pašalinti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **pirkti licencijas**.
-3. Jei norite sumažinti licencijų skaičių, srities **įsigyti licencijas** viršuje pasirinkite **pašalinti licencijas**.
-4. Norėdami įsigyti arba pašalinti licencijas, dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių. Pavyzdžiui, jei turite "100" licencijas ir norite įtraukti dar 25, įveskite 125. Jei norite pašalinti 25 licencijas, "75".
-5. Pasirinkite **įrašyti**.
+**Peržiūrėkite vaizdo įrašą** , kuriame rodoma, kaip tai padaryti: [licencijų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Jei norite sužinoti daugiau, peržiūrėkite ["Microsoft 365" verslui prenumeratos licencijų pirkimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Skirtuke **produktai** raskite prenumeratą, kurios licencijas norite įsigyti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **pirkti licencijas**.
+3. Dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių. Pavyzdžiui, jei turite "100" licencijas ir norite įtraukti dar 25, įveskite 125.
+4. Pasirinkite **įrašyti**.
+
+Norėdami sužinoti daugiau, skaitykite [licencijų pirkimas arba šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Papildomi ištekliai**
 
