@@ -2,8 +2,7 @@
 title: Taikomųjų programų licencijų valdymas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778159"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232411"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="53ff9-102">Taikomųjų programų licencijų valdymas</span><span class="sxs-lookup"><span data-stu-id="53ff9-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="70a2e-102">Taikomųjų programų licencijų valdymas</span><span class="sxs-lookup"><span data-stu-id="70a2e-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="53ff9-103">Licencijos kiekio keitimas</span><span class="sxs-lookup"><span data-stu-id="53ff9-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="70a2e-103">Licencijos kiekio keitimas</span><span class="sxs-lookup"><span data-stu-id="70a2e-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="53ff9-104">Eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** , tada pasirinkite skirtuką **taikomosios programos** .</span><span class="sxs-lookup"><span data-stu-id="53ff9-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="70a2e-104">Eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="70a2e-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="70a2e-105">Skirtuko **produktai** sekcijoje **programos** raskite norimą valdyti taikomąją programą.</span><span class="sxs-lookup"><span data-stu-id="70a2e-105">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="70a2e-106">Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **pirkti licencijas**.</span><span class="sxs-lookup"><span data-stu-id="70a2e-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="70a2e-107">Jei norite sumažinti licencijų skaičių, srities **įsigyti licencijas** viršuje pasirinkite **pašalinti licencijas**.</span><span class="sxs-lookup"><span data-stu-id="70a2e-107">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="70a2e-108">Norėdami įsigyti arba pašalinti licencijas, dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių.</span><span class="sxs-lookup"><span data-stu-id="70a2e-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="70a2e-109">Pavyzdžiui, jei turite "100" licencijas ir norite įtraukti dar penkis, įveskite 105.</span><span class="sxs-lookup"><span data-stu-id="70a2e-109">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="70a2e-110">Jei norite pašalinti penkis iš jų, Įvesk 95.</span><span class="sxs-lookup"><span data-stu-id="70a2e-110">If you want to remove five of them, enter 95.</span></span>
+5. <span data-ttu-id="70a2e-111">Pasirinkite **įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="70a2e-111">Select **Save**.</span></span>
 
-2. <span data-ttu-id="53ff9-105">Raskite ir pasirinkite programą, kurią norite valdyti.</span><span class="sxs-lookup"><span data-stu-id="53ff9-105">Find and select the app you want to manage.</span></span>  
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="70a2e-112">Taikomųjų programų licencijų priskyrimas</span><span class="sxs-lookup"><span data-stu-id="70a2e-112">To assign app licenses</span></span>
 
-3. <span data-ttu-id="53ff9-106">Pasirinkite **Įtraukti/šalinti licencijas**.</span><span class="sxs-lookup"><span data-stu-id="53ff9-106">Select **Add/remove licenses**.</span></span>
-
-4. <span data-ttu-id="53ff9-107">Surinkite naują reikiamą licencijų skaičių.</span><span class="sxs-lookup"><span data-stu-id="53ff9-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="53ff9-108">Pavyzdžiui, jei šiuo metu turite 5 licencijas ir reikia tik 4, lauke **Bendra licencija** įveskite 4.</span><span class="sxs-lookup"><span data-stu-id="53ff9-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="53ff9-109">Jei šiuo metu turite 5 licencijas ir reikia 10 bendrųjų licencijų, įveskite 10 lauke **Bendra licencija** .</span><span class="sxs-lookup"><span data-stu-id="53ff9-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
-
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="53ff9-110">Taikomųjų programų licencijų priskyrimas</span><span class="sxs-lookup"><span data-stu-id="53ff9-110">To assign app licenses</span></span>
-
-1. <span data-ttu-id="53ff9-111">Eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** , tada pasirinkite skirtuką **taikomosios programos** .</span><span class="sxs-lookup"><span data-stu-id="53ff9-111">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
-
-2. <span data-ttu-id="53ff9-112">Raskite ir pasirinkite programą, kurią norite valdyti.</span><span class="sxs-lookup"><span data-stu-id="53ff9-112">Find and select the app you want to manage.</span></span>  
-
-3. <span data-ttu-id="53ff9-113">Dalyje **parametrai & veiksmai**pasirinkite saitą, kurį norite **tvarkyti programos "Publisher" portale**.</span><span class="sxs-lookup"><span data-stu-id="53ff9-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+1. <span data-ttu-id="70a2e-113">Eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="70a2e-113">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="70a2e-114">Skirtuko **produktai** sekcijoje **programos** raskite ir pasirinkite norimą valdyti taikomąją programą.</span><span class="sxs-lookup"><span data-stu-id="70a2e-114">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
+3. <span data-ttu-id="70a2e-115">Dalyje **parametrai & veiksmai** pasirinkite saitą, kurį norite **tvarkyti programos "Publisher" portale**.</span><span class="sxs-lookup"><span data-stu-id="70a2e-115">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
