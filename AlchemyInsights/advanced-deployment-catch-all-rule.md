@@ -2,8 +2,9 @@
 title: Išplėstinė įdiegtis sugavimo visos taisyklės
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696700"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448651"
 ---
-# <a name="deploy-microsoft-365-apps"></a>"Microsoft 365" taikomųjų programų diegimas
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>"Office" diegimas su "Microsoft" 365 taikomųjų programų diegimo patarėju
 
-Jei norite, kad "Microsoft 365" programos būtų diegiamos keliems galutiniams vartotojams naudojant "Office" diegimo įrankį, "Microsoft Endpoint Configuration Manager", kaip operacinės sistemos disko atvaizdo dalis arba bendrai naudojamame kompiuterio scenarijuje, naudojant "Windows Server" su nuotolinio darbalaukio tarnybomis (RDS) arba terminalų tarnybomis, apsvarstykite galimybę naudoti " **microsoft 365" taikomųjų programų patarėjo "Microsoft" programos**instrukcijas.
+["Microsoft" 365 programėlių diegimo patarėjas](https://admin.microsoft.com/adminportal/home) padeda gauti vartotojų įrenginius, kuriuose veikia naujausia "Office" produktų versija, pvz., "Word", "Excel", "PowerPoint" ir "OneNote".
   
-Norėdami pradėti, įsitikinkite, kad esate prisijungę kaip nuomotojo administratorius arba visuotinis administratorius, tada spustelėkite čia: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Gausite įvairių diegimo būdų gaires, kurios apima paprastas savaiminio diegimo parinktis, taip pat įmonės diegimus naudojant valdymo įrankius. Nurodymai padės jums įvertinti aplinką, išsiaiškinti konkrečius diegimo reikalavimus ir įdiegti reikiamus palaikymo įrankius, kad būtų užtikrintas sėkmingas diegimas.
   
