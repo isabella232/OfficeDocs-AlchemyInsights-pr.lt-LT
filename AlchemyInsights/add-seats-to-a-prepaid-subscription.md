@@ -2,8 +2,7 @@
 title: Vietų įtraukimas į iš anksto apmokėtą prenumeratą
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "663"
 - "1500007"
-ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 144ca4097e0b1831e5772c78208e9e542577b1ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 28d9722779a89f843af8a83304ffd6640012af93
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687694"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469454"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Vietų įtraukimas į iš anksto apmokėtą prenumeratą
 
-Išankstinio apmokėjimo licencijos išduodamos jums kaip 25 simbolių raidinį skaitmeninį kodą. Įsigiję jums reikalingas licencijas, galite jas įtraukti į savo produktų paketą. 
+Išankstinio apmokėjimo licencijos išduodamos jums kaip 25 simbolių raidinį skaitmeninį kodą. Įsigiję jums reikalingas licencijas, galite jas įtraukti į savo produktų paketą.
 
 1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Raskite prenumeratą, į kurią norite įtraukti licencijų. Sekcijoje **licencijos** pasirinkite **įtraukti daugiau licencijų**.
-
-3. Srityje **įtraukti daugiau licencijų** pasirinkite **naudoti naują ir nenaudojamą produkto kodą**, tada pasirinkite **Pirmyn**.
-
-4. Įveskite produkto kodą, tada pasirinkite **Pirmyn**.
-
+2. Skirtuke **produktai** pasirinkite prenumeratą, į kurią norite įtraukti licencijų.
+3. Puslapio išsami prenumeratos informacija sekcijoje **licencijos** pasirinkite **įtraukti daugiau licencijų**.
+4. Srityje **įtraukti daugiau licencijų** pasirinkite **naudoti naują ir nenaudojamą produkto kodą**, tada pasirinkite **Pirmyn**.
+5. Įveskite produkto kodą, tada pasirinkite **Pirmyn**.
     > [!NOTE]
     > Jei turite daugiau nei vieną produkto kodą, galite pasirinkti **Įtraukti kitą produkto kodą** , kad juos įvestumėte.
-
-5. Peržiūrėkite savo užsakymo informaciją, tada pasirinkite **panaudoti**.
+6. Peržiūrėkite savo užsakymo informaciją, tada pasirinkite **panaudoti**.
 
 Jei norite sužinoti daugiau, peržiūrėkite [licencijų pridėjimas arba pratęsimas, mokamas naudojant produkto kodą](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
