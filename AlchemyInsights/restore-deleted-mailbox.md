@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728079"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641526"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="4cf1e-102">Panaikintos pašto dėžutės atkūrimas</span><span class="sxs-lookup"><span data-stu-id="4cf1e-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="618f3-102">Panaikintos pašto dėžutės atkūrimas</span><span class="sxs-lookup"><span data-stu-id="618f3-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="4cf1e-103">Vartotojui praradus "Exchange Online" licenciją, jų pašto dėžutė išsaugoma 30 dienų ir gali būti atkurta paprasčiausiai iš naujo priskiriant licenciją vartotojui.</span><span class="sxs-lookup"><span data-stu-id="4cf1e-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="618f3-103">Vartotojui praradus "Exchange Online" licenciją, jų pašto dėžutė išsaugoma 30 dienų ir gali būti atkurta paprasčiausiai iš naujo priskiriant licenciją vartotojui.</span><span class="sxs-lookup"><span data-stu-id="618f3-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="4cf1e-104">*Tai veiks tik per 30 dienų.*</span><span class="sxs-lookup"><span data-stu-id="4cf1e-104">*This will work only within 30 days.*</span></span>  
-  
-1. <span data-ttu-id="4cf1e-105">"Microsoft 365" administravimo centre eikite į puslapį **vartotojų** \> **aktyvūs vartotojai** .</span><span class="sxs-lookup"><span data-stu-id="4cf1e-105">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="4cf1e-106">Pasirinkite atitinkamą vartotoją.</span><span class="sxs-lookup"><span data-stu-id="4cf1e-106">Select the user in question.</span></span>
+1. <span data-ttu-id="618f3-104">"Microsoft 365" administravimo centre eikite į puslapį **vartotojų** \> **aktyvūs vartotojai** .</span><span class="sxs-lookup"><span data-stu-id="618f3-104">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="618f3-105">Pasirinkite atitinkamą vartotoją.</span><span class="sxs-lookup"><span data-stu-id="618f3-105">Select the user in question.</span></span>
 
-2. <span data-ttu-id="4cf1e-107">Skirtuke **licencijos ir taikomosios programos** priskirkite "Exchange Online" licenciją ir pasirinkite **įrašyti pakitimus**.</span><span class="sxs-lookup"><span data-stu-id="4cf1e-107">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
+2. <span data-ttu-id="618f3-106">Skirtuke **licencijos ir taikomosios programos** priskirkite "Exchange Online" licenciją ir pasirinkite **įrašyti pakitimus**.</span><span class="sxs-lookup"><span data-stu-id="618f3-106">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
 
-<span data-ttu-id="4cf1e-108">Jei bandote atkurti bendrinamą pašto dėžutę, jis taip pat grąžinamas 30 dienų.</span><span class="sxs-lookup"><span data-stu-id="4cf1e-108">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="4cf1e-109">Jas galite gauti dalyje **vartotojai** \> **panaikinta**vartotojai; bendrinamoms pašto dėžutėms nereikia licencijos.</span><span class="sxs-lookup"><span data-stu-id="4cf1e-109">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="4cf1e-110">Jei supratote, kad turite atkurti panaikintą vartotoją, skaitykite [vartotojo atkūrimas](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="4cf1e-110">If you realize that you need to restore a deleted user, please see [Restore a user](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span></span>
+<span data-ttu-id="618f3-107">Jei bandote atkurti bendrinamą pašto dėžutę arba panaikintas vartotojas, jis taip pat grąžinamas 30 dienų.</span><span class="sxs-lookup"><span data-stu-id="618f3-107">If you are trying to recover a shared mailbox or a user that was deleted, it is also recoverable for 30 days.</span></span> <span data-ttu-id="618f3-108">Jas galite gauti dalyje **vartotojai** \> **panaikinta** vartotojai; bendrinamoms pašto dėžutėms nereikia licencijos.</span><span class="sxs-lookup"><span data-stu-id="618f3-108">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="618f3-109">Žiūrėkite [atkurti vartotoją](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="618f3-109">Please see [Restore a user](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span></span>
+
+<span data-ttu-id="618f3-110">Administratoriai gali atkurti laiškus iš vartotojo pašto dėžutės, eidami į [naują "Exchange" administravimo centrą](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).</span><span class="sxs-lookup"><span data-stu-id="618f3-110">Recovery of email from user's mailbox can be done by admins by going to the [new Exchange Admin Center](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).</span></span>
+
+<span data-ttu-id="618f3-111">Galiausiai, jei bandote atkurti neaktyvią pašto dėžutę, [vadovaukitės instrukcijomis čia](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).</span><span class="sxs-lookup"><span data-stu-id="618f3-111">Finally, if you are trying to recover an Inactive mailbox, [follow the instructions here](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).</span></span>
   
