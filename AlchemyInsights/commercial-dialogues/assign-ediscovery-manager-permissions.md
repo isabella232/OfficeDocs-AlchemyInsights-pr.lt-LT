@@ -1,0 +1,31 @@
+---
+title: "\"Udiscovery Manager\" teisių priskyrimas"
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 02/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "7363"
+- "9000722"
+ms.openlocfilehash: a944c8a9fbb2a233d36b6ef1779227d3a079adfb
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.translationtype: MT
+ms.contentlocale: lt-LT
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50749489"
+---
+# <a name="assign-ediscovery-manager-permissions"></a><span data-ttu-id="5cb36-102">"Udiscovery Manager" teisių priskyrimas</span><span class="sxs-lookup"><span data-stu-id="5cb36-102">Assign eDiscovery Manager permissions</span></span>
+
+<span data-ttu-id="5cb36-103">Norėdami priskirti "Udiscovery Manager" teises, atlikite šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="5cb36-103">To assign eDiscovery Manager permissions, perform the following steps:</span></span>
+
+1. <span data-ttu-id="5cb36-104">" [Office 365" saugos & atitikties centre](https://sip.protection.office.com/)pasirinkite **teisės > eDiscovery tvarkytuvas**.</span><span class="sxs-lookup"><span data-stu-id="5cb36-104">In the [Office 365 Security & Compliance Center](https://sip.protection.office.com/), select **Permissions > eDiscovery Manager**.</span></span>
+2. <span data-ttu-id="5cb36-105">Srityje **elektroninės aptikimo tvarkytuvas** , esančioje prie " **udiscovery Manager**", spustelėkite **Redaguoti**.</span><span class="sxs-lookup"><span data-stu-id="5cb36-105">In the **eDiscovery Manager** pane, next to **eDiscovery Manager**, click **Edit**.</span></span>
+3. <span data-ttu-id="5cb36-106">Srityje **Redaguoti pasirinkite "Sediscovery Manager** " spustelėkite **pasirinkti "udiscovery Manager**".</span><span class="sxs-lookup"><span data-stu-id="5cb36-106">In the **Editing Choose eDiscovery Manager** pane, click **Choose eDiscovery Manager**.</span></span>
+4. <span data-ttu-id="5cb36-107">Srityje **pasirinkti "Udiscovery Manager** " spustelėkite **+ įtraukti**, tada pasirinkite vartotojų vardus.</span><span class="sxs-lookup"><span data-stu-id="5cb36-107">In the **Choose eDiscovery Manager** pane, click **+ Add**, and then select the users' names.</span></span>
+5. <span data-ttu-id="5cb36-108">Pasirinkite **įtraukti > atlikta > įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="5cb36-108">Select **Add > Done > Save**.</span></span>
