@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687802"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704758"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Vartotojų įtraukimas, šalinimas arba neleidimas keisti profilio nuotraukas
 
@@ -25,6 +25,6 @@ ms.locfileid: "47687802"
 
 - **Profilio nuotraukų šalinimas:** Profilio nuotraukas gali pašalinti administratorius " [Azure Active Directory" vartotojų valdyme](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) arba vartotojo "Microsoft teams" vartotojo profilyje.
 
-- **Profilio nuotraukų blokavimo keitimas:** Nuotraukų keitimus galima užblokuoti visiems "Microsoft" 365 *, įtraukiant "Outlook Web App" strategiją už straipsnį, [užrakinant nuotraukas arba apribojant teises keisti "microsoft 365" profilio nuotrauką](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Profilio nuotraukų blokavimo keitimas:** Nuotraukų keitimus galima užblokuoti visiems "Microsoft" 365 *, įtraukiant "Outlook Web App" strategiją už straipsnį, [užrakinant nuotraukas arba apribojant teises keisti "microsoft 365" profilio nuotrauką](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Atkreipkite dėmesio, kad "Microsoft teams" šiuo metu nepalaiko "Outlook Web App" strategijos, kad užblokuotumėte nuotraukų pokyčius, tačiau planuoja įtraukti šios funkcijos palaikymą "2020" pradžioje.
+* "Microsoft teams" šiuo metu nepalaiko "Outlook Web App" strategijos, kad užblokuotumėte nuotraukų pokyčius, tačiau planuoja įtraukti šios funkcijos palaikymą "2020" pradžioje.

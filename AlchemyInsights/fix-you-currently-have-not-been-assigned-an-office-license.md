@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: cf7bb0209d07ec5ccf3f06c395ca170c8d7381e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010190"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704866"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Pataisymas –  „Šiuo metu jums nepriskirta „Office“ licencija“
 
 Norėdami įdiegti „Office“ kliento programas, įsitikinkite, kad turite „Office 365“ arba „Microsoft 365“ prenumeratą, kuri [apima „Office“ kliento programas](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), pvz., „Microsoft 365 Business Premium“, „Microsoft 365“ programas verslui ar „Microsoft 365“ programas įmonėms.
 
-**Pastaba**: [„Office“ namams ir verslui](https://products.office.com/home-and-business) yra [„Office“, skirto namams,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) produktas, o ne verslo prenumeratos dalis. Programoje „Project Online Essentials“ nėra „Project“ kompiuterio versijos, todėl nieko diegti nereikia. Internetinės „Visio“ 1 plano vartotojai gali pasiekti internetinę „Visio“, nes planas neapima „Visio“ kompiuterio taikomosios programos. „Project“ ir „Visio“ kompiuterio programos nėra pasiekiamos „Mac“
+**Pastaba**: [„Office“ namams ir verslui](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) yra [„Office“, skirto namams,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) produktas, o ne verslo prenumeratos dalis. Programoje „Project Online Essentials“ nėra „Project“ kompiuterio versijos, todėl nieko diegti nereikia. Internetinės „Visio“ 1 plano vartotojai gali pasiekti internetinę „Visio“, nes planas neapima „Visio“ kompiuterio taikomosios programos. „Project“ ir „Visio“ kompiuterio programos nėra pasiekiamos „Mac“
 
-Jei turite prenumeratą, kurioje yra „Office“ programų, nematysite parinkties Įdiegti, nebent turite [priskirtąją licenciją](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Jei esate „Office 365“ administratorius, atsakingas už licencijų priskyrimą, žr. [Licencijų priskyrimas vartotojams](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Jei turite prenumeratą, kurioje yra „Microsoft 365“ programų, nematysite parinkties „Įdiegti“, nebent turite [priskirtąją licenciją](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Jei esate „Office 365“ administratorius, atsakingas už licencijų priskyrimą, žr. [Licencijų priskyrimas vartotojams](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Kiekvienas vartotojas turi:
 
@@ -32,7 +33,7 @@ Kiekvienas vartotojas turi:
 
 2. Prisijunkite naudodami savo darbo arba mokymo įstaigos paskyrą, kuriai skirta „Office“ licencija.
 
-3. „Office“ skyriuje pasirinkite kalbą. Pasirinkite 32 bitų arba 64 bitų versiją.
+3. „Office“ skyriuje pasirinkti kalbą. Pasirinkite 32 bitų arba 64 bitų versiją.
 
 4. Spustelėkite **Diegti**.
 

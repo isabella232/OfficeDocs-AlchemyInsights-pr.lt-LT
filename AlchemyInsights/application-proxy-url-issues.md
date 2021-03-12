@@ -1,10 +1,10 @@
 ---
-title: Taikomosios programos tarpinio serverio URL problemos
+title: Problemos su taikomosios programos tarpinio serverio URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50036045"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641490"
 ---
-# <a name="application-proxy-url-issues"></a>Taikomosios programos tarpinio serverio URL problemos
+# <a name="application-proxy-url-issues"></a>Problemos su taikomosios programos tarpinio serverio URL
 
-Norėdami šalinti problemas, susijusias su taikomosios programos tarpinio serverio URL, žiūrėkite:
+Norėdami šalinti su taikomosios programos tarpinio serverio URL susijusias triktis, žr.:
 
-- [Puslapio saitai neveikia taikomosios programos tarpinio serverio taikomojoje](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  programoje – gairės, kaip spręsti, kodėl "Azure Active Directory" (AD) tarpinio serverio taikomosios programos saitai netinkamai veikia.
+- [Saitai puslapyje neveikia „Application Proxy“ programoje](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  – rekomendacijos trikčių šalinimui, kai saitai „Microsoft Azure Active Directory“ (AD) tarpinio serverio taikomojoje programoje veikia netinkamai.
 
-- [Konfigūruokite įprastus domenus naudodami "AZURE AD" taikomosios programos tarpinį serverį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – informacija, kaip sukurti išorinį vartotojų URL.
+- [Pasirinktinių domenų naudojimo „Microsoft Azure Active Directory Application Proxy“ pasirinkimas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – informacija apie išorinio URL kūrimą jūsų vartotojams.
 
-- [Peradresuojamų užprogramuotų saitų, skirtų programoms, publikuojamų naudojant "AZURE AD" taikomosios programos tarpinį serverį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  – informacija apie įdėtuosius URL
+- [Užprogramuotųjų saitų programų, publikuotoms naudojant „Microsoft Azure Active Directory Application Proxy“, peradresavimas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation) – informacija apie įdėtųjų URL vertimą
+
+- [Pasirinktinio pagrindinio puslapio nustatymas programoms, publikuotoms naudojant „Microsoft Azure Active Directory Application Proxy“](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – kai publikuojate taikomąją programą naudodami „Application Proxy“, nustatote vidinį URL, tačiau kartais tai nėra puslapis, kurį vartotojai turėtų pamatyti pirmiausiai. Nustatykite pasirinktinį pagrindinį puslapį, kad vartotojai būtų nukreipti į reikiamą puslapį, kai pasiekia taikomąją programą. Vartotojai matys jūsų nustatytą pasirinktinį pagrindinį puslapį, neatsižvelgiant į tai, ar jie prisijungia prie taikomosios programos iš „Microsoft Azure Active Directory My Apps“, ar „Microsoft 365“ taikomųjų programų vykdyklės.
+
+- Turite klausimų apie taikomosios programos tarpinio serverio URL konfigūraciją? Žr. [Vietinės taikomosios programos įtraukimas į „Microsoft Azure Active Directory“](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+ 
 
