@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366436"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708682"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>"Exchange" sąlyginės prieigos stebėjimas
 
@@ -38,8 +38,8 @@ Naudingi saitai:
 
 [Trikčių diagnostika CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Trikčių šalinimo strategija](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Trikčių šalinimo strategija](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 ["Intune" įrenginio atitikties stebėjimas](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Pastaba: šie veiksmai naudingi tik šalinant "Azure Active Directory" funkcijos sąlyginę prieigą. Taip pat galima sulaikyti įrenginį, kuris blokuoja prieigą prie "Exchange" strategijos. Daugiau informacijos apie "Exchange" įrenginių valdymą rasite [čia](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Pastaba: šie veiksmai naudingi tik šalinant "Azure Active Directory" funkcijos sąlyginę prieigą. Taip pat galima sulaikyti įrenginį, kuris blokuoja prieigą prie "Exchange" strategijos. Daugiau informacijos apie "Exchange" įrenginių valdymą galima rasti [čia] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
