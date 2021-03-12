@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602120"
+ms.locfileid: "50707854"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Įsigykite "Microsoft Defender", skirtą "Office 365"
 
-"Microsoft Defender for Office 365" yra įtrauktas į tam tikras prenumeratas, pvz., "Microsoft 365 E5", "Office 365 E5", "Office 365 A5" ir "Microsoft 365 Business Premium" Jei jūsų prenumeratoje nėra "Microsoft Defender", skirtos "Office 365", galite įsigyti ["Microsoft Defender for office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) " kaip priedą prie tam tikros prenumeratos. Jei norite įsigyti "Microsoft 365" administravimo centre:
+"Microsoft Defender for Office 365" yra įtrauktas į tam tikras prenumeratas, pvz., "Microsoft 365 E5", "Office 365 E5", "Office 365 A5" ir "Microsoft 365 Business Premium" Jei jūsų prenumeratoje nėra "Microsoft Defender", skirtos "Office 365", galite įsigyti ["Microsoft Defender for office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) " kaip priedą prie tam tikros prenumeratos. Jei norite įsigyti "Microsoft 365" administravimo centre:
 
 1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 2. Puslapio **pirkimas paslaugos** apačioje, sekcijoje **išoriniai priedai** raskite "Microsoft Defender", skirtą "Office 365" papildinį, ir pasirinkite **išsami informacija**.

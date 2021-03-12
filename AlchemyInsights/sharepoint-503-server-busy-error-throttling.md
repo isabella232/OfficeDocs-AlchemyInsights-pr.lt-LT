@@ -1,8 +1,8 @@
 ---
-title: "\"SharePoint Online\" buferizavimo"
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: "\"SharePoint Online\" – pristabdyta"
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,18 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773855"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707566"
 ---
 # <a name="sharepoint-online-throttling"></a>"SharePoint Online" buferizavimo
 
-**Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
+„SharePoint Online“ naudoja ribojimo funkciją, kad užtikrintų optimalų „SharePoint Online“ paslaugos veiksmingumą ir patikimumą. Ribojimas apriboja vartotojo veiksmų arba vienu metu vykstančių skambučių (pagal scenarijų ar kodą) skaičių, kad būtų užkirstas kelias per dideliam išteklių naudojimui. 
 
-**"503" serveris užimtas**
-
-Vartotojai gali gauti "503" serveris yra užimtas klaida bandant pereiti į "SharePoint" arba "OneDrive" svetaines. 
-
-Šią klaidą gali sukelti "SharePoint" tarnyboje. „SharePoint Online“ naudoja ribojimo funkciją, kad užtikrintų optimalų „SharePoint Online“ paslaugos veiksmingumą ir patikimumą. Ribojimas apriboja vartotojo veiksmų arba vienu metu vykstančių skambučių (pagal scenarijų ar kodą) skaičių, kad būtų užkirstas kelias per dideliam išteklių naudojimui. 
-
-Daugiau informacijos apie buferizavimą rasite " [SharePoint Online" negauti ribojimo arba užblokuotas](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Daugiau informacijos apie greičio ribojimą rasite skyriuje " [SharePoint Online" neleidimas arba užblokuotas](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
 Jei manote, kad ši klaida yra nesusijusi su buferizacija, galite patikrinti, ar jūsų nuomotojuje yra aktyvi priežiūra, kai naršote [pranešimų centre](https://portal.office.com/adminportal/home#/MessageCenter).
 
