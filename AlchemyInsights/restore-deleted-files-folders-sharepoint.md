@@ -14,18 +14,18 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797772"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708250"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Panaikintų failų arba aplankų atkūrimas "SharePoint"
 
 Jei netyčia panaikinote failą ar aplanką "SharePoint", galbūt galėsite jį atkurti iš Šiukšlinės.
 
-* [Panaikintų failų arba aplankų atkūrimas "SharePoint"](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [Panaikintų failų arba aplankų atkūrimas "SharePoint"](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 Jei jūsų "SharePoint" failai bus ištrinti, perrašyti, sugadinti ar užkrėsti kenkėjiška programa, galite atkurti visą "SharePoint" biblioteką iki ankstesnio laiko.
 

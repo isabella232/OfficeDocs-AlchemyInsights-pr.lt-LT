@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
 ms.openlocfilehash: 34d7b9195ff7d8d8d43da173a4c77643080ef67e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801408"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "50713999"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>"Microsoft 365" grupės atkūrimas naudojant "Exchange" administravimo centrą
 
-1. Kairiojoje "Microsoft 365" administravimo centro naršymo srityje išplėskite **administravimo centras**ir pasirinkite " **Exchange**".
+1. Kairiojoje "Microsoft 365" administravimo centro naršymo srityje išplėskite **administravimo centras** ir pasirinkite " **Exchange**".
     
 2. "Exchange" administravimo centre pasirinkite **gavėjai**, tada pasirinkite **grupės**. Galite peržiūrėti, ar grupė yra aktyvi, ar švelni. Jei grupė panaikinta visam laikui, ji nebus pateikta.
     
