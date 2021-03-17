@@ -2,9 +2,9 @@
 title: Atšauksite savo "Microsoft" 365 prenumeratą?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757236"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837426"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Atšauksite savo "Microsoft" 365 prenumeratą?
 
-Apgailestaujame, bet pateikiame savo prenumeratos atšaukimo parinktis:
-  
-- **Atsižvelgdami į savo organizacijos duomenis, manome, kad visos jūsų dabartinės prenumeratos yra bandomosios prenumeratos. Nėra reikalo aiškiai atšaukti bandomąją prenumeratą, nes bandomosioms prenumeratoms nereikia atlikti jokių mokėjimų, o pasibaigus bandomajam laikotarpiui nėra įpareigojimo.**
+Apgailestaujame, kad toliau pateikiame savo prenumeratos atšaukimo veiksmus:
 
-- Norėdami sužinoti daugiau apie prenumeratos atšaukimą arba nuoseklias instrukcijas, skaitykite šį straipsnį: [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** , tada pasirinkite skirtuką **produktai** .
+2. Raskite prenumeratą, kurią norite atšaukti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.
+3. Srityje **atšaukti prenumeratą** pasirinkite priežastį, kodėl atšaukiate. Pasirinktinai pateikite atsiliepimų.
+4. Pasirinkite **įrašyti**.
+
+Jei norite sužinoti daugiau apie prenumeratos atšaukimą arba parinktis, skaitykite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
