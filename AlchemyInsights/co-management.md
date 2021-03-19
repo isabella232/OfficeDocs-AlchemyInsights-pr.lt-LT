@@ -3,7 +3,7 @@ title: Bendras valdymas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681268"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896803"
 ---
 # <a name="co-management"></a>Bendras valdymas
 
 **Būtinųjų sąlygų perėjimas iš config Manager hibridinio į Intune**
 
-- Peržiūrėkite [šį straipsnį](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Įtraukite "Intune" licenciją savo vartotojams](https://docs.microsoft.com/intune/licenses-assign).
-- Naudokite [krašto naršyklę](https://www.microsoft.com/windows/microsoft-edge) , kai konfigūruojate bendrą valdymą.
+- Peržiūrėkite [šį straipsnį](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- [Įtraukite "Intune" licenciją savo vartotojams](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
+- Naudokite [krašto naršyklę](https://www.microsoft.com/edge) , kai konfigūruojate bendrą valdymą.
+
+[Čia](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)galima rasti ir nuoseklias nuoseklias bendro valdymo nustatymo funkcijas.
 
 **Kaip įdiegti "config Manager" klientą Intune valdomuose įrenginiuose**
 
-Peržiūrėkite ["Intune" MDM – valdomi "Windows" įrenginiai](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Peržiūrėkite ["Intune" MDM – valdomi "Windows" įrenginiai](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
 **Ką daryti, jei noriu pakeisti MDM įgaliojimą?**
 
 MDM tarnyba gali būti pakeista neatidarant palaikymo atvejo. Peržiūrėkite toliau pateiktus dokumentus, kad galėtumėte padėti pakeisti jūsų MDM instituciją:
 
-- [MDM tarnybos keitimas iš konfigūracijos tvarkytuvo į Intune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [MDM autonominės institucijos keitimas iš "Intune" į konfigūravimo tvarkytuvą](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [MDM tarnybos keitimas iš konfigūracijos tvarkytuvo į Intune standalone](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MDM autonominės institucijos keitimas iš "Intune" į konfigūravimo tvarkytuvą](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
