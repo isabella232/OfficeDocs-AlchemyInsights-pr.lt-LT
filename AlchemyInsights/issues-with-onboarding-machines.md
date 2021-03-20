@@ -1,29 +1,31 @@
 ---
-title: Problemos su parengimo mašinos
+title: Problemos, susijusios su parengimo naudoti įrenginius su „Microsoft“ sargyba pabaigos taškams
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141654"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901575"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemos su parengimo mašinos
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemos, susijusios su parengimo naudoti įrenginius su „Microsoft“ sargyba pabaigos taškams
 
-Jums gali kilti problemų su parengimo mašinos MDATP paslauga. Jei galite pasiekti galutinio vartotojo kompiuterį, atlikite šiuos veiksmus:
+Gali kilti problemų dėl parengimo naudoti įrenginius MDE tarnybose. Jei galite pasiekti galutinio vartotojo įrenginį, atlikite šiuos veiksmus:
 
-1. Atsisiųskite [kliento ryšio analizatoriaus](https://aka.ms/mdatpanalyzer) diagnostikos įrankį.
-2. Ekstraktas ir paleisti MDATPAnalyzer.cmd.
-3. Raskite diagnostikos žurnalo aplanke, pavadintą MDATPClientAnalyzerResult, tą patį aplanką, kuriame analyzer įrankis yra atsisiųsti.
-4. Peržiūrėkite žurnalo failą MDATPClientAnalyzer.txt, kad rastumėte ryšio arba interneto tarpinio serverio parametrų problemas.
+1. Atsisiųskite naujausią [MDE kliento analizatoriaus](https://aka.ms/betamdeanalyzer) diagnostikos įrankio peržiūros versiją.
+2. Dešiniuoju pelės mygtuku spustelėkite **MDEClientAnalyzer.cmd** ir pasirinkite „Paleisti kaip administratorių“.
+3. Vykdykite visur nurodymus, pateiktus **MDEClientAnalyzer.htm**.
+4. Norėdami matyti daugiau daugiažodžių žurnalų, peržiūrėkite sukurtą pakatalogį, pavadinimu **MDEClientAnalyzerResult**.
+5. Jei reikia papildomų nurodymų, susisiekite su [„Microsoft“ pabaigos taško sargybos palaikymo tarnyba](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) ir pateikite gautą MDEClientAnalyzerResult.zip failą analizei.
