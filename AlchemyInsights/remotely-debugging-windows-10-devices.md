@@ -1,5 +1,5 @@
 ---
-title: Darbo su nuotoliniu būdu derinimo "Windows 10" įrenginiais Pradžia
+title: Darbo su nuotoliniu "Windows 10" įrenginių derinimui pradžia
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583969"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398572"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a><span data-ttu-id="978f2-102">Darbo su nuotoliniu būdu derinimo "Windows 10" įrenginiais Pradžia</span><span class="sxs-lookup"><span data-stu-id="978f2-102">Get started with remotely debugging Windows 10 devices</span></span>
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a><span data-ttu-id="1c43b-102">Darbo su nuotoliniu "Windows 10" įrenginių derinimui pradžia</span><span class="sxs-lookup"><span data-stu-id="1c43b-102">Get started with remotely debugging Windows 10 devices</span></span>
 
-<span data-ttu-id="978f2-103">Norėdami nuotoliniu būdu derinti gyvą turinį "Windows 10" įrenginyje iš "Windows" arba "macOS" kompiuterio:</span><span class="sxs-lookup"><span data-stu-id="978f2-103">To remotely debug live content on a Windows 10 device from a Windows or macOS computer:</span></span>
+<span data-ttu-id="1c43b-103">Norėdami nuotoliniu būdu derinti tiesioginį turinį "Windows 10" įrenginyje iš "Windows" arba "macOS" kompiuterio:</span><span class="sxs-lookup"><span data-stu-id="1c43b-103">To remotely debug live content on a Windows 10 device from a Windows or macOS computer:</span></span>
 
-1. <span data-ttu-id="978f2-104">Nustatykite "Windows 10" įrenginį naudoti nuotolinį derinimą, tada prisijunkite prie jo naudodami savo kūrimo mašiną.</span><span class="sxs-lookup"><span data-stu-id="978f2-104">Set up your Windows 10 device for remote debugging, and then connect to it from your development machine.</span></span>
-2. <span data-ttu-id="978f2-105">Tikrinkite ir derinkite tiesioginę "Windows 10" įrenginio turinį iš savo kūrimo mašinos.</span><span class="sxs-lookup"><span data-stu-id="978f2-105">Inspect and debug live content on your Windows 10 device from your development machine.</span></span>
-3. <span data-ttu-id="978f2-106">Screencast turinį iš savo "Windows 10" įrenginio į "DevTools" egzempliorių savo kūrimo kompiuteryje.</span><span class="sxs-lookup"><span data-stu-id="978f2-106">Screencast content from your Windows 10 device onto a DevTools instance on your development machine.</span></span>
+1. <span data-ttu-id="1c43b-104">Nustatykite "Windows 10" įrenginį nuotoliniam derinimui, tada prisijunkite prie jo iš savo kūrimo įrenginio.</span><span class="sxs-lookup"><span data-stu-id="1c43b-104">Set up your Windows 10 device for remote debugging, and then connect to it from your development machine.</span></span>
+2. <span data-ttu-id="1c43b-105">Patikrinkite ir derinti tiesioginį turinį "Windows 10" įrenginyje iš savo kūrimo įrenginio.</span><span class="sxs-lookup"><span data-stu-id="1c43b-105">Inspect and debug live content on your Windows 10 device from your development machine.</span></span>
+3. <span data-ttu-id="1c43b-106">Ekrano transliavimas iš "Windows 10" įrenginio į "DevTools" egzempliorių jūsų kūrimo kompiuteryje.</span><span class="sxs-lookup"><span data-stu-id="1c43b-106">Screencast content from your Windows 10 device onto a DevTools instance on your development machine.</span></span>
 
-<span data-ttu-id="978f2-107">Norėdami sužinoti daugiau, peržiūrėkite darbo [pradžia naudojant nuotolinį derinimą "Windows 10" įrenginiuose naudojant "Microsoft Edge"](https://go.microsoft.com/fwlink/?linkid=2142172).</span><span class="sxs-lookup"><span data-stu-id="978f2-107">To learn more, see [Get Started with Remote Debugging Windows 10 Devices using Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).</span></span>
+<span data-ttu-id="1c43b-107">Norėdami sužinoti daugiau, [žr. Nuotolinės derinimo su "Windows 10" įrenginiais naudojant "Microsoft Edge" pradžia.](https://go.microsoft.com/fwlink/?linkid=2142172)</span><span class="sxs-lookup"><span data-stu-id="1c43b-107">To learn more, see [Get Started with Remote Debugging Windows 10 Devices using Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).</span></span>
