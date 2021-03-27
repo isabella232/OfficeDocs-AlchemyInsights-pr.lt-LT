@@ -1,5 +1,5 @@
 ---
-title: Darbo su nuotoliniu būdu derinimo "Windows 10" įrenginiais Pradžia
+title: Darbo su nuotoliniu "Windows 10" įrenginių derinimui pradžia
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583969"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398572"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darbo su nuotoliniu būdu derinimo "Windows 10" įrenginiais Pradžia
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darbo su nuotoliniu "Windows 10" įrenginių derinimui pradžia
 
-Norėdami nuotoliniu būdu derinti gyvą turinį "Windows 10" įrenginyje iš "Windows" arba "macOS" kompiuterio:
+Norėdami nuotoliniu būdu derinti tiesioginį turinį "Windows 10" įrenginyje iš "Windows" arba "macOS" kompiuterio:
 
-1. Nustatykite "Windows 10" įrenginį naudoti nuotolinį derinimą, tada prisijunkite prie jo naudodami savo kūrimo mašiną.
-2. Tikrinkite ir derinkite tiesioginę "Windows 10" įrenginio turinį iš savo kūrimo mašinos.
-3. Screencast turinį iš savo "Windows 10" įrenginio į "DevTools" egzempliorių savo kūrimo kompiuteryje.
+1. Nustatykite "Windows 10" įrenginį nuotoliniam derinimui, tada prisijunkite prie jo iš savo kūrimo įrenginio.
+2. Patikrinkite ir derinti tiesioginį turinį "Windows 10" įrenginyje iš savo kūrimo įrenginio.
+3. Ekrano transliavimas iš "Windows 10" įrenginio į "DevTools" egzempliorių jūsų kūrimo kompiuteryje.
 
-Norėdami sužinoti daugiau, peržiūrėkite darbo [pradžia naudojant nuotolinį derinimą "Windows 10" įrenginiuose naudojant "Microsoft Edge"](https://go.microsoft.com/fwlink/?linkid=2142172).
+Norėdami sužinoti daugiau, [žr. Nuotolinės derinimo su "Windows 10" įrenginiais naudojant "Microsoft Edge" pradžia.](https://go.microsoft.com/fwlink/?linkid=2142172)

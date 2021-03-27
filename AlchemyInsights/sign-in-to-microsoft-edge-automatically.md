@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677768"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398737"
 ---
 # <a name="sign-in-to-microsoft-edge-automatically"></a>Automatinis prisijungimas prie "Microsoft Edge"
 
-"Microsoft Edge" naudoja numatytąjį OS abonementą, kad automatiškai prisijungtų vartotojui pagal vartotojo įrenginio konfigūraciją. 
+"Microsoft Edge" naudoja numatytąją OS paskyrą, kad automatiškai prisijungtų prie vartotojo pagal vartotojo įrenginio konfigūravimą. 
 
-Kiekvieno įrenginio konfigūracijos tipo ir jo priklausomo vartotojo prisijungimo proceso scenarijai aprašyti toliau:
+Toliau aprašyti kiekvieno įrenginio konfigūracijos tipo ir priklausomo vartotojo prisijungimo proceso scenarijai:
 
-1. **Įrenginys yra hibridinis/AAD-J**: Ši parinktis pasiekiama "Windows 10", "Windows 10", "Windows" ir atitinkamose serverio versijose. Vartotojai automatiškai pasirašomi naudojant "Azure Active Directory" (AD) paskyras.
-2. **Įrenginys yra domeno prisijungęs**: Ši parinktis pasiekiama "Windows 10", "Windows 10", "Windows" ir atitinkamose serverio versijose. Pagal numatytuosius parametrą vartotojai, turintys domeno paskyras, automatiškai nepasirašomi; Norėdami įgalinti automatinį jų papildymą, naudokite " **Configureonpremisesaccountautosignin** " strategiją. Norėdami įgalinti automatinį prisijungimą vartotojams su "Azure AD" paskyromis, apsvarstykite galimybę naudoti hibridinius įrenginius.
-3. **OS Numatytoji paskyra yra "Microsoft" abonementas**: Ši parinktis pasiekiama "Windows 10" RS3 (1709 versija, Komponavimo versija 10.0.16299) ir vėlesnės versijos. Vargu, ar scenarijus gali įvykti įmonės įrenginiuose. Tačiau jei OS numatytoji "Microsoft" paskyra yra "Microsoft" paskyra, tada "Microsoft Edge" automatiškai prisimins vartotoją su "Microsoft" abonementu.
+- **Įrenginys yra hibridinis / AAD-J**: Ši parinktis galima "Windows 10", "Windows" žemyn lygyje ir atitinkamose serverio versijose. Vartotojai automatiškai prisijungę naudodami savo "Azure Active Directory" (AD) paskyras.
+- **Įrenginys yra prijungtas prie domeno:** ši parinktis pasiekiama "Windows 10", "Windows" žemyn lygyje ir atitinkamose serverio versijose. Pagal numatytuosius nustatymus vartotojai, kurie turi domeno paskyras, nėra automatiškai prisijungę; norėdami įgalinti automatinį jų prisijungimą, naudokite **strategiją ConfigureOnPremisesAccountAutoSignIn.** Norėdami įgalinti automatinį prisijungimą vartotojams, naudojantiems "Azure AD" paskyras, apsvarstykite galimybę hibridinį prisijungimą prie savo įrenginių.
+- **Numatytoji OS** paskyra yra "Microsoft" paskyra: ši parinktis galima "Windows 10 RS3" (1709 versija, 10.0.16299 komponavimo versija) ir naujesnėse versijose. Tikėtina, kad scenarijus įvyks įmonės įrenginiuose. Tačiau jei OS numatytoji paskyra yra "Microsoft" paskyra, "Microsoft Edge" automatiškai prisijungs prie vartotojo naudodami "Microsoft" paskyrą.
  
  

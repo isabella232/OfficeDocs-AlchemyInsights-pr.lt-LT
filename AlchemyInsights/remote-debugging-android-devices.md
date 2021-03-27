@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Edge\" naudojimas nuotoliniu būdu derinti \"Android\" įrenginį iš programavimo kompiuterio"
+title: "\"Microsoft Edge\" naudojimas nuotoliniu būdu derinti \"Android\" įrenginį iš kūrimo kompiuterio"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583945"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398701"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>"Microsoft Edge" naudojimas nuotoliniu būdu derinti "Android" įrenginį iš programavimo kompiuterio
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>"Microsoft Edge" naudojimas nuotoliniu būdu derinti "Android" įrenginį iš kūrimo kompiuterio
 
-Norėdami nuotoliniu būdu derinti tiesioginę "Android" įrenginio turinį iš savo kompiuterio:
+Norėdami nuotoliniu būdu derinti tiesioginį turinį "Android" įrenginyje iš kompiuterio:
 
-1. Nustatykite "Android" įrenginį naudoti nuotolinį derinimą ir raskite jį kūrimo kompiuteryje.
-2. Naudodami kūrimo kompiuterį, tikrinkite ir derinkite tiesioginį "Android" įrenginio turinį.
-3. Screencast tiesioginis turinys iš "Android" įrenginio į "DevTools" pavyzdį kūrimo kompiuteryje.
+1. Nustatykite "Android" įrenginį nuotoliniam derinimui ir atraskite jį iš kūrimo kompiuterio.
+2. Iš kūrimo kompiuterio patikrinkite ir derinti tiesioginį turinį "Android" įrenginyje.
+3. "Screencast" tiesioginis turinys iš "Android" įrenginio į "DevTools" egzempliorių kūrimo kompiuteryje.
