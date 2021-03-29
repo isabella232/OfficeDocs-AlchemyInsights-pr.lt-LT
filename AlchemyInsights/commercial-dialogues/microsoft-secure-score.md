@@ -1,9 +1,9 @@
 ---
-title: "\"Microsoft\" saugus įvertinimas"
+title: "\"Microsoft\" saugos balas"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: c8fe2efbc8832b02004bcd01eb289d54a42d78f8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482589"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403247"
 ---
-# <a name="microsoft-secure-score"></a>"Microsoft" saugus įvertinimas
+# <a name="microsoft-secure-score"></a>"Microsoft" saugos balas
 
-Galite padaryti aplinką saugesnę naudodami "Microsoft" saugią balą. Pagalvokite apie tai kaip kreditų balas, skirtas saugumui. Galite atlikti veiksmus, kuriuos galite atlikti, kad patobulintumėte savo organizacijos saugą.
+Galite padaryti savo aplinką saugesnę naudodami "Microsoft Secure Score". Pagalvokite apie tai kaip apie saugumo kredito balą. Jame nurodyti veiksmai, kurių galite imtis, kurie gali padėti pagerinti organizacijos saugą.
 
-1. Eikite į " [Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pasirinkite "Microsoft" saugaus rezultato kortelę arba eikite į ["Microsoft" saugaus įvertinimo balą](https://go.microsoft.com/fwlink/?linkid=2099589).
+1. Eikite į ["Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Pasirinkite "Microsoft Secure Score" kortelę arba eikite į ["Microsoft Secure Score".](https://go.microsoft.com/fwlink/?linkid=2099589)
     > [!TIP]
-    >  "Microsoft" saugaus rezultato apžvalgos puslapyje pasirinkite tobulinimo veiksmai, kad būtų pateiktos rekomendacijos, kaip apsaugoti savo organizaciją. Galite pasirinkti filtruoti arba Grupuoti pagal lentelę, kad greitai nustatytumėte veiksmus, kurie gali būti geresni, jei juos užbaigtumėte.
-1. Sąraše pasirinkite tobulinimo veiksmą. Rodomas Iškeliamasis langas, kuriame pateikiamas trumpas veiksmo aprašas.
-1. Spustelėkite **rodinio parametrai**, tada vykdykite nurodymus, pateiktus **kituose veiksmuose**.
+    >  Puslapyje "Microsoft" saugos balų apžvalga pasirinkite Tobulinimo veiksmai, kad būtų pateiktos rekomendacijos dėl organizacijos apsaugos. Lentelėje galite pasirinkti Filtruoti arba Grupuoti pagal, kad greitai identifikuotus veiksmus, kurie gali būti geresni, jei juos baigsite eilės tvarka.
+1. Pasirinkite tobulinimo veiksmą iš sąrašo. Pasirodo iškeliamą meniu, kuriame pateikiamas trumpas veiksmo aprašas.
+1. Spustelėkite **Peržiūrėti parametrus**, tada vykdykite nurodymus, pateiktus **tolesniuose veiksmuose.**
     > [!NOTE]
-    > Jums pateikti rekomenduojamų saugos funkcijų konfigūravimo taškai, tačiau Turėkite omenyje, kad kai kurie veiksmai pažymimi kaip **[not scored]**. Tai reiškia, kad net jei įgyvendinsite šį tobulinimo veiksmą, jums nebus suteikti jokie taškai. Priešingu atveju *gali užtrukti iki 24 valandų* , kol bus atnaujintas jūsų rezultatas.
+    > Jums nurodyti taškai rekomenduojamų saugos funkcijų konfigūravimui, tačiau atminkite, kad kai kurie veiksmai žymimi **kaip [Not Scored]**. Tai reiškia, kad net jei įgyvendinsite šį tobulinimo veiksmą, jums nebus skirta jokių taškų už savo rezultatą. Kitu *atveju gali užtrukti iki 24 valandų, kad* jūsų rezultatas būtų naujtas.
 
-Daugiau informacijos apie "Microsoft" saugią balą rasite ["Microsoft" saugiame balą](https://go.microsoft.com/fwlink/?linkid=2103077).
+Daugiau informacijos apie "Microsoft Secure Score" žr. ["Microsoft Secure Score".](https://go.microsoft.com/fwlink/?linkid=2103077)

@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Edge\" strategijos parametrų konfigūravimas \"Windows\""
+title: "\"Microsoft Edge\" strategijos parametrų konfigūravimas sistemoje \"Windows\""
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583738"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402383"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>"Microsoft Edge" strategijos parametrų konfigūravimas "Windows"
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>"Microsoft Edge" strategijos parametrų konfigūravimas sistemoje "Windows"
 
-Norėdami konfigūruoti strategijos parametrus ir valdomus naujinimus, skirtus "Microsoft Edge", naudokite grupės strategijos objektus (GPO). Taip pat galite teikti politiką per registrą; tai tiktų (1) "Windows" įrenginiams, prijungtiems prie "Microsoft Active Directory" domeno ir (2) "Windows 10 Pro" ir įmonės egzemplioriams, kurie buvo įtraukti į "Microsoft Intune" įrenginių valdymą.
+Norėdami konfigūruoti "Microsoft Edge" strategijos parametrus ir valdomus naujinimus, naudokite grupės strategijos objektus (GPO). Taip pat galite parengti strategiją per registrą; tai būtų tinkama (1) "Windows" įrenginiams, prijungtiems prie "Microsoft Active Directory" domeno ir (2) "Windows 10 Pro" ir "Enterprise" egzemplioriams, užregistruotiems įrenginių valdymui "Microsoft Intune".
 
-Norėdami sukonfigūruoti "Microsoft Edge" naudodami GPO, atlikite šiuos veiksmus:
+Norėdami konfigūruoti "Microsoft Edge" naudodami GPO, atlikite šiuos veiksmus:
 
-1. Prie grupės strategijos centrinės saugyklos, esančios "Active Directory" domene, arba atskirų kompiuterių strategijos apibrėžimo šablono aplanke, įdiekite visus administravimo šablonus, kurie įtraukia "Microsoft Edge" taisykles ir parametrus.
+1. Eikite į grupės strategijos centrinę parduotuvę savo "Active Directory" domene arba į aplanką Strategijos aprašo šablonas atskiruose kompiuteriuose, įdiekite visus administravimo šablonus, kuriuose yra "Microsoft Edge" taisyklių ir parametrų.
 2. Konfigūruokite konkrečias strategijas, kurias norite nustatyti.
 
-Jei norite sužinoti daugiau, skaitykite " [Microsoft Edge" strategijos parametrų konfigūravimas "Windows"](https://go.microsoft.com/fwlink/?linkid=2135024).
+Norėdami sužinoti daugiau, žr. ["Microsoft Edge" strategijos parametrų konfigūravimas sistemoje "Windows".](https://go.microsoft.com/fwlink/?linkid=2135024)

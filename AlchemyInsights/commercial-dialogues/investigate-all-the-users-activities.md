@@ -1,9 +1,9 @@
 ---
-title: Visų vartotojų veiklos tyrimas
+title: Visų vartotojų veiklų tyrimą
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: f61cc65b889eb854acbf22314452e8fb1bcc5883
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 391ad9f0e19857a6959667c6a86b143f774156cd
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482291"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403283"
 ---
-# <a name="investigate-all-the-users-activities"></a>Visų vartotojų veiklos tyrimas
+# <a name="investigate-all-the-users-activities"></a>Visų vartotojų veiklų tyrimą
 
 Štai kaip tai padaryti:
 
 1. Eikite į [saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pasirinkite **ieškos**  >  **[audito žurnalų ieška](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Pasirinkite **Ieškoti**  >  **[audito žurnalo ieškos](https://go.microsoft.com/fwlink/?linkid=2103759)**.
     > [!NOTE]
-    > Jei matote pranešimą, kad norite įjungti funkciją, eikite į priekį ir įjunkite ją dabar. Jei funkcija neįjungta, ieškos rezultatai negalės ištraukti ankstesnių datų duomenų.
+    > Jei matote pranešimą, kad reikia įjungti funkciją, eikite į priekį ir įjunkite ją dabar. Jei funkcija neįjungta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
 
-1. Jei jus domina konkreti veikla, pasirinkite ją iš sąrašo **veikla** . Jei ne, pagal numatytuosius veiksmus bus grąžinti pasirinkto vartotojo veiksmai.
-1. Nurodykite datų intervalą, tada lauke **vartotojai** pasirinkite vartotojo, kurį norite tirti, vartotojo vardą. Vienu metu galite pasirinkti daugiau nei vieną vartotoją.
-1. Spustelėkite **ieška**. Veikla rodoma dalyje **rezultatai**. Matysite IP adresą, vartotoją ir veiklos pavadinimą.
-1. Norėdami atsisiųsti rezultatus, pasirinkite **eksportuoti rezultatus**.
-1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą ir išplėskite **daugiau informacijos**.
+1. Jei jus domina konkreti veikla, pasirinkite ją iš **sąrašo** Veikla. Jei ne, pagal numatytuosius nustatymus bus grąžinta visa pasirinkto vartotojo veikla.
+1. Nurodykite datų diapazoną, tada **lauke** Vartotojai pasirinkite vartotojo, kurį norite ištirti, vartotojo vardą. Vienu metu galite pasirinkti daugiau nei vieną vartotoją.
+1. Spustelėkite **Ieškoti**. Veikla rodoma dalyje **Rezultatai**. Matysite IP adresą, vartotoją ir veiklos pavadinimą.
+1. Norėdami atsisiųsti rezultatus, pasirinkite **Eksportuoti rezultatus**.
+1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą, tada išplėskite **Daugiau informacijos**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [audito žurnalų iešką, kad išspręstumėte įprastus scenarijus](https://go.microsoft.com/fwlink/?linkid=2103944).
+Norėdami sužinoti daugiau, [žr. Audito žurnalo ieška norint šalinti dažniausiai pasitaikančių scenarijų triktis.](https://go.microsoft.com/fwlink/?linkid=2103944)

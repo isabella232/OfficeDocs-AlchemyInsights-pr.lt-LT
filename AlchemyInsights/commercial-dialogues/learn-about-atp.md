@@ -3,7 +3,7 @@ title: Sužinokite apie ATP
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 4837fb5ff53198b290333eabb2f94f6fd96dfe53
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482616"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403571"
 ---
 # <a name="learn-about-atp"></a>Sužinokite apie ATP
 
-Štai šiek tiek informacijos apie "Office 365" patobulintų grėsmių apsaugą (ATP):
+Štai šiek tiek informacijos apie "Office 365" išplėstinę apsaugą nuo grėsmių (ATP):
 
 **Kas yra ATP?**
 
-ATP – tai debesies pagrindu veikianti pašto filtravimo tarnyba, kuri padeda apsaugoti organizacijas nuo nežinomų kenkėjiškų programų ir virusų, nes užtikrina patikimą nulinės dienos apsaugą. Jame yra funkcijų, apsaugančių organizacijas nuo žalingų saitų realiuoju laiku.
+ATP yra debesimi pagrįsta el. pašto filtravimo tarnyba, padedanti apsaugoti organizacijas nuo nežinomų kenkėjiškų programų ir virusų, suteikianti patikimą nulinės dienos apsaugą. Ji apima funkcijas, skirtas apsaugoti organizacijas nuo kenksmingų saitų realiuoju laiku.
 
 **Kaip aktyvinti ATP?**
 
-Patikimų priedų, saugių saitų ir apsauga nuo sukčiavimo apsimetant yra ATP funkcijos dalis. "Enterprise E5", "Education A5" ir "Microsoft 365 Business" apima įtaisytąsias ATP funkcijas. Visiems kitiems planams reikia priedo ATP prenumeratos. Jums reikia priskirti reikiamas licencijas vartotojams, kad jos būtų apsaugotos "Office 365 ATP". Kad galėtumėte pasiekti šią funkciją, turite turėti visuotinio administratoriaus arba saugos administratoriaus teises. Jei norite sužinoti daugiau apie tai, kaip taikyti licencijas urmu galutiniams vartotojams, žiūrėkite [priskirti licencijas vartotojams "Office 365" verslui](https://go.microsoft.com/fwlink/?linkid=2093435).
+Saugūs priedai, saugūs saitai ir apsauga nuo sukčiavimo apsimetant yra ATP funkcijos dalis. "Enterprise E5", "Education A5" ir "Microsoft 365 Business" yra įtaisytųjų ATP funkcijų. Visiems kitiems planams reikia papildinio ATP prenumeratos. Turite priskirti atitinkamas licencijas savo vartotojams, kad jie būtų apsaugoti "Office 365" ATP. Norėdami pasiekti šią funkciją, turite turėti visuotinio administratoriaus arba saugos administratoriaus teises. Norėdami sužinoti daugiau apie tai, kaip masiškai taikyti licencijas galutiniams vartotojams, žr. Licencijų priskyrimas vartotojams ["Office 365" verslui](https://go.microsoft.com/fwlink/?linkid=2093435).
 
-**Kaip valdyti ATP arba daugiau sužinoti apie jį?**
+**Kaip valdyti ATP arba sužinoti daugiau apie tai?**
 
-a. Eikite į [sąranka](https://go.microsoft.com/fwlink/p/?linkid=2075721).
-b. Dalyje **Prisijungimas ir sauga** raskite **padidinti apsaugą nuo išplėstinių grėsmių** ir pasirinkite [rodinys](https://go.microsoft.com/fwlink/?linkid=2109302).
+a. Eikite į [Sąranka](https://go.microsoft.com/fwlink/p/?linkid=2075721).
+b. Dalyje **Prisijungimas ir sauga raskite** **Padidinti apsaugą nuo išplėstinių grėsmių**, tada pasirinkite [Peržiūrėti](https://go.microsoft.com/fwlink/?linkid=2109302).

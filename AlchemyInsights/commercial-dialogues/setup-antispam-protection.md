@@ -1,9 +1,9 @@
 ---
-title: Apsaugos nuo pašto šiukšlių nustatymas
+title: Apsaugos nuo pašto šiukšlių nustatyti
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 3a9408f94b72770669e75272307c932303666d6b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482129"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401843"
 ---
-# <a name="set-up-an-anti-spam-protection"></a>Apsaugos nuo pašto šiukšlių nustatymas
+# <a name="set-up-an-anti-spam-protection"></a>Apsaugos nuo pašto šiukšlių nustatyti
 
 Štai kaip tai padaryti:
 
-1. Eikite į " [Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pereikite prie **grėsmių valdymo**  >  **strategijos** ir spustelėkite **[apsauga nuo pašto šiukšlių](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Skirtuke **Pasirinktinai** įjunkite **pritaikytus** parametrus.
-1. Išplėskite **numatytąjį pašto šiukšlių filtravimo strategiją**, spustelėkite **Redaguoti strategiją**, tada nurodykite šiuos parametrus:
-    1. Dalyje **šlamštas ir masiniai veiksmai** nustatykite ribą iki 5 arba 6 reikšmės.
+1. Eikite į ["Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Eikite **į**  >  **Grėsmių valdymo** strategija ir spustelėkite **[Apsauga nuo pašto šiukšlių](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
+1. Skirtuke **Pasirinktinis** įjunkite **Pasirinktiniai** parametrai.
+1. Išplėskite **numatytosios pašto šiukšlių filtro** strategiją , **spustelėkite** Redaguoti strategiją , tada nurodykite šiuos parametrus:
+    1. Sekcijoje **Pašto šiukšlės** ir masiniai veiksmai nustatykite reikšmę 5 arba 6.
 1. Spustelėkite **Įrašyti**.
 
-Jei norite sužinoti daugiau apie apsaugos nuo pašto šiukšlių strategijos parinktis, skaitykite [apsaugos nuo pašto šiukšlių strategijas](https://go.microsoft.com/fwlink/?linkid=2092051).
+Norėdami sužinoti daugiau apie savo apsaugos nuo pašto šiukšlių strategijos parinktis, [žr. Apsaugos nuo pašto šiukšlių strategijų konfigūravimas](https://go.microsoft.com/fwlink/?linkid=2092051).
