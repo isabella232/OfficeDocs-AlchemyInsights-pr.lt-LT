@@ -1,5 +1,5 @@
 ---
-title: Kaip bendrinti "SharePoint" failus arba aplankus
+title: Kaip bendrinti "SharePoint" arba "OneDrive" failus ar aplankus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779023"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408122"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a><span data-ttu-id="f2960-102">Kaip bendrinti "SharePoint" failus arba aplankus</span><span class="sxs-lookup"><span data-stu-id="f2960-102">How to share SharePoint files or folders</span></span>
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a><span data-ttu-id="b32a5-102">Kaip bendrinti "SharePoint" arba "OneDrive" failus ar aplankus</span><span class="sxs-lookup"><span data-stu-id="b32a5-102">How to share SharePoint or OneDrive files or folders</span></span>
 
-<span data-ttu-id="f2960-103">"SharePoint" svetainėje saugomi failai paprastai pasiekiami visiems, turintiems svetainės teises, bet galite norėti bendrinti konkrečius failus ar aplankus su žmonėmis, kurie neturi prieigos prie svetainės.</span><span class="sxs-lookup"><span data-stu-id="f2960-103">The files you store on a SharePoint site are usually available to everyone with permissions to the site, but you may want to share specific files or folders with people who don't otherwise have access to the site.</span></span> <span data-ttu-id="f2960-104">Kai bendrinate failus ir aplankus, galite nuspręsti, ar norite, kad žmonės galėtų redaguoti arba tiesiog juos peržiūrėti.</span><span class="sxs-lookup"><span data-stu-id="f2960-104">When you share files and folders, you can decide whether to let people edit or just view them.</span></span>
+<span data-ttu-id="b32a5-103">Failai, kuriuos saugote "SharePoint" svetainėje, paprastai pasiekiami visiems, kurie turi svetainės teises, tačiau galbūt norėsite bendrinti konkrečius failus ar aplankus su žmonėmis, kurie kitu atveju neturi prieigos prie svetainės.</span><span class="sxs-lookup"><span data-stu-id="b32a5-103">The files you store on a SharePoint site are usually available to everyone with permissions to the site, but you may want to share specific files or folders with people who don't otherwise have access to the site.</span></span> <span data-ttu-id="b32a5-104">Kai bendrinate failus ir aplankus, galite nuspręsti, ar leisti žmonėms juos redaguoti, ar tiesiog peržiūrėti.</span><span class="sxs-lookup"><span data-stu-id="b32a5-104">When you share files and folders, you can decide whether to let people edit or just view them.</span></span> <span data-ttu-id="b32a5-105">Daugiau informacijos rasite:</span><span class="sxs-lookup"><span data-stu-id="b32a5-105">For more information, see:</span></span>
 
-[<span data-ttu-id="f2960-105">"SharePoint" failų arba aplankų bendrinimas</span><span class="sxs-lookup"><span data-stu-id="f2960-105">Share SharePoint files or folders</span></span>](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[<span data-ttu-id="b32a5-106">"SharePoint" failų arba aplankų bendrinimas</span><span class="sxs-lookup"><span data-stu-id="b32a5-106">Share SharePoint files or folders</span></span>](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[<span data-ttu-id="b32a5-107">"OneDrive" failų ir aplankų bendrinimas</span><span class="sxs-lookup"><span data-stu-id="b32a5-107">Share OneDrive files and folders</span></span>](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
