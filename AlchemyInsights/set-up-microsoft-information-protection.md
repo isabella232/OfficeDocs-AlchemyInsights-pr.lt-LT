@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" informacijos apsaugos nustatymas"
+title: Nustatyti „Microsoft“ informacijos apsaugą
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678107"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440937"
 ---
-# <a name="set-up-microsoft-information-protection"></a>"Microsoft" informacijos apsaugos nustatymas
+# <a name="set-up-microsoft-information-protection"></a>Nustatyti „Microsoft“ informacijos apsaugą
 
-Susipažinkite su galimybėmis, kurias galite taikyti savo informacijos apsaugos strategijai, kad galėtumėte būti tikri, jog slaptos informacijos yra apsaugotos. Naudokite keturių pakopų gyvavimo ciklo metodą, kuriame galite rasti, klasifikuoti, apsaugoti ir stebėti slaptą informaciją. "Microsoft" informacijos apsaugos sąrankos vadove pateikiami nurodymai, kaip užbaigti kiekvieną iš šių etapų.
+Gaukite galimybių, kurias galite pritaikyti savo informacijos apsaugos strategijai, apžvalgą, kad galėtumėte būti tikri, jog jūsų slapta informacija yra apsaugota. Naudokite keturių pakopų gyvavimo ciklo metodą, pagal kurį atrandate, klasifikuojate, saugote ir stebite slaptą informaciją. [„Microsoft“ informacijos apsaugos sąrankos vadovas](https://go.microsoft.com/fwlink/?linkid=2146619) pateikia nurodymus, kaip atlikti kiekvieną iš šių etapų.

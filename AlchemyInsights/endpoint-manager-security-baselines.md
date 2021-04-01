@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager – saugos bazinės linijos
+title: „EndPoint Manager“ - saugos bazinės konfigūracijos
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421084"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440892"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – saugos bazinės linijos
+# <a name="endpoint-manager---security-baselines"></a>„EndPoint Manager“ - saugos bazinės konfigūracijos
 
-Saugos bazinės linijos yra iš anksto sukonfigūruotos "Windows" parametrų grupės, kurios padeda taikyti saugos parametrus, rekomenduojamus atitinkamų saugos komandų. Šias bazines linijas galima tinkinti, kad būtų pateikti tik norimi parametrai ir reikšmės. Daugiau informacijos apie saugos bazines linijas žr. Saugos bazinės linijos naudojimas ["Windows 10" įrenginiams konfigūruoti "Intune".](https://docs.microsoft.com/mem/intune/protect/security-baselines)
+Saugos bazinės konfigūracijos yra iš anksto sukonfigūruotos „Windows“ parametrų grupės, kurios padeda pritaikyti saugos parametrus, kuriuos rekomenduoja atitinkamos saugos komandos. Šias bazines konfigūracijas galima tinkinti, kad būtų pateikti tik norimi parametrai ir vertės. Norėdami gauti daugiau informacijos apie saugos bazines konfigūracijas, žr. [Saugos bazinių konfigūracijų naudojimas konfigūruojant „Windows 10“ įrenginius „Intune“](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Šiuo metu yra šių produktų bazinės linijos:
+Šiuo metu yra šių produktų bazinės konfigūracijos:
 
-- "Windows MDM" saugos parametrai
-- "Microsoft" sargyba, skirta "EndPoint" saugos
+- „Windows MDM“ saugos parametrai
+- „Microsoft“ sargyba, skirta pabaigos taško saugai
 - „Microsoft Edge“
 
-Kiekviena bazinė informacija periodiškai atnaujinama ir išleidžiama papildomose versijose. Kiekviena versija įtraukia ir pašalina ankstesnės versijos parametrus, kad įsitikintų, jog bazinė linija atitinka dabartines rekomendacijas. "Endpoint Security" bazinės saugos konsolė leidžia palyginti skirtingas versijas, nes pakeitimai iš versijos į versiją matomi.
+Kiekviena bazinė konfigūracija yra periodiškai atnaujinama ir išleidžiama palaipsniui. Kiekviena versija įtraukia ir / arba pašalina ankstesnės versijos parametrus, kad būtų užtikrinta, jog bazinė konfigūracija atitinka dabartinius nurodymus. Saugos bazinių konfigūracijų konsolė pabaigos taško saugoje leidžia palyginti skirtingas versijas, matant pakeitimus iš vienos versijos į kitą.
 
-Patarimų, kaip efektyviausiai pakeisti bazinės linijos versiją, [žr. "Microsoft Intune" saugos bazinių linijų profilių valdymas.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Dėl nurodymų, kaip efektyviausiai keisti diegiamą bazinės konfigūracijos versiją, žr. [ „Microsoft Intune“ saugos bazinės konfigūracijos tvarkymas](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Įdiegę saugos bazinę liniją, galite stebėti diegimo būseną ir peržiūrėti parametrus pagal įrenginį.
+Pritaikę saugos bazinę konfigūraciją, galite stebėti diegimo būseną ir peržiūrėti parametrus kiekviename įrenginyje.
 
-**Pastaba:** Bazinės linijos ataskaitų duomenys gali užtrukti iki 24 valandų, kad jie būtų rodomi nuo pradinio diegimo prie įrenginio ir iki 6 valandų, kad būtų galima atlikti tolesnius naujinimus. 
+**Pastaba:** bazinių konfigūracijų ataskaitų duomenys gali užtrukti iki 24 valandų, kol bus rodomos po pradinio diegimo įrenginyje, o iki tolesnių naujinimų - iki 6 valandų. 
 
-Dažniausia bazinės linijos parametro taikymo priežastis yra ta, kad tas pats parametras naudojamas skirtinguose profiliuose. Šį scenarijų galima ištirti konkrečiam įrenginiui pasirinkus tą įrenginį saugos bazinės linijos profilio mazge Įrenginio būsena. Daugiau informacijos [žr. Saugos bazinių duomenų konfliktų sprendimas.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Dažniausia bazinės konfigūracijos parametro netaikymo priežastis yra ta, kad tas pats parametras naudojamas kitame profilyje. Šį scenarijų galima ištirti konkrečiam įrenginiui, pasirinkus tą įrenginį iš įrenginio būsenos mazgo saugos bazinės konfigūracijos profilyje. Daugiau informacijos žr. [Saugos bazinių konfigūracijų konfliktų sprendimas](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
