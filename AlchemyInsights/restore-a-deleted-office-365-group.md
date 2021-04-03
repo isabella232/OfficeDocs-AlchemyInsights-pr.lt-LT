@@ -1,5 +1,5 @@
 ---
-title: Panaikintos "Microsoft 365" grupės atkūrimas
+title: Panaikintų "Microsoft 365" grupės atkūrimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774713"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505694"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Panaikintos "Microsoft 365" grupės atkūrimas
+# <a name="restore-a-deleted-microsoft-365-group"></a>Panaikintų "Microsoft 365" grupės atkūrimas
 
-Panaikintos grupės paliekamos 30 dienų. Norėdami atkurti panaikintą grupę:
-  
-1. " [Exchange" administravimo centre](https://outlook.office365.com/ecp/)kairiojoje srityje pasirinkite **gavėjai** , tada pasirinkite **grupės**. Jei grupė buvo panaikinta mažiau nei prieš 30 dienų, ji bus rodoma sąraše, o stulpelis Būsena pateiks panaikintą datą.
+Panaikintų "Microsoft 365" grupių arba "Microsoft Teams" galite atkurti per 30 dienų nuo panaikinimo.
 
-2. Pažymėkite grupę, tada komandų juostoje spustelėkite **atkurti** arba spustelėkite saitą "spustelėkite čia, jei norite atkurti" išsamios informacijos srityje.
+1. Norėdami prisijungti prie "Microsoft 365" administravimo centro ir išvardyti panaikintas grupes ir komandas, eikite į ["Microsoft 365" administravimo centrą](https://aka.ms/RestoreDeletedGroup).
 
-Daugiau informacijos arba Sužinokite, kaip atkurti grupes naudojant "PowerShell", ieškokite [panaikintos "Microsoft 365" grupės atkūrimas](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Pastaba:** Prisijunkite naudodami paskyrą, priskirtą nuomotojo administratoriui arba grupių administratoriaus vaidmeniui.
+
+1. Pasirinkite panaikinti "Microsoft 365" grupę / "Teams", kuri bus atkurta, ir **spustelėkite atkurti grupę**.
+
+    Jei grupės atkurti negalima dėl nesuderinamo SMTP adreso, naudokite šią komandą, kad rastumėte konfliktą keliantį objektą ir pašalintumėte SMTP adresą:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Pastaba:** Kai kuriais atvejais gali užtrukti iki 24 valandų, kol grupė ir visi jos duomenys bus atkurti.
+
+    Daugiau informacijos arba sužinokite, kaip atkurti grupes naudojant "PowerShell", žr. [Panaikintų "Microsoft 365" grupės atkūrimas.](https://go.microsoft.com/fwlink/?linkid=867802)

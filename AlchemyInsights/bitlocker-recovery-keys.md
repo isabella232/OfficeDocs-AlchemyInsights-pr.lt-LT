@@ -1,5 +1,5 @@
 ---
-title: "\"BitLocker\" atkūrimo raktai"
+title: "\"BitLocker\" atkūrimo klavišai"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685894"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505076"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Prieiga prie "BitLocker" atkūrimo raktų
 
-Konfigūruojant "BitLocker" parametrų Intune Endpoint Protection strategiją, galima nustatyti, ar "BitLocker" atkūrimo informacija turėtų būti saugoma "Azure Active Directory".
+Konfigūruojant "BitLocker" parametrus "Intune Endpoint Protection" strategiją, galima nustatyti, ar "BitLocker" atkūrimo informacija turi būti saugoma "Azure Active Directory".
 
-Jei šis parametras sukonfigūruotas, saugomi atkūrimo duomenys turėtų būti matomi Intune admin kaip įrenginio įrašo duomenis "Intune" įrenginių ašmenimis dviem būdais:
+Jei šis parametras sukonfigūruotas, saugomi atkūrimo duomenys turi būti matomi "Intune" administratoriui kaip įrenginio įrašo duomenų dalis "Intune" įrenginių ašmenyje dviem būdais:
 
-Įrenginiai – "Azure AD" įrenginiai – > "įrenginys" arba įrenginiai – > visi įrenginiai – > "įrenginys" – > atkūrimo raktai
+Įrenginiai – "Azure AD" > "Device" OR Devices -> All Devices -> "Device" -> Recovery keys
 
-Arba, jei yra administracinė prieiga prie paties įrenginio, atkūrimo raktą (slaptažodį) galima matyti paleisdami šią komandą iš didesnių teisių komandų eilutės:
+Arba, jei yra administratoriaus prieiga prie paties įrenginio, atkūrimo raktą (slaptažodį) galima matyti vykdant šią komandą iš didesnių teisių komandinės eilutės:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Jei įrenginys buvo užšifruotas prieš registraciją "Intune", atkūrimo kodas gali būti susietas su "Microsoft" abonementu (MSA), naudojamu prisijungti prie įrenginio OOBE proceso metu. Jei tai buvo atvejis, prisijungimas prie  https://onedrive.live.com/recoverykey MSA ir prisijungimas prie jos turėtų Rodyti įrenginius, kurių atkūrimo raktai buvo saugomi.
+Jei įrenginys buvo užšifruotas prieš prisijungiant "Intune", atkūrimo raktas gali būti susietas su "Microsoft" paskyra (MSA), naudojama prisijungti prie įrenginio OOBE proceso metu. Tokiu atveju prieiga prie MSA ir prisijungimas prie jos turėtų rodyti įrenginius,  https://onedrive.live.com/recoverykey kuriuose buvo saugomi atkūrimo raktai.
  
-Jei įrenginys buvo užšifruotas kaip konfigūravimo rezultatas pagal domeno grupės strategiją, atkūrimo informacija gali būti saugoma vietiniame "Active Directory".
- 
+Jei įrenginys buvo užšifruotas dėl konfigūracijos naudojant domeno grupės strategiją, atkūrimo informacija gali būti saugoma vietinėje "Active Directory".
+
+Jei sukonfigūravote galinio punkto apsaugos strategiją, kad būtų saugomas atkūrimo raktas "Azure Active Directory", bet konkretaus įrenginio raktas nebuvo nusiųstas, galite paleisti nusiuntimą pasukdami to įrenginio atkūrimo raktą iš MEM konsolės. Daugiau informacijos žr. ["BitLocker" atkūrimo klavišų pasukimas](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 
