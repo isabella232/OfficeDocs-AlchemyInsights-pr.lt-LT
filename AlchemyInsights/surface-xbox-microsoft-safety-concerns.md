@@ -1,5 +1,5 @@
 ---
-title: "\"Surface\", \"Xbox\" ir \"Microsoft\" įrenginių saugos problemos"
+title: Susirūpinimas dėl „Surface“, „Xbox“ ir „Microsoft“ įrenginių saugos
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: c0436154860a81ab1628407eaa808c225a790b11
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 5bdfc0d0a4d49ce8de50f1fa69472c834cf213b7
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036303"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505760"
 ---
-# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>"Surface", "Xbox" ir "Microsoft" įrenginių saugos problemos
+# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Susirūpinimas dėl „Surface“, „Xbox“ ir „Microsoft“ įrenginių saugos
 
-Jei norite aptarti produkto saugos problemą (asmens sužalojimas, ypatybės žala, matomi dūmai), pasirinkite susisiekite su **mumis** apatiniame kairiajame kampe, kad tiesiogiai prisijungtumėte prie pagalbos palaikymo advokato.
+Jeigu norite aptarti produkto saugos klausimus (asmeninį sužeidimą, žalą turtui, matomus dūmus), pasirinkite **Susisiekti su mumis** arba **Gauti daugiau pagalbos**, esančius žemiau, kad būtumėte tiesiogiai sujungti su klientų aptarnavimo agentu.

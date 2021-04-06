@@ -1,5 +1,5 @@
 ---
-title: Atlaisvinkite vietos diske sistemoje "Windows 10"
+title: Atlaisvinkite „Windows 10“ disko vietos
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036590"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505364"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Atlaisvinkite vietos diske sistemoje "Windows 10"
+# <a name="free-up-drive-space-in-windows-10"></a>Atlaisvinkite „Windows 10“ disko vietos
 
-Štai dvi parinktys, kaip atlaisvinti vietos diske sistemoje "Windows":
+Čia pateikiami du būdai, kaip atlaisvinti „Windows“ disko vietos:
 
-- Atlaisvinkite vietos diske sistemoje "Windows 10".
-- Atlaisvinkite vietos "Windows 10" naujinimams su išoriniu saugyklos įrenginiu.
+- Atlaisvinkite „Windows 10“ disko vietos.
+- Atlaisvinkite vietos „Windows 10“ naujinimams naudodami išorinį saugyklos įrenginį.
 
-Jei po disko valymo vis dar liko vietos diske, gali būti, kad jūsų aplankas temp greitai užpildo programos (. Appx) failus, kuriuos naudoja "Microsoft Store". Norėdami išspręsti šią problemą, iš naujo nustatykite parduotuvę, išvalykite saugyklos talpyklą, tada paleiskite "Windows Update" trikčių diagnostikos priemonę. Prieš tęsdami veiksmus, įsitikinkite, kad "Microsoft" parduotuvės uždaryta.
+Jei vietos diske vis dar mažai net ir išvalius diską, gali būti, jog jūsų aplankas „Temp“ greitai užsipildo programų (.appx) failais, kuriuos naudojat „Microsoft Store“. Norėdami išspręsti šią problemą, nustatykite „Store“ iš naujo, išvalykite „Store“ podėlį, o tuomet paleiskite „Windows Update“ trikčių diagnostikos priemonę. Prieš pereidami prie kitų žingsnių, įsitikinkite, kad „Microsoft Store“ yra uždaryta.
 
-**1 veiksmas: iš naujo nustatykite "Microsoft Store"**
+**1 žingsnis: „Microsoft Store“ nustatymas iš naujo**
 
-**Pastaba** Tai visam laikui panaikina programos duomenis įrenginyje, įskaitant nuostatas ir prisijungimo duomenis.
+**Pastaba** Tai visam laikui panaikins įrenginio programų duomenis, įskaitant jūsų nuostatas ir prisijungimo informaciją.
 
-1. Pasirinkite **pradėti**  >  **Parametrai**  >  **programėlių** programėlės  >  **& funkcijas**.
+1. Pasirinkite **Pradžia** > **Parametrai** > **Programos** > **Programos ir funkcijos**.
 
-1. Programėlių sąraše raskite ir pasirinkite "Microsoft Store".
+1. Programų sąraše raskite ir pasirinkite „Microsoft Store“.
 
 1. Pasirinkite **Išplėstinės parinktys**.
 
-1. Slinkite žemyn ir pasirinkite **nustatyti iš naujo**, tada **patvirtinkite iš naujo**.
+1. Slinkite žemyn ir pasirinkite **Nustatyti iš naujo**, o tuomet **Patvirtinti nustatymą iš naujo**.
 
-**2 veiksmas: išvalykite "Microsoft Store" talpyklą**
+**2 žingsnis: „Microsoft Store“ podėlio išvalymas**
 
-1. Paspauskite "Windows" logotipo klavišą + R, kad atidarytumėte dialogo langą vykdyti.
+1. Paspauskite „Windows“ logotipo klavišą + R, kad atidarytumėte dialogo langą Vykdyti.
 
-1. Įveskite wsreset.exe ir pasirinkite **gerai**.
+1. Įveskite wsreset.exe ir pasirinkite **Gerai**.
 
-1. Atidaromas langas tuščia Komandinė eilutė. Po maždaug 10 sekundžių langas užsidaro, o saugykla atidaroma automatiškai.
+1. Bus atidarytas tuščias langas Komandinė eilutė. Praėjus maždaug 10 sekundžių, langas užsidarys ir automatiškai atsidarys „Store“.
 
-**3 veiksmas: "Windows Update" nustatymas iš naujo**
+**3 žingsnis: „Windows Update“ nustatymas iš naujo**
 
-1. Pasirinkite **pradėti**  >  **Parametrai**  >  **Naujinti & saugos**  >  **trikčių šalinimas**.
+1. Pasirinkite **Pradžia** > **Parametrai** > **Naujinimas ir sauga** > **Trikčių diagnostika**.
 
-1. Slinkite žemyn ir pasirinkite **"Windows Update"** iš sąrašo ir pasirinkite **paleisti trikčių diagnostikos priemonę**.
+1. Slinkite žemyn ir iš sąrašo pasirinkite **„Windows Update“**, tuomet pasirinkite **Paleisti trikčių diagnostiką**.
 
-1. Iš naujo paleiskite kompiuterį ir patikrinkite, ar vis dar susiduriate su problema.
+1. Paleiskite kompiuterį iš naujo ir patikrinkite, ar vis dar susiduriate su problema.
 
