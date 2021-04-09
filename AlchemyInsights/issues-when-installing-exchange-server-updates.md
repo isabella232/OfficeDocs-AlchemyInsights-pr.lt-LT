@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696310"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645175"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>"Exchange Server" naujinimų diegimo problemos
 
-Prieš diegdami "Exchange Server" naujinimus, ieškokite straipsnyje "geriausios praktikos" straipsnyje [versijos naujinimo keitimas į naujausią kaupiamąjį naujinimą](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Ypač svarbu įdiegti naujinimus naudojant padidėjusį CMD raginimą (nebent naujinimai įdiegiami naudojant "Microsoft Update"). Tai taikoma ir kaupiamajame, ir saugos naujinimuose!
+Jei reikia atnaujinti į naujausią "Exchange Server" kaupiamąjį naujinimą (CU), galite gauti išsamų veiksmų rinkinį, kad atnaujindami dabartinę CU į [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) tikslinę CU.
 
-Jei matote klaidų diegiant saugos naujinimus arba įdiegus naujinimą, skaitykite [šį straipsnį apie nepavykusių įrenginių trikčių šalinimą](https://aka.ms/exupdatefaq).
+Jei diegiant arba įdiegus "Exchange Server" naujinimus yra klaidų, žr. straipsnio Atnaujinti "Exchange" į naujausią kaupiamąjį naujinimą [skyrių "Geriausia praktika".](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Labai svarbu įdiegti saugos naujinimus naudojant padidintą CMD raginimą (jei naujinimai neįdiegti naudojant "Microsoft Update").
+
+Jei diegiant saugos naujinimus arba įdiegus naujinimą matote klaidų, žr. Nepavykusių ["Exchange" kaupiamųjų ir saugos naujinimų diegimų atkūrimas.](https://aka.ms/exupdatefaq)
