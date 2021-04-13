@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662513"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692474"
 ---
 # <a name="pstn-calling-plans"></a>PSTN skambinimo planai
 
@@ -26,6 +26,6 @@ Jei norite, kad jūsų vartotojai galėtų skambinti įprastais telefono numeria
 
 - Norėdami pradėti pirkimo procesą, žr. [Kaip įsigyti skambinimo planą](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).
 
-- Nustatykite[ryšių kreditus](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), kad vartotojams nesibaigtų**skambinimo minutės**. Žr. tarifus, [čia](https://products.office.com/microsoft-teams/voice-calling). 
+- Nustatykite [ryšių kreditus](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), kad vartotojams nesibaigtų **skambinimo minutės**. Žr. tarifus, [čia](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Daugiau informacijos žr. [Skambučių sistemos ir skambinimo planai](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) arba [Kas yra ryšių kreditai?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Daugiau informacijos žr. ["Microsoft Teams Phone" ir "Microsoft Teams" skambinimo](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) planai [arba Kas yra bendravimo kreditai?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

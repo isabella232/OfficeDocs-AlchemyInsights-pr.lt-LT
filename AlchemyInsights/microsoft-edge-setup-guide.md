@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678387"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692762"
 ---
 # <a name="start-using-microsoft-edge"></a>"Microsoft Edge" naudojimo pradžia
 
-"Microsoft" išleido naują "Microsoft Edge", kuris yra naujos kartos žiniatinklio naršyklės. Jis sukurtas ant chromo atvirosios šaltinio platformos ir optimizuotas dirbti su "Microsoft" produktais, pvz., "SharePoint" ir "OneDrive".
+"Microsoft" išleido naują "Microsoft Edge", kuri yra naujos kartos žiniatinklio naršyklė. Jis sukurtas "Chromium" atvirojo kodo pagrindu ir optimizuotas dirbti su "Microsoft" produktais, pvz., "SharePoint" ir "OneDrive".
 
-Jei kyla problemų naudojant "Google Chrome", "Mozilla Firefox" arba "Safari", rekomenduojame naudoti "Microsoft Edge".
+Jei kyla problemų dėl "Google Chrome", "Mozilla Firefox" arba "Safari", rekomenduojame naudoti "Microsoft Edge".
 
-Jei esate Didžiosios organizacijos administratorius, Norėdami pradėti naudokite ["Microsoft Edge" sąrankos vadovą](https://go.microsoft.com/fwlink/?linkid=2142423) .
+Jei esate didelės organizacijos administratorius, pradėkite naudoti mūsų ["Microsoft Edge"](https://go.microsoft.com/fwlink/?linkid=2142423) sąrankos vadovą.
 
-Norėdami atsisiųsti "Microsoft Edge" vienu metu viename įrenginyje, eikite į [naujo "Microsoft Edge" įvedimą](https://go.microsoft.com/fwlink/?linkid=2141049).
+Norėdami atsisiųsti "Microsoft Edge" viename įrenginyje vienu metu, eikite [į Pristatome naują "Microsoft Edge".](https://go.microsoft.com/fwlink/?linkid=2141049)

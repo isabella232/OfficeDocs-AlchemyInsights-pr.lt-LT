@@ -1,5 +1,5 @@
 ---
-title: "\"712\" siuntimo sąrašo konvertavimas į \"Microsoft 365\" grupę"
+title: 712 Siuntimo sąrašo konvertavimas į "Microsoft 365" grupę
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 457dd29bd940e192eb4962d44bebc652646566f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732975"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692330"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Paskirstymo grupės konvertavimas į "Microsoft" 365 grupę
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Platinimo grupės konvertavimas į "Microsoft 365" grupę
 
-Galite konvertuoti paskirstymo grupes į "Microsoft" 365 grupes, jei jos atitinka tam tikrus kriterijus. Norėdami konvertuoti grupę arba šalinti konvertavimo problemas, peržiūrėkite " [Outlook" skirtų "Microsoft" 365 grupių versijų naujinimo platinimo sąrašus](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
+Galite konvertuoti siuntimo grupes į "Microsoft 365" grupes, jei jos atitinka tam tikrus kriterijus. Norėdami konvertuoti grupę arba šalinti konvertavimo triktis, žr. Siuntimo [sąrašų versijos naujinimas į "Microsoft 365 Groups" programoje "Outlook".](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)
+
+W taip pat turi scenarijų, kurį galite paleisti, kad padėtų patikrinti platinimo grupės tinkamumą atnaujinti versiją į ["Microsoft 365" grupę](https://aka.ms/DLToM365Group).
