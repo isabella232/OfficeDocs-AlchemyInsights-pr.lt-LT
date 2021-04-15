@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739444"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692402"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Dažniausiai švietimo įstaigų klientams dėl „Teams“ pasitaikančios problemos
 
@@ -45,7 +46,7 @@ Jei reikia pagalbos diegiant „Teams“ ir taikant nuotolinį mokymąsi, apsila
     6. „Skype“ verslui administravimo centre spustelėkite **garso konferencijos**, tada – **Vartotojai**.
     7. Pasirinkite reikiamą vartotoją ir patikrinkite, ar vartotojas turi numatytąjį mokamą numerį.
 
-    Jei reikia daugiau informacijos, žr. [Skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
+    Jei reikia daugiau informacijos, žr. [„Microsoft Teams“ skambučių planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
 
     Papildomi ištekliai
 
@@ -72,7 +73,7 @@ Jei reikia pagalbos diegiant „Teams“ ir taikant nuotolinį mokymąsi, apsila
 
     1. „Microsoft Teams“ administravimo centro kairiojoje naršymo srityje eikite į **Vartotojai**, tada spustelėkite vartotoją.
     2. Pasirinkite vartotoją spustelėdami vartotojo vardo kairėje, tada spustelėkite **Redaguoti parametrus**.
-    3. Dalyje **Susitikimo strategijos**pasirinkite norimą priskirti strategiją, tada spustelėkite **Taikyti**.
+    3. Dalyje **Susitikimo strategijos** pasirinkite norimą priskirti strategiją, tada spustelėkite **Taikyti**.
 
     Jei norite priskirti strategiją keliems vartotojams vienu kartu, žr. [Masinis „Teams“ vartotojų parametrų įtraukimas](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk).
 

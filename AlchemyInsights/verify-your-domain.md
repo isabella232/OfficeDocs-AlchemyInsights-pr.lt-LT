@@ -2,7 +2,7 @@
 title: Domeno tikrinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734314"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770999"
 ---
 # <a name="verify-your-domain"></a>Domeno tikrinimas
 
- **Įrašas tikriausiai neatnaujintas internete.**
+ **Tikriausiai įrašas nebuvo atnaujintas internete.**
   
-Paprastai, kad galėtume matyti naują įrašą, tačiau kartais gali užtrukti kelias valandas, nes tai gali užtrukti keletą minučių. 
+Paprastai mums užtrunka tik kelios minutės, kol galėsime matyti naują įrašą, tačiau kartais tai gali užtrukti iki kelių valandų. 
   
-- Jei dar ilgai laukėte, dar kartą patikrinkite, ar nukopijavote ir įklijavote tikslią reikšmę į TXT patvirtinimo įrašą savo DNS išteklių nuomos teikėjo svetainėje. Viena dažniausių problemų nėra įtraukiant "MS =" įrašo dalį. Turime taip pat!
+- Jei jau ilgai laukėte, dukart patikrinkite, ar nukopijavote ir įklijuojate tikslią reikšmę į TXT patvirtinimo įrašą DNS išteklių nuomos teikėjo svetainėje. Viena dažniausia problema nėra įrašo dalis "MS=". Mums to taip pat reikia!
 
-- Kai kuriuose DNS pagrindiniuose kompiuteriuose turite atlikti papildomą veiksmą, kad įrašytumėte zonos failą (kur saugomas DNS įrašas), kad jis būtų atnaujintas internete. Įsitikinkite, kad įrašėte savo atliktus įrašus, kad "Microsoft" galėtų matyti ir patvirtinti įrašą.
+- Kai kuriuose DNS išteklių nuomos teikėjose turite atlikti papildomą veiksmą, kad įrašytumėte zonos failą (kur saugomas DNS įrašas), kad jis būtų naujinys internete. Įsitikinkite, kad įrašėte keitimus, kad "Microsoft" galėtų peržiūrėti ir patvirtinti įrašą.

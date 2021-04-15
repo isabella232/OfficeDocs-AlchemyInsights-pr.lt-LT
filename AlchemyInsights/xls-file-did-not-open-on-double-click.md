@@ -1,8 +1,8 @@
 ---
-title: XLS failas neatidaromas dukart spustelėjus
+title: XLS failas neatidaryti dukart spustelėjus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796332"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770603"
 ---
-# <a name="excel-file-doesnt-open"></a>"Excel" failas neatsidaro
+# <a name="excel-file-doesnt-open"></a>"Excel" failas neatidaro
 
 Išbandykite vieną iš šių pasiūlymų:
 
 **Pasirinkite "Excel" kaip numatytąjį**
 
-* Dešiniuoju pelės mygtuku spustelėkite darbalapį, pasirinkite **Atidaryti naudojant**, tada pasirinkite **"Excel** "
+* Dešiniuoju pelės mygtuku spustelėkite darbalapį, pasirinkite **Atidaryti naudojant**, tada pasirinkite **"Excel"**
 
-**Greito taisymo vykdymas**
+**Sparčiojo atkūrimo paleidimas**
 
-1. Eikite į **valdymo skydo > programos > programos ir funkcijos**.
+1. Eikite **į Valdymo skydas > Programos > Programos ir funkcijos**.
 
-2. Pasirinkite "Office" produktą, kurį norite atkurti, tada pasirinkite **keisti**.
+2. Pasirinkite "Office" produktą, kurį norite atkurti, tada pasirinkite **Keisti**.
 
-3. Pasirinkite parinktį **spartusis atkūrimas** , tada pasirinkite **Taisyti**.
+3. Pasirinkite parinktį **Spartusis** taisymas, tada pasirinkite **Taisyti**.
 
-**Nenaudingų "Office" versijų pašalinimas**
+**"Office" versijų, kurių nenaudosite, šalinimas**
 
-1. Eikite į **valdymo skydas > pašalinkite programą**, tada pasirinkite norimą pašalinti "Office" versiją.
+1. Eikite **į > pašalinti programą**, tada pasirinkite "Office" versiją, kurią norite pašalinti.
 
-2. Spustelėkite **pašalinti**.
+2. Spustelėkite **Pašalinti**.
 
 3. Paleiskite kompiuterį iš naujo.
 
-**Paleiskite šią trikčių diagnostikos priemonę, kad nustatytumėte "Office" failų plėtinius, kad atidarytumėte "Office"**
+**Paleiskite šią trikčių diagnostikos priemonę, kad "Office" failų plėtiniai būtų atidaryti naudojant "Office"**
 
 1. Paleiskite šią trikčių diagnostikos priemonę: https://aka.ms/diag_officefile .
 
-2. Atsižvelgdami į naršyklę, **atidarykite** arba **įrašykite** trikčių diagnostikos priemonę darbalaukyje ir **paleiskite** ją.
+2. Atsižvelgiant į naršyklę, **atidarykite** arba **įrašykite** trikčių diagnostikos priemonę darbalaukyje, tada **paleiskite** ją.

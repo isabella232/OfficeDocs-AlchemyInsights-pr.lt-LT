@@ -1,8 +1,8 @@
 ---
-title: El. pašto peradresavimo nustatymas
+title: El. pašto peradresavimo nustatyti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037193"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787145"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Pašto dėžutės pašto peradresavimo parametrų tikrinimas
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Pašto dėžutės el. pašto peradresavimo parametrų tikrinimas
 
-Pirmiausia, pašto peradresavimas turi būti įgalintas nuomotojo lygyje. Jei pašto dėžutėje nustatėte el. pašto peradresavimą, bet jis neveikia (gaunate klaidos pranešimą **"550" 5.7.520 "prieiga uždrausta, jūsų organizacija neleidžia naudoti išorinio peradresavimo"**), peržiūrėkite ["Microsoft 365" išorinio el. pašto peradresavimo valdymas](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Pirma, el. pašto peradresavimas turi būti įgalintas nuomotojo lygiu. Jei nustatėte el. pašto peradresavimą pašto dėžutėje, bet jis neveikia (gaunate **klaidos pranešimą "550 5.7.520 Prieiga uždrausta,** jūsų organizacija neleidžia išorinio peradresavimo") žr. Automatinio išorinio el. pašto peradresavimo valdymas ["Microsoft 365".](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
-Lengva patvirtinti pašto dėžutės pašto peradresavimo parametrus! Tiesiog atlikite šiuos veiksmus.
+Lengva patikrinti el. pašto peradresavimo parametrus pašto dėžutėje! Tiesiog atlikite šiuos veiksmus.
   
-> Jei tai vartotojo pašto dėžutė, **eikite į** \> **aktyvūs** vartotojai ir pasirinkite vartotoją, kurio pašto dėžutę persiunčiate. Skirtuke **paštas** pasirinkite **tvarkyti pašto peradresavimą**.
+> Jei tai vartotojo pašto dėžutė, eikite į **Vartotojai** \> **Aktyvūs vartotojai** ir pasirinkite vartotoją, kurio pašto dėžutę persiunčiate. Skirtuke **Paštas** pasirinkite Valdyti **el. pašto peradresavimą**.
 
-> Jei tai bendrinama pašto dėžutė, eikite į **grupių** \> **bendrinamos** pašto dėžutės ir pasirinkite peradresuojamus bendrinamą pašto dėžutę. Pasirinkite **Redaguoti** el. pašto peradresavimą.
+> Jei tai bendrinama pašto dėžutė, eikite į **Grupės** \> **bendrai naudojamos pašto** dėžutės ir pasirinkite bendrinamą pašto dėžutę, kurią persiunčiate. Pasirinkite **Redaguoti,** jei norite persiųsti el. laiškus.
 
-Daugiau informacijos rasite ["Microsoft 365" pašto peradresavimo konfigūravimas](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Daugiau informacijos žr. [El. pašto peradresavimo konfigūravimas "Microsoft 365".](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Norėdami siųsti instrukcijas vartotojams, kad jie galėtų nustatyti pašto peradresavimo funkciją savo pašto dėžutėse, nukreipkite juos į [persiųsti laišką iš "Microsoft 365" į kitą el. pašto paskyrą](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Atkreipkite dėmesį, kad galite persiųsti tik vieną elektroninio pašto adresą. Jei reikia nustatyti peradresavimą žmonių grupei, sukurkite siuntimo sąrašą (dalyje **grupės**), įtraukite vartotojų į jį, tada sukonfigūruokite persiuntimą į tą grupę.
+Norėdami vartotojams siųsti instrukcijas, kad jie galėtų nustatyti el. pašto peradresavimą savo pašto dėžutėse, nukreipkite juos į Persiųsti el. laiškus iš ["Microsoft 365" į kitą el. pašto paskyrą.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Atkreipkite dėmesį, kad galite persiųsti tik vienu el. pašto adresu. Jei norite nustatyti peradresavimą žmonių grupei, sukurkite siuntimo sąrašą (dalyje Grupės **),** įtraukite vartotojus į jį ir sukonfigūruokite peradresavimą į tą grupę.
   
-Ar esate išvykę iš darbuotojo? Žiūrėkite, kaip [pašalinti ankstesnį darbuotoją iš "Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) už rekomenduojamus veiksmus.
+Ar esate išvykęs darbuotojas? Rekomenduojamus [veiksmus rasite buvusio darbuotojo pašalinimas iš "Microsoft 365".](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)

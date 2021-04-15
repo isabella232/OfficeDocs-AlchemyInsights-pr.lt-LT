@@ -2,7 +2,7 @@
 title: Fotoaparato privatumo parametrų naujinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274839"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782663"
 ---
 # <a name="update-your-cameras-privacy-settings"></a>Fotoaparato privatumo parametrų naujinimas
 
-Šis klaidos kodas reiškia, kad jūsų fotoaparato privatumo parametrai įtakoja taikomąją programą. Norėdami atnaujinti fotoaparato privatumo parametrus, atlikite šiuos veiksmus:
+Šis klaidos kodas reiškia, kad fotoaparato privatumo parametrai turi įtakos programėlei. Norėdami atnaujinti fotoaparato privatumo parametrus, atlikite šiuos veiksmus:
 
-- Atidarykite **pradžios mygtuką > parametrai > privatumo > kamera**.
-- Dalyje **Leisti prieigą prie kameros Šiame įrenginyje**pasirinkite **keisti**. Įsitikinkite, **kad įjungtas perjungiklis.**
-- Tada dalyje **Leisti programėlėms pasiekti jūsų fotoaparatą**įsitikinkite, **kad įjungtas perjungiklis.**
-- Tada dalyje **pasirinkite, kurios programos gali pasiekti jūsų kamerą**, įsitikinkite, kad įjungta parinktis perjungti šalia norimos programėlės.
+- Atidarykite **mygtuką Pradžia > Parametrai > Privatumo > fotoaparatas.**
+- Dalyje **Leisti prieigą prie fotoaparato šiame įrenginyje** pasirinkite **Keisti**. Įsitikinkite, kad jungiklis **įjungtas**.
+- Tada dalyje **Leisti programėlėms pasiekti fotoaparatą** įsitikinkite, kad jungiklis **įjungtas**.
+- Tada dalyje **Pasirinkite, kurios programėlės gali pasiekti jūsų** fotoaparatą, įsitikinkite, kad jungiklis šalia norimos taikomosios programos taip pat yra įjungtas.

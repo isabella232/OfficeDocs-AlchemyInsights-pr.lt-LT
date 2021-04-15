@@ -1,8 +1,8 @@
 ---
-title: SPF nustatymas
+title: SPF nustatyti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295614"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788999"
 ---
-# <a name="set-passwords-to-never-expire"></a>Slaptažodžių nustatymas niekada nesibaigs
+# <a name="set-passwords-to-never-expire"></a>Nustatykite, kad slaptažodžiai niekada nesibaigs
 
-Norėdami nustatyti, kad visi slaptažodžiai niekada nesibaigtų, "Microsoft 365" administravimo centre eikite į **Parametrai**  >  **organizacijos parametrai > [saugos ir privatumo](https://portal.office.com/adminportal/home#/settings/security)  >  [slaptažodžio galiojimo laikas](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** ir panaikinkite "nustatyti vartotojų slaptažodžius, kad jie pasibaigtų po kelių dienų".
+Norėdami nustatyti, kad visi slaptažodžiai niekada nesibaigia, "Microsoft 365" administravimo centre eikite į Parametrų organizacijos parametrai > Saugos ir privatumo slaptažodžio galiojimo strategija ir atžymėkite "Nustatyti vartotojų slaptažodžių galiojimą po kelių  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dienų".
   
-Išsamesnės informacijos ieškokite:
+Išsamesnės informacijos žr.:
 
-- [Nustatykite savo organizacijos slaptažodžių galiojimo strategiją.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Nustatykite savo organizacijos slaptažodžio galiojimo strategiją.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Nustatyti slaptažodį, kurio galiojimas niekada nesibaigtų konkretiems vartotojams](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Nustatykite, kad slaptažodžio galiojimas niekada nesibaigs konkretiems vartotojams](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Slaptažodis turi būti tenkinant sudėtingumo reikalavimus](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Slaptažodis turi atitikti sudėtingumo reikalavimus](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
