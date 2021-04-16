@@ -1,27 +1,26 @@
 ---
-title: Dar nesate dirbę su „Microsoft Teams“
+title: „Microsoft Teams“ nustatymas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509153"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786209"
 ---
-# <a name="new-to-microsoft-teams"></a>Dar nesate dirbę su „Microsoft Teams“
+# <a name="set-up-microsoft-teams"></a>„Microsoft Teams“ nustatymas
 
-Peržiūrėkite  [Pradėkite naudoti „Microsoft Teams“](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Būtinai peržiūrėkite „Microsoft Teams“ IT administratorių mokymų vaizdo įrašus, komplektus ir dar daugiau.
+[„Microsoft Teams“ nustatymo vadovas](https://aka.ms/teamsguidance) jūsų organizacijai pateikia nurodymus, kaip nustatyti komandos darbo vietas, kuriose vyksta tiesioginiai pokalbiai žinučių, skambučių, garso įrašų arba vaizdo susitikimų pagalba, komandoms ir asmeniniam bendravimui. Gausite nurodymus, kurie padės nustatyti jūsų organizacijos tinklo reikalavimus, naudojant tinklo planavimo priemonę ir „Teams“ patariamąją priemonę, esančią „Teams“ administravimo centre. Atlikus diegimą, vadove rasite naudingų išteklių, kurie padės pradėti darbą programoje „Teams“.
 
-Jei reikia pagalbos diegiant „Teams“, kad būtų padedama nuotoliniams darbuotojams (WFH) dėl COVID-19, peržiūrėkite [Nuotolinių darbuotojų palaikymas, naudojant „Microsoft Teams“](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Be to, gali būti, kad jums gali būti suteikta „Microsoft 365 FastTrack“ diegimo pagalba: apsilankykite [„FastTrack“ centre](https://www.microsoft.com/fasttrack), kad pateiktumėte užklausą.
-
-**Svarbu**: dėl pastaruoju metu padidėjusio komandų naudojimo, kai vartotojui priskiriate komandų licenciją, gali praeiti maždaug 24 valandos, kol jos bus visiškai nustatytos. Iki tol negalėsite jiems priskirti komandų strategijų ir jiems gali nepavykti pasiekti kai kurių komandų funkcijų, pvz., skambinimo ir garso konferencijų.
+Norėdami gauti papildomos informacijos, žr. [Darbo su „Microsoft Teams“ pradžia](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
