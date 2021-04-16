@@ -1,8 +1,8 @@
 ---
-title: Pašalinkite didžiulį priedą
+title: Didelio priedo pašalinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701687"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799241"
 ---
-# <a name="remove-the-large-attachment"></a>Pašalinkite didžiulį priedą
+# <a name="remove-the-large-attachment"></a>Didelio priedo pašalinimas
 
-1. Programoje "Outlook" pasirinkite **Siųsti/gauti**  >  **darbą neprisijungus**. 
-2. Naršymo srityje pasirinkite **siunčiama**. Čia galite: 
-    - Panaikinkite laišką (pasirinkite jį, tada pasirinkite **Naikinti**).
-    - Nuvilkite pranešimą į juodraščių aplanką, dukart spustelėkite, kad jį atidarytumėte, ir pašalinkite priedą pasirinkite jį, tada pasirinkite **Naikinti**).
-3. Jei gaunate klaidos pranešimą, kuriame sakoma, kad "Outlook" bando perduoti pranešimą, uždarykite "Outlook". Gali praeiti kelios akimirkos, kad išeitumėte. Jei "Outlook" neužsidaro, paspauskite CTRL + ALT + DELETE ir pasirinkite **paleisti užduočių tvarkytuvą**. Užduočių tvarkytuve pasirinkite skirtuką **procesai** , slinkite žemyn iki outlook.exe ir pasirinkite **Baigti procesą**.
-4. Kai "Outlook" užsidaro, paleiskite ją iš naujo ir pakartokite 2 ir 3 veiksmus. 
-5. Pašalinę priedą spustelėkite **Siųsti/gauti**  >  **dirbti neprisijungus** , kad tęstumėte darbą internete. 
+1. Programoje "Outlook" pasirinkite **Siųsti / gauti darbą**  >  **neprisijungus**. 
+2. Naršymo srityje pasirinkite **Siunčiama**. Čia galite: 
+    - Panaikinkite pranešimą (pažymėkite jį ir pasirinkite **Naikinti**).
+    - Vilkite laišką į aplanką Juodraščiai, dukart spustelėkite, kad jį atidarytumėte, ir pašalinkite priedą, tada pasirinkite **Naikinti**).
+3. Jei gaunate klaidos pranešimą, kad "Outlook" bando perduoti pranešimą, uždarykite "Outlook". Gali šiek tiek užtrukti, kad išeitumėte. Jei "Outlook" uždaro, paspauskite Ctrl + Alt + Delete ir pasirinkite **Paleisti užduočių tvarkytuvą**. Užduočių tvarkytuve pasirinkite skirtuką **Procesai,** slinkite žemyn iki outlook.exe ir pasirinkite **Baigti procesą**.
+4. Kai "Outlook" uždarys, paleiskite ją iš naujo ir pakartokite 2 ir 3 veiksmus. 
+5. Kai pašalinsite priedą, spustelėkite **Siųsti / gauti darbą**  >  **neprisijungus,** kad tęstumėte darbą internete. 
 
-Laiškai taip pat užstrigę aplanke siunčiama, kai spustelite **Siųsti**, bet nesate prisijungę. Spustelėkite **Siųsti/gauti** ir peržiūrėkite mygtuką **dirbti neprisijungus** . Jei ji mėlyna, esate atsijungę. Spustelėkite, kad prisijungtumėte (mygtukas taps baltas), tada spustelėkite **išsiųsti viską**.
+Pranešimai taip pat užstringa aplanke Siunčiama, kai **spustelėsite Siųsti**, bet nesate prisijungę. Spustelėkite **Siųsti / gauti ir** peržiūrėkite mygtuką Dirbti **neprisijungus.** Jei jis mėlynas, esate atjungtas. Spustelėkite jį, kad prisijungtumėte (mygtukas tampa baltas) ir spustelėkite **Siųsti viską.**
  
- Išsami informacija pateikta:
+ Išsamios informacijos žr.:
 - [Vaizdo įrašas: užstrigo el. laiško siuntimas arba naikinimas](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 

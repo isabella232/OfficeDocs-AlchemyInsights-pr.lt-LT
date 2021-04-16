@@ -1,8 +1,8 @@
 ---
-title: Dokumento slaptažodžio šalinimas
+title: Slaptažodžio pašalinimas iš dokumento
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768219"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799421"
 ---
-# <a name="remove-a-password-from-a-word-document"></a>"Word" dokumento slaptažodžio šalinimas
+# <a name="remove-a-password-from-a-word-document"></a>Slaptažodžio pašalinimas iš "Word" dokumento
 
-Jei žinote pirminį slaptažodį, dokumento slaptažodžio šalinimas yra paprastas procesas.
+Jei žinote pradinį slaptažodį, slaptažodžio šalinimas iš dokumento yra paprastas procesas.
 
-1. Atidarykite dokumentą ir įvesti slaptažodį.
-2. Eikite į **failo**  >  **informacija**  >  **apsaugoti dokumentą**  >  **užšifruoti slaptažodžiu**.
-3. Išvalykite slaptažodį **lauke Slaptažodis**, tada pasirinkite **gerai**.
+1. Atidarykite dokumentą ir įveskite slaptažodį.
+2. Eikite **į Failo** informacija  >  **Apsaugoti** dokumentą  >  **Šifruoti** naudojant  >  **slaptažodį**.
+3. Išvalykite slaptažodį **lauke Slaptažodis**, tada pasirinkite **Gerai**.
