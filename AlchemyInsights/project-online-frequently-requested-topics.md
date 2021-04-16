@@ -1,8 +1,8 @@
 ---
-title: "\"Project Online\" dažnai užklaustos temos"
+title: "\"Project Online\" dažnai pageidaujamos temos"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 847cfa73c98905dbd87004ea51b5005c59298545
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 66b5e32807abf2e9278280a3e5c91ae4eb6e31b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708142"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809988"
 ---
-# <a name="project-online-frequently-requested-topics"></a><span data-ttu-id="201c3-102">"Project Online" dažnai užklaustos temos</span><span class="sxs-lookup"><span data-stu-id="201c3-102">Project Online Frequently Requested Topics</span></span>
+# <a name="project-online-frequently-requested-topics"></a><span data-ttu-id="60cc7-102">"Project Online" dažnai pageidaujamos temos</span><span class="sxs-lookup"><span data-stu-id="60cc7-102">Project Online Frequently Requested Topics</span></span>
 
-<span data-ttu-id="201c3-103">Štai keletas dažnai reikalaujamų temų su projektu:</span><span class="sxs-lookup"><span data-stu-id="201c3-103">Here are some frequently requested topics with Project:</span></span>
+<span data-ttu-id="60cc7-103">Toliau pateikiame keletą dažnai užklaustų temų su "Project":</span><span class="sxs-lookup"><span data-stu-id="60cc7-103">Here are some frequently requested topics with Project:</span></span>
 
-<span data-ttu-id="201c3-104">Čia dažnai kreipiamasi į "Project" skirtas temas:</span><span class="sxs-lookup"><span data-stu-id="201c3-104">Here are frequently requested topics for Project:</span></span>
-1.  <span data-ttu-id="201c3-105">Darbo pradžia:</span><span class="sxs-lookup"><span data-stu-id="201c3-105">Getting started:</span></span> 
-    -   [<span data-ttu-id="201c3-106">Darbo su "Project Online" Pradžia</span><span class="sxs-lookup"><span data-stu-id="201c3-106">Get started with Project Online</span></span>](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
-    -   [<span data-ttu-id="201c3-107">"Project Online" administratoriaus dokumentai</span><span class="sxs-lookup"><span data-stu-id="201c3-107">Project Online Admin Documentation</span></span>](https://docs.microsoft.com/projectonline/project-online) 
-    -   [<span data-ttu-id="201c3-108">"Project Online": programinės įrangos ribos ir limitai</span><span class="sxs-lookup"><span data-stu-id="201c3-108">Project Online: software boundaries and limits</span></span>](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [<span data-ttu-id="201c3-109">Įtraukite žmonių, grupių ir išteklių, tada bendrinkite "Project Online"</span><span class="sxs-lookup"><span data-stu-id="201c3-109">Add people, groups, and resources, then share Project Online</span></span>](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [<span data-ttu-id="201c3-110">"Project Web App" (PWA) našumo "Project Online" derinimas</span><span class="sxs-lookup"><span data-stu-id="201c3-110">Tune Project Web App (PWA) performance in Project Online</span></span>](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  <span data-ttu-id="201c3-111">Prisijungimas prie " [Project Online" kompiuterio kliento](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span><span class="sxs-lookup"><span data-stu-id="201c3-111">Connect with the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span></span> 
-5.  [<span data-ttu-id="201c3-112">"Project Professional" diegimas ir naudojimas</span><span class="sxs-lookup"><span data-stu-id="201c3-112">Install and use Project Professional</span></span>](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+<span data-ttu-id="60cc7-104">Toliau pateikiame dažnai prašomas "Project" temas:</span><span class="sxs-lookup"><span data-stu-id="60cc7-104">Here are frequently requested topics for Project:</span></span>
+1.  <span data-ttu-id="60cc7-105">Darbo pradžia:</span><span class="sxs-lookup"><span data-stu-id="60cc7-105">Getting started:</span></span> 
+    -   [<span data-ttu-id="60cc7-106">Darbo su "Project Online" pradžia</span><span class="sxs-lookup"><span data-stu-id="60cc7-106">Get started with Project Online</span></span>](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
+    -   [<span data-ttu-id="60cc7-107">"Project Online" administravimo dokumentacija</span><span class="sxs-lookup"><span data-stu-id="60cc7-107">Project Online Admin Documentation</span></span>](https://docs.microsoft.com/projectonline/project-online) 
+    -   [<span data-ttu-id="60cc7-108">"Project Online": programinės įrangos ribos ir apribojimai</span><span class="sxs-lookup"><span data-stu-id="60cc7-108">Project Online: software boundaries and limits</span></span>](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [<span data-ttu-id="60cc7-109">Įtraukite žmonių, grupių ir išteklių, tada bendrinkite "Project Online"</span><span class="sxs-lookup"><span data-stu-id="60cc7-109">Add people, groups, and resources, then share Project Online</span></span>](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [<span data-ttu-id="60cc7-110">"Project Web App" (PWA) našumo derinimas "Project Online"</span><span class="sxs-lookup"><span data-stu-id="60cc7-110">Tune Project Web App (PWA) performance in Project Online</span></span>](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  <span data-ttu-id="60cc7-111">Prisijungimas prie ["Project Online" darbalaukio kliento](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span><span class="sxs-lookup"><span data-stu-id="60cc7-111">Connect with the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span></span> 
+5.  [<span data-ttu-id="60cc7-112">"Project Professional" diegimas ir naudojimas</span><span class="sxs-lookup"><span data-stu-id="60cc7-112">Install and use Project Professional</span></span>](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

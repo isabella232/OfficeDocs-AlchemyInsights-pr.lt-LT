@@ -1,8 +1,8 @@
 ---
-title: Kaip įsigyti "Office 365" švietimo planus
+title: Kaip įsigyti "Office 365 Education" planus
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703596"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810816"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="5d0cd-102">Kaip įsigyti "Office 365" švietimo planus</span><span class="sxs-lookup"><span data-stu-id="5d0cd-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="da490-102">Kaip įsigyti "Office 365 Education" planus</span><span class="sxs-lookup"><span data-stu-id="da490-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="5d0cd-103">Jūsų "Office 365" išsilavinimo kvalifikacija yra peržiūra.</span><span class="sxs-lookup"><span data-stu-id="5d0cd-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="5d0cd-104">Galite tikėtis gauti pranešimą dėl tinkamumo nustatymo prieš pasibaigiant jūsų bandomajam laikotarpiui.</span><span class="sxs-lookup"><span data-stu-id="5d0cd-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="da490-103">Jūsų "Office 365 Education" kvalifikacija peržiūrima.</span><span class="sxs-lookup"><span data-stu-id="da490-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="da490-104">Galite tikėtis gauti pranešimą apie jūsų tinkamumo nustatymą prieš pasibaigiant bandomosios versijos galiojimui.</span><span class="sxs-lookup"><span data-stu-id="da490-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
