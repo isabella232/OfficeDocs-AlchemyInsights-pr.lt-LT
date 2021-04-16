@@ -1,8 +1,8 @@
 ---
-title: Kada nuskaičiuojama mano kredito kortelė?
+title: Kada nuskaičiuota mano kredito kortelė?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806090"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kada nuskaičiuojama mano kredito kortelė?
+# <a name="when-is-my-credit-card-charged"></a>Kada nuskaičiuota mano kredito kortelė?
 
-Kai įsigyjate pradinį pirkimą, gali užtrukti iki dviejų dienų, kol bus vykdomas mokėjimas.
+Kai įsigyjama pirmą kartą, mokestis gali užtrukti iki dviejų dienų.
   
-Periodiniai mokesčiai įvyksta per vieną dieną nuo kuriamos sąskaitos faktūros.
+Pasikartojantys mokesčiai įvyksta per vieną dieną nuo sąskaitos faktūros.
   
-Jei mokesčio nepavyksta išspręsti, sistema ir toliau bandys subalansuoti likutį per artimiausias savaites. Galite bet kuriuo metu atnaujinti savo mokėjimo informaciją, kad būtų sėkmingai atliktas kito mokesčio bandymas. Daugiau informacijos ieškokite [mokėjimo būdų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Jei mokestis nesėkmingas, sistema ir toliau bandys sudengti likutį per ateinančias kelias savaites. Galite bet kada atnaujinti savo mokėjimo informaciją, kad įsitikintų, kad kitas bandymas sumokėti bus sėkmingas. Daugiau informacijos žr. [Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

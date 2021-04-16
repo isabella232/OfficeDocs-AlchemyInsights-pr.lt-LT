@@ -2,21 +2,22 @@
 title: Žinomos „Visio“ problemos ir jų sprendimai
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722592"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806594"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Žinomos „Visio“ problemos ir jų sprendimai
 
@@ -30,7 +31,7 @@ Pateikiame keletą dažnai pageidaujamų temų, susijusių su „Microsoft Visio
 
 **„Visio“ atsisiuntimas, diegimas ir aktyvinimas**
 
-- Norint įdiegti ir suaktyvinti „Visio“ kompiuterio taikomąją programą naudojant „Visio Online“ 2 planą, vartotojui pirmiausia turi būti priskirta [„Visio“ licencija](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Norint įdiegti ir suaktyvinti „Visio“ kompiuterio taikomąją programą naudojant „Visio Online“ 2 planą, vartotojui pirmiausia turi būti priskirta [„Visio“ licencija](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Įdiekite „Visio“ iš savo portalo Mano paskyra, jei ji dar neįdiegta. Jei reikia pagalbos, žr. [„Visio“ diegimas](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ Pateikiame keletą dažnai pageidaujamų temų, susijusių su „Microsoft Visio
 
 **„Visio“ „Mac“ kompiuteryje**
 
-„Visio“ programos versijos, skirtos „Mac“ kompiuteriui, nėra. Tačiau vartotojai, turintys galiojančią [„Visio Online“ licenciją](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), gali [peržiūrėti, kurti ir redaguoti diagramas](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) „Visio Online“ naudodamiesi žiniatinklio naršykle.
+„Visio“ programos versijos, skirtos „Mac“ kompiuteriui, nėra. Tačiau vartotojai, turintys galiojančią [„Visio Online“ licenciją](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), gali [peržiūrėti, kurti ir redaguoti diagramas](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) „Visio Online“ naudodamiesi žiniatinklio naršykle.
 
 **Diagramos, šablonai, figūros ir jungtys**
 
