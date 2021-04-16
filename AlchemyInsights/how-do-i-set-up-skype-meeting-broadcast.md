@@ -2,7 +2,7 @@
 title: Kaip nustatyti "Skype" susitikimų transliaciją
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781471"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811032"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="ec985-102">Negalite paleisti arba prisijungti prie "Skype" susitikimo transliacijos?</span><span class="sxs-lookup"><span data-stu-id="ec985-102">Can't start or join a Skype Meeting Broadcast?</span></span>
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="012f8-102">Negalite pradėti arba prisijungti prie "Skype" susitikimų transliavimo?</span><span class="sxs-lookup"><span data-stu-id="012f8-102">Can't start or join a Skype Meeting Broadcast?</span></span>
 
-<span data-ttu-id="ec985-103">Jei kyla problemų paleidžiant arba prisijungiant prie "Skype" susitikimo transliacijos kaip įvykio komandos narys (susitikimo gamintojas), įsitikinkite, kad dar kartą patikrinkite konfigūraciją.</span><span class="sxs-lookup"><span data-stu-id="ec985-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="ec985-104">"Skype" susitikimų transliavimui reikia rankiniu būdu atlikti veiksmus.</span><span class="sxs-lookup"><span data-stu-id="ec985-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="ec985-105">Atlikite šiame straipsnyje nurodytus veiksmus, kad užtikrintumėte, jog jūsų tinklas ir "Skype" verslui internetinis portalas būtų tinkamai sukonfigūruoti ir kad paveikto vartotojo neužblokuotų nesuderinamos licencijos:</span><span class="sxs-lookup"><span data-stu-id="ec985-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
+<span data-ttu-id="012f8-103">Jei kyla problemų pradedant arba prisijungiant prie "Skype" susitikimų transliavimo kaip įvykio komandos nario (susitikimo prodiuseris), būtinai patikrinkite savo konfigūraciją.</span><span class="sxs-lookup"><span data-stu-id="012f8-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="012f8-104">Norint transliuoti "Skype" susitikimus, reikia atlikti kelis neautomatinės sąrankos veiksmus.</span><span class="sxs-lookup"><span data-stu-id="012f8-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="012f8-105">Atlikite šiame straipsnyje nurodytus veiksmus, kad užtikrinsite, jog jūsų tinklas ir internetinės "Skype" verslui portalas yra tinkamai sukonfigūruoti ir kad susijusio vartotojo neblokuoja nesuderinama licencija:</span><span class="sxs-lookup"><span data-stu-id="012f8-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
 
-[<span data-ttu-id="ec985-106">"Skype" susitikimų transliavimo tinklo nustatymas</span><span class="sxs-lookup"><span data-stu-id="ec985-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[<span data-ttu-id="012f8-106">"Skype" susitikimų transliavimo tinklo nustatymas</span><span class="sxs-lookup"><span data-stu-id="012f8-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
