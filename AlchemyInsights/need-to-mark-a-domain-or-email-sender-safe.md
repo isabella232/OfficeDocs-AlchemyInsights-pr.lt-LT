@@ -1,8 +1,8 @@
 ---
-title: Norite, kad domenas arba pašto siuntėjas būtų saugūs?
+title: Norite pažymėti domeną arba el. pašto siuntėją saugiai?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 0ea089b95ad7de25e77017196fb2db895d4d0178
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1c4c4d2fadaf75eda9b5b322aca35c32dfee8ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803253"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792140"
 ---
-# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Norite, kad domenas arba pašto siuntėjas būtų saugūs?
+# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Norite pažymėti domeną arba el. pašto siuntėją saugiai?
 
-- **Saugių siuntėjų sąrašų naudojimas nerekomenduojamas** , nes jis atveria jūsų organizacijai pašto šiukšlių, apsimetimo ir imitavimo atakų.
-- Tačiau, jei yra verslo reikalavimas, **rekomenduojame** naudoti " **[mail Flow" taisykles](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** . Mūsų rekomendacijos užtikrina siuntėjo autentifikavimą (tikrina, ar siuntimo domenas nėra apsimetimo). **Pastaba**: nerekomenduojame naudoti neteisingus teigiamus rezultatus naudojant patikimų siuntėjų sąrašus, nes išimtys pašto šiukšlių filtrui gali atidaryti jūsų organizaciją į saugos atakas. Jei jūsų vartotojas (-iai) gauna laiškus, netinkamai pažymėtus kaip pašto šiukšles arba nepageidaujamą paštą, praneškite **[apie laiškus ir failus "Microsoft"](https://protection.office.com/reportsubmission)**.
-- **Reikia vengti** patikimų siuntėjų programoje "Outlook", leidžiančio siuntėjų sąrašo arba leidžiamo domenų sąrašo apsaugos nuo pašto šiukšlių politikoje, nes siuntėjai apeina visus pašto šiukšlių, apgaulingas ir pašto apsaugos bei siuntėjo autentifikavimo (SPF, DKIM, DMARC). Šis metodas geriausiai tinka tik laikiniesiems bandymams.
+- Patikimų **siuntėjų sąrašų naudoti nerekomenduojama,** nes ji atveria jūsų organizacijai pašto šiukšlių, sukčiavimo apsimetant ir apsimetimo atakomis.
+- Tačiau, jei yra verslo reikalavimas, rekomenduojame **šiam atvejui** **[naudoti pašto](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** srauto taisykles. Mūsų rekomendacijos užtikrina siuntėjo autentifikavimą (patikrina, ar siuntimo domenas nėra apgaulių). **Pastaba:** nerekomenduojame valdyti klaidingų teigiamų rezultatų naudojant patikimų siuntėjų sąrašus, nes pašto šiukšlių filtravimo išimtys gali atidaryti jūsų organizaciją saugos atakoms. Jei jūsų vartotojas (-ai) gauna laiškus, netinkamai pažymėtus kaip pašto šiukšlės arba nepageidaujamas el. paštas, **[praneškite apie pranešimus ir failus "Microsoft".](https://protection.office.com/reportsubmission)**
+- Patikimų siuntėjų programoje "Outlook", Leidžiamų siuntėjų sąraše  arba leidžiamų domenų sąraše apsaugos nuo pašto šiukšlių strategijose reikėtų vengti, nes siuntėjai apeina visus pašto šiukšles, apsimetimo apsimetant ir siuntėjų autentifikavimą (SPF, DKIM, DMARC). Šis metodas geriausiai naudojamas tik laikinajam testavimui.

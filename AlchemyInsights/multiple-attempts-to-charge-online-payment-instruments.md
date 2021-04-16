@@ -1,8 +1,8 @@
 ---
-title: Keli bandymai įkrauti mokėjimo internetu priemones
+title: Keli bandymai apmokestinti internetines mokėjimo priemones
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724659"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792716"
 ---
-# <a name="past-due-account"></a>Praėjęs abonementas?
+# <a name="past-due-account"></a>Ar paskyra buvo praėjusi?
 
-Mokėjimą galima atmesti dėl kelių priežasčių, įskaitant kredito kortelės galiojimo pabaigą. Galite bet kada naudoti funkciją **Sudengti likutį**, kad pakeistumėte kredito kortelės informaciją ir nedelsdami iš naujo pateiktumėte mokėjimą.
+Mokėjimas gali būti atmestas dėl kelių priežasčių, įskaitant, jei baigėsi kredito kortelės galiojimas. Galite bet kada naudoti funkciją **Sudengti likutį**, kad pakeistumėte kredito kortelės informaciją ir nedelsdami iš naujo pateiktumėte mokėjimą.
 
-1. Administravimo centre eikite į **atsiskaitymo > [produktų & tarnybų](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-Raskite prenumeratą su neapmokėtu likučiu. Sekcijoje **atsiskaitymas** , prie **prenumeratos yra praėjęs mokėjimas**, spustelėkite **sudengimo likutis** , kad sumokėtumėte visą neapmokėtą likutį.
-2. Jei turite kredito kortelę, galite pakeisti galiojimo pabaigos datą, pasirinkti kitą kortelę arba [įtraukti naują kortelę](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+1. Administravimo centre eikite į **Atsiskaitymas už > [produktų & paslaugas](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Raskite prenumeratą su nesumokėtą likutį. Sekcijoje **Atsiskaitymas** šalia Prenumeratos yra praėjusio **termino** mokėjimas, spustelėkite Sudengti likutį, **kad mokėtų** visą neapmokėtą likutį.
+2. Jei turite kredito kortelę, galite pakeisti galiojimo datą, pasirinkti kitą kortelę arba [įtraukti naują kortelę.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
 3. Jei neturite kredito kortelės, galite pasirinkti kitą kredito kortelę arba [įtraukti naują kortelę](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. Baigę naujinti, spustelėkite **įrašyti**.
+4. Kai užbaigsite naujinimus, spustelėkite **Įrašyti**.
 
-**Pastaba**: Atlikę mokėjimą, praėjęs pranešimas gali būti matomas trumpą laiką. Palaukite bent **48 valandas** prieš kreipdamiesi į palaikymo tarnybą.
+**Pastaba:** atlikus mokėjimą, praėjusio termino pranešimas gali būti rodomas trumpą laiką. Prieš susisiekdami su **palaikymo tarnyba palaukite bent 48** valandas.
