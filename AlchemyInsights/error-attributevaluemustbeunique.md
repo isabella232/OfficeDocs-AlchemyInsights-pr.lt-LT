@@ -1,8 +1,8 @@
 ---
-title: Klaida AttributeValueMustBeUnique
+title: Error AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709159"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813768"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Klaida: AttributeValueMustBeUnique
 
-Dažniausia "AttributeValueMustBeUnique" klaidos priežastis yra du objektai su skirtingais SourceAnchor (immutableId) turi tą pačią reikšmę ProxyAddresses ir (arba) UserPrincipalName atributus. Norėdami pataisyti "AttributeValueMustBeUnique" klaidą:
+Dažniausia attributeValueMustBeUnique klaidos priežastis yra du objektai, kurių sourceAnchor (immutableId) turi tą pačią reikšmę ProxyAddresses ir (arba) UserPrincipalName atributams. Norėdami ištaisyti klaidą AttributeValueMustBeUnique:
   
-1. Identifikuokite pasikartojančius proxyAddresses, userPrincipalName arba kitą atributo reikšmę, dėl kurios kyla klaida. Taip pat nustatykite, kurie du (ar daugiau) objektai yra susiję su konfliktu. Ataskaita, kurią sugeneravo "Azure AD Connect Health for Sync", gali padėti nustatyti du objektus.
+1. Identifikuokite dubliuotas proxyAddresses, userPrincipalName arba kitą atributo reikšmę, dėl kurios kyla klaida. Taip pat nustatykite, kurie du (ar daugiau) objektų yra susiję su konfliktu. "Azure AD Connect Health" sugeneruota ataskaita, skirta sinchronizuoti, gali padėti nustatyti du objektus.
     
-2. Nustatykite, kuris objektas turėtų būti ir toliau dubliuojamas, o kuris objektas neturėtų.
+2. Nustatykite, kuris objektas ir toliau turi turėti dubliuotas reikšmę, o kurio objekto neturėtų būti.
     
-3. Pašalinkite dubliuotos reikšmės objektą, kurio reikšmė neturėtų būti. Nepamirškite, kad pakeiskite katalogą, kuriame yra objektas. Kai kuriais atvejais gali reikėti panaikinti vieną iš konflikto objektų.
+3. Pašalinkite dubliuotas reikšmę iš objekto, kuriame neturėtų būti šios reikšmės. Atkreipkite dėmesį, kad turite pakeisti katalogą, iš kur objektas yra iš jo šaltinio. Kai kuriais atvejais gali tekti panaikinti vieną iš nesuderinamų objektų.
     
-4. Jei pakeitėte vietinį skelbimą, paleiskite "Azure AD Connect" sinchronizavimo keitimą, kad būtų išspręsta klaida.
+4. Jei atlikote pakeitimą vietiniame AD, leiskite "Azure AD Connect" sinchronizuoti klaidos pakeitimą, kad būtų išspręstas.
     
 

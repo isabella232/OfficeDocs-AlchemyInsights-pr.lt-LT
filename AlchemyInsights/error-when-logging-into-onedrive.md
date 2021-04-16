@@ -2,7 +2,7 @@
 title: 0x8004de40 klaida paleidžiant "OneDrive"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823111"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813660"
 ---
 # <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 klaida paleidžiant "OneDrive"
 
-Jei gaunate klaidos pranešimą **0x8004de40** , kai prisijungiate prie "OneDrive", iš naujo paleiskite kompiuterį prisijungę prie savo darbo arba mokymo įstaigos domeno. Jei gaunate šią klaidą paleidę kompiuterį iš naujo, Išbandykite tai būdami prisijungę prie savo darbo arba mokymo įstaigos domeno:
+Jei gaunate klaidos pranešimą **0x8004de40** "OneDrive", iš naujo paleiskite kompiuterį prisijungę prie darbo arba mokymo įstaigos domeno. Jei gaunate šią klaidą iš naujo paleidę kompiuterį, pabandykite tai padaryti prisijungę prie savo darbo arba mokymo įstaigos domeno:
 
-1. Spustelėkite pradėti, tada ieškos lauke įveskite **cmd** arba **Komandinė eilutė**  , dešiniuoju pelės mygtuku spustelėkite Komandinė eilutė ir pasirinkite  **paleisti kaip administratoriui** . Jei esate raginami įvesti administratoriaus slaptažodį arba patvirtinti, įveskite slaptažodį arba spustelėkite **leisti** .  
+1. Spustelėkite Pradėti ir ieškos **lauke įveskite cmd** **arba komandinę**  eilutę, dešiniuoju pelės mygtuku spustelėkite komandinės eilutės taikomąją programą ir pasirinkite  **Vykdyti administratoriaus teisėmis**. Jei būsite paraginti įvesti administratoriaus slaptažodį arba patvirtinti, įveskite slaptažodį arba spustelėkite **Leisti**.  
 
-2. Lange Komandinė eilutė įveskite **dsregcmd/Leave**  ir palaukite, kol komanda bus baigta. Tada įveskite **dsregcmd/Join** ir palaukite, kol komanda bus baigta.
+2. Komandinės eilutės lange įveskite **dsregcmd /leave**  ir palaukite, kol bus baigta komanda. Tada įveskite **dsregcmd /join ir** palaukite, kol bus baigta komanda.
 3. Iš naujo paleiskite kompiuterį.

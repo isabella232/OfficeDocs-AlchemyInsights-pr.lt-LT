@@ -1,8 +1,8 @@
 ---
-title: Komandos ir jos grupės galiojimo pabaigos data nesutampa
+title: Komandos ir pagrindinės grupės galiojimo pabaigos data nesutampa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364878"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813444"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Komandos ir jos grupės galiojimo pabaigos data nesutampa
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Komandos ir pagrindinės grupės galiojimo pabaigos data nesutampa
 
-Prieš atnaujinant komandą dar kartą atnaujinama grupė, kuri palaiko komandą. Kaip atnaujinimo dalis nauja galiojimo pabaigos data nustatoma pagal būsimą datą. Ši nauja data gali būti ne iš karto matoma "teams". Gali užtrukti iki 24 valandų, kol bus sinchronizuojama. Jei matote skirtumą tarp komandos ir jos bazinės grupės galiojimo pabaigos datos, palaukite 24 valandas prieš prašydami tolesnio palaikymo.  
+Prieš atnaujinant komandą, pirmiausia atnaujinama komandai grįžusi grupė. Atnaujinant, grupėje nustatoma nauja galiojimo data būsimai datai. Ši nauja data gali būti iš karto nematoma "Teams". Sinchronizavimas gali užtrukti iki 24 valandų. Jei matote neatitikimą tarp komandos ir jos pagrindinės grupės galiojimo pabaigos datos, palaukite 24 valandas prieš ieškodami tolesnės pagalbos.  
 
-Daugiau informacijos ieškokite [komandos galiojimo laikas ir atnaujinimas programoje "Microsoft teams"](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Daugiau informacijos žr. Komandos galiojimo laikas ir atnaujinimas ["Microsoft Teams".](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

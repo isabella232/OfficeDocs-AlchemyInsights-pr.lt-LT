@@ -1,8 +1,8 @@
 ---
-title: Failų bendras naudojimas sistemoje "Windows 10"
+title: Failų bendrinimas tinkle sistemoje "Windows 10"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745399"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813156"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Failų bendras naudojimas sistemoje "Windows 10"
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Failų bendrinimas tinkle sistemoje "Windows 10"
 
-**Pastaba**: jei anksčiau naudojote namų grupę failams naudoti, Atminkite, kad namų grupė pašalinta iš "Windows 10" (1803 versija). Dabar galite bendrinti spausdintuvus ir failus naudodami įtaisytąsias funkcijas sistemoje "Windows 10".
+**Pastaba:** jei anksčiau naudojote namų grupę failų bendrinimui, atkreipkite dėmesį, kad namų grupė buvo pašalinta iš "Windows 10" (1803 versija). Dabar galite bendrinti spausdintuvus ir failus naudodami įtaisytas "Windows 10" funkcijas.
 
 **Failų arba aplankų bendrinimas tinkle**
 
-- **Failų naršyklėje**pasirinkite failą > spustelėkite skirtuką **bendrinimas** , esantį viršutiniame > dalyje **bendrinti su** , spustelėkite **konkretūs žmonės**.
+- Failų **naršyklėje** pasirinkite failą, > spustelėkite  skirtuką Bendrinti, > dalyje Bendrinti **su** spustelėkite **Konkretūs žmonės.**
 
-    ![Bendrinti failą su konkrečiais asmenimis.](media/share-with-specific-people.png)
+    ![Bendrinkite failą su konkrečiais žmonėmis.](media/share-with-specific-people.png)
           
-- Jei vienu metu pasirenkate kelis failus, galite juos bendrinti tokiu pačiu būdu. Jis taip pat veikia ir aplankuose.
+- Jei iš karto pasirinksite kelis failus, galėsite juos visus bendrinti taip pat. Jis taip pat tinka ir aplankams.
 
-**Norėdami peržiūrėti tinkle esančius įrenginius, kurie naudoja failus**
+**Norėdami peržiūrėti įrenginius tinkle, kurie bendrina failus**
 
-- **Failų naršyklėje**eikite į **tinklas**. Jei tinklo aptikimas neįgalintas, bus rodomas klaidos pranešimas "tinklo aptikimas išjungiamas..."
+- Failų **naršyklėje** eikite į **Tinklas**. Jei tinklo aptikimas neįgalintas, matysite klaidos pranešimą "Tinklo aptikimas išjungtas..."
 
-- Spustelėkite **tinklo aptikimą yra** išjungta, tada spustelėkite **Įjungti tinklo aptikimą ir failų bendrą naudojimą**.
+- Spustelėkite tinklo **aptikimą išjungta juosta,** tada spustelėkite Įjungti **tinklo aptikimą ir failų bendrinimą.**
 
-    ![Įjunkite tinklo aptikimą ir failų bendrą naudojimą.](media/turn-on-network-discovery.png)
+    ![Įjunkite tinklo aptikimą ir failų bendrinimą.](media/turn-on-network-discovery.png)
 
-[Skaitykite daugiau apie failų bendrą naudojimą tinkle](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[Skaitykite daugiau apie failų bendrinimą tinkle](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Failų bendrinimas naudojant taikomąsias programas, "OneDrive", laiškus ir kt.](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Failų bendrinimas naudojant programėles, "OneDrive", el. laiškus ir kt.](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

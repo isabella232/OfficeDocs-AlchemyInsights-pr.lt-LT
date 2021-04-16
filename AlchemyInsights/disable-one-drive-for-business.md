@@ -2,7 +2,7 @@
 title: Kaip išjungti "OneDrive" verslui
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 69ae1222f87d385662b139649a8a416438b2a91b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ebb1d6ae1a83176f3f5df0f14e96d41090cc27f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730455"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815182"
 ---
 # <a name="disable-onedrive-for-business"></a>"OneDrive" verslui išjungimas
 
-Yra keli būdai, kaip galite išjungti prieigą prie "OneDrive" ir jos tarnybų, atsižvelgiant į jūsų įmonės poreikius:
+Atsižvelgiant į jūsų verslo poreikius, galima išjungti prieigą prie "OneDrive" ir jos tarnybų keliais būdais:
 
-- [Išjunkite, išjunkite arba pašalinkite "OneDrive"](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- [Leisti sinchronizuoti tik konkrečių organizacijų "OneDrive" paskyras](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+- ["OneDrive" išjungimas, išjungimas arba šalinimas](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+- [Leisti sinchronizuoti "OneDrive" paskyras tik tam tikrose organizacijose](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 - ["OneDrive" svetainių kūrimo išjungimas kai kuriems vartotojams](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 - [Prieigos prie "SharePoint Online" ir "OneDrive" duomenų valdymas pagal tinklo vietą](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-- [Neleiskite vartotojams sinchronizuoti asmeninių "OneDrive" paskyrų](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [Ryšių iš "Windows" įrenginių valdymas į "OneDrive" ir kitas tarnybas](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [Neleisti vartotojams sinchronizuoti asmeninių "OneDrive" paskyrų](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+- [Ryšių valdymas iš "Windows" įrenginių į "OneDrive" ir kitas tarnybas](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
