@@ -2,7 +2,7 @@
 title: Viršyta pašto dėžutės kvota
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695223"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795596"
 ---
 # <a name="mailbox-quota-exceeded"></a>Viršyta pašto dėžutės kvota
 
-Jūs viršijote savo paskyros pašto dėžutės kvotą. Yra keli veiksmai, kuriuos galite atlikti, kad sumažintumėte aplanko Gauta dydį, kad būtų patogiau atlikti.
+Viršijote savo paskyros pašto dėžutės kvotą. Yra keli veiksmai, kuriuos galite atlikti, kad sumažinsite savo aplanko Gauta dydį, kad būtų našesnis.
 
-1. Naikinti senesnius gautųjų elementus. Tai galite atlikti greitai programėlėje nustatydami pasirinktinio perbraukimo judėjimą: **parametrai > perbraukimo parinktys**. Naudodami šį rinkinį, galite lengvai braukti savo kelią per aplanką Gauta, kad jį išvalytumėte.
+1. Panaikinkite senesnius aplanko Gauta elementus. Tai galite greitai atlikti programėlėje nustatydami pasirinktinį perbraukimo judesį: **Parametrai > Braukimo parinktys**. Naudodami šį rinkinį galite lengvai perbraukti per aplanką Gauta, kad jį išvalytų.
 
-2. Ištuštinkite pašto šiukšlių aplankus. Eikite tiesiai į šlamšto aplankus ir paspauskite **ištuštinti pašto šiukšles**.
+2. Ištuštinkite pašto šiukšlių aplankus. Eikite tiesiai į pašto šiukšlių aplankus ir paspauskite tuščią **pašto šiukšles**.
 
-3. "Android" galite ištuštinti savo pašto šiukšlių aplankus vienu spustelėjimu. Eikite tiesiai į aplanką Šiukšliadėžė ir paspauskite **ištuštinti šiukšlinę**. 
+3. "Android" galite išvalyti šiukšlinės aplankus vienu spustelėjimu. Eikite tiesiai į šiukšlinės aplanką ir paspauskite tuščią **šiukšlinę**. 
 
-4. Įrašykite savo priedus į "OneDrive", kad jie nebūtų saugomi jūsų pašto dėžutėje. Daugiau informacijos rasite " [Outlook.com" saugyklos limitai](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
+4. Įrašykite priedus į "OneDrive", kad jie būtų saugomi jūsų pašto dėžutėje. Daugiau [informacijos žr. Outlook.com saugyklos](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) apribojimai. 
 
-Jei esate "Microsoft" 365 vartotojas, taip pat galite paprašyti padidinti savo IT administratoriaus pašto dėžutę.
+Jei esate "Microsoft 365" vartotojas, it administratorių taip pat galite paprašyti padidinti pašto dėžutę.

@@ -2,7 +2,7 @@
 title: "\"Microsoft Stream\" licencijavimo apžvalga"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675342"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794228"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>"Microsoft Stream" licencijavimo apžvalga
 
-"Microsoft Stream" yra debesies tarnyba, licencijuota vienam vartotojui prenumeratos pagrindu. Ji pasiekiama kaip tinkamų "Microsoft 365" prenumeratų dalis. Peržiūrėkite "Microsoft 365" kainodaros informaciją apie kiekvieną prenumeratos tipą.
+"Microsoft Stream" yra debesies paslauga, licencijuota kiekvienam vartotojui prenumeratos pagrindu. Ji pasiekiama kaip reikalavimus atitinkančių "Microsoft 365" prenumeratų dalis. Informacijos apie kiekvieną prenumeratos tipą žr. "Microsoft 365" kainos.
 
 - ["Microsoft Stream" licencijavimo apžvalga](https://docs.microsoft.com/stream/license-overview)
