@@ -1,8 +1,8 @@
 ---
-title: Hibridinė ir išorinė ieška
+title: Hibridinė ir išorinės ieškos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 43071a3166735d61ca8cd8ae5ce74aa018ed9d15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743807"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795884"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="bfa49-102">Hibridinės ir išorinės ieškos</span><span class="sxs-lookup"><span data-stu-id="bfa49-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="9c7ac-102">Hibridinės ir išorinės ieškos</span><span class="sxs-lookup"><span data-stu-id="9c7ac-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="bfa49-103">Informacijos apie hibridinės ir išorinės ieškos iešką "SharePoint Online" ieškokite [hibridinės ieškos](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)naudojimas "SharePoint".</span><span class="sxs-lookup"><span data-stu-id="bfa49-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="9c7ac-103">Informacijos apie hibridinę ir bendrą iešką "SharePoint Online" žr. [Hibridinė ieška "SharePoint".](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="9c7ac-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="bfa49-104">Informacijos apie hibridinės išorinės ieškos planavimą ieškokite [hibridinės išorinės ieškos "SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)" planavimas.</span><span class="sxs-lookup"><span data-stu-id="bfa49-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="9c7ac-104">Informacijos apie hibridinės išorinės ieškos planavimą žr. [Hibridinės išorinės "SharePoint Server" ieškos planavimas](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="9c7ac-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
