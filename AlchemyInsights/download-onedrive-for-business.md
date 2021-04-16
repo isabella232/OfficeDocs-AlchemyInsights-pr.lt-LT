@@ -2,7 +2,7 @@
 title: "\"OneDrive\" verslui atsisiuntimas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: cd7c8badaeb9afb4bcd6ef52b6506ffeb0daca57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d5ee7fd4b3ed851c3c3b5310e718152052c0c70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678656"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814560"
 ---
-# <a name="download-onedrive-for-business"></a><span data-ttu-id="a1b45-102">"OneDrive" verslui atsisiuntimas</span><span class="sxs-lookup"><span data-stu-id="a1b45-102">Download OneDrive for Business</span></span>
+# <a name="download-onedrive-for-business"></a><span data-ttu-id="b206f-102">"OneDrive" verslui atsisiuntimas</span><span class="sxs-lookup"><span data-stu-id="b206f-102">Download OneDrive for Business</span></span>
 
-<span data-ttu-id="a1b45-103">Jei turite "Windows 10", "OneDrive" jau yra įdiegta jūsų kompiuteryje.</span><span class="sxs-lookup"><span data-stu-id="a1b45-103">If you have Windows 10, OneDrive is already install on your PC.</span></span> <span data-ttu-id="a1b45-104">Jei naudojate kitą "Windows" versiją, įdiekite "OneDrive", kad pradėtumėte.</span><span class="sxs-lookup"><span data-stu-id="a1b45-104">If you're using another version of Windows, install OneDrive to get started.</span></span>
+<span data-ttu-id="b206f-103">Jei turite "Windows 10", "OneDrive" jau įdiegta jūsų kompiuteryje.</span><span class="sxs-lookup"><span data-stu-id="b206f-103">If you have Windows 10, OneDrive is already install on your PC.</span></span> <span data-ttu-id="b206f-104">Jei naudojate kitą "Windows" versiją, įdiekite "OneDrive", kad būtų galima pradėti.</span><span class="sxs-lookup"><span data-stu-id="b206f-104">If you're using another version of Windows, install OneDrive to get started.</span></span>
 
-- <span data-ttu-id="a1b45-105">"OneDrive" verslui galima atsisiųsti  [čia](https://www.microsoft.com/microsoft-365/onedrive/download).</span><span class="sxs-lookup"><span data-stu-id="a1b45-105">OneDrive for Business can be downloaded  [here](https://www.microsoft.com/microsoft-365/onedrive/download).</span></span>
-- <span data-ttu-id="a1b45-106">Atsisiuntus ir įdiegus vartotojų bus paprašyta prisijungti prie savo darbo arba mokymo įstaigos paskyros.</span><span class="sxs-lookup"><span data-stu-id="a1b45-106">Once downloaded and installed, users will be asked to sign-in to their work or school account.</span></span>
-- <span data-ttu-id="a1b45-107">[Išjunkite, išjunkite arba pašalinkite "OneDrive"](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).</span><span class="sxs-lookup"><span data-stu-id="a1b45-107">[Turn off, disable, or uninstall OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).</span></span>
-- <span data-ttu-id="a1b45-108">Sinchronizuokite failus su "OneDrive [" sistemoje "Windows"](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) arba " [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)".</span><span class="sxs-lookup"><span data-stu-id="a1b45-108">Sync files with OneDrive in [Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) or in [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).</span></span>
+- <span data-ttu-id="b206f-105">"OneDrive" verslui galima atsisiųsti [čia.](https://www.microsoft.com/microsoft-365/onedrive/download)</span><span class="sxs-lookup"><span data-stu-id="b206f-105">OneDrive for Business can be downloaded  [here](https://www.microsoft.com/microsoft-365/onedrive/download).</span></span>
+- <span data-ttu-id="b206f-106">Atsisiuntę ir įdiegę vartotojai bus paprašyti prisijungti prie savo darbo arba mokymo įstaigos paskyros.</span><span class="sxs-lookup"><span data-stu-id="b206f-106">Once downloaded and installed, users will be asked to sign-in to their work or school account.</span></span>
+- <span data-ttu-id="b206f-107">[Išjunkite, išjunkite arba pašalinkite "OneDrive".](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)</span><span class="sxs-lookup"><span data-stu-id="b206f-107">[Turn off, disable, or uninstall OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).</span></span>
+- <span data-ttu-id="b206f-108">Sinchronizuokite failus su "OneDrive" sistemoje ["Windows"](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) arba ["Mac".](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)</span><span class="sxs-lookup"><span data-stu-id="b206f-108">Sync files with OneDrive in [Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) or in [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).</span></span>
