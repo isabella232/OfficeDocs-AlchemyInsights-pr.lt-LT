@@ -1,8 +1,8 @@
 ---
-title: "\"PowerShell\" savitarnos įsigijimas"
+title: Savitarnos "PowerShell" įsigijimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797729"
 ---
-# <a name="self-service-purchase-of-powershell"></a>"PowerShell" savitarnos įsigijimas
+# <a name="self-service-purchase-of-powershell"></a>Savitarnos "PowerShell" įsigijimas
 
-Norėdami naudoti "MSCommerce PowerShell" modulį, turite įdiegti jį "Windows 10" įrenginyje naudodami TLS 1,2 (būtinas vietinio administratoriaus teises).  Importuokite ir prisijunkite prie MSCommerce modulio.  Kai būsite paraginti prisiregistruoti, turėsite naudoti visuotinio arba atsiskaitymo administratoriaus vaidmens kredencialus.  
+Norėdami naudoti MSCommerce "PowerShell" modulį, turite jį įdiegti "Windows 10" įrenginyje su TLS 1.2 (reikia vietinio administratoriaus teisių).  Importuokite ir prisijunkite prie MSCommerce modulio.  Kai būsite paraginti prisijungti, turėsite naudoti visuotinio arba atsiskaitymo administratoriaus vaidmens kredencialus.  
 
-Jei neturite TLS 1,2, bandydami gauti arba atnaujinti strategiją galite gauti šį klaidos pranešimą:
+Jei neturite TLS 1.2, bandydami gauti arba atnaujinti strategiją galite gauti šį klaidos pranešimą:
 
-*ErrorMessage – esamas sujungimas buvo uždarytas: siunčiant įvyko netikėta klaida*.
+*ErrorMessage – pagrindinis ryšys buvo uždarytas: siunčiant įvyko netikėta klaida.*
 
 
 
