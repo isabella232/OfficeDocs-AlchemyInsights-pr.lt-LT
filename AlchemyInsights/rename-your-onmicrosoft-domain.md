@@ -1,8 +1,8 @@
 ---
-title: "\"Onmicrosoft\" domeno pervardijimas"
+title: "\"onmicrosoft\" domeno pervardijimas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701327"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810240"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>"Onmicrosoft.com" domeno pervardijimas
+# <a name="rename-your-onmicrosoftcom-domain"></a>Pervardykite savo onmicrosoft.com domeną
 
- **Kai užsiregistruojate, "onmicrosoft" domeno pervardyti negalite.** Pavyzdžiui, jei jūsų pasirinktas pradinis domenas buvo  *fourthcoffee.onmicrosoft.com*, negalite pakeisti jo  *fabrikam.onmicrosoft.com*. Norėdami naudoti kitą "onmicrosoft.com" domeną, turite pradėti naują prenumeratą su "Microsoft 365".
+ **Prisiregistrę negalite pervardyti "onmicrosoft" domeno.** Pvz., jei pradinis  *domenas, kurį pasirinkote, buvo fourthcoffee.onmicrosoft.com*, negalite jo pakeisti, kad jis būtų  *fabrikam.onmicrosoft.com*. Norėdami naudoti kitą onmicrosoft.com domeną, turite pradėti naują prenumeratą naudodami "Microsoft 365".
   
-Jei norite naudoti pasirinktinio domeno, pvz., "  *contoso.com*  ", galite [įtraukti vieną](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) iš jų arba [įsigyti vieną iš "Microsoft"](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Jei norite naudoti pasirinktinį domeną, *pvz., contoso.com* , galite įtraukti [savo domeną arba](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) įsigyti jį iš ["Microsoft".](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   

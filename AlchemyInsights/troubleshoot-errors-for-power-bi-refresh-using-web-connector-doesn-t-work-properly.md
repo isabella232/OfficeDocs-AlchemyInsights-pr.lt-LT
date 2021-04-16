@@ -1,8 +1,8 @@
 ---
-title: Atnaujinti naudojant žiniatinklio jungtį tinkamai neveikia
+title: Tinkamai neveikia atnaujinimas naudojant žiniatinklio jungtį
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: fc7d748b8c3eb8753aeb29997eeb2fabea8c67cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a1e8ef98b72832db05f904ae82f4f8164f1a47
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749774"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809015"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Atnaujinti naudojant žiniatinklio jungtį tinkamai neveikia
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Tinkamai neveikia atnaujinimas naudojant žiniatinklio jungtį
 
-Jei turite žiniatinklio jungties scenarijų, kuris naudoja funkciją [Web. Page](https://msdn.microsoft.com/library/mt260924.aspx) , o jūs atnaujinote duomenų rinkinį arba ataskaitą po lapkričio 18 d., 2016, turite naudoti šliuzą, kad atnaujinimas veiktų tinkamai.
+Jei turite žiniatinklio jungties scenarijų, kuris naudoja ["Web.Page"](https://msdn.microsoft.com/library/mt260924.aspx) funkciją, ir atnaujinote savo duomenų rinkinį arba ataskaitą po 2016 m. lapkričio 18 d., turite naudoti šliuzą, kad atnaujinimas veiktų tinkamai.
 
 Daugiau informacijos: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

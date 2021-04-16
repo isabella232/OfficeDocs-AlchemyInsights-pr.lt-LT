@@ -1,8 +1,8 @@
 ---
-title: Vaizdų dydžio keitimas ir pridėjimas prie "Android"
+title: Vaizdų dydžio keitimas ir pridėjimas "Android"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795684"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809519"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Vaizdų dydžio keitimas ir pridėjimas prie "Android"
+# <a name="resize-and-attach-images-on-android"></a>Vaizdų dydžio keitimas ir pridėjimas "Android"
 
-Kai į el. laišką įtraukiate daugiau kaip 1 MB vaizdo, turite galimybę suglaudinti/keisti vaizdų dydį pranešime.
+Kai prie el. laiško pridedate 1 MB dydžio vaizdą, galite suglaudinti / keisti laiško vaizdus.
  
-- Jei pasirinksite išsaugoti originalą, visi pranešimo vaizdai siunčiami visu dydžiu.
+- Jei pasirinksite išsaugoti originalą, visi laiške esantys vaizdai bus siunčiami visu dydžiu.
  
-- Jei pasirinksite keisti dydį, visi pranešimo vaizdai suglaudinami.  Taip pat bus įtraukti toliau įtraukti vaizdai, kol redaguojate šį juodraštį.
+- Jei pasirinksite keisti dydį, visi laiško vaizdai bus suglaudinti.  Tai apima vaizdus, vėliau pridėtus redaguojant tą juodraštį.
  
-- Jei įrašėte juodraštį ir grįžote vėliau, o jūs įtraukiate kitą didžiulį vaizdą, jūsų bus paprašyta dar kartą ir jūsų pasirinkimas bus taikomas visiems juodraščius atliekant šį redagavimo seansą.
+- Jei įrašysite juodraštį ir grįšite vėliau ir įtrauksite kitą didelį vaizdą, jūsų bus paprašyta dar kartą ir jūsų pasirinkimas bus taikomas visiems juodraštams redagavimo seanso metu.
  

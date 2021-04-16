@@ -1,8 +1,8 @@
 ---
-title: Įsigyti rezervuotą egzempliorių
+title: Įsigykite rezervuotąjį egzempliorių
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809915"
 ---
-# <a name="questions-before-purchase"></a>Klausimai prieš pirkimą
+# <a name="questions-before-purchase"></a>Klausimai prieš įsigijimą
 
-**Kaip rezervuojamas esamų išteklių rezervavimo nuolaida?**  
-Rezervavimo nauda automatiškai taikoma esamiems ištekliams, kurie atitinka rezervavimo SKU, regioną ir aprėptį. Nėra jokios rezervavimo žymėjimo į išteklius. [sužinoti daugiau, sužinok daugiau](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Kaip rezervavimo nuolaida taikoma esamiems ištekliams?**  
+Rezervavimo nuolaida automatiškai taikomas esamiems ištekliams, kurie atitinka rezervavimo SKU, regioną ir aprėptį. Ties ištekliu nėra jokio rezervavimo žymėjimo. [Sužinokite daugiau](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Kokio VM dydžio turėčiau pirkti?**  
-Perskaitykite šį straipsnį: [nustatykite tinkamą VM dydį prieš pirkdami](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Kokio dydžio VM turėčiau įsigyti?**  
+Perskaitykite šį straipsnį: [Tinkamo V dydžioM nustatymas prieš įsigijimą](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Klausimai, kaip įsigyti SQL rezervuotą pajėgumą?**  
-Perskaitykite šį straipsnį: [įsigykite "SQL" duomenų bazės rezervuotą talpą](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Turite klausimų, kaip įsigyti SQL rezervinį pajėgumą?**  
+Perskaitykite šį straipsnį: [SQL duomenų bazės rezervinio pajėgumo įsigijimas](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Aš esu netiesioginėje EA klientui, ar reikia įsigyti partnerį?**  
-Ne, galite įsigyti RI, jei esate savininkas AE prenumeratoje.
+**Aš esu netiesioginis EA klientas, ar reikia, kad mano partneris įsigytų?**  
+Ne, galite įsigyti RI, jei esate EA prenumeratos savininkas.
 
-**Ar "RI" pirkimas atima iš piniginių įsipareigojimų?**  
-taip. Jei neturite pakankamai piniginių įsipareigojimų, gausite perviršį už sumą, kuri viršija galimus piniginius įsipareigojimus.
+**Ar už RI įsigijimą piniginiam įsipareigojimui taikomas atskaitymas?**  
+Taip. Jei piniginiai įsipareigojimai nepakankami, gausite sąskaitą faktūrą sumai, viršijančiai esamą piniginį įsipareigojimą.
 
-**Kaip rezervuota instancija taikoma "Windows" VM arba "SQL IP" mokesčiams?**  
-Rezervuota egzemplioriaus nuolaida taikoma tik skaičiavimo naudojimui. "Windows IP" arba "SQL IP" mokesčiai bus apmokestinti atskirai, o ne gauti RI nuolaidą. [Programinės įrangos išlaidos, neįtrauktos į "Azure Reserved VM" atvejus](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Kaip rezervuotasis egzempliorius taikomas „Windows“ VM arba mano SQL IP kainoms?**  
+Rezervuotojo egzemplioriaus nuolaida taikoma tik skaičiavimo resursų naudojimui. „Windows“ IP arba SQL IP išlaidos bus apmokestintos atskirai ir joms nepriklauso RI nuolaida. [Programinės įrangos išlaidos neįtrauktos į „Azure“ rezervuotuosius VM egzempliorius](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Atsiskaitymas už rezervuotą egzempliorių pirkimą**  
+**Atsiskaitymas už įsigytą rezervuotąjį egzempliorių**  
       
-Rezervuotųjų egzempliorių pirkimas yra įtraukiamas į mokėjimo metodą, susietą su prenumerata, kurią pasirenkate pirkimo metu. Prenumeratos tipas turi būti įmonės sutartis (pasiūlymo numeris: MS-AZR-0017P), Pay-as-you-go (pasiūlymo numeris: MS-AZR-0003P), "Microsoft" kliento sutartis arba CSP.
+Rezervuotojo egzemplioriaus įsigijimas yra apmokestinamas pagal mokėjimo būdą, susietą su prenumerata, kurią pasirenkate įsigijimo metu. Prenumeratos tipas turi būti įmonės sutartis (pasiūlymo numeris: MS-AZR-0017P), einamasis mokėjimas („Pay-As-You-Go“) (pasiūlymo numeris: MS-AZR-0003P), „Microsoft“ kliento sutartis arba „Microsoft“ debesies sprendimų teikėjas.
 
--   "Enterprise" prenumeratos mokesčiai išskaitomi iš įtraukimo į pinigines įsipareigojimų balansą arba mokami kaip perteklius
--   Jei reikia mokėti už prenumeratą, mokesčiai mokami kredito kortelei arba sąskaitos faktūros mokėjimo būdui prenumeratos
+-   Įmonių prenumeratai mokesčiai yra išskaičiuojami pagal užregistruoto piniginio įsipareigojimo balansą arba apmokestinama kaip už viršijimą
+-   Jei naudojate einamojo mokėjimo („Pay-As-You-Go) prenumeratą, mokestis nurašomas nuo kredito kortelei arba prenumeratos atveju mokama pagal pateikiamą sąskaitą faktūrą
 
-**Paslaugų plano įsigijimas:**
+**Įsigykite paslaugų teikimo planą:**
 
--   [Išankstinio apmokėjimo už Cosmos DB rezervuotą pajėgumą](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Iš anksto sumokėti SQL duomenų bazėje apskaičiuoti ištekliai su "Azure SQL" duomenų baze rezervuotą talpą](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Virtualiosios mašinos, skirtos "Azure Reserved VM" egzemplioriams, Prepay](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Išankstinis mokėjimas už „Cosmos“ duomenų bazės rezervinį pajėgumą](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Išankstinis mokėjimas už SQL duomenų skaičiavimo išteklius naudojant „Azure SQL“ duomenų bazės rezervinį pajėgumą](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Išankstinis mokėjimas už virtualiuosius įrenginius su „Azure“ rezervuotais VM egzemplioriais](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Programinės įrangos plano įsigijimas:**
+**Įsigykite programinės įrangos planą:**
 
--   ["Azure" užsakymų "Red Hat" programinės įrangos planų Prepay](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   ["Azure" užsakymų "SUSE" programinės įrangos planų išankstinio apmokėjimo](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Išankstinis mokėjimas už „Red Hat“ programinės įrangos planus iš „Azure Reservations“](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Išankstinis mokėjimas už SUSE programinės įrangos planus iš „Azure Reservations“](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -1,8 +1,8 @@
 ---
-title: "\"Teams\" susitikimo įrašai į \"OneDrive\""
+title: „Teams“ susitikimų įrašymas į „OneDrive“
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
-ms.translationtype: MT
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810276"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>"Teams" susitikimo įrašai į "OneDrive"
+# <a name="teams-meeting-recordings-to-onedrive"></a>„Teams“ susitikimų įrašymas į „OneDrive“
 
-"Microsoft teams" yra naujas susitikimo įrašų įrašymo būdas. Kaip pirmojo perėjimo nuo klasikinės "Microsoft Stream" iki [naujo srauto](https://docs.microsoft.com/stream/streamnew/new-stream)etapas, šis metodas saugo įrašus "Microsoft OneDrive" verslui ir "SharePoint" programoje "Microsoft 365" ir siūlo daug privalumų.  
+„Microsoft Teams“ siūlo naują susitikimų įrašų išsaugojimo būdą. Kadangi tai yra pirmasis perėjimo iš klasikinės „Microsoft Stream“ į [naująją „Stream“](https://docs.microsoft.com/stream/streamnew/new-stream) etapas, šis būdas saugo įrašus „Microsoft OneDrive“ verslui ir „SharePoint“, esančioje „Microsoft 365“, bei siūlo daugybę privalumų.  
 
-- ["OneDrive" verslui ir "SharePoint" susitikimo įrašymo parinkties nustatymas](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Atsisakyti "OneDrive" verslui ir "SharePoint", kad galėtumėte toliau naudotis srautu](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Susitikimų įrašymo parinkties nustatymas „OneDrive“ verslui ir „SharePoint“](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Atsisakykite „OneDrive“ verslui ir „SharePoint“, kad ir toliau galėtumėte naudoti „Stream“](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Dažnai užduodami klausimai](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

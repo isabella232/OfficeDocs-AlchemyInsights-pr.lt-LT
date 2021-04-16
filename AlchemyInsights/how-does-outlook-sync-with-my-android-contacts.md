@@ -1,8 +1,8 @@
 ---
-title: Kaip "Outlook" sinchronizavimas su "Android" kontaktais?
+title: Kaip "Outlook" sinchronizuojama su mano "Android" kontaktais?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781363"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810924"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Kaip "Outlook" sinchronizavimas su "Android" kontaktais?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Kaip "Outlook" sinchronizuojama su mano "Android" kontaktais?
 
-Kai kuriate laišką programoje "Outlook", mes ieškome gavėjų iš "Android" adresų knygelės ir "Outlook" adresų knygelės. Be to, suteikiame galimybę sinchronizuoti kontaktus iš savo el. pašto abonementų į "Android" adresų knygelę, kad galėtumėte naudoti kitose programėlėse. 
+Kai kuriate el. laišką programoje "Outlook", ieškome gavėjų iš jūsų "Android" adresų knygelės ir "Outlook" adresų knygelės. Be to, suteikiame jums galimybę sinchronizuoti kontaktus iš jūsų el. pašto paskyrų į "Android" adresų knygą, skirtą naudoti kitose programose. 
  
-**Norėdami įgalinti šią funkciją**:
+**Norėdami įgalinti šią funkciją:**
  
 1. Įrenginyje eikite į **Parametrai**.
 
-2. Dalyje **paskyros**bakstelėkite paskyrą, su kuria norėtumėte sinchronizuoti kontaktus.
+2. Dalyje **Paskyros** bakstelėkite paskyrą, su kurią norite sinchronizuoti kontaktus.
 
-3. Perjunkite slankiklį **sinchronizuoti kontaktus** .
+3. Įjunkite **slankiklį Sinchronizuoti** kontaktus.
  
-**Pastaba**: kai bandote įgalinti kontaktų sinchronizavimą "Microsoft Outlook", skirtos "Android", jei išjungta parinktis **sinchronizuoti kontaktus** , gali būti rodomas tekstas su tekstu, *Kontaktų sinchronizavimas nėra įjungtas sistemos parametruose*. Taip gali būti dėl to, kad sistemos parametruose išjungta parinktis **automatiškai sinchronizuoti duomenis** . Norėdami išspręsti šią problemą, įjunkite **automatinio sinchronizavimo duomenis** "Android" sistemos **parametrų**meniu **paskyros** . Šią parinktį paprastai galima rasti vertikalioje Daugtaškio (⋮) arba triskart juostoje (⫼). **Paskyrų** meniu galima atlikti skirtingose vietose, atsižvelgiant į įrenginio ir "Android" versijos versiją. Daugumoje naujesnių modelių **paskyrų** galima ieškoti dalyje **Parametrai**.
+**Pastaba:** kai bandote įgalinti kontaktų sinchronizavimą programoje "Microsoft  Outlook", skirtoje "Android", jei kontaktų sinchronizavimo perjungimo parinktis išjungta, galite matyti pranešimą su tekstu, kontaktų sinchronizavimas nėra *įjungtas sistemos parametruose*. Taip gali būti dėl automatinio **duomenų sinchronizavimo parinkties** išjungimo sistemos parametruose. Norėdami išspręsti šią problemą, įjunkite  **automatinio sinchronizavimo duomenis** "Android"  **sistemos** parametrų meniu  **Paskyros**. Ši parinktis paprastai būna vertikalioje daugtaškyje (⋮) arba triguboje juostoje (⫼). Meniu  **Paskyros** gali būti skirtingose vietose, atsižvelgiant į įrenginio ir "Android" versijos versiją. Daugelyje naujesnių modelių **paskyrų** galima ieškoti dalyje **Parametrai**.

@@ -2,7 +2,7 @@
 title: Slaptažodžių nustatymas iš naujo arba keitimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692159"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810204"
 ---
 # <a name="reset-or-change-passwords"></a>Slaptažodžių nustatymas iš naujo arba keitimas
 
-Vartotojas gali pakeisti savo **abonemento**  >  [saugos & privatumą](https://portal.office.com/account/#security).
+Vartotojas gali pakeisti savo slaptažodį iš **Mano paskyra Saugos**&  >  [privatumą.](https://portal.office.com/account/#security)
   
-Jei vartotojas pamiršo savo slaptažodį, administratorius gali iš naujo nustatyti slaptažodį nuėję į **vartotojus**  >  [aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users), pasirinkite vartotoją (-us) ir spustelėkite **iš naujo nustatyti slaptažodį**.
+Jei vartotojas pamiršo slaptažodį, administratorius gali iš naujo nustatyti slaptažodį nueięs į Vartotojai Aktyvūs vartotojai , pasirinkite vartotoją  >  [](https://portal.office.com/adminportal/home#/users)(-ius) ir spustelėkite **Iš naujo nustatyti slaptažodį**.
   
-[Spustelėkite čia, jei norite sužinoti daugiau](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), arba, kad vartotojai galėtų iš naujo nustatyti savo pamirštus slaptažodžius.
+[Spustelėkite čia, kad sužinotumėte daugiau](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)arba leistumėte vartotojams iš naujo nustatyti savo pamirštus slaptažodžius.

@@ -1,8 +1,8 @@
 ---
-title: "\"Project\" su kompiuteriu"
+title: "\"Project\" į kompiuterį"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801624"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809952"
 ---
-# <a name="project-to-a-pc"></a>"Project" su kompiuteriu
+# <a name="project-to-a-pc"></a>"Project" į kompiuterį
 
-Paskirties įrenginyje (projektavimas į) ieškokite "projekcijos parametrai", kad atidarytumėte **šio kompiuterio projektavimo**parametrų puslapį. Tada įsitikinkite, kad:
-- "Kai kurie" Windows "ir" Android "įrenginiai gali projektuoti šį kompiuterį, kai sakote, kad" viskas gerai "Išplečiamasis meniu nustatytas kaip **visada išjungtas**.
-- Išplečiamasis meniu "klausti į šį kompiuterį" nustatomas **kiekvieną kartą, kai būtinas prisijungimas**.
-- Išplečiamajame meniu "reikalauti susiejimo PIN" yra nustatytas kaip **niekada**.
+Paskirties įrenginyje (projekcija į) ieškokite "Projekcijos parametrai", kad atidarytumėte parametrų puslapį **Projektavimas šiame kompiuteryje.** Tada įsitikinkite, kad:
+- "Kai kurie "Windows" ir "Android" įrenginiai gali projektuoti šiame kompiuteryje, kai sakote, kad tai gerai" išplečiamasis meniu nustatytas kaip **Visada išjungtas**.
+- Išplečiamasis meniu "Prašyti projekto šiame kompiuteryje" nustatytas kaip **Kaskart, kai reikalingas ryšys.**
+- Išplečiamasis meniu "Reikalauti PIN susiejimui" nustatytas kaip **Niekada**.
 
-Paskirties įrenginyje paleiskite " **Connect** " taikomąją programą nuėję į **pradžios ekraną** ir ieškokite "Connect".
+Paskirties įrenginyje paleiskite Prisijungimo **programa** nueidami į **Pradžia** ir ieškokite "Prisijungti".
 
-Tada jūsų šaltinio įrenginyje, kurį bandote projektuoti:
+Tada šaltinio įrenginyje, iš kurį bandote projektuoti:
 
-1. Paspauskite **"Windows" klavišą + A** , kad atidarytumėte veiksmų centrą.
-2. Spustelėkite **prisijungti**.
-3. Spustelėkite įrenginį, į kurį norite projektuoti ekraną.
+1. Paspauskite **"Windows" klavišą + A,** kad atidarytumėte veiksmų centrą.
+2. Spustelėkite **Prisijungti**.
+3. Spustelėkite įrenginį, kuriame norite rodyti ekraną.
 
-!["Project" su kompiuteriu](media/project-to-a-pc.png)
+!["Project" į kompiuterį](media/project-to-a-pc.png)
 
-Po aukščiau aprašytų veiksmų jūsų paskirties įrenginys turėtų Rodyti šaltinio įrenginio ekraną taip, lyg jis būtų antrinis monitorius.
+Atlikus anksčiau nurodytus veiksmus, jūsų paskirties įrenginys turėtų rodyti šaltinio įrenginio ekraną taip, tarsi jis būtų antrinis monitorius.
