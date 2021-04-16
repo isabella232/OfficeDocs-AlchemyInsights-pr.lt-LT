@@ -2,7 +2,7 @@
 title: Spausdintuvo problemų sprendimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677684"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812688"
 ---
 # <a name="troubleshoot-your-printer"></a>Spausdintuvo trikčių diagnostika
 
-Jei kyla spausdintuvo problemų, pirmiausia pabandykite atlikti **spausdintuvo energijos ciklą**. Atlikite šiuos veiksmus:
+Jei kyla spausdintuvo problemų, pirmiausia pabandykite atlikti **spausdintuvo maitinimo ciklą**. Atlikite šiuos veiksmus:
 
 1. Išjunkite spausdintuvą ir atjunkite jo maitinimo kabelį.
 2. Palaukite 30 sekundžių.
 3. Vėl prijunkite spausdintuvą ir vėl įjunkite spausdintuvą.
 
-Jei tai nepadeda išspręsti problemos, paleiskite spausdintuvo trikčių diagnostikos priemonę nuėję į **pradžios**  >  **parametrų**  >  **naujinimą & saugos**  >  **trikčių šalinimas**. Pasirinkite **spausdintuvas**, tada pasirinkite **paleisti trikčių diagnostikos priemonę**.
+Jei tai neišsprendė problemos, paleiskite spausdintuvo trikčių diagnostikos priemonę nueidami į **Pradžia**  >  **Parametrai**  >  **Naujinimas & Trikčių**  >  **diagnostika**. Pasirinkite **Spausdintuvas**, tada pasirinkite **Paleisti trikčių diagnostikos priemonę**.

@@ -2,7 +2,7 @@
 title: Kaip nustatyti "Skype" susitikimų transliaciją
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781471"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811032"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Negalite paleisti arba prisijungti prie "Skype" susitikimo transliacijos?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Negalite pradėti arba prisijungti prie "Skype" susitikimų transliavimo?
 
-Jei kyla problemų paleidžiant arba prisijungiant prie "Skype" susitikimo transliacijos kaip įvykio komandos narys (susitikimo gamintojas), įsitikinkite, kad dar kartą patikrinkite konfigūraciją. "Skype" susitikimų transliavimui reikia rankiniu būdu atlikti veiksmus. Atlikite šiame straipsnyje nurodytus veiksmus, kad užtikrintumėte, jog jūsų tinklas ir "Skype" verslui internetinis portalas būtų tinkamai sukonfigūruoti ir kad paveikto vartotojo neužblokuotų nesuderinamos licencijos:
+Jei kyla problemų pradedant arba prisijungiant prie "Skype" susitikimų transliavimo kaip įvykio komandos nario (susitikimo prodiuseris), būtinai patikrinkite savo konfigūraciją. Norint transliuoti "Skype" susitikimus, reikia atlikti kelis neautomatinės sąrankos veiksmus. Atlikite šiame straipsnyje nurodytus veiksmus, kad užtikrinsite, jog jūsų tinklas ir internetinės "Skype" verslui portalas yra tinkamai sukonfigūruoti ir kad susijusio vartotojo neblokuoja nesuderinama licencija:
 
 ["Skype" susitikimų transliavimo tinklo nustatymas](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

@@ -1,8 +1,8 @@
 ---
-title: Kaip įrašyti savo "Outlook" kontaktus į "iOS" kontaktų programą?
+title: Kaip įrašyti "Outlook" kontaktus į "iOS" kontaktų taikomąją programą?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811140"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kaip įrašyti savo "Outlook" kontaktus į "iOS" kontaktų programą?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kaip įrašyti "Outlook" kontaktus į "iOS" kontaktų taikomąją programą?
 
-Norėdami įrašyti "Outlook" kontaktus į savo pradinę adresų knygelę:
+Norėdami įrašyti "Outlook" kontaktus į savo vietinę adresų knygą:
  
-1. Eikite į **įrenginio parametrų**  >  **Kontaktai** ir patvirtinkite, kad **Numatytoji paskyra** nustatyta į " **iCloud**". Atminkite, kad šis parametras galimas tik tuo atveju, jei turite daugiau nei vieną paskyrą, įtrauktą į jūsų įrenginį. Jei prie įrenginio nėra prijungta paskyros, jūsų "Outlook" Kontaktai bus įrašyti vietoje, tačiau nebus sinchronizuojami su kitais įrenginiais.
+1. Eikite **į Įrenginio**  >  **parametrų kontaktai** ir patvirtinkite, kad **numatytoji paskyra** nustatyta į **"iCloud".** Atkreipkite dėmesį, kad šis parametras galimas tik tuo atveju, jei į įrenginį įtraukta daugiau nei viena paskyra. Jei nėra paskyros, prijungtos prie įrenginio, jūsų "Outlook" kontaktai bus įrašyti vietoje, bet nebus sinchronizuojami su kitais įrenginiais.
  
-2. Atidarykite "Outlook", skirtą "iOS", ir kairiojoje naršymo srityje pasirinkite parametrų krumpliaratį, pasirinkite **savo paskyrą**ir įjunkite parinktį **įrašyti kontaktus** .
+2. Atidarykite "Outlook", skirtą "iOS", ir kairiojoje naršymo srityje pasirinkite parametrų krumpliaračio parinktį Pasirinkite savo paskyrą **ir** įjunkite **jungiklį Įrašyti kontaktus.**
  
-Įrašyti Kontaktai bus įtraukti po jūsų "iCloud" paskyros kontaktais. Šie Kontaktai bus sinchronizuojami su visais įrenginiais, kurie yra prijungti naudojant tą pačią "iCloud" paskyrą. Nepamirškite, kad vienu metu galite eksportuoti tik vieno įrenginio kontaktus.
+Įrašyti kontaktai bus įtraukti į "iCloud" paskyros kontaktus. Šie kontaktai bus sinchronizuojami su visais įrenginiais, kurie prijungti naudojant tą pačią "iCloud" paskyrą. Atkreipkite dėmesį, kad vienu metu kontaktus galite eksportuoti tik iš vieno įrenginio.
  
-Jei vartotojas turi kontaktą – eksportuoti įjungtas, "iPad" ir "iPhone" reikės išjungti, kad išvengtumėte konfliktų. Dublikatai gali užtrukti iki 24 valandų, kad būtų sugretintos.
+Jei vartotojas yra įjungęs kontaktų eksportavimą, norint išvengti konfliktų, reikės išjungti ir "iPad", ir "iPhone". Dublikatai gali užtrukti iki 24 valandų, kad juos būtų galima derinti.

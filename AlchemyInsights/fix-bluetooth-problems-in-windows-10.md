@@ -2,7 +2,7 @@
 title: "\"Bluetooth\" problemų sprendimas sistemoje \"Windows 10\""
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730167"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812940"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>"Bluetooth" problemų sprendimas sistemoje "Windows 10"
 
-Jei nėra "Bluetooth" piktogramos arba "Bluetooth" negalima įjungti arba išjungti, galbūt norėsite paleisti "Bluetooth" trikčių diagnostikos priemonę. [Atidarykite trikčių diagnostikos parametrus](ms-settings:troubleshoot), spustelėkite **"Bluetooth"** dalyje **radimas ir Išspręskite kitas problemas**, spustelėkite **paleisti trikčių diagnostikos priemonę**.
+Jei nėra "Bluetooth" piktogramos arba "Bluetooth" negalima įjungti arba išjungti, galbūt norėsite paleisti "Bluetooth" trikčių diagnostikos priemonę. [Atidarykite parametrų trikčių](ms-settings:troubleshoot)diagnostiką , dalyje **Rasti ir** išspręsti kitas problemas spustelėkite **"Bluetooth",** spustelėkite **Paleisti trikčių diagnostikos priemonę**.
 
 Jei nematote "Bluetooth" piktogramos, bet "Bluetooth" rodoma įrenginių tvarkytuvėje:
 
-1. Įrenginių tvarkytuvėje spustelėkite **"Bluetooth"**. Paspauskite ir laikykite (arba spustelėkite dešiniuoju pelės mygtuku) "Bluetooth" adapterio pavadinimą ir spustelėkite **pašalinti įrenginį**.
+1. Įrenginių tvarkytuvėje spustelėkite **"Bluetooth".** Paspauskite ir laikykite (arba dešiniuoju pelės mygtuku spustelėkite) "Bluetooth" adapterio pavadinimą ir spustelėkite **Pašalinti įrenginį.**
 
 2. Išjunkite "Windows" įrenginį, palaukite kelias sekundes, tada vėl jį įjunkite. "Windows" bandys iš naujo įdiegti tvarkyklę.
 
-Jei neseniai įdiegėte "Windows 10" naujinimus arba atnaujinote į "Windows 10", galbūt norėsite patikrinti, ar yra tvarkyklių naujinimų:
+Jei neseniai įdiegėte "Windows 10" naujinimus arba atnaujinote versiją į "Windows 10", galbūt norėsite patikrinti, ar yra tvarkyklės naujinimų:
 
-1. Įrenginių tvarkytuvėje spustelėkite **"Bluetooth**", tada spustelėkite "Bluetooth" adapterio pavadinimą (kuris gali apimti žodį "radijas").
+1. Įrenginių tvarkytuvėje spustelėkite **"Bluetooth",** tada spustelėkite "Bluetooth" adapterio pavadinimą (kuriame gali būti žodis "radijas").
 
-2. Paspauskite ir laikykite (arba spustelėkite dešiniuoju pelės mygtuku) "Bluetooth" adapterį ir spustelėkite **Naujinti tvarkyklės**  >  **iešką, kad atnaujintų tvarkyklės programinę įrangą**. Atlikite nurodytus veiksmus, tada spustelėkite **uždaryti**.
+2. Paspauskite ir laikykite (arba dešiniuoju pelės mygtuku spustelėkite) "Bluetooth" adapterį, tada spustelėkite Naujinti  >  **tvarkyklę Automatiškai ieškoti atnaujintos tvarkyklės programinės įrangos.** Atlikite veiksmus, tada spustelėkite **Uždaryti**.
 
-      - Jei "Windows" neranda naujos "Bluetooth" tvarkyklės, apsilankykite kompiuterio gamintojo svetainėje ir iš ten Atsisiųskite naujausią "Bluetooth" tvarkyklę.
+      - Jei "Windows" negali rasti naujos "Bluetooth" tvarkyklės, apsilankykite kompiuterio gamintojo svetainėje ir atsisiųskite naujausią "Bluetooth" tvarkyklę iš ten.
 
-    - Atsisiuntę spustelėkite **Naujinti tvarkyklę**  >  **mano kompiuteryje ieškoti tvarkyklės programinės įrangos**–  >  **raskite** vietą, kurioje saugomi tvarkyklės failai > **gerai**  >  **toliau**, tada atlikite veiksmus, kuriuos norite įdiegti.
+    - Atsisiuntę, spustelėkite **Naujinti** tvarkyklę Naršykite mano kompiuteryje tvarkyklės programinę įrangą Ieškokite vietos, kurioje saugomi  >    >  tvarkyklės failai, > **Gerai** Pirmyn ir atlikite diegimo  >  veiksmus.
 
-3. Įdiegę atnaujintą tvarkyklę, iš naujo paleiskite kompiuterį, tada patikrinkite, ar tai išsprendžia prisijungimo problemą.
+3. Įdiegę atnaujintą tvarkyklę, iš naujo paleiskite kompiuterį ir patikrinkite, ar tai išsprendžia ryšio problemą.
 
-Daugiau informacijos apie tai, kaip šalinti "Bluetooth" triktis, rasite išsamiam straipsniui, ["Windows 10" "Bluetooth" problemoms](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)spręsti.
+Daugiau informacijos, kaip šalinti "Bluetooth" problemas, žr. visą straipsnį ["Bluetooth" problemų sprendimas sistemoje "Windows 10".](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)

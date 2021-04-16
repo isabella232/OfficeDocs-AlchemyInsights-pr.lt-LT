@@ -1,8 +1,8 @@
 ---
-title: Kaip atkurti panaikintą komandą arba kanalą
+title: Kaip atkurti panaikintas komandas arba kanalus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726432"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811176"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Kaip atkurti panaikintą komandą arba kanalą
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Kaip atkurti panaikintus komandos arba kanalo
 
-Panaikintus kanalus komandoje galima atkurti iki 21 dienos po to, kai kanalas buvo ištrintas.
+Panaikintus komandos kanalus galima atkurti iki 21 dienos po kanalo naikinimo.
 
-Norėdami atkurti panaikintą kanalą, komandos savininkas gali atlikti šiuos veiksmus:
+Norėdami atkurti panaikintus kanalus, komandos savininkas gali atlikti šiuos veiksmus:
 
-1. Atidarykite komandos parametrus pažymėdami 3 taškus į dešinę nuo komandos pavadinimo.
-2. Pasirinkite **valdyti komandos**  >  **kanalus**  >  **panaikintus** ir pasirinkite **atkurti** dešinėje.
+1. Atidarykite komandos parametrus pasirinkdami 3 taškus komandos pavadinimo dešinėje.
+2. Pasirinkite **Valdyti komandos**  >    >  **kanalus panaikinti**, tada **dešinėje pasirinkite** Atkurti.
 
-Daugiau informacijos apie komandos atkūrimą ieškokite [komandos archyvavimas arba naikinimas programoje "Microsoft teams" – "Microsoft teams" | "Microsoft" dokumentai](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Daugiau informacijos apie komandos atkūrimą žr. Komandos archyvavimas arba naikinimas [programoje "Microsoft Teams" – "Microsoft Teams" | "Microsoft Docs".](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)
