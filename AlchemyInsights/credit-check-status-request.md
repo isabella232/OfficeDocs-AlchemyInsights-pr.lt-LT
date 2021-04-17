@@ -2,7 +2,7 @@
 title: Kredito tikrinimo būsenos užklausa
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b183f344af3e4f26c3da2e134223e14ee111787
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746443"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815947"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="acd3a-102">Kredito tikrinimo būsenos užklausa</span><span class="sxs-lookup"><span data-stu-id="acd3a-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="48823-102">Kredito tikrinimo būsenos užklausa</span><span class="sxs-lookup"><span data-stu-id="48823-102">Credit check status request</span></span>
 
-<span data-ttu-id="acd3a-103">Jūsų užsakymas laukia kredito patvirtinimo.</span><span class="sxs-lookup"><span data-stu-id="acd3a-103">Your order is pending credit verification.</span></span> <span data-ttu-id="acd3a-104">Paprastai tai baigiama po 24 valandų, tačiau gali užtrukti iki 48 valandų.</span><span class="sxs-lookup"><span data-stu-id="acd3a-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="acd3a-105">Baigus prenumeratą, jūsų prenumeratos būsena pasikeis iš laukiamo į aktyvią, ir bus galima naudoti tarnybas.</span><span class="sxs-lookup"><span data-stu-id="acd3a-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
+<span data-ttu-id="48823-103">Jūsų užsakymas laukia kredito patvirtinimo.</span><span class="sxs-lookup"><span data-stu-id="48823-103">Your order is pending credit verification.</span></span> <span data-ttu-id="48823-104">Tai paprastai baigiama po 24 valandų, bet gali užtrukti iki 48 valandų.</span><span class="sxs-lookup"><span data-stu-id="48823-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="48823-105">Kai bus baigta, jūsų prenumeratos būsena bus pakeisti iš Laukiama į Aktyvi, o tarnybos bus prieinamos naudoti.</span><span class="sxs-lookup"><span data-stu-id="48823-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
 
-<span data-ttu-id="acd3a-106">Daugiau informacijos ieškokite, [kai gali prireikti kredito patikros](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span><span class="sxs-lookup"><span data-stu-id="acd3a-106">For more info, see [when a credit check may be required](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span></span>
+<span data-ttu-id="48823-106">Daugiau informacijos žr., [kada gali reikėti atlikti kredito patikrą.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)</span><span class="sxs-lookup"><span data-stu-id="48823-106">For more info, see [when a credit check may be required](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span></span>

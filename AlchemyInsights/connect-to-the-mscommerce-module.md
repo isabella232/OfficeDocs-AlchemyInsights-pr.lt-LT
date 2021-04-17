@@ -1,8 +1,8 @@
 ---
-title: Prisijungimas prie "MSCommerce" modulio
+title: Prisijungimas prie MSCommerce modulio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713246"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817036"
 ---
-# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="017b7-102">Prisijungimas prie "MSCommerce" modulio</span><span class="sxs-lookup"><span data-stu-id="017b7-102">Connect to the MSCommerce module</span></span>
+# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="cd503-102">Prisijungimas prie MSCommerce modulio</span><span class="sxs-lookup"><span data-stu-id="cd503-102">Connect to the MSCommerce module</span></span>
 
-<span data-ttu-id="017b7-103">Turite būti prisijungę prie MSCommerce modulio, kad galėtumėte peržiūrėti arba nustatyti AllowSelfServicePurchase strategiją.</span><span class="sxs-lookup"><span data-stu-id="017b7-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
+<span data-ttu-id="cd503-103">Prieš galėsite peržiūrėti arba nustatyti AllowSelfServicePurchase strategiją, turite būti prisijungę prie MSCommerce modulio.</span><span class="sxs-lookup"><span data-stu-id="cd503-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
 
-<span data-ttu-id="017b7-104">Norėdami prisijungti prie MSCommerce modulio, "PowerShell" raginime (PS C: \) , įrašykite šią komandą:</span><span class="sxs-lookup"><span data-stu-id="017b7-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
+<span data-ttu-id="cd503-104">Norėdami prisijungti prie MSCommerce modulio, "PowerShell" eilutėje (PS C: \) įveskite šią komandą:</span><span class="sxs-lookup"><span data-stu-id="cd503-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
 
 `Connect-MSCommerce`
 
-<span data-ttu-id="017b7-105">Atsidarys prisijungimo dialogo langas.</span><span class="sxs-lookup"><span data-stu-id="017b7-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="017b7-106">Įvesti vartotojo vardą ir slaptažodį, kad prisijungtumėte.</span><span class="sxs-lookup"><span data-stu-id="017b7-106">Enter your username and password to sign-in.</span></span>
+<span data-ttu-id="cd503-105">Bus atidarytas prisijungimo dialogo langas.</span><span class="sxs-lookup"><span data-stu-id="cd503-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="cd503-106">Įveskite savo vartotojo vardą ir slaptažodį, kad prisijungdami.</span><span class="sxs-lookup"><span data-stu-id="cd503-106">Enter your username and password to sign-in.</span></span>
 
-<span data-ttu-id="017b7-107">**Pastaba:** &nbsp; &nbsp; Abonementas, naudojamas prisijungti, turi būti įmonė arba atsiskaitymo administratorius.</span><span class="sxs-lookup"><span data-stu-id="017b7-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
+<span data-ttu-id="cd503-107">**PASTABA:** &nbsp; &nbsp; Paskyra, naudojama prisijungti, turi būti įmonės arba atsiskaitymo administratorius.</span><span class="sxs-lookup"><span data-stu-id="cd503-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
