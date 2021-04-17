@@ -2,22 +2,23 @@
 title: Naujienos apie reikšmingiausius gautuosius ir mūsų planai dėl nereikšmingų laiškų funkcijos.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: d6d04127f9b10d839f3de0d7b1351faae2ce94dc
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 100fa441ec1c74085e67bb1cbb1b790e9864cc67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834631"
 ---
-# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a><span data-ttu-id="daed6-102">Naujienos apie reikšmingiausius gautuosius ir mūsų planai dėl nereikšmingų laiškų funkcijos.</span><span class="sxs-lookup"><span data-stu-id="daed6-102">Update on Focused Inbox and our plans for Clutter</span></span>
+# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a><span data-ttu-id="138dd-102">Naujienos apie reikšmingiausius gautuosius ir mūsų planai dėl nereikšmingų laiškų funkcijos.</span><span class="sxs-lookup"><span data-stu-id="138dd-102">Update on Focused Inbox and our plans for Clutter</span></span>
 
-<span data-ttu-id="daed6-103">naujausią informaciją rasite: Naujienos apie reikšmingiausius gautuosius ir mūsų planai dėl nereikšmingų laiškų funkcijos.</span><span class="sxs-lookup"><span data-stu-id="daed6-103">for the latest information see: Update on Focused Inbox and our plans for Clutter</span></span>
+<span data-ttu-id="138dd-103">naujausią informaciją rasite: Naujienos apie reikšmingiausius gautuosius ir mūsų planai dėl nereikšmingų laiškų funkcijos.</span><span class="sxs-lookup"><span data-stu-id="138dd-103">for the latest information see: Update on Focused Inbox and our plans for Clutter</span></span>

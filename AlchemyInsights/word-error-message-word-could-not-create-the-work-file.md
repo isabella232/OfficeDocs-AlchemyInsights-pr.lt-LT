@@ -1,8 +1,8 @@
 ---
-title: "\"Word\" klaidos pranešimas: \"Word\" negalėjo sukurti darbo failo"
+title: "\"Word\" – klaidos pranešimas: \"Word\" nepavyko sukurti darbo failo"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "3185"
-ms.openlocfilehash: 0a84bcc8be84f89df7f110de03f7b34b46a8b60a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ab35941bb7e423b4ee53e31765b1d30ef0fde03
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657500"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834163"
 ---
-# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a><span data-ttu-id="b34a6-102">Klaidos pranešimo klaidos pranešimas "Word" nepavyko sukurti darbo failo "</span><span class="sxs-lookup"><span data-stu-id="b34a6-102">Resolve the "Word could not create the work file" error message</span></span>
+# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a><span data-ttu-id="dc479-102">"Word" nepavyko sukurti darbo failo" klaidos pranešimo problemos sprendimo</span><span class="sxs-lookup"><span data-stu-id="dc479-102">Resolve the "Word could not create the work file" error message</span></span>
 
-<span data-ttu-id="b34a6-103">Norėdami ištaisyti šią klaidą, peržiūrėkite [klaidos pranešimą "Word" nepavyko sukurti darbo failo ", kai įrašote dokumentą programoje" Microsoft Word "](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).</span><span class="sxs-lookup"><span data-stu-id="b34a6-103">To fix this error, see ["Word could not create the work file" error message when you save a document in Microsoft Word](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).</span></span>
+<span data-ttu-id="dc479-103">Norėdami išspręsti šią klaidą, žr. klaidos pranešimas "Word nepavyko sukurti darbo [failo", kai įrašote dokumentą programoje "Microsoft Word".](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file)</span><span class="sxs-lookup"><span data-stu-id="dc479-103">To fix this error, see ["Word could not create the work file" error message when you save a document in Microsoft Word](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).</span></span>
 
-<span data-ttu-id="b34a6-104">Jei kyla problemų atidarant "Word" dokumentus, išbandykite šiuos dalykus:</span><span class="sxs-lookup"><span data-stu-id="b34a6-104">If you're having problems opening Word documents, try the following:</span></span>
+<span data-ttu-id="dc479-104">Jei kyla problemų atidarant "Word" dokumentus, pabandykite atlikti šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="dc479-104">If you're having problems opening Word documents, try the following:</span></span>
 
-- <span data-ttu-id="b34a6-105">[Įdiekite "Office" naujinimus](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).</span><span class="sxs-lookup"><span data-stu-id="b34a6-105">[Install Office updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).</span></span> <span data-ttu-id="b34a6-106">Naujausių "Office" naujinimų sąrašą rasite [naujausiame naujinimuose](https://docs.microsoft.com/officeupdates/office-updates-msi).</span><span class="sxs-lookup"><span data-stu-id="b34a6-106">For a list of the latest Office updates, see [Latest updates](https://docs.microsoft.com/officeupdates/office-updates-msi).</span></span>
-- <span data-ttu-id="b34a6-107">[Pašalinkite sugadintus dokumentus programoje "Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)".</span><span class="sxs-lookup"><span data-stu-id="b34a6-107">[Troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).</span></span>
-- <span data-ttu-id="b34a6-108">[Pataisykite "Office" taikomąją programą](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="b34a6-108">[Repair an Office application](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+- <span data-ttu-id="dc479-105">[Įdiekite "Office" naujinimus](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).</span><span class="sxs-lookup"><span data-stu-id="dc479-105">[Install Office updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).</span></span> <span data-ttu-id="dc479-106">Naujausių "Office" naujinimų sąrašą žr. Naujausi [naujinimai](https://docs.microsoft.com/officeupdates/office-updates-msi).</span><span class="sxs-lookup"><span data-stu-id="dc479-106">For a list of the latest Office updates, see [Latest updates](https://docs.microsoft.com/officeupdates/office-updates-msi).</span></span>
+- <span data-ttu-id="dc479-107">[Sugadintų dokumentų trikčių šalinimas programoje "Word".](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)</span><span class="sxs-lookup"><span data-stu-id="dc479-107">[Troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).</span></span>
+- <span data-ttu-id="dc479-108">["Office" taikomosios programos taisymas](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="dc479-108">[Repair an Office application](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
