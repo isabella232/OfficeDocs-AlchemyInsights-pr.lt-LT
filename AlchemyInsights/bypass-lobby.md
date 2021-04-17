@@ -1,8 +1,8 @@
 ---
-title: Aplinkkelio vestibiulis
+title: Aplinkkelio laukiamajame
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684958"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820042"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Lobby parametrų valdymas ir dalyvavimo grupėse lygis
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Valdykite fojė parametrus ir dalyvavimo "Teams" lygį
 
-Jei norite leisti visiems, įskaitant skambinimą, išorinius ir anoniminius vartotojus, **apeiti laukiamąjį**, naudokite "PowerShell", kad galėtumėte atlikti šią užduotį. Pateikiame savo organizacijos visuotinio susitikimo strategijos modifikavimo pavyzdį.
+Jei norite leisti visiems, įskaitant skambinimo, išorinius ir anoniminius vartotojus, **apeiti** laukiamąjį , šiai užduočiai atlikti naudokite "PowerShell". Štai jūsų organizacijos visuotinio susitikimo strategijos modifikavimo pavyzdys.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šiuo metu šiai "cmdlet" reikia naudoti "Skype" verslui "PowerShell" modulį. Norėdami nustatyti naudoti šią "cmdlet", peržiūrėkite strategijas naudodami " [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)".
+Šiai "cmdlet" šiuo metu reikia naudoti "Skype" verslui "PowerShell" modulį. Norėdami nustatyti naudoti šią "cmdlet", peržiūrėkite Strategijų [valdymas naudojant "PowerShell".](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
-Kai nustatysite strategiją, turite ją pritaikyti vartotojams; arba, jei modifikavote pasaulinę strategiją, ji bus automatiškai taikoma vartotojams. Norėdami pakeisti strategiją, turite palaukti bent **4 valandas iki 24 valandų** , kad įsigaliotų strategijos. 
+Nustatę strategiją, turite ją taikyti vartotojams; arba, jei modifikavote visuotinę strategiją, ji bus automatiškai taikoma vartotojams. Jei norite pakeisti strategiją, turite palaukti bent **4 valandas iki 24 valandų,** kol strategijos įsigalios. 
 
-Būtinai peržiūrėkite toliau pateiktus dokumentus prieš atlikdami šiuos pokyčius ir Supraskite, ką tai leidžia.
+Prieš pradėdami šiuos pakeitimus, būtinai peržiūrėkite toliau pateiktą dokumentaciją, kad tiksliai suprastumėte, ką tai leidžia.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>"Teams" susitikimo vestibiulio strategijos valdiklių supratimas
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>"Teams" susitikimo laukiame strategijos valdiklių supratimas
 
-Šie parametrai kontroliuoja, kurie susitikimo dalyviai laukia laukiamajame, kol jie bus įtraukti į susitikimą, ir dalyvavimo, į kurį jie leidžiami susitikime, lygį. Galite naudoti "PowerShell", jei norite atnaujinti susitikimo strategijos parametrus, kurie dar nebuvo įdiegti (pažymėti "jau greitai") komandų administravimo centre. Toliau pateiktas pavyzdys "PowerShell" cmdlet, leidžianti visiems vartotojams apeiti laukiamąjį.
+Šie parametrai valdo, kurie susitikimo dalyviai laukiame, kol jiems bus leista dalyvauti susitikime, ir dalyvavimo susitikime lygį. "PowerShell" galite naudoti norėdami atnaujinti dar neįgyvendintas susitikimo strategijos parametrus (pavadintus "netrukus") "Teams" administravimo centre. Žr. toliau pateiktą pavyzdį "PowerShell" cmdlet, kuri leidžia visiems vartotojams apeiti laukiamąjį.
 
-- [Automatiškai priimti žmones](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) pagal organizatoriaus strategiją, kuri kontroliuoja, ar žmonės prisijungia prie susitikimo tiesiogiai, ar laukti laukiamajame, kol juos priims autentifikuotas vartotojas.
+- [Automatiškai priimti žmones](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) yra organizatoriaus strategija, kuri kontroliuoja, ar žmonės prisijungia prie susitikimo tiesiogiai, ar laukia, kol juos priima autentifikuotas vartotojas.
 
-- [Leisti anoniminiams žmonėms pradėti susitikimą](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) yra už organizatorių strategija, kuri kontroliuoja, ar anoniminiai žmonės, įskaitant B2B ir susietieji vartotojai, gali prisijungti prie vartotojo susitikimo be autentifikuoto vartotojo iš organizacijos lankomumo.
+- [Leisti anoniminiams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) žmonėms pradėti susitikimą yra organizatoriaus strategija, kuri kontroliuoja, ar anoniminiai žmonės, įskaitant B2B ir išorinius vartotojus, gali prisijungti prie vartotojo susitikimo be autentifikuoto vartotojo iš organizacijos.
 
-- [Leisti skambinimo vartotojams apeiti laukiamąjį](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**jau greitai**) yra kiekvienos organizatoriaus strategija, kuri kontroliuoja, ar žmonės, skambinantys telefonu, prisijungia prie susitikimo tiesiogiai arba laukti laukiamajame, nepriklausomai nuo to, ar **automatiškai priimti žmonės** .
+- Leisti konferencinio skambinimo vartotojams apeiti laukiamąjį **(** jau greitai ) yra organizatoriaus strategija, kuri kontroliuoja, ar žmonės, kurie skambina telefonu, prisijungia prie susitikimo tiesiogiai arba laukia laukiamajame, neatsižvelgiant į parametrą Automatiškai **priimti** [žmones.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon)
 
-- [Leisti organizatoriams nepaisyti laukiamųjų parametrų](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**jau greitai**) yra kiekvienos organizatoriaus strategija, valdanti, ar susitikimo organizatorius gali nepaisyti "lobby" parametrų, kuriuos administratorius nustatė **automatiškai priimti žmones** ir **leisti skambinimo vartotojams apeiti laukiamąjį** , kai suplanuojamas naujas susitikimas.
+- [Leisti organizatoriams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) nepaisyti laukiamųjų parametrų **(** jau greitai ) yra organizatoriaus strategija, kuri kontroliuoja,  ar susitikimo organizatorius gali nepaisyti laukiamajame parametrų, kuriuos administratorius nustatė dalyje Automatiškai priimti **žmones** ir Leisti skambinimo vartotojams apeiti laukiamąjį, kai jie suplanuoja naują susitikimą.
 
-**Pastaba:** Skaitykite " [teams" susitikimų strategijų valdymas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , kad peržiūrėtumėte visą "Microsoft teams" susitikimo strategijų apžvalgą.
+**Pastaba:** Skaitykite ["Teams" susitikimų strategijų valdymas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) ir išsami "Microsoft Teams" susitikimų strategijų apžvalga.

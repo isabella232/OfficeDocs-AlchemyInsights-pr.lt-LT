@@ -2,7 +2,7 @@
 title: Organizacijos profilio keitimas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726402"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818548"
 ---
 # <a name="change-organization-profile"></a>Organizacijos profilio keitimas
 
-Pakeiskite įmonės pavadinimą, adresą, techninę kontaktinę informaciją ir dar daugiau administravimo centre, esančiame skirtuke **parametrų**  >  **organizacijos parametrai**  >  [organizacijos profilis](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
+Pakeiskite savo įmonės pavadinimą, adresą, techninę kontaktinę informaciją ir kt. administravimo centre, **skirtuke**  >  **Parametrai Organizacijos parametrai** Organizacijos  >  [profilis.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
-Įsitikinkite, kad užpildysite visus reikalingus laukus, pažymėtus *, kad būtų galima įrašyti jūsų atliktus pakitimus.
+Būtinai užpildykite visus reikiamus laukus, pažymėtus *, kad įgalintumėte keitimų įrašymą.
 
-[Peržiūrėkite daugiau informacijos apie adreso arba atsiskaitymo adreso keitimą](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Daugiau informacijos apie adreso arba atsiskaitymo adreso pakeitimus žr.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

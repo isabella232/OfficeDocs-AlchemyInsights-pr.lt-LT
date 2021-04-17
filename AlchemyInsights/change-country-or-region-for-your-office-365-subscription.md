@@ -2,7 +2,7 @@
 title: "\"Microsoft 365\" prenumeratos šalies arba regiono keitimas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001671"
 - "3738"
-ms.openlocfilehash: acccd8f3b656fbb7fee0d474cae1263cff076932
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62eead6a4a2d06652c0218738c417f2c6aa0159c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748333"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819160"
 ---
 # <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>"Microsoft 365" prenumeratos šalies arba regiono keitimas
 
-**Negalite pakeisti** savo prenumeratos šalies arba regiono. Tai yra todėl, kad šalis arba regionas, kuriame yra jūsų organizacija, nustato, kurios paslaugos jums prieinamos, mokesčiai ir atsiskaitymo valiuta bei duomenų centro vieta. Norėdami pakeisti organizacijos šalį ar regioną, užsiregistruokite naujai paskyrai, pasirinkite norimą šalį ar regioną ir Įsigykite naują prenumeratą.
+Negalite **pakeisti prenumeratos** šalies ar regiono. Taip yra todėl, kad šalis arba regionas, kuriame yra jūsų organizacijos būstinė, nustato, kurios tarnybos jums prieinamos, mokesčius ir atsiskaitymo valiutą bei duomenų centro vietą. Norėdami pakeisti organizacijos šalį ar regioną, prisiregistruokite naudoti naują paskyrą, pasirinkite norimą šalį ar regioną ir įsigykite naują prenumeratą.
 
-Daugiau informacijos ieškokite [organizacijos adreso, techninio kontakto ir kt. keitimas](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide). Jei norite pakeisti susietą atsiskaitymo arba prenumeratos adresą, peržiūrėkite ["Microsoft" 365 verslui skirtų atsiskaitymo adresų keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+Daugiau informacijos [žr. Organizacijos adreso, techninio kontakto ir kt. keitimas.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide) Jei norite pakeisti susietą atsiskaitymo arba prenumeratos adresą, [žr. "Microsoft 365"](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)verslui atsiskaitymo adresų keitimas . 

@@ -1,8 +1,8 @@
 ---
-title: Atsiskaitymo adreso arba atsiskaitymo pašto pranešimų keitimas
+title: Atsiskaitymo adreso arba atsiskaitymo el. pašto pranešimų keitimas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819196"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Atsiskaitymo adreso arba atsiskaitymo pašto pranešimų keitimas
+# <a name="change-billing-address-or-billing-email-notifications"></a>Atsiskaitymo adreso arba atsiskaitymo el. pašto pranešimų keitimas
 
-**Pirkėjo adreso keitimas**
+**Savo Bill-To adreso keitimas**
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo > [mokėjimo būdai](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+1. Administravimo centre eikite į puslapį **Atsiskaitymas > [mokėjimo](https://go.microsoft.com/fwlink/p/?linkid=2018806)** metodai.
 
 2. Pasirinkite kredito kortelę arba banko sąskaitą, kurią norite keisti.
 
-3. Puslapyje **mokėjimo būdo informacija** spustelėkite **Redaguoti**.
+3. Puslapyje **Mokėjimo būdo išsami** informacija spustelėkite **Redaguoti**.
 
-4. Atnaujinkite savo atsiskaitymo adresą, tada spustelėkite **įrašyti > atliktą**.
+4. Atnaujinkite savo atsiskaitymo adresą, tada **spustelėkite Įrašyti > Atlikta**.
 
-**Alternatyvaus elektroninio pašto adreso keitimas jūsų atsiskaitymo pranešimai siunčiami į** 
+**Alternatyvio el. pašto adreso, į kurį siunčiami atsiskaitymo pranešimai, keitimas** 
 
-1. Spustelėkite **vartotojo piktogramą**, tada spustelėkite **Mano abonementas**.
+1. Spustelėkite **piktogramą Vartotojas**, tada **spustelėkite Mano paskyra**.
 
-2. Spustelėkite **asmeninė informacija**.
+2. Spustelėkite **Asmeninė informacija**.
 
-3. Lauke **kontakto informacija** spustelėkite **Redaguoti**.
+3. Lauke **Kontaktinė** informacija spustelėkite **Redaguoti**.
 
-4. Lauke **alternatyvus paštas** įveskite alternatyvų elektroninio pašto adresą, kurį norite naudoti, tada spustelėkite **įrašyti**.
+4. Lauke **Alternatyvus el.** paštas įveskite alternatyvų el. pašto adresą, kurį norite naudoti, tada spustelėkite **Įrašyti**.
 
-Daugiau informacijos apie adreso ir pranešimo keitimus ieškokite straipsnyje ["Microsoft 365" verslui atsiskaitymo adresų keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Daugiau informacijos apie adreso ir pranešimų pakeitimus žr. ["Microsoft 365"](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)verslui atsiskaitymo adresų keitimas.
