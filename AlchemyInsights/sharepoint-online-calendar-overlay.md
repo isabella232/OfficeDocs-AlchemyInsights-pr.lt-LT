@@ -1,8 +1,8 @@
 ---
-title: "\"SharePoint Online\" kalendoriaus persidengimas"
+title: "\"SharePoint Online\" kalendoriaus perdanga"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665510"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833479"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>"SharePoint Online" kalendoriaus persidengimas
+# <a name="sharepoint-online-calendar-overlay"></a>"SharePoint Online" kalendoriaus perdanga
 
-Galite užkloti kitą "SharePoint" kalendorių, kol abu "SharePoint" kalendoriai yra tame pačiame svetainių rinkinyje. Galimybė naudoti kalendoriaus perdangą "SharePoint Online" arba "SharePoint Server" kalendoriuje, kuris nuskaitomi iš "Exchange Online", nepalaikomas.
+Galite perdengti kitą "SharePoint" kalendorių, jei abu "SharePoint" kalendoriai yra tame pačiame svetainių rinkinyje. Galimybė naudoti kalendoriaus perdangą "SharePoint Online" arba "SharePoint Server" kalendoriuje, gautame iš "Exchange Online", nepalaikoma.
 
-"SharePoint Online" siūlo modernią "Microsoft 365" grupės kalendorių patirtį. Norėdami sužinoti daugiau, žiūrėkite [naudoti grupės kalendoriaus puslapio dalį](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).
+"SharePoint Online" siūlo modernią patirtį su "Microsoft 365" grupės kalendoriais. Norėdami sužinoti daugiau, [žr. Grupės kalendoriaus puslapio dalies naudojimas](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).

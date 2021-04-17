@@ -1,8 +1,8 @@
 ---
-title: Prenumeratų pranešimas "Microsoft 365" programose
+title: Prenumeratos pranešimų pranešimai "Microsoft 365" programose
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a09075b4092573054c594224387980598b6f8a1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659246"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832462"
 ---
-# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Prenumeratų pranešimas "Microsoft 365" programose
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Prenumeratos pranešimų pranešimai "Microsoft 365" programose
 
 - Jei jūsų naujame įrenginyje „Office“ jau buvo įdiegta, žr.[ „Office“ aktyvavimas ](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e), kur rasite pagalbos, kaip suaktyvinti „Office“ naujajame įrenginyje.
 
@@ -29,7 +29,7 @@ ms.locfileid: "47659246"
 
 - Atidarykite „Office“ programą, spustelėkite **Failas > Paskyra** ir atsijunkite nuo visų paskyrų. Vėl prisijunkite naudodami vartotojo paskyrą su galiojančia licencija. Norėdami rasti išsamios informacijos, žr. [Paskyros programoje „Office“](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Atidarykite „Office“ programą ir eikite į**Failas > Paskyra> Naujinimo parinktis > Naujinti dabar**, kad būtų galima atnaujinti „Office“ paveiktame kompiuteryje. Išsamių veiksmų žr. [„Office“ naujinimų diegimas](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Atidarykite „Office“ programą ir eikite į **Failas > Paskyra> Naujinimo parinktis > Naujinti dabar**, kad būtų galima atnaujinti „Office“ paveiktame kompiuteryje. Išsamių veiksmų žr. [„Office“ naujinimų diegimas](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 - Paleiskite [Aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy), o tuomet iš naujo paleiskite kompiuterį.
 

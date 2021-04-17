@@ -1,8 +1,8 @@
 ---
-title: "\"OneNote\" – Prisijungimas prie klaidų atidarant bloknotus"
+title: "\"OneNote\" – prisijunkite prie klaidų atidarant bloknotus"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c5800abb7e6446b935551858c6c7864c4d9f0aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729303"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832678"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>"OneNote" bloknotų prisijungimo problemos
+# <a name="issues-signing-in-to-onenote-notebooks"></a>Prisijungimo prie "OneNote" bloknotų problemos
 
-Jei bandydami atidaryti bloknotą gaunate prisijungimo arba slaptažodžio klaidas, bandykite atlikti šiuos veiksmus:
+Jei bandydami atidaryti bloknotą gaunate prisijungimo arba slaptažodžio klaidas, pabandykite atlikti šiuos veiksmus:
 
-- Jei neatidaromas bloknotas saugomas "OneDrive" arba "SharePoint Online", pabandykite atidaryti bloknotą "OneNote", skirtos žiniatinkliui ("www.onenote.com"). Jei bloknotas sąraše nėra, galbūt neturite teisių. Jei tai bendrinamas bloknotas, paprašykite savininko jį bendrinti ir įsitikinkite, kad naudojate tinkamą paskyrą, kad prisijungtumėte.
+- Jei neatidaryti bloknotai saugomi "OneDrive" arba "SharePoint Online", bandykite atidaryti bloknotą žiniatinklyje naudodami "OneNote" (www.onenote.com). Jei bloknotas nėra nurodytas, gali būti, kad neturite jo teisių. Jei tai bendrinamas bloknotas, paprašykite savininko jį bendrinti ir užtikrinti, kad prisijungsite naudodami tinkamą paskyrą.
 
-- Jei bloknotas atidaromas Voratinklyje "OneNote", įsitikinkite, kad esate prisijungę naudodami "OneNote" dabartinius kredencialus. 
+- Jei bloknotas atidaroma internetinėje "OneNote", įsitikinkite, kad prisijungiate naudodami dabartinius "OneNote" kredencialus. 
 
-- Išvalykite " [Office" kredencialus](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) naudodami ["Windows" Kredencialų tvarkytuvą](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Išvalykite ["Office"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) [kredencialus naudodami "Windows" kredencialų tvarkytuvą](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Programoje "OneNote" 2016 pasirinkite **failų**  >  **abonementas** ir **atsijunkite** nuo visų paskyrų. Prisijunkite dar kartą naudodami vartotojo paskyrą su galiojančia licencija. Norėdami rasti išsamios informacijos, žr. [Paskyros programoje „Office“](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- "OneNote 2016" pasirinkite **Failo**  >  **paskyra** ir **Atsijungti nuo** visų paskyrų. Prisijunkite dar kartą naudodami vartotojo paskyrą su galiojančia licencija. Norėdami rasti išsamios informacijos, žr. [Paskyros programoje „Office“](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- "OneNote", skirtos "Windows", ekrano viršuje dešinėje pasirinkite daugtaškį (**...**), pasirinkite **parametrų**  >  **paskyros**ir įsitikinkite, kad sąraše yra darbo arba mokymo įstaigos paskyra.
+- "OneNote", skirtame "Windows", pasirinkite daugtaškį (**...**) ekrano viršuje dešinėje, pasirinkite **Parametrų** paskyros ir įsitikinkite, kad nurodyta darbo arba  >  mokymo įstaigos paskyra.

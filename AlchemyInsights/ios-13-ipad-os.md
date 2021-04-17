@@ -1,8 +1,8 @@
 ---
-title: "\"iOS 13-iPadOS\""
+title: "\"iOS 13\" – \"iPadOS\""
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695945"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833155"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>"iOS 13 +/iPadOS" versijos naujinimai sąlyginės prieigos strategijai
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>"iOS 13" + / "iPadOS" naujinimai, skirti sąlyginės prieigos strategijai
 
-Jei kyla problemų, susijusių su sąlygine prieiga "iPad", kurios buvo atnaujintos į "iPadOS" ("iOS 13" arba naujesnė), Peržiūrėkite šį straipsnį iš AAD komandos dėl atliktų veiksmų, kuriuos gali reikėti atlikti norint užtikrinti, kad sąlyginė prieiga toliau veiktų kaip pageidaujama:
+Jei kyla problemų, susijusių su sąlyginė prieiga "Ipad" įrenginiuose, kurie buvo atnaujinti į "iPadOS" ("iOS 13" arba naujesnė versija), peržiūrėkite šį AAD komandos straipsnį apie pakeitimus, kuriuos gali tekti atlikti, kad būtų užtikrinta, jog sąlyginė prieiga toliau veiks taip, kaip pageidaujate:
 
-[Būtinas veiksmas: Įvertinkite ir atnaujinkite sąlyginės prieigos strategijas ruošiantis iPadOS leidimui](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Būtinas veiksmas: įvertinkite ir atnaujinkite sąlyginės prieigos strategijas ruošiant naudoti "iPadOS" leidimą](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

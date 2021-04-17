@@ -1,8 +1,8 @@
 ---
-title: "\"Windows 10\" klaviatūros parametrai "
+title: 'Klaviatūros parametrai sistemoje "Windows 10" '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772811"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832975"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>"Windows 10" klaviatūros parametrai
+# <a name="keyboard-settings-in-windows-10"></a>Klaviatūros parametrai sistemoje "Windows 10"
 
-**Įvesti parametrus**
+**Įveskite parametrus**
 
-Norėdami pakeisti "Windows" parametrus, susijusius su rašybos tikrinimu, automatiniu taisymu, pasiūlymais ir kitais aparatūros ir jutiklinio klaviatūros aspektais, eikite į **parametrai > įrenginiai > įvesti**. 
+Norėdami pakeisti "Windows" parametrus, susijusius su rašybos tikrinimą, automatinį taisymą, pasiūlymus ir kitus aparatūros ir jutiklinės klaviatūros aspektus, eikite į **Parametrai > Įrenginiai > Įvesti**. 
 
 **Kalbos ir klaviatūros parametrai**
 
-Norėdami pakeisti parametrus, susijusius su klaviatūra arba įvesties metodu, naudotu "Windows" kalbai, eikite į **parametrai > laikas & kalbos > kalbą**. Pasirinkite kalbas sąraše **pageidaujamos kalbos** ir spustelėkite **parinktys** , kad įtrauktumėte/pašalintumėte klaviatūras arba įvesties metodus (IME).
+Norėdami pakeisti parametrus, susijusius su klaviatūra arba įvesties metodu, kurį norite naudoti "Windows" kalbai, eikite **į Parametrai > Laikas & Kalba > Kalba**. Pasirinkite kalbas sąraše **Pageidaujamos kalbos ir** spustelėkite **Parinktys, kad** įtrauksite / pašalinsite klaviatūras arba įvesties metodus (IMEs).

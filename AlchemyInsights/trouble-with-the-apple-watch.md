@@ -1,8 +1,8 @@
 ---
-title: "\"Apple Watch\" triktis"
+title: "\"Apple Watch\" problemų"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700031"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832282"
 ---
-# <a name="trouble-with-the-apple-watch"></a>"Apple Watch" triktis
+# <a name="trouble-with-the-apple-watch"></a>"Apple Watch" problemų
 
-Jei kyla problemų naudojant "Outlook" "Apple Watch", Čia pateikiami keli trikčių šalinimo veiksmai: 
+Jei kyla problemų naudojant "Outlook" "Apple Watch", atlikite kelis trikčių šalinimo veiksmus: 
 
-1. Eikite į "iPhone" skirtą žiūrėjimo programą.
+1. Eikite į programėlę Žiūrėti "iPhone".
 
-2. Slinkite į "Outlook" programėlę.
+2. Slinkite į "Outlook" programą.
 
-3. Perjunkite "Rodyti programą" Apple Watch "į **išjungta, kad pašalintumėte** .
+3. Norėdami pašalinti, perjunkite "Rodyti programėlę "Apple Watch" **į** IŠJUNGTA.
 
-4. Perjunkite "Rodyti programą" Apple Watch "į **įjungta** , kad iš naujo įdiegtumėte laikrodį.
+4. Perjunkite "Rodyti programėlę "Apple Watch" **į ON,** kad iš naujo įdiegtumėte laikrodyje.
 
-5. Paleidžia "Outlook" taikomąją programą "Apple Watch" ir palaukite, kol duomenys bus sinchronizuojami su naujausiais. 
+5. Paleiskite "Outlook" programą "Apple Watch" ir palaukite, kol duomenys bus sinchronizuojami su naujausiais. 
 
-Jei problema neišspręsta, palaikymo komanda mielai padės. Eikite į **parametrai > žinyno & atsiliepimą > susisiekite su palaikymo tarnyba**. 
+Jei jūsų problema neišsprendžiama, palaikymo komanda mielai padės. Eikite **į Parametrų >, & atsiliepimus > palaikymo tarnybą.** 
