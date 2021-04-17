@@ -2,7 +2,7 @@
 title: Išorinių vartotojų įtraukimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: b54a5f9eb53d777eb97cc5523a4ed3b64a4a5812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ac235dd78f942dac4e9ec52af202d97439e61a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663449"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822103"
 ---
 # <a name="adding-external-users"></a>Išorinių vartotojų įtraukimas
 
-Išorinių/Svečių vartotojų įtraukimo veiksmai gali skirtis, atsižvelgiant į tai, ko jums reikia, kad būtų galima pasiekti. Pasirinkite vieną iš šių parinkčių:
+Išorinių / svečių vartotojų įtraukimo veiksmai gali skirtis, atsižvelgiant į tai, ko jiems reikia, kad jie galėtų pasiekti. Pasirinkite vieną iš šių veiksmų:
   
-- ["SharePoint Online" išorinio bendro naudojimo apžvalga](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- ["SharePoint Online" išorinio bendrinimo apžvalga](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Svečio prieiga "Microsoft" 365 grupėse](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Svečių prieiga "Microsoft 365" grupėse](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Svečių Prieiga naudojant "Microsoft teams"](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Svečio prieiga programoje "Microsoft Teams"](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

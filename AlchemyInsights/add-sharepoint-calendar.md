@@ -2,7 +2,7 @@
 title: "\"SharePoint\" kalendoriaus įtraukimas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4a0dd39bbb1215008220f7c15fc77a7d7216cfe4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687622"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822355"
 ---
 # <a name="add-a-sharepoint-calendar"></a>"SharePoint" kalendoriaus įtraukimas
 
-"SharePoint" kalendoriai yra klasikinis sąrašas tipų, kurie kartais painiojami su "Microsoft" 365 grupės kalendoriais.
+"SharePoint" kalendoriai yra klasikiniai sąrašų tipai, kurie kartais painiojami su "Microsoft 365" grupės kalendoriais.
  
 Norėdami sukurti "SharePoint" kalendorių, atlikite šiuos veiksmus:
  
-1.  Pasirinkite **parametrų** krumpliaračio piktogramą, tada pasirinkite **įtraukti taikomąją programą**.
-2.  Ieškos lauke **rasti taikomąją programą** įveskite **Kalendorius** ir paspauskite klavišą "įvesti".
-3.  Pasirinkite taikomosios programos pavadintą **Kalendorius**, tada įveskite kalendoriaus pavadinimą.
+1.  Pasirinkite **krumpliaračio** piktogramą Parametrai, tada **pasirinkite Įtraukti taikomąją programą**.
+2.  Ieškos lauke **Rasti taikomąją** programą įveskite **Kalendorius ir** paspauskite "Enter".
+3.  Pasirinkite programėlę, **pavadintą** Kalendorius , tada įveskite kalendoriaus pavadinimą.
 
-Daugiau informacijos apie "Microsoft" 365 grupes rasite straipsnyje [Sužinokite apie "microsoft 365 Groups"](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Daugiau informacijos apie "Microsoft 365" grupes [žr. Sužinokite apie "Microsoft 365" grupes](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
