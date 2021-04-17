@@ -2,7 +2,7 @@
 title: Susitikimo strategijos parametrai
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704614"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825451"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>"Microsoft teams" susitikimų strategijų valdymas
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>"Microsoft Teams" susitikimų strategijų valdymas
 
-**Pastaba: gali užtrukti iki 24 valandų, kol strategijos pokyčiai įsigalios vartotojams.** Jums gali nepavykti iš karto pakeisti naujai sukurtų strategijų. Palaukite 4 valandas ir dar kartą bandykite modifikuoti naujai sukurtą strategiją.
+**Pastaba: gali užtrukti iki 24 valandų, kad strategijos pakeitimai įsigalios vartotojams.** Jums gali nepavykti iš karto atlikti naujai sukurtų strategijų pakeitimų; palaukite 4 valandas ir dar kartą bandykite modifikuoti naujai sukurtą strategiją.
 
-Susitikimo strategijos naudojamos norint valdyti funkcijas, kurios pasiekiamos susitikimo dalyviams susitikimams, kuriuos suplanavo jūsų organizacijos vartotojai. Kai kurios susitikimo strategijų funkcijos gali būti neįgyvendintos "teams" administravimo centre, tačiau jie yra pažymėti "jau greitai" dokumentacijoje. Šiuo atveju arba jei gaunate klaidos pranešimą, pvz., "negalime atnaujinti strategijos dabar, bet pabandykite dar kartą vėliau" "Microsoft teams" administravimo centre rekomenduojame naudoti "PowerShell", kad sukurtumėte arba modifikuotumėte "teams" susitikimo strategijas. 
+Susitikimų strategijos naudojamos valdyti funkcijas, kurios susitikimo dalyviams prieinamos susitikimams, kuriuos suplanuoja jūsų organizacijos vartotojai. Kai kurios susitikimų strategijų funkcijos dar gali būti neį įgyvendinamos "Teams" administravimo centre (dokumentuose jos žymimos "netrukus"). Šiuo atveju arba jei gaunate klaidos pranešimą, pvz., "Šiuo metu negalime atnaujinti strategijos, bet bandykite ją dar kartą vėliau" "Microsoft Teams" administravimo centre, rekomenduojame naudoti "PowerShell" "Teams" susitikimų strategijai kurti arba modifikuoti. 
 
-Daugiau informacijos apie susitikimų strategijas rasite šiuose šaltiniuose:
+Daugiau informacijos apie susitikimų strategijas žr. šie ištekliai:
 
-- Norėdami sužinoti apie strategijų kūrimą, keitimą ir vartotojų priskyrimą strategijai, peržiūrėkite [susitikimo strategijų valdymas "teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)".
+- Norėdami sužinoti apie strategijų kūrimas, pakeitimų keitimų ir vartotojų priskyrimą strategijai, žr. [Susitikimų strategijų valdymas "Teams".](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Norėdami atlikti strategijos keitimą naudodami "PowerShell" "cmdlet", peržiūrėkite "teams" " [PowerShell" apžvalga](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Jums reikia naudoti ["Skype" verslui "PowerShell" modulį](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) komandoms susitikimo strategijoms. 
-    - Norėdami gauti daugiau informacijos, peržiūrėkite [*-csteamaimeetingpolicy "cmdlet" dokumentus](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Norėdami keisti strategiją naudodami "PowerShell" "cmdlet", žr. ["Teams PowerShell" apžvalga](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Turite naudoti ["Skype" verslui "PowerShell" modulį, skirtą "Teams"](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) susitikimo strategijai. 
+    - Daugiau informacijos [žr. *-CsTeamsMeetingPolicy cmdlets](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) dokumentacijoje.
 

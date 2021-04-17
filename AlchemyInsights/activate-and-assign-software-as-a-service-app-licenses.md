@@ -1,8 +1,8 @@
 ---
-title: Programinės įrangos kaip paslaugų taikomųjų programų licencijų aktyvinimas ir priskyrimas
+title: Programinės įrangos kaip paslaugos taikomųjų programų licencijų aktyvinimas ir priskyrimas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698582"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823219"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Programinės įrangos kaip paslaugų taikomųjų programų licencijų aktyvinimas ir priskyrimas 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Programinės įrangos kaip paslaugos taikomųjų programų licencijų aktyvinimas ir priskyrimas 
 
-## <a name="to-activate-apps"></a>Taikomųjų programų aktyvinimas
+## <a name="to-activate-apps"></a>Programėlių aktyvinimas
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** , tada pasirinkite skirtuką **taikomosios programos** .
+1. Administravimo centre eikite į puslapį  >  **[Atsiskaitymas už produktus,](https://go.microsoft.com/fwlink/p/?linkid=842054)** tada pasirinkite **skirtuką** Programos.
 
 2. Raskite ir pasirinkite programą, kurią norite valdyti.
 
-3. Dalyje **licencijos**pasirinkite **nustatyti paskyrą**.  
+3. **Dalyje Licencijos** pasirinkite **Nustatyti paskyrą**.  
 
-## <a name="to-assign-app-licenses"></a>Taikomųjų programų licencijų priskyrimas
+## <a name="to-assign-app-licenses"></a>Programų licencijų priskyrimas
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** , tada pasirinkite skirtuką **taikomosios programos** .
+1. Administravimo centre eikite į puslapį  >  **[Atsiskaitymas už produktus,](https://go.microsoft.com/fwlink/p/?linkid=842054)** tada pasirinkite **skirtuką** Programos.
 
 2. Raskite ir pasirinkite programą, kurią norite valdyti.  
 
-3. Dalyje **parametrai & veiksmai**pasirinkite saitą, kurį norite **tvarkyti programos "Publisher" portale**.
+3. Dalyje **& veiksmai** pasirinkite saitą Valdyti **leidėjo portale**.

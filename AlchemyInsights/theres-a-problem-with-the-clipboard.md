@@ -1,8 +1,8 @@
 ---
-title: Iškilo problema su mainų srities
+title: Kilo mainų srities problemų
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750279"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824659"
 ---
 # <a name="resolving-excel-clipboard-error"></a>"Excel" mainų srities klaidos sprendimas
 
-Jei gaunate klaidos pranešimą "Excel", kuriame rašoma: "iškilo problema dėl mainų srities, bet vis tiek galite įklijuoti turinį šioje darbaknygėje," Pabandykite išjungti tiesioginę peržiūros funkciją atlikdami šiuos veiksmus:
+Jei programoje "Excel" gaunate klaidos pranešimą "Kilo mainų srities problema, bet vis tiek galite įklijuoti turinį šioje darbaknygėje", pabandykite išjungti tiesioginės peržiūros funkciją, atlikite šiuos veiksmus:
 
-1. Programoje "Excel" spustelėkite **failo**  >  **parinktys**.
-3. Dialogo lange **"Excel" parinktys** pasirinkite **General (General**).
-4. Dalyje **vartotojo sąsajos parinktys**išvalykite **įjungti tiesioginę peržiūrą**.
+1. Programoje "Excel" spustelėkite **Failo**  >  **parinktys**.
+3. Dialogo **lange "Excel"** parinktys pasirinkite **Bendra**.
+4. Dalyje **Vartotojo sąsajos parinktys išvalykite** Įgalinti tiesioginę **peržiūrą**.
 5. Spustelėkite **Gerai**.
 6. Iš naujo paleiskite "Excel".
