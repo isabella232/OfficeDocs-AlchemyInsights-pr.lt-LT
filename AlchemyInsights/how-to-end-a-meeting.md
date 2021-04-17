@@ -1,8 +1,8 @@
 ---
-title: Kaip oficialiai užbaigti susitikimą
+title: Kaip oficialiai baigti susitikimą
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825703"
 ---
-# <a name="how-to-formally-end-a-meeting"></a><span data-ttu-id="e5647-102">Kaip oficialiai užbaigti susitikimą</span><span class="sxs-lookup"><span data-stu-id="e5647-102">How to formally end a meeting</span></span>
+# <a name="how-to-formally-end-a-meeting"></a><span data-ttu-id="5456a-102">Kaip oficialiai baigti susitikimą</span><span class="sxs-lookup"><span data-stu-id="5456a-102">How to formally end a meeting</span></span>
 
-<span data-ttu-id="e5647-103">Susitikimo organizatoriai gali baigti susitikimą su visais susitikimo dalyviais programoje "teams" spustelėdami **užbaigti susitikimą** susitikimo valdikliuose.</span><span class="sxs-lookup"><span data-stu-id="e5647-103">Meeting organizers can end a meeting for all meeting participants in Teams by clicking **End meeting** in the meeting controls within the meeting.</span></span>  
+<span data-ttu-id="5456a-103">Susitikimo organizatoriai gali baigti susitikimą visiems "Teams" susitikimo dalyviams susitikimo valdikliuose spustelėdami Baigti susitikimą. </span><span class="sxs-lookup"><span data-stu-id="5456a-103">Meeting organizers can end a meeting for all meeting participants in Teams by clicking **End meeting** in the meeting controls within the meeting.</span></span>  
 
-<span data-ttu-id="e5647-104">Norėdami baigti visų dalyvių vykstančio susitikimo eigą, pasirinkite susitikimo valdikliai, pasirinkite 3 – taškų piktogramą ir spustelėkite baigti susitikimą.</span><span class="sxs-lookup"><span data-stu-id="e5647-104">To end an in-progress meeting for all participants, select meeting controls, select the 3-dot icon, and click on End Meeting.</span></span> <span data-ttu-id="e5647-105">Jūsų paprašys patvirtinti savo žymėjimą.</span><span class="sxs-lookup"><span data-stu-id="e5647-105">You’ll be asked to confirm your selection.</span></span> <span data-ttu-id="e5647-106">Patvirtinę savo žymėjimą užbaigsite susitikimą visiems.</span><span class="sxs-lookup"><span data-stu-id="e5647-106">Confirming your selection will end the meeting for everyone.</span></span>
+<span data-ttu-id="5456a-104">Norėdami baigti visų dalyvių susitikimą, pasirinkite susitikimo valdiklius, pasirinkite 3 taškų piktogramą ir spustelėkite Baigti susitikimą.</span><span class="sxs-lookup"><span data-stu-id="5456a-104">To end an in-progress meeting for all participants, select meeting controls, select the 3-dot icon, and click on End Meeting.</span></span> <span data-ttu-id="5456a-105">Būsite paprašyti patvirtinti savo pasirinkimą.</span><span class="sxs-lookup"><span data-stu-id="5456a-105">You’ll be asked to confirm your selection.</span></span> <span data-ttu-id="5456a-106">Patvirtinus pasirinkimą, susitikimas baigsis visiems.</span><span class="sxs-lookup"><span data-stu-id="5456a-106">Confirming your selection will end the meeting for everyone.</span></span>
 
-<span data-ttu-id="e5647-107">Pastaba: tik susitikimo organizatorius gali baigti susitikimą.</span><span class="sxs-lookup"><span data-stu-id="e5647-107">NOTE: Only the meeting organizer can "end" a meeting.</span></span>
+<span data-ttu-id="5456a-107">PASTABA: tik susitikimo organizatorius gali "baigti" susitikimą.</span><span class="sxs-lookup"><span data-stu-id="5456a-107">NOTE: Only the meeting organizer can "end" a meeting.</span></span>

@@ -1,8 +1,8 @@
 ---
-title: "\"PowerPoint\" užstringa arba užstrigo"
+title: "\"PowerPoint\" užstringa arba užstringa"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5474"
-ms.openlocfilehash: bb7c444a0a2e6e15c40e3820254463604fbc86df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60e320ec204735fdf9ce4dc29c3e291695840215
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662288"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826711"
 ---
-# <a name="resolve-powerpoint-hangs-or-freezes"></a><span data-ttu-id="9b9bb-102">"PowerPoint" užstringa arba užstrigo</span><span class="sxs-lookup"><span data-stu-id="9b9bb-102">Resolve PowerPoint hangs or freezes</span></span>
+# <a name="resolve-powerpoint-hangs-or-freezes"></a><span data-ttu-id="23b02-102">"PowerPoint" užstringa arba užstringa</span><span class="sxs-lookup"><span data-stu-id="23b02-102">Resolve PowerPoint hangs or freezes</span></span>
 
-- <span data-ttu-id="9b9bb-103">Gaunu [klaidos pranešimą "nustojo veikti", kai paleidžiu "Office" taikomąsias programas savo kompiuteryje](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa).</span><span class="sxs-lookup"><span data-stu-id="9b9bb-103">[I get a "stopped working" error when I start Office applications on my PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa).</span></span>
-- <span data-ttu-id="9b9bb-104">Atlikite veiksmus, aprašytus ["PowerPoint" neatsako, pakimba arba užstringa,](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) jei reikia daugiau trikčių diagnostikos informacijos ir sprendimų.</span><span class="sxs-lookup"><span data-stu-id="9b9bb-104">Follow the steps in [PowerPoint isn't responding, hangs or freezes](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) for more troubleshooting information and solutions.</span></span>
+- <span data-ttu-id="23b02-103">[Gaunu klaidą "nustojo veikti", kai kompiuteryje paleidžiau "Office" programas.](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)</span><span class="sxs-lookup"><span data-stu-id="23b02-103">[I get a "stopped working" error when I start Office applications on my PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa).</span></span>
+- <span data-ttu-id="23b02-104">Norėdami gauti daugiau trikčių [šalinimo informacijos ir sprendimų, atlikite veiksmus, nurodytus "PowerPoint", neatsako,](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) užstringa arba užstringa.</span><span class="sxs-lookup"><span data-stu-id="23b02-104">Follow the steps in [PowerPoint isn't responding, hangs or freezes](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) for more troubleshooting information and solutions.</span></span>
