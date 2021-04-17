@@ -2,7 +2,7 @@
 title: Žodžio arba frazės keitimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835747"
 ---
 # <a name="replace-a-word-or-phrase"></a>Žodžio arba frazės keitimas
 
 Norėdami pakeisti kelis žodžio arba frazės egzempliorius "Word" dokumente:
 
-1. Eikite į **Pagrindinis**  >  **keitimas**arba paspauskite CTRL + H.
-2. Lauke **rasti** įveskite žodį arba frazę, kurią norite pakeisti. 
-3. Lauke **keisti** į įveskite naują tekstą.
-3. Pasirinkite **Keisti viską** , kad pakeistumėte visus žodžio ar frazės pasikartojimus arba pasirinkite **ieškoti toliau** , kol rasite vieną (-ius), kurią (-ias) norite atnaujinti, tada pasirinkite **keisti**.
+1. Eikite **į Pagrindinis**  >  **keitimas** arba paspauskite Ctrl + H.
+2. Lauke **Rasti įveskite** žodį arba frazę, kurią norite pakeisti. 
+3. Lauke **Keisti į** įveskite naują tekstą.
+3. Pasirinkite **Keisti viską,** kad pakeistumėte visus žodžio  ar frazės pasikartojimus, arba pasirinkite Rasti paskesnį, kol rasite norimą (-ius) atnaujinti žodį (-ius), tada pasirinkite **Keisti**.
