@@ -1,8 +1,8 @@
 ---
-title: Paprašykite administratoriaus įgalinti "Microsoft teams"
+title: Paprašykite administratoriaus įgalinti "Microsoft Teams"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716253"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821194"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jums trūksta! Paprašykite administratoriaus įgalinti "Microsoft teams"
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jums trūksta! Paprašykite administratoriaus įgalinti "Microsoft Teams"
 
-Jeigu turite EDU nuomininką, turite įgalinti „Microsoft Teams“ rankiniu būdu. Norėdami tai padaryti, eikite į "Microsoft" 365 administravimo centras > **tarnybų ir papildinių > "Microsoft teams"**. Jei naudojate naują komandų administravimo centrą, turite išjungti **išbandyti naują administravimo centrą**,   kad rastumėte **paslaugas ir papildinius**. 
+Jeigu turite EDU nuomininką, turite įgalinti „Microsoft Teams“ rankiniu būdu. Norėdami tai padaryti, eikite į "Microsoft 365" administravimo >ir papildinių >  **"Microsoft Teams".** Jei naudojate naują "Teams" administravimo centrą, turėsite išjungti Išbandykite naują **administravimo centrą,** kad   rastumėte **tarnybas ir papildinį**. 
 
-**Svarbu**: jums gali tekti palaukti iki 24 valandų, kol įsigalios jūsų pasikeitimai.
+**SVARBU**: Gali tekti palaukti iki 24 valandų, kol pakeitimai įsigalios.

@@ -1,8 +1,8 @@
 ---
-title: AntiSpam 5.4.1 DBEB catch-All
+title: AntiSpam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821455"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Problemų, susijusių su klaidos kodu 550 5.4.1 Relay prieiga uždrausta, šalinimas
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Klaidos kodo 550 5.4.1 Perdavimo prieiga uždrausta pristatymo problemų sprendimas
 
-Ši problema kyla [tikrinant, ar el. pašto adresas galioja, kad būtų išvengta "bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) " įvedant "Microsoft" tinklą. Išbandykite šiuos veiksmus:
+Ši problema kyla [tikrinant, ar el. pašto adresas](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) galioja, kad nebūtų sugrįžta įvedant "Microsoft" tinklą. Išbandykite šiuos veiksmus:
 
-1. Nustatykite, ar problema būdinga visam domenui, ar vienam elektroninio pašto adresui:
-    - Visas domenas: kartais domeną reikia sinchronizuoti; Pabandykite [nustatyti domeną kaip vidinį ir grįžti į patikimą](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Vienas elektroninio pašto adresas: kartais adresą reikia sinchronizuoti; pakeitus SMTP tarpinio serverio adresą ir pakeitus jį atgal, gali padėti.
-2. Nustatykite, ar problema būdinga grupei ar viešajam aplankui. Kai kurių objektų tipų objektams gali reikėti rankiniu būdu sukurti "Azure Active Directory".
+1. Nustatykite, ar problema susijusi su visu domenu, ar vienu el. pašto adresu:
+    - Visas domenas: kartais domeną reikia sinchronizuoti; pabandykite [nustatyti domeną kaip Vidinis, tada grįžkite į Patikimas](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Vienas el. pašto adresas: kartais adresą reikia sinchronizuoti; pakeisti SMTP tarpinio serverio adresą ir tada jį pakeisti atgal gali padėti.
+2. Nustatykite, ar problema susijusi su grupe ar viešuoju aplanku. Kai kurių tipų objektus gali tekti rankiniu būdu sukurti "Azure Active Directory".
 
-Jei reikia papildomos pagalbos, atidarykite palaikymo bilietą ir nurodykite problemos aprėptį (įskaitant objekto, kurį siunčiate, tipą), kad galėtume jums padėti geriau.
+Jei reikia papildomos pagalbos, atidarykite palaikymo kvitą ir nurodykite problemos aprėptį (įskaitant objekto, į kurį siunčiate, tipą), kad galėtume jums padėti geriau.
