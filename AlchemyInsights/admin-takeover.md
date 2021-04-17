@@ -2,7 +2,7 @@
 title: Administratoriaus perėmimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: 1fc7c7c3388420fb0ed93b9fad087cb3b8c95a0d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a5554a45b3b295500e34ea13016b4b07a844c8f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707386"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821851"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="c5aad-102">Tapkite administratoriumi</span><span class="sxs-lookup"><span data-stu-id="c5aad-102">Become an admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="be60e-102">Tapkite administratoriumi</span><span class="sxs-lookup"><span data-stu-id="be60e-102">Become an admin</span></span>
 
-<span data-ttu-id="c5aad-103">Norėdami prisiimti administratoriaus vaidmenį šiai organizacijai, turite perimti.</span><span class="sxs-lookup"><span data-stu-id="c5aad-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="c5aad-104">Vadovaukitės šiame vadove pateikiamais nurodymais, skirtais išsamiam instrukcijoms: [kaip atlikti IT administratoriaus perėmimą su "O365"](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)</span><span class="sxs-lookup"><span data-stu-id="c5aad-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)</span></span>
+<span data-ttu-id="be60e-103">Norėdami perimti šios organizacijos administratoriaus vaidmenį, turite perimti.</span><span class="sxs-lookup"><span data-stu-id="be60e-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="be60e-104">Vadovaukitės šiame vadove pateiktomis instrukcijomis, kad būtų pateiktos išsamios instrukcijos: Kaip atlikti [IT administratoriaus perėmimą naudojant "O365"](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)</span><span class="sxs-lookup"><span data-stu-id="be60e-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)</span></span>

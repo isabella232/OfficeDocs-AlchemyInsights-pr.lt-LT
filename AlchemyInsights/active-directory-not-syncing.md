@@ -1,8 +1,8 @@
 ---
-title: "\"Active Directory\" nesinchronizuojamas"
+title: "\"Active Directory\" nesinchronizuojama"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697637"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822859"
 ---
-# <a name="active-directory-not-syncing"></a><span data-ttu-id="ca113-102">"Active Directory" nesinchronizuojamas</span><span class="sxs-lookup"><span data-stu-id="ca113-102">Active Directory not syncing</span></span>
+# <a name="active-directory-not-syncing"></a><span data-ttu-id="1e926-102">"Active Directory" nesinchronizuojama</span><span class="sxs-lookup"><span data-stu-id="1e926-102">Active Directory not syncing</span></span>
 
-<span data-ttu-id="ca113-103">Jei gaunate sinchronizavimo klaidų, pvz., "nėra neseniai sinchronizuotas", arba pranešimas katalogo sinchronizavimo būseną "Office" administravimo portale sako: "paskutinį kartą sinchronizuoti daugiau nei 3 dienas", gali būti, kad "AADConnect" yra neteisingi parametrai arba nepakanka teisių sinchronizuoti.</span><span class="sxs-lookup"><span data-stu-id="ca113-103">If you are receiving synchronization errors, such as "no recent synchronization," or notice the directory synchronization status in the Office admin portal says, "Last synced more than 3 days ago," it may be that AADConnect has incorrect settings or insufficient permissions to perform a synchronization.</span></span>  
+<span data-ttu-id="1e926-103">Jei gaunate sinchronizavimo klaidų, pvz., "nėra naujausio sinchronizavimo", arba pastebėjote katalogų sinchronizavimo būseną "Office" administravimo portale sako: "Paskutinį kartą sinchronizuota daugiau nei prieš 3 dienas", gali būti, kad "AADConnect" turi neteisingus parametrus arba nepakanka teisių sinchronizuoti.</span><span class="sxs-lookup"><span data-stu-id="1e926-103">If you are receiving synchronization errors, such as "no recent synchronization," or notice the directory synchronization status in the Office admin portal says, "Last synced more than 3 days ago," it may be that AADConnect has incorrect settings or insufficient permissions to perform a synchronization.</span></span>  
 
-<span data-ttu-id="ca113-104">"AADConnect" diegimas iš naujo naudojant sparčiuosius parametrus gali greitai išspręsti problemą:</span><span class="sxs-lookup"><span data-stu-id="ca113-104">Reinstalling AADConnect by using express settings may resolve the issue quickly:</span></span>
+<span data-ttu-id="1e926-104">"AADConnect" diegimas iš naujo naudojant skubius parametrus gali greitai išspręsti šią problemą:</span><span class="sxs-lookup"><span data-stu-id="1e926-104">Reinstalling AADConnect by using express settings may resolve the issue quickly:</span></span>
 
-1. <span data-ttu-id="ca113-105">[Atsisiųskite naujausią "AADConnect" versiją](https://go.microsoft.com/fwlink/?LinkId=615771).</span><span class="sxs-lookup"><span data-stu-id="ca113-105">[Download the latest version of AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
+1. <span data-ttu-id="1e926-105">[Atsisiųskite naujausią "AADConnect" versiją.](https://go.microsoft.com/fwlink/?LinkId=615771)</span><span class="sxs-lookup"><span data-stu-id="1e926-105">[Download the latest version of AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
 
-2. <span data-ttu-id="ca113-106">[Vadovaukitės skubių įrenginių nurodymais](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span><span class="sxs-lookup"><span data-stu-id="ca113-106">[Follow the instructions for express installation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
+2. <span data-ttu-id="1e926-106">[Vykdykite nurodymus, kaip atlikti skubią įdiegtį.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)</span><span class="sxs-lookup"><span data-stu-id="1e926-106">[Follow the instructions for express installation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
 
-<span data-ttu-id="ca113-107">Daugiau informacijos apie "AADConnect" paslaugų paskyras ieškokite " [AZURE AD Connect": abonementai ir teisės](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span><span class="sxs-lookup"><span data-stu-id="ca113-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
+<span data-ttu-id="1e926-107">Daugiau informacijos apie "AADConnect" tarnybos paskyras žr. ["Azure AD Connect": paskyros ir teisės](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span><span class="sxs-lookup"><span data-stu-id="1e926-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
