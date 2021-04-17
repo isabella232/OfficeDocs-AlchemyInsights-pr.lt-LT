@@ -1,8 +1,8 @@
 ---
-title: Susisiekite su mumis spustelėdami mygtuką ausinių
+title: Susisiekite su mumis spustelėdami ausinių mygtuką
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816964"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Susisiekite su mumis spustelėdami mygtuką ausinių
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Susisiekite su mumis spustelėdami ausinių mygtuką
 
-Jei norite susisiekti su "Microsoft" palaikymo tarnyba, spustelėkite **susisiekite su mumis** apatiniame kairiajame šios programos kampe. Atskridimo lange jūs būsite nukreipti į tinkamą palaikymo kanalą, pasirinkę savo produkto ir problemos kategoriją.
+Jei norite susisiekti su "Microsoft" palaikymo tarnyba, spustelėkite **Susisiekite** su mumis apatiniame kairiajame šios programos kampe. Išsiskridusiame lange, pasirinkę produkto ir problemų kategoriją, galėsite vadovautis tinkamu palaikymo kanalu.
 
 ![Susisiekite su mumis spustelėdami ausinių piktogramą.](media/contact-us-headphone-icon.png)
 
-Galite palaikyti ryšį su likusiu programėle net po to, kai pradėjote kontakto JAV seansą. "Susisiekite su mumis" sritį galima laikinai sumažinti spustelint bet kur kitur programos viduje. Norėdami grįžti į tą patį seansą, tiesiog dar kartą spustelėkite **susisiekite su mumis** .
+Galite toliau bendrauti su likusia programėle net inicijavote seansą Susisiekite su mumis. Skydą Susisiekite su mumis galima laikinai minimizuoti spustelėjus bet kurią programos vietą. Norėdami grįžti į tą patį seansą, tiesiog dar **kartą spustelėkite Susisiekti su** mumis.

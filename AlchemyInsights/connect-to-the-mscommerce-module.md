@@ -1,8 +1,8 @@
 ---
-title: Prisijungimas prie "MSCommerce" modulio
+title: Prisijungimas prie MSCommerce modulio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713246"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817036"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Prisijungimas prie "MSCommerce" modulio
+# <a name="connect-to-the-mscommerce-module"></a>Prisijungimas prie MSCommerce modulio
 
-Turite būti prisijungę prie MSCommerce modulio, kad galėtumėte peržiūrėti arba nustatyti AllowSelfServicePurchase strategiją.  
+Prieš galėsite peržiūrėti arba nustatyti AllowSelfServicePurchase strategiją, turite būti prisijungę prie MSCommerce modulio.  
 
-Norėdami prisijungti prie MSCommerce modulio, "PowerShell" raginime (PS C: \) , įrašykite šią komandą:
+Norėdami prisijungti prie MSCommerce modulio, "PowerShell" eilutėje (PS C: \) įveskite šią komandą:
 
 `Connect-MSCommerce`
 
-Atsidarys prisijungimo dialogo langas. Įvesti vartotojo vardą ir slaptažodį, kad prisijungtumėte.
+Bus atidarytas prisijungimo dialogo langas. Įveskite savo vartotojo vardą ir slaptažodį, kad prisijungdami.
 
-**Pastaba:** &nbsp; &nbsp; Abonementas, naudojamas prisijungti, turi būti įmonė arba atsiskaitymo administratorius.
+**PASTABA:** &nbsp; &nbsp; Paskyra, naudojama prisijungti, turi būti įmonės arba atsiskaitymo administratorius.

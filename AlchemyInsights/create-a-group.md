@@ -2,7 +2,7 @@
 title: Grupės kūrimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816364"
 ---
 # <a name="create-a-group"></a>Grupės kūrimas
 
-Šioje temoje aprašomi grupės kūrimas.
+Šioje temoje aprašomas grupės kūrimas.
 
-**Grupės kūrimo teisė**
+**Teisė kurti grupę**
 
-Įsitikinkite, kad turite teisę kurti naują grupę. Visuotinis administratorius gali išjungti grupės kūrimą "Azure" portale arba "Access" skyde. Jums gali reikėti administratoriaus, kad galėtumėte sukurti jums naują grupę arba suteikti reikiamas teises.
+Įsitikinkite, kad turite teisę kurti naują grupę. Visuotiniai administratoriai gali išjungti grupės kūrimą "Azure" portale arba "Access" skyde. Jums gali tekti administratoriaus sukurti naują grupę arba suteikti jums atitinkamas teises.
 
-**Grupių kūrimo teisių valdymas**
+**Grupės kūrimo teisių valdymas**
 
-1. Visuotiniai administratoriai gali valdyti grupių kūrimo teises (dėl su sauga susijusių priežasčių) arba "Office" 365 grupes, sukurtas "Azure" portale arba "Access" srityje, pasirinkdami "vartotojai gali kurti saugos grupes" Azure "portaluose", arba "vartotojai gali kurti" Office 365 "grupes" Azure "portaluose" parinktys " **visose grupėse**  >  **(parametrai)**.
-2. Taip pat galite apriboti grupės kūrimą, kad pasirinktumėte grupę vartotojų, jei turite "Azure Active Directory P1 Premium" licenciją.
+1. Visuotiniai administratoriai gali valdyti grupės kūrimo teises (dėl su sauga susijusių priežasčių) arba "Office 365" grupes, sukurtas "Azure" portale arba "Access" skyde, pasirinkdami "Vartotojai gali kurti saugos grupes "Azure" portaluose" arba "Vartotojai gali kurti "Office 365" grupes "Azure" portaluose" parinktys dalyje **Visos grupės**  >  **Bendra (Parametrai)**.
+2. Taip pat galite apriboti grupės kūrimą, kad pasirinktumėte vartotojų grupę, jei turite "Azure Active Directory P1 Premium" licenciją.
 
-**Pasveikinimo pranešimo išjungimas naujiems "Office 365" grupės nariams**
+**Naujų "Office 365" grupės narių pasveikinimo pranešimo išjungimas**
 
-Į "Office 365" grupes įtraukti vartotojai gali būti išjungti, kai "PowerShell" nustato " **Unifiedgroupsveikiemessageenabled** ". Sužinokite apie šį parametrą [čia](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+Pasveikinimo pranešimą, išsiųstą vartotojams, įtrauktiems į "Office 365" grupes, galima išjungti "PowerShell" nustačius **UnifiedGroupWelcomeMessageEnabled** kaip False. Sužinokite apie šį parametrą [čia](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

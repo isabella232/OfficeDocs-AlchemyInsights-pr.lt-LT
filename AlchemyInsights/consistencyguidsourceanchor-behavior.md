@@ -1,8 +1,8 @@
 ---
-title: ConsistencyGuid/sourceAnchor elgesys
+title: ConsistencyGuid / sourceAnchor behavior
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eafe1ec9636cddc9d73a88beb7ae3ad9f6fad660
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756291"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817000"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor elgesys
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor behavior
 
-"Azure AD Connect" (versijos 1.1.524.0 ir po) dabar palengvina KRS pažeidimų naudojimą kaip sourceAnchor atributą. Naudojant šią funkciją, "Azure AD Connect" automatiškai konfigūruoja sinchronizavimo taisykles:
+"Azure AD Connect" (1.1.524.0 ir naujesnė versija) dabar palengvina msDS-ConsistencyGuid kaip sourceAnchor atributo naudojimą. Naudojant šią funkciją, "Azure AD Connect" automatiškai konfigūruoja sinchronizavimo taisykles, kad:
   
-- Naudoti KRS-ConsistencyGuid kaip vartotojo objektų sourceAnchor atributą. ObjectGUID naudojamas kitų tipų objektams.
+- Naudokite msDS-ConsistencyGuid kaip sourceAnchor atributą vartotojo objektams. ObjectGUID naudojamas kitiems objektų tipams.
     
-- Į bet kurį vietinį skelbimo vartotojo objektą, kurio msDS-ConsistencyGuid atributas neužpildomas, "Azure AD Connect" įrašo savo objectGUID reikšmę atgal į KRS-ConsistencyGuid atributą vietiniame "Active Directory". Po to, kai "msDS-ConsistencyGuid" atributas yra užpildomas, "Azure AD Connect" eksportuos objektą į "Azure AD".
+- Bet kurio vietinio AD vartotojo objekto, kurio atributas msDS-ConsistencyGuid neužpildomas, atveju "Azure AD Connect" įrašo objektoGUID reikšmę į msDS-ConsistencyGuid atributą vietinėje "Active Directory". Įvedus atributą msDS-ConsistencyGuid, "Azure AD Connect" eksportuoja objektą į "Azure AD".
     
- **Pastaba:** Kai vietinis skelbimo objektas importuojamas į "Azure AD Connect" (tai yra importuotas į skelbimų jungties sritį ir projektuojamas į "metaverse"), negalite pakeisti jo sourceAnchor reikšmės. Norėdami nurodyti duoto vietinio skelbimo objekto sourceAnchor reikšmę, sukonfigūruokite jos KRS-ConsistencyGuid atributą, prieš importuodami į "Azure AD Connect". 
+ **Pastaba:** Kai vietinis AD objektas importuojamas į "Azure AD Connect" (t. y. importuotas į "AD Connector Space" ir suprojektuojamas į metaversą), nebegalite pakeisti jo sourceAnchor reikšmės. Norėdami nurodyti vietinio AD objekto reikšmę sourceAnchor, sukonfigūruokite jo msDS-ConsistencyGuid atributą prieš jį importuokite į "Azure AD Connect". 
   
-Daugiau informacijos apie SourceAnchor ir ConsistencyGuid rasite toliau pateiktoje lentelėje: " [AZURE AD Connect": dizaino koncepcijos](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Daugiau informacijos apie "SourceAnchor" ir "ConsistencyGuid" žr.: ["Azure AD Connect": dizaino sąvokos](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

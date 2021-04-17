@@ -1,8 +1,8 @@
 ---
-title: 'Sargybos kliento apsauga nuo sugadinimo '
+title: 'Apsauga nuo sargybos kliento tamperio '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680512"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815587"
 ---
-# <a name="defender-tamper-protection"></a>Sargybos apsauga nuo klastojimo 
+# <a name="defender-tamper-protection"></a>Apsauga nuo sargybos tamperio 
 
-Naudojant apsauginę apsaugą, kenkėjiškoms programoms neleidžiama imtis veiksmų, pvz.:
+Naudojant "Tamper Protection", kenkėjiškos programos negali atlikti tokių veiksmų:
 
-- Virusų ir grėsmių apsaugos išjungimas
+- Apsaugos nuo virusų ir grėsmių išjungimas
 - Apsaugos realiuoju laiku išjungimas
-- Elgsenos stebėjimo išjungimas
-- Išjungti antivirusinę (pvz., IOfficeAntivirus (IOAV))
+- Veikimo stebėjimo išjungimas
+- Antivirusinės programos išjungimas (pvz., "IOfficeAntivirus" (IOAV))
 - Debesies teikiamos apsaugos išjungimas
-- Saugos informacijos naujinimų šalinimas
+- Saugos įžvalgų naujinimų šalinimas
 
-Daugiau informacijos ieškokite [saugos parametrų apsauga nuo apsaugos nuo klastojimo](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Daugiau informacijos žr. [Saugos parametrų apsauga nuo tamperio apsaugos](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

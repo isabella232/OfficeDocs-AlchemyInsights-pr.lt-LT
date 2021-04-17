@@ -1,8 +1,8 @@
 ---
-title: Naikinti elementus arba ištuštinti "SharePoint" svetainės šiukšlinę
+title: Elementų naikinimas arba "SharePoint" svetainės šiukšlinės ištuštinimo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 0e6ed0ed5697772318db48c59c7fca02d87e11c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3968f389675644cf5c0bd81eafcdb03b74a6dce5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745906"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815515"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Naikinti elementus arba ištuštinti "SharePoint" svetainės šiukšlinę 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Elementų naikinimas arba "SharePoint" svetainės šiukšlinės ištuštinimo 
 
-Kai naikinate elementą iš "SharePoint" dokumentų bibliotekos arba sąrašo, jis iš karto pašalinamas iš "SharePoint". Pašalinti elementai į svetainės šiukšlinę yra tam tikrą laiką. Tuo metu galite atkurti panaikintus elementus į pradinę vietą arba pašalinti, kad atlaisvintumėte saugyklos vietos.
+Kai panaikinate elementą iš "SharePoint" dokumentų bibliotekos arba sąrašo, jis iš karto nepašalinamas iš "SharePoint". Panaikinti elementai tam tikrą laiką patenka į svetainės šiukšlinę. Tuo metu galite atkurti panaikintus elementus į pradinę jų vietą arba pašalinti juos, kad atlaisvinsite saugojimo vietos.
 
-[Naikinti elementus arba ištuštinti "SharePoint" svetainės šiukšlinę](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
+[Elementų naikinimas arba "SharePoint" svetainės šiukšlinės ištuštinimo](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

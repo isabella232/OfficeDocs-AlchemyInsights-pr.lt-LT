@@ -1,8 +1,8 @@
 ---
-title: Ryšio laikymasis
+title: Ryšio atitiktis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817504"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Ryšio atitiktis "Microsoft 365"
+# <a name="communication-compliance-in-microsoft-365"></a>"Microsoft 365" ryšio atitiktis
 
-Ryšio atitiktis – tai naujas "Microsoft 365" atitikties sprendimas, padedantis organizacijoms laikytis priežiūros atitikties reikalavimų ir minimizuoti ryšio riziką. Jis pagrįstas priežiūros funkcija ir jame yra naujų patobulinimų, įskaitant:
+Ryšių atitiktis yra naujas "Microsoft 365" atitikties sprendimas, padedantis organizacijoms atitikti priežiūros atitikties reikalavimus ir sumažinti bendravimo riziką. Jis pagrįstas priežiūros funkcija ir apima naujus patobulinimus, įskaitant:
 
-- Intelektualūs įprastiniai šablonai
+- Intelektualūs tinkinami šablonai
 - Lanksčios taisymo darbo eigos
-- Naudingos įžvalgos
+- Veiksmų įžvalgos
 
-Jei šiuo metu naudojate [priežiūros strategijas](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), rekomenduojame naudoti naują ryšių palaikymo reikalavimus, kad būtų sprendžiami reguliavimo poreikiai.
+Jei šiuo metu naudojate [priežiūros strategijas,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)rekomenduojame dabar naudoti naują ryšių atitiktį reguliavimo poreikiams patenkinti.
 
-Norėdami nustatyti ryšio atitiktį, žiūrėkite [ryšių atitikties](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)nustatymas.
+Norėdami nustatyti ryšių atitiktį, [žr. Ryšių atitikties konfigūravimas](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Norėdami tirti, peržiūrėti ir atkurti ryšio atitiktį, žiūrėkite [tirti ir atkurti bendravimo atitikties įspėjimus](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Norėdami ištirti, peržiūrėti ir iš naujo nustatyti ryšių atitiktį, žr. Ryšių atitikties įspėjimų [ištyrė ir](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)iš naujo iš naujo.
 
-Norėdami peržiūrėti bendravimo atitikties funkciją, skaitykite ["Microsoft 365" ryšio atitiktis](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Informacijos apie ryšių atitikties funkciją žr. ["Microsoft 365" ryšio atitiktis](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Licencijos reikalavimai: vartotojai, stebimi pagal ryšių strategijas, privalo turėti vieną iš šių veiksmų:
+Licencijos reikalavimai: vartotojai, stebimi pagal ryšių strategijas, turi turėti vieną iš šių:
 
 - "Microsoft 365 E5" atitikties licencija
-- "Office 365 Enterprise E3" licencija su išplėstinio atitikties papildinio
+- "Office 365 Enterprise E3" licencija su išplėstinės atitikties papildinį
 - "Office 365 Enterprise E5" prenumerata
 
-Jei neturite anksčiau ir norite išbandyti bendravimo atitiktį, **[Užsiregistruokite naudoti "Office 365 Enterprise E5" bandomąją versiją](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Jei neturite anksčiau nurodytų duomenų ir norite išbandyti ryšio atitiktį, **[prisiregistruokite naudoti "Office 365 Enterprise E5" bandomąją versiją.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Gali užtrukti iki 24 valandų, kol el. laiškai bus visiškai apdoroti strategijoje. Ryšiai su "Microsoft teams", "Yammer" ir trečiųjų šalių platformomis gali užtrukti iki 48 val., kad būtų visiškai apdoroti strategijoje.
+> Gali užtrukti iki 24 valandų, kad el. laiškai būtų visiškai apdorojami pagal strategiją. "Microsoft Teams", "Yammer" ir trečiųjų šalių platformų ryšiai gali užtrukti iki 48 valandų, kad būtų galima visiškai apdoroti strategiją.

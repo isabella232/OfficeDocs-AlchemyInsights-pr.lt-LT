@@ -1,8 +1,8 @@
 ---
-title: Atitikimo rezultatas
+title: Atitikties balas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785467"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817324"
 ---
-# <a name="compliance-score"></a>Atitikimo rezultatas
+# <a name="compliance-score"></a>Atitikties balas
 
-"Microsoft" atitikties įvertinimas (peržiūra) yra "Microsoft 365" funkcija, padedanti įvertinti organizacijos atitikties poziciją. Jis naudoja pagal riziką pagrįstą balą, pagrįstą veiksmais, susijusiais su atitikties veiksmais.   Atitikimo rezultatas yra supaprastinta [atitikties tvarkytuvo](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) versija ir yra paprastesnis būdas patikrinti savo atitikties poziciją ir atlikti veiksmus, kad jie būtų patobulinti. 
+"Microsoft" atitikties balas (peržiūra) yra "Microsoft 365" funkcija, padedanti išmatuoti organizacijos atitikties laikyseną. Ji naudoja rizika pagrįstą įvertinimą, atsižvelgiant į jūsų pažangą įgyvendinant su atitiktimi susijusius veiksmus.   Atitikties balas yra supaprastinta atitikties [tvarkytuvo versija](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) ir suteikia paprastesnį būdą patikrinti savo atitikties poziciją ir įgyvendinti veiksmus, kad jį patobulintų. 
 
-Visuotinis administratorius turi nustatyti reikiamas [teises](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) "Microsoft" atitikties centre, kad pasiektų atitikties balą.  Visos teisės, anksčiau sukonfigūruotos atitikties tvarkytuvui, nepereis į atitikties balą.
+Visuotinis administratorius turės nustatyti [](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) reikiamas teises "Microsoft" atitikties centre, kad būtų galima pasiekti atitikties balą.  Visos teisės, anksčiau sukonfigūruotos atitikties tvarkytuvui, nebus perkeliamos į atitikties balą.
 
-**Kaip pasiekti atitikties balą**
+**Norėdami pasiekti atitikties balą**
 
-1. Eikite į "Microsoft" 365 atitikties centrą ir **Prisijunkite** naudodami savo "Microsoft 365" visuotinio administratoriaus paskyrą.
+1. Eikite į "Microsoft 365" atitikties centrą **ir prisijunkite naudodami** savo "Microsoft 365" visuotinio administratoriaus paskyrą.
 
-2. Kairiojoje naršymo srityje pasirinkite **atitikties balą** . Tuomet turėtumėte matyti savo [atitikties taškų ataskaitų sritį su savo balu](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Kairiojoje **naršymo** srityje pasirinkite Atitikties balas. Tada turėtumėte matyti atitikties [balų ataskaitų sritį su savo rezultatu](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-**Daugiau informacijos apie**:
+**Daugiau informacijos apie:**
 
-- Nustatyti prieigos teises atitikties įvertinimui, ieškokite [suteikti vartotojams prieigą prie "Microsoft" 365 saugos & atitikties centrų](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Darbas su tobulinimo veiksmais pagal atitikties balą, žiūrėkite  [darbas su atitikties balu](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Kaip apskaičiuojamas atitikimo rezultatas, žiūrėkite [atitikties vertinimo metodiką](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Atitikties įvertinimas, palyginti su atitikties vadovu, ieškokite [ryšio su atitikties tvarkytuvu](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Prieigos teisių nustatymas atitikties balui žr. Vartotojų prieigos prie ["Microsoft 365" saugos & atitikties centrų.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Darbas su tobulinimo veiksmais atitikties bale, žr.  [Darbas su atitikties balu](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Kaip apskaičiuojamas atitikties balas, žr. [Atitikties balų metodika](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- Atitikties balas ir atitikties tvarkytuvas, žr. [Ryšys su atitikties tvarkytuvu](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 

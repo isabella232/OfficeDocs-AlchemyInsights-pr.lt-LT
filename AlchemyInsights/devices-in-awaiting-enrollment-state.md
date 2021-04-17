@@ -1,8 +1,8 @@
 ---
-title: Įrenginiai laukia registracijos būsenos
+title: Įrenginiai yra laukiama registracijos būsenos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730743"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815362"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Įrenginiai yra būsena "Laukiama registracijos"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Įrenginiai yra būsenoje Laukiama registracijos
 
-"Desktop Analytics" nėra šio įrenginio diagnostikos duomenų. 
+"Desktop Analytics" neturi diagnostikos duomenų šiam įrenginiui. 
 
-Ši problema gali kilti, nes neseniai įtraukėte įrenginį į paskirties rinkinį ir jis dar neišsiųstas. Taip pat gali būti, kad įrenginys netinkamai bendrauja su tarnyba, o Naujausi diagnostikos duomenys yra daugiau nei 28 dienų senumo.
+Ši problema gali kilti dėl to, kad neseniai įtraukėte įrenginį į paskirties rinkinį ir dar nesiuntė duomenų. Tai taip pat gali reikšti, kad įrenginys netinkamai bendrauja su tarnyba, o naujausi diagnostikos duomenys yra senesni nei 28 dienos.
 
-Įsitikinkite, kad įrenginys gali palaikyti ryšį su tarnyba. Daugiau informacijos ieškokite pabaigos [taškai](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Įsitikinkite, kad įrenginys gali bendrauti su tarnyba. Daugiau informacijos žr. [Galiniai punktai](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Daugiau informacijos apie laukiančių registracijos būseną ieškokite skyriuje [ryšių sveikatos stebėjimas](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Daugiau informacijos apie laukiančios registracijos būseną žr. [Ryšio sveikatos stebėjimas](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

@@ -2,7 +2,7 @@
 title: Vartotojų naikinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b1de72c37e53ed91000b2c7fc95fc27c5b9a8942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679890"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815443"
 ---
 # <a name="deleting-users"></a>Vartotojų naikinimas
 
-Jei norite iš karto užblokuoti vartotojų prieigą ir norite išsaugoti jų informaciją, peržiūrėkite [buvusio darbuotojo prieigos prie "Microsoft" 365 duomenų blokavimą](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).
+Jei norite iš karto blokuoti vartotojo prieigą ir norite išsaugoti informaciją, žr. Buvusio darbuotojo prieigos prie ["Microsoft 365" duomenų blokavimo.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)
   
-Jei tiesiog norite panaikinti vartotoją ir nesate susiję su bet kuriuo jų duomenimis, peržiūrėkite [savo organizacijos vartotojo naikinimą](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). Tai iškart atlaisvins licenciją.
+Jei tiesiog norite panaikinti vartotoją ir nesirūpinote jokiais jo duomenimis, [žr. Vartotojo naikinimas iš jūsų organizacijos](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). Tai iš karto atlaisvins jų licenciją.
   

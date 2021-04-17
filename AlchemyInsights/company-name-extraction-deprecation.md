@@ -1,8 +1,8 @@
 ---
-title: Įmonės pavadinimo išgavimo nuteistųjų
+title: Įmonės pavadinimo išgavimo nutraukimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817396"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Įmonės pavadinimo ištraukimo keitimas "SharePoint Online"
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Įmonės pavadinimo išgavimo pakeitimai "SharePoint Online"
 
-Nuo lapkričio 15 d., 2019, [pašalinsime įmonės pavadinimo perkėlimą iš "SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)". Įmonės pavadinimo ekstrahavimas "SharePoint" leidžia ieškos sistemai išskirti įmonės pavadinimus iš turinio pagal konkretų sąlygų rinkinį, naudojant iš anksto paruoštą žodyną arba naudojant įmonės intarpai arba įmonės išimčių sąrašus. Nors įmonės pavadinimo gavyba tapo pagrįsta sprendimu, kad būtų galima išvesti vieną ar kelis įmonės pavadinimus iš "SharePoint Online" turinio, tiek žodynas, tiek jo pagrindinių funkcijų rinkinys paseno.
+Nuo 2019 m. lapkričio 15 d. pašalinsime įmonės pavadinimo [gavimą iš "SharePoint Online".](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Įmonės pavadinimo išgavimas "SharePoint" leidžia ieškos sistemai išgauti įmonės pavadinimus iš turinio pagal tam tikrą sąlygų rinkinį naudojant iš anksto užpildytą žodyną arba naudojant sąrašus Įmonės įtraukimas arba Įmonės išimtys. Nors įmonės pavadinimo gavimas tapo sprendimu, kuriuo galima išgauti vieną ar daugiau įmonės pavadinimų iš turinio "SharePoint Online", žodynas ir jo pagrindinių funkcijų rinkinys tapo nebeaktualūs.
 
-- [Kaip sužinoti, ar įmonės pavadinimo gavyba įgalinta ypatybėje?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Kaip sužinoti, ar įgalinta ypatybės įmonės pavadinimo išskleidimo funkcija?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Kas nutinka, kai įmonės pavadinimo gavyba nepasenusi?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Kas nutinka, kai įmonės pavadinimo išgavimas nebenaudojamas?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Ar yra įmonės pavadinimo ištraukimo alternatyvų?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Ar yra įmonės pavadinimo išgavimo alternatyvų?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

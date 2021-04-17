@@ -1,8 +1,8 @@
 ---
-title: Kaip gauti pasirinktinio klaidų modulį, kai atsisiunčiamas pranešimo sekimas, ši klaida neatpažįstama?
+title: Gaunant pasirinktinį klaidų modulį, ši klaida neatpažįstama atsisiunčiant pranešimų sekimą?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731967"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815767"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Kaip gauti "pasirinktinio klaidų modulio neatpažįsta šios klaidos", kai atsiunčiamas pranešimo sekimas?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Gaunate "custom error module does not recognize this error" when downloading a message trace?
 
-Žinome apie problemą ir dirbate su pataisa.  Tuo tarpu pabandykite **išvalyti naršyklės talpyklą**arba naudoti "InPrivate" režimą, kad išspręstumėte šią problemą.
+Žinome apie šią problemą ir dirbame su pataisomis.  Tuo tarpu pabandykite išvalyti **naršyklės talpyklą arba** naudoti "InPrivate" režimą, kad išspręstų šią problemą.
