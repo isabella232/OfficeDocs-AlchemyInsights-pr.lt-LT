@@ -1,8 +1,8 @@
 ---
-title: Kaip įgalinti sklandžią SSO
+title: Kaip įjungti sklandžią SSO
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780535"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825739"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Kaip įgalinti sklandžią SSO
+# <a name="how-to-enable-seamless-sso"></a>Kaip įjungti sklandžią SSO
 
-Įgalinkite sklandžią SSO naudodami " [AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)".
+Įjunkite sklandų SSO per ["Azure AD Connect".](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
   
-Jei atliekate naują "Azure AD Connect" diegimą, pasirinkite [pasirinktinio diegimo kelią](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Vartotojo prisijungimo** puslapyje pasirinkite parinktį **įgalinti bendrąją autentifikacija** .
+Jei atliekate naują "Azure AD Connect" diegimą, pasirinkite [pasirinktinį diegimo kelią](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Puslapyje **Vartotojo prisijungimas pasirinkite** parinktį Įgalinti **bendrąją a prisijungimą.**
   
-Norėdami patikrinti, ar tinkamai įjungėte sklandžią SSO:
+Norėdami patikrinti, ar tinkamai įgalinote sklandžią SSO:
   
-1. Prisijunkite prie " [Azure Active Directory" administravimo centro](https://aad.portal.azure.com) kaip visuotinis administratorius.
+1. Prisijunkite prie ["Azure Active Directory" administravimo centro kaip](https://aad.portal.azure.com) visuotinis administratorius.
 
-2. Kairiojoje srityje pasirinkite " **Azure Active Directory** ".
+2. Kairiojoje **srityje pasirinkite "Azure Active Directory".**
 
-3. Patikrinkite, ar **įgalinta**sklandi Bendroji autentifikacija.
+3. Patikrinkite, ar vientisa bendroji a prisijungimo funkcija **įgalinta**.
 
-Jei norite sužinoti daugiau, peržiūrėkite ["Azure Active Directory" vientisas autentifikacijos: Greitas pasirengimas darbui](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Norėdami sužinoti daugiau, žr. ["Azure Active Directory Seamless Single Sign-On": greitas paleidimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

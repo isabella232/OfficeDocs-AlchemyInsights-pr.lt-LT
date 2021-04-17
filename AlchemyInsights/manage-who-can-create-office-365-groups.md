@@ -1,8 +1,8 @@
 ---
-title: Valdymas, kas gali kurti "Microsoft" 365 grupes
+title: "\"Microsoft 365\" grupių kūrimo valdymas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827044"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Valdymas, kas gali kurti "Microsoft" 365 grupes
+# <a name="manage-who-can-create-microsoft-365-groups"></a>"Microsoft 365" grupių kūrimo valdymas
 
-Pagal numatytuosius numatytuosius, bet kuris jūsų organizacijos asmuo gali kurti O365 grupes.
+Pagal numatytuosius nustatymus visi jūsų organizacijos nariai gali kurti "O365" grupes.
   
-Jei norite pakeisti, galite sukurti saugos grupę su "PowerShell", kuri riboja grupės kūrimą iki vartotojų pogrupio.
+Jei norite tai pakeisti, galite sukurti saugos grupę naudodami "PowerShell", kuri apriboja grupės kūrimą iki vartotojų pogrupio.
   
-Vykdykite nuoseklias instrukcijas čia: [valdykite, kas gali kurti "Microsoft" 365 grupes](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Vykdykite nuoseklias instrukcijas čia: ["Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) grupių kūrimo valdymas
   
 

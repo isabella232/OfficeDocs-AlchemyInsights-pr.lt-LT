@@ -2,7 +2,7 @@
 title: Negalima nustatyti arba peržiūrėti AllowSelfServicePurchase strategijos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735207"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826099"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Negalima nustatyti arba peržiūrėti AllowSelfServicePurchase strategijos
 
-Kai bandote nustatyti arba peržiūrėti AllowSelfServicePurchase strategiją, gaunate šį klaidos pranešimą:
+Bandant nustatyti arba peržiūrėti AllowSelfServicePurchase strategiją, rodomas toks klaidos pranešimas:
 
-*HandleError: nepavyko gauti produkto strategijos su strategijos ID "AllowSelfServicePurchase", ErrorMessage – esamas prisijungimas buvo uždarytas: įvyko netikėta klaida siunčiant.*
+*HandleError : nepavyko gauti produkto strategijos su PolicyId 'AllowSelfServicePurchase', ErrorMessage – pagrindinis ryšys buvo uždarytas: siunčiant įvyko netikėta klaida.*
 
-Taip gali būti dėl senesnės transportavimo lygmens saugos (TLS) versijos. Norėdami prijungti MSCommerce paslaugą, turite naudoti TLS 1,2 arba daugiau.  
+Taip gali būti dėl senesnės transportavimo lygmens saugos (TLS) versijos. Norėdami prijungti MSCommerce tarnybą, turite naudoti TLS 1.2 arba didesnę.  
 
-Pabandykite atlikti toliau nurodytus veiksmus, kad įgalintumėte/nustatytumėte TLS protokolą iki 1,2, patikrinti ir bandyti dar kartą.
- 1. "PowerShell" komandų eilutėje (PS C: \) įvesti šią komandą, kad TLS protokolas būtų nustatytas į 1,2 versiją:
+Pabandykite atlikti šiuos veiksmus, kad įgalintumėte / nustatykite TLS protokolą kaip 1.2, patikrinkite ir bandykite dar kartą.
+ 1. "PowerShell" komandinėje eilutėje (PS C: įveskite šią komandą, kad \) TLS protokolą nustatytų kaip 1.2 versiją:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Patikrinkite naudojamą TLS protokolą (-us), naudodami šią komandą:
+2. Patikrinkite, ar naudojamas (-i) TLS protokolas (-ai), naudodami šią komandą:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Jei reikia, iš naujo bandykite gauti arba atnaujinti komandas.
+3. Iš naujo bandykite komandas Gauti arba Naujinti, jei reikia.
 

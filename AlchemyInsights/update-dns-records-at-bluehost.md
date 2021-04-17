@@ -1,8 +1,8 @@
 ---
-title: DNS įrašo naujinimas Bluehost
+title: DNS įrašų naujinimas "Bluehost"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ae896816dfe1308e4f1e455fce563e72f2b9617
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657725"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827656"
 ---
-# <a name="update-dns-records-at-bluehost"></a>DNS įrašo naujinimas Bluehost
+# <a name="update-dns-records-at-bluehost"></a>DNS įrašų naujinimas "Bluehost"
 
-Naudokite toliau pateiktus saitus, kad galėtumėte atnaujinti DNS įrašus.
+Norėdami atnaujinti DNS įrašus, naudokite toliau nurodytus saitus.
 
-- [DNS įra ų kūrimas "Bluehost"](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
-- [Pasirinktinių DNS įra ų pridėjimas arba redagavimas "Office 365"](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [DNS įrašų kūrimas "Bluehost"](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [Pasirinktinių DNS įrašų įtraukimas arba redagavimas „Office 365“](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

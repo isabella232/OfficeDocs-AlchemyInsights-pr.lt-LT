@@ -2,7 +2,7 @@
 title: "\"SharePoint\" teisių klaidos"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826603"
 ---
 # <a name="sharepoint-permissions-errors"></a>"SharePoint" teisių klaidos
 
-Yra daug scenarijų, kurie gali paraginti vieną iš šių žinučių. Dažniausiai vartotojo arba administratoriaus teisės sukonfigūruotos netinkamai arba nesukonfigūruotos. 
+Yra daug scenarijų, kurie gali paraginti vieną iš šių pranešimų. Dažniausiai vartotojo arba administratoriaus teisės sukonfigūruotos netinkamai arba iš viso nesukonfigūruotas. 
 
-Daugiau informacijos ieškokite "prieiga uždrausta", "SharePoint Online" ir "OneDrive" verslui "klaidų", "[SharePoint Online" ir "OneDrive" verslui, turite teisę pasiekti šią svetainę "arba" vartotojas nerastas kataloge](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Daugiau informacijos žr.["Prieiga uždrausta", "Jums](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)reikia teisės pasiekti šią svetainę" arba "Vartotojas nerastas kataloge" klaidų "SharePoint Online" ir "OneDrive" verslui .

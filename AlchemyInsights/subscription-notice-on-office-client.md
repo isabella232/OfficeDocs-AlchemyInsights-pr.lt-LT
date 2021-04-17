@@ -2,7 +2,7 @@
 title: Prenumeratos pranešimas "Office" kliente
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: f51d1fe248be9f8b71dc682851622ae6ed171f71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5682ed0496f17ab4a119aa9608d5e05de7bf060e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773675"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827944"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Prenumeratos pranešimas "Office" kliente?
 
-Atrodo, kad jūsų "Office" kliente matote pranešimą, susijusį su jūsų prenumeratos būsena. Informacijos apie tai, kaip išspręsti šią problemą, rasite šiame straipsnyje: [kai atidarau "Microsoft 365" taikomąją programą, rodomas prenumeratos pranešimas](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Atrodo, kad "Office" kliente matote pranešimą, susijusį su prenumeratos būsena. Informacijos, kaip išspręsti problemą, galite rasti šiame straipsnyje: Atidarius ["Microsoft 365"](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx) taikomąją programą, rodomas prenumeratos pranešimas
   
-Jei jūsų prenumerata atnaujinta, galbūt paspausite laikiną problemą, dėl kurios nepavyko suaktyvinti "Office". Yra paprastų veiksmų, kurių galite imtis, Norėdami išvengti šių žinučių, pvz., patikrinti savo kompiuterio laiką, vykdyti "Office" kaip administratorius ir prisijungti, kad galėtumėte aktyvinti. Šiame straipsnyje rasite išsamius veiksmus šioms problemoms išspręsti: [nelicencijuoto produkto ir aktyvinimo klaidų](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Jei jūsų prenumerata yra naujausia, galėjote išspręsti laikiną problemą, dėl kurios nepavyko suaktyvinti "Office". Yra paprastų veiksmų, kurių galite imtis, kad išvengtumėte šių pranešimų, pvz., patikrinti kompiuterio laiką, paleisti "Office" administratoriaus teisėmis ir prisijungti, kad suaktyvintumėte. Išsamius veiksmus, kaip išspręsti šias problemas, rasite šiame straipsnyje: [Nelicemifikuotos produkto ir aktyvinimo klaidos.](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)
   
-Jei tai nepadeda, susisiekite su mumis toliau pateiktais saitais ir mums bus malonu jums padėti.
+Jei jie jums neveikia, susisiekite su mumis naudodami toliau nurodytus saitus ir mielai padėsime.
