@@ -1,8 +1,8 @@
 ---
-title: "\"Office 365\", skirtas \"Enterprise\" planams"
+title: "\"Office 365 for Enterprise\" planas"
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 37fee31a4c2fa0dcf9661376533dfbf7b1035971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c07782c97f527564a0d0e804a855e142fc40dac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729447"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829564"
 ---
-# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="d9ba6-102">"Office 365", skirtas "Enterprise" planams</span><span class="sxs-lookup"><span data-stu-id="d9ba6-102">Office 365 for Enterprise plan</span></span>
+# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="6bf18-102">"Office 365 for Enterprise" planas</span><span class="sxs-lookup"><span data-stu-id="6bf18-102">Office 365 for Enterprise plan</span></span>
 
-<span data-ttu-id="d9ba6-103">Yra keli skirtingi planai, kuriuos galima naudoti su "Office 365" verslui.</span><span class="sxs-lookup"><span data-stu-id="d9ba6-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="d9ba6-104">" [Office 365" palyginimas su įmonės planais ir kainodara](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="d9ba6-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
+<span data-ttu-id="6bf18-103">"Office 365 for Enterprise" galimi keli skirtingi planai.</span><span class="sxs-lookup"><span data-stu-id="6bf18-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="6bf18-104">[Palyginkite "Office 365 for Enterprise" planus ir kainas.](https://products.office.com/business/compare-more-office-365-for-business-plans)</span><span class="sxs-lookup"><span data-stu-id="6bf18-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
