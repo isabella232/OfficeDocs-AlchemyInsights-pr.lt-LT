@@ -1,8 +1,8 @@
 ---
-title: "\"Microsoft teams\" šalinimas arba išjungimas"
+title: "\"Microsoft Teams\" pašalinimas arba išjungimas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: b40446cb7ed0c979c9b5bda3c7ff421f314d39a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f50c22952a26b62b1af01a5a94ae334d7aff529
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776458"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828808"
 ---
-# <a name="remove-or-turn-off-microsoft-teams"></a>"Microsoft teams" šalinimas arba išjungimas
+# <a name="remove-or-turn-off-microsoft-teams"></a>"Microsoft Teams" pašalinimas arba išjungimas
 
-Ar jūsų organizacija dar nėra pasiruošusi [bendradarbiauti arba dirbti nuotoliniu būdu su "Microsoft teams"](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?
+Ar jūsų organizacija dar nepasirengusi [bendradarbiauti arba dirbti nuotoliniu būdu su "Microsoft Teams"?](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)
 
-- Kaip [pašalinti "Microsoft teams"](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
+- Kaip pašalinti ["Microsoft Teams".](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81)
 
-- [Kaip įjungti arba išjungti visos organizacijos komandas](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).
+- [Kaip įjungti arba išjungti "Teams" visoje organizacijoje.](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up)
 
-- [Neleiskite komandoms automatiškai paleisti "Window 10", pašalindami ją iš paleisties meniu](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).
+- [Neleisti "Teams" automatiškai paleisti 10 lange pašalinant ją iš paleisties meniu.](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps)
 
-- [Norėdami valdyti "Microsoft teams" įdiegtį, naudokite grupės strategiją](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).
+- [Naudodami grupės strategiją valdykite "Microsoft Teams" diegimą.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)
 
-- [Naudokite grupės strategiją, kad "Microsoft teams" nepaleistumėte automatiškai po įdiegimo](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+- [Naudokite grupės strategiją, kad "Microsoft Teams" nebūtų paleidžiama automatiškai įdiegus](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
-- [Bendrinama kompiuterio ir VDI aplinkoje su "Microsoft teams"](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+- [Bendrinamos kompiuterio ir VDI aplinkos su "Microsoft Teams".](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)

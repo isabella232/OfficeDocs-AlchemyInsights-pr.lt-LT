@@ -2,7 +2,7 @@
 title: "\"SharePoint\" perkėlimas su SPMT"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 33864a5ee90d5947d0a9154f585a502b053ff176
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719889"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828305"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>"SharePoint" perkėlimas su SPMT
 
-Skirtas naudoti perkeliant nuo mažiausio failų rinkinio iki didelio masto įmonės perkėlimo, "SharePoint" perkėlimo įrankis leidžia perduoti informaciją debesyje ir pasinaudoti naujausiomis bendradarbiavimo, žvalgybos ir saugos sprendimais su "Microsoft 365".
+Skirtas naudoti perkėlime nuo mažiausio failų rinkinio iki didelio masto įmonės perkėlimo, "SharePoint" perkėlimo įrankis leis perkelti informaciją į debesį ir pasinaudoti naujausiais bendradarbiavimo, įžvalgų ir saugos sprendimais naudojant "Microsoft 365".
 
 - [„SharePoint“ perkėlimo įrankio atsisiuntimas ir diegimas](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [Įprastų SPMT problemų ir klaidų šalinimas](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [SPMT diegimo problemų sprendimas](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [Dažniausiai pasitaikančių SPMT problemų ir klaidų trikčių šalinimas](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [SPMT diegimo trikčių šalinimas](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
