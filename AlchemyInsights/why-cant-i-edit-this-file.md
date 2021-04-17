@@ -2,7 +2,7 @@
 title: Kodėl negaliu redaguoti šio failo?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664574"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824155"
 ---
-# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="0c112-102">Kodėl negaliu redaguoti šio failo?</span><span class="sxs-lookup"><span data-stu-id="0c112-102">Why can’t I edit this file?</span></span>
+# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="d82d6-102">Kodėl negaliu redaguoti šio failo?</span><span class="sxs-lookup"><span data-stu-id="d82d6-102">Why can’t I edit this file?</span></span>
 
-<span data-ttu-id="0c112-103">Jei dokumentas, darbalapis arba pateiktis užblokuotas redaguoti ir jų negalima redaguoti "Windows" kompiuterio taikomosiose programose, gali būti, kad failą redaguoja kitas asmuo arba jie paimti ir užrakinti failai.</span><span class="sxs-lookup"><span data-stu-id="0c112-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
+<span data-ttu-id="d82d6-103">Jei dokumentas, darbalapis arba pateiktis užrakinta redaguoti ir jo negalima redaguoti "Windows" kompiuterio programose, gali būti, kad failą redaguoja kitas asmuo arba jis užrakinamas.</span><span class="sxs-lookup"><span data-stu-id="d82d6-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
 
-<span data-ttu-id="0c112-104">Greitai Peržiūrėkite kai kurias priežastis, [Kodėl galbūt negalėsite redaguoti failo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="0c112-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="d82d6-104">Greitai peržiūrėkite kai kurias [priežastis, kodėl gali nepavykti redaguoti failo.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)</span><span class="sxs-lookup"><span data-stu-id="d82d6-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
