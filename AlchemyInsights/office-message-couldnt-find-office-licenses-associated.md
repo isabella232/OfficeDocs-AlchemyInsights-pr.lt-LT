@@ -1,8 +1,8 @@
 ---
-title: "\"Microsoft 365\" taikomųjų programų pranešimas – Nepavyko aptikti susietų \"Office\" licencijų"
+title: "\"Microsoft 365\" programų pranešimas – nepavyko rasti susietų \"Office\" licencijų"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802785"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836215"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>"Microsoft 365" taikomųjų programų pranešimas – Nepavyko aptikti susietų "Office" licencijų
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>"Microsoft 365" programų pranešimas – nepavyko rasti susietų "Office" licencijų
 
 Norėdami pašalinti šią klaidą, atlikite šiuos veiksmus:
 
@@ -39,10 +39,10 @@ Jei problema išlieka, bandykite atlikti šiuos veiksmus:
 
 - Nustatykite „Office“ aktyvinimo būseną iš naujo. Žr. [Iš naujo nustatyti „Microsoft 365“ programas, skirtas „Enterprise Activation“](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neužblokuoja "Microsoft" 365 taikomųjų programų prieigos prie interneto. 
+- Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, kad jie neblokuoja "Microsoft 365" programų prieigos prie interneto. 
 
 Jei reikia papildomų problemų sprendimo patarimų, žr.:
 
 [Nelicencijuoto produkto ir aktyvinimo klaidos „Office“](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-["Microsoft" 365 URL ir IP adresų diapazonai](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+["Microsoft 365" URL ir IP adresų diapazonai](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

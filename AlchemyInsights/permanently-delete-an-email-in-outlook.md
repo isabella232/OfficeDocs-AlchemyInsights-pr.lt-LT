@@ -1,8 +1,8 @@
 ---
-title: Laiško visam laikui naikinimas programoje "Outlook"
+title: El. laiško naikinimas visam laikui programoje "Outlook"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771693"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836107"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Laiško visam laikui naikinimas programoje "Outlook"
+# <a name="permanently-delete-an-email-in-outlook"></a>El. laiško naikinimas visam laikui programoje "Outlook"
 
-- Aplanko Gauta rodinyje ilgai paspauskite laišką ir matysite šiukšlinę gali būti piktograma. Bakstelėkite šią piktogramą, kad panaikintumėte pranešimą.
+- Aplanko Gauta rodinyje ilgai paspauskite pranešimą ir matysite šiukšlinės piktogramą. Bakstelėkite šią piktogramą, kad panaikinsite pranešimą.
 
-- Taip pat galite nustatyti "naikinti" kaip perbraukimo parinktį (**Parametrai – > perbraukimo parinktys**); tada pirštu braukite nuo norimo panaikinti pašto. 
+- Taip pat galite nustatyti "delete" kaip perbraukimo parinktį (**Parametrai -> Perbraukimo parinktys**); tada pirštu braukite ant laiško, kurį norite panaikinti. 
 
-- Norėdami panaikinti laišką iš atidarytų laiškų rodinio, bakstelėkite šiukšlinę, esančią ekrano viršuje. Naikinti laiškai bus perkelti į aplanką Šiukšlinė. 
+- Norėdami panaikinti pranešimą atidarytame el. pašto rodinyje, ekrano viršuje bakstelėkite šiukšlinės piktogramą. Panaikinti laiškai bus perkelti į aplanką Šiukšlinė. 
 
-**Kaip visam laikui panaikinti laišką**
+**El. laiško naikinimas visam laikui**
 
-- Pasiekite aplanką Šiukšliadėžė naudodami pašto rodinį, bakstelėkite paskyros piktogramą (3 eilutes) ir bakstelėkite aplanką Šiukšlinė.
+- Pasiekite šiukšlinės aplanką pašto rodinyje, bakstelėkite paskyros piktogramą (3 eilutės) ir bakstelėkite šiukšlinės aplanką.
 
-- Panaikinkite atskirus laiškus arba kelių laiškų žymėjimą ir panaikinkite juos iš čia; jie bus panaikinti visam laikui.
+- Panaikinkite atskirus el. laiškus arba pažymėkite kelis el. laiškus ir panaikinkite juos čia; jie bus panaikinti visam laikui.

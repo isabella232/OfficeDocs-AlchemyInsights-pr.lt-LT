@@ -1,8 +1,8 @@
 ---
-title: Palikti funkcijos užklausą arba atsiliepimą apie taikomųjų programų dizainą
+title: Palikite funkcijos užklausą arba atsiliepimą apie programos dizainą
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676530"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836539"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Palikti funkcijos užklausą arba atsiliepimą apie taikomųjų programų dizainą
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Palikite funkcijos užklausą arba atsiliepimą apie programos dizainą
 
-Dėkojame, kad dalinatės savo mintimis, nes mes ir toliau dirbame su "Outlook". " *UserVoice* " yra forumas, kuriame galite palikti atsiliepimus ir balsuoti dėl kitų idėjų.  
+Džiaugiamės, kad bendrinote savo mintis, kai toliau dirbame su "Outlook". *"UserVoice"* yra forumas, kuriame galite palikti atsiliepimą ir balsuoti už kitų idėjas.  
 
-Norėdami išeiti iš mūsų idėjos: 
+Norėdami palikti mums idėją: 
 
-**Parametrai > žinynas & atsiliepimų > rodo funkciją > Paskelbkite idėją** 
+**Parametrai > žinyno & atsiliepimai > Pasiūlyti funkciją > Skelbti idėją** 
 
-**Rūpinasi, kaip rodomas jūsų vardas/elektroninis paštas?**
+**Žiūrėkite, kaip rodomas jūsų vardas / el. paštas?**
 
-Kai įtraukiate komentarą į esamą funkcijų užklausą, taikomoji programa automatiškai įtrauks jūsų vardą arba elektroninio pašto adresą iš jūsų pirminės paskyros, nustatytos taikomojoje programoje. Norėdami pasirinkti, ką rodo pavadinimas, turite pateikti **naują** funkcijų užklausą. 
+Kai įtraukiate komentarą į esamą funkcijų užklausą, programa automatiškai užpildys jūsų vardą arba el. pašto adresą iš pirminės paskyros, nustatytos programoje. Norėdami pasirinkti, kuris pavadinimas rodomas, turite pateikti **naujos funkcijos** užklausą. 
 
-Užklausos pateikimas yra paprastas 3 etapų procesas. Trečiajame ir paskutiniame puslapyje matysite savo elektroninio pašto adreso eilutę (būtina) ir savo vardo eilutę. Čia galite pasirinkti, kaip bus rodomas jūsų vardas arba jūs galite pateikti idėją anonimiškai. 
+Pateikti užklausą yra paprastas 3 veiksmų procesas. Trečiame ir paskutiniame puslapyje matysite savo el. pašto adreso eilutę (būtina) ir savo vardo eilutę. Čia galite pasirinkti, kaip bus rodomas jūsų vardas, arba galite pateikti idėją anonimiškai. 
 
-**Pastaba:** Taip pat gali tekti pakeisti šiame puslapyje automatiškai paruoštą elektroninio pašto adresą. Jei jūsų vardas nustatytas tam tikru būdu, atsižvelgiant į jūsų elektroninio pašto kliento parametrus, jūsų parametruose gali būti nepaisoma komentarų pateikimo į anonimiškumą. 
+**Pastaba:** Taip pat gali tekti pakeisti, koks el. pašto adresas automatiškai užpildomas šiame puslapyje. Jei jūsų vardas nustatytas tam tikru būdu el. pašto kliento parametruose, jūsų parametrai gali nepaisyti atsiliepimų pateikimo į anoniminį. 

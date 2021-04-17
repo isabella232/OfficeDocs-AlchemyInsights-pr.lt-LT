@@ -1,28 +1,29 @@
 ---
-title: Reikia pagalbos dėl el. pašto siuntimo apribojimų?
+title: Reikia pagalbos su el. laiškų siuntimo apribojimais?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 7f563df313c869d18c3e4240d271c649a74914af
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
-ms.translationtype: MT
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357867"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836287"
 ---
-# <a name="need-help-with-email-sending-limits"></a>Reikia pagalbos dėl el. pašto siuntimo apribojimų?
+# <a name="need-help-with-email-sending-limits"></a>Reikia pagalbos su el. laiškų siuntimo apribojimais?
 
-Žemiau yra **by-design siuntimo apribojimai** vykdomi paslauga. Daugiau informacijos apie šias ribas yra dokumentuojama [čia](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
+Žemiau pateikta **dizainu paremti siuntimo apribojimai** taikomi paslaugai. Daugiau informacijos apie šiuos apribojimus pateikta [čia](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
 
-- Norėdami neskatinti neprašytų masinių pranešimų pristatymo, taikome kiekvieno vartotojo **gavėjų tarifo apribojimus visiems siunčiamiems ir vidiniams pranešimams**. Visose SKU ribos yra **10 000 gavėjų per dieną**.  Klientai, kuriems reikia siųsti teisėtą masinį komercinį el. laišką (pvz., klientų informacinius biuletenius), turėtų naudoti trečiųjų šalių teikėjus, kurie specializuojasi šiose paslaugose.
-    - **Pastaba:** pasiekus gavėjo tarifo ribą, pranešimai negali būti siunčiami iš pašto dėžutės, kol gavėjų, kurie buvo išsiųsti pranešimai per pastarąsias 24 valandas, skaičius nukris žemiau ribos. Vartotojas negalės siųsti pranešimų iki to momento.
-- Pranešimų dažnio limitas **30 pranešimų per minutę** taikomas visiems SKU. Tai nustato, kiek pranešimų vartotojas gali siųsti iš savo Exchange Online abonemento per nurodytą laikotarpį.
-- Maksimalus gavėjų, leidžiamų vieno el. laiško **laukuose Kam, Kopija ir Nematoma kopija, skaičius** visuose SKU yra **1000 gavėjų.** Norėdami tinkinti šią ribą, eikite [čia](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
+- Norint apriboti neužsakytų masinių pranešimų pristatymą, kiekvienam vartotojui taikome **gavėjų kiekio apribojimus visiems siunčiamiems ir vidiniams pranešimams**. Visuose SKU, šis apribojimas yra **10 000 gavėjų per dieną**.  Klientai, kuriems reikia siųsti teisėtus komercinius masinius el. laiškus (pvz., naujienlaiškius klientams), turėtų naudoti trečiųjų šalių tiekėjus, kurie specializuojasi tokių paslaugų teikime.
+    - **Pastaba**: Pasiekus gavėjų kiekio apribojimo limitą, pranešimų iš šios pašto dėžutės siųsti negalima, kol gavėjų, kuriems siunčiami pranešimai per pastarąsias 24 val., skaičius netaps mažesniu už limitą. Vartotojas negalės siųsti pranešimų, kol taip neatsitiks.
+- Pranešimų kiekio apribojimas, **30 pranešimų per minutę**, taikomas visuose SKU. Tai nustato, kiek pranešimų vartotojas gali siųsti iš savo „Exchange Online“ paskyros per nurodytą laikotarpį.
+- **Didžiausias leistinas gavėjų skaičius laukuose Kam:, Kopija: ir Nematoma kopija** vienam el. laiškui, visuose SKU, yra **1 000 gavėjų**. Norėdami tinkinti šį apribojimą, eikite [čia](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).

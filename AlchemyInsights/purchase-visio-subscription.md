@@ -2,7 +2,7 @@
 title: „Visio“ prenumeratos įsigijimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662360"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835891"
 ---
 # <a name="purchase-visio-subscription"></a>„Visio“ prenumeratos įsigijimas
 
-Administratoriai gali įsigyti savo organizacijos "Visio" prenumeratą iš **"Microsoft" 365 administravimo centro**.
+Administratoriai gali įsigyti savo organizacijos "Visio" prenumeratą iš **"Microsoft 365" administravimo centro**.
 
-1. Eikite į puslapį **atsiskaitymo**  >  **[pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433)** , kad peržiūrėtumėte galimas produktų paketą savo organizacijai.
+1. Eikite į **puslapį Atsiskaitymo**  >  **[pirkimo paslaugos,](https://go.microsoft.com/fwlink/p/?linkid=868433)** kad būtų galima peržiūrėti galimas prenumeratas, kurias pirks jūsų organizacija.
 
 2. Raskite „Visio“ planus ieškodami „Visio“.
 
