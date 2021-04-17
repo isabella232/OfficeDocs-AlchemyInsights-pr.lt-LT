@@ -1,8 +1,8 @@
 ---
-title: "\"Microsoft 365\" taikomųjų programų taisymas Atsiprašome, yra laikino serverio problemų pranešimas"
+title: "\"Microsoft 365\" programų taisymo atsiprašome, mes turime laikinų serverio problemų pranešimą"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758253"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835279"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>"Microsoft 365" taikomųjų programų taisymas pranešimas "Atsiprašome, iškilo laikinų serverio problemų"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>"Microsoft 365" programų taisymo pranešimas "Atsiprašome, kyla laikinų serverio problemų"
 
-Gavę šį pranešimą, išbandykite šiuos veiksmus:
+Jei gaunate šį pranešimą, bandykite atlikti šiuos veiksmus:
 
-1. Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neužblokuoja interneto prieigos prie "Microsoft" 365 taikomųjų programų. Peržiūrėkite [URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja interneto prieigos prie "Microsoft 365" programų. Žr. [URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Eikite į **pradėti**  >  **vykdyti**ir įveskite **Services. msc**. Įsitikinkite, kad visos toliau nurodytos tarnybos veikia:
-    - Tinklo prijungtų įrenginių Automatinis nustatymas
+2. Eikite **į Pradėti**  >  **vykdyti**, tada įveskite **services.msc**. Įsitikinkite, kad visos šios tarnybos veikia:
+    - Tinklo prijungtų įrenginių automatinis nustatymas
     - Tinklo sąrašo tarnyba
-    - Tinklo vietos informacijos suvokimas
-    - "Windows" įvykių registras
+    - Tinklo vietos žinomumas
+    - "Windows" įvykių žurnalas
 
-Jei viena iš šių tarnybų nepaleista, bandykite ją paleisti. Jei kilo problemų paleidžiant tarnybą, vykdykite šią komandą atidarydami komandinę eilutę naudodami didesnes teises:
+Jei viena iš šių tarnybų neveikia, pabandykite ją paleisti. Jei kyla problemų pradedant tarnybą, vykdykite šią komandą atidarydami komandinę eilutę su didesnėmis teisėmis:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Baigę šią komandą, iš naujo paleiskite kompiuterį.
+Kai ši komanda bus baigta, paleiskite kompiuterį iš naujo.
 
-Išsamesnės informacijos ieškokite ["Atsiprašome, negalime prisijungti prie jūsų abonemento. Bandykite dar kartą vėliau "klaida, kai suaktyvinate](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Išsamios informacijos ieškokite ["Atsiprašome, negalime prisijungti prie jūsų paskyros. Bandykite dar kartą vėliau" klaida, kai suaktyvinsite](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

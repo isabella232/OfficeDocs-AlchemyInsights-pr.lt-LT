@@ -1,8 +1,8 @@
 ---
-title: "\"Yammer\" – \"Microsoft\" 365 grupių valdymas "
+title: "\"Yammer\" – \"Microsoft 365\" grupių valdymas "
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668895"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834091"
 ---
 # <a name="manage-microsoft-365-groups-in-yammer"></a>"Microsoft 365" grupių valdymas "Yammer"
 
-Štai keletas atsakymų į Dažniausias "Yammer" "Microsoft" 365 grupių problemas.
+Toliau pateikiami keli atsakymai į dažniausias "Microsoft 365" grupių problemas "Yammer".
 
-* **"Microsoft" 365 grupės** yra bendrinama darbo sritis, skirta el. paštui, pokalbiams, failams ir įvykiams, kuriuose grupės nariai gali bendradarbiauti. "Yammer" "Microsoft" 365 grupės turi daug pranašumų nei neprijungtos "Yammer" grupės. Pavyzdžiui, galite kurti ir pagrindinio kompiuterio įvykius, atkurti panaikintas grupes, naudoti dinaminį grupės narystę, automatinį archyvavimą ir prieiti prie bendrinamų išteklių, pvz., "SharePoint", "OneNote" ir "Planner".
+* **"Microsoft 365"** grupės yra bendrinama el. pašto, pokalbių, failų ir įvykių, kuriuose grupės nariai gali bendradarbiauti, darbo sritis. Naudojant "Yammer", "Microsoft 365" grupės turi daug pranašumų nei neprijungtos "Yammer" grupės. Pavyzdžiui, galite kurti ir valdyti gyvus įvykius, atkurti panaikintas grupes, naudoti dinaminę grupės narystę, automatinį archyvą ir pasiekti bendrinamus išteklius, pvz., "SharePoint", "OneNote" ir "Planner".
 
-* Galite sužinoti, ar "Yammer" grupė yra susieta su "Microsoft" 365 grupėmis, kai matote " **Office 365" išteklių** sekciją ("SharePoint", "OneNote", "Planner"), esančią dešiniojoje grupės naršymo srityje. Jei ištekliai nepasiekiami, patikrinkite šiuos dalykus.
+* Galite sužinoti, ar "Yammer" grupė yra prijungta prie "Microsoft 365" grupių, kai dešinėje grupės naršymo srityje matote skyrių **"Office 365"** ištekliai ("Sharepoint", "OneNote", "Planner"). Jei išteklių nėra, patikrinkite toliau nurodytus dalykus.
 
-  1. "Yammer" tinklas turi būti 1 nuomotojuje: 1 tinklo konfigūracija. Norėdami patikrinti, ar esate 1:1 konfigūracijoje, naudokite **tinklo perkėlimo įrankį** , kaip aprašyta dalyje [tinklo perkėlimas – sujungti kelis "Yammer" tinklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. "Yammer" tinklas turi būti 1 nuomotojo:1 tinklo konfigūracijoje. norėdami patikrinti, ar esate 1:1 konfigūracijoje, naudokite tinklo perkėlimo įrankį, kaip aprašyta dalyje Tinklo perkėlimas [– kelių "Yammer" tinklų sutraukimo .](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) 
 
-  2. Raskite **tinklo administratorių, saugos parametrą**ir įsitikinkite, kad " **Office 365" tapatybė** yra vykdoma "Yammer" vartotojams.
+  2. Eikite **į Tinklo administratorius, Saugos parametras** ir įsitikinkite, **kad "Office 365"** tapatybė yra įgalinti "Yammer" vartotojams.
 
-Daugiau informacijos apie "Microsoft" 365 grupes ir "Yammer" rasite " [Yammer" ir "Microsoft 365" grupėse](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Informacijos apie grupės valdymą ieškokite [grupės valdymas "Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) "
+Daugiau informacijos apie "Microsoft 365" grupes ir "Yammer", žr. ["Yammer" ir "Microsoft 365 Groups".](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) Informacijos apie grupės valdymą žr. Grupės [valdymas "Yammer"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

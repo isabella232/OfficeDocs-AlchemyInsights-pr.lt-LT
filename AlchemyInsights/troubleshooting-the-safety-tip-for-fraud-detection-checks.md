@@ -1,8 +1,8 @@
 ---
-title: Saugos patarimo dėl sukčiavimo aptikimo patikrų trikčių diagnostika
+title: Apgaulės aptikimo tikrinimo saugos patarimo trikčių šalinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658418"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834739"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Saugos patarimo dėl sukčiavimo aptikimo patikrų trikčių diagnostika
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Apgaulės aptikimo tikrinimo saugos patarimo trikčių šalinimas
 
-Jei gaunate saugos patarimą, kuriame rašoma: "siuntėjas nesugebėjo atlikti apgaulės aptikimo patikrų ir gali būti ne tas, kas jie atrodo", tada siuntėjui nepavyko perduoti DKIM arba SPF autentifikavimo. Geriausias būdas išspręsti šią problemą yra tas, kad siuntėjas turi sau leisti. Jei siuntėjas siunčia jūsų vardu, turite juos įgalioti, įtraukdami siuntėjo IP adresą į savo SPF įrašą.
+Jei gaunate saugos patarimą, kuriame rašoma: "Siuntėjui nepavyko aptikti sukčiavimo ir jis gali būti ne toks, kaip jis atrodo", siuntėjui nepavyko atlikti DKIM arba SPF autentifikavimo patikrų. Geriausias būdas išspręsti šią problemą yra leisti siuntėjui. Jei siuntėjas siunčia jūsų vardu, turite jį autorizuoti įtraukdami siuntėjo IP adresą į SAVO SPF įrašą.
   
-Sužinokite daugiau informacijos apie " [Red (įtartiną) saugos patarimo dėl sukčiavimo aptikimo trikčių diagnostiką](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
+Daugiau [informacijos žr. Raudono (įtartinos) saugos patarimo trikčių](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) šalinimas, kad būtų galima aptikti apgaulės atvejus.
   
 Štai keletas kitų saitų, kurie gali padėti:
   
-- [Kaip "Microsoft" naudoja siuntėjo strategijos programą (SPF), kad užkirstų kelią "spoofing"](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Kaip "Microsoft" naudoja siuntėjų strategijos sistemą (SPF), kad išvengtų sąsojimo](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- ["SPF" nustatymas, padėsianti apsisaugoti nuo apsimetimo kitu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [SPF, kad būtų užkirstas kelias spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

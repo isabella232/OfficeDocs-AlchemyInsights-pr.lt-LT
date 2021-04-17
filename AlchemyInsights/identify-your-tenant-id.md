@@ -1,8 +1,8 @@
 ---
-title: Nuomotojo ID identifikavimas
+title: Nustatykite savo nuomotojo ID
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834055"
 ---
-# <a name="identify-your-tenant-id"></a>Nuomotojo ID identifikavimas
+# <a name="identify-your-tenant-id"></a>Nustatykite savo nuomotojo ID
 
-Raskite savo "Microsoft" 365 organizacijos ID (nuomotojo ID) "Azure" administravimo centre.
+Raskite savo "Microsoft 365" organizacijos ID (nuomotojo ID) "Azure" administravimo centre.
 
-1. [Puslapyje Ypatybės](https://aka.ms/AzurePropertiesPage)eikite į lauką **katalogo ID** .
+1. Puslapyje [Ypatybės eikite](https://aka.ms/AzurePropertiesPage)į **lauką Katalogo ID.**
 
-2. Nukopijuokite ID, kiek reikia.
+2. Nukopijuokite ID, jei reikia.
 
-Daugiau informacijos rasite ["Microsoft 365" organizacijos ID radimas](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+Daugiau informacijos žr. ["Microsoft 365" organizacijos ID radimas](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).

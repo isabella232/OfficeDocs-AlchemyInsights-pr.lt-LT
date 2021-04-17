@@ -1,8 +1,8 @@
 ---
-title: "\"Microsoft teams\" tiriamoji patirtimi"
+title: "\"Microsoft Teams Exploratory\" patirtis"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480727"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833803"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>"Microsoft teams" tiriamoji patirtimi
+# <a name="microsoft-teams-exploratory-experience"></a>"Microsoft Teams Exploratory" patirtis
 
-- Kas yra " [teams" tiriamoji](https://docs.microsoft.com/microsoftteams/teams-exploratory)? "Microsoft teams" tiriamoji patirtimi leidžia jūsų organizacijos vartotojams, kurie nėra licencijuoti "teams", inicijuoti žvalgomąsias komandas. Daugiau informacijos ieškokite [kas yra komandos tiriamoji patirtimi](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Kiek laiko trunka "teams" tiriamoji funkcija?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) "Microsoft teams" tiriamoji patirtimi galima be papildomų išlaidų 12 mėnesių (nuo pirminio vartotojų registravimosi) ir papildomų 30 dienų atidėjimo laikotarpio.
-- Kaip administratorius galite [atnaujinti vartotojus](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) iš "teams" bandomosios licencijos įsigydami prenumeratą, kurioje yra "teams", pašalindami iš vartotojo "teams" ir naujai įsigytos licencijos priskyrimas.
-- Daugiau informacijos ieškokite " [teams" bandomosios licencijos valdymas](https://docs.microsoft.com/microsoftteams/teams-exploratory).
+- Kas yra ["Teams Exploratory"?](https://docs.microsoft.com/microsoftteams/teams-exploratory) "Microsoft Teams Exploratory" funkcijos leidžia jūsų organizacijos vartotojams, kurie neturi "Teams" licencijų, inicijuoti "Teams" tiriamąją patirtį. Daugiau informacijos žr. ["Teams Exploratory" funkcijose.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Kiek laiko trunka "Teams" tiriamoji patirtis?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) "Microsoft Teams" tiriamoji patirtis pasiekiama be papildomo mokesčio 12 mėnesių (nuo pradinio vartotojo registracijos) ir papildomo 30 dienų atidėjimo laikotarpio.
+- Kaip administratorius, galite atnaujinti vartotojus iš ["Teams Exploratory"](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licencijos įsigydami prenumeratą, kuri apima "Teams", pašalindami "Teams" tiriamąją prenumeratą iš vartotojo ir priskirdami naujai įsigytą licenciją.
+- Daugiau informacijos žr. ["Teams Exploratory" licencijos valdymas.](https://docs.microsoft.com/microsoftteams/teams-exploratory)

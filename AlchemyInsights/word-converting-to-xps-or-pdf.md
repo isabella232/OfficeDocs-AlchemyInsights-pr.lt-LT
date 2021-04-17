@@ -1,8 +1,8 @@
 ---
-title: "\"Word\" konvertavimas į XPS arba PDF"
+title: "\"Word\" – konvertavimas į XPS arba PDF"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794847"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834199"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>"Word" dokumento konvertavimo į XPS arba PDF problemas sprendimas
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>"Word" dokumento konvertavimo į XPS arba PDF problemų sprendimas
 
-Štai keletas įprastų problemų sprendimų. 
+Toliau pateikiami keli dažniausiai pasitaikančių problemų sprendimai. 
 
 **Norėdami eksportuoti arba įrašyti "Word" dokumentą kaip PDF arba XPS:**
 
-1. "Word" dokumente pasirinkite **failo**  >  **eksportavimas**  >  **kurti PDF/XPS dokumentą**  >  **kurti PDF/XPS**.
+1. "Word" dokumente pasirinkite **Failo**  >  **eksportavimas**  >  **Kurti PDF/XPS dokumentą Kurti**  >  **PDF/XPS.**
 
-2. Lange **publikuoti kaip PDF arba XPS** , raskite failo vietą, modifikuokite failo vardą, jei norite, ir pasirinkite **publikuoti**.
+2. Lange **Publikuoti kaip PDF arba XPS** raskite failo vietą, modifikuokite failo vardą, jei norite, tada pasirinkite **Publikuoti**.
 
-**Norėdami patobulinti "Word" sugeneruoto PDF failo paveikslėlio kokybę:**
+**Norėdami pagerinti "Word" sugeneruoto PDF failo paveikslėlio kokybę:**
 
-1. "Word" dokumente pasirinkite **failo**  >  **eksportavimas**  >  **kurti PDF/XPS dokumentą**  >  **kurti PDF/XPS**.
+1. "Word" dokumente pasirinkite **Failo**  >  **eksportavimas**  >  **Kurti PDF/XPS dokumentą Kurti**  >  **PDF/XPS.**
 
-2. Lange **publikuoti kaip PDF arba XPS** pasirinkite **parinkčių**  >  **optimizavimą vaizdo kokybei**. Nustatykite kitas norimas parinktis ir pasirinkite **gerai**. 
+2. Lange **Publikuoti kaip PDF arba XPS** pasirinkite Parinktys   >  **Optimizuokite vaizdo kokybę.** Nustatykite kitas norimas parinktis ir pasirinkite **Gerai**. 
 
-**Norėdami įtraukti pritaikymo neįgaliesiems žymes prie PDF failo, sugeneruoto programoje "Word":**
+**Norėdami į "Word" sugeneruotą PDF failą įtraukti pritaikymo neįgaliesiems žymių:**
  
-1. "Word" dokumente pasirinkite **failo**  >  **eksportavimas**  >  **kurti PDF/XPS dokumentą**  >  **kurti PDF/XPS**.
+1. "Word" dokumente pasirinkite **Failo**  >  **eksportavimas**  >  **Kurti PDF/XPS dokumentą Kurti**  >  **PDF/XPS.**
 
-2. Lange **publikuoti kaip PDF arba XPS** **pasirinkite**  >  **pritaikymo neįgaliesiems dokumento struktūros žymes**. Nustatykite kitas norimas parinktis ir pasirinkite **gerai**.
+2. Lange Publikuoti **kaip PDF arba XPS** pasirinkite Parinktys dokumento struktūros žymės,   >  **kad būtų galima naudoti pritaikymą neįgaliesiems.** Nustatykite kitas norimas parinktis ir pasirinkite **Gerai**.
 
-Daugiau informacijos apie parinktis konvertuoti "Office" failus į XPS arba PDF, rasite [Įrašyti arba konvertuoti į PDF arba XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Daugiau informacijos apie "Office" failų konvertavimo į XPS arba PDF parinktis žr. [Įrašymas arba konvertavimas į PDF arba XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).

@@ -1,8 +1,8 @@
 ---
-title: 'Komandos: pokalbių naikinimas'
+title: "\"Teams\": naikinti pokalbį"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736800"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835099"
 ---
-# <a name="delete-a-chat-in-microsoft-teams"></a>Pokalbio naikinimas "Microsoft teams"
+# <a name="delete-a-chat-in-microsoft-teams"></a>Pokalbio naikinimas programoje "Microsoft Teams"
 
-Jei norite sužinoti daugiau apie tai, kaip atskiri vartotojai gali redaguoti arba Naikinti laiškus, peržiūrėkite [išsiųstų laiškų redagavimą arba naikinimą programoje "teams](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263)". 
+Norėdami sužinoti daugiau apie tai, kaip atskiri vartotojai gali redaguoti arba naikinti laiškus, [peržiūrėkite Išsiųsto pranešimo redagavimas arba naikinimas "Teams".](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263) 
 
-Naikinimo parinktys apima šiuos dalykus:
+Naikinimo parinktys apima šias parinktis:
 
-- Vartotojai gali panaikinti savo laišką bet kurioje "teams" vietoje.
-- Komandos savininkai gali pasirinkti, ar vartotojai gali redaguoti arba naikinti savo nuomotoją, ar panaikinti bet kurį pranešimą, paskelbtą viešuosiuose kanaluose.
-- Vartotojai gali slėpti arba nutildyti privačias pokalbių temas (temas, kurios pasirodo spustelėjus pokalbio piktogramą).
+- Vartotojai gali panaikinti savo pranešimus bet kurioje "Teams" vietoje.
+- Komandos savininkai gali pasirinkti, ar vartotojai gali redaguoti ar naikinti savo nuomotoją, ar panaikinti bet kokį pranešimą, registruotą viešuosiuose kanaluose.
+- Vartotojai gali slėpti arba nutildyti savo privačias pokalbių temas (temas, rodomas spustelėjus pokalbio piktogramą).
 
-**Pastaba:** Galimybė panaikinti privačias pokalbių temas vis dar yra Peržvelgi ir gali būti stebima " [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads)". 
+**Pastaba:** Galimybė panaikinti privačias pokalbių temas vis dar peržiūrima ir gali būti sekama ["UserVoice".](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads) 

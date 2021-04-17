@@ -1,8 +1,8 @@
 ---
-title: Atnaujinkite DNS įrašus ir atnaujinkite savo svetainę su dabartiniu išteklių nuomos teikėju
+title: ATNAUJINKITE DNS įrašus, kad jūsų svetainė būtų su dabartiniu išteklių nuomos teikėju
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709294"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834487"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atnaujinkite DNS įrašus ir atnaujinkite savo svetainę su dabartiniu išteklių nuomos teikėju
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>ATNAUJINKITE DNS įrašus, kad jūsų svetainė būtų su dabartiniu išteklių nuomos teikėju
 
-"Microsoft 365" viešosios žiniatinklio svetainės perkėlimo į kitą išteklių nuomos teikėją proceso dalis tikriausiai reikės atlikti domeno įrašų keitimą.
+Perkeldami "Microsoft 365" viešąją žiniatinklio svetainę į kitą išteklių nuomos teikėją, tikriausiai reikės pakeisti domeno įrašus.
   
-1. Administravimo centre eikite į **sąrankos** \> **domenai** ir pasirinkite domeno vardą, kurį norite keisti.
+1. Administravimo centre eikite  į \> **Domenų sąranka** ir pasirinkite norimą keisti domeno vardą.
 
-2. Į savo svetainę sulygiuoja informaciją su nauju išteklių nuomos teikėju.
+2. Įveskite informaciją, kuri sulygiuota su jūsų svetaine su naujuoju išteklių nuomos teikėju.
 
-Jei norite sužinoti daugiau, peržiūrėkite [DNS įrašų naujinimas, kad žiniatinklio svetainė liktų su dabartiniu išteklių nuomos teikėju](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).
+Norėdami sužinoti daugiau, [žr. DNS įrašų naujinimas, kad jūsų svetainė būtų su dabartiniu išteklių nuomos teikėju.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Jei norite sužinoti daugiau apie viešosios svetainės nutraukimą, skaitykite " [SharePoint Online" viešosios](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)svetainės.
+Norėdami sužinoti daugiau apie viešosios svetainės nutraukimą, žr. ["SharePoint Online" viešosios svetainės, kurios turi būti nutrauktos.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

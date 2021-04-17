@@ -1,8 +1,8 @@
 ---
-title: "\"Microsoft teams\" teisės"
+title: "\"Microsoft Teams\" teisės"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777720"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833767"
 ---
-# <a name="microsoft-teams-permissions"></a>"Microsoft teams" teisės
+# <a name="microsoft-teams-permissions"></a>"Microsoft Teams" teisės
 
-"Microsoft teams" yra du vartotojų vaidmenys: savininkas ir narys. Pagal numatytuosius parametrus vartotojui, sukūrusiam naują komandą, suteikiamas savininko statusas. Be to, savininkai ir nariai gali turėti kanalo Moderatoriaus galimybes (jei yra nustatytas nuosaikiai). Jei komanda sukurta iš esamos "Microsoft" 365 grupės, teisės yra paveldėtos. Daugiau informacijos rasite:
+"Microsoft Teams" apima du vartotojų vaidmenis: savininką ir narį. Pagal numatytuosius parametrus vartotojui, sukūrusiam naują komandą, suteikiamas savininko statusas. Be to, savininkai ir nariai gali turėti kanalo moderatoriaus galimybes (jei nustatytas saikingas režimas). Jei komanda sukuriama iš esamos "Microsoft 365" grupės, teisės paveldimos. Daugiau informacijos rasite:
 
-- [Komandos savininkų ir narių priskyrimas "Microsoft teams"](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- ["Microsoft teams" taikomųjų programų teisės ir svarstymai](https://docs.microsoft.com/microsoftteams/app-permissions)
-- ["Teams" kanalų teisių nustatymas](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Komandos savininkų ir narių priskyrimas "Microsoft Teams"](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- ["Microsoft Teams" programų teisės ir aspektai](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Kanalų svečio teisių nustatymas "Teams"](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
