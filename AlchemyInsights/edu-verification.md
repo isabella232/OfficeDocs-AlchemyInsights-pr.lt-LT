@@ -1,29 +1,30 @@
 ---
-title: EDU patikra
+title: EDU patvirtinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205275"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814380"
 ---
-# <a name="edu-verification"></a>EDU patikra
+# <a name="edu-verification"></a>EDU patvirtinimas
 
-Daugeliu atvejų akademiniai tinkamumo prašymai apdorojami per 24–48 valandas. Kai kurioms užklausoms gali reikėti nuodugniau peržiūrėti ir gali praeiti iki 10 darbo dienų. Kai baigsite, išsiųsime el. laišką su jūsų mokyklos tinkamumo būsena.
+Daugeliu atvejų akademinės tinkamumo užklausos apdorojamos per 24–48 valandas. Kai kurioms užklausoms gali reikėti išsamesnės peržiūros ir apdoroti gali užtrukti iki 10 darbo dienų. Baigus, išsiųsime el. laišką su jūsų mokyklos tinkamumo būsena.
 
-**Svarbu, kad** Jei prieš įeidami į domeną išėjote iš patvirtinimo vedlio, bet kuriuo metu nemokamo bandomojo bandymo metu galite [bet kada atnaujinti akademinio patvirtinimo vedlį.](https://go.microsoft.com/fwlink/p/?linkid=2135255)
+**Svarbu** Jei prieš įvesdami domeną išėjote iš patvirtinimo vediklio, galite tęsti akademinio [patvirtinimo](https://go.microsoft.com/fwlink/p/?linkid=2135255) vediklį bet kuriuo metu per nemokamą bandomąją versiją.
 
-Jei norite patikrinti domeno būseną, eikite į ["Microsoft 365" administravimo centrą](https://go.microsoft.com/fwlink/p/?linkid=2024339). Pagrindiniame puslapyje slinkite į apačią ir raskite **atsiskaitymo** kortelę. **Atsiskaitymo** kortelė nurodo patvirtinimo proceso būseną (patvirtinta, laukiama, atmesta arba pridedate domeną).
+Jei norite patikrinti domeno būseną, eikite į ["Microsoft 365" administravimo centrą](https://go.microsoft.com/fwlink/p/?linkid=2024339). Pagrindiniame puslapyje slinkite į apačią ir raskite **atsiskaitymo** kortelę. Atsiskaitymo **kortelė** nurodo patvirtinimo proceso būseną (patvirtinta, laukiama, atmesta arba įtraukia domeną).
 
-Jei jūsų užklausa atmesta, [žr. Ką dabar daryti?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Jei jūsų užklausa atmetama, žr. [Mano mokykla neatitinka reikalavimų. Ką daryti dabar?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

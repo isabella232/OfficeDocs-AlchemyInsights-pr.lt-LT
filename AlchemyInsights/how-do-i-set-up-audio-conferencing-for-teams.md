@@ -2,9 +2,10 @@
 title: Kaip nustatyti garso konferencijas „Teams“
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,31 +13,31 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811068"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>„Microsoft Teams“ – garso konferencijos
 
-Reikia pagalbos įjungiant arba nustatant garso konferencijas „Microsoft Teams“? Ar šis vartotojas buvo neseniai sukurtas?  Jei taip, reikės palaukti nuo 2 iki 24 val., kol parametrai įsigalios.
+Reikia pagalbos įjungiant arba nustatant garso [konferencijas "Microsoft Teams"?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Ar vartotojas neseniai buvo sukurtas? Jei taip, turėsite kelias valandas, kol įsigalios parametrai.
 
-Norėdami patikrinti, ar vartotojas yra licencijuotas naudoti garso konferencijas ir turi numatytąjį mokamą numerį, atlikite šiuos veiksmus:
+Jei [licencijos buvo įsigytos](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), patikrinkite, ar vartotojas licencijuotas naudoti "Microsoft 365" garso konferencijas ir turi numatytąjį mokamų mokesčių numerį.
 
 1. Eikite į [Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ir pasirinkite reikiamą vartotoją.
 
 2. Atsižvelgdami į administravimo centro versiją, pasirinkite **Licencijos ir programos** arba spustelėkite **Redaguoti** dalyje **Produktų licencijos**.
 
-3. Įsitikinkite, kad vartotojas turi pasirinktas šias licencijas: **Garso konferencijos, „Microsoft Teams“** ir **Internetinė „Skype“ verslui (2 planas)**.
+3. Patvirtinkite, kad vartotojas turi pasirinktas **"Microsoft 365" garso konferencijų, "Microsoft Teams"** ir internetinės **"Skype" verslui licencijas (2 planas).** Jei **"Microsoft 365"** garso konferencijų licencijos nėra, pirmiausia [turėsite įsigyti licencijų](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) papildinį.
 
-4. Dalyje **Administravimo centrai** spustelėkite **Rodyti viską**, tada spustelėkite **Teams**.
+4. Dalyje **Administravimo centrai** spustelėkite **Rodyti viską**, tada – **„Teams“**.
 
-5. **„Microsoft Teams“ administravimo centre**spustelėkite **Senstelėjęs portalas**.
+5. **„Microsoft Teams“ administravimo centre** spustelėkite **Senstelėjęs portalas**.
 
-6. **„Skype“ verslui administravimo centre**spustelėkite **garso konferencijos**, tada – **Vartotojai**.
+6. **„Skype“ verslui administravimo centre** spustelėkite **garso konferencijos**, tada – **Vartotojai**.
 
 7. Pasirinkite reikiamą vartotoją ir patikrinkite, ar vartotojas turi **numatytąjį mokamą numerį**.
 
-Jei reikia daugiau informacijos, žr. [Skambinimo planai](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) arba skambinkite „Microsoft Commerce Billing“ komandai, kuri padės išspręsti su licencijavimu susijusius klausimus.
+Jei reikia daugiau pagalbos įsigyjant **"Microsoft Audio Conferencing"** licencijas, skambinkite į ["Microsoft" atsiskaitymo palaikymo tarnybą](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).

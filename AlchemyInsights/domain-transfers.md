@@ -2,34 +2,32 @@
 title: Domenų perkėlimai
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783979"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814885"
 ---
 # <a name="domain-transfers"></a>Domenų perkėlimai
 
-- [Kaip perkelti „Microsoft“ įsigytą domeną į kitą teikėją po 60 dienų](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+[Kaip perkelti „Microsoft“ įsigytą domeną į kitą teikėją po 60 dienų](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-    - Nors įsigyti „Microsoft“ domenai nepalaiko NS įrašų keitimo, apsvarstykite galimybę [atnaujinti savo svetainės DNS įrašus](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) užuot perkėlę domeno registravimą žiniatinklio išteklių nuomotojui.
+- Atkreipkite dėmesį, kad "Microsoft" įsigyto domeno negalima perkelti tarp "Microsoft 365" nuomotojų.
+- Nors "Microsoft" įsigyti domenai nepalaiko NS įrašų keitimo, verčiau atnaujinkite savo svetainės [DNS](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) įrašus, o ne perkelkite domeno registraciją į žiniatinklio pagrindinį kompiuterį.
 
-- „Microsoft“ įsigyto domeno negalima perkelti tarp „Microsoft 365“ nuomotojų. 
+Pasirinktinius domenus galima [patikrinti ir naudoti su "Microsoft 365".](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
 
-    - Tačiau galima perkelti trečiosios šalies domeną tarp „Microsoft 365“ nuomotojų [pašalinant domeną iš vieno nuomotojo](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide), tada patvirtinant domeną kitame nuomotojuje.
+- Trečiosios šalies pasirinktinių domenų registracijos arba atsiskaitymo negalima perkelti į "Microsoft".
 
-- Trečiosios šalies domenų registravimas ar atsiskaitymas negali būti perkelti į „Microsoft“.
-
-    - Tačiau pasirinktinius domenus galima [patvirtinti ir naudoti su „Microsoft 365“](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- Onmicrosoft.com pradinių numatytųjų domenų negalima perkelti arba pervardyti.
+Onmicrosoft.com numatytųjų domenų negalima perkelti arba pervardyti.
