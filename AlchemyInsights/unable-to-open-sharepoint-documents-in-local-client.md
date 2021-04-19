@@ -1,25 +1,26 @@
 ---
-title: Nepavyksta atidaryti SharePoint dokumentų vietiniame kliente
+title: Nepavyksta atidaryti "Sharepoint" dokumentų vietiniame kliente
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
-ms.translationtype: HT
+ms.openlocfilehash: c08f119b878b5a9e0987f5440e17f43f3a6cc8ef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44841079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830437"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a><span data-ttu-id="38a21-102">Nepavyksta atidaryti SharePoint dokumentų vietiniame kliente</span><span class="sxs-lookup"><span data-stu-id="38a21-102">Unable to open SharePoint documents in local client</span></span>
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a><span data-ttu-id="24855-102">Nepavyksta atidaryti "SharePoint" dokumentų vietiniame kliente</span><span class="sxs-lookup"><span data-stu-id="24855-102">Unable to open SharePoint documents in local client</span></span>
 
-<span data-ttu-id="38a21-103">Kartais gali būti sunku atidaryti "Office" failus ir dokumentus iš "SharePoint" arba "OneDrive" iš vietinių "Office" klientų.</span><span class="sxs-lookup"><span data-stu-id="38a21-103">At times you may have difficulty opening Office files and documents from SharePoint or OneDrive from your local Office clients.</span></span>
+<span data-ttu-id="24855-103">Kartais gali kilti problemų atidarant "Office" failus ir dokumentus iš "SharePoint" arba "OneDrive" iš vietinių "Office" klientų.</span><span class="sxs-lookup"><span data-stu-id="24855-103">At times you may have difficulty opening Office files and documents from SharePoint or OneDrive from your local Office clients.</span></span>
 
-- [<span data-ttu-id="38a21-104">Nepavyksta atidaryti "Office" failų iš "SharePoint" arba "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="38a21-104">Can't open Office files from SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+- [<span data-ttu-id="24855-104">Negalite atidaryti "Office" failų iš "SharePoint" arba "OneDrive"</span><span class="sxs-lookup"><span data-stu-id="24855-104">Can't open Office files from SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)

@@ -2,43 +2,44 @@
 title: 'Internetinė „Outlook“: atsakymų „Išvykęs“ siuntimas'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 2122726c0503ee8ed8331cbbfd3bbe884e690a0e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 2aa47f7da34c1039925d12a51b4f906d6333abaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743281"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826936"
 ---
-# <a name="outlook-on-the-web-send-out-of-office-replies"></a><span data-ttu-id="2c228-102">Internetinė „Outlook“: atsakymų „Išvykęs“ siuntimas</span><span class="sxs-lookup"><span data-stu-id="2c228-102">Outlook on the web: Send out-of-office replies</span></span>
+# <a name="outlook-on-the-web-send-out-of-office-replies"></a><span data-ttu-id="08b6a-102">Internetinė „Outlook“: atsakymų „Išvykęs“ siuntimas</span><span class="sxs-lookup"><span data-stu-id="08b6a-102">Outlook on the web: Send out-of-office replies</span></span>
 
-<span data-ttu-id="2c228-103">\*\*Automatinių atsakymų nustatymas internetinėje „Outlook“ \*\*.</span><span class="sxs-lookup"><span data-stu-id="2c228-103">**Set auto replies in Outlook on the web**</span></span>
+<span data-ttu-id="08b6a-103">**Automatinių atsakymų nustatymas internetinėje „Outlook“**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-103">**Set auto replies in Outlook on the web**</span></span>
 
-1. <span data-ttu-id="2c228-104">[Prisijunkite prie internetinės „Outlook“](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="2c228-104">[Sign in to Outlook on the web](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+1. <span data-ttu-id="08b6a-104">[Prisijunkite prie internetinės „Outlook“](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="08b6a-104">[Sign in to Outlook on the web](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
 
-2. <span data-ttu-id="2c228-105">Puslapio viršuje spustelėkite **Parametrai > Peržiūrėti visus „Outlook“ parametrus > Paštas > Automatiniai atsakymai**.</span><span class="sxs-lookup"><span data-stu-id="2c228-105">At the top of the page, click **Settings > View all Outlook settings > Mail > Automatic replies**.</span></span>
+2. <span data-ttu-id="08b6a-105">Puslapio viršuje spustelėkite **Parametrai > Peržiūrėti visus „Outlook“ parametrus > Paštas > Automatiniai atsakymai**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-105">At the top of the page, click **Settings > View all Outlook settings > Mail > Automatic replies**.</span></span>
 
-3. <span data-ttu-id="2c228-106">Pasirinkite perjungiklį **Įjungti automatinius atsakymus**.</span><span class="sxs-lookup"><span data-stu-id="2c228-106">Select the **Turn on automatic replies** toggle.</span></span>
+3. <span data-ttu-id="08b6a-106">Pasirinkite perjungiklį **Įjungti automatinius atsakymus**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-106">Select the **Turn on automatic replies** toggle.</span></span>
 
-4. <span data-ttu-id="2c228-107">Pažymėkite žymės langelį **Siųsti atsakymus tik šiuo laikotarpiu**, tada įveskite pradžios ir pabaigos laiką.</span><span class="sxs-lookup"><span data-stu-id="2c228-107">Select the **Send replies only during a time period** check box, and enter a start and end time.</span></span> <span data-ttu-id="2c228-108">Jei laikotarpio nenustatysite, automatinis atsakymas liks įjungtas, kol neišjungsite spustelėdami perjungiklį **Automatiniai atsakymai įjungti**.</span><span class="sxs-lookup"><span data-stu-id="2c228-108">If you don't set a time period, your automatic reply remains on until you turn it off by clicking the **Automatic replies on** toggle.</span></span>
+4. <span data-ttu-id="08b6a-107">Pažymėkite žymės langelį **Siųsti atsakymus tik šiuo laikotarpiu**, tada įveskite pradžios ir pabaigos laiką.</span><span class="sxs-lookup"><span data-stu-id="08b6a-107">Select the **Send replies only during a time period** check box, and enter a start and end time.</span></span> <span data-ttu-id="08b6a-108">Jei laikotarpio nenustatysite, automatinis atsakymas liks įjungtas, kol neišjungsite spustelėdami perjungiklį **Automatiniai atsakymai įjungti**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-108">If you don't set a time period, your automatic reply remains on until you turn it off by clicking the **Automatic replies on** toggle.</span></span>
 
-5. <span data-ttu-id="2c228-109">Pažymėkite žymės langelį ties kiekviena iš šių parinkčių, kuri jus domina:</span><span class="sxs-lookup"><span data-stu-id="2c228-109">Select the check box for any of the following options that you're interested in:</span></span>
-    - <span data-ttu-id="2c228-110">**Blokuoti mano kalendorių šiuo laikotarpiu**</span><span class="sxs-lookup"><span data-stu-id="2c228-110">**Block my calendar for this period**</span></span>
-    - <span data-ttu-id="2c228-111">**Automatiškai atmesti naujus kvietimus šiuo laikotarpiu**</span><span class="sxs-lookup"><span data-stu-id="2c228-111">**Automatically decline new invitations for events that occur during this period**</span></span>
-    - <span data-ttu-id="2c228-112">**Atmesti ir atšaukti mano susitikimų šiuo laikotarpiu**</span><span class="sxs-lookup"><span data-stu-id="2c228-112">**Decline and cancel my meetings during this period**</span></span>
+5. <span data-ttu-id="08b6a-109">Pažymėkite žymės langelį ties kiekviena iš šių parinkčių, kuri jus domina:</span><span class="sxs-lookup"><span data-stu-id="08b6a-109">Select the check box for any of the following options that you're interested in:</span></span>
+    - <span data-ttu-id="08b6a-110">**Blokuoti mano kalendorių šiuo laikotarpiu**</span><span class="sxs-lookup"><span data-stu-id="08b6a-110">**Block my calendar for this period**</span></span>
+    - <span data-ttu-id="08b6a-111">**Automatiškai atmesti naujus kvietimus šiuo laikotarpiu**</span><span class="sxs-lookup"><span data-stu-id="08b6a-111">**Automatically decline new invitations for events that occur during this period**</span></span>
+    - <span data-ttu-id="08b6a-112">**Atmesti ir atšaukti mano susitikimų šiuo laikotarpiu**</span><span class="sxs-lookup"><span data-stu-id="08b6a-112">**Decline and cancel my meetings during this period**</span></span>
 
-6. <span data-ttu-id="2c228-113">Lango apačioje esančiame lauke įveskite pranešimą, kurį norite siųsti, kai būsite išvykę.</span><span class="sxs-lookup"><span data-stu-id="2c228-113">In the box at the bottom of the window, type a message to send to people during the time you're away.</span></span> <span data-ttu-id="2c228-114">Jeigu norite, galite naudoti formatavimo parinktis lauko viršuje, kad pakeistumėte teksto šriftą ir spalvą arba tinkintumėte pranešimą kitais būdais.</span><span class="sxs-lookup"><span data-stu-id="2c228-114">If you like, you can use the formatting options at the top of the box to change the font and color of the text or customize your message in other ways.</span></span>
+6. <span data-ttu-id="08b6a-113">Lango apačioje esančiame lauke įveskite pranešimą, kurį norite siųsti, kai būsite išvykę.</span><span class="sxs-lookup"><span data-stu-id="08b6a-113">In the box at the bottom of the window, type a message to send to people during the time you're away.</span></span> <span data-ttu-id="08b6a-114">Jeigu norite, galite naudoti formatavimo parinktis lauko viršuje, kad pakeistumėte teksto šriftą ir spalvą arba tinkintumėte pranešimą kitais būdais.</span><span class="sxs-lookup"><span data-stu-id="08b6a-114">If you like, you can use the formatting options at the top of the box to change the font and color of the text or customize your message in other ways.</span></span>
 
-7. <span data-ttu-id="2c228-115">Jei norite, kad ne jūsų organizacijos siuntėjai gautų automatinius atsakymus, pažymėkite žymės langelį **Siųsti atsakymus organizacijai nepriklausantiems siuntėjams**.</span><span class="sxs-lookup"><span data-stu-id="2c228-115">If you want senders outside your organization to get automatic replies, select the check box for **Send replies outside your organization**.</span></span>
+7. <span data-ttu-id="08b6a-115">Jei norite, kad ne jūsų organizacijos siuntėjai gautų automatinius atsakymus, pažymėkite žymės langelį **Siųsti atsakymus organizacijai nepriklausantiems siuntėjams**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-115">If you want senders outside your organization to get automatic replies, select the check box for **Send replies outside your organization**.</span></span>
 
-8. <span data-ttu-id="2c228-116">Kai baigsite, lango viršuje spustelėkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="2c228-116">When you're done, click **Save** at the top of the window.</span></span>
+8. <span data-ttu-id="08b6a-116">Kai baigsite, lango viršuje spustelėkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-116">When you're done, click **Save** at the top of the window.</span></span>
 
-<span data-ttu-id="2c228-117">Jei nenustatėte automatinių atsakymų siuntimo laikotarpio (4 veiksmas), turite juos išjungti rankiniu būdu.</span><span class="sxs-lookup"><span data-stu-id="2c228-117">If you didn't set a time period for automatic replies (step 4), you'll need to turn them off manually.</span></span> <span data-ttu-id="2c228-118">Norėdami išjungti automatinius atsakymus, prisijunkite prie internetinės „Outlook“, spustelėkite **Parametrai > Peržiūrėti visus parametrus > Paštas > Automatiniai atsakymai**, tada spustelėkite perjungiklį **Automatiniai atsakymai įjungti**.</span><span class="sxs-lookup"><span data-stu-id="2c228-118">To turn off automatic replies, sign in to Outlook on the web, click **Settings > View full settings > Mail > Automatic replies** and then click the **Automatic replies on** toggle.</span></span>
+<span data-ttu-id="08b6a-117">Jei nenustatėte automatinių atsakymų siuntimo laikotarpio (4 veiksmas), turite juos išjungti rankiniu būdu.</span><span class="sxs-lookup"><span data-stu-id="08b6a-117">If you didn't set a time period for automatic replies (step 4), you'll need to turn them off manually.</span></span> <span data-ttu-id="08b6a-118">Norėdami išjungti automatinius atsakymus, prisijunkite prie internetinės „Outlook“, spustelėkite **Parametrai > Peržiūrėti visus parametrus > Paštas > Automatiniai atsakymai**, tada spustelėkite perjungiklį **Automatiniai atsakymai įjungti**.</span><span class="sxs-lookup"><span data-stu-id="08b6a-118">To turn off automatic replies, sign in to Outlook on the web, click **Settings > View full settings > Mail > Automatic replies** and then click the **Automatic replies on** toggle.</span></span>
