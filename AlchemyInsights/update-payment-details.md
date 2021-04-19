@@ -2,21 +2,22 @@
 title: Kredito kortelės informacijos atnaujinimas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720073"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830329"
 ---
 # <a name="update-credit-card-information"></a>Kredito kortelės informacijos atnaujinimas
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720073"
 
 Jei kilo problemų dėl puslapio įkėlimo, bandykite atidaryti tinklalapį kitoje naršyklėje arba bandykite atidaryti puslapį privačiame naršyklė lange, pvz., naršyklės „Microsoft Edge“ lange „InPrivate“ lange arba „Google Chrome“ inkognito lange. 
 
-Daugiau informacijos žr. [Kredito kortelės įtraukimas, naujinimas arba šalinimas „Microsoft 365“ verslui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ir [Kredito kortelės ir banko sąskaitos trikčių šalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Daugiau informacijos žr. [Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

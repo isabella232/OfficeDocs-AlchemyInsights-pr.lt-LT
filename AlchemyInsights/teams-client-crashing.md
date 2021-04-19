@@ -2,21 +2,22 @@
 title: Genda „Teams“ klientas?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354060"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826279"
 ---
 # <a name="teams-client-crashing"></a>Genda „Teams“ klientas?
 
@@ -26,19 +27,19 @@ Jei jūsų „Teams“ klientas genda, bandykite atlikti šiuos veiksmus:
 
 - Įsitikinkite, kad visi ["Microsoft 365" URL ir adresų diapazonai](https://docs.microsoft.com/microsoftteams/connectivity-issues) yra pasiekiami.
 
-- Prisijunkite naudodami nuomotojo administratoriaus abonementą ir patikrinkite [savo tarnybos sveikatos ataskaitų sritį,](https://docs.microsoft.com/office365/enterprise/view-service-health) kad patikrintumėte, ar nėra atjungimo ar tarnybos pablogėjimo.
+- Prisijunkite naudodami savo nuomotojo administratoriaus paskyrą ir patikrinkite tarnybos sveikatos ataskaitų [sritį,](https://docs.microsoft.com/office365/enterprise/view-service-health) kad įsitikintų, jog nėra atėjimo ar tarnybos blogėjimo.
 
-- "Teams" taikomosios programos pašalinimas ir diegimas iš naujo (saitas)
-    - Raskite aplanką %appdata%\Microsoft\teams\ savo kompiuteryje ir panaikinkite visus tame kataloge esančius failus.
-    - [Atsisiųskite ir įdiekite "Teams" programą](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ir, jei įmanoma, įdiekite "Teams" kaip administratorius (dešiniuoju pelės mygtuku spustelėkite "Teams" diegimo programą ir pasirinkite "Paleisti administratoriaus teisėmis", jei yra).
+- "Teams" taikomosios programos šalinimas ir diegimas iš naujo (saitas)
+    - Eikite į aplanką %appdata%\Microsoft\teams\ kompiuteryje ir panaikinkite visus to katalogo failus.
+    - [Atsisiųskite ir įdiekite "Teams" programą](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ir, jei įmanoma, įdiekite "Teams" kaip administratorius (dešiniuoju pelės mygtuku spustelėkite "Teams" diegimo programą ir pasirinkite "Vykdyti administratoriaus teisėmis", jei yra).
 
-Jei jūsų komandos klientas vis dar genda, ar galite atkurti problemą? Jei taip:
+Jei jūsų "Teams" klientas vis dar sugenda, ar galite atkurti problemą? Jei taip:
 
-1. Norėdami užfiksuoti veiksmus, atlikite veiksmus.
+1. Norėdami užfiksuoti veiksmus, naudokite veiksmų rašytuvą.
     - Uždarykite visas nereikalingas arba konfidencialias taikomąsias programas.
-    - Paleiskite veiksmų rašytuvą ir atkurkite problemą, kai prisijungė tedininkas su susijusio vartotojo abonementą.
-    - [Rinkti komandos žurnalus, kad užfiksuoti įrašytus repro veiksmus](https://docs.microsoft.com/microsoftteams/log-files). **Pastaba:** įsitikinkite, kad fiksuojate paveikto naudotojo prisijungimo adresą.
-    - Rinkti iškelties ir / arba gedimų kibirą informacija (Windows). Paleiskite "Windows PowerShell" kompiuteryje, kuriame įvyksta gedimas, ir vykdykite šias komandas:
+    - Paleiskite veiksmų rašytuvą ir atkartokite problemą prisijungę naudodami paveiktą vartotojo paskyrą.
+    - [Surinkite komandų žurnalus, kurie užfiksuoja įrašytus pakartotinio pelno veiksmus.](https://docs.microsoft.com/microsoftteams/log-files) **Pastaba:** įsitikinkite, kad užfiksuojate paveikto vartotojo prisijungimo adresą.
+    - Rinkite iškelties ir (arba) gedimų talpyklos informaciją ("Windows"). Paleiskite "Windows PowerShell" kompiuteryje, kuriame įvyksta gedimas, ir vykdykite šias komandas:
 
         `
         PS C:\Users\user01> cd $env:temp

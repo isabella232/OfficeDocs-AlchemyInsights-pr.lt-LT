@@ -2,26 +2,30 @@
 title: „Teams“ pranešimai
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944263"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830986"
 ---
-# <a name="teams-notifications"></a>„Teams“ pranešimai
+# <a name="teams-notifications-faq"></a>"Teams" pranešimų DUK
 
-„Teams“ kompiuterio taikomojoje programoje yra keli būdai, kaip pasiekti ir valdyti pranešimus. Norėdami toliau tinkinti pranešimų parametrus, pasirinkite profilio paveikslėlį viršutiniame dešiniajame „Teams“ kampe, tada eikite į **Parametrai > Veiklos pranešimai**. Čia galite tiksliai nustatyti, kokius pranešimus norite gauti ir kur jie turėtų būti rodomi. 
 
-„iOS“ ir „Android“ programėlėse bakstelėkite **Daugiau > Parametrai > Pranešimai**, norėdami tinkinti savo pranešimus.
+- Pranešimus [nustato vartotojai,](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)o administratoriai negali keisti pranešimų parametrų vartotojų vardu. "Teams" kompiuterio taikomojoje programoje pasirinkite profilio paveikslėlį viršutiniame dešiniajame "Teams" kampe, tada eikite į Parametrai>Veiklos pranešimai
 
-Jei reikia daugiau informacijos, žr. [Šeši dalykai, kuriuos reikia žinoti apie pranešimus](https://support.microsoft.com/lt-LT/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) ir [„Teams“ pranešimų valdymas](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- ["Teams" mobiliųjų įrenginių programėlių pranešimų trikčių šalinimas.](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c)
+
+- Pranešimus galite gauti keturiais būdais: per veiklos informacijos santrauką, pokalbį, reklaminės juostos pranešimus ir el. paštą. Praleistos veiklos el. laiškas siunčiamas, kai tam tikrą laiką neaktyvus "Teams". Daugiau [informacijos žr. Šeši dalykai, kuriuos reikia žinoti](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) apie pranešimus
+
+Daugiau informacijos apie "Teams" pranešimus žr.  [Pranešimų valdymas "Teams"](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
