@@ -2,10 +2,11 @@
 title: Kaip pridėti kredito kortelę?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 29864cd52c19a34887b52968a1a004473461dc84
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: dbea3f179dc7f89386ba4f89dfe4b70e2e594bcd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811356"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="dcc6c-102">Kaip pridėti kredito kortelę?</span><span class="sxs-lookup"><span data-stu-id="dcc6c-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="5d95e-102">Kaip pridėti kredito kortelę?</span><span class="sxs-lookup"><span data-stu-id="5d95e-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="dcc6c-103">„Microsoft 365“ administravimo centre eikite į puslapį **Atsiskaitymas** \> [Mokėjimo būdai](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="dcc6c-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="5d95e-103">„Microsoft 365“ administravimo centre eikite į puslapį **Atsiskaitymas** \> [Mokėjimo būdai](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="5d95e-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="dcc6c-104">Spustelėkite **Įtraukti mokėjimo būdą**.</span><span class="sxs-lookup"><span data-stu-id="dcc6c-104">Click **Add a payment method**.</span></span>
+2. <span data-ttu-id="5d95e-104">Spustelėkite **Įtraukti mokėjimo būdą**.</span><span class="sxs-lookup"><span data-stu-id="5d95e-104">Click **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="dcc6c-105">Mokėjimo būdą pasirinkite puslapyje **Mokėjimo būdai** pateiktame išplečiamajame meniu.</span><span class="sxs-lookup"><span data-stu-id="dcc6c-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="5d95e-105">Mokėjimo būdą pasirinkite puslapyje **Mokėjimo būdai** pateiktame išplečiamajame meniu.</span><span class="sxs-lookup"><span data-stu-id="5d95e-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="dcc6c-106">Įveskite naujos kredito kortelės arba banko sąskaitos informaciją, tada spustelėkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="dcc6c-106">Enter the information for the new credit card or bank account, then click **Save**.</span></span>
+4. <span data-ttu-id="5d95e-106">Įveskite naujos kredito kortelės arba banko sąskaitos informaciją, tada spustelėkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="5d95e-106">Enter the information for the new credit card or bank account, then click **Save**.</span></span>
 
-<span data-ttu-id="dcc6c-107">Jeigu jums reikia daugiau informacijos, žr. [Kredito kortelės arba banko sąskaitos įtraukimas, naujinimas arba šalinimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="dcc6c-107">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="5d95e-107">Norėdami sužinoti daugiau, [žr. Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="5d95e-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
