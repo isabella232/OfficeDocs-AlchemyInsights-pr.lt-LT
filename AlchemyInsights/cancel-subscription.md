@@ -1,8 +1,8 @@
 ---
-title: Atšaukti prenumeratą
+title: Prenumeratos atšaukimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,27 +14,27 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 5b1f336202c621f45b98b91772faf0b84887e48a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088762"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819628"
 ---
-# <a name="cancel-subscription"></a><span data-ttu-id="86b52-102">Atšaukti prenumeratą</span><span class="sxs-lookup"><span data-stu-id="86b52-102">Cancel subscription</span></span>
+# <a name="cancel-subscription"></a><span data-ttu-id="cddb6-102">Prenumeratos atšaukimas</span><span class="sxs-lookup"><span data-stu-id="cddb6-102">Cancel subscription</span></span>
 
-<span data-ttu-id="86b52-103">Prenumerata, kurią pasirinkote pagrindų puslapyje, jau panaikinta.</span><span class="sxs-lookup"><span data-stu-id="86b52-103">The subscription you have selected in the basics page is already cancelled.</span></span> <span data-ttu-id="86b52-104">Ar tikrai tai yra tinkama prenumerata, kurią norite atšaukti?</span><span class="sxs-lookup"><span data-stu-id="86b52-104">Are you sure this is the right subscription you want to cancel?</span></span>
+<span data-ttu-id="cddb6-103">Prenumerata, kurią pasirinkote bazinių puslapių puslapyje, jau atšaukta.</span><span class="sxs-lookup"><span data-stu-id="cddb6-103">The subscription you have selected in the basics page is already cancelled.</span></span> <span data-ttu-id="cddb6-104">Ar esate tikri, kad tai tinkama prenumerata, kurią norite atšaukti?</span><span class="sxs-lookup"><span data-stu-id="cddb6-104">Are you sure this is the right subscription you want to cancel?</span></span>
 
-<span data-ttu-id="86b52-105">"Azure" prenumeratą galite atšaukti "Azure" portale tik tuo atveju, jei esate prenumeratos savininkas arba abonemento administratorius.</span><span class="sxs-lookup"><span data-stu-id="86b52-105">You can cancel the Azure subscription in the Azure portal only if you are the subscription owner or the Account Administrator.</span></span> <span data-ttu-id="86b52-106">Atlikite toliau nurodytus veiksmus.</span><span class="sxs-lookup"><span data-stu-id="86b52-106">Follow the below steps.</span></span>
+<span data-ttu-id="cddb6-105">"Azure" portale galite atšaukti "Azure" prenumeratą tik jei esate prenumeratos savininkas arba paskyros administratorius.</span><span class="sxs-lookup"><span data-stu-id="cddb6-105">You can cancel the Azure subscription in the Azure portal only if you are the subscription owner or the Account Administrator.</span></span> <span data-ttu-id="cddb6-106">Atlikite toliau nurodytus veiksmus.</span><span class="sxs-lookup"><span data-stu-id="cddb6-106">Follow the below steps.</span></span>
 
-1. <span data-ttu-id="86b52-107">Pasirinkite prenumeratą, kurią norite atšaukti iš "Azure" [portalo puslapio prenumeratos](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).</span><span class="sxs-lookup"><span data-stu-id="86b52-107">Select your subscription that you want to cancel from the [Subscriptions page in the Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).</span></span>
-2. <span data-ttu-id="86b52-108">Pasirinkite **apžvalga**, tada pasirinkite **atšaukti prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="86b52-108">Select **Overview**, and then select **Cancel subscription**.</span></span>
+1. <span data-ttu-id="cddb6-107">"Azure" portalo puslapyje Prenumeratos pasirinkite [prenumeratą, kurią norite atšaukti.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)</span><span class="sxs-lookup"><span data-stu-id="cddb6-107">Select your subscription that you want to cancel from the [Subscriptions page in the Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).</span></span>
+2. <span data-ttu-id="cddb6-108">Pasirinkite **Apžvalga**, tada pasirinkite **Atšaukti prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="cddb6-108">Select **Overview**, and then select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="86b52-109">**Kas nutiks, kai atšauksiu savo prenumeratą?**</span><span class="sxs-lookup"><span data-stu-id="86b52-109">**What happens after I cancel my subscription?**</span></span>
+<span data-ttu-id="cddb6-109">**Kas nutiks atšaukus prenumeratą?**</span><span class="sxs-lookup"><span data-stu-id="cddb6-109">**What happens after I cancel my subscription?**</span></span>
 
-<span data-ttu-id="86b52-110">Atšaukus, atsiskaitymas nedelsiant nutraukiamas.</span><span class="sxs-lookup"><span data-stu-id="86b52-110">After you cancel, billing is stopped immediately.</span></span> <span data-ttu-id="86b52-111">Tačiau gali užtrukti iki 10 minučių, kol atšaukimas bus rodomas portale.</span><span class="sxs-lookup"><span data-stu-id="86b52-111">However, it can take up to 10 minutes for the cancellation to show in the portal.</span></span> <span data-ttu-id="86b52-112">Jei atšaukiate atsiskaitymo laikotarpio viduryje, po laikotarpio pabaigos išsiunčiame galutinę sąskaitą faktūrą įprastu sąskaitos faktūros data.</span><span class="sxs-lookup"><span data-stu-id="86b52-112">If you cancel in the middle of a billing period, we send the final invoice on your typical invoice date after the period ends.</span></span>
+<span data-ttu-id="cddb6-110">Kai atšauksite, atsiskaitymas bus sustabdytas iš karto.</span><span class="sxs-lookup"><span data-stu-id="cddb6-110">After you cancel, billing is stopped immediately.</span></span> <span data-ttu-id="cddb6-111">Tačiau atšaukimas portale gali užtrukti iki 10 minučių.</span><span class="sxs-lookup"><span data-stu-id="cddb6-111">However, it can take up to 10 minutes for the cancellation to show in the portal.</span></span> <span data-ttu-id="cddb6-112">Jei atšauksite atsiskaitymo laikotarpio viduryje, siųsime galutinę sąskaitą faktūrą jūsų įprastos sąskaitos faktūros dieną po laikotarpio pabaigos.</span><span class="sxs-lookup"><span data-stu-id="cddb6-112">If you cancel in the middle of a billing period, we send the final invoice on your typical invoice date after the period ends.</span></span>
 
-<span data-ttu-id="86b52-113">Atšaukus, jūsų tarnybos išjungtos.</span><span class="sxs-lookup"><span data-stu-id="86b52-113">After you cancel, your services are disabled.</span></span> <span data-ttu-id="86b52-114">Tai reiškia, kad virtualiosios mašinos yra priskirtos, o laikinieji IP adresai yra išlaisvinti ir saugykla yra skirta tik skaityti.</span><span class="sxs-lookup"><span data-stu-id="86b52-114">That means your virtual machines are de-allocated, temporary IP addresses are freed, and storage is read-only.</span></span>
+<span data-ttu-id="cddb6-113">Kai atšauksite, jūsų tarnybos bus išjungtos.</span><span class="sxs-lookup"><span data-stu-id="cddb6-113">After you cancel, your services are disabled.</span></span> <span data-ttu-id="cddb6-114">Tai reiškia, kad jūsų virtualiosios mašinos yra išsamūs, laikinieji IP adresai yra atlaisvi, o saugykla skirta tik skaityti.</span><span class="sxs-lookup"><span data-stu-id="cddb6-114">That means your virtual machines are de-allocated, temporary IP addresses are freed, and storage is read-only.</span></span>
 
-<span data-ttu-id="86b52-115">Kai jūsų prenumerata bus atšaukta, "Microsoft" laukia "30-90" dienų prieš visam laikui panaikindama jūsų duomenis, jei jums reikia prieiti prie jo arba persigalvotumėte.</span><span class="sxs-lookup"><span data-stu-id="86b52-115">After your subscription is canceled, Microsoft waits for 30-90 days before permanently deleting your data in case you need to access it or you change your mind.</span></span> <span data-ttu-id="86b52-116">Mes neimame už duomenų išlaikymu.</span><span class="sxs-lookup"><span data-stu-id="86b52-116">We don't charge you for retaining the data.</span></span> <span data-ttu-id="86b52-117">Jei norite sužinoti daugiau, peržiūrėkite ["Microsoft" patikimumo centras – kaip mes tvarkome jūsų duomenis](https://www.microsoft.com/trust-center/privacy/data-management#leave).</span><span class="sxs-lookup"><span data-stu-id="86b52-117">To learn more, see [Microsoft Trust Center - How we manage your data](https://www.microsoft.com/trust-center/privacy/data-management#leave).</span></span>
+<span data-ttu-id="cddb6-115">Atšaukus prenumeratą, "Microsoft" laukia 30–90 dienų prieš visam laikui panaikindami duomenis, jei norite juos pasiekti arba pakeisite nuomonę.</span><span class="sxs-lookup"><span data-stu-id="cddb6-115">After your subscription is canceled, Microsoft waits for 30-90 days before permanently deleting your data in case you need to access it or you change your mind.</span></span> <span data-ttu-id="cddb6-116">Mes ne apmokestinsime jūsų už duomenų apsaugą.</span><span class="sxs-lookup"><span data-stu-id="cddb6-116">We don't charge you for retaining the data.</span></span> <span data-ttu-id="cddb6-117">Norėdami sužinoti daugiau, žr. ["Microsoft" patikimumo centras – kaip valdome jūsų duomenis](https://www.microsoft.com/trust-center/privacy/data-management#leave).</span><span class="sxs-lookup"><span data-stu-id="cddb6-117">To learn more, see [Microsoft Trust Center - How we manage your data](https://www.microsoft.com/trust-center/privacy/data-management#leave).</span></span>
 

@@ -1,8 +1,8 @@
 ---
-title: Vaizdo įrašo testas
+title: Vaizdo įrašo tikrinimas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003535"
 - "6442"
-ms.openlocfilehash: e433c8e0ce5f35409b8b6e9777a4535891181e8c
-ms.sourcegitcommit: 2fc3f2a83aee6ef290a1ffddc0312877f07b231d
+ms.openlocfilehash: 202db7d7b29913867f058940db5eb12bc469f8d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824227"
 ---
-# <a name="video-test"></a><span data-ttu-id="d682a-102">Vaizdo įrašo testas</span><span class="sxs-lookup"><span data-stu-id="d682a-102">Video test</span></span>
+# <a name="video-test"></a><span data-ttu-id="fa6a8-102">Vaizdo įrašo tikrinimas</span><span class="sxs-lookup"><span data-stu-id="fa6a8-102">Video test</span></span>
 
-<span data-ttu-id="d682a-103">Čia mes turime naudingą vaizdo įrašą:</span><span class="sxs-lookup"><span data-stu-id="d682a-103">Here we have a helpful video:</span></span>
+<span data-ttu-id="fa6a8-103">Štai naudingas vaizdo įrašas:</span><span class="sxs-lookup"><span data-stu-id="fa6a8-103">Here we have a helpful video:</span></span>
 
 >[!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
 
-<span data-ttu-id="d682a-104">Štai šiek tiek daugiau teksto.</span><span class="sxs-lookup"><span data-stu-id="d682a-104">Here is some more text.</span></span>
+<span data-ttu-id="fa6a8-104">Štai daugiau teksto.</span><span class="sxs-lookup"><span data-stu-id="fa6a8-104">Here is some more text.</span></span>
