@@ -1,29 +1,30 @@
 ---
-title: "\"Microsoft 365\" taikomųjų programų vykdyklės pakeitimų pakeitimas"
+title: "\"Microsoft 365\" taikomųjų programų vykdyklės pakeitimai"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650449"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794912"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>"Microsoft 365" taikomųjų programų vykdyklės pakeitimų pakeitimas
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>"Microsoft 365" taikomųjų programų vykdyklės pakeitimai
 
-Į taikomųjų programų vykdyklę galite įtraukti savo pasirinktines plyteles, nukreipiančias į "SharePoint" svetaines, išorines svetaines, senstelėjusias programėles ir kt.
+Galite įtraukti savo pasirinktinių plytelių į taikomųjų programų vykdyklę, kuri rodo "SharePoint" svetaines, išorines svetaines, senstelėjusias programas ir kt.
 
-1. [Įtraukite pasirinktinę plytelę į taikomųjų programų vykdyklę](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) administravimo centre nuėję į **Parametrai > organizacijos parametrai** ir pasirinkite skirtuką Organizacijos **profilis.**
-2. [Reklamuokite plytelę su taikomųjų programų vykdyklėje](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) **prisegdami programą** prie vykdyklės.
-3. [Redaguokite arba ištrinkite pasirinktinę plytelę,](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) jei programėlėje kažkas pasikeitė.
+1. [Įtraukite pasirinktinę plytelę į taikomųjų programų](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) vykdyklę administravimo centre nueikite į **Parametrai > Organizacijos parametrai** ir pasirinkite skirtuką **Organizacijos profilis.**
+2. [Paaukštinti plytelę į taikomųjų programų vykdyklę](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) **prisegę taikomąją** programą prie vykdyklės.
+3. [Redaguokite arba panaikinkite pasirinktinę plytelę,](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) jei kas nors pasikeitė programoje.
 
-Daugiau informacijos rasite [Taikomųjų programų vykdyklės tinkinimas](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
+Daugiau informacijos žr. [Taikomųjų programų vykdyklės tinkinimas](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
