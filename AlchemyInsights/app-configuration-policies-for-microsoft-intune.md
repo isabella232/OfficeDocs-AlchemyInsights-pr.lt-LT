@@ -1,25 +1,36 @@
 ---
-title: "\"Microsoft Intune\" programėlių konfigūravimo strategijos"
+title: "\"Microsoft Intune\" taikomųjų programų konfigūravimo strategijos"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423968"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821338"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>"Microsoft Intune" programėlių konfigūravimo strategijos
+# <a name="app-configuration-policies-for-microsoft-intune"></a>"Microsoft Intune" taikomųjų programų konfigūravimo strategijos
 
-"Microsoft Intune" programėlių konfigūravimo strategijos pateikia "iOS" arba "Android" programų konfigūracijos parametrus. Šie konfigūracijos parametrai leidžia tinkinti programą. Konfigūracijos strategijos palaikymą riboja operacinės sistemos versijos ir taikomosios programos.
+"Microsoft Intune" taikomųjų programų konfigūravimo strategijos naudojamos "iOS" arba "Android" programų konfigūracijos parametrams pateikti. Šie konfigūracijos parametrai leidžia tinkinti taikomąją programą. Atkreipkite dėmesį, kad yra apribojimų, kurių operacinės sistemos versijų ir kurios taikomosios programos palaiko konfigūravimo strategijų naudojimą.
 
-Jei norite gauti daugiau informacijos, peržiūrėkite [programėlių konfigūravimo strategijos Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Norėdami gauti daugiau informacijos, peržiūrėkite toliau nurodytą dokumentaciją
+
+["Microsoft Intune" taikomųjų programų konfigūravimo strategijos](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Valdomų "iOS" įrenginių taikomųjų programų konfigūravimo strategijų įtraukimas](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Valdomų "Android" įrenginių taikomųjų programų konfigūravimo strategijų įtraukimas](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Valdomų programų konfigūravimo strategijų įtraukimas be įrenginio registracijos](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

@@ -1,24 +1,25 @@
 ---
-title: Pranešimas, kad baigėsi prenumeratos galiojimo laikas „Office“ programose
+title: "\"Microsoft 365\" taikomosiose programose prenumerata, kurios galiojimo laikas pasibaigęs"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789274"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823579"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>„Office“ programose rodomas pranešimas: „Prenumeratos galiojimo laikas baigėsi“ 
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Pranešimas "Prenumeratos galiojimo laikas baigėsi" "Microsoft 365" programose
 
 - Peržiūrėkite [Tarnybų sveikatos puslapį](https://docs.microsoft.com/office365/enterprise/view-service-health), kad sužinotumėte, ar yra žinomų tarnybos problemų.
 
@@ -26,11 +27,11 @@ ms.locfileid: "43789274"
 
 - Atidarykite „Office“ programą, spustelėkite **Failas > Paskyra** ir atsijunkite nuo visų paskyrų. Vėl prisijunkite naudodami vartotojo paskyrą su galiojančia licencija. Norėdami rasti išsamios informacijos, žr. [Paskyros programoje „Office“](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Atidarykite „Office“ programą ir eikite į**Failas > Paskyra> Naujinimo parinktis > Naujinti dabar**, kad būtų galima atnaujinti „Office“ paveiktame kompiuteryje. Išsamių veiksmų žr. [„Office“ naujinimų diegimas](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Atidarykite „Office“ programą ir eikite į **Failas > Paskyra> Naujinimo parinktis > Naujinti dabar**, kad būtų galima atnaujinti „Office“ paveiktame kompiuteryje. Išsamių veiksmų žr. [„Office“ naujinimų diegimas](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 - Paleiskite [Aktyvinimo trikčių diagnostikos priemonę](https://aka.ms/SARA-OfficeActivation-Alchemy), o tuomet iš naujo paleiskite kompiuterį.
 
-- Paveiktame įrenginyje [Nustatykite „Office“ aktyvinimo būseną iš naujo](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Paveiktame įrenginyje [Nustatykite „Office“ aktyvinimo būseną iš naujo](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Išsamios instrukcijos: 
 

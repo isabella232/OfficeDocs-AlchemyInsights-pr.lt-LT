@@ -1,8 +1,8 @@
 ---
-title: Negalite įtraukti Svečių į komandą
+title: Negalite įtraukti svečių į komandą
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364713"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819484"
 ---
-# <a name="cant-add-guests-to-a-team"></a>Negalite įtraukti Svečių į komandą
+# <a name="cant-add-guests-to-a-team"></a>Negalite įtraukti svečių į komandą
 
-Norėdami įtraukti svečią į komandą, turi būti teisinga:  
+Norint įtraukti svečią į komandą, turi būti teisinga:  
 
-- Jūsų administratorius įjungė svečio prieigą į "teams".
+- Jūsų administratorius įjungė svečio prieigą "Teams".
 - Esate komandos savininkas.
-- Asmuo, kurį norite įtraukti, yra ne jūsų organizacijoje, pvz., partneris arba konsultantas.
+- Asmuo, kurį norite įtraukti, nepriklauso jūsų organizacijai, pvz., partneriui arba konsultantui.
 
-Daugiau informacijos ieškokite  [kaip svečias prisijungia prie komandos](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Daugiau informacijos [žr. Kaip svečias prisijungia prie komandos.](https://docs.microsoft.com/MicrosoftTeams/guest-joins)

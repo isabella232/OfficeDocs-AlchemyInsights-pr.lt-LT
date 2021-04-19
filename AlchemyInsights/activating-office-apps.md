@@ -1,24 +1,25 @@
 ---
-title: "\"Microsoft 365\" programėlių aktyvinimas"
+title: "\"Microsoft 365\" programų aktyvinimas"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735220"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823039"
 ---
-# <a name="activating-microsoft-365-apps"></a>"Microsoft 365" programėlių aktyvinimas
+# <a name="activating-microsoft-365-apps"></a>"Microsoft 365" programų aktyvinimas
 
 Norėdami suaktyvinti „Office“:
 
@@ -26,7 +27,7 @@ Norėdami suaktyvinti „Office“:
 
 - [„Office“ aktyvinimas „Mac“ kompiuteryje](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Pastaba:**  Įsitikinkite, kad turite "Office 365" arba "Microsoft 365" prenumeratą, [apimančią "Office" kliento programas,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)pvz., "Microsoft 365 Business Standard", "Microsoft 365" programėles verslui arba "Microsoft 365" programėles įmonėms. Be to, įsitikinkite, kad vartotojo abonementas, kurį naudojate prisijungdami prie "Office" programų, turi [priskirtą licenciją](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Pastaba:**  Įsitikinkite, kad turite "Office 365" arba "Microsoft 365" prenumeratą, kuri apima ["Office"](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)kliento programas, pvz., "Microsoft 365 Business Standard", "Microsoft 365" verslui programas arba "Microsoft 365" taikomąsias programas įmonėms. Be to, įsitikinkite, kad vartotojo paskyra, kurią naudojate prisijungdami prie "Office" [programų, turi priskirtą licenciją.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Jei norite pašalinti „Office“ aktyvinimo problemas, žr.:
 
@@ -35,7 +36,9 @@ Jei norite pašalinti „Office“ aktyvinimo problemas, žr.:
 
 - [Ką galima išbandyti, jei nepavyksta įdiegti ar aktyvinti „Office“ skirtos „Mac“?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Jei negalite prisijungti prie "Microsoft 365" programėlių, atlikite toliau nurodytus veiksmus.
+**Patarimas** „Windows“ kompiuteriuose galime diagnozuoti ir automatiškai už jus išspręsti kelias bendrąsias „Office“ prisijungimo problemas. Atsisiųskite ir paleiskite **[„Microsoft“ palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SaRA-OfficeSignInScenario)**, kad būtų galima naudoti mūsų automatinį įrankį.
+
+Jei negalite prisijungti prie "Microsoft 365" programų, atlikite toliau nurodytus veiksmus.
 
 1. Atidarykite „Office“ programą ir [atsijunkite](https://go.microsoft.com/fwlink/?linkid=2114082) nuo visų esamų vartotojų paskyrų.
 

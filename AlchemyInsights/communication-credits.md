@@ -1,37 +1,30 @@
 ---
-title: Bendravimo kreditai
+title: Ryšių kreditai
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158610"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817468"
 ---
-# <a name="communication-credits"></a>Bendravimo kreditai
+# <a name="communication-credits"></a>Ryšių kreditai
 
-Bendravimo kreditai yra patogus būdas mokėti už garso konferencijas ir skambučių plano minutes.  Jums reikės nustatyti bendravimo kreditus, jei norėsite naudoti nemokamus numerius programoje „Skype“ verslui ir „Microsoft Teams“.  Be to, rekomenduojame nustatyti bendravimo kreditus savo skambinimo planų (vietinių ar tarptautinių skambučių) ir garso konferencijų vartotojams, kuriems reikalinga galimybė skambinti į bet kurią vietą.
+Ryšių kreditai yra patogus būdas mokėti už garso konferencijų ir skambučių plano minutes. Jums reikės nustatyti bendravimo kreditus, jei norėsite naudoti nemokamus numerius programoje „Skype“ verslui ir „Microsoft Teams“.
 
-Jei esate administratorius, galite įtraukti lėšų rankiniu būdu arba galite nustatyti automatinį papildymą, kurį rekomenduojame.  Automatinio papildymo funkcija automatiškai papildo jūsų likutį, kai jis tampa mažesnis už jūsų nustatytą sumą.  Mokėjimo parinktis galite bet kada atnaujinti. Puslapyje **Atsiskaitymas > [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)** pasirinkite bendravimo kreditų prenumeratą ir atlikite reikiamus naujinimus.
+- Norėdami nustatyti ryšio kreditus, [žr. Organizacijos ryšių kreditų nustatymas](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
 
-1. Jei norite įtraukti daugiau lėšų nenustatę automatinio papildymo, suvartojimo srityje spustelėkite **Įtraukti daugiau lėšų** ir įveskite norimą įtraukti sumą.
+- Norėdami įtraukti ir valdyti ryšių kredito lėšas, [žr. Lėšų įtraukimas ir ryšių kreditų valdymas.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-2. Norėdami nustatyti automatinį papildymą arba keisti automatinio papildymo sumas bei kritinę sumą, spustelėkite **Modifikuoti papildymo parametrus** atsiskaitymo dalyje arba **Automatinio papildymo parametrai** šalia puslapio apačios.  
-
-3. Įveskite papildymo sumą.  Tai suma, kurią norite įtraukti kiekvieno papildymo metu.  
-
-4. Įveskite reikšmę lauke **Kai likutis tampa mažesnis nei**.  Tai yra likutis, kuris suaktyvins papildymą.
-
-5. Spustelėkite **Įrašyti keitimus**.
-
-Daugiau informacijos apie bendravimo kreditų lėšų įtraukimą ir valdymą žr. [Lėšų įtraukimas ir bendravimo kreditų valdymas](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Taip pat žr. [Jūsų organizacijos bendravimo kreditų nustatymas](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+Daugiau informacijos [žr. Kas yra ryšio kreditai?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

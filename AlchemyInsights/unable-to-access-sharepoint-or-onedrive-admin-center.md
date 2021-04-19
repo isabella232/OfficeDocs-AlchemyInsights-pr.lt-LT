@@ -1,25 +1,28 @@
 ---
-title: Neįmanoma pasiekti SharePoint arba OneDrive administravimo centro
+title: Nepavyksta pasiekti "SharePoint" arba "OneDrive" administravimo centro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 1b710436b78ff33292e0b1a66f1fb647febaabb4
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 7ba4a9c6995c03dd21e0e1aa387e407d41a08fb1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358056"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824443"
 ---
-# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Neįmanoma pasiekti SharePoint arba OneDrive administravimo centro
+# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Nepavyksta pasiekti "SharePoint" arba "OneDrive" administravimo centro
 
-- Jei jūsų "SharePoint" arba "OneDrive" administravimo centro svetainė nepasiekiama arba nepasiekiama, gali kilti laikina tarnybos problema, kai vartotojai susiduria su pasikartojančiais delsa arba naršymo klaidomis, kai pasiekia "SharePoint" svetaines arba "OneDrive" turinį. Patikrinkite [tarnybos sveikatos ataskaitų sritį,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kad sužinotumėte, ar jūsų organizacijai daromas poveikis.
+- Jei jūsų "SharePoint" arba "OneDrive" administravimo centro svetainė nepasiekiama arba nepasiekiama, gali būti laikina tarnybos problema, kai vartotojai, pasiekdami "SharePoint" svetaines arba "OneDrive" turinį, patiria pertraukų delsą arba naršymo klaidas. Patikrinkite tarnybos [sveikatos ataskaitų sritį,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kad pamatytumėte, ar paveikta jūsų organizacija.
 
-- Visuotiniams ir "SharePoint" administratoriams turi būti priskirta "SharePoint" licencija. Naujai sukurti abonementai, priskirti tik su "SharePoint" licencijos arba administratoriaus vaidmeniu, gali susidurti su problemomis bandant pasiekti "SharePoint", pvz., "prieiga uždrausta" arba "vartotojas nerastas". Prašome duoti bent 24 valandas sinchronizuoti užbaigti visoje mūsų sistemose. Mes suprantame, kad 24 valandos gali atrodyti kaip ilgas laikas. Daugeliu atvejų jau dirbame su sprendimu.
+- Visuotiniams ir "SharePoint" administratoriams turi būti priskirta "SharePoint" licencija. Naujai sukurtos paskyros, priskirtos naudojant "SharePoint" licenciją arba administratoriaus vaidmenį, gali kilti problemų pasiekti "SharePoint", pvz., "prieiga uždrausta" arba "vartotojas nerastas". Skirkite bent 24 valandas, kad sinchronizavimas būtų užbaigtas visose mūsų sistemose. Suprantame, kad 24 valandos gali atrodyti ilgai. Daugeliu atvejų jau dirbame su sprendimu.
+
+- Privilegijuoto tapatybės valdymo ([PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)) vartotojai gali gauti prieigą, jei leidžiamos prieigos laiko langas yra labai mažas, žr.  [Prieiga uždrausta PIM paskyroms](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts).

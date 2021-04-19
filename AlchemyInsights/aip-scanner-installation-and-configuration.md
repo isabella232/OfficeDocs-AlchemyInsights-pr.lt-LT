@@ -2,44 +2,45 @@
 title: 'AIP skaitytuvas: diegimas ir konfigūravimas'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: d059d411aef03ca57662b71fbd7d27aecd3e0e57
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821671"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP skaitytuvas: diegimas ir konfigūravimas
 
-**Norėdami įdiegti AIP skaitytuvą, vadovaukitės rekomenduojamomis gairėmis:**
+**Norėdami įdiegti AIP skaitytuvą, vadovaukitės rekomenduojamomis rekomendacijomis:**
 
-1. Jei naujinate ir neatliekate švaraus diegimo, įsitikinkite, kad vadovavotės ["Azure" informacijos apsaugos skaitytuvo naujinimo](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) gairėmis ir vieningosios etikečių kliento versijos [naujinimo](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)gairėmis, žr.
-2. Patikrinkite, ar atitinkate visus [užkardos ir tinklo infrastruktūros parametrų reikalavimus](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).
-3. Įsitikinkite, kad [jūsų strategijos nustatytos](https://docs.microsoft.com/azure/information-protection/configure-policy) kaip automatinis žymėjimas arba strategijos numatytoji etiketė.
-4. Įsitikinkite, kad atitinkamas failo tipas yra sukonfigūruotas etiketės/apsaugos, kaip aprašyta [failų tipai palaiko Azure informacijos apsaugos klientas](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection). Be to, jei norite pakeisti numatytąjį veikimą, atlikite šiuos veiksmus: [Numatytojo failų apsaugos lygio keitimas](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
-5. Patikrinkite, ar vartotojo abonementas, sukonfigūruotas paleisti skaitytuvo tarnybą, turi teisę pasiekti visas sukonfigūruotas saugyklas.
-6. Jei vis tiek kyla problemų, eksportuokite skaitytuvo žurnalus ir pridėkite juos prie palaikymo bilieto.
+1. Jei naujinate versiją ir neįrengite švaraus diegimo, įsitikinkite, kad laikėsite ["Azure"](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) informacijos apsaugos skaitytuvo versijos naujinimo ir vieningo etikečių kliento rekomendacijų, žr. ["Azure" informacijos apsaugos skaitytuvo versijos naujinimas.](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)
+2. Patikrinkite, ar atitinkate visus [užkardos ir tinklo infrastruktūros parametrų reikalavimus.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
+3. [Įsitikinkite, kad strategijos nustatytos](https://docs.microsoft.com/azure/information-protection/configure-policy) kaip automatinis ženklinimas arba strategijos numatytoji etiketė.
+4. Įsitikinkite, kad atitinkamas failo tipas sukonfigūruotas naudoti etiketę / apsaugą, kaip aprašyta failų [tipuose, kuriuos palaiko "Azure" informacijos apsaugos klientas.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Be to, jei norite pakeisti numatytąjį veikimą, vadovaukitės šiomis gairėmis: [Numatytojo failų apsaugos lygio keitimas.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files)
+5. Patikrinkite, ar vartotojo paskyra, sukonfigūruota vykdyti skaitytuvo tarnybą, turi teises pasiekti visas sukonfigūruotas saugyklas.
+6. Jei vis tiek kyla problemų, eksportuokite skaitytuvo žurnalus ir įtraukite juos į palaikymo kvitą.
 
-**Eksportuoti Azure informacijos apsaugos skaitytuvas žurnalus**
+**"Azure" informacijos apsaugos skaitytuvo žurnalų eksportavimas**
 
-1. Eikite į %localappdata%\Microsoft\MSIP vartotojo kontekste, kuriame veikia skaitytuvo tarnyba.
-2. Zip visą turinį pagal MSIP aplanką.
-3. Įrašykite žurnalus į savo vietą ir pridėkite juos prie aptarnavimo užklausos.
+1. Eikite į %localappdata%\Microsoft\MSIP pagal vartotojo kontekstą, kuriame veikia skaitytuvo tarnyba.
+2. Suglaudinkite visą turinį po MSIP aplanku.
+3. Įrašykite žurnalus į savo vietą ir pridėkite juos prie savo tarnybos užklausos.
 4. Taip pat galite naudoti [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
 
-**Daugiau informacijos rasite**:
-- ["Azure" informacijos apsaugos skaitytuvo diegimas automatiškai klasifikuoti ir apsaugoti failus](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
-- [Nustatyti ir naudoti atpažinimo ženklo parametras Set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
-- [Aptikimo ciklo vykdymas ir skaitytuvo ataskaitų peržiūra](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
-- ["Azure" informacijos apsaugos dokumentų peržiūra](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+**Papildomos informacijos žr.:**
+- ["Azure" informacijos apsaugos skaitytuvo diegimas norint automatiškai klasifikuoti ir apsaugoti failus](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [Set-AIPAuthentication parametro Atpažinimo ženklas nurodymas ir naudojimas](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+- [Aptikimo ciklo paleidimas ir skaitytuvo ataskaitų peržiūra](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
+- [Peržiūrėkite "Azure" informacijos apsaugos dokumentaciją](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
 - ["Azure" informacijos apsaugos reikalavimai](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Atsisiųskite "Azure" informacijos apsaugos klientą](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Atsisiųsti "Azure" informacijos apsaugos klientą](https://www.microsoft.com/download/details.aspx?id=53018)
