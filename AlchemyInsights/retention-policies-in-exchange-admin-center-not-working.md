@@ -1,5 +1,5 @@
 ---
-title: "\"Exchange\" administravimo centro neveikia saugojimo strategijos"
+title: Saugojimo strategijos "Exchange" administravimo centre neveikia
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740518"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952236"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Saugojimo strategijos "Exchange" administravimo centre
 
-Jei norite, kad būtų atlikti automatizuoti toliau nurodytų parametrų tikrinimai, pasirinkite mygtuką atgal <--šio puslapio viršuje, tada įveskite vartotojo, kuris turi problemų su saugojimo strategijomis, el. pašto adresą.
+Jei norite, kad atliktų toliau nurodytų parametrų automatinį patikrinimą, šio puslapio viršuje pasirinkite mygtuką atgal <- ir įveskite vartotojo, kuris susiduria su saugojimo strategijų problemomis, el. pašto adresą.
 
- **Problema:** Naujai sukurtos arba atnaujintos saugojimo strategijos "Exchange" administravimo centre netaikomos pašto dėžutėms arba elementai neperkeliami į archyvo pašto dėžutę arba panaikinta. 
-  
- **Pagrindinės priežastys:**
-  
-- Taip gali būti dėl to, kad **valdomojo aplanko asistentas** neapdorojo vartotojo pašto dėžutės. Valdomojo aplanko asistentas kiekvieną nuotolinių išteklių saugyklomis pagrįstos organizacijos pašto dėžutę bando apdoroti kas septynias dienas. Jei keičiate saugojimo žymę arba taikote kitokią saugojimo strategiją pašto dėžutei, galite palaukti, kol valdomojo aplanko pagalba apdoros pašto dėžutę, arba galite paleisti "Start-ManagedFolderAssistant" cmdlet, kad paleistumėte valdomojo aplanko asistentą ir apdorotų konkrečią pašto dėžutę. Paleidus šią "cmdlet" galima išbandyti arba pašalinti saugojimo strategijos arba išsaugojimo žymių parametrus. Norėdami gauti daugiau informacijos, apsilankykite [valdomojo aplanko pagalbinės priemonės paleidimas](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Sprendimas:** Vykdykite šią komandą, kad paleistumėte konkrečios pašto dėžutės valdomojo aplanko asistentą:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Jei kyla problemų dėl saugojimo strategijų "Exchange" administravimo centre, kurie nėra taikomi pašto dėžutėms arba elementams, kurie nėra perkeliami į archyvo pašto dėžutę, patikrinkite šiuos dalykus:
 
-- Taip pat gali nutikti, jei pašto dėžutėje **įgalintas** **RetentionHold** . Jei pašto dėžutė yra įtraukta į Retentionsulaikymą, pašto dėžutės saugojimo strategija tuo metu nebus apdorota. Daugiau informacijos apie RetentionHold parametrą matyti: [pašto dėžutės saugojimo sulaikymas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Tirpalo**
-    
-  - Pažymėkite " [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)" konkrečios pašto dėžutės parametro RetentionHold būseną:
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Pagrindinės priežastys:**
 
-  - Vykdykite šią komandą, kad **išjungtumėte** RetentionHold konkrečioje pašto dėžutėje:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **Valdomų aplankų** asistentas ne apdorojo vartotojo pašto dėžutės. Valdomų aplankų pagalbinė priemonė bando apdoroti kiekvieną pašto dėžutę debesies pagrindu pagrįstoje organizacijoje kartą per septynias dienas.
 
-  - Dabar iš naujo paleiskite valdomojo aplanko asistentą:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Sprendimas:** Paleiskite valdomų aplankų pagalbinę priemonę.
 
- **Pastaba:** Jei pašto dėžutė yra mažesnė nei 10 MB, valdomojo aplanko asistentas automatiškai neapdoros pašto dėžutės.
+- **Saugojimolaikymas** **įgalintas** pašto dėžutėje. Jei pašto dėžutė buvo įdedama į saugojimo saugyklą, tuo metu pašto dėžutės saugojimo strategija nebus apdorojama.
+
+  **Sprendimas:** Patikrinkite saugojimo sulaikymo parametro būseną ir atnaujinkite, jei reikia. Daugiau informacijos žr. [Pašto dėžutės saugojimo sulaikymas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
  
-Daugiau informacijos apie saugojimo strategijas "Exchange" administravimo centre rasite:
+**Pastaba:** Jei pašto dėžutė mažesnė nei 10 MB, valdomų aplankų asistentas pašto dėžutės automatiškai ne apdoros.
+ 
+Daugiau informacijos apie saugojimo strategijas "Exchange" administravimo centre žr.:
+
 - [Saugojimo žymės ir saugojimo strategijos](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Saugojimo strategijos taikymas pašto dėžutėms](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Saugojimo žymių įtraukimas arba šalinimas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Kaip nustatyti pašto dėžutėje esančio sulaikymo tipą](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [Saugojimo strategijos taikymas pašto dėžutėms](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) arba [Saugojimo žymių įtraukimas arba pašalinimas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Kaip nustatyti pašto dėžutėje laikomos sulaikytos vietos tipą](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

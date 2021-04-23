@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679593"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952200"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP strategijos patarimo problemos
 
 **Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
 
-**DLP strategijos patarimai**
+Norėdami konfigūruoti DLP strategijos patarimus saugos ir & centre visiško vykdymo režimu, atlikite šiuos veiksmus:
 
-Naudojant **DLP strategijas**, vartotojams gali būti pranešama apie strategijos pažeidimą su **strategijos patarimais**. Administratoriai gali konfigūruoti strategijos patarimus, kurie bus rodomi tikrinant jų DLP strategiją arba kai strategija veikia visu vykdymo režimu.
-  
-Norėdami konfigūruoti strategijos patarimus dėl DLP strategijos saugos ir atitikties centre, vykdydami visas vykdymo režimas, atlikite šiuos veiksmus:
-  
-- Įsitikinkite, kad strategijos patarimai **įgalinti** DLP taisyklėje, atliekant veiksmus [čia](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Įsitikinkite, kad DLP **taisyklėje** įgalinti strategijos patarimai. Jei reikia veiksmų, [žr. El. pašto pranešimų siuntimas ir DLP strategijų patarimų demonstravimas.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Įsitikinkite, kad jūsų **turinys sutampa** su tuo, ko **reikia** , norint suaktyvinti [šiame straipsnyje apibrėžtą](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)taisyklę.
+Įsitikinkite, kad jūsų turinys atitinka tai, ko reikia norint paleisti taisyklę, apibrėžtą [slaptos informacijos tipo objekto aprašuose.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Strategijos patarimai rodomi ir OWA, ir "Outlook". Tačiau naudojant **"Outlook 2013" arba naujesnę versiją**, strategijos patarimai rodomi tik esant tam tikroms sąlygoms. Šios sąlygos pateikiamos čia: [palaikomos "Outlook 2013" sąlygos, skirtos strategijos patarimų rodyme](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Strategijos patarimai rodomi ir OWA, ir "Outlook". Tačiau naudojant "Outlook 2013" arba naujesnę versiją, strategijos patarimai rodomi tik tam tikromis sąlygomis. Konkrečių sąlygų sąrašą žr. Palaikomos ["Outlook 2013" arba naujesnės versijos sąlygos, kad būtų rodomi strategijos patarimai.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Papildomos informacijos apie DLP strategijos patarimus ieškokite skyriuje [strategijos patarimų, skirtų DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) strategijai, rodymas
-  
+Informacijos apie DLP strategijos patarimus žr. [DLP strategijos patarimų nuoroda](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) ir [palaikymo matrica DLP strategijos patarimams.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
