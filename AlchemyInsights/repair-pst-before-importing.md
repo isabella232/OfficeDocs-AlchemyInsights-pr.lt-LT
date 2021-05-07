@@ -1,5 +1,5 @@
 ---
-title: Pataisykite. pst failą prieš importuodami
+title: Taisyti .pst arba .ost failus
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799104"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233722"
 ---
-# <a name="repair-pst-file-before-importing"></a>Pataisykite. pst failą prieš importuodami
+# <a name="repair-pst-or-ost-files"></a>Taisyti .pst arba .ost failus
 
-Prieš importuodami. pst failą programoje "Outlook", patikrinkite, ar failas nėra sugadintas pataisant failą:
+Patikrinkite, ar failas nėra sugadintas pataisant failą:
 
-1. Išeikite iš "Outlook".
+1. Išeiti iš Outlook.
 
-2. Raskite ir paleiskite " `Scanpst.exe` Office" programos aplanką (C:\Program Files (x86) \Microsoft office\root\office \<Version\> arba C:\Program Files\microsoft office\root\office \<Version\> ).
+2. Raskite ir `Scanpst.exe` paleiskite "Office" programos aplanke (C:\Program Files (x86)\Microsoft Office\root\Office \<Version\> arba C:\Program Files\Microsoft Office\root\Office \<Version\> ).
 
-3. **"Microsoft Outlook" aplanko Gauta taisymo įrankyje**spustelėkite **Naršyti** , kad rastumėte. pst failą (pvz., C:\vartotojai \\<username \> \Appdata\local\microsoft\outlook). Pasirinkite. pst failą, tada spustelėkite **atidaryti**.
+3. "Microsoft **Outlook"** aplanko Gauta atkūrimo  įrankis spustelėkite Naršyti, kad rastumėte .pst arba .ost failą (pvz., C:\Users \\<username \> \AppData\Local\Microsoft\Outlook). Pasirinkite failą, tada spustelėkite **Atidaryti**.
 
-4. Spustelėkite **Pradėti, kad pradėtumėte** nuskaitymą.
+4. Spustelėkite **Pradėti,** kad pradėtumėte nuskaitymą.
 
-5. Jei faile randama klaidų, spustelėkite **Taisyti**, tada Baigę taisyti spustelėkite **gerai** .
+5. Jei faile randama klaidų, spustelėkite **Taisyti**, tada **spustelėkite** Gerai, kai atkūrimas bus baigtas.
 
-6. Pabandykite iš naujo importuoti. pst failą programoje "Outlook".
-
-Daugiau informacijos ieškokite ["Outlook" duomenų failų taisymas](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) ir ["Outlook". pst failo importavimo problemų](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)sprendimas.
+Daugiau informacijos žr. [Duomenų failų Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) taisymas ir .pst failo [importavimo Outlook problemų sprendimas.](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)

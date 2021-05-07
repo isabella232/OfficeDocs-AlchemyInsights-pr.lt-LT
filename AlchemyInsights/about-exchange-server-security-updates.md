@@ -1,5 +1,5 @@
 ---
-title: Apie "Exchange Server" saugos naujinimus
+title: Apie Exchange Server naujinimus
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726535"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233470"
 ---
-# <a name="about-exchange-server-security-updates"></a>Apie "Exchange Server" saugos naujinimus
+# <a name="about-exchange-server-updates"></a>Apie Exchange Server naujinimus
 
-"Microsoft" išleido svarbius saugos naujinimus, skirtus "Exchange Server" vietoje. Pažeistos serverio versijos yra visi "Exchange Server 2010", "2013", "2016" ir "2019" naujinimo lygiai. "Exchange Online" nepaveikė, bet jei turite kai kuriuos vietinius "Exchange" serverius dėl Hibridinės konfigūracijos, jie gali būti pažeidžiami.
+"Microsoft" paprastai Exchange Server naujinimus naujinimo antradienį (saugos naujinimai) arba kas ketvirtį (kaupiamieji naujinimai). Norėdami peržiūrėti pranešimus apie naujausius išleistus naujinimus, žr. [Exchange komandos interneto dienoraštyje](https://aka.ms/ehlo).
 
-Žiūrėkite šį skelbimą apie taisymų vietą: [išleista: kovo 2021 "Exchange Server" saugos naujinimai](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Norėdami išsamūs Exchange serveriai, [naudokite "Exchange Server Health Checker" scenarijų (GitHub, naudokite naujausią leidimą)](https://aka.ms/ExchangeHealthChecker). Paleidus šį scenarijų, bus nurodyta, ar kuris nors Exchange serverių yra už naujinimų (CUs ir SUs).
 
-**Svarbios pastabos:**
+- Norėdami atnaujinti į naujausią kaupiamąjį naujinimą, eikite [į Exchange naujinimo](https://aka.ms/ExchangeUpdateWizard) vediklį ir pasirinkite šiuo metu vykdomos CU ir tikslinę CU. Pasirinkite **Papasakokite veiksmus,** kad gautumėte savo aplinkos kryptis.
 
-Jei naujinimus diegiate rankiniu būdu, perskaitykite "žinomos problemos" naujinimo KB straipsnių dalyje svarbią informaciją. Saugos naujinimai turi būti paleisti naudojant "CMD/PowerShell" raginimą!
-
-Naujinimo trikčių diagnostikos informaciją rasite [čia](https://aka.ms/exupdatefaq).
+- Jei diegiant arba įdiegus naujinimus įvyksta klaidų Exchange Server žr. Nepavykusių ["Exchange ir saugos naujinimų atkūrimas.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)
