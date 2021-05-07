@@ -1,5 +1,5 @@
 ---
-title: Pataisykite. pst failą prieš importuodami
+title: Taisyti .pst arba .ost failus
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799104"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233722"
 ---
-# <a name="repair-pst-file-before-importing"></a><span data-ttu-id="b7317-102">Pataisykite. pst failą prieš importuodami</span><span class="sxs-lookup"><span data-stu-id="b7317-102">Repair .pst file before importing</span></span>
+# <a name="repair-pst-or-ost-files"></a><span data-ttu-id="a0690-102">Taisyti .pst arba .ost failus</span><span class="sxs-lookup"><span data-stu-id="a0690-102">Repair .pst or .ost files</span></span>
 
-<span data-ttu-id="b7317-103">Prieš importuodami. pst failą programoje "Outlook", patikrinkite, ar failas nėra sugadintas pataisant failą:</span><span class="sxs-lookup"><span data-stu-id="b7317-103">Before you import a .pst file in Outlook, verify the file is not corrupted by repairing the file:</span></span>
+<span data-ttu-id="a0690-103">Patikrinkite, ar failas nėra sugadintas pataisant failą:</span><span class="sxs-lookup"><span data-stu-id="a0690-103">Verify the file is not corrupted by repairing the file:</span></span>
 
-1. <span data-ttu-id="b7317-104">Išeikite iš "Outlook".</span><span class="sxs-lookup"><span data-stu-id="b7317-104">Exit Outlook.</span></span>
+1. <span data-ttu-id="a0690-104">Išeiti iš Outlook.</span><span class="sxs-lookup"><span data-stu-id="a0690-104">Exit Outlook.</span></span>
 
-2. <span data-ttu-id="b7317-105">Raskite ir paleiskite " `Scanpst.exe` Office" programos aplanką (C:\Program Files (x86) \Microsoft office\root\office \<Version\> arba C:\Program Files\microsoft office\root\office \<Version\> ).</span><span class="sxs-lookup"><span data-stu-id="b7317-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
+2. <span data-ttu-id="a0690-105">Raskite ir `Scanpst.exe` paleiskite "Office" programos aplanke (C:\Program Files (x86)\Microsoft Office\root\Office \<Version\> arba C:\Program Files\Microsoft Office\root\Office \<Version\> ).</span><span class="sxs-lookup"><span data-stu-id="a0690-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
 
-3. <span data-ttu-id="b7317-106">**"Microsoft Outlook" aplanko Gauta taisymo įrankyje**spustelėkite **Naršyti** , kad rastumėte. pst failą (pvz., C:\vartotojai \\<username \> \Appdata\local\microsoft\outlook).</span><span class="sxs-lookup"><span data-stu-id="b7317-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="b7317-107">Pasirinkite. pst failą, tada spustelėkite **atidaryti**.</span><span class="sxs-lookup"><span data-stu-id="b7317-107">Select the .pst file and then click **Open**.</span></span>
+3. <span data-ttu-id="a0690-106">"Microsoft **Outlook"** aplanko Gauta atkūrimo  įrankis spustelėkite Naršyti, kad rastumėte .pst arba .ost failą (pvz., C:\Users \\<username \> \AppData\Local\Microsoft\Outlook).</span><span class="sxs-lookup"><span data-stu-id="a0690-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst or .ost file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="a0690-107">Pasirinkite failą, tada spustelėkite **Atidaryti**.</span><span class="sxs-lookup"><span data-stu-id="a0690-107">Select the file and then click **Open**.</span></span>
 
-4. <span data-ttu-id="b7317-108">Spustelėkite **Pradėti, kad pradėtumėte** nuskaitymą.</span><span class="sxs-lookup"><span data-stu-id="b7317-108">Click **Start** to begin the scan.</span></span>
+4. <span data-ttu-id="a0690-108">Spustelėkite **Pradėti,** kad pradėtumėte nuskaitymą.</span><span class="sxs-lookup"><span data-stu-id="a0690-108">Click **Start** to begin the scan.</span></span>
 
-5. <span data-ttu-id="b7317-109">Jei faile randama klaidų, spustelėkite **Taisyti**, tada Baigę taisyti spustelėkite **gerai** .</span><span class="sxs-lookup"><span data-stu-id="b7317-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
+5. <span data-ttu-id="a0690-109">Jei faile randama klaidų, spustelėkite **Taisyti**, tada **spustelėkite** Gerai, kai atkūrimas bus baigtas.</span><span class="sxs-lookup"><span data-stu-id="a0690-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
 
-6. <span data-ttu-id="b7317-110">Pabandykite iš naujo importuoti. pst failą programoje "Outlook".</span><span class="sxs-lookup"><span data-stu-id="b7317-110">Try to import the .pst file in Outlook again.</span></span>
-
-<span data-ttu-id="b7317-111">Daugiau informacijos ieškokite ["Outlook" duomenų failų taisymas](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) ir ["Outlook". pst failo importavimo problemų](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)sprendimas.</span><span class="sxs-lookup"><span data-stu-id="b7317-111">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
+<span data-ttu-id="a0690-110">Daugiau informacijos žr. [Duomenų failų Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) taisymas ir .pst failo [importavimo Outlook problemų sprendimas.](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)</span><span class="sxs-lookup"><span data-stu-id="a0690-110">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
