@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Edge\" naudojimas \"kioskas\" režime"
+title: Paleisti Microsoft Edge kiosko režimu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708538"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312412"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>"Microsoft Edge" naudojimas "kioskas" režime
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Paleisti Microsoft Edge kiosko režimu
 
-Galite sukonfigūruoti "kioskas" režimą "Microsoft Edge" versijose 77 ir naujesnėse versijose, taip pat "Microsoft Edge" senstelėjusių versijų 45 ir ankstesnę versiją.
+Kiosko režimą galite konfigūruoti Microsoft Edge 87 ir naujesnėse versijose, taip pat "Microsoft Edge" pasenusi versija 45 ir ankstesnėse versijose. Daugiau informacijos žr. [Kiosko Microsoft Edge konfigūravimas](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).
 
-Galite konfigūruoti įrenginius, kurie veikia "Windows 10", kad [paleistumėte vienos taikomosios programos arba kelių taikomųjų programų "kioskas" režimu](https://go.microsoft.com/fwlink/?linkid=2133659).
+Galite konfigūruoti įrenginius, kurie veikia Windows 10 veikti vienos programos arba kelių programų [kioskų režimu.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Daugiau informacijos apie "kioskas" režimo nustatymą naujausioje "Microsoft Edge stable" kanalo ir "Microsoft Edge" senstelėjusios įrangos versijoje žiūrėkite:
+Daugiau informacijos apie kiosko režimo nustatymą naujausioje "Microsoft Edge" kanalo versijoje ir "Microsoft Edge" pasenusi versija žr.:
 
-- ["Microsoft Edge" su priskirtu prieiga](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- ["Microsoft Edge" – komandų eilutės parametras](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- ["Microsoft Edge" senstelėjusio "kioskas" režimo palaikymas](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge su priskirta prieiga](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge "--kiosk" komandų eilutės parametras](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [""Microsoft Edge" pasenusi versija" kiosko režimo palaikymas](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
