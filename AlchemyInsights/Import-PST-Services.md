@@ -1,5 +1,5 @@
 ---
-title: 1245 – importuoti – PST – paslaugos
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664070"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470269"
 ---
-# <a name="microsoft-365-import-service"></a>"Microsoft 365" importavimo tarnyba
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Importavimo tarnyba
 
-"Microsoft 365" importavimo tarnyba leidžia masiškai importuoti kelis PST failus į "Exchange Online" pašto dėžutes.
+"Microsoft 365 importavimo tarnyba leidžia masiškai importuoti kelis PST failus į Exchange Online pašto dėžutes.
 
 Norėdami pasiekti importavimo tarnybą ir pradėti importavimo procesą:
 
-1. Eikite į [saugos & atitikties centrą](https://protection.office.com) ir prisijunkite naudodami savo organizacijos administratoriaus paskyros kredencialus.
+1. Eikite [į saugos & centrą ir](https://protection.office.com) prisijunkite naudodami organizacijos administratoriaus paskyros kredencialus.
 
-2. Kairiojoje **saugos & atitikties centro**srityje spustelėkite **duomenų valdymas > importuoti**.
+2. Kairiojoje saugos ir atitikties **& srityje** spustelėkite Informacijos valdymas **> importuoti**.
 
-3. Puslapyje **importuoti** spustelėkite **nauja importavimo užduotis**.
+3. Puslapyje **Importuoti** spustelėkite Nauja **importavimo užduotis**.
 
-4. Norėdami atlikti vediklio veiksmus, vadovaukitės šiomis [išsamiomis instrukcijomis](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. Norėdami atlikti vediklio veiksmus, vykdykite šias [nuoseklias instrukcijas](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).
 
-**Svarbu**: Norėdami pasiekti **importavimo** puslapį saugos & atitikties centre, jums turi būti priskirtos  [tinkamos teisės](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**Svarbu**: norėdami pasiekti **puslapį** Importuoti saugos & centre, jums bus priskirtos [atitinkamos teisės.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Jei tiesiog norite importuoti PST į savo pašto dėžutę, skaitykite [šį straipsnį](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Jei tiesiog norite importuoti PST į pašto dėžutę, žr. [šį straipsnį](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
