@@ -1,5 +1,5 @@
 ---
-title: Slaptumo žymių publikavimas
+title: Slaptumo žymų publikavimas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748267"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539724"
 ---
-# <a name="publish-sensitivity-labels"></a>Slaptumo žymių publikavimas
+# <a name="publish-sensitivity-labels"></a>Slaptumo žymų publikavimas
 
-Norėdami paskelbti jautrumo žymes, atlikite šiuos veiksmus:
+Norėdami publikuoti slaptumo žymas, atlikite šiuos veiksmus:
 
-1. Pasirinkite " **Office 365" saugos & atitikties centras > klasifikacijos > slaptumo Žymos**.
-2. Puslapyje **jautrumo Žymos** spustelėkite skirtuką **etikečių strategijos** .
-3. Spustelėkite **publikuoti etiketes**.
-4. Spustelėkite **pasirinkti, kad būtų publikuojamos slaptumo Žymos**. 
-5. Pasirinkite etiketes, kurias norite leisti naudoti programėlėse ir tarnybose, tada spustelėkite **įtraukti**.
+1. Pasirinkite **Office 365 saugos & centre > slaptumo žymos > slaptumo žymos.**
+2. Puslapyje **Slaptumo žymos** spustelėkite skirtuką **Etikečių strategijos.**
+3. Spustelėkite **Publikuoti žymas**.
+4. Norėdami **publikuoti, spustelėkite Pasirinkti slaptumo žymas.** 
+5. Pasirinkite etiketes, kurias norite padaryti pasiekiamas programose ir tarnybose, tada spustelėkite **Įtraukti**.
 > [!IMPORTANT]
-> Jei pasirinksite antrinę žymą, įsitikinkite, kad taip pat pažymėjote pirminę žymę.
-6. Peržiūrėkite pasirinktas etiketes. Norėdami atlikti kokius nors pakitimus, spustelėkite **Redaguoti**; Priešingu atveju spustelėkite **Pirmyn**.
-7. Vykdykite nurodymus, kad konfigūruotumėte strategijos parametrus.
-8. Jei reikia skirtingų strategijos parametrų skirtingiems vartotojams arba vietoms, Kartokite šiuos veiksmus. Pavyzdžiui, norite, kad būtų papildomos vartotojų grupės Žymos arba skirtinga numatytoji vartotojų pogrupio etiketė.
-9. Jei kuriate daugiau nei vieną žymų strategiją, dėl kurios vartotojas arba vieta gali sukelti konfliktą, peržiūrėkite strategijos tvarką ir, jei reikia, perkelkite jas aukštyn arba žemyn. Norėdami pakeisti žymų strategijos tvarką, pasirinkite **...** **daugiau veiksmų**, tada pasirinkite **perkelti aukštyn** arba **Perkelti žemyn**.
+> Jei pasirinksite sublabel, įsitikinkite, kad taip pat pasirinksite jos pirminę etiketę.
+6. Peržiūrėkite pasirinktas žymas. Norėdami atlikti keitimus, spustelėkite **Redaguoti**; kitu atveju spustelėkite **Pirmyn**.
+7. Vykdykite raginimus ir konfigūruokite strategijos parametrus.
+8. Kartokite šiuos veiksmus, jei reikia skirtingų strategijos parametrų skirtingiems vartotojams ar vietose. Pavyzdžiui, norite papildomų etikečių vartotojų grupei arba kitą numatytąją vartotojų pogrupio etiketę.
+9. Jei sukuriate daugiau nei vieną etikečių strategiją, kuri gali sukelti konfliktą vartotojui arba vietai, peržiūrėkite strategijos tvarką ir, jei reikia, perkelkite juos aukštyn arba žemyn. Norėdami pakeisti etiketės strategijos tvarką, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Perkelti aukštyn arba** Perkelti **žemyn**.
 
-Užbaigę vediklį automatiškai publikuojama Žymos strategija.
+Vediklio užbaigimas automatiškai publikuoja etikečių strategiją.
 
