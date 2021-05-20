@@ -1,5 +1,5 @@
 ---
-title: Slaptumo žymių publikavimas
+title: Slaptumo žymų publikavimas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748267"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539724"
 ---
-# <a name="publish-sensitivity-labels"></a><span data-ttu-id="13c55-102">Slaptumo žymių publikavimas</span><span class="sxs-lookup"><span data-stu-id="13c55-102">Publish sensitivity labels</span></span>
+# <a name="publish-sensitivity-labels"></a><span data-ttu-id="99983-102">Slaptumo žymų publikavimas</span><span class="sxs-lookup"><span data-stu-id="99983-102">Publish sensitivity labels</span></span>
 
-<span data-ttu-id="13c55-103">Norėdami paskelbti jautrumo žymes, atlikite šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="13c55-103">To publish sensitivity labels, perform the following steps:</span></span>
+<span data-ttu-id="99983-103">Norėdami publikuoti slaptumo žymas, atlikite šiuos veiksmus:</span><span class="sxs-lookup"><span data-stu-id="99983-103">To publish sensitivity labels, perform the following steps:</span></span>
 
-1. <span data-ttu-id="13c55-104">Pasirinkite " **Office 365" saugos & atitikties centras > klasifikacijos > slaptumo Žymos**.</span><span class="sxs-lookup"><span data-stu-id="13c55-104">Choose **Office 365 Security & Compliance Center > Classification > Sensitivity labels**.</span></span>
-2. <span data-ttu-id="13c55-105">Puslapyje **jautrumo Žymos** spustelėkite skirtuką **etikečių strategijos** .</span><span class="sxs-lookup"><span data-stu-id="13c55-105">On the **Sensitivity labels** page, click the **Label policies** tab.</span></span>
-3. <span data-ttu-id="13c55-106">Spustelėkite **publikuoti etiketes**.</span><span class="sxs-lookup"><span data-stu-id="13c55-106">Click **Publish labels**.</span></span>
-4. <span data-ttu-id="13c55-107">Spustelėkite **pasirinkti, kad būtų publikuojamos slaptumo Žymos**.</span><span class="sxs-lookup"><span data-stu-id="13c55-107">Click **Choose sensitivity labels to publish**.</span></span> 
-5. <span data-ttu-id="13c55-108">Pasirinkite etiketes, kurias norite leisti naudoti programėlėse ir tarnybose, tada spustelėkite **įtraukti**.</span><span class="sxs-lookup"><span data-stu-id="13c55-108">Select the labels that you want to make available in apps and to services, and then click **Add**.</span></span>
+1. <span data-ttu-id="99983-104">Pasirinkite **Office 365 saugos & centre > slaptumo žymos > slaptumo žymos.**</span><span class="sxs-lookup"><span data-stu-id="99983-104">Choose **Office 365 Security & Compliance Center > Classification > Sensitivity labels**.</span></span>
+2. <span data-ttu-id="99983-105">Puslapyje **Slaptumo žymos** spustelėkite skirtuką **Etikečių strategijos.**</span><span class="sxs-lookup"><span data-stu-id="99983-105">On the **Sensitivity labels** page, click the **Label policies** tab.</span></span>
+3. <span data-ttu-id="99983-106">Spustelėkite **Publikuoti žymas**.</span><span class="sxs-lookup"><span data-stu-id="99983-106">Click **Publish labels**.</span></span>
+4. <span data-ttu-id="99983-107">Norėdami **publikuoti, spustelėkite Pasirinkti slaptumo žymas.**</span><span class="sxs-lookup"><span data-stu-id="99983-107">Click **Choose sensitivity labels to publish**.</span></span> 
+5. <span data-ttu-id="99983-108">Pasirinkite etiketes, kurias norite padaryti pasiekiamas programose ir tarnybose, tada spustelėkite **Įtraukti**.</span><span class="sxs-lookup"><span data-stu-id="99983-108">Select the labels that you want to make available in apps and to services, and then click **Add**.</span></span>
 > [!IMPORTANT]
-> <span data-ttu-id="13c55-109">Jei pasirinksite antrinę žymą, įsitikinkite, kad taip pat pažymėjote pirminę žymę.</span><span class="sxs-lookup"><span data-stu-id="13c55-109">If you select a sublabel, ensure you also select its parent label.</span></span>
-6. <span data-ttu-id="13c55-110">Peržiūrėkite pasirinktas etiketes.</span><span class="sxs-lookup"><span data-stu-id="13c55-110">Review the selected labels.</span></span> <span data-ttu-id="13c55-111">Norėdami atlikti kokius nors pakitimus, spustelėkite **Redaguoti**; Priešingu atveju spustelėkite **Pirmyn**.</span><span class="sxs-lookup"><span data-stu-id="13c55-111">To make any changes, click **Edit**; otherwise, click **Next**.</span></span>
-7. <span data-ttu-id="13c55-112">Vykdykite nurodymus, kad konfigūruotumėte strategijos parametrus.</span><span class="sxs-lookup"><span data-stu-id="13c55-112">Follow the prompts to configure the policy settings.</span></span>
-8. <span data-ttu-id="13c55-113">Jei reikia skirtingų strategijos parametrų skirtingiems vartotojams arba vietoms, Kartokite šiuos veiksmus.</span><span class="sxs-lookup"><span data-stu-id="13c55-113">Repeat these steps if you need different policy settings for different users or locations.</span></span> <span data-ttu-id="13c55-114">Pavyzdžiui, norite, kad būtų papildomos vartotojų grupės Žymos arba skirtinga numatytoji vartotojų pogrupio etiketė.</span><span class="sxs-lookup"><span data-stu-id="13c55-114">For example, you want additional labels for a group of users, or a different default label for a subset of users.</span></span>
-9. <span data-ttu-id="13c55-115">Jei kuriate daugiau nei vieną žymų strategiją, dėl kurios vartotojas arba vieta gali sukelti konfliktą, peržiūrėkite strategijos tvarką ir, jei reikia, perkelkite jas aukštyn arba žemyn.</span><span class="sxs-lookup"><span data-stu-id="13c55-115">If you create more than one label policy that might result in a conflict for a user or location, review the policy order and if necessary, move them up or down.</span></span> <span data-ttu-id="13c55-116">Norėdami pakeisti žymų strategijos tvarką, pasirinkite **...** **daugiau veiksmų**, tada pasirinkite **perkelti aukštyn** arba **Perkelti žemyn**.</span><span class="sxs-lookup"><span data-stu-id="13c55-116">To change the order of a label policy, select **...** for **More actions**, and then select **Move up** or **Move down**.</span></span>
+> <span data-ttu-id="99983-109">Jei pasirinksite sublabel, įsitikinkite, kad taip pat pasirinksite jos pirminę etiketę.</span><span class="sxs-lookup"><span data-stu-id="99983-109">If you select a sublabel, ensure you also select its parent label.</span></span>
+6. <span data-ttu-id="99983-110">Peržiūrėkite pasirinktas žymas.</span><span class="sxs-lookup"><span data-stu-id="99983-110">Review the selected labels.</span></span> <span data-ttu-id="99983-111">Norėdami atlikti keitimus, spustelėkite **Redaguoti**; kitu atveju spustelėkite **Pirmyn**.</span><span class="sxs-lookup"><span data-stu-id="99983-111">To make any changes, click **Edit**; otherwise, click **Next**.</span></span>
+7. <span data-ttu-id="99983-112">Vykdykite raginimus ir konfigūruokite strategijos parametrus.</span><span class="sxs-lookup"><span data-stu-id="99983-112">Follow the prompts to configure the policy settings.</span></span>
+8. <span data-ttu-id="99983-113">Kartokite šiuos veiksmus, jei reikia skirtingų strategijos parametrų skirtingiems vartotojams ar vietose.</span><span class="sxs-lookup"><span data-stu-id="99983-113">Repeat these steps if you need different policy settings for different users or locations.</span></span> <span data-ttu-id="99983-114">Pavyzdžiui, norite papildomų etikečių vartotojų grupei arba kitą numatytąją vartotojų pogrupio etiketę.</span><span class="sxs-lookup"><span data-stu-id="99983-114">For example, you want additional labels for a group of users, or a different default label for a subset of users.</span></span>
+9. <span data-ttu-id="99983-115">Jei sukuriate daugiau nei vieną etikečių strategiją, kuri gali sukelti konfliktą vartotojui arba vietai, peržiūrėkite strategijos tvarką ir, jei reikia, perkelkite juos aukštyn arba žemyn.</span><span class="sxs-lookup"><span data-stu-id="99983-115">If you create more than one label policy that might result in a conflict for a user or location, review the policy order and if necessary, move them up or down.</span></span> <span data-ttu-id="99983-116">Norėdami pakeisti etiketės strategijos tvarką, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Perkelti aukštyn arba** Perkelti **žemyn**.</span><span class="sxs-lookup"><span data-stu-id="99983-116">To change the order of a label policy, select the three dots (more actions), and then select **Move up** or **Move down**.</span></span>
 
-<span data-ttu-id="13c55-117">Užbaigę vediklį automatiškai publikuojama Žymos strategija.</span><span class="sxs-lookup"><span data-stu-id="13c55-117">Completing the wizard automatically publishes the label policy.</span></span>
+<span data-ttu-id="99983-117">Vediklio užbaigimas automatiškai publikuoja etikečių strategiją.</span><span class="sxs-lookup"><span data-stu-id="99983-117">Completing the wizard automatically publishes the label policy.</span></span>
 
