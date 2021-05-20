@@ -1,5 +1,5 @@
 ---
-title: 'Kaip patikrinti, ar domenas '
+title: 'Kaip patikrinti savo domeną '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683874"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569623"
 ---
-# <a name="how-to-verify-your-domain"></a>Kaip patikrinti, ar domenas
+# <a name="how-to-verify-your-domain"></a>Kaip patikrinti savo domeną
 
-Norėdami patikrinti domeną, atlikite domeno [įtraukimo vediklį](https://admin.microsoft.com/Adminportal#/Domains/Wizard)arba rankiniu būdu eikite į **sąrankos**  >  **domenų**  >  **įtraukimas**.
+Norėdami patikrinti domeną, vykdykite vediklį [Įtraukti domeną](https://admin.microsoft.com/Adminportal#/Domains/Wizard)arba rankiniu būdu eikite **į**  >  **Domenų įtraukimas**  >  **domeno nustatymas**.
 
-Daugiau informacijos apie DNS pokyčius, reikalingus norint patvirtinti domeną, ieškokite instrukcijose [įtraukti DNS įrašus, kad prijungtumėte savo domeną](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Daugiau informacijos apie DNS keitimus, reikalingus jūsų domenui patikrinti, žr. instrukcijas, pateiktas [DNS įrašų įtraukimas, kad būtų galima prijungti domeną.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Jei turite klausimų apie kitus domenus, skaitykite [domenų DUK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Kitų domenų klausimų žr. Duk apie [domenus](/microsoft-365/admin/setup/domains-faq).

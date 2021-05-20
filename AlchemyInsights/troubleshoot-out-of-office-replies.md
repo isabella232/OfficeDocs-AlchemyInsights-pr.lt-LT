@@ -1,5 +1,5 @@
 ---
-title: Automatinių atsakymų trikčių šalinimas iš "Office"
+title: Trikčių šalinimas iš Office automatinių atsakymų
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832246"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573718"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Automatinių atsakymų trikčių šalinimas iš "Office"
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Trikčių šalinimas iš Office automatinių atsakymų
 
-Įvairios galimos priežastys gali būti problemų priežastis, atsižvelgiant į tai, kaip sukonfigūravote automatinius atsakymus iš "Office".
+Įvairios galimos priežastys gali būti problemų priežastis, atsižvelgiant į tai, kaip sukonfigūravote automatinių atsakymų Office išjungimą.
 
-Norėdami geriau suprasti, kur gali būti problema, skaitykite Atsakymų supratimas ir trikčių šalinimas iš  ["Office" (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Norėdami geriau suprasti, kur gali būti problema, žr. Atsakymai apie ["Out of Office" (OOF) atsakymus ir trikčių diagnostiką.](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)

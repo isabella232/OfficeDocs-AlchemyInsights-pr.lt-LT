@@ -1,5 +1,5 @@
 ---
-title: 2681 atakos simuliatorius programoje "Microsoft 365"
+title: 2681 attack Simulator in Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801559"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545734"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>"Microsoft 365" atakos simuliatorius
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator in Microsoft 365
 
-- Ar trūksta atakos treniruoklio? Atakos simuliatorius reikalauja **"Microsoft Defender" "office 365" plano 2 (ATP 2 planas) arba "** **Office 365 Enterprise E5** ". Atakos **simuliatorius neįtrauktas į** "Microsoft Defender", skirtą "Office 365" 1 planas (ATP 1 planas), "Office 365 Enterprise E3" arba bet kurią "Microsoft 365" verslui prenumeratų taikomąsias programas.
+- Ar jums trūksta atakos simuliatoriaus? "Attack Simulator" **reikia "Microsoft" sargybos Office 365 2 arba** **Office 365 Enterprise E5.** Atakos **simuliatorius** neįtrauktas į "Microsoft" sargybą, Office 365 1 planą, "Office 365 Enterprise E3" arba "Microsoft 365" programos verslui prenumeratas.
 
-- Paskyrai, kurią naudojate norėdami inicijuoti modeliuojamoms atakoms, reikia visuotinių administratoriaus ar saugos administratoriaus teisių ir kelių dalių autentifikavimo (MFA). Daugiau informacijos apie atakos imitatoriaus reikalavimus rasite [šioje temoje](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Paskyrai, kurią naudojate imituoties atakoms paleisti, reikia visuotinio administratoriaus arba saugos administratoriaus teisių ir kelių dalių autentifikavimo (MFA). Daugiau informacijos apie atakos simuliatoriaus reikalavimus žr. [šioje temoje](/microsoft-365/security/office-365-security/attack-simulator).
 
-- Svarbūs dalykai, kuriuos reikia žinoti apie **brute force slaptažodžio** atakos modeliavimą:
+- Svarbūs dalykai, kuriuos reikia žinoti apie **"Brute Force Password"** atakos modeliavimą:
 
-  - Jei paskirties paskyroje įgalinta MFA ir slaptažodis buvo tinkamai atspėtas, paskyra nebus rodoma kaip pažeista (antrasis autentifikavimo faktorius bus neišsamus).
+  - Jei paskirties paskyroje įgalintas MFA ir slaptažodis buvo atspėjamas tinkamai, paskyra nebus rodoma kaip pažeista (antrasis autentifikavimo koeficientas bus neišsamus).
 
-  - Slaptažodžio failas negali būti didesnis nei 10 MB. Naudokite vieną slaptažodį eilutėje ir įtraukite tuščią eilutę (grįžties mygtuką) po paskutinio slaptažodžio sąraše.
+  - Slaptažodžio failas negali būti didesnis nei 10 MB. Naudokite vieną slaptažodį vienoje eilutėje ir įtraukite tuščią eilutę (gabenimo grąžinimą) po paskutinio sąrašo slaptažodžio.
 
-- Svarbūs dalykai, kuriuos reikia žinoti apie " **Spear phishing** " pridėti modeliavimų:
+- Svarbūs dalykai, kuriuos reikia žinoti apie **sukčiavimo apsimetant pridėjimo** modeliavimą:
 
-  - Pagal dizainą negalite pateikti " **phishing" prisijungimo serverio URL** pasirinktinio reikšmės.
+  - Pagal dizainą negalite pateikti pasirinktinės reikšmės apsimestinių duomenų **registravimosi serverio URL.**
 
-  - Jei gavėjas naudoja [ataskaitos pranešimo priedą įgalinti](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) , kad pranešimas būtų praneštas kaip sukčiavimas apsimetant, galite negauti pranešimo įspėjimų (nes tai sumodeliuotas išpuolis).
+  - Jei gavėjas [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) naudoja ataskaitos pranešimo papildinyje įgalinti pranešimą kaip sukčiavimą apsimetant, galite negauti įspėjimų apie pranešimą (nes tai yra imituota ataka).
 
-- Ataskaitos: po modeliuojamos atakos, galite spustelėti **atakuoti informaciją** , kad matytumėte ataskaitą.
+- Ataskaitos: kai imituota ataka bus baigta, galite spustelėti **Atakos išsami informacija,** kad pamatytumėte ataskaitą.
 
-- Išsamių instrukcijų ir naujų funkcijų atakos simuliatoriuje ieškokite ["Microsoft 365" atakos simuliatorius](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Išsamias instrukcijas ir naujas "Attack Simulator" funkcijas žr. [Atakos simuliatorius Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).

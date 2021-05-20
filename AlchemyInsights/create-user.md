@@ -1,5 +1,5 @@
 ---
-title: Vartotojo kūrimas
+title: Kurti vartotoją
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747020"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569739"
 ---
-# <a name="create-user"></a>Vartotojo kūrimas
+# <a name="create-user"></a>Kurti vartotoją
 
-**SKELBIMU**
+**PRANEŠIMAS:**
 
-- [Žiniatinklio rodinio prisijungimo palaikymo palaikymas iš "Google" nuo sausio 4 d., 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Patikrinkite, ar jūsų programėlėms gali turėti įtakos šios ["Google" rekomendacijos](https://go.microsoft.com/fwlink/?linkid=2157323) dėl suderinamumo bandymų.
-- Įsitikinkite, kad prisijungę prie vartotojų "Google" paskyrų naudojate sistemos žiniatinklio rodinį arba sistemos naršyklę. Daugiau informacijos ieškokite straipsnyje [prisijungimo prie taikomosios programos (-ų) problemos naudojant tik "Chrome" naršyklę](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- ["WebView" prisijungimo palaikymo nutraukimas iš "Google" nuo 2021 m. sausio 4 d.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Patikrinkite, ar jūsų programoms gali turėti įtakos ["Google" suderinamumo](https://go.microsoft.com/fwlink/?linkid=2157323) tikrinimo rekomendacijos.
+- Įsitikinkite, kad naudojate sistemos žiniatinklio rodinį arba sistemos naršyklę prisijungę prie vartotojų naudodami vartotojų "Google" paskyras. Daugiau informacijos žr. [Prisijungimo prie programos (-ų) naudojant tik "Chrome" naršyklę problemos.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
-**Negaliu sukurti naujo vartotojo "Azure AD" kataloge**
+**Negaliu sukurti naujo vartotojo savo "Azure AD" kataloge**
 
-1. Įsitikinkite, kad turite teisę sukurti naują standartinį vartotoją. Tik visuotinis administratorius arba vartotojo administratorius vaidmuo "Azure Active Directory" (AD) gali sukurti naują standartinį vartotoją. Jei nesate nė vieno iš šių vaidmenų, paprašykite administratoriaus, kad įtrauktumėte jus į vieną iš šių vaidmenų arba sukurtumėte naują vartotojo paskyrą.
-1. Įsitikinkite, kad vartotojo vardas yra domene, kuris patikrintas jūsų "Azure AD". Jei "Azure AD" neturite jokių patikrintų pasirinktinio domenų vardų, galite naudoti "Azure AD" pradinį domeną, kuris baigiasi *. onmicrosoft.com.
-1. Įsitikinkite, kad vartotojo vardas priklauso domenui, kuris nėra sujungtas su "Azure AD" iš vietinio skelbimo. Vartotojų negalima įtraukti į debesį su domenų pavadinimais, kurie yra susieti vietinėje organizacijoje.
-1. Įsitikinkite, kad joks kitas vartotojas arba kontaktas jau turi vartotojo vardą, kurį norite priskirti naujam vartotojui. Vartotojų vardai turi būti unikalūs "Azure AD".
-1. Ieškokite "Azure AD" [vaidmenų ir administratorių](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) "Azure AD".
-1. Peržiūrėkite "Azure AD" [domenų vardus](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) .
-1. Peržiūrėkite [audito žurnalus](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) , kad matytumėte išsamesnę informaciją apie neseniai sukurtą arba panaikintą vartotoją, pvz., kas atliko veiksmą ir kada.
-1. Daugiau informacijos apie naujų vartotojų įtraukimą ieškokite " [Azure" portalo naudojimas kuriant naują vartotoją "AZURE ad](/azure/active-directory/active-directory-users-create-azure-portal)".
-1. "Azure [AD" administravimo vaidmenys](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): "Azure Active Directory" administratoriaus vaidmens teisės
-1. Taip pat galite [naudoti "AZURE ad PowerShell", kad sukurtumėte naują vartotoją](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. Įsitikinkite, kad turite teisę sukurti naują standartinį vartotoją. Tik visuotinis administratorius arba vartotojo administratoriaus vaidmuo "Azure Active Directory" (AD) gali sukurti naują standartinį vartotoją. Jei neturite vieno iš šių vaidmenų, paprašykite administratoriaus įtraukti jus į vieną iš šių vaidmenų arba sukurti naują vartotojo paskyrą už jus.
+1. Įsitikinkite, kad vartotojo vardas yra domene, kuris patvirtintas jūsų "Azure AD". Jei "Azure AD" neturite patikrintų pasirinktinių domenų vardų, galite naudoti "Azure AD" pradinį domeną, kuris baigiasi *.onmicrosoft.com.
+1. Įsitikinkite, kad vartotojo vardas yra domene, kuris nėra susietas su "Azure AD" iš jūsų vietinio AD. Vartotojų negalima įtraukti į debesį su domenų vardais, kurie yra išoriniai iš vietinės.
+1. Įsitikinkite, kad joks kitas vartotojas ar kontaktas dar neturi vartotojo vardo, kurį norite priskirti naujam vartotojui. Vartotojų vardai turi būti unikalūs visoje "Azure AD".
+1. Žr. ["Azure AD" vaidmenys ir "Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) AD" administratoriai.
+1. Peržiūrėkite ["Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) AD" domenų vardus.
+1. Peržiūrėkite [audito žurnalus,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) kad pamatytumėte išsamesnę informaciją apie neseniai sukurtą arba panaikintus vartotoją, pvz., kas atliko veiksmą ir kada.
+1. Daugiau informacijos apie naujų vartotojų įtraukimą žr. ["Azure" portalo naudojimas kuriant naują vartotoją "Azure AD".](/azure/active-directory/active-directory-users-create-azure-portal)
+1. ["Azure AD" administravimo vaidmenys:](/azure/active-directory/active-directory-assign-admin-roles)administratoriaus vaidmens teisės "Azure Active Directory"
+1. Taip pat galite [naudoti "Azure AD PowerShell", kad sukurtumėte naują vartotoją.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

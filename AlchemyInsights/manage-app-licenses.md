@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
-ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
+ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50237576"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545655"
 ---
 # <a name="manage-app-licenses"></a>Taikomųjų programų licencijų valdymas
 
 ## <a name="to-change-license-quantity"></a>Licencijos kiekio keitimas
 
-**Peržiūrėkite vaizdo įrašą** , kuriame rodoma, kaip tai padaryti: [pirkti naujas licencijas](https://go.microsoft.com/fwlink/p/?linkid=2154857) arba [pašalinti esamas licencijas](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**ŽIŪRĖKITE vaizdo įrašą,** kuriame rodoma, kaip tai padaryti: [naujų licencijų įsigykite](https://go.microsoft.com/fwlink/p/?linkid=2154857) [arba pašalinkite esamas licencijas](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Skirtuko **produktai** sekcijoje **programos** raskite norimą valdyti taikomąją programą. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **pirkti licencijas**.
-3. Jei norite sumažinti licencijų skaičių, srities **įsigyti licencijas** viršuje pasirinkite **pašalinti licencijas**.
-4. Norėdami įsigyti arba pašalinti licencijas, dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių. Pavyzdžiui, jei turite "100" licencijas ir norite įtraukti dar penkis, įveskite 105. Jei norite pašalinti penkis iš jų, Įvesk 95.
-5. Pasirinkite **įrašyti**.
+1. Eikite į **puslapį**  >  **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Skirtuko **Produktai** sekcijoje **Programėlės** raskite programą, kurią norite valdyti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Pirkti licencijas**.
+3. Jei norite sumažinti licencijų skaičių, srities Pirkti **licencijas** viršuje pasirinkite **Pašalinti licencijas**.
+4. Norėdami įsigyti arba pašalinti  licencijas,  lauke Bendras licencijų skaičius dalyje Naujas kiekis įveskite bendrą licencijų, kurias norite naudoti šiai prenumeratai, skaičių. Pavyzdžiui, jei turite 100 licencijų ir norite įtraukti dar penkis, įveskite 105. Jei norite pašalinti penkis iš jų, įveskite 95.
+5. Pasirinkite **Įrašyti**.
 
-## <a name="to-assign-app-licenses"></a>Taikomųjų programų licencijų priskyrimas
+## <a name="to-assign-app-licenses"></a>Programų licencijų priskyrimas
 
-1. Eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Skirtuko **produktai** sekcijoje **programos** raskite ir pasirinkite norimą valdyti taikomąją programą.
-3. Dalyje **parametrai & veiksmai** pasirinkite saitą, kurį norite **tvarkyti programos "Publisher" portale**.
+1. Eikite į **puslapį**  >  **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Skirtuko **Produktai** sekcijoje Programėlės **raskite** ir pasirinkite programą, kurią norite valdyti.
+3. Dalyje **Parametrai & veiksmai** pasirinkite saitą Valdyti **leidėjo portale**.
