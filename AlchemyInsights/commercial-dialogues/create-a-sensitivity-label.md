@@ -1,5 +1,5 @@
 ---
-title: Jautrumo Žymos kūrimas
+title: Slaptumo žymos kūrimas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747878"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543765"
 ---
-# <a name="create-a-sensitivity-label"></a>Jautrumo Žymos kūrimas
+# <a name="create-a-sensitivity-label"></a>Slaptumo žymos kūrimas
 
 Norėdami sukurti slaptumo žymą, atlikite šiuos veiksmus:
 
-1. Eikite į " **[Office 365" saugos & atitikties centras](https://sip.protection.office.com/) > klasifikacijos > jautrumo etiketes**.
-2. Spustelėkite **+ kurti žymę** , kad pradėtumėte **naują jautrumo žymių** vedlį. Norėdami gauti daugiau informacijos apie šifravimo parametrus ir automatinį ženklinimą, peržiūrėkite [apriboti prieigą prie turinio naudodami šifravimą jautrumo etiketėse](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) ir atitinkamai [taikyti jautrumo žymą turiniui automatiškai](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Pakartokite šiuos veiksmus, kad sukurtumėte daugiau etikečių. Tačiau jei norite sukurti antrinę žymą, pirmiausia pasirinkite pirminę žymę, spustelėkite **...** **daugiau veiksmų**, tada spustelėkite **Pridėti antrinę žymą**.
-4. Sukūrę visas reikiamas etiketes, peržiūrėkite jų tvarką ir, jei reikia, perkelkite jas aukštyn arba žemyn. Norėdami pakeisti Žymos tvarką, spustelėkite **...** **daugiau veiksmų**, tada spustelėkite **perkelti aukštyn** arba **Perkelti žemyn**. 
+1. Eikite į **[Office 365 saugos & centro](https://sip.protection.office.com/) > slaptumo žymos > slaptumo žymas.**
+2. Spustelėkite **+ Sukurkite etiketę, kad** pradėtumėte naują **slaptumo žymos vediklį.** Daugiau informacijos apie šifravimo parametrus ir [](/microsoft-365/compliance/encryption-sensitivity-labels) automatinį ženklinimą žr. Prieigos prie turinio apribojimas naudojant šifravimą slaptumo žymose ir Automatiškai taikyti slaptumo [žymą](/microsoft-365/compliance/apply-sensitivity-label-automatically)turiniui.
+3. Pakartokite šiuos veiksmus, kad sukurtumėte daugiau etikečių. Tačiau, jei norite sukurti sublabel, pirmiausia pasirinkite pirminę etiketę, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Įtraukti papildomos etiketės**.
+4. Sukūrę visas reikiamas etiketes, peržiūrėkite jų tvarką ir, jei reikia, perkelkite jas aukštyn arba žemyn. Norėdami pakeisti etiketės tvarką, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Perkelti aukštyn arba** Perkelti **žemyn**. 

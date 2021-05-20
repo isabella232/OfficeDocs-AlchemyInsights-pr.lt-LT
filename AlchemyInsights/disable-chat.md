@@ -1,5 +1,5 @@
 ---
-title: Išjungti pokalbį
+title: Pokalbio išjungimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088890"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573754"
 ---
-# <a name="disable-chat"></a>Išjungti pokalbį
+# <a name="disable-chat"></a>Pokalbio išjungimas
 
-Norėdami išjungti savo organizacijos pokalbį, galite kurti strategijas, leidžiančias valdyti pokalbių ir kanalo pranešimų funkcijas. Yra keli būdai, kaip tai atlikti, atsižvelgiant į tai, kaip reikia sukonfigūruoti pokalbį.
+Norėdami įjungti arba išjungti pokalbį savo organizacijoje, galite sukurti strategijas, kurios leis jums kontroliuoti, kurios pokalbių ir kanalo pranešimų funkcijos galimos. Tai galima atlikti keliais būdais, atsižvelgiant į tai, kaip reikia konfigūruoti pokalbį.
 
-- **Pranešimai**: **"teams"** administravimo centre eikite į [pranešimų strategijas](https://admin.teams.microsoft.com/)ir perjunkite arba **išjunkite** pokalbį. Daugiau informacijos apie tinkintas pranešimų strategijas ir kaip priskirti strategijas vartotojams, žr. " [teams" pranešimų strategijų tvarkymas](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
-- **Susitikimas**: "teams" administravimo centre eikite į [susitikimo strategijas](https://admin.teams.microsoft.com/) – pokalbio nustatymas **leidžia pokalbio metu susitikimuose**. Daugiau informacijos apie pasirinktinių susitikimo strategijų kūrimą ieškokite [susitikimų strategijų valdymas "teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) " ir [leidimas pokalbiuose susitikimuose](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
-- **Svečių vartotojai**: galite sukonfigūruoti svečio prieigos strategijas, leidžiančias svečiams naudotis pokalbiu, kuris gali įjungti arba **išjungti** **pokalbį** . Daugiau informacijos rasite " [teams" administravimo centro Svečių prieigos konfigūravimas](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **Studentams**: Norėdami išjungti pokalbį studentams, peržiūrėkite parinktis, skirtas leisti pokalbiams susitikimuose ir leisti "1:1" pokalbyje " [teams" politikoje ir politikos paketuose švietimui](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+- **Susitikimas**: Teams centre eikite į [Susitikimo strategijos](https://admin.teams.microsoft.com/) – pokalbio parametras yra Leisti **pokalbį susitikimuose**. Daugiau informacijos, kaip kurti pasirinktines susitikimų strategijas, žr. Susitikimų [strategijų valdymas Teams](/microsoftteams/meeting-policies-in-teams) Ir Leisti [kalbėtis susitikimuose](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
+- **M*essaging**: "Teams administravimo centre eikite į [Pranešimų](https://admin.teams.microsoft.com/)strategijos ir įjunkite **arba** išjunkite **pokalbį**. Daugiau informacijos apie pasirinktinių pranešimų strategijas ir strategijų priskyrimą vartotojams žr. Pranešimų strategijų [valdymas](/microsoftteams/messaging-policies-in-teams)Teams .
+
+- **Studentai**: Norėdami išjungti mokinio pokalbį, žr. pokalbio susitikimų ir 1:1 pokalbio 1:1 Teams švietimo strategijos ir [strategijos paketų parinktis.](/microsoftteams/policy-packages-edu)
+
+- Svečio vartotojai: galite konfigūruoti svečio prieigos strategijas, kad svečiai galėtų pasiekti pokalbį, kas gali perjungti **pokalbio įjungimą arba** **išjungimą.** Daugiau informacijos žr. [Svečio prieigos konfigūravimas Teams administravimo centre](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
 
 
 

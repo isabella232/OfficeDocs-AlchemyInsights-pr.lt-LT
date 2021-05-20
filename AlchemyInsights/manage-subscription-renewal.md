@@ -1,10 +1,11 @@
 ---
 title: Prenumeratos atnaujinimo valdymas
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195243"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545528"
 ---
 # <a name="manage-subscription-renewal"></a>Prenumeratos atnaujinimo valdymas
 
 Norėdami valdyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba išjungti **periodinius atsiskaitymus**.
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymas > [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Administravimo centre eikite į puslapį  >  **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Skirtuke **Produktai** raskite prenumeratą, kurią norite valdyti, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite Redaguoti **periodinį atsiskaitymą**.
+3. Srityje **Redaguoti periodinį atsiskaitymą** pasirinkite **Įjungtos**, **Įjungtos, Atnaujinti vieną kartą** arba **Išjungta**.
+4. Pasirinkite **Įrašyti**.
 
-2. Pasirinkite prenumeratą, kurios pasikartojančius atsiskaitymus norite valdyti.
+Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-3. Dalyje **Atsiskaitymas**, šalia **Atnaujinama** arba **Baigia galioti**, pasirinkite **Redaguoti**.
-
-4. **Pasikartojančių atsiskaitymų parametrų** srityje pasirinkite **Išjungti**, kad išjungtumėte. Jei pasikartojantis atsiskaitymas jau išjungtas, norėdami jį įjungti, spustelėkite **Kas mėnesį** arba **Vieną kartą**.
-
-5. Spustelėkite **Pateikti keitimą**.
-
-Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

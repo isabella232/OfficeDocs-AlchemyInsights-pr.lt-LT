@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088438"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569803"
 ---
 # <a name="change-default-domain"></a>Numatytojo domeno keitimas
 
-Įtraukus pasirinktinį domeną naudojant [domeno įtraukimo vedlį,](https://portal.office.com/adminportal/home#/Domains/Wizard)pasirinktinis domenas tampa numatytuoju domenu naujiems vartotojams, bet esami vartotojai nekeičiami.
+Įtraukus pasirinktinį domeną naudojant [domeno įtraukimo vediklį,](https://admin.microsoft.com/Adminportal#/Domains/Wizard)pasirinktinis domenas tampa numatytuoju domenu naujiems vartotojams, bet esami vartotojai nepasikeičia.
 
-- Norėdami pakeisti numatytąjį domeną į esamą domeną, [puslapyje Domenai](https://admin.microsoft.com/Adminportal/Home#/Domains)pasirinkite domeną , tada pasirinkite **Nustatyti kaip numatytąjį**.
+- Norėdami pakeisti numatytąjį domeną į esamą domeną, pasirinkite domeną puslapyje [Domenai](https://admin.microsoft.com/Adminportal/Home#/Domains), tada pasirinkite **Nustatyti kaip numatytąjį**.
 
-- Norėdami pakeisti esamų vartotojų domeno vardą, [puslapyje Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home#/users) pasirinkite kelis **vartotojus,** pasirinkite **...,**, tada pasirinkite Keisti domenus .
+- Norėdami pakeisti esamų vartotojų domeno vardą, puslapyje [Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home#/users) pasirinkite kelis vartotojus, tada pasirinkite **Keisti domenus**.
 
-- Norėdami pakeisti domeną arba įtraukti vieno vartotojo pseudonimą, [puslapyje Aktyvūs vartotojai](https://admin.microsoft.com/Adminportal/Home#/users) pasirinkite vartotojo vardą, tada pasirinkite **Tvarkyti vartotojo vardą ir el. paštą**.
+- Norėdami pakeisti domeną arba įtraukti vieno vartotojo pseudonimą, puslapyje Aktyvūs vartotojai pasirinkite vartotojo vardą, tada pasirinkite **Valdyti vartotojo vardą ir el. paštą.** [](https://admin.microsoft.com/Adminportal/Home#/users)
 
-.onmicrosoft.com pradinio domeno pervardyti arba pašalinti negalima.
+.onmicrosoft.com pradinio domeno negalima pervardyti arba pašalinti.

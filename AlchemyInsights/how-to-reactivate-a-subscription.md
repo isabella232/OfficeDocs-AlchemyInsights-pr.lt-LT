@@ -2,34 +2,32 @@
 title: Prenumeratos aktyvinimas iš naujo
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "441"
 - "1500017"
-ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2260ee6053cbb728167a36fb019f0500fe49732d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509140"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544370"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Prenumeratos aktyvinimas iš naujo
 
 Jei baigėsi jūsų prenumeratos galiojimo laikas, prenumerata buvo atšaukta arba ją išjungė „Microsoft“, prenumeratą iš naujo galite suaktyvinti „Microsoft 365“ administravimo centre.
   
-1. Administravimo centre eikite į puslapį **Atsiskaitymas** \> **[už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Administravimo centre eikite į  puslapį \> [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Skirtuke **Produktai** raskite prenumeratą, kurią norite aktyvinti iš naujo. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Iš naujo aktyvinti šią prenumeratą**.
+    Jei nematote šios prenumeratos **aktyvinimo iš naujo kaip galimų** veiksmų, skambinkite palaikymo tarnybai.
+3. Srityje **Iš naujo suaktyvinti šią** prenumeratą išplečiamajame sąraše pasirinkite mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.
+4. Pasirinkite **Įrašyti**.
 
-2. Pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti. Sekcijoje**Atsiskaitymas** pasirinkite**Aktyvinti iš naujo**.
-
-    Jei tarp galimų veiksmų nematote parinkties **Aktyvinti iš naujo**, kreipkitės į palaikymo tarnybą, kad jūsų prenumerata būtų suaktyvinta iš naujo.
-
-3. Patvirtinkite savo mokėjimo duomenis. Jau esančią mokėjimo informaciją galite atnaujinti čia. Kai įvesite mokėjimo būdą, pasirinkite **Aktyvinti iš naujo**.
-
-Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

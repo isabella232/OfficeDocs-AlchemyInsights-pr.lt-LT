@@ -1,29 +1,31 @@
 ---
 title: „Microsoft“ prenumeratos atšaukimas
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707750"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543333"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>„Microsoft“ prenumeratos atšaukimas
 
-1. Eikite į [Tarnybos & prenumeratos](https://account.microsoft.com/services/)ir prisijunkite naudodami „Microsoft“ paskyrą, kurią naudojote įsigydami prenumeratą.
+Administratoriai gali atšaukti savo organizacijos prenumeratą Microsoft 365 administravimo centre.
 
-2. Raskite savo prenumeratą ir spustelėkite **Valdyti**. Jei matote **Periodinio atsiskaitymo įjungimas** vietoj **Valdyti**, pereikite prie skyriaus Trikčių šalinimas. Kitu atveju pereikite prie 3 veiksmo.
+1. Eikite į **puslapį** \> [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Skirtuke  Produktai raskite prenumeratą, kurią norite atšaukti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
+3. Srityje **Prenumeratos atšaukimas** pasirinkite atšaukimo priežastį. Jei norite, pateikite atsiliepimą.
+4. Pasirinkite **Įrašyti**.
 
-3. Kitame puslapyje spustelėkite **Atšaukti** arba **Atnaujinti arba atšaukti**, atsižvelgiant į jūsų prenumeratos tipą.
-
-4. Vykdykite puslapyje pateiktas instrukcijas, kad atšauktumėte.
+**Pinigų grąžinimas:** Per kitą atsiskaitymo ciklą jums bus grąžintas bet koks prorated credit.

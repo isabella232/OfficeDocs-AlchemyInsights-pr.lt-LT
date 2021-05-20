@@ -1,5 +1,5 @@
 ---
-title: Kaip tvarkyti papildinius skaitant laišką
+title: Kaip tvarkyti papildiniai skaitant pranešimą
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713879"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544008"
 ---
-# <a name="how-to-manage-add-ins-while-reading-a-message"></a>Kaip tvarkyti papildinius skaitant laišką
+# <a name="how-to-manage-add-ins-while-reading-a-message"></a>Kaip tvarkyti papildiniai skaitant pranešimą
 
-1. "Outlook" žiniatinklyje pasirinkite laišką.
+1. Žiniatinklio Outlook pasirinkite pranešimą.
     
-2. Pasirinkite **daugiau veiksmų** pranešimo viršuje.
+2. Pranešimo viršuje pasirinkite tris taškus (daugiau veiksmų).
 
-3. Eikite į sąrašo apačią ir pasirinkite **gauti papildinius**.
+3. Eikite į sąrašo apačią ir **pasirinkite Gauti papildinių**.
     
-4. Puslapyje "Outlook" papildiniai pasirinkite norimą papildinį.
+4. Puslapyje Papildiniai, skirti Outlook pasirinkite norimą priedą.
     
-    Norėdami įtraukti nemokamų papildinių, pasirinkite **įtraukti** , kad įtrauktumėte jį į savo pašto dėžutę.
+    Jei norite gauti nemokamų papildiniai, pasirinkite **Įtraukti,** kad įtrauksite juos į pašto dėžutę.
     
-    Norėdami gauti mokamų papildinių ir nemokamų bandomųjų versijų, pasirinkite **gauti jį** , kad pradėtumėte pirkti.
+    Jei reikia mokamų papildinių ir nemokamų bandymų, pasirinkite **Gauti, kad** pradėtumėte pirkimą.
     
-Daugiau informacijos ieškokite ["Outlook" papildinių naudojimas internetinėje "Outlook"](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
+Daugiau informacijos [žr. Papildiniai Outlook internete.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)
