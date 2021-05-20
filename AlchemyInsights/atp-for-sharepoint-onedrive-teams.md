@@ -1,5 +1,5 @@
 ---
-title: ATP, skirtos "SharePoint", "OneDrive" ir "Microsoft teams"
+title: "\"Microsoft\" sargyba Office 365, SharePoint, \"OneDrive\" ir Microsoft Teams"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715569"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543585"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP, skirtos "SharePoint", "OneDrive" ir "Microsoft teams"
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>"Microsoft" sargyba Office 365, SharePoint, "OneDrive" ir Microsoft Teams
 
-Atlikite šiuos veiksmus, kad įgalintumėte patobulintų grėsmių apsaugą:
+Atlikite šiuos veiksmus, kad įgalintumėte "Microsoft" sargybą Office 365:
 
-1. Eikite į [https://protection.office.com](https://protection.office.com) ir prisijunkite naudodami visuotinio administratoriaus arba saugos administratoriaus paskyrą.
+1. Eikite [https://protection.office.com](https://protection.office.com) ir prisijunkite naudodami visuotinio administratoriaus arba saugos administratoriaus paskyrą.
 
-2. Kairiojoje naršymo srityje, dalyje **grėsmių valdymas**, pasirinkite **strategijos** \> **saugos priedai**.
+2. Kairiojoje naršymo srityje dalyje **Grėsmių valdymas** pasirinkite  \> **Strategijos Seifas priedai**.
 
-3. Pasirinkite **įjungti "SharePoint", "OneDrive" ir "Microsoft teams" ATP**.
+3. Pasirinkite **Įjungti sargybą Office 365, SharePoint, "OneDrive" ir Microsoft Teams.**
 
-4. [Sukurkite veiklos įspėjimų strategiją](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) , kad gautumėte pranešimus, kai aptiksime kenkėjiškus failus.
+4. [Sukurkite veiklos įspėjimo strategiją,](/microsoft-365/compliance/create-activity-alerts) kad galėtume gauti pranešimus, kai aptinkame kenkėjiškus failus.
 
-Išsamių instrukcijų ieškokite šioje [temoje](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Išsamių instrukcijų ieškokite straipsnyje ["Seifas" priedų SharePoint, ""OneDrive"" ir "Microsoft Teams".](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Pastaba**: pagal dizainą, ATP nenuskaito nė vieno failo "SharePoint Online", "OneDrive" verslui arba "Microsoft teams". Failai skenuojami asinchroniškai pagal procesą, kuris naudoja bendro naudojimo veiklą, svečio veiklą ir grėsmių signalus, kad identifikuotų kenkėjiškus failus. Daugiau informacijos ieškokite šioje [temoje](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Pastaba:** pagal dizainą "Microsoft" Office 365", skirta "SharePoint Online", ""OneDrive" verslui" arba "Microsoft Teams". Failai nuskaitomi asinchroniškai pagal procesą, kuris naudoja bendrinimo veiklą, svečių veiklą ir grėsmių signalus kenkėjiškiems failams identifikuoti. Daugiau informacijos žr. [Seifas priedų SharePoint, "OneDrive" ir Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

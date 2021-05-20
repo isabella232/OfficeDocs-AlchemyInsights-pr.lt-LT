@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233398"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543657"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Kaip sukurti slaptumo žymą
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233398"
 
     Norėdami sužinoti daugiau apie automatinį ženklinimą, [žr. Slaptumo žymos nustatymas turiniui automatiškai](https://go.microsoft.com/fwlink/?linkid=2105837).
 
-1. Pakartokite šiuos veiksmus, kad sukurtumėte daugiau etikečių. Tačiau, jei norite sukurti sublabel, pirmiausia pasirinkite pirminę etiketę, **pasirinkite ...** **daugiau** veiksmų , tada pasirinkite Įtraukti **papildomos etiketės**.
+1. Pakartokite šiuos veiksmus, kad sukurtumėte daugiau etikečių. Tačiau, jei norite sukurti sublabel, pirmiausia pasirinkite pirminę etiketę, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Įtraukti papildomos etiketės**.
 
 1. Sukūrę visas reikiamas etiketes, peržiūrėkite jų tvarką ir, jei reikia, perkelkite jas aukštyn arba žemyn. 
     
-    Norėdami pakeisti etiketės tvarką, pasirinkite **...** daugiau **veiksmų**, tada pasirinkite **Perkelti aukštyn arba** Perkelti **žemyn**.
+    Norėdami pakeisti etiketės tvarką, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Perkelti aukštyn arba** Perkelti **žemyn**.

@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Defender for Office 365\""
+title: "\"Microsoft\" sargyba Office 365"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801235"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542901"
 ---
-# <a name="microsoft-defender-for-office-365"></a>"Microsoft Defender for Office 365"
+# <a name="microsoft-defender-for-office-365"></a>"Microsoft" sargyba Office 365
 
-- Saugūs priedai, saugūs saitai ir apsauga nuo sukčiavimo apsimetant priklauso "Microsoft Defender", skirto "Office 365" (ATP). "Enterprise E5", "Education A5" ir "Microsoft 365 Business Premium" apima ATP. Visiems kitiems planams reikia priedo ATP prenumeratos.
+- Seifas Priedai, Seifas saitai ir apsauga nuo sukčiavimo apsimetant yra "Microsoft" sargybos dalis, skirta Office 365. "Enterprise E5", "Education A5" ir Microsoft 365 Business Premium "Microsoft" sargybos Office 365. Visiems kitiems planams reikalingas "Microsoft" sargybos priedas, skirtas Office 365 prenumeratai.
 
-- Turite priskirti reikiamas licencijas, kad apsaugotumėte savo vartotojus "Office 365 ATP". Peržiūrėkite [šią temą](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) instrukcijas, kaip masiškai taikyti licencijas vartotojams.
+- Turite priskirti atitinkamas licencijas, kad "Microsoft" sargyba apsaugotų vartotojus Office 365. [Instrukcijas, kaip masiškai taikyti licencijas vartotojams,](/microsoft-365/admin/add-users/add-users) žr. Vartotojų įtraukimas ir licencijų priskyrimas vienu metu.
 
-- Visuotiniai administratoriai arba saugos administratoriai gali pasiekti "Office 365 ATP" funkcijas saugos & atitikties centre **grėsmių valdymo** \> **strategijoje** .
+- Visuotiniai administratoriai arba saugos administratoriai gali pasiekti "Microsoft" sargybą, kad Office 365 saugos ir & centro **grėsmių managmeent** \> **strategijos funkcijas.**
 
-- Saugius priedus ir saugaus susiejimo strategijas galima aprėpčiai jums visą organizaciją, konkrečius domenus arba mažesnes vartotojų grupes.
+- Seifas Priedai ir Seifas saitų strategijos gali būti taikomos visai organizacijai, konkretiems domenams arba mažesnėms vartotojų grupėms.
 
-- Nėra numatytosios ATP saugaus priedo strategijos. Turite [sukurti strategiją](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ir taikyti ją savo vartotojams.
+- Nėra numatytosios priedo Seifas strategijos. Turite sukurti [strategiją ir](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) taikyti ją savo vartotojams.
 
-- Yra numatytoji ATP saugos saitų strategija, taikoma visiems jūsų organizacijos nariams. Norėdami redaguoti šią strategiją arba kurti tinkintas strategijas, peržiūrėkite [šią temą](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Yra numatytoji saitų Seifas, kuri taikoma visiems organizacijos nariams. Norėdami redaguoti šią strategiją arba kurti pasirinktines strategijas, žr. [Seifas "Microsoft" sargybos saitų strategijų Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

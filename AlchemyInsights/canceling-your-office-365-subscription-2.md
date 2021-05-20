@@ -1,5 +1,5 @@
 ---
-title: Atšauksite savo "Microsoft" 365 prenumeratą?
+title: Atšaukiate savo Microsoft 365 prenumeratą?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232015"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543225"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Atšauksite savo "Microsoft" 365 prenumeratą?
+# <a name="canceling-your-microsoft-365-subscription"></a>Atšaukiate savo Microsoft 365 prenumeratą?
 
-Apgailestaujame, kad jūs einate!
+Atsiprašome, kad išeisite!
   
-Atsižvelgdami į savo organizacijos duomenis, manome, kad visi jūsų esami prenumeratos turi daugiau nei 25 priskirtas licencijas. Prieš atšaukdami:
+Pagal jūsų organizacijos duomenis manome, kad visose dabartinėse prenumeratose yra daugiau nei 25 priskirtos licencijos. Prieš atšaukiant:
 
-1. Pašalinkite vartotojų licencijas, kol turite mažiau nei 25 licencijuotus vartotojus.
-2. Eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-3. Skirtuke **produktai** raskite prenumeratą, kurią norite atšaukti, pasirinkite **daugiau veiksmų** (trys taškai), tada pasirinkite **atšaukti prenumeratą**.
+1. Pašalinkite vartotojų licencijas, kol turite mažiau nei 25 licencijuotų vartotojų.
+2. Eikite į **puslapį** \> **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. Skirtuke **Produktai** raskite prenumeratą, kurią norite atšaukti, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
 
-**Grąžinimas:** Bet koks proporcintas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.
+**Pinigų grąžinimas:** Per kitą atsiskaitymo ciklą jums bus grąžintas bet koks prorated credit.
 
-Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

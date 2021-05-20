@@ -1,5 +1,5 @@
 ---
-title: Papildomų licencijų įsigijimas
+title: Papildomų licencijų įsigykite
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232303"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543549"
 ---
-# <a name="buy-additional-licenses"></a>Papildomų licencijų įsigijimas
+# <a name="buy-additional-licenses"></a>Papildomų licencijų įsigykite
 
-**Peržiūrėkite vaizdo įrašą** , kuriame rodoma, kaip tai padaryti: [licencijų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**WATCH a video** that shows how to do this: [Buy licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Skirtuke **produktai** raskite prenumeratą, kurios licencijas norite įsigyti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **pirkti licencijas**.
-3. Dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių. Pavyzdžiui, jei turite "100" licencijas ir norite įtraukti dar 25, įveskite 125.
-4. Pasirinkite **įrašyti**.
+1. Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Skirtuke  Produktai raskite prenumeratą, kurios licencijas norite įsigyti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Pirkti licencijas**.
+3. Lauke **Bendras** licencijos **dalyje Naujas kiekis** įveskite bendrą licencijų, kurias norite naudoti šiai prenumeratai, skaičių. Pavyzdžiui, jei turite 100 licencijų ir norite įtraukti dar 25, įveskite 125.
+4. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau, skaitykite [licencijų pirkimas arba šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Norėdami sužinoti daugiau, [žr. Licencijų įsigykite arba pašalinkite](/microsoft-365/commerce/licenses/buy-licenses).
 
 **Papildomi ištekliai**
 
-- [Licencijų priskyrimas vartotojams "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Licencijų priskyrimas vartotojams Microsoft 365 verslui](/microsoft-365/admin/manage/assign-licenses-to-users)

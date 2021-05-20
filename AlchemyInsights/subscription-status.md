@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286966"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542793"
 ---
 # <a name="subscription-status"></a>Prenumeratos būsena
 
-Prenumeratos būsena, galiojimo pabaigos data ir licencijų skaičius galima rasti "Microsoft 365" administravimo centro puslapyje **produktai** .
+Prenumeratos būseną, galiojimo datą ir licencijų skaičių  rasite "Microsoft 365" administravimo centro puslapyje Jūsų produktai.
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pagal numatytuosius numatytuosius, skirtuke **produktai** matysite visas prenumeratas ir jų būseną (aktyvi, galiojimas baigėsi, išjungta arba panaikinta). Norėdami peržiūrėti visų prenumeratų pogrupį, pasirinkite filtro piktogramą, tada pasirinkite **prenumeratos būseną** , kurią norite matyti.
-3. Norėdami iš naujo suaktyvinti nebegaliojančią arba išjungtą prenumeratą, pasirinkite **daugiau veiksmų** (trys taškai), tada pasirinkite **iš naujo suaktyvinti šią prenumeratą**.
-4. Puslapyje **jūsų produktai** taip pat rodoma ši informacija:
-    - Vartotojams priskirtų licencijų skaičius rodomas stulpelyje **priskirtos licencijos** .
-    - Visas produktų, įtrauktų į produktų paketą, licencijų skaičius rodomas stulpelyje **nupirktas kiekis** .
-    - Galiojimo pabaigos arba atnaujinimo data stulpelyje **prenumeratos būsena** .
-    - Mokėjimo už kiekvieną prenumeratą mokėjimo būdas rodomas stulpelyje **apmokėta** .
-    - Atsiskaitymo paskyra, susieta su kiekviena prenumerata, rodoma stulpelyje **atsiskaitymo paskyra** .
-5. Norėdami įtraukti arba pašalinti stulpelius, pasirinkite **pasirinkti stulpelius**.
+1. Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Skirtuke **Produktai** pagal numatytuosius nustatymus matysite visas prenumeratas ir jų būseną (Aktyvi, Nebegaliojanti, Išjungta arba Panaikinta). Norėdami pamatyti visų prenumeratų poaiį, pasirinkite filtro piktogramą, tada pasirinkite **prenumeratos būseną,** kurią norite matyti.
+3. Norėdami iš naujo suaktyvinti pasibaigusią arba išjungtą prenumeratą, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Iš naujo suaktyvinti šią prenumeratą**.
+4. Puslapyje **Jūsų** produktai taip pat rodoma ši informacija:
+    - Vartotojams priskirtų licencijų skaičius rodomas **stulpelyje Priskirtos licencijos.**
+    - Bendras licencijų, įtrauktų į prenumeratą, skaičius rodomas **stulpelyje Įsigytas kiekis.**
+    - Galiojimo pabaigos arba atnaujinimo data **stulpelyje Prenumeratos** būsena.
+    - Mokėjimo būdas, naudojamas mokėti už kiekvieną prenumeratą, rodomas **stulpelyje Mokama naudojant.**
+    - Atsiskaitymo paskyra, susieta su kiekviena prenumerata, rodoma **stulpelyje Atsiskaitymo** paskyra.
+5. Norėdami įtraukti arba pašalinti stulpelius, pasirinkite **Pasirinkti stulpelius**.

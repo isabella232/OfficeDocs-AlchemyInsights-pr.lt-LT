@@ -1,5 +1,5 @@
 ---
-title: Išplėstinė apsauga nuo grėsmių "SharePoint" ir "OneDrive"
+title: Išplėstinė apsauga nuo grėsmių SharePoint "OneDrive"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663341"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542937"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Išplėstinė apsauga nuo grėsmių (ATP) "SharePoint" ir "OneDrive"
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender for Office 365 in SharePoint and "OneDrive"
 
 Peržiūrėkite šiuos dalykus:
-- [ATP, skirtos "SharePoint", "OneDrive" ir komandoms](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Threat Explorer ir Realtime aptikimą](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- ["Microsoft" sargyba Office 365, SharePoint, "OneDrive" ir Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Threat Explorer and Realtime detections](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Papildoma informacija:
 
-- [Viruso aptikimas SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Duomenų šifravimas ODB ir SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Duomenų apsauga "SharePoint"](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- ["Ransomware" aptikimas ir failų atkūrimas](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Virusų aptikimas SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Duomenų šifravimas ODB ir SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Duomenų apsauga SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Išpirkos reikalaujančių programų aptikimas ir failų atkūrimas](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

@@ -1,5 +1,5 @@
 ---
-title: Atšaukti patobulintų grėsmių apsaugą
+title: Atšaukti išplėstinę apsaugą nuo grėsmių
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416267"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543513"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Atšaukti patobulintų grėsmių apsaugą
+# <a name="cancel-advanced-threat-protection"></a>Atšaukti išplėstinę apsaugą nuo grėsmių
 
-Administratoriai gali atšaukti savo organizacijos "Microsoft 365" administravimo centre patobulintų grėsmių apsaugos prenumeratą.
+Administratoriai gali atšaukti savo organizacijos išplėstinės apsaugos nuo grėsmių prenumeratą Microsoft 365 administravimo centre.
 
-1. Eikite į puslapį **atsiskaitymo**  >  [produktai](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Skirtuke **produktai** raskite išplėstinį grėsmės apsaugos planą, kurį norite atšaukti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.
-3. Srityje **atšaukti prenumeratą** pasirinkite priežastį, kodėl atšaukiate. Pasirinktinai pateikite atsiliepimų.
-4. Pasirinkite **įrašyti**.
+1. Eikite į **puslapį**  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Skirtuke **Produktai** raskite išplėstinės apsaugos nuo grėsmių planą, kurį norite atšaukti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
+3. Srityje **Prenumeratos atšaukimas** pasirinkite atšaukimo priežastį. Jei norite, pateikite atsiliepimą.
+4. Pasirinkite **Įrašyti**.
 
-**Grąžinimas:** Bet koks proporcintas kreditas bus grąžintas jums per kitą atsiskaitymo ciklą.
+**Pinigų grąžinimas:** Per kitą atsiskaitymo ciklą jums bus grąžintas bet koks prorated credit.
 
-Norėdami sužinoti daugiau, peržiūrėkite [prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

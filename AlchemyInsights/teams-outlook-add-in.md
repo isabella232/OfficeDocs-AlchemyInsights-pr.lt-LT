@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook add-in
+title: Teams Outlook (Bendrinti su "Teams", Susitikti dabar, Naujas Teams susitikimas, Prisijungimas prie Teams susitikimo)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835027"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542757"
 ---
-# <a name="teams-outlook-add-in"></a>Teams Outlook add-in
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook (Bendrinti su "Teams", Susitikti dabar, Naujas "Teams" susitikimas, Prisijungimas prie Teams susitikimo)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Trūkstamo "Teams Outlook" priedo trikčių šalinimas
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Trūkstamo papild Teams Outlook trikčių šalinimas
 
-1. Paleiskite tarnybos diagnostiką administravimo portale. 
-2. Jei tarnybos diagnostikos priemonė nurodo, kad nėra problemų, diagnozuoja ir ištaiso kliento problemas paveiktuose vartotojų kompiuteriuose atsisiųsdama ir paleisdama ["Microsoft" palaikymo](https://aka.ms/SaRA-TeamsAddInScenario)ir atkūrimo pagalbinės priemonės  >  **"Teams" papildinio scenarijų**.
+1. Paleiskite diagnostinę "Team Add-in is missing in in Outlook", kuri patvirtina, kad vartotojas turi tinkamas strategijas, kad Teams Outlook papildinį. Norėdami pasiekti diagnostiką, ieškos **lauke Teams** įveskite Outlook nėra papildinys.
 
-Norėdami rankiniu būdu pašalinti trūkstamo "Teams Outlook" papildinių triktis, peržiūrėkite galimų veiksnių, dėl kurių "Teams" papildiniai gali būti nerodomi, sąrašą. Daugiau informacijos ieškokite ["Teams Meeting" papildinių programoje "Outlook", skirtoje "Windows", nerodo](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Jei tarnybos diagnostikos tarnyba nurodo, kad nėra problemų, diagnozuoja ir ištaiso kliento problemas paveiktuose vartotojų kompiuteriuose atsisiųsdama ir [paleisdama "Microsoft palaikymo ir atkūrimo pagalbinė priemonė](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook papildinio scenarijų.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>"Teams" susitikimo planavimo kito asmens vardu trikčių šalinimas (atstovas)
+Norėdami rankiniu būdu pašalinti Teams Outlook papildinių triktis, peržiūrėkite sąrašą galimų veiksnių, kurie gali Teams, kad jūsų papildiniai nebūtų rodomi sąraše. Daugiau informacijos [žr. Teams susitikimo papildinių Outlook, Windows nerodo](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-Norėdami planuoti "Teams" susitikimą kito asmens vardu, žr. ["Microsoft Teams" ir "Exchange Server" sąveikos trikčių šalinimas.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Susitikimo planavimo trikčių Teams kito asmens vardu (atstovas)
+
+Norėdami suplanuoti Teams susitikimą kito asmens vardu, [žr. Trikčių Microsoft Teams ir Exchange Server trikčių šalinimas.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
