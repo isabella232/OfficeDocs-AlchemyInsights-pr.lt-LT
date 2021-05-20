@@ -1,10 +1,11 @@
 ---
 title: Baigėsi prenumeratos galiojimo laikas
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,41 +13,36 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158625"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544298"
 ---
-# <a name="subscription-expired"></a><span data-ttu-id="fc84d-102">Baigėsi prenumeratos galiojimo laikas</span><span class="sxs-lookup"><span data-stu-id="fc84d-102">Subscription expired</span></span>
+# <a name="subscription-expired"></a><span data-ttu-id="662d2-102">Baigėsi prenumeratos galiojimo laikas</span><span class="sxs-lookup"><span data-stu-id="662d2-102">Subscription expired</span></span>
 
-<span data-ttu-id="fc84d-103">Jei jūsų prenumeratos galiojimas baigėsi, ją išjungė „Microsoft“ arba jei atšaukėte prenumeratą įpusėjus jos galiojimo laikotarpiui, administravimo centre galite ją suaktyvinti iš naujo.</span><span class="sxs-lookup"><span data-stu-id="fc84d-103">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of the subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="662d2-103">Jei jūsų prenumeratos galiojimas baigėsi, ją išjungė „Microsoft“ arba jei atšaukėte prenumeratą įpusėjus jos galiojimo laikotarpiui, administravimo centre galite ją suaktyvinti iš naujo.</span><span class="sxs-lookup"><span data-stu-id="662d2-103">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of the subscription term, you can reactivate it in the admin center.</span></span>
 
-<span data-ttu-id="fc84d-104">**Prenumeratos aktyvinimas iš naujo**</span><span class="sxs-lookup"><span data-stu-id="fc84d-104">**Reactivate a subscription**</span></span>
+<span data-ttu-id="662d2-104">**Prenumeratos aktyvinimas iš naujo**</span><span class="sxs-lookup"><span data-stu-id="662d2-104">**Reactivate a subscription**</span></span>
 
-1. <span data-ttu-id="fc84d-105">Administravimo centre eikite į puslapį **Atsiskaitymas > [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-105">In the admin center, go to the **Billing > [Products & Services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="662d2-105">Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="662d2-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="662d2-106">Skirtuke **Produktai** raskite prenumeratą, kurią norite aktyvinti iš naujo, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite Iš **naujo aktyvinti šią prenumeratą**.</span><span class="sxs-lookup"><span data-stu-id="662d2-106">On the **Products** tab, find the subscription that you want to reactivate, select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="662d2-107">Jei nematote šios prenumeratos **aktyvinimo iš naujo**, kreipkitės į palaikymo tarnybą.</span><span class="sxs-lookup"><span data-stu-id="662d2-107">If you don't see **Reactivate this subscription**, contact support.</span></span>
+3. <span data-ttu-id="662d2-108">Srityje **Iš naujo suaktyvinti šią** prenumeratą išplečiamajame sąraše pasirinkite mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.</span><span class="sxs-lookup"><span data-stu-id="662d2-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="662d2-109">Pasirinkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="662d2-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="fc84d-106">Puslapyje Produktai ir paslaugos pasirinkite prenumeratą, kurią norite iš naujo suaktyvinti.</span><span class="sxs-lookup"><span data-stu-id="fc84d-106">On the Products & services page, find the subscription that you want to reactivate.</span></span>
+<span data-ttu-id="662d2-110">Norėdami gauti daugiau informacijos, žr. [Prenumeratos aktyvinimas iš naujo](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="662d2-110">For more info, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-3. <span data-ttu-id="fc84d-107">Dalyje Atsiskaitymas spustelėkite **Aktyvinti iš naujo dabar**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-107">In the Billing section, click **Reactivate now**.</span></span>  <span data-ttu-id="fc84d-108">Jei įjungtas Kortelių rodinys, spustelėkite daugtaškį tarp Pavadinimas ir Turimas kiekis, tada meniu pasirinkite Aktyvinti iš naujo.</span><span class="sxs-lookup"><span data-stu-id="fc84d-108">If you are in the Cards view, click the ellipsis between the Name and Available quantity and choose Reactivate from the menu.</span></span> <span data-ttu-id="fc84d-109">**Pastaba**: Jei nerandate ieškomos prenumeratos, gali teikti pakeisti Prenumeratos būsenos filtrą į **Visos**, esantį puslapio viršuje.</span><span class="sxs-lookup"><span data-stu-id="fc84d-109">**Note**: If you don't see the subscription you are looking for, you may need to adjust the Subscription status filter near the top of the page to **All**.</span></span>
+<span data-ttu-id="662d2-111">**Prenumeratos atnaujinimo valdymas**</span><span class="sxs-lookup"><span data-stu-id="662d2-111">**Manage subscription renewal**</span></span>
 
-4. <span data-ttu-id="fc84d-110">Patvirtinkite savo mokėjimo duomenis, kad atnaujintumėte esamą mokėjimo informaciją.</span><span class="sxs-lookup"><span data-stu-id="fc84d-110">Confirm your payment details to update your existing payment information.</span></span> <span data-ttu-id="fc84d-111">Kai įvesite mokėjimo būdą, spustelėkite **Aktyvinti iš naujo**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-111">When you're finished entering your payment method, click **Reactivate**.</span></span>
+<span data-ttu-id="662d2-112">Norėdami valdyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba išjungti pasikartojančius atsiskaitymus.</span><span class="sxs-lookup"><span data-stu-id="662d2-112">To manage monthly or yearly billing you can toggle Recurring billing on or off.</span></span>
 
-<span data-ttu-id="fc84d-112">Norėdami gauti daugiau informacijos, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="fc84d-112">For more info, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+1. <span data-ttu-id="662d2-113">Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="662d2-113">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="662d2-114">Skirtuke  Produktai pasirinkite prenumeratą, kurią norite valdyti.</span><span class="sxs-lookup"><span data-stu-id="662d2-114">On the **Products** tab, select the subscription that you want to manage.</span></span>
+3. <span data-ttu-id="662d2-115">Puslapio Prenumeratos išsami informacija dalyje Prenumeratos **ir mokėjimo parametrai** pasirinkite Redaguoti **periodinį atsiskaitymą**.</span><span class="sxs-lookup"><span data-stu-id="662d2-115">On the subscription details page, under **Subscription and payment settings**, select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="662d2-116">Srityje **Redaguoti periodinio atsiskaitymo parametrus** pasirinkite **Įjungti**, **Įjungti, bet atnaujinti vieną kartą** arba **Išjungti**.</span><span class="sxs-lookup"><span data-stu-id="662d2-116">In the **Edit recurring billing settings** pane, select **On**, **On, but renew once**, or **Turn off**.</span></span>
+5. <span data-ttu-id="662d2-117">Pasirinkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="662d2-117">Select **Save**.</span></span>
 
-<span data-ttu-id="fc84d-113">**Prenumeratos atnaujinimo valdymas**</span><span class="sxs-lookup"><span data-stu-id="fc84d-113">**Manage subscription renewal**</span></span>
-
-<span data-ttu-id="fc84d-114">Norėdami valdyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba išjungti pasikartojančius atsiskaitymus.</span><span class="sxs-lookup"><span data-stu-id="fc84d-114">To manage monthly or yearly billing you can toggle Recurring billing on or off.</span></span>
-
-1. <span data-ttu-id="fc84d-115">Administravimo centre eikite į puslapį **Atsiskaitymas > [Produktai ir paslaugos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-115">In the admin center, go to the **Billing > [Products & Services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-
-2. <span data-ttu-id="fc84d-116">Pasirinkite prenumeratą, kurios pasikartojančius atsiskaitymus norite valdyti.</span><span class="sxs-lookup"><span data-stu-id="fc84d-116">Choose the subscription for which you want to manage recurring billing.</span></span> 
-
-3. <span data-ttu-id="fc84d-117">Dalyje Atsiskaitymas, šalia Atnaujinama arba Baigia galioti, pasirinkite **Redaguoti**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-117">Under Billing, next to Renews on or Expiring on, click **edit**.</span></span>
-
-4. <span data-ttu-id="fc84d-118">Pasikartojančių atsiskaitymų parametrų srityje pasirinkite **Išjungti**, kad išjungtumėte.</span><span class="sxs-lookup"><span data-stu-id="fc84d-118">In the Recurring billing settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="fc84d-119">Jei pasikartojantis atsiskaitymas jau išjungtas, norėdami jį įjungti, spustelėkite **Kas mėnesį** arba **Vieną kartą**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-119">If recurring billing is already turned off, click **Monthly** or **Once** to turn it on.</span></span> 
-
-5. <span data-ttu-id="fc84d-120">Spustelėkite **Pateikti keitimą**.</span><span class="sxs-lookup"><span data-stu-id="fc84d-120">Click **Submit change**.</span></span>
-
-<span data-ttu-id="fc84d-121">Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="fc84d-121">For more info, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="662d2-118">Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="662d2-118">For more info, see [Turn recurring billing off or on](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
