@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Defender ATP\" portalo sekcijų prieigos problemos"
+title: Problemos, susijusios su prieiga prie "Microsoft" sargybos Office 365 portalo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713859"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545240"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>"Microsoft Defender ATP" portalo sekcijų prieigos problemos
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Problemos, susijusios su prieiga prie "Microsoft" sargybos Office 365 portalo
 
-Jei portalo ataskaitų srityje ir kitose sekcijose rodomas klaidos pranešimas, pvz., "šiuo metu nėra duomenų", gali būti, kad tam tikri URL domenai ir visi antriniai domenai yra leidžiami jūsų organizacijoje ir atidaromi ryšiams. 
+Jei portalo ataskaitų srityje ir kitose sekcijose rodomas klaidos pranešimas, pvz., "Šiuo metu duomenys negalimi", tikėtina, kad tam tikri URL domenai ir visi antriniai domenai leidžiami jūsų organizacijoje ir atidaromi bendravimui. 
 
-Daugiau informacijos ieškokite [prenumeratos ir portalo prieigos trikčių šalinimas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).
+Daugiau informacijos žr. Prenumeratos [ir portalo prieigos trikčių šalinimas](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).

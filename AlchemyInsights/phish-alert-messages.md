@@ -1,5 +1,5 @@
 ---
-title: "\"2491\" įspėjimų el. laiškai iš \"Phish\", pateiktos dėl nuomotojo arba vartotojo perrašymo strategijos"
+title: 2491 Įspėjimo el. laiškai iš strategijos "Phish Delivered due to tenant or user override"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728619"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544586"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Įspėjimų el. laiškai iš "Phish", pateiktos dėl nuomotojo arba vartotojo perrašymo strategijos
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Įspėjimo el. laiškai iš "Phish Delivered due to tenant or user override" strategijos
 
-Numatytoji įspėjimų politika, pavadinta "Phish, pateikta dėl nuomotojo arba vartotojo nepaisymo", buvo išskleista nuomininkams su "Office 365" ATP P1 ir P2 licencijomis. Jei gavote šį įspėjimą, atlikite veiksmus, skirtus tyrimui:
+Numatytoji įspėjimo strategija, pavadinta "Phish Delivered due to tenant or user override" (apsimetant pristatyta dėl nuomotojo arba vartotojo perrašymo), buvo išsamūs nuomotojams su "Microsoft" sargyba, skirta "Office 365 P1" ir "P2" licencijoms. Jei gavote šį įspėjimą, toliau pateikiami veiksmai, kuriuos reikia atlikti:
 
-1. Įspėjimo pranešime spustelėkite **Peržiūrėti įspėjimą** , kad pereitumėte į **įspėjimų** puslapį saugos & atitikties centre.
+1. Įspėjimo pranešime spustelėkite Peržiūrėti **įspėjimą,** kad pereidami **į** saugos ir saugos & puslapį.
 
-2. Pasirinkite įspėjimą, kad matytumėte parinktį **Peržiūrėti pranešimų sąrašą** arba **peržiūrėti pranešimus programoje "Explorer"**. Abi šios parinktys padės jums pateikti pranešimo informaciją, kuri apima pranešimo ID. Žinokite, kad saitas Threat Explorer automatiškai filtruos pranešimus, atitinkančius įspėjimų kriterijus. Gali reikėti pakoreguoti datos filtrą grėsmių naršyklėje.
+2. Pasirinkite įspėjimą, kad pamatytumėte parinktį **Peržiūrėti pranešimų sąrašą arba** Peržiūrėti **pranešimus naršyklėje**. Abi šios parinktys pereis prie pranešimo išsamios informacijos, kurioje yra pranešimo ID. Atkreipkite dėmesį, kad "Threat Explorer" saitas automatiškai filtruoja pranešimus, kurie atitinka įspėjimo kriterijus. Gali tekti koreguoti datos filtrą grėsmių naršyklėje.
 
-Apsimestinis laiškas buvo pristatytas dėl neautomatiniu būdu sukonfigūruotos perrašymo:
+Sukčiavimo apsimetant pranešimas buvo pristatytas dėl rankiniu būdu sukonfigūruoto perrašymo:
 
 - Vartotojo nustatytas leistinas siuntėjas arba domenas.
 
-- "Anti-spam" strategijos administratorius nustato leidžiamą siuntėjo arba domeno.
+- Leistinas siuntėjas arba domenas, administratoriaus nustatytas apsaugos nuo pašto šiukšlių politikoje.
 
-- Leidžiamas IP adresas ryšių filtro strategijoje.
+- Leidžiamas IP adresas ryšio filtro politikoje.
 
-- Pašto srauto taisyklė (dar vadinama transportavimo taisykle), sukonfigūruota leisti laiškus.
+- Pašto srauto taisyklė (dar vadinama transportavimo taisykle), sukonfigūruota leisti pranešimus.
 
-Jei manote, kad laiškas klaidingai pažymėtas kaip "Phish", naudokite "Outlook" [ataskaitos pranešimo papildinį](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) , kad pateiktumėte laiškų pavyzdžius "Microsoft".
+Jei manote, kad pranešimas buvo neteisingai pažymėtas kaip sukčiavimas apsimetant, naudokite Outlook [ataskaitos pranešimo papildinį, kad](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) pateiktų pranešimo pavyzdžius "Microsoft".

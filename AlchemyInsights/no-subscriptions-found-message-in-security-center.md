@@ -1,5 +1,5 @@
 ---
-title: Saugos centre nepavyko rasti prenumeratos
+title: Saugos centre neradote pranešimų apie prenumeratas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713959"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544116"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>Saugos centre nepavyko rasti prenumeratos
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>Saugos centre neradote pranešimų apie prenumeratas
 
-Jei prie "Microsoft Defender" saugos centro gaunate pranešimą "nėra prenumeratų", tai reiškia, kad "Azure Active Directory" (AAD), naudojama vartotojui prisijungti prie portalo, nėra "Microsoft Defender ATP" licencijos.  
+Jei bandant pasiekti "Microsoft" sargybos saugos centras gaunate pranešimą "Nerasta prenumeratų", tai reiškia, kad ""Azure Active Directory"" (AAD), naudojamas vartotojui prisijungti prie portalo, neturi "Microsoft" sargybos ATP licencijos.  
 
-"Windows E5" ir "Office E5" licencijos yra atskiros licencijos.
+E5 Windows E5 Office E5 licencijos yra atskiros licencijos.
 
-Atidarykite palaikymo atvejį, jei licencija buvo įsigyta, bet neparengta šiam AAD egzemplioriui. Turite: <br/>
+Atidarykite palaikymo atvejį, jei licencija buvo įsigyta, bet ne su šiuo AAD egzemplioriumi. Turite: <br/>
 -   Galima licencijos parengimo problema.<br/>
--   Netyčia parengėte licenciją kitam "Microsoft AAD" nei ta, kurią naudojote autentifikavimui.
+-   Netyčia suteidėte licenciją kitokiai "Microsoft" AAD nei naudojama autentifikavimui į tarnybą.

@@ -1,5 +1,5 @@
 ---
-title: Kaip atšaukti taikomąją programą
+title: Kaip atšaukti programą
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488853"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544622"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kaip atšaukti programinę įrangą – kaip tarnybų taikomąsias programas
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Kaip atšaukti programinės įrangos kaip tarnybos taikomąsias programas
 
-1. Administravimo centre į puslapį **atsiskaitymas**su  >  [produktais](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Puslapyje **produktai** slinkite žemyn iki sekcijos **programos** ir raskite prenumeratą, kurią norite atšaukti. 
-3. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.
-4. Srityje **atšaukti prenumeratą** pasirinkite priežastį, kodėl atšaukiate. Pasirinktinai pateikite atsiliepimų.
-5. Pasirinkite **įrašyti**.
+1. Administravimo centre, puslapyje **Atsiskaitymas**  >  [už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Puslapyje **Produktai** slinkite žemyn iki **sekcijos** Programėlės ir raskite prenumeratą, kurią norite atšaukti. 
+3. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
+4. Srityje **Prenumeratos atšaukimas** pasirinkite atšaukimo priežastį. Jei norite, pateikite atsiliepimą.
+5. Pasirinkite **Įrašyti**.

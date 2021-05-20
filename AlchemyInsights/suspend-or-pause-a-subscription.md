@@ -1,5 +1,5 @@
 ---
-title: Prenumeratos sustabdymas arba pristabdymas
+title: Prenumeratos sustabdymas arba pristabdimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469094"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544514"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Prenumeratos sustabdymas arba pristabdymas
+# <a name="suspend-or-pause-a-subscription"></a>Prenumeratos sustabdymas arba pristabdimas
 
-Norėdami laikinai sustabdyti arba pristabdyti prenumeratą, galite atšaukti prenumeratą "Microsoft" 365 administravimo centre.
+Norėdami laikinai sustabdyti arba pristabdyti prenumeratą, galite atšaukti prenumeratą Microsoft 365 administravimo centre.
 
-1. Administravimo centre eikite į puslapį **atsiskaitymo**  >  **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Skirtuke **produktai** raskite prenumeratą, kurią norite atšaukti. Pasirinkite **daugiau veiksmų** (tris taškus), tada pasirinkite **atšaukti prenumeratą**.
-3. Prenumeratos būsena rodoma kaip **išjungta** ir rodo prenumeratos atšaukimo datą. Prenumerata išlieka neįgalinta "90" būsenos ir turi mažesnes funkcijas, kol ji bus panaikinta arba [iš naujo suaktyvinta](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. Administravimo centre eikite į puslapį  >  **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Skirtuke  Produktai raskite prenumeratą, kurią norite atšaukti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
+3. Prenumeratos būsena rodoma kaip **Išjungta** ir rodoma prenumeratos atšaukimo data. Prenumerata išlieka išjungtoje būsenoje 90 dienų ir turi mažiau funkcinių galimybių, kol ji bus panaikinta arba [suaktyvinta iš naujo.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Daugiau informacijos rasite [kas nutinka atšaukus prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) ir [įrašius duomenis](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Daugiau informacijos žr. [Kas nutinka, kai atšaukiate prenumeratą ir](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [įrašote duomenis.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
