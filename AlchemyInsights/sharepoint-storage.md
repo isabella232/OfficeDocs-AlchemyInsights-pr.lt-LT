@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" saugykla"
+title: "\"SharePoint Saugyklos internete valdymas"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773747"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689866"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="39e86-102">"SharePoint Online" saugyklos valdymas</span><span class="sxs-lookup"><span data-stu-id="39e86-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="9fa19-102">"SharePoint Saugyklos internete valdymas</span><span class="sxs-lookup"><span data-stu-id="9fa19-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="39e86-103">Sužinokite, kaip [nuomotojo saugykla skaičiuojama](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) pagal jūsų planą.</span><span class="sxs-lookup"><span data-stu-id="39e86-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="9fa19-103">Daugumai organizacijų SharePoint saugykla valdoma automatiškai, todėl jums nereikia nustatyti svetainių rinkinio apribojimų.</span><span class="sxs-lookup"><span data-stu-id="9fa19-103">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span> <span data-ttu-id="9fa19-104">Daugiau informacijos apie tai, kaip apskaičiuojama nuomotojo saugykla pagal jūsų planą, [žr. Apribojimai pagal planą](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).</span><span class="sxs-lookup"><span data-stu-id="9fa19-104">For more information about how tenant storage is calculated based on your your plan, see [Limits by plan](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).</span></span>
 
-<span data-ttu-id="39e86-104">Daugeliui organizacijų "SharePoint" saugykla valdoma automatiškai, todėl jums nereikia nustatyti svetainių rinkinio limitų.</span><span class="sxs-lookup"><span data-stu-id="39e86-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="9fa19-105">Daugiau informacijos rasite:</span><span class="sxs-lookup"><span data-stu-id="9fa19-105">For more information, see:</span></span>
 
-<span data-ttu-id="39e86-105">Sužinokite, kaip [Peržiūrėti bendrą ir turimą savo organizacijos saugyklos vietą](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="39e86-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+- [<span data-ttu-id="9fa19-106">Svetainės saugyklos apribojimų valdymas</span><span class="sxs-lookup"><span data-stu-id="9fa19-106">Manage site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits)
 
-<span data-ttu-id="39e86-106">Sužinokite, kaip [valdyti atskirus svetainių rinkinio saugyklos limitus](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="39e86-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+- [<span data-ttu-id="9fa19-107">Atskirų svetainės saugyklos apribojimų valdymas</span><span class="sxs-lookup"><span data-stu-id="9fa19-107">Manage individual site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-<span data-ttu-id="39e86-107">Jei jūsų svetainė neturi vietos arba norite sužinoti, kuri biblioteka arba sąrašas naudoja tarpą, eikite į **svetainės parametrų**  >  **saugyklos metriką** (reikalingos svetainių rinkinio administratoriaus teisės).</span><span class="sxs-lookup"><span data-stu-id="39e86-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="9fa19-108">Jei jūsų svetainė yra už laisvos vietos arba norite sužinoti, kurioje bibliotekoje ar sąraše naudojama vieta, eikite į **Svetainės Parametrai** Saugyklos  >  **metrika** (svetainių rinkinio administratoriaus teisės yra būtinos).</span><span class="sxs-lookup"><span data-stu-id="9fa19-108">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="39e86-108">Sužinokite, kaip [stebėti svetainių saugyklos limitus naudojant "PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)".</span><span class="sxs-lookup"><span data-stu-id="39e86-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="9fa19-109">Daugiau informacijos rasite:</span><span class="sxs-lookup"><span data-stu-id="9fa19-109">For more information, see:</span></span>
 
-<span data-ttu-id="39e86-109">Sužinokite, kaip [įsigyti papildomos saugyklos vietos](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="39e86-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
+- [<span data-ttu-id="9fa19-110">Svetainės saugyklos apribojimų stebėjimas naudojant "PowerShell"</span><span class="sxs-lookup"><span data-stu-id="9fa19-110">Monitor site storage limits by using PowerShell</span></span>](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [<span data-ttu-id="9fa19-111">Prenumeratos saugyklos vietos įtraukimas</span><span class="sxs-lookup"><span data-stu-id="9fa19-111">Addd storage space for your subscription</span></span>](/microsoft-365/commerce/add-storage-space) 
   
