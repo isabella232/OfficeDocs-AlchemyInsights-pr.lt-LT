@@ -1,5 +1,5 @@
 ---
-title: 1:1 skambučių įrašymas
+title: 1:1 skambučio įrašymas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733857"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696966"
 ---
-# <a name="11-call-recording"></a>1:1 skambučių įrašymas
+# <a name="11-call-recording"></a>1:1 skambučio įrašymas
 
-Administratoriai turi imtis veiksmų dabar, kad vartotojai galėtų įrašyti "1:1" iškvietimus.
- 
-Pradėję balandžio 12 d., 2021, pradėsime vykdyti naują komandų skambinimo strategijos parinktį *Allowcloudrecordingforcalls*. 
+Jei mygtukas **Pradėti** įrašymą yra pilkas 1:1 skambučio metu, turite pakeisti paveikto vartotojo strategijos parametrus.   
 
-Šiuo metu "1:1" skambučių įrašymo galimybes kontroliuoja "teams" susitikimo strategijų parinktis *Allowcloudrecording* . Jei vartotojams leidžiama įrašyti komandų susitikimus, jie taip pat gali įrašyti "1:1" skambutį.
+Nuo 2021 m. gegužės 31 d. pradėsime taikyti naują skambučių Teams *AllowCloudRecordingForCalls.* Prieš šį keitimą 1:1 skambučio įrašą valdo *"AllowCloudRecording"* Teams susitikimo strategija. Šis pakeitimas dokumentuojamas pranešimų centro skelbime: [(atnaujinta) 1:1 Skambučių įrašymo strategijos įvadas](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).  
 
-Jei norite blokuoti visus vartotojus, kad įrašytumėte "1:1" iškvietimus, jums nereikia imtis jokių veiksmų. Numatytoji parinktis *Allowcloudrecordingforcalls* skambinimo strategija bus $FALSE.
+*AllowCloudRecordingForCalls*   skambinimo strategijos parinktis nustatyta **kaip $False pagal** numatytuosius parametrus. Jei norite blokuoti visus vartotojus nuo 1:1 skambučių įrašymo, jums nereikia atlikti jokių veiksmų.  
 
-Šis pakeitimas dokumentuojamas šiame pranešimų centro pranešime: [(atnaujinta) "1:1" skambučių įrašymo strategijos Įvadas](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Norėdami nustatyti "teams" skambinimo strategijos parinktį, turite naudoti " [teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install)".
+Norėdami įgalinti skambučių įrašymą visiems vartotojams 1:1 skambučiuose, naudokite "Teams PowerShell", kad paleistumėte šią "cmdlet": 
 
-**Skambučio įrašymo įgalinimas "1:1" pokalbiuose:** Set-CsTeamsCallingPolicy – tapatybė visuotinis – AllowCloudRecordingForCalls $TRUE
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Norėdami išjungti skambučio įrašymą "1:1" pokalbiuose:** Set-CsTeamsCallingPolicy – tapatybė visuotinis – AllowCloudRecordingForCalls $FALSE
+Taip pat galite sukurti naują strategiją ir **nustatyti -AllowCloudRecordingForCalls** **$true** priskirti šią strategiją vartotojams. 
 
+Daugiau informacijos žr. [1:1 Skambučių įrašymo strategijos valdikliai yra (beveik!) Čia](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).

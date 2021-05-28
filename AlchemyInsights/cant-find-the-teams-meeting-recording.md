@@ -1,5 +1,5 @@
 ---
-title: Nepavyksta surasti komandų susitikimo įrašo
+title: Nerandate susitikimo Teams įrašo
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294250"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696944"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Nepavyksta surasti komandų susitikimo įrašo
+# <a name="cant-find-the-teams-meeting-recording"></a>Nerandate susitikimo Teams įrašo
 
-Jei negalite rasti arba rasti komandos susitikimo įrašo, kreipkitės į šiuos trikčių šalinimo dokumentus:
+Jei negalite rasti arba rasti susitikimo Teams, pirmiausia paleiskite trūkstamų susitikimų įrašymo diagnostiką **įvesdami "Diag:Missing Recording"** aukščiau pateiktame lauke. 
 
-[Komandų susitikimo įrašymo problemų šalinimas – "Microsoft teams" | "Microsoft" dokumentai](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Įrašai randami "Stream", ""OneDrive"" arba "SharePoint" atsižvelgiant į tai, kaip sukonfigūruotas nuomotojas ir ar įrašas buvo kanalo susitikime. Instrukcijas, kaip rankiniu būdu rasti susitikimo įrašą, žr.: 
 
-Jūsų susitikimo įrašymas bus arba "Stream", "OneDrive" arba "SharePoint", atsižvelgiant į tai, kaip sukonfigūruotas jūsų nuomotojas.
+[2 problema: susitikimo įrašymo saitas nėra matomas pokalbio lange](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Nurodymų, kaip rasti susitikimo įrašymą, ieškokite:
-
-**[2 problema: susitikimo įrašo saitas nerodomas pokalbio lange](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Daugiau informacijos žr. [Susitikimo įrašų problemos](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).

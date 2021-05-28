@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809771"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697038"
 ---
 # <a name="recording-in-teams"></a>Įrašymas komandose
 
-Dabar „Microsoft Teams“ susitikimų įrašai gali būti laikomi „OneDrive“ arba „SharePoint“. Norėdami gauti daugiau informacijos ir sutikti, peržiūrėkite žemiau pateiktą pranešimų centro įrašą: [(Atnaujinta) „Microsoft Teams“: susitikimų įrašai įrašyti „OneDrive“ ir „SharePoint“](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Jei vartotojo mygtukas Pradėti įrašymą yra **pilkas** arba jo nėra Teams susitikime, pabandykite paleisti susitikimų įrašymo diagnostiką **įvesdami Diag: Susitikimo** įrašymas aukščiau pateiktame lauke. 
 
-Perkeliant saugyklos vietą į „OneDrive“ arba „SharePoint“ pašalinamas ankstesnis reikalavimas, kad „Stream“ būtų pasiekiama jūsų regione.
+Microsoft Teams susitikimo įrašus dabar galima saugoti ""OneDrive" Sharepoint". Perkėlus saugyklos vietą į "OneDrive" SharePoint, išsprendžiama problema, kai susitikimo įrašai neveikia, nes jūsų regione nėra srauto. Daugiau informacijos žr. ["Microsoft Stream" DUK](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Norėdami sužinoti, kaip **įgalinti ir konfigūruoti įrašymo funkciją** jūsų organizacijai programoje „Teams“, **įskaitant susitikimo įrašymo įgalinimo ir išjungimo valdiklius konkretiems vartotojams**, peržiūrėkite dalį [„Teams“ debesies susitikimų įrašymas](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Daugiau informacijos apie susitikimo įrašų įrašymą žr. pranešimų centro skelbime: [(atnaujinta) Microsoft Teams: susitikimo įrašai, įrašyti į ""OneDrive"" ir "Sharepoint".](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Jeigu **nepavyksta įrašyti programoje „Teams“ arba norite sužinoti, kaip įrašyti** programoje „Teams“, peržiūrėkite vieną iš toliau pateiktų straipsnių:
+Norėdami sužinoti, kaip įgalinti ir konfigūruoti įrašymo funkciją "Teams" organizacijoje, įskaitant konkrečių vartotojų susitikimo įrašymo įgalinimo arba išjungimo valdiklius, [žr. Teams susitikimų įrašymas debesyje](/microsoftteams/cloud-recording). 
 
-- Jei dar nesutikote su „Teams“ susitikimų įrašų saugojimu „OneDrive“ arba „SharePoint“, šie sugebėjimai yra paremti „Stream“ pasiekiamumu jūsų regione ir šalyje. Jei nepavyksta įrašyti susitikimo, patikrinkite ir įsitikinkite, kad [„Stream“ yra pasiekiama jūsų šalyje arba regione](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Norėdami gauti daugiau informacijos, peržiūrėkite žemiau pateiktą pranešimų centro įrašą administravimo portale: [Atnaujinta funkcija: „Microsoft Stream“ debesies įrašų saugojimo regione valdiklis](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Jei vis dar negalite įrašyti "Teams arba turite suprasti, kaip įrašyti "Teams", žr.: 
 
-- „Teams“ susitikimų įrašymui [reikia, kad būtų priskirtos konkrečios licencijos ir strategijos](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), įskaitant „Stream“ licencijas, leidžiančias įrašus nusiųsti į arba atsisiųsti iš „Microsoft Stream“.
+[Atnaujinta funkcija: "Microsoft Stream" debesies įrašai regiono saugyklos valdiklis](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Kai patvirtinsite, jog atitinkami visi reikalavimai, įskaitant licencijavimą, strategijas ir regioninį „Stream“ pasiekiamumą, peržiūrėkite dalį [Susitikimo įrašymas programoje „Teams“](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Norint įrašyti susitikimus "Teams" reikia konkrečių priskirtų licencijų ir strategijų, įskaitant srauto licencijas, kad būtų galima nusiųsti arba atsisiųsti susitikimų įrašus į "Microsoft Stream". Daugiau informacijos [žr. Būtinosios debesies Teams susitikimų įrašymo sąlygos.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Kai patvirtinsite visus reikalavimus, įskaitant licencijavimą, strategijas ir "Stream" pasiekiamumą regione, [peržiūrėkite Susitikimo įrašymas "Teams".](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) 
