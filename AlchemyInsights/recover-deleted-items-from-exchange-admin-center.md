@@ -1,5 +1,5 @@
 ---
-title: Panaikintų elementų atkūrimas iš "Exchange" administravimo centro
+title: Panaikintų elementų atkūrimas iš Exchange administravimo centro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809735"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694748"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>Panaikintų elementų atkūrimas iš "Exchange" administravimo centro
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>Panaikintų elementų atkūrimas iš Exchange administravimo centro
 
-Supaprastintose ir [atnaujintose pašto dėžučių](https://admin.exchange.microsoft.com/#/mailboxes)valdymo funkcijose "Exchange" administravimo centre (EAC) galite pasirinkti konkrečias vartotojų pašto dėžutes ir atkurti elementus.
+Supaprastintame ir [atnaujintame pašto dėžučių](https://admin.exchange.microsoft.com/#/mailboxes)valdymo Exchange administravimo centre (EAC) galite pasirinkti konkrečias vartotojų pašto dėžutes ir atkurti elementus.
 
 1. Dalyje **Gavėjai pasirinkite** pašto **dėžutės.**
 2. Pasirinkite vartotoją, iš kurio norite atkurti el. laiškus.
 3. Pasirinkite **Atkurti panaikintus elementus**.
     - Jums gali tekti ieškoti po **... daugiau** išplečiamojo sąrašo, kad **pamatytumėte panaikintų elementų atkūrimas**.
 4. Pasirinkite filtro parinktis, kad rastumėte elementus, kuriuos reikia atkurti.
+
+Daugiau informacijos žr. [Naujo EAC naudojimas panaikinties laiškams atkurti.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)
