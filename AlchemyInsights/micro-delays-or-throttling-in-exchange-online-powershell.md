@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830041"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702134"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Mikrodelsa arba ribojimas „Exchange Online PowerShell“
 
-Kai „Exchange Online“ paleidžiate scenarijus ir „cmdlet“, galite matyti įspėjimus „Micro delay applied“ (taikoma mikrodelsa) arba delsą. Štai du su tuo susiję pasiūlymai:
+Kai „Exchange Online“ paleidžiate scenarijus ir „cmdlet“, galite matyti įspėjimus „Micro delay applied“ (taikoma mikrodelsa) arba delsą. Štai keli pasiūlymai, kaip išspręsti šią problemą:
 
-- Galite pabandyti naudoti [„Exchange Online“ v2 „PowerShell“ modulį](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), apimantį „CMDlet“, kurie yra pagrįsti REST API ir gerokai efektyvesni. Tai gali būti puikus sprendimas daugeliui dažnai naudojamų „Get-CMDlet“.
-- Jei jums reikia naudoti „CMDlet“, kurios dar neįtrauktos į v2 modulį, žr. [„PowerShell“ „cmdlet“ vykdymas dideliam „Office 365“ vartotojų skaičiui](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), kur kalbama apie tai, kaip elgtis su numatomais „PowerShell“ ribojimo limitais „Exchange Online“.
+- Paleiskite mūsų diagnostiką, kad atpalaidavę nuomotojo "PowerShell" sustojimo strategijas. Šis sprendimas dažniausiai išspręs problemą.
+- Jei problema vis dar neišspręsta, [naudokite "Exchange Online v2" "PowerShell"](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)modulį, kuriame yra CMDlets, kurie pagrįsti REST API ir yra gerokai efektyvesni. Tai gali būti puikus sprendimas daugeliui dažnai naudojamų „Get-CMDlet“.
+- Jei reikia naudoti CMDlets, kurios nėra įtrauktos į "v2" modulį, žr. ["PowerShell" cmdlet](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)naudojimas dideliam "Office 365" vartotojų skaičius, kuriame kalbama apie tai, kaip pasiekti "PowerShell" apribojimų apribojimus "Exchange Online".
