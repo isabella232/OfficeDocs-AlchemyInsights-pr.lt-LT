@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft 365\" programų aktyvinimas"
+title: Aktyvinti Microsoft 365 programėles
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823039"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798616"
 ---
-# <a name="activating-microsoft-365-apps"></a>"Microsoft 365" programų aktyvinimas
+# <a name="activating-microsoft-365-apps"></a>Aktyvinti Microsoft 365 programėles
+
+**Pastaba:** jei naudojate senesnę "Windows versiją (pvz., "Windows 7"), įsitikinkite, kad TLS 1.2 įgalinta kaip numatytoji. Daugiau informacijos žr. Naujinimas, kad [įgalintumėte TLS 1.1 ir TLS 1.2 kaip numatytuosius saugos protokolus "WinHTTP" Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
 Norėdami suaktyvinti „Office“:
 
@@ -27,7 +29,7 @@ Norėdami suaktyvinti „Office“:
 
 - [„Office“ aktyvinimas „Mac“ kompiuteryje](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Pastaba:**  Įsitikinkite, kad turite "Office 365" arba "Microsoft 365" prenumeratą, kuri apima ["Office"](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)kliento programas, pvz., "Microsoft 365 Business Standard", "Microsoft 365" verslui programas arba "Microsoft 365" taikomąsias programas įmonėms. Be to, įsitikinkite, kad vartotojo paskyra, kurią naudojate prisijungdami prie "Office" [programų, turi priskirtą licenciją.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Pastaba:**  Įsitikinkite, kad turite Office 365 arba Microsoft 365, kuri [apima "Office"](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)kliento programas, pvz., "Microsoft 365 Business Standard", ""Microsoft 365" programos verslui" arba ""Microsoft 365" programos įmonėms". Be to, įsitikinkite, kad vartotojo paskyra, kurią naudojate prisijungdami prie Office programos [turi priskirtą licenciją.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Jei norite pašalinti „Office“ aktyvinimo problemas, žr.:
 
@@ -38,7 +40,7 @@ Jei norite pašalinti „Office“ aktyvinimo problemas, žr.:
 
 **Patarimas** „Windows“ kompiuteriuose galime diagnozuoti ir automatiškai už jus išspręsti kelias bendrąsias „Office“ prisijungimo problemas. Atsisiųskite ir paleiskite **[„Microsoft“ palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SaRA-OfficeSignInScenario)**, kad būtų galima naudoti mūsų automatinį įrankį.
 
-Jei negalite prisijungti prie "Microsoft 365" programų, atlikite toliau nurodytus veiksmus.
+Jei negalite prisijungti prie "Microsoft 365", atlikite toliau nurodytus veiksmus.
 
 1. Atidarykite „Office“ programą ir [atsijunkite](https://go.microsoft.com/fwlink/?linkid=2114082) nuo visų esamų vartotojų paskyrų.
 
@@ -46,6 +48,6 @@ Jei negalite prisijungti prie "Microsoft 365" programų, atlikite toliau nurodyt
 
 3. Naudodami „Windows“ **Parametrai > Paskyros > Prieiga prie darbo ar mokymo įstaigos**, atjunkite senas ar nenaudojamas darbo paskyras.
 
-4. [Iš naujo nustatykite „Office“ aktyvinimo būseną](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), tada [Prisijunkite prie „Office“](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) programų naudodami naują paskyrą.
+4. [Iš naujo nustatykite „Office“ aktyvinimo būseną](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), tada [Prisijunkite prie „Office“](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) programų naudodami naują paskyrą.
 
 Daugiau informacijos žr. [Atidarius „Office 365“ programą rodomas prenumeratos pranešimas](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
