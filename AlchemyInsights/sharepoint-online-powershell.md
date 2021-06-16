@@ -1,5 +1,5 @@
 ---
-title: "\"Sharepoint Online PowerShell\""
+title: "\"Sharepoint PowerShell\" nepavyksta prisijungti"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774367"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931019"
 ---
-# <a name="sharepoint-online-powershell"></a>"Sharepoint Online PowerShell"
+# <a name="sharepoint-powershell-unable-to-connect"></a>"Sharepoint PowerShell" nepavyksta prisijungti
 
-Dirbate su "PowerShell" arba scenarijais "Sharepoint Online"? Daugiau informacijos rasite toliau pateikiamuose saitų puslapyje.
-- [Darbo su "SharePoint Online Management Shell" pradžia](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Prisijungimas į SPO "PowerShell" su keliųfaktorių autentifikavimu (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint modeliai ir praktika (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) yra "PowerShell" komandų biblioteka, kuri leidžia atlikti sudėtingus SPO valdymo veiksmus.
+Jei kyla problemų jungiantis prie "SharePoint Online PowerShell" modulio, žr. [Klaidos jungiantis prie "SharePoint Online Management Shell".](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
