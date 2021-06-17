@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" programų valdymo būsenos peržiūra naudojant \"Microsoft Edge\", skirtą \"iOS\" arba \"Android\" įrenginiams"
+title: Peržiūrėkite "Microsoft" programų valdymo būseną naudodami "Microsoft Edge", skirtą "iOS" arba "Android" įrenginiams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678023"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989905"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>"Microsoft" programų valdymo būsenos peržiūra naudojant "Microsoft Edge", skirtą "iOS" arba "Android" įrenginiams
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Peržiūrėkite "Microsoft" programų valdymo būseną naudodami "Microsoft Edge", skirtą "iOS" arba "Android" įrenginiams
 
-Norėdami pasiekti taikomųjų programų žurnalus, skirtus naudoti su valdomomis "iOS" arba "Android" programomis, atidarykite "Microsoft Edge" ir įveskite **about: intunehelp** lauke Adresas. "Microsoft Edge" paleidžia trikčių diagnostikos režimu.
+Norėdami pasiekti taikomųjų programų žurnalus, kad būtų galima šalinti valdomų "iOS" arba "Android" programų triktis, atidarykite Microsoft Edge ir adreso lauke įveskite **about:intunehelp.** Microsoft Edge paleidžiama trikčių diagnostikos režimu.
 
-Programėlių žurnaluose saugomų parametrų sąrašą rasite peržiūrėję [kliento programų apsaugos žurnalų peržiūra](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Programėlių žurnaluose saugomų parametrų sąrašą [žr. Kliento programos apsaugos žurnalų peržiūra](/mem/intune/apps/app-protection-policy-settings-log).
 
-Norėdami sužinoti, kaip Peržiūrėti taikomųjų programų žurnalus "Android" įrenginiuose, žiūrėkite [nusiųsti ir siųsti žurnalus](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Norėdami sužinoti, kaip peržiūrėti programų žurnalus "Android" įrenginiuose, [žr. Upload ir el. pašto žurnalus.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

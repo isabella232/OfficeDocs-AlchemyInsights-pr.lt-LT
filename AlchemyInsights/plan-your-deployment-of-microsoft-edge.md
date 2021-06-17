@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Edge\" diegimo planavimas"
+title: "\"Microsoft Edge"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036191"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989941"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>"Microsoft Edge" diegimo planavimas
+# <a name="plan-your-deployment-of-microsoft-edge"></a>"Microsoft Edge
 
-Naujos naršyklės diegimas vartotojų ryšelyje gali būti varginantis. Galime padėti jums ją išspręsti ir kiekvieną. Jei atliksite šiuos septynis veiksmus, bus sėkmingas "Microsoft Edge" diegimas su minimaliomis vartotojų nusivylimu:
+Naujos naršyklės diegimas daugybei vartotojų gali jaustis nelengva. Galime padėti ją suskaidyti į veiksmus ir atlikti kiekvieną iš jų. Jei atlikite šiuos septynis veiksmus, turėsite sėkmingą diegimą Microsoft Edge su minimaliu vartotojų nusivylimu:
 
 1. Įvertinkite esamą naršyklės aplinką ir poreikius.
 2. Nustatykite diegimo metodiką.
-3. Atlikti svetainės aptikimą.
+3. Atlikite svetainės aptikimą.
 4. Nustatykite kanalo strategiją.
-5. Nustatykite ir Konfigūruokite strategijas.
-6. Atlikite taikomųjų programų suderinamumo tikrinimą.
-7. "Microsoft Edge" diegimas bandomojoje grupėje ir jos tikrinimas.
+5. Apibrėžkite ir konfigūruokite strategijas.
+6. Atlikite programų suderinamumo testą.
+7. Įdiekite Microsoft Edge į bandomąją grupę ir ją patikrinkite.
 
-Norėdami atlikti šiuos veiksmus, peržiūrėkite " [Microsoft Edge" diegimo planavimas](https://go.microsoft.com/fwlink/?linkid=2129990).
+Norėdami atlikti šiuos veiksmus patys, žr. ["Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
