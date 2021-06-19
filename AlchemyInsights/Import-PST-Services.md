@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721644"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023111"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Importavimo tarnyba
 
@@ -29,9 +29,9 @@ Norėdami pasiekti importavimo tarnybą ir pradėti importavimo procesą:
 
 1. Kairiojoje M365 atitikties centro srityje dalyje Sprendimai **pasirinkite Informacijos** **valdymas**  >  **Importuoti**.
 
-1. Puslapyje **Importuoti** pasirinkite Nauja **importavimo užduotis**.
+1. Puslapyje **Importuoti** pasirinkite Nauja **importavimo užduotis**. Įveskite užduoties pavadinimą ir pasirinkite **Pirmyn**.
 
-1. Norėdami atlikti vediklio veiksmus, žr. Tinklo nusiuntimo naudojimas organizacijos PST failams importuoti į [Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Pasirinkite **Upload duomenis, kad** būtų naudojama importavimo užduoties tipo **parinktis Tinklo nusiuntimas.** Išsamius veiksmus [žr. Tinklo nusiuntimo naudojimas](/compliance/use-network-upload-to-import-pst-files)organizacijos PST failams importuoti į Microsoft 365 .
 
 Norėdami pasiekti **puslapį** Importuoti, įsitikinkite, kad jums priskirtos atitinkamos teisės. Daugiau informacijos žr. [Tinklo nusiuntimo naudojimas PST failams importuoti.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

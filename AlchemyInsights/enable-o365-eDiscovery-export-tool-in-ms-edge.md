@@ -1,5 +1,5 @@
 ---
-title: "\"Office 365\" eDiscovery eksportavimo įrankio įgalinimas \"Microsoft Edge\""
+title: "\"Office 365\" el. duomenų aptikimo eksportavimo įrankio įgalinimas Microsoft Edge"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583685"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023183"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>"Office 365" eDiscovery eksportavimo įrankio įgalinimas "Microsoft Edge"
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>"Office 365" el. duomenų aptikimo eksportavimo įrankio įgalinimas Microsoft Edge
 
-"ClickOnce" palaikymas nebėra įgalintas "Microsoft Edge" pagal numatytuosius numatytuosius. Jei norite toliau naudoti "Microsoft Office 365" eDiscovery eksportavimo įrankį, turite naudoti "Microsoft Internet Explorer" arba įjungti "ClickOnce" palaikymo parinktį, esančią chromo pagrindu "Microsoft Edge", kaip nurodyta toliau:
+Pagal numatytuosius Vienas spustelėjimas", "Microsoft Edge" palaikymas nebeįjungtas. Norėdami toliau naudoti "Microsoft Office 365" el. duomenų aptikimo eksportavimo įrankį, turėsite naudoti "Microsoft Internet Explorer" arba įgalinti "Vienas spustelėjimas" palaikymo parinktį "Chromium" pagrindo Microsoft Edge, kaip nurodyta toliau:
 
-1. Eikite į edge://flags/#edge – spustelėkite – Once.
-1. Jei norite naudoti " **ClickOnce" palaikymo** parinktį, pakeiskite **numatytąją** arba **išjungtą** reikšmę **įgalinta**.
-1. Naršyklės lango apačioje spustelėkite **paleisti iš naujo**. Pakeitimas įsigalios paleidus "Microsoft Edge".
+1. Eikite į edge://flags/#edge-click-once.
+1. Norėdami naudoti **Vienas spustelėjimas palaikymo parinktį,** pakeiskite reikšmę iš Numatytoji **arba** **Išjungta į** **Įgalinta**.
+1. Naršyklės lango apačioje spustelėkite Paleisti iš **naujo.** Pakeitimas įsigalios iš naujo paleidus Microsoft Edge.
 
-Norėdami sužinoti daugiau, skaitykite ["Office 365" eDiscovery eksportavimo įrankio naudojimas "Microsoft Edge"](https://go.microsoft.com/fwlink/?linkid=2111611).
+Norėdami sužinoti daugiau, [žr. "Office 365" el. duomenų aptikimo eksportavimo įrankio naudojimas Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
