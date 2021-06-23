@@ -1,5 +1,5 @@
 ---
-title: SMTP autentifikavimo problemų sprendimas
+title: SMTP autentifikavimo ir trikčių diagnostikos įgalinimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826423"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077659"
 ---
-# <a name="solving-smtp-authentication-issues"></a>SMTP autentifikavimo problemų sprendimas
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP autentifikavimo ir trikčių diagnostikos įgalinimas
 
-Jei gaunate 5.7.57 arba 5.7.3 klaidų bandydami siųsti SMTP el. paštą ir autentifikuoti naudodami klientą arba taikomąją programą, yra keletas dalykų, kuriuos turėtumėte patikrinti:
+Jei norite įgalinti pašto dėžutės SMTP autentifikavimą arba gaunate klaidą "Klientas nėra autentifikuotas", "Autentifikavimas nesėkmingas" arba "SmtpClientAuthentication" su kodu 5.7.57 arba 5.7.3 arba 5.7.139, kai bandote perduoti el. paštą autentifikuojant įrenginį arba taikomąją programą su "Microsoft 365", atlikite šiuos tris veiksmus, kad išspręstumėte problemą:
 
-- Autentifikuotas SMTP pateikimas gali būti išjungtas jūsų nuomotoje arba pašto dėžutėje, kurią bandote naudoti (patikrinkite abu parametrus). Norėdami skaityti daugiau, žr. [Autentifikuoto kliento SMTP pateikimo įjungimas arba išjungimas](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+1. Išjunkite ["Azure" saugos numatytąsias](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) reikšmes, įjungdami **Įjungti saugos numatytąsias reikšmes į** **Ne**.
 
-- Patikrinkite, [ar jūsų nuomotojui įgalintos "Azure"](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) saugos numatytosios funkcijos; jei įgalinta, SMTP autentifikavimas naudojant bazinį autentifikavimą (dar vadinamą senesniu; bus naudojamas vartotojo vardas ir slaptažodis) nepavyks.
+    a. Prisijunkite prie "Azure" portalo kaip saugos administratorius, sąlyginės prieigos administratorius arba visuotinis administratorius.<BR/>
+    b. Raskite "Azure Active Directory" > **Ypatybės**.<BR/>
+    c. Pasirinkite **Valdyti saugos numatytąsias reikšmes**.<BR/>
+    d. Nustatykite **Įjungti saugos numatytąsias reikšmes kaip** **Ne**.<BR/>
+    e. Pasirinkite **Įrašyti**.
+
+2. [Įgalinkite kliento SMTP pateikimą](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) licencijuotose pašto dėžutėse.
+
+    a. Iš "Microsoft 365" administravimo centras eikite į **Aktyvūs vartotojai** ir pasirinkite vartotoją.<BR/>
+    b. Eikite į skirtuką Paštas ir dalyje **El. pašto programos** pasirinkite **Valdyti el. pašto programas**.<BR/>
+    d. **Įsitikinkite, kad pažymėta Autentifikuota SMTP** (įjungta).<BR/>
+    e. Pasirinkite **Įrašyti keitimus**.<BR/>
+
+3. [Išjunkite kelių dalių autentifikavimą (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) licencijuotose pašto dėžutėse.
+
+    a. Eikite į "Microsoft 365" administravimo centras ir kairiajame naršymo meniu pasirinkite Vartotojai  >  **aktyvūs vartotojai**.<BR/>
+    b. Pasirinkite **Kelių dalių autentifikavimas**.<BR/>
+    c. Pasirinkite vartotoją ir išjunkite **kelių dalių autentifikavimą**.<BR/>
