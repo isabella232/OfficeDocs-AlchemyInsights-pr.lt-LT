@@ -1,5 +1,5 @@
 ---
-title: SMTP autentifikavimo problemų sprendimas
+title: SMTP autentifikavimo ir trikčių diagnostikos įgalinimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826423"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077659"
 ---
-# <a name="solving-smtp-authentication-issues"></a><span data-ttu-id="6a139-102">SMTP autentifikavimo problemų sprendimas</span><span class="sxs-lookup"><span data-stu-id="6a139-102">Solving SMTP authentication issues</span></span>
+# <a name="enable-smtp-authentication-and-troubleshooting"></a><span data-ttu-id="118db-102">SMTP autentifikavimo ir trikčių diagnostikos įgalinimas</span><span class="sxs-lookup"><span data-stu-id="118db-102">Enable SMTP authentication and troubleshooting</span></span>
 
-<span data-ttu-id="6a139-103">Jei gaunate 5.7.57 arba 5.7.3 klaidų bandydami siųsti SMTP el. paštą ir autentifikuoti naudodami klientą arba taikomąją programą, yra keletas dalykų, kuriuos turėtumėte patikrinti:</span><span class="sxs-lookup"><span data-stu-id="6a139-103">If you are getting errors 5.7.57 or 5.7.3 when trying to send SMTP email and authenticate with a client or application, there are a few things you should check:</span></span>
+<span data-ttu-id="118db-103">Jei norite įgalinti pašto dėžutės SMTP autentifikavimą arba gaunate klaidą "Klientas nėra autentifikuotas", "Autentifikavimas nesėkmingas" arba "SmtpClientAuthentication" su kodu 5.7.57 arba 5.7.3 arba 5.7.139, kai bandote perduoti el. paštą autentifikuojant įrenginį arba taikomąją programą su "Microsoft 365", atlikite šiuos tris veiksmus, kad išspręstumėte problemą:</span><span class="sxs-lookup"><span data-stu-id="118db-103">If you want to enable SMTP authentication for a mailbox or you're getting a "Client not authenticated", "Authentication unsuccessful", or "SmtpClientAuthentication" error with code 5.7.57 or 5.7.3 or 5.7.139 when you try to relay email by authenticating a device or application with Microsoft 365, perform these three actions to resolve the issue:</span></span>
 
-- <span data-ttu-id="6a139-104">Autentifikuotas SMTP pateikimas gali būti išjungtas jūsų nuomotoje arba pašto dėžutėje, kurią bandote naudoti (patikrinkite abu parametrus).</span><span class="sxs-lookup"><span data-stu-id="6a139-104">Authenticated SMTP submission might be disabled in your tenant, or on the mailbox that you are trying to use (check both settings).</span></span> <span data-ttu-id="6a139-105">Norėdami skaityti daugiau, žr. [Autentifikuoto kliento SMTP pateikimo įjungimas arba išjungimas](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).</span><span class="sxs-lookup"><span data-stu-id="6a139-105">To read more, see [Enable or disable authenticated client SMTP submission](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).</span></span>
+1. <span data-ttu-id="118db-104">Išjunkite ["Azure" saugos numatytąsias](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) reikšmes, įjungdami **Įjungti saugos numatytąsias reikšmes į** **Ne**.</span><span class="sxs-lookup"><span data-stu-id="118db-104">Disable the [Azure security defaults](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) by toggling **Enable security defaults** to **No**.</span></span>
 
-- <span data-ttu-id="6a139-106">Patikrinkite, [ar jūsų nuomotojui įgalintos "Azure"](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) saugos numatytosios funkcijos; jei įgalinta, SMTP autentifikavimas naudojant bazinį autentifikavimą (dar vadinamą senesniu; bus naudojamas vartotojo vardas ir slaptažodis) nepavyks.</span><span class="sxs-lookup"><span data-stu-id="6a139-106">Check whether [Azure Security Defaults](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) are enabled for your tenant; if enabled, SMTP authentication using basic authentication (also known as legacy; this will use username and password) will fail.</span></span>
+    <span data-ttu-id="118db-105">a.</span><span class="sxs-lookup"><span data-stu-id="118db-105">a.</span></span> <span data-ttu-id="118db-106">Prisijunkite prie "Azure" portalo kaip saugos administratorius, sąlyginės prieigos administratorius arba visuotinis administratorius.</span><span class="sxs-lookup"><span data-stu-id="118db-106">Sign in to the Azure portal as a Security administrator, Conditional Access administrator, or global administrator.</span></span><BR/>
+    <span data-ttu-id="118db-107">b.</span><span class="sxs-lookup"><span data-stu-id="118db-107">b.</span></span> <span data-ttu-id="118db-108">Raskite "Azure Active Directory" > **Ypatybės**.</span><span class="sxs-lookup"><span data-stu-id="118db-108">Browse to Azure Active Directory > **Properties**.</span></span><BR/>
+    <span data-ttu-id="118db-109">c.</span><span class="sxs-lookup"><span data-stu-id="118db-109">c.</span></span> <span data-ttu-id="118db-110">Pasirinkite **Valdyti saugos numatytąsias reikšmes**.</span><span class="sxs-lookup"><span data-stu-id="118db-110">Select **Manage security defaults**.</span></span><BR/>
+    <span data-ttu-id="118db-111">d.</span><span class="sxs-lookup"><span data-stu-id="118db-111">d.</span></span> <span data-ttu-id="118db-112">Nustatykite **Įjungti saugos numatytąsias reikšmes kaip** **Ne**.</span><span class="sxs-lookup"><span data-stu-id="118db-112">Set **Enable security defaults** to **No**.</span></span><BR/>
+    <span data-ttu-id="118db-113">e.</span><span class="sxs-lookup"><span data-stu-id="118db-113">e.</span></span> <span data-ttu-id="118db-114">Pasirinkite **Įrašyti**.</span><span class="sxs-lookup"><span data-stu-id="118db-114">Select **Save**.</span></span>
+
+2. <span data-ttu-id="118db-115">[Įgalinkite kliento SMTP pateikimą](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) licencijuotose pašto dėžutėse.</span><span class="sxs-lookup"><span data-stu-id="118db-115">[Enable Client SMTP submission](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) on the licensed mailbox.</span></span>
+
+    <span data-ttu-id="118db-116">a.</span><span class="sxs-lookup"><span data-stu-id="118db-116">a.</span></span> <span data-ttu-id="118db-117">Iš "Microsoft 365" administravimo centras eikite į **Aktyvūs vartotojai** ir pasirinkite vartotoją.</span><span class="sxs-lookup"><span data-stu-id="118db-117">From the Microsoft 365 admin center, go to **Active Users**, and select the user.</span></span><BR/>
+    <span data-ttu-id="118db-118">b.</span><span class="sxs-lookup"><span data-stu-id="118db-118">b.</span></span> <span data-ttu-id="118db-119">Eikite į skirtuką Paštas ir dalyje **El. pašto programos** pasirinkite **Valdyti el. pašto programas**.</span><span class="sxs-lookup"><span data-stu-id="118db-119">Go to Mail tab, and under **Email apps**, select **Manage email apps**.</span></span><BR/>
+    <span data-ttu-id="118db-120">d.</span><span class="sxs-lookup"><span data-stu-id="118db-120">d.</span></span> <span data-ttu-id="118db-121">**Įsitikinkite, kad pažymėta Autentifikuota SMTP** (įjungta).</span><span class="sxs-lookup"><span data-stu-id="118db-121">Make sure **Authenticated SMTP** is checked (enabled).</span></span><BR/>
+    <span data-ttu-id="118db-122">e.</span><span class="sxs-lookup"><span data-stu-id="118db-122">e.</span></span> <span data-ttu-id="118db-123">Pasirinkite **Įrašyti keitimus**.</span><span class="sxs-lookup"><span data-stu-id="118db-123">Select **Save changes**.</span></span><BR/>
+
+3. <span data-ttu-id="118db-124">[Išjunkite kelių dalių autentifikavimą (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) licencijuotose pašto dėžutėse.</span><span class="sxs-lookup"><span data-stu-id="118db-124">[Disable Multi-Factor Authentication (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) on the licensed mailbox.</span></span>
+
+    <span data-ttu-id="118db-125">a.</span><span class="sxs-lookup"><span data-stu-id="118db-125">a.</span></span> <span data-ttu-id="118db-126">Eikite į "Microsoft 365" administravimo centras ir kairiajame naršymo meniu pasirinkite Vartotojai  >  **aktyvūs vartotojai**.</span><span class="sxs-lookup"><span data-stu-id="118db-126">Go to the Microsoft 365 admin center, and in the left navigation menu select **Users** > **Active users**.</span></span><BR/>
+    <span data-ttu-id="118db-127">b.</span><span class="sxs-lookup"><span data-stu-id="118db-127">b.</span></span> <span data-ttu-id="118db-128">Pasirinkite **Kelių dalių autentifikavimas**.</span><span class="sxs-lookup"><span data-stu-id="118db-128">Select **Multi-factor authentication**.</span></span><BR/>
+    <span data-ttu-id="118db-129">c.</span><span class="sxs-lookup"><span data-stu-id="118db-129">c.</span></span> <span data-ttu-id="118db-130">Pasirinkite vartotoją ir išjunkite **kelių dalių autentifikavimą**.</span><span class="sxs-lookup"><span data-stu-id="118db-130">Select the user and disable **Multi-Factor auth**.</span></span><BR/>
