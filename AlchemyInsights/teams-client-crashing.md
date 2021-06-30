@@ -1,5 +1,5 @@
 ---
-title: Genda „Teams“ klientas?
+title: Teams kliento gedimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826279"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187729"
 ---
-# <a name="teams-client-crashing"></a>Genda „Teams“ klientas?
+# <a name="teams-client-crashing"></a>Teams kliento gedimas
 
 Jei jūsų „Teams“ klientas genda, bandykite atlikti šiuos veiksmus:
 
 - Jei naudojate „Teams“ kompiuterio taikomąją programą, [įsitikinkite, kad programa yra visiškai atnaujinta](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Įsitikinkite, kad visi ["Microsoft 365" URL ir adresų diapazonai](https://docs.microsoft.com/microsoftteams/connectivity-issues) yra pasiekiami.
+- Įsitikinkite, kad [visi Microsoft 365 URL ir adresų diapazonai](/microsoftteams/connectivity-issues) yra pasiekiami.
 
-- Prisijunkite naudodami savo nuomotojo administratoriaus paskyrą ir patikrinkite tarnybos sveikatos ataskaitų [sritį,](https://docs.microsoft.com/office365/enterprise/view-service-health) kad įsitikintų, jog nėra atėjimo ar tarnybos blogėjimo.
+- Prisijunkite naudodami savo nuomotojo administratoriaus paskyrą ir patikrinkite tarnybos sveikatos ataskaitų [sritį,](/office365/enterprise/view-service-health) kad įsitikintų, jog nėra atėjimo ar tarnybos blogėjimo.
 
-- "Teams" taikomosios programos šalinimas ir diegimas iš naujo (saitas)
-    - Eikite į aplanką %appdata%\Microsoft\teams\ kompiuteryje ir panaikinkite visus to katalogo failus.
-    - [Atsisiųskite ir įdiekite "Teams" programą](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ir, jei įmanoma, įdiekite "Teams" kaip administratorius (dešiniuoju pelės mygtuku spustelėkite "Teams" diegimo programą ir pasirinkite "Vykdyti administratoriaus teisėmis", jei yra).
+- Pašalinkite ir iš naujo įdiekite "Teams taikomąją programą
+    - Eikite į aplanką %appdata%\Microsoft\Teams\ kompiuteryje ir panaikinkite visus to katalogo failus.
+    - [Atsisiųskite ir įdiekite "Teams"](https://www.microsoft.com/microsoft-teams/download-app)programą ir, jei įmanoma, įdiekite "Teams kaip administratorius (dešiniuoju pelės mygtuku spustelėkite "Teams" diegimo programą ir pasirinkite Vykdyti **administratoriaus teisėmis,** jei yra).
 
-Jei jūsų "Teams" klientas vis dar sugenda, ar galite atkurti problemą? Jei taip:
+Jei jūsų Teams klientas vis dar sugenda, pabandykite atkurti problemą. Jei galite:
 
 1. Norėdami užfiksuoti veiksmus, naudokite veiksmų rašytuvą.
     - Uždarykite visas nereikalingas arba konfidencialias taikomąsias programas.
     - Paleiskite veiksmų rašytuvą ir atkartokite problemą prisijungę naudodami paveiktą vartotojo paskyrą.
-    - [Surinkite komandų žurnalus, kurie užfiksuoja įrašytus pakartotinio pelno veiksmus.](https://docs.microsoft.com/microsoftteams/log-files) **Pastaba:** įsitikinkite, kad užfiksuojate paveikto vartotojo prisijungimo adresą.
-    - Rinkite iškelties ir (arba) gedimų talpyklos informaciją ("Windows"). Paleiskite "Windows PowerShell" kompiuteryje, kuriame įvyksta gedimas, ir vykdykite šias komandas:
+    - [Surinkite komandų žurnalus, kurie užfiksuoja įrašytus pakartotinio pelno veiksmus.](/microsoftteams/log-files) **Pastaba:** įsitikinkite, kad užfiksuojate paveikto vartotojo prisijungimo adresą.
+    - Rinkite iškelties ir (arba) gedimų talpyklos informaciją (Windows). Paleiskite Windows PowerShell" kompiuteryje, kuriame įvyksta gedimas, ir vykdykite šias komandas (po kiekvienos komandos paspauskite "Enter"):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Pridėkite failą prie palaikymo atvejo.
+2. Kai teksto failas sugeneruojamas ir rodomas ekrane, įrašykite failą ir pridėkite jį prie tarnybos užklausos. 
