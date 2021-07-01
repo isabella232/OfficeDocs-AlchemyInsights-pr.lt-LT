@@ -1,5 +1,5 @@
 ---
-title: 955 kaip sukonfigūruoti MFA
+title: 955 Kaip konfigūruoti MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704461"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218782"
 ---
-# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="be705-102">Kelių dalių autentifikavimo konfigūravimas</span><span class="sxs-lookup"><span data-stu-id="be705-102">Configure multi-factor authentication</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="37817-102">Kelių dalių autentifikavimo konfigūravimas</span><span class="sxs-lookup"><span data-stu-id="37817-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="be705-103">Jei norite konfigūruoti MFA, žiūrėkite [kelių dalių autentifikavimo nustatymas](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="be705-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="37817-103">Norėdami konfigūruoti MFA, [žr. Kelių dalių autentifikavimo nustatymas](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) arba "Microsoft 365" administravimo centras [sąrankos vadovo naudojimas.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)</span><span class="sxs-lookup"><span data-stu-id="37817-103">To configure MFA, see [Set up multi-factor authentication](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) or use the [Microsoft 365 admin center setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:).</span></span>
 
-<span data-ttu-id="be705-104">Atminkite, kad Norėdami įgalinti ir konfigūruoti MFA, turite būti visuotinis administratorius.</span><span class="sxs-lookup"><span data-stu-id="be705-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="37817-104">**Pastaba:** turite būti visuotinis administratorius, kad įgalintumėte ir konfigūruojate MFA.</span><span class="sxs-lookup"><span data-stu-id="37817-104">**Note**: You must be a global admin to enable and configure MFA.</span></span>
