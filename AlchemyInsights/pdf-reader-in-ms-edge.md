@@ -1,5 +1,5 @@
 ---
-title: PDF skaitytuvas "Microsoft Edge"
+title: PDF skaitytuvas programoje "Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677953"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255899"
 ---
-# <a name="pdf-reader-in-microsoft-edge"></a>PDF skaitytuvas "Microsoft Edge"
+# <a name="pdf-reader-in-microsoft-edge"></a>PDF skaitytuvas programoje "Microsoft Edge
 
-PDF failų populiarumas pabrėžia patikimą, saugų ir galingą PDF skaitytuvo, kurį gali priimti įmonės įmonės, poreikį. Daug funkcijų turintis PDF skaitytuvas, įmontuotas į "Microsoft Edge" (versijos 77 ir naujesnė versija), yra tiesiog tokia programa. Ji veikia "Windows" ir "macOS", ją galima naudoti norint atidaryti ir komentuoti PDF failus, kurie yra vietiniai, internetiniai arba įdėtieji žiniatinklio puslapiuose.
+PDF failų populiarumas išryškina patikimo, saugaus ir galingo PDF skaitytuvo, kurį gali priimti įmonės įmonės, poreikį. Funkcijai skirtas PDF skaitytuvas, įtaisytas Microsoft Edge (77 ir naujesnėse versijose) yra tik tokia programa. Ji veikia "Windows" ir "macOS", ją galima naudoti norint atidaryti ir komentuoti PDF failus, kurie yra vietiniai, internetiniai arba įdėtieji į tinklalapius.
 
-Jei norite sužinoti daugiau, skaitykite [PDF skaitytuvas programoje "Microsoft Edge"](https://go.microsoft.com/fwlink/?linkid=2140005).
+Norėdami sužinoti daugiau, žr. [PDF skaitytuvas Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
