@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Edge\" palaikymas, skirtas \"Microsoft Defender\" taikomosios programos apsaugai"
+title: Microsoft Edge palaikymo "Microsoft" sargybos "Application Guard"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584017"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346070"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>"Microsoft Edge" palaikymas, skirtas "Microsoft Defender" taikomosios programos apsaugai
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge palaikymo "Microsoft" sargybos "Application Guard"
 
-Skirtas "Windows 10" ir "Microsoft Edge", taikomosios programos apsauga naudoja aparatūros izoliacijos metodą, leidžiantį vartotojui naršyti nepatikimą svetainę iš izoliuoto, "Hyper-V"-įgalinto konteinerio, atskirto nuo pagrindinio kompiuterio operacinės sistemos.
+"Microsoft" tapatybės sargyba suteikia centrinę vietą, kurioje administratoriai gali nustatyti, aptikti ir tirti vietinės tapatybės grėsmes. 
 
-Įmonės administratorius apibrėžia patikimų svetainių, debesies išteklių ir vidinių tinklų sąrašą. Kai vartotojas apsilanko svetainėje, kurios nėra sąraše, "Microsoft Edge" atidarys vietą konteineryje. Tai reiškia, kad jei svetainė tampa kenkėjiška, pagrindinis kompiuteris liks apsaugotas, o užpuolikas negalės gauti įmonės duomenų.
+Naudokite tapatybės [nustatymo vadovą "Microsoft"](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) sargyba, kad patvirtintumėte, jog esate patenkinti visomis aplinkos būtinomis sąlygomis; sukurkite egzempliorių, prisijunkite prie "Active Directory" ir įdiekite jutiklį. 
 
-Konteinerio plėtinių diegimas palaikomas kaip "Microsoft Edge" 81 versija ir jį galima valdyti naudojant strategiją. UpdateURL adresas, kuris bus naudojamas ExtensionInstallForcelist strategijoje, turi būti įtrauktas kaip neutralus šaltinis tinklo izoliacijos strategijose, kurias naudoja taikomosios programos sargyba.
-
-Daugiau informacijos ieškokite " [Microsoft Edge" palaikymas, skirtas "Microsoft Defender" taikomosios programos apsaugai](https://go.microsoft.com/fwlink/?linkid=2134229).
+Kai baigsite, vartotojų tapatybės stebimos ir galima nedelsiant imtis veiksmų dėl kenkėjiškos veiklos, kuri gali pakenkti jūsų organizacijai.
