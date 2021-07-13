@@ -1,7 +1,7 @@
 ---
 title: Tiesioginių įvykių trikčių šalinimas "Microsoft Stream"
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: a0637bb8f96038c6e9898b5148fe4458358fdc6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24d5e0e255c937ee66c768d42a8aa1073780b16e
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782888"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389297"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a><span data-ttu-id="de97e-102">Tiesioginių įvykių trikčių šalinimas "Microsoft Stream"</span><span class="sxs-lookup"><span data-stu-id="de97e-102">Troubleshooting live events in Microsoft Stream</span></span>
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a><span data-ttu-id="dbd8a-102">Tiesioginių įvykių trikčių šalinimas "Microsoft Stream"</span><span class="sxs-lookup"><span data-stu-id="dbd8a-102">Troubleshooting live events in Microsoft Stream</span></span>
 
-<span data-ttu-id="de97e-103">Yra įvairių sričių, kuriose galima patikrinti, ar "Microsoft Stream" tiesioginiai įvykiai veikia sklandžiai.</span><span class="sxs-lookup"><span data-stu-id="de97e-103">There are various areas to check to ensure Microsoft Stream live events run smoothly.</span></span> <span data-ttu-id="de97e-104">Daugiau informacijos žr. Tiesioginių įvykių [trikčių šalinimas programoje "Microsoft Stream".](https://docs.microsoft.com/stream/live-event-troubleshooting)</span><span class="sxs-lookup"><span data-stu-id="de97e-104">For more information, please see [Troubleshooting live events in Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).</span></span>
+<span data-ttu-id="dbd8a-103">Yra įvairių sričių, kuriose galima patikrinti, ar "Microsoft Stream" tiesioginiai įvykiai veikia sklandžiai.</span><span class="sxs-lookup"><span data-stu-id="dbd8a-103">There are various areas to check to ensure Microsoft Stream live events run smoothly.</span></span> <span data-ttu-id="dbd8a-104">Daugiau informacijos žr. Tiesioginių įvykių [trikčių šalinimas programoje "Microsoft Stream".](/stream/live-event-troubleshooting)</span><span class="sxs-lookup"><span data-stu-id="dbd8a-104">For more information, please see [Troubleshooting live events in Microsoft Stream](/stream/live-event-troubleshooting).</span></span>
