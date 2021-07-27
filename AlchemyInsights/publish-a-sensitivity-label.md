@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539652"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532263"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kaip publikuoti slaptumo žymą
 
-1. Eikite į Office 365 saugos & centro > **slaptumo**  >  **žymos.**
+1. Eikite į Microsoft 365 centro > **etikečių**  >  **strategijas.**
 
-1. Puslapyje Slaptumo žymos pasirinkite skirtuką **Etikečių strategijos,** tada pasirinkite **Publikuoti žymas**.
+1. Pasirinkite **+ Publikuoti etiketę,** kad pradėtumėte naują slaptumo žymos vediklį.
 
 1. Pasirinkite **Pasirinkti slaptumo žymas, kad publikuotum.** Pasirinkite etiketes, kurias norite padaryti pasiekiamas programose ir tarnybose, tada pasirinkite **Įtraukti**.
 

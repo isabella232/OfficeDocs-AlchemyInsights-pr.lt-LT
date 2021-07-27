@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745830"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532119"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>"SharePoint" svetainės, priklausančios "Microsoft 365" grupei, naikinimas
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>"SharePoint svetainės, priklausančios "Microsoft 365" grupei, naikinimas
 
-Panaikinus prie grupės prijungtą svetainę, bus panaikinta grupė ir visi jos ištekliai, įskaitant "Outlook" pašto dėžutę ir kalendorių, ir visus komandų kanalus.
+Panaikinus su grupe prijungtą svetainę, bus panaikinta grupė ir visi jos ištekliai, įskaitant Outlook pašto dėžutę, kalendorių ir visus Teams kanalus.
   
-Svarbu
+Svarbu:
 
-- Galite atkurti panaikintas svetaines "93" dienoms. Panaikintos grupės turi būti atkurtos per 30 dienų. [Panaikintų svetainių peržiūra ir atkūrimas](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) tiesiogiai iš "SharePoint" administravimo centro. Norėdami [Peržiūrėti ir atkurti **panaikintas grupes**](https://outlook.office.com/people/group/deleted), pasirinkite **tvarkyti grupes**, tada pasirinkite **panaikinta**.
-- Jei svetainė yra saugojimo strategijos dalis, galbūt negalėsite jos panaikinti, kol svetainė nebus pašalinta iš [saugos & atitikties administravimo centro](https://protection.office.com/?rfr=AdminCenter#/retention). Daugiau informacijos ieškokite [saugojimo strategijų apžvalga](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Panaikintas svetaines galite atkurti 93 dienas. Panaikintas grupes reikia atkurti per 30 dienų. [Peržiūrėkite ir atkurkite panaikintas svetaines](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) tiesiai iš SharePoint administravimo centro. Norėdami [peržiūrėti ir atkurti panaikintas **grupes**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups), pasirinkite **Valdyti grupes**, tada pasirinkite **Panaikinta**.
+- Jei svetainė yra saugojimo strategijos dalis, gali būti, kad negalėsite jos panaikinti, kol svetainė nebus pašalinta iš [saugos & administravimo centro](https://protection.office.com/?rfr=AdminCenter#/retention). Daugiau informacijos žr. Saugojimo [strategijų apžvalga](/microsoft-365/compliance/retention-policies).
   
-Daugiau informacijos rasite [svetainės valdymas naujame "SharePoint" administravimo centre](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Daugiau informacijos [žr. Svetainių valdymas naujame SharePoint administravimo centre](/sharepoint/manage-sites-in-new-admin-center).

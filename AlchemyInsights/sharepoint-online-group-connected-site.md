@@ -1,5 +1,5 @@
 ---
-title: Grupės įtraukimas į "SharePoint" svetainę
+title: Grupės įtraukimas į SharePoint svetainę
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771216"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532227"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemos kuriant grupės prijungtą svetainę "SharePoint"
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Dažnai pasitaiko kuriant grupės prijungtą svetainę "SharePoint
 
-1. Kai kurios Dažniausios problemos, su kuriomis susiduriama kuriant arba iš naujo kuriant grupės prijungtą svetainę.
-Jei panaikinote grupę ir jos prijungtą svetainę ir norite sukurti kitą svetainę su tuo pačiu URL, turėsite visam laikui pašalinti ankstesnę svetainę.
+1. Jei panaikinsite grupę ir jos prijungtą svetainę ir norite sukurti kitą svetainę su tuo pačiu URL, turėsite visam laikui pašalinti ankstesnę svetainę.
 
    - Atsisiųsti [SPO valdymo aplinką](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - Daugiau informacijos apie tai, kaip pradėti naudoti "PowerShell", rasite [darbo su "SharePoint Online Management Shell" Pradžia](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - Pašalinkite svetainę iš panaikintų svetainių, naudodami " [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell" cmdlet. "PowerShell" būtina visam laikui panaikinti grupės svetaines.
+   - Daugiau informacijos apie darbo su "PowerShell" pradžia žr. [Darbo su "SharePoint Online Management Shell" pradžia](/powershell/module/sharepoint-online/remove-sposite).
+   - Pašalinkite svetainę iš panaikintų svetainių naudodami [cmdlet Remove-SPODeletedSite](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Norint visam laikui panaikinti grupės svetaines, būtina "PowerShell".
 
-1. Jei kuriate grupės prijungtą svetainę ir gaunate įspėjimą: **Kita grupė su tuo pačiu pseudonimu jau yra**, pažymėkite esamas grupes iš ["Microsoft" 365 administravimo centro](https://admin.microsoft.com/AdminPortal/Home#/groups). Norėdami išspręsti šią problemą, panaikinkite esamą grupę, jei jos nebereikia arba sukuriate svetainę su kitu pseudonimu.
+1. Jei kuriate grupę prijungtą svetainę ir gaunate įspėjimą: Jau yra kita grupė su tuo pačiu pseudonimu , patikrinkite esamas grupes iš ["Microsoft 365" administravimo centras](https://admin.microsoft.com/AdminPortal/Home#/groups). Norėdami išspręsti šią problemą, panaikinkite esamą grupę, jei jos nebereikia, arba sukurkite svetainę su kitu priskirto pseudonimo.
 
-1. Yra įvairių būdų, kaip kurti ir naudoti šiuolaikines grupes naudojant "SharePoint".
+1. Yra įvairių būdų kurti ir naudoti šiuolaikiškas grupes su SharePoint.
 
-   - Galite prijungti esamas svetaines prie "Microsoft" 365 grupės. Daugiau informacijos ieškokite ["Microsoft 365" grupės prijungimas naudojant "SharePoint" vartotojo sąsają](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Norėdami sukurti "Microsoft" 365 grupės prijungtą svetainę, turėsite sukurti [komandos svetainę](https://admin.microsoft.com/sharepoint).
+   - Esamas svetaines galite prijungti prie Microsoft 365 grupės. Daugiau informacijos žr. [Prisijungimas Microsoft 365 grupę naudodami SharePoint vartotojo sąsają](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Norėdami sukurti Microsoft 365 grupės prijungtą svetainę, turėsite sukurti komandos [svetainę](https://admin.microsoft.com/sharepoint).
