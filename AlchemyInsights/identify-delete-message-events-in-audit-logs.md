@@ -1,5 +1,5 @@
 ---
-title: Pranešimų naikinimo įvykių atpažinimas audito žurnaluose
+title: Pranešimo įvykių naikinimas audito žurnaluose
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696521"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630077"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Panaikintų el. laiškų audito žurnalai
 
-Nuo sausio 2019 d. "Microsoft" pagal numatytuosius numatytuosius pašto dėžučių audito žurnalus įjunkite. Kitu atveju Norėdami peržiūrėti konkretaus vartotojo panaikintų pranešimų įvykius, turite rankiniu būdu įgalinti tikrinimo veiksmų naikinimo veiksmus. Jei pašto dėžutės audito registravimas jau įgalintas jūsų organizacijai arba konkrečiam vartotojui, atlikite toliau nurodytus veiksmus.
+Nuo 2019 m. sausio "Microsoft" įjungia pašto dėžutės audito registravimą pagal numatytuosius parametrus. Kitu atveju, norėdami peržiūrėti konkretaus vartotojo pranešimų naikinimo įvykius, turite rankiniu būdu įgalinti tikrinimo naikinimo veiksmus. Jei pašto dėžutės audito registravimas jau įgalintas jūsų organizacijoje arba konkrečiam vartotojui, atlikite toliau nurodytus veiksmus.
 
-1. Prisijungimas prie ["Microsoft 365" saugos & atitikties centro](https://protection.office.com/)
+1. Prisijunkite prie ["Microsoft 365 atitikties centro](https://protection.office.com/)
 
-2. Spustelėkite **ieška ir tyrimas** ir pasirinkite **audito žurnalų ieška**.
+2. Spustelėkite **Ieška ir tyrimas** ir pasirinkite Audito **žurnalo ieška**.
 
-3. Laukuose **pradžios data** ir **pabaigos data** pasirinkite datų intervalą. Nurodo vartotojo, kurį norite analizuoti, vartotojo vardą (vartotojas, kuris panaikino elementus). Lauke **veikla** pasirinkite **pašalinti laiškai iš panaikintų elementų aplanko** ir **perkelti laiškus į aplanką Panaikinta**.
+3. Pasirinkite datos diapazoną **laukuose Pradžios data** ir **Pabaigos** data. Nurodykite vartotojo, kurį norite ištirti, vartotojo vardą (vartotoją, kuris panaikins elementus). Lauke **Veikla pasirinkite** Panaikinti laiškai **iš** aplanko Panaikinti elementai ir Perkelti laiškai į aplanką **Panaikinti elementai**.
 
-4. Spustelėkite **ieška**.
+4. Spustelėkite **Ieškoti**.
 
-Rezultatuose pasirinkite audito įrašą. Išsamios informacijos išskridimas spustelėkite **daugiau informacijos**. Papildoma informacija apie panaikintą elementą (pvz., temos eilutė ir elemento vieta, kai jis buvo panaikintas) rodoma lauke **Affecteditems** . Ypatybė **Clientinfostring** bus rodoma, jei jis buvo panaikintas programoje "Outlook", "Outlook" žiniatinklyje (anksčiau – "Outlook Web App") arba bet kurį kitą įrenginį.
+Rezultatuose pasirinkite audito įrašą. Išsamios informacijos iškeliame meniu spustelėkite **Daugiau informacijos**. Lauke **AffectedItems** rodoma papildoma informacija apie panaikintą elementą (pvz., temos eilutė ir elemento vieta, kai jis buvo panaikintas). Ypatybė **ClientInfoString** rodys, ar naikinimas įvyko Outlook, internetinė "Outlook" (anksčiau vadinosi Outlook Web App) ar bet kuriuo kitu įrenginiu.
 
-Daugiau informacijos ieškokite kaip [nustatyti, kas nustato pašto dėžutės pašto peradresavimą](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Daugiau informacijos žr. [Pašto dėžutės el. pašto peradresavimo nustatymas](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
-**Pastaba**: panaikintų elementų atkurti negalima naudojant audito žurnalų funkciją. Norėdami atkurti panaikintus laiškus internetinėje "Outlook", peržiūrėkite [panaikintų elementų atkūrimas "Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)".
+**Pastaba:** negalite nuskaityti panaikintų elementų naudodami audito žurnalo funkciją. Norėdami gauti panaikintus internetinė "Outlook", [žr. Panaikintų elementų atkūrimas Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

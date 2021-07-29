@@ -1,5 +1,5 @@
 ---
-title: "\"1488\" – atlikti – elektroninės aptikimo ir turinio ieškos"
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668522"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630221"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio iešką ir "Udiscovery" iešką
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio ieškas ir el. duomenų aptikimo ieškas
 
-**Norėdami atlikti turinio iešką**:
+**Norėdami atlikti turinio iešką:**
 
-1. Eikite į [saugos & atitikties centrą](https://protection.office.com) ir prisijunkite.
-2. Spustelėkite **ieškoti > turinio iešką**.
-3. Spustelėkite **nauja ieška** , kad sukurtumėte naują iešką.
-4. Įvesk reikiamas ieškos sąlygas, įskaitant raktinius žodžius ir turinio vietas.
-5. Spustelėkite **įrašyti & vykdyti** , norėdami pavadinti iešką, paleiskite ją, tada peržiūrėkite rezultatus.
+1. Eikite į Microsoft 365 centrą ir prisijunkite.
+2. Pasirinkite **Ieškoti > turinio ieška**.
+3. Pasirinkite **Nauja ieška,** kad sukurtumėte naują iešką.
+4. Įveskite reikiamas ieškos sąlygas, įskaitant raktažodžius ir turinio vietas.
+5. Pasirinkite **Įrašyti & vykdyti,** kad pavadintumėte iešką, paleiskite ją, tada peržiūrėkite rezultatus.
 
 > [!NOTE]
-> **M365 atitikties centre** dalyje **sprendimai** pasirinkite plėsti **e. atradimas** ir pasirinkite pageidaujamą e. aptikimo įrankį.
+> "Microsoft 365 **Center**  >  **Solutions"** **išplėskite el. duomenų aptikimą** ir pasirinkite norimą el. duomenų aptikimo įrankį.
 
-Išsamios informacijos apie turinio iešką, eksportavimo rezultatus ir "Udiscovery" atvejų, kad būtų galima sulaikyti duomenis, ieškokite [turinio ieška](https://docs.microsoft.com/microsoft-365/compliance/content-search) ir " [sediscovery" atvejai](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Išsamias instrukcijas apie turinio ieškas, rezultatų eksportavimą ir el. [](/microsoft-365/compliance/content-search) duomenų aptikimo atvejų sukūrimą duomenims laikyti žr. Turinio ieška ir [el. duomenų aptikimo atvejai](/microsoft-365/compliance/ediscovery-cases).
 
-**Daugiau informacijos**:
+**Daugiau informacijos:**
 
-- Daugiau informacijos apie "Microsoft 365" "Microsoft [".](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
-- Sužinokite apie teises, reikalavimus ir limitus, reikalingus "Udiscovery" ieškai, iš [teisių, reikalingų "Udiscovery" ieškoms](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) ir [apribojimams](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Jei šalinate eDiscovery problemas, žiūrėkite [eDiscovery trikčių šalinimas dažnai pasitaikančių problemų](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) ir [tiriant iš dalies indeksuotus elementus](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Daugiau informacijos apie el. duomenų aptikimo įrankius Microsoft 365 žr. [El. duomenų aptikimas](/microsoft-365/compliance/ediscovery).
+- Sužinokite apie teises, reikalavimus ir apribojimus, reikalingus el. duomenų aptikimo ieškai atlikti iš teisių, [reikalingų el.](/microsoft-365/compliance/assign-ediscovery-permissions) duomenų aptikimo [ieškai, reikalavimams ir limitams.](/microsoft-365/compliance/limits-for-content-search)
+- Jei šalinsite el. duomenų aptikimo problemas, žr. [El. duomenų](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) aptikimas Dažnai pasitaikančių problemų trikčių šalinimas [ir iš dalies indeksuotų elementų tyrimas.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
