@@ -1,9 +1,10 @@
 ---
-title: Kada sugeneruota atsiskaitymo ataskaita?
+title: Kada sugeneruojamas atsiskaitymo išrašas?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719205"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685166"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Kada sugeneruota atsiskaitymo ataskaita
+# <a name="when-is-the-billing-statement-generated"></a>Kada sugeneruojamas atsiskaitymo išrašas
 
-Jūsų išrašo data nustatyta į mėnesio dieną po to, kai jūsų paskyra buvo sukurta. Pavyzdžiui, jei sukūrėte savo paskyrą sausio 20 d., jūsų išrašo data nustatoma į 21 kiekvieną paskesnę mėnesį.
+Jūsų išrašo data nustatyta kaip mėnesio diena po jūsų paskyros sukūrimo. Pavyzdžiui, jei savo paskyrą sukūrėte sausio 20 d., jūsų išrašo data nustatoma kaip 21-oji kiekvieno paskesnio mėnesio data.
 
-Papildomi mokesčiai, susidarę aktyvaus atsiskaitymo ciklo metu, įtraukiami į kito mėnesio sąskaitą faktūrą. Atsiskaitymo ciklo pradžios ir pabaigos datos kiekvienos sąskaitos faktūros yra nurodytos sąskaitos faktūros **sąskaitų suvestinėje** .
+Papildomi mokesčiai, kurie atsiranda aktyvaus atsiskaitymo ciklo metu, įtraukiami į sąskaitą faktūrą už šį mėnesį. Kiekvienos sąskaitos faktūros atsiskaitymo ciklo pradžios ir pabaigos datos nurodytos **sąskaitos faktūros atsiskaitymo** suvestinėje.
 
-Kredito kortelės ir (arba) banko sąskaita (kur taikoma) mokėjimai yra sprendžiami diena po **sąskaitos faktūros datos**.
+Kredito kortelės ir (arba) banko sąskaitos (jei taikoma) mokėjimai apmokami kitą dieną po **sąskaitos faktūros datos.**
   
-Norėdami sužinoti daugiau, žiūrėkite [savo sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Norėdami sužinoti daugiau, [žr. Sąskaitos faktūros supratimas](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

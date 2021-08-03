@@ -3,6 +3,8 @@ title: Programos licencijos kiekio keitimas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1af3d36dead1db10ed3857d2f75b2c16d31c854e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543153"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687110"
 ---
 # <a name="change-app-license-quantity"></a>Programos licencijos kiekio keitimas
 
-Galite peržiūrėti arba pakeisti savo licencijų skaičių ir priskirti jas vartotojams Microsoft 365 administravimo centre.
+Galite peržiūrėti arba pakeisti savo licencijų skaičių ir priskirti jas vartotojams "Microsoft 365" administravimo centras.
 
 ## <a name="to-change-license-quantity"></a>Licencijos kiekio keitimas
 

@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: da6089404550d8025e4a4df3689f73f382603d65
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 08dba634869dd642eb1f4549dbce82cffe5f1f8a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811212"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686354"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kaip pašalinti kredito kortelės informaciją?
 
@@ -34,4 +36,4 @@ ms.locfileid: "51811212"
 
 4. Srityje **Naikinti mokėjimo būdą** pasirinkite **Naikinti**.
 
-Norėdami sužinoti daugiau, [žr. Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Norėdami sužinoti daugiau, [žr. Mokėjimo metodų valdymas](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
