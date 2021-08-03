@@ -3,6 +3,8 @@ title: „Power BI“ licencijų valdymas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,20 +12,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002564"
 - "4969"
-ms.openlocfilehash: 8e6efea39e32720a22ddb4337e7a23381cff4bb9
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: e2f6701e310fdf670236b3b795c93b04a7fb32be
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231943"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688298"
 ---
 # <a name="power-bi-license-management"></a>„Power BI“ licencijų valdymas
 
-"Power BI" licencijų valdymą galima atlikti "Microsoft" 365 administravimo centre.
+"Power BI" licencijų valdymą galima atlikti "Microsoft 365" administravimo centras.
 
-- **Norėdami įsigyti "Power BI**": eikite į **atsiskaitymo** \> **[pirkti paslaugas](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Naudokite ieškos lauką norėdami ieškoti "Power BI", tada pasirinkite norimą įsigyti vartotojų planą ir numerį. Daugiau informacijos ieškokite straipsnyje [kitos prenumeratos įsigijimas](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- **Norėdami priskirti "Power BI" licencijas**: eikite į **atsiskaitymo**  >  **[licencijos](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Daugiau informacijos ieškokite [licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- **Norėdami įtraukti arba pašalinti "Power BI" licencijas**: eikite į  >  **[produktų](https://go.microsoft.com/fwlink/p/?linkid=842054)** atsiskaitymas, raskite prenumeratą, kurią norite pakeisti, pasirinkite **daugiau parinkčių** (trys taškai), tada pasirinkite **pirkti licencijas**. Norėdami pašalinti licencijas, srities **įsigyti licencijas** viršuje pasirinkite **pašalinti licencijas**. Daugiau informacijos ieškokite [licencijų pirkimas arba šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses). \
-**Peržiūrėkite vaizdo įrašą** , kuriame rodoma, kaip tai padaryti: [naujų licencijų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- **Norėdami įsigyti "Power BI":** eikite **į** \> **[Atsiskaitymas Pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Naudokite ieškos lauką norėdami ieškoti "Power BI", tada pasirinkite planą ir vartotojų, kuriuos norite įsigyti, skaičių. Daugiau informacijos žr. [Kitos prenumeratos įsigijimas](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- **Norėdami priskirti "Power BI" licencijas:** eikite **į**  >  **[Atsiskaitymo licencijos](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Daugiau informacijos žr. [Licencijų priskyrimas vartotojams](/microsoft-365/admin/manage/assign-licenses-to-users).
+- **Norėdami įtraukti arba pašalinti "Power BI" licencijas:** Eikite į Atsiskaitymas už produktus, raskite prenumeratą, kurią norite keisti, pasirinkite   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Daugiau** parinkčių (trys taškai), tada pasirinkite **Įsigyti licencijas**. Norėdami pašalinti licencijas, srities **Pirkti licencijas** viršuje pasirinkite **Pašalinti licencijas**. Daugiau informacijos žr. [Licencijų įsigykite arba pašalinkite](/microsoft-365/commerce/licenses/buy-licenses).\
+**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857)

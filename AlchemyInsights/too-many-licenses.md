@@ -3,6 +3,8 @@ title: Per daug licencijų?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,27 +12,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: a093cd0ac2bc4d165a91276e7a5f1a14a8b7736f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 69725ebffbe26525784580715a5469a8572ef130
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231979"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688766"
 ---
 # <a name="too-many-licenses"></a>Per daug licencijų?
 
-Jei manote, kad jums mokami per daug licencijų, tai paprastai lėmė, kad įsigijote daugiau licencijų, tada jums reikia.
+Jei manote, kad jums išrašyta sąskaita už per daug licencijų, paprastai taip yra dėl to, kad įsigijote daugiau licencijų, tada jums reikia.
   
-**Įsigytų licencijų skaičiaus sumažinimas**
+**Įsigytų licencijų skaičiaus sumažinkite**
 
-**Peržiūrėkite vaizdo įrašą** , kuriame rodoma, kaip tai padaryti: [esamų licencijų šalinimas](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**ŽIŪRĖKITE vaizdo įrašą,** kuriame rodoma, kaip tai padaryti: [Esamų licencijų pašalinimas](https://go.microsoft.com/fwlink/p/?linkid=2154938)
   
-1. Administravimo centre eikite į puslapį **atsiskaitymo** \> **[produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Skirtuke **produktai** pasirinkite prenumeratą, kurią norite keisti.
-3. Puslapyje išsami prenumeratos informacija pasirinkite **pašalinti licencijas**.
-4. Srities **pašalinti licencijas** dalyje **naujas kiekis** lauke **bendrosios licencijos** įveskite bendrą licencijų skaičių, kurį norite naudoti šioje prenumeratoje. Pavyzdžiui, jei turite "100" licencijas ir norite pašalinti 25 iš jų, įeikite į "75".
-5. Pasirinkite **įrašyti**.
+1. Administravimo centre eikite į  puslapį \> **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Skirtuke  Produktai pasirinkite prenumeratą, kurią norite keisti.
+3. Puslapyje Prenumeratos išsami informacija pasirinkite **Šalinti licencijas**.
+4. Srities **Licencijų pašalinimas** dalyje Naujas  **kiekis** lauke Bendrosios licencijos įveskite bendrą licencijų, kurias norite naudoti šiai prenumeratai, skaičių. Pavyzdžiui, jei turite 100 licencijų ir norite pašalinti 25 iš jų, įveskite 75.
+5. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau, skaitykite [licencijų pirkimas arba šalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Norėdami sužinoti daugiau, [žr. Licencijų įsigykite arba pašalinkite](/microsoft-365/commerce/licenses/buy-licenses).
