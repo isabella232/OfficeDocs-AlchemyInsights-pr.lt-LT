@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036248"
 ---
 # <a name="assigning-groups-to-azure-ad-role"></a>Grupių priskyrimas "Azure AD" vaidmeniui
 
-Jei norite priskirti "Azure AD" grupę su "Azure AD" funkcijos "Azure AD" funkcijos šaltiniu, atlikite šiuos veiksmus:
+Norėdami priskirti "Azure AD" grupę su "Azure AD" institucijos šaltiniu "Azure AD" vaidmeniui, atlikite šiuos veiksmus:
 
-1. Kurti naują grupę – kurti naują grupę:
+1. Naujos grupės kūrimas – norėdami sukurti naują grupę:
 
-    a. Prisijunkite prie "Azure AD" administravimo centro su **privilegijuotu vaidmenų administratoriumi** arba **visuotinio administratoriaus** teisėmis.
-    b. Pasirinkite " **Azure Active Directory" > grupės > visos grupės > nauja grupė**.
-    c. Kurti grupę.
+    a. Prisijunkite prie "Azure AD" administravimo centro naudodami **privilegijuotas vaidmenų administratoriaus arba** **visuotinio administratoriaus** teises.
+    b. Pasirinkite **"Azure Active Directory" > Grupės > Visos grupės > Nauja grupė**.
+    c. Sukurkite grupę.
 
-2. Priskirti grupės vaidmenį grupės kūrimo metu arba sukūrus grupę.
+2. Priskirkite vaidmenį grupei grupės kūrimo metu arba sukūrus grupę.
 
-    a. Norėdami priskirti grupės vaidmenį grupės kūrimo metu, įjunkite " **AZURE AD" vaidmenis** , kuriuos galima priskirti grupei ir kurti grupę.
-    b. Norėdami priskirti vaidmenį grupei po to, kai jis buvo sukurtas, pereikite į naujai sukurtos grupės skirtuką **priskirti vaidmenys** ir priskirkite grupei vaidmenį.  
+    a. Norėdami grupės kūrimo metu grupei priskirti vaidmenį, įjunkite jungiklį **"Azure AD" vaidmenys** gali būti priskirti grupei ir sukurti grupę.
+    b. Norėdami priskirti vaidmenį grupei po to, kai jis buvo **sukurtas,** eikite į naujai sukurtos grupės skirtuką Priskirti vaidmenys ir priskirkite vaidmenį grupei.  
 
-**"Azure AD" vaidmeniui priskirtos grupės narių valdymas**
+**Grupės, priskirtos "Azure AD" vaidmeniui, narystės valdymas**
 
-Norint išvengti teisių didesnių teisių, pagal numatytuosius numatytuosius, tik privilegijuotieji vaidmenų administratoriai ir visuotiniai administratoriai gali modifikuoti grupės, priskirtos vaidmeniui, narystę. Tačiau jie gali pasirinkti priskirti tokiai grupei savininką ir pavesti šiai užduočiai.
+Norėdami išvengti didesnių teisių, pagal numatytuosius nustatymus tik privilegijuoti vaidmenų administratoriai ir visuotiniai administratoriai gali modifikuoti grupei, kuri priskirta vaidmeniui, narystę. Tačiau jie gali pasirinkti priskirti tokios grupės savininką ir perduoti šią užduotį.
 
-Daugiau informacijos apie debesies grupių priskyrimo į "Azure AD" vaidmenis ieškokite skyriuje [skelbimų Vaidmenų priskyrimas debesies grupei](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Daugiau informacijos apie trikčių diagnostikos vaidmenis, priskirtus debesies grupėms, ieškokite [vaidmenų, priskirtų debesies grupėms, trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Daugiau informacijos apie debesies grupių priskyrimą "Azure AD" vaidmenims žr. [AD vaidmenų priskyrimas debesies grupei](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Daugiau informacijos apie debesies grupėms priskirtų vaidmenų trikčių diagnostiką žr. [Debesies grupėms priskirtų vaidmenų trikčių diagnostika](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
 
 
 

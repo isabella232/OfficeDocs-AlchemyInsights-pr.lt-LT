@@ -1,5 +1,5 @@
 ---
-title: Prenumeratos atšauktos – senesnė – Rekomenduojami veiksmai
+title: Prenumerata atšaukta – senstelėję – rekomenduojami veiksmai
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999068"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Prenumeratos atšauktos – senesnė – Rekomenduojami veiksmai
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Prenumerata atšaukta – senstelėję – rekomenduojami veiksmai
 
-Mūsų įraše nurodoma, kad prenumeratą atšaukė vartotojas, turintis savininko teises. Toliau aprašyti veiksmai, kad iš naujo suaktyvintumėte prenumeratą.
+Mūsų įrašas nurodo, kad prenumeratą atšaukė vartotojas, kuris turi savininko teises. Raskite toliau nurodytus veiksmus, kad iš naujo suaktyvintumėte prenumeratą.
 
-[Paskyros administratorius](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) gali iš naujo suaktyvinti atšauktą mokėjimo kaip "jūs-Go" prenumeratą paskyros centre.
+Paskyros [administratorius](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) gali iš naujo aktyvinti atšauktą "Pay-As-You-Go" prenumeratą paskyros centre.
 
-1. Prisijunkite prie [abonementų centro](https://account.azure.com/Subscriptions).
-2. Pasirinkite atšauktą prenumeratą ir spustelėkite **Aktyvinti iš naujo**.
+1. Prisijunkite prie [paskyros centro](https://account.azure.com/Subscriptions).
+2. Pasirinkite atšauktą prenumeratą ir spustelėkite **Iš naujo aktyvinti**.
 
-Jei naudojate kitus prenumeratos tipus, [kreipkitės į palaikymo tarnybą](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) , kad jūsų prenumerata būtų suaktyvinta iš naujo.
+Jei naudojate kitų tipų prenumeratas, [kreipkitės į palaikymo](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) tarnybą, kad jūsų prenumerata būtų suaktyvinta iš naujo.

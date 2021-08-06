@@ -1,5 +1,5 @@
 ---
-title: Prenumeratos atšaukimas – Nemokamas abonementas
+title: Prenumerata atšaukta – senstelėjusi – nemokama paskyra
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999212"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Prenumeratos atšaukimas – Nemokamas abonementas
+# <a name="subscription-cancelled---legacy---free-account"></a>Prenumerata atšaukta – senstelėjusi – nemokama paskyra
 
-Jūsų prenumerata išjungta, nes baigėsi "Azure" kreditų galiojimas.
+Jūsų prenumerata išjungta, nes baigėsi "Azure" kredito galiojimas.
 
-**"Azure" kreditų galiojimo laikas baigėsi**
+**"Azure" kredito galiojimas baigėsi**
 
-Kai prisiregistruojate naudoti "Azure free" paskyrą, gausite nemokamą bandomąją prenumeratą, kuri suteiks "$200" "Azure" kreditų 30 dienų ir 12 mėnesių nemokamų paslaugų. 30 dienų pabaigoje "Azure" išjungia jūsų produktų paketą. Jūsų prenumerata išjungta, siekiant apsaugoti jus nuo netyčinio mokesčio už naudojimą už jūsų produktų paketą. Norėdami toliau naudotis "Azure" paslaugomis, turite [atnaujinti prenumeratą](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). Atnaujinus versiją, jūsų prenumerata vis dar turi prieigą prie nemokamų tarnybų 12 mėnesių. Už naudojimą galite mokėti tik už nemokamų tarnybų ir kiekių.
+Kai prisiregistruosite naudoti "Azure" nemokamą paskyrą, gausite nemokamą bandomąją prenumeratą, kuri suteikia 200 EUR "Azure" kredituose 30 dienų ir 12 mėnesių nemokamų paslaugų. 30 dienų pabaigoje "Azure" išjungia jūsų prenumeratą. Jūsų prenumerata išjungta, kad apsaugotumėte jus nuo netyčinio naudojimo mokesčių už naudojimąsi ne tik kredito ir nemokamomis paslaugomis, įtrauktomis į jūsų prenumeratą. Norėdami toliau naudoti "Azure" tarnybas, turite [atnaujinti prenumeratą.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Atnaujinus versiją, jūsų prenumerata vis dar turi prieigą prie nemokamų paslaugų 12 mėnesių. Už naudojimą gausite tik mokestį už nemokamų paslaugų ir kiekių ribų.
 
-Norėdami atnaujinti prenumeratą, atlikite toliau nurodytus veiksmus.
+Norėdami atnaujinti prenumeratą, atlikite šiuos veiksmus:
 
-1. Prisijunkite prie " [Azure" portalo](https://portal.azure.com/).
-2. Ieškokite **prenumeratų**.
-3. Pasirinkite prenumeratą, sukurtą prisijungiant prie "Azure free" paskyros.
-4. Prenumeratos peržiūroje spustelėkite mygtuką **atnaujinti prenumeratą** komandų juostoje. Jei nematote mygtuko naujinti prenumeratą, spustelėkite puslapio viršuje esančią versijos naujinimo juostą.
-5. Jei neturite mokėjimo metodo savo paskyroje, būsite paraginti jį įtraukti.
-6. Jums gali tekti įrašyti telefono numerį, kad patvirtintumėte savo tapatybę.
-7. Įveskite savo prenumeratos pavadinimą.
-8. Spustelėkite  **Naujinti versiją**.
+1. Prisijunkite prie [„Azure“ portalo](https://portal.azure.com/).
+2. Ieškokite **Prenumeratos**.
+3. Pasirinkite prenumeratą, kuri buvo sukurta, kai prisiregistravote naudoti "Azure" nemokamą paskyrą.
+4. Prenumeratos apžvalgoje komandų **juostoje** spustelėkite Mygtuką Atnaujinti prenumeratą. Jei nematote versijos naujinimo prenumeratos mygtuko, puslapio viršuje spustelėkite versijos naujinimo reklaminę juostą.
+5. Jei neturite savo paskyros mokėjimo būdo, būsite paraginti jį įtraukti.
+6. Gali tekti įvesti telefono numerį, kad patvirtintumėte savo tapatybę.
+7. Įveskite prenumeratos pavadinimą.
+8. Spustelėkite **Naujinti versiją.**

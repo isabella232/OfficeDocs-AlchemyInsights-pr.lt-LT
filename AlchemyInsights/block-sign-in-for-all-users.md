@@ -1,5 +1,5 @@
 ---
-title: Blokuoti ženklą visiems vartotojams
+title: Blokuoti prisijungimą visiems vartotojams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019264"
 ---
-# <a name="block-sign-in-for-all-users"></a>Blokuoti ženklą visiems vartotojams
+# <a name="block-sign-in-for-all-users"></a>Blokuoti prisijungimą visiems vartotojams
 
-Norėdami užblokuoti visus žmones nuo prisijungimo prie "Office", atlikite šiuos veiksmus:
+Norėdami blokuoti visus prisijungti prie Office, atlikite šiuos veiksmus:
 
-1. Administravimo centre eikite į [ **vartotojai**  >  **aktyvūs vartotojai**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-2. Pažymėkite visi vartotojai spustelėdami žymės langelį prie **rodomas pavadinimas** . Įsitikinkite, kad panaikinsite administratoriaus paskyrą, su kuria esate prisijungę.
-3. Spustelėkite **"..."** prie **eksportuoti vartotojus**  >  **Redaguoti prisijungimo būseną** , tada pasirinkite **blokuoti vartotojus** prisijungti. Nauji prisijungimo moduliai blokuojami iškart. Jei vartotojas jau buvo prisijungęs, tada vartotojas automatiškai atsijungs nuo visų "Microsoft" paslaugų per 60 minutes.
+1. Administravimo centre eikite į Vartotojai [   >  **aktyvūs vartotojai**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+2. Pažymėkite visus vartotojus spustelėdami varnelę šalia **Rodomas pavadinimas**. Įsitikinkite, kad atžymėsite administratoriaus paskyrą, prie kurios esate prisijungę.
+3. Spustelėkite **"..."** šalia **Eksportuoti vartotojus** Redaguoti  >  **prisijungimo būseną**, tada pasirinkite Blokuoti vartotojus nuo **prisijungimo**. Nauji prisijungimai iš karto blokuojami. Jei vartotojas jau buvo prisijungęs, vartotojas bus automatiškai atjungtas nuo visų "Microsoft" paslaugos per 60 minučių.

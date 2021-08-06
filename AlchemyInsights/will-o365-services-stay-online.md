@@ -1,5 +1,5 @@
 ---
-title: Ar "Office 365" tarnybos liks internete?
+title: Ar Office 365 paslaugos liks internete?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036860"
 ---
-# <a name="will-office-365-services-stay-online"></a>Ar "Office 365" tarnybos liks internete?
+# <a name="will-office-365-services-stay-online"></a>Ar Office 365 paslaugos liks internete?
 
-taip. Mes sukūrėme šias paslaugas naudodami atkuriamumas galvoje. Kiekviena tarnyba vienu metu naudoja kelis egzempliorius, todėl net jei kyla problemų, mūsų Klientai neturi įtakos. Kiekviena paslauga taip pat yra pateikta, tad jei problema kyla dėl vienos tarnybos, ji nebus paskleisti likusioje jų pusėje. Galiausiai, saugos priemonės buvo integruotos į kiekvienos tarnybos kodą, kad būtų išvengta problemų, susijusių su "pakopinio" per paslaugą.
+Taip. Sukūrėme šias paslaugas, atsižvelgiant į atsparumą. Kiekviena tarnyba vienu metu vykdo kelis egzempliorius, todėl net jei vienas egzempliorius turi problemų, mūsų klientams tai įtakos neturi. Kiekviena tarnyba taip pat yra, todėl, jei problema kyla dėl vienos tarnybos, ji nebus paskirstyta likusiai tarnybai. Galiausiai, apsaugos priemonės buvo įtaisytos kiekvienos tarnybos kode, kad būtų galima išvengti problemų naudojant tarnybą pakopomis.
 
-Norėdami daugiau sužinoti apie mūsų veiksmus, kad mūsų tarnybos išliktų stabilios, peržiūrėkite [įmonės verslo tęstinumo valdymą (EBCM) naudodami debesies tarnybas](https://go.microsoft.com/fwlink/?linkid=2124377).
+Norėdami sužinoti daugiau apie mūsų pastangas išlaikyti savo paslaugas stabilias, žr. ["Enterprise" verslo tęstinumo valdymas (EBCM) su debesies paslaugomis.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Dėkojame už jūsų atsiliepimą, todėl pasirinkite **taip** / **ne** į pasirodžiusį klausimą ir Įvertinkite savo patirtį.
+Norėsime įvertinti jūsų atsiliepimus, todėl pasirodęs klausimas pasirinkite Taip  /  Ne, tada įvertinkite savo patirtį.

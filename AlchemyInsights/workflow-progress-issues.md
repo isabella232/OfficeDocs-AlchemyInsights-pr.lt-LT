@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 77f7f3b68ea4c99f39049b90f3feaf2f7f9b1364
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5fa5f8afdfacbefb071f6899b75c397b26705379d11bb1958c3d7f7be499b1f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907782"
 ---
-# <a name="intermittent-delays-with-workflow-progress"></a>Nepastovus vėlavimas su darbo eigos eiga
+# <a name="intermittent-delays-with-workflow-progress"></a>Su pertraukomis susiję delsa su darbo eigos eiga
 
-Jei darbo eiga nepradedama, gali būti laikina aptarnavimo problema, kai vartotojai gali susidurti su pertrūkiais dėl darbo eigos eigos. Patikrinkite [tarnybos sveikatos ataskaitų sritį](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ir Sužinokite, ar jūsų organizacija turi įtakos. 
+Jei jūsų darbo eiga nepaleidžianti, gali būti laikina tarnybos problema, dėl kurios vartotojai gali patirti su pertrūkiais uždelstą darbo eigos eigą. Patikrinkite tarnybos [sveikatos ataskaitų sritį,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kad pamatytumėte, ar paveikta jūsų organizacija. 
 
-Jei praėjo daugiau nei 24 valandos po to, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo bilieto. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtumėte sprendimą.
+Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo kvito. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtų sprendimą.
 
 
   

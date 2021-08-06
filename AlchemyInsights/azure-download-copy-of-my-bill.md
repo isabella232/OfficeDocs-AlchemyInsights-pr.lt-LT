@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 43898bd85dc6d0ffcf3d9146e65583ad9532e64d342fea55fd48e055caf133a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019372"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Sąskaitos kopijos atsisiuntimas arba prašymas "Azure"
 
@@ -27,7 +27,7 @@ Turite turėti paskyros administratoriaus vaidmenį prenumeratai, kad atsisiųst
 
 1. Pasirinkite prenumeratą ["Azure" portalo prenumeratos](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) puslapyje kaip [vartotojas, kuris turi prieigą prie sąskaitų faktūrų,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) tada pasirinkite **Sąskaitos faktūros**
 2. Spustelėkite **Atsisiųsti sąskaitą faktūrą,** kad būtų galima peržiūrėti PDF sąskaitos faktūros kopiją. Jei jame **nurodyta Nėra**, [žr. Kodėl nematau](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice) sąskaitos faktūros už paskutinį atsiskaitymo laikotarpį?
-3. Taip pat galite peržiūrėti savo kasdienį naudojimą spustelėdami atsiskaitymo laikotarpį Norėdami gauti sąskaitos faktūros PDF ir išsamaus kasdienio naudojimo failo kopiją (. CSV): [gauti sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+3. Taip pat galite peržiūrėti savo kasdienį naudojimą spustelėdami atsiskaitymo laikotarpį Norėdami gauti sąskaitos faktūros PDF ir išsamios kasdienio naudojimo failo kopiją (.CSV): Gauti sąskaitos faktūros [ir naudojimo duomenis](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Leisti kitiems atsisiųsti jūsų prenumeratos sąskaitą faktūrą**
 

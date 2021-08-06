@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907926"
 ---
 # <a name="web-only-limited-access"></a>Web-Only ribota prieiga
 
-Web-Only ribota prieiga yra "Riboto priėjimo" teisių rinkinio, kuris leidžia vartotojams pasiekti tik žiniatinklio objektą, variantas.
+Web-Only ribota prieiga yra ribotos prieigos teisių rinkinio variantas, leidžiantis vartotojams pasiekti tik žiniatinklio objektą.
 
-Daugiau informacijos ieškokite [numatytųjų teisių lygiai](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+Daugiau informacijos žr. [numatytieji teisių lygiai](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).

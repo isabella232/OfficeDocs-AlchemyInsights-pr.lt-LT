@@ -1,5 +1,5 @@
 ---
-title: "\"Visio\" šalinimas"
+title: Pašalinti Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: c341061e0909e1091071b16e62a2fef69c9e621d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4eedc7853097a393282d13ad2864c19efb324edc31cff456e815180133dd30f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020020"
 ---
-# <a name="uninstall-visio"></a>"Visio" šalinimas
+# <a name="uninstall-visio"></a>Pašalinti Visio
 
 Atsisiųskite ir įdiekite [palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Kai jis atidaromas, **pašalinkite "Office" produktus** pasirinkite "Visio" versiją, kurią norite pašalinti, ir pasirinkite **Pirmyn**. 
+1. Kai ji bus **atidaroma, iš Office produktų** pasirinkite norimą Visio versiją ir pasirinkite **Pirmyn**. 
     
 2. Toliau eikite per ekranus ir, kai būsite paraginti, iš naujo paleiskite kompiuterį.
     
-    Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai atidaromas, kad baigtumėte pašalinimo procesą.
+    Paleidus iš naujo, palaikymo ir atkūrimo pagalbinė priemonė automatiškai iš naujo atidaroma, kad užbaigtumėte šalinimo procesą.
     
-3. Vykdykite likusius raginimus ir, jei turite "Visio Online" prenumeratą, galite iš naujo įdiegti "Visio" iš "Microsoft 365" [paskyros portalo](https://portal.office.com/account#installs). Daugiau pagalbos arba pagalbos diegiant "Visio" versijas, pvz., "Visio Professional", ieškokite " [Visio" diegimas](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Vykdykite likusius raginimus ir, jei turite "Visio Online" prenumeratą, galite iš Visio iš naujo Microsoft 365 [paskyros portale](https://portal.office.com/account#installs). Jei reikia papildomos pagalbos arba pagalbos diegiant ne prenumeratos versijas, Visio, pvz., Visio Professional, [žr. "Visio" diegimas.](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936) 
     
-Norėdami gauti kitų pašalinimo parinkčių sąrašą, pasirinkite [pašalinti "Office" iš asmeninio kompiuterio](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+Jei norite gauti kitų šalinimo parinkčių sąrašą, [pasirinkite Office pašalinti iš kompiuterio](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).

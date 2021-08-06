@@ -1,5 +1,5 @@
 ---
-title: Atnaujinti mokesčių/PVM ID
+title: Atnaujinti mokesčių /PVM ID
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908466"
 ---
-# <a name="update-taxvat-id"></a>Atnaujinti mokesčių/PVM ID
+# <a name="update-taxvat-id"></a>Atnaujinti mokesčių /PVM ID
 
-Jei turite klausimų, susijusių su jūsų mokesčių/PVM ID, kreipkitės į "Microsoft" licencijavimo partnerį (partnerio arba programinės įrangos patarėjas). Jie susisieks su regiono operacijų centru (ROC) klausimams, susijusiems su jūsų MOKESČIU/PVM ID. 
+Jei turite problemų, susijusių su jūsų TAX / VAT ID, kreipkitės į "Microsoft" licencijavimo partnerį (partnerį arba programinės įrangos patarėją). Jie susisieks su regionine operacijų centru (ROC) dėl klausimų, susijusių su jūsų MOKESČIŲ / PVM ID. 

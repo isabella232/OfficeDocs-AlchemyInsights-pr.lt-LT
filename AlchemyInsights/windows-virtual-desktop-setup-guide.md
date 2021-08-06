@@ -1,5 +1,5 @@
 ---
-title: "\"Windows Virtual\" kompiuterio nustatymas"
+title: Virtualiojo darbalaukio Windows nustatyti
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036644"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>"Windows Virtual" kompiuterio nustatymas
+# <a name="set-up-windows-virtual-desktop"></a>Virtualiojo darbalaukio Windows nustatyti
 
-"Windows Virtual Desktop" yra išsami kompiuterio ir taikomųjų programų virtualizavimo tarnyba, veikianti debesyje. Tai vienintelė virtualioji kompiuterio infrastruktūra (VDI), teikianti supaprastintą valdymą, kelių seansų "Windows 10", optimizavimus "Microsoft 365" programoms ir nuotolinių kompiuterio tarnybų (RDS) aplinkoms palaikyti. Įdiekite ir pritaikykite "Windows" darbalaukius ir taikomąsias programas į "Azure" per kelias minutes ir gaukite įtaisytąsias saugos ir atitikties funkcijas.
+Windows Virtualusis darbalaukis yra išsami darbalaukio ir taikomųjų programų virtualizavimo tarnyba, veikiama debesyje. Tai vienintelė virtualiojo darbalaukio infrastruktūra (VDI), kuri teikia supaprastintą valdymą, kelių seansų "Windows 10", ""Microsoft 365" programos" optimizavimą ir nuotolinio darbalaukio tarnybų (RDS) aplinkos palaikymą. Diegkite ir siųskite savo Windows ir programėles į "Azure" per kelias minutes ir gaukite įtaisytųjų saugos ir atitikties funkcijų.
 
-["Windows" virtualiojo darbalaukio sąrankos vadovas](https://go.microsoft.com/fwlink/?linkid=2146236) suteikia administratoriams su planavimo ištekliais ir Būtinosios sąlygos diegimo, sąrankos rekomendacijų ir papildomų išteklių.
+Virtualiojo [Windows sąrankos vadove](https://go.microsoft.com/fwlink/?linkid=2146236) administratoriams pateikiami planavimo ištekliai ir būtinos diegimo sąlygos, sąrankos rekomendacijos ir papildomi ištekliai.

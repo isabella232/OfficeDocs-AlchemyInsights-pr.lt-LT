@@ -1,5 +1,5 @@
 ---
-title: Neveikia slaptažodis write
+title: Neveikia slaptažodžio įrašymo atgalinis skambinimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999752"
 ---
-# <a name="password-writeback-is-not-working"></a>Neveikia slaptažodis write
+# <a name="password-writeback-is-not-working"></a>Neveikia slaptažodžio įrašymo atgalinis skambinimas
 
-**Kilo problemų konfigūruojant slaptažodžius**
+**Kyla problemų konfigūruojant slaptažodžio įrašymo atgalinio kopijavimo**
 
-- Slaptažodis write-back yra priemoka funkcija.
+- Slaptažodžio nurašymas yra aukščiausios kokybės funkcija.
 - Įsitikinkite, kad suprantate licencijavimo reikalavimus:
   - Turite turėti bent vieną licenciją, priskirtą jūsų organizacijoje
-  - **Tik debesies vartotojai** – bet kuris "Office 365" (O365) sumokėtas SKU arba "Azure AD Basic"
-  - **Debesies ir (arba) vietiniai vartotojai – "** Azure AD Premium" P1 arba P2, įmonės mobilumas + sauga (EPS) arba saugi gamybinė įmonė (SPE)
-    - Norėdami sužinoti daugiau apie licencijavimo reikalavimus, skaitykite " [AZURE AD" savitarnos slaptažodžio nustatymo iš naujo licencijavimo reikalavimai](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Turite bent vieną administratoriaus paskyrą ir vieną bandomosios vartotojo paskyrą su viena iš atitinkamos licencijos.
-- Turite prijungti "Azure AD Connect" prie pirminio domeno valdiklio emuliatorius, kad veiktų slaptažodis. Galite sukonfigūruoti "Azure AD Connect" naudoti pirminį domeno valdiklį dešiniuoju pelės mygtuku spustelėdami "Active Directory" sinchronizavimo jungties **ypatybes** , tada pasirinkite **Konfigūruoti katalogų skaidinius**. Čia ieškokite skyriaus **domeno valdiklio ryšių parametrai** ir pažymėkite žymės langelį **naudoti tik pageidaujamus domenų valdiklius**.
+  - **Tik debesies vartotojai** – bet Office 365 (O365) sumokėjo SKU arba "Azure AD Basic"
+  - **Debesies ir (arba)** vietinės vartotojų – "Azure AD Premium P1 arba P2, Enterprise Mobility + Security (EMS) arba Secure Productive Enterprise (SPE)
+    - Norėdami sužinoti daugiau apie licencijavimo reikalavimus, žr. ["Azure AD" savitarnos slaptažodžio nustatymo iš naujo licencijavimo reikalavimai](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Turite bent vieną administratoriaus paskyrą ir vieną bandomąją vartotojo paskyrą su viena iš atitinkamų licencijų.
+- Turite prijungti "Azure AD Prisijungimas prie pirminio domeno valdiklio emuliatoriaus, kad veiktų slaptažodžio įrašymo atgalinis valdiklis. Galite konfigūruoti "Azure AD Prisijungimas naudoti pirminio domeno valdiklį  dešiniuoju pelės mygtuku spustelėdami "Active Directory" sinchronizavimo jungties **ypatybes, tada pasirinkdami konfigūruoti katalogų skaidinius.** Iš ten ieškokite domeno **valdiklio ryšio parametrų** skyriaus ir pažymėkite žymės langelį, pavadintą **Naudoti tik pageidaujamus domeno valdiklius.**
   > [!NOTE]
-  > Jei pageidaujamas DC nėra PDC emuliatorius, "Azure AD Connect" vis tiek pasieks slaptažodžių įrašymo PDC.
-- Slaptažodžio nustatymas iš naujo sukonfigūruotas ir įgalintas jūsų nuomotojuje. Daugiau informacijos ieškokite [vartotojų įgalinimas iš naujo nustatyti "AZURE AD" slaptažodžius](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
-- Įsitikinkite, kad administratoriaus abonementas, naudojamas slaptažodžiui write, yra debesies administratoriaus abonementas (sukurtas "Azure AD" ne vietiniame skelbime)
-- Turite vieną arba kelių miškų skelbimą vietiniame diegime, kuriame veikia "Windows Server" 2008 R2, "Windows Server 2012" arba "Windows Server 2012 R2" su įdiegtais naujausiais pakeitimų paketais
-- Įdiegtas "Azure AD Connect" įrankis ir jūs paruošėte skelbimo aplinką, skirtą sinchronizuoti debesyje. Prieš išbandydami slaptažodį write, įsitikinkite, kad pirmą kartą atliekate visą importavimą ir visišką sinchronizavimą iš AD ir Azure AD "Azure AD Connect".
-- Norėdami sužinoti daugiau, Sužinokite, kaip atlikti [visas sinchronizavimo ir visas importavimas naudojant "AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations) "
+  > Jei pageidaujama DC nėra PDC emuliatorius, "Azure AD Prisijungimas vis tiek pasieks PDC slaptažodžio įrašymo atgalinę kopiją.
+- Jūsų nuomotoje buvo sukonfigūruotas ir įgalintas slaptažodžio nustatymas iš naujo. Daugiau informacijos žr. [Vartotojų įgalinkite iš naujo nustatyti "Azure AD" slaptažodžius.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Įsitikinkite, kad administratoriaus paskyra, naudojama slaptažodžio "Writeback" įgalinimo funkciją, yra debesies administratoriaus paskyra (sukurta "Azure AD" ne vietiniame AD)
+- Turite vieną arba kelių miškų AD vietinę įdiegtį, kuriame veikia "Windows Server 2008 R2", "Windows Server 2012" arba "Windows Server 2012 R2" su įdiegtais naujausiais pakeitimų paketais
+- Turite įdiegtą "Azure AD Prisijungimas įrankį ir paruošėte AD aplinką sinchronizuoti su debesimi. Prieš išbandę slaptažodžio įrašymo atgalį, įsitikinkite, kad iš pradžių visiškai importuojate ir visiškai sinchronizuojate "Azure AD" ir "Azure AD" Prisijungimas.
+- Norėdami sužinoti daugiau, žr., kaip atlikti visišką [sinchronizavimą ir visišką importavimą "Azure AD" Prisijungimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
-**Iškilo problema dėl slaptažodžio įrašymo atgal ryšio**
+**Kyla problemų dėl slaptažodžio įrašymo atgalinio skambinimo ryšio**
 
-1. Naujausios " [AZURE AD Connect](https://www.microsoft.com/download/details.aspx?id=47594) " versijos atsisiuntimas ir įjungimas
-2. Užkardos konfigūracija: "Azure AD Connect" įrankyje (1.1.443 ir anksčiau) reikės **siuntimo https** prieigos:
+1. Naujausios ["Azure AD"](https://www.microsoft.com/download/details.aspx?id=47594) versijos atsisiuntimas ir Prisijungimas
+2. Užkardos konfigūracija: "Azure AD Prisijungimas įrankis (1.1.443 ir aukščiau) reikės **siuntimo HTTPS** prieigos prie:
     - passwordreset.microsoftonline.com
-    - servicebus. Windows. Networks
-3. Leisti naudoti tuščiosios eigos ryšius bent 2-3 min.
+    - servicebus.windows.networks
+3. Leisti, kad laukimo būsenos ryšiai tęsis bent 2–3 minutes
 
 **Vis dar kyla problemų dėl slaptažodžio įrašymo**
 
-- Jei vis tiek kyla problemų, bandykite išjungti ir iš naujo įgalinti slaptažodžio įrašymo paslaugą "Azure AD Connect" įrankyje
-- Norėdami sužinoti daugiau, Sužinokite, kaip [išjungti ir iš naujo įjungti slaptažodį write-back](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Jei vis tiek kyla problemų, pabandykite išjungti ir iš naujo įgalinti slaptažodžio įrašymo paslaugą "Azure AD" Prisijungimas įrankį
+- Norėdami sužinoti daugiau, žr., kaip išjungti [ir iš naujo įgalinti slaptažodžio įrašymo atgalinę jungtį](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

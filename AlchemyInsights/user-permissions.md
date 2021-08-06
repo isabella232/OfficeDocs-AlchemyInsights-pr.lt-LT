@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908358"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>"SharePoint" ir "OneDrive" vartotojų teisės
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Vartotojo teisės SharePoint "OneDrive"
 
-Jei jūsų organizacijos vartotojas negali pasiekti "SharePoint" arba "OneDrive", įsitikinkite, kad jie turi licenciją, kurioje yra "SharePoint" ir "OneDrive". 
+Jei jūsų organizacijos vartotojas negali pasiekti "SharePoint" "OneDrive", įsitikinkite, kad jis turi licenciją, kuri apima SharePoint ir "OneDrive". 
   
-1. Eikite į ["Microsoft" 365 administravimo centro puslapį aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users) ir pasirinkite vartotoją. 
+1. Eikite [į puslapį Aktyvūs vartotojai "Microsoft 365" administravimo centras](https://portal.office.com/adminportal/home#/users) pasirinkite vartotoją. 
     
-2. Įsitikinkite, kad dalyje **produktų licencijos**yra priskirta licencija ir pažymėta " **SharePoint Online** ". 
+2. Įsitikinkite, kad **dalyje Produktų licencijos** priskirta licencija ir pasirinkta SharePoint **Online".** 
     
- Norėdami suteikti vartotojui teisę pasiekti "SharePoint" svetainę: 
+ Norėdami suteikti vartotojui teisę pasiekti SharePoint svetainę: 
   
 1. Atidarykite svetainę žiniatinklio naršyklėje.
     
-2. Jei svetainė priklauso "Microsoft 365" grupei, spustelėkite piktogramą parametrai, esančią viršuje dešinėje, tada spustelėkite **svetainės teisės**. Spustelėkite **Kviesti žmones**, tada pasirinkite, kad įtrauktumėte narių į "Microsoft" 365 grupę arba bendrintumėte tik svetainę. 
+2. Jei svetainė priklauso grupei Microsoft 365, spustelėkite piktogramą Parametrai, esančią viršutiniame dešiniajame kampe, tada spustelėkite **Svetainės teisės**. Spustelėkite **Kviesti** žmones , tada pasirinkite įtraukti narių į Microsoft 365 arba bendrinti tik svetainę. 
     
-    Norėdami naudoti bendravimo svetainę, viršutinėje dešinėje spustelėkite **bendrinti svetainę** , įveskite asmens vardą, tada pasirinkite teisių rinkinį (skaityti, redaguoti arba visiškai kontroliuoti). 
+    Jei norite gauti  ryšių svetainę, spustelėkite Bendrinti svetainę viršutiniame dešiniajame kampe, įveskite asmens vardą ir pasirinkite teisių lygį (Skaityti, Redaguoti arba Visas valdymas). 
     
-    Jei turite klasikinę komandos svetainę, viršutinėje dešinėje spustelėkite **bendrinti** . Įveskite vardą asmens, kurį norite pakviesti, arba įveskite visus, kad bendrintumėte su visais organizacijos nariais. Spustelėkite **bendrinti**.
+    Klasikinės komandos svetainės viršutiniame **dešiniajame** kampe spustelėkite Bendrinti. Įveskite asmens, kurį norite pakviesti, vardą arba įveskite Visi, kuriuos norite bendrinti su visais organizacijos nariais. Spustelėkite **Bendrinti**.
     
 > [!NOTE]
-> Jei esate svetainės narys, bet ne savininkas, galite pakviesti žmonių į svetainę, bet jūsų kvietimas sukurs "Access" užklausą, kurią gali patvirtinti arba atmesti svetainės savininkas. 
+> Jei esate svetainės narys, bet ne savininkas, galite pakviesti žmones į svetainę, tačiau jūsų kvietimas sugeneruos prieigos užklausą, kurią gali patvirtinti arba atmesti svetainės savininkas. 
   
-[Sužinokite, kaip bendrinti failą arba aplanką su vartotoju](https://go.microsoft.com/fwlink/?linkid=533408)
+[Sužinokite, kaip bendrinti failą arba aplanką su vartotojas](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

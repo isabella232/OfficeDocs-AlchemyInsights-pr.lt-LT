@@ -1,5 +1,5 @@
 ---
-title: Rekomenduokite sprendimus Dynamics 365 saugyklos problemoms
+title: "\"Dynamics 365\" saugyklos problemų sprendimai"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922959"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Rekomenduokite sprendimus Dynamics 365 saugyklos problemoms
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Rekomenduoti "Dynamics 365" saugyklos problemų sprendimus
 
-* Kaip visuotinis administratorius, peržiūrėkite saugyklos suskirstymą pagal aplinką, 10 viršutinių lentelių ir dar daugiau
+* Kaip visuotinis administratorius, peržiūrėkite saugyklos paskirstymą pagal aplinką, 10 populiariausių lentelių ir kt.
 
-* [Saugyklos sąskaitos ir prenumeratos klausimai](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Atsiskaitymo už saugyklą ir prenumeratos klausimai](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* ["Dynamics 365" kainodaros ir licencijavimo vadovas](https://dynamics.microsoft.com/pricing/)
+* ["Dynamics 365" kainų ir licencijavimo vadovas](https://dynamics.microsoft.com/pricing/)
 
 * [Kaip įsigyti daugiau saugyklos vietos](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 

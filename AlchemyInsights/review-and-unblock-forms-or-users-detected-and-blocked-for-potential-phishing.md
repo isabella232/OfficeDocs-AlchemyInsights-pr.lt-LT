@@ -1,5 +1,5 @@
 ---
-title: Aptikti ir atblokuoti formas arba vartotojus, kurie aptikti ir užblokuoti galimam sukčiavimui
+title: Formų arba vartotojų aptiktų ir užblokuotų galimų sukčiavimo apsimetant formų arba vartotojų peržiūra ir atblokavimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004442"
 - "8044"
-ms.openlocfilehash: 6314e9cb3e1c0906a2125de87c27f91df3560104
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: ea78eebff8f1b77fe425a048241405d7ac0855553cf67c5cb1eed93a8cf7e74d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50092999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922491"
 ---
-# <a name="review-and-unblock-forms-or-users-detected-and-blocked-for-potential-phishing"></a>Aptikti ir atblokuoti formas arba vartotojus, kurie aptikti ir užblokuoti galimam sukčiavimui
+# <a name="review-and-unblock-forms-or-users-detected-and-blocked-for-potential-phishing"></a>Formų arba vartotojų aptiktų ir užblokuotų galimų sukčiavimo apsimetant formų arba vartotojų peržiūra ir atblokavimas
 
-**"Microsoft" 365 administravimo centre** galite nustatyti automatinį formų nuskaitymą savo organizacijoje, skirtą apsimestiniams ir asmeniniams ar slaptiems informacijos prašymams. Srityje " **Microsoft Forms** " pagal numatytuosius nustatymus pagal numatytuosius nustatymus **apsauga nuo sukčiavimo apsimetant** yra pažymėta **vidinio sukčiavimo apsimetant apsauga** . Atžymėkite šią parinktį, jei nenorite, kad sukčiavimas būtų nuskaitomas pagal jūsų organizacijoje esančias formas.
+**""Microsoft 365" administravimo centras"** galite nustatyti automatinį formų nuskaitymą organizacijoje, kad būtų galima aptikti sukčiavimą apsimetant, taip pat asmeninės ar slaptos informacijos užklausas. Srityje **"Microsoft Forms"** pagal **numatytuosius parametrus tikrinamas** vidinis apsaugos nuo sukčiavimo apsimetant parametras dalyje **Apsauga** nuo sukčiavimo apsimetant. Panaikinkite šios parinkties žymėjimą, jei nenorite, kad jūsų organizacijoje būtų ieškomas sukčiavimas apsimetant.
 
-"Microsoft Forms" leidžia automatiniam įrenginių apžvalgomis aktyviai aptikti kenkėjiškus slaptų duomenų rinkinius ir laikinai blokuoja šias formas iš atsakymų rinkimo. Norėdami sužinoti daugiau, peržiūrėkite ["Microsoft Forms" ir aktyvią sukčiavimo apsimetant prevenciją](https://support.microsoft.com/office/microsoft-forms-and-proactive-phishing-prevention-b3950a20-296d-4e8e-96f5-594ced998a90).
+"Microsoft Forms" leidžia automatizuotoms mašinoms peržiūrėti, kad būtų aktyviai aptinkamas kenkėjiškas slaptų duomenų rinkimas formose, o šios formos laikinai blokuojamos nuo atsakymų rinkimo. Norėdami sužinoti daugiau, žr. ["Microsoft Forms" ir aktyvi sukčiavimo apsimetant prevencija](https://support.microsoft.com/office/microsoft-forms-and-proactive-phishing-prevention-b3950a20-296d-4e8e-96f5-594ced998a90).

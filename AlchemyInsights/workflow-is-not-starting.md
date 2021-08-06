@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907746"
 ---
 # <a name="workflow-is-not-starting"></a>Darbo eiga nepaleidžianti
 
-- "SharePoint 2010" ir "SharePoint 2013" darbo eigos nepaleidžiant.
+- SharePoint 2010" ir "SharePoint 2013" darbo eigos nepa pradedamos.
 
     - Jei jūsų darbo eiga nepaleidžianti, gali būti laikina tarnybos problema, dėl kurios vartotojai gali patirti su pertrūkiais uždelstą darbo eigos eigą. Patikrinkite tarnybos [sveikatos ataskaitų sritį,](https://admin.microsoft.com/AdminPortal/Home/servicehealth) kad pamatytumėte, ar paveikta jūsų organizacija.
 
     - Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo kvito. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtų sprendimą.
 
-- "SharePoint 2010" darbo eigos vėluoja pradėti.
+- SharePoint 2010 m. darbo eigos vėluoja pradėti.
 
     - Taip nutinka, jei darbo eiga paleidžiama dideliuose paketuose. (pvz., kai vienu metu įtraukiami keli elementai).
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403751"
 
 
 ## <a name="related-topics"></a>Susijusios temos
-Norite išbandyti "Microsoft Flow" programoje "SharePoint Online"?
-- [Srauto kūrimas](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- ["SharePoint" ir "Flow"](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Norite išbandyti "Microsoft Flow" "SharePoint Online"?
+- [Kurti Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ir Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

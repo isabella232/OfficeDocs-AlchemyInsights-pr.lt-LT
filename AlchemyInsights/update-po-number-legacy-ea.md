@@ -1,5 +1,5 @@
 ---
-title: Atnaujinti PO skaičių – Senstelėjusi EA – Rekomenduojami veiksmai
+title: ATNAUJINTI PU numerį – senstelėjusi EA – rekomenduojami veiksmai
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,31 +13,31 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ef1e5f52cb26542892199694309fb2b0df551997
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7c3ee469107e9ab85dcf56450167cc2e47b2c8b79253d45b1a362959a869ba24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908502"
 ---
-# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Atnaujinti pirkimo užsakymo numerį – senstelėjusių EA rekomenduojamų veiksmų
+# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Pirkimo užsakymo numerio naujinimas – senstelėjusi EA – rekomenduojami veiksmai
 
-Pirkimo užsakymo (PU) numerio keitimas įsigalios kitoje sąskaitoje faktūroje. Norėdami pakeisti jau sugeneruotame sąskaitos numerį, atidarykite palaikymo bilietą. 
+Pirkimo užsakymo (PU) numerio pakeitimai įsigalios paskesioje sąskaitoje faktūroje. Norėdami pakeisti PU numerį jau sugeneruotoje sąskaitoje faktūroje, atidarykite palaikymo kvitą. 
 
-"Azure EA" portalas automatiškai generuoja numatytąjį PO numerį, nebent EA administratorius nustato vieną prieš sąskaitos faktūros datą. Kaip EA administratorius (tiesioginė registracija)/partnerio administratorius (netiesioginis įrašymas), galite atnaujinti PO numerį "Azure EA" portale. Norėdami atnaujinti PO numerį:
+"Azure EA" portalas automatiškai sugeneruoja numatytąjį PU numerį, nebent EA administratorius nustato vieną prieš sąskaitos faktūros datą. Kaip EA administratorius (tiesioginis registravimas) / partnerių administratorius (netiesioginė registracija), galite atnaujinti PU numerį "Azure EA" portale. Norėdami atnaujinti PU numerį:
 
 1. Prisijunkite prie EA portalo.
-2. Kairėje pusėje spustelėkite **ataskaitos** .
-3. Puslapio viršuje spustelėkite **naudojimo suvestinė** .
+2. **Kairėje** pusėje spustelėkite Ataskaitos.
+3. Puslapio **viršuje** spustelėkite Naudojimo suvestinė.
 4. Išplečiamajame sąraše pasirinkite atitinkamą laikotarpį.
-5. Spustelėkite **Peržiūrėti/redaguoti po numerius**.
-6. Įrašykite naują PO numerį ir spustelėkite **įrašyti**.
+5. Spustelėkite **Peržiūrėti / redaguoti PU numerius**.
+6. Įveskite naują PU numerį ir spustelėkite **Įrašyti.**
 
-Galite atnaujinti PU numerį bet kuriuo metu prieš sugeneruotą dabartinio atsiskaitymo laikotarpio sąskaitą faktūrą ir ne daugiau nei septynias dienas gavus automatizuoto pranešimo apie sąskaitą laišką. 
+PU numerį galite atnaujinti bet kuriuo metu prieš generuojamą sąskaitą faktūrą dabartiniu atsiskaitymo laikotarpiu ir ne vėliau kaip per septynias dienas nuo automatinio sąskaitos faktūros pranešimo el. laiško gavimo. 
 
 **Rekomenduojami dokumentai**
 
 - ["Azure Enterprise" registracijos sąskaitos faktūros](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
-- ["Azure Enterprise" sutarties sąskaitos supratimas](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
+- ["Azure Korporatyvinė sutartis" sąskaitos supratimas](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
 - ["Azure Enterprise" vaidmenų supratimas](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
-- [Kito įmonės administratoriaus (EA administratoriaus) kūrimas](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)
+- [Kito įmonės administratoriaus kūrimas (EA administratorius)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)

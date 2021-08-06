@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Graph\" API užklausų užklausa"
+title: "\"Microsoft \"Graph\" API užklausa"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923247"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>"Microsoft Graph" API užklausų užklausa
+# <a name="querying-the-microsoft-graph-api"></a>"Microsoft "Graph" API užklausa
 
-Ši tema taip pat gali būti taikoma kūrėjams, kurie vis dar naudoja "Azure AD Graph API". Tačiau **primygtinai** rekomenduojama naudoti "Microsoft Graph" visiems jūsų katalogo, tapatybės ir "Access" valdymo scenarijams.
+Ši tema taip pat gali būti taikoma kūrėjams, vis dar naudojantys "Azure AD" "Graph" API. Tačiau primygtinai **rekomenduojama naudoti** "Microsoft "Graph" visus katalogus, tapatybę ir prieigos valdymo scenarijus.
 
 **Autentifikavimo arba autorizavimo problemos**
 
-- Jei jūsų programai **nepavyksta įsigyti žetonų** norint paskambinti "Microsoft Graph", pasirinkite problemą, kad gautumėte " **Access" atpažinimo ženklo (autentifikavimo)** "Microsoft Graph" kategoriją, kad gautumėte daugiau konkrečios žinyno ir palaikymo šioje temoje.
-- Jei jūsų programa **gauna "401" arba "403" autorizavimo klaidas** , kai skambinate "Microsoft Graph", pasirinkite "Microsoft Graph API" kategoriją gauti prieigą prie " **Access Denied" (leidimas)** , kad šioje temoje gautumėte konkretesnį žinyną ir palaikymą.
+- Jei jūsų programa **negali** įsigyti atpažinimo ženklų, kad paskambintų "Microsoft "Graph"", pasirinkite Problema gaunant prieigos **atpažinimo ženklą (autentifikavimą) "Microsoft** "Graph"" kategoriją, kad gautumėte daugiau konkrečios pagalbos ir palaikymo šia tema.
+- Jei jūsų programa gauna **401 arba 403** autorizavimo klaidas, kai skambinate "Microsoft "Graph"", pasirinkite kategoriją Gauti prieigą **uždrausta (autorizuoti) "Microsoft** "Graph" API", kad gautumėte daugiau konkrečios pagalbos ir palaikymo šia tema.
 
-**Noriu naudoti "Microsoft Graph", bet nežinote, nuo ko pradėti**
+**Noriu naudoti "Microsoft "Graph", bet nežinote, kur pradėti**
 
-Norėdami sužinoti daugiau apie "Microsoft Graph", žiūrėkite:
+Norėdami sužinoti daugiau apie "Microsoft "Graph", žr.:
 
-- ["Microsoft Graph" apžvalga](https://docs.microsoft.com/graph/overview)
-- [Tapatybės ir "Access" valdymo apžvalga programoje "Microsoft Graph"](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Darbo pradžia "Microsoft Graph" taikomųjų programų kūrimas](https://docs.microsoft.com/graph/)
-- **"Microsoft Graph Explorer"** – jūsų nuomotojo arba demonstracinio kompiuterio "Microsoft Graph" API bandymas
+- ["Microsoft "Graph"](https://docs.microsoft.com/graph/overview)
+- [Tapatybės ir "Access" valdymo "Microsoft "Graph"](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Darbo pradžia kuriant "Microsoft "Graph"" programėles](https://docs.microsoft.com/graph/)
+- **"Microsoft "Graph" Explorer"** – išbandykite "Microsoft "Graph" API savo nuomotojo arba demonstracinį nuomotoją
 
-**Noriu naudoti "Microsoft Graph", tačiau ar ji palaiko "v 1.0" katalogo API, kurių man reikia?**
+**Noriu naudoti "Microsoft "Graph", bet ar ji palaiko man reikalingas v1.0 katalogo API?**
 
-"Microsoft Graph" yra rekomenduojamas katalogo, tapatybės ir "Access" valdymo API. Tačiau vis dar yra kelios spragos tarp to, kas įmanoma, "Azure AD Graph" ir "Microsoft Graph". Peržiūrėkite šiuos straipsnius, kuriuose Akcentuokite naujausius skirtumus, kurie padės jums pasirinkti:
+"Microsoft "Graph"" yra rekomenduojama katalogo, tapatybės ir prieigos valdymo API. Tačiau vis dar yra keletas spragų tarp to, kas įmanoma "Azure AD "Graph" ir "Microsoft "Graph"". Peržiūrėkite šiuos straipsnius, kuriuose paryškinti naujausias skirtumai, padėsiintys pasirinkti:
 
-- [Išteklių tipo skirtumai tarp "Azure AD Graph" ir "Microsoft Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Ypatybių skirtumai tarp "Azure AD Graph" ir "Microsoft Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- ["Azure AD" ir "Microsoft Graph" metodo skirtumai](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Išteklių tipo skirtumai tarp "Azure AD" "Graph" "Microsoft "Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- ["Azure AD" ir "Microsoft "Graph"" ypatybių "Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- ["Azure AD" ir "Microsoft "Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Kai gaunu užklausą dėl *vartotojo* objekto, daugelis jo ypatybių nėra**
+**Kai pateikiau vartotojo *objekto užklausą,* trūksta daugelio jo savybių**
 
-`GET https://graph.microsoft.com/v1.0/users` pateikia tik 11 ypatybių, nes "Microsoft Graph" automatiškai parenka numatytąjį *vartotojų* ypatybių rinkinį. Jei reikia kitų *vartotojo* ypatybių, naudokite $Select, kad pasirinktumėte programos poreikius. Išbandykite **"Microsoft Graph Explorer"** pirmiausia.
+`GET https://graph.microsoft.com/v1.0/users`grąžina tik 11 ypatybes, nes "Microsoft "Graph" automatiškai pasirenka numatytąjį grąžinti *vartotojo* savybių rinkinį. Jei jums reikia kitų *vartotojo* ypatybės, $select pasirinkite ypatybes, reikalingas jūsų programai. Pirmiausia išbandykite ją **"Microsoft "Graph" Explorer".**
 
-**Kai kurios vartotojo ypatybių reikšmės yra *NULL* , nors žinau, kad jos nustatytos**
+**Kai kurios vartotojo ypatybių reikšmės yra *neapibrėžtos,* nors žinau, kad jos nustatytos**
 
-Greičiausiai paaiškinimas yra tas, kad taikomajai programai buvo suteiktas *vartotojas. ReadBasic. All* Permission. Tai leidžia programai skaityti ribotą vartotojų ypatybių rinkinį, grąžinant visas kitas ypatybes kaip NULL, net jei jos buvo anksčiau nustatytos. Bandykite suteikti taikomosios programos *vartotoją. skaityti. visi* teisės.
+Labiausiai tikėtina, kad programai buvo suteiktos *User.ReadBasic.All* teisės. Tai leidžia programai skaityti ribotą vartotojų savybių rinkinį, grąžinant visas kitas ypatybes kaip neapibrėžtas, net jei jos anksčiau buvo nustatytos. Pabandykite suteikti taikomosios programos *User.Read.All* teises.
 
-Daugiau informacijos ieškokite ["Microsoft Graph" vartotojų teisės](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Daugiau informacijos žr. ["Microsoft "Graph" vartotojo teisės](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
-**Kyla problemų naudojant "OData" užklausos parametrus duomenims filtruoti pagal savo užklausas**
+**Kyla problemų naudojant "OData" užklausos parametrus užklausų duomenims filtruoti**
 
-Nors "Microsoft Graph" palaiko platų "OData" užklausos parametrų intervalą, daugelis šių parametrų katalogų tarnybos nevisiškai palaiko (ištekliai, kurie paveldimi iš *Directoryobject*) programoje "Microsoft Graph". Tie patys apribojimai, kurie buvo pateikti "Azure AD Graph", išlieka daugiausia programoje "Microsoft Graph":
+Nors "Microsoft "Graph"" palaiko platų "OData" užklausos parametrų diapazoną, daugelis šių parametrų nevisiškai palaikomi katalogų tarnybos (ištekliai, paveldimi iš *directoryObject)*"Microsoft "Graph"". Tie patys apribojimai, kurie buvo pateikti "Azure AD"Graph" išlieka daugiausia "Microsoft "Graph"":
 
-1. **Nepalaikoma: $Count**, $search ir $Filter *NULL* arba *Not Null* reikšmės
-2. **Nepalaikoma: $Filter** tam tikrų ypatybių (Peržiūrėkite išteklių temas, kuriose yra filtruojami ypatybės)
-3. **Nepalaikoma: puslapių** kaita, filtravimas ir rūšiavimas vienu metu
-4. **Nepalaikoma: ryšio** filtravimas. Pavyzdžiui – raskite visus Jungtinės Karalystės inžinerijos grupės narius.
-5. **Dalinis palaikymas**: $OrderBy *vartotojui* (tik DisplayName ir UserPrincipalName) ir *grupėje*
-6. **Dalinis palaikymas**: $Filter (palaiko tik *EQ*, *Startswith*, *or* ir *and* *ir Limited)* palaikymą, $Expand (vieno objekto ryšių išplėtimas grąžina visus ryšius, bet objektų ryšių rinkinio išplėtimas yra ribotas)
+1. **Nepalaikoma:**$count, $search ir $filter *reikšmės* null arba *ne null*
+2. **Nepalaikoma**: $filter ypatybes (žr. išteklių temas, kuriose galima filtruoti ypatybes)
+3. **Nepalaikoma:** puslapių ėjimas, filtravimas ir rūšiavimas vienu metu
+4. **Nepalaikoma**: ryšio filtravimas. Pvz., raskite visus jungtinės karalystės inžinierių grupės narius.
+5. **Dalinis** palaikymas: $orderby *(tik* "displayName" ir "userPrincipalName") ir *grupės*
+6. **Dalinis** palaikymas: "$filter" (palaiko tik *eq* *,* *startswith* arba , *ir*, ir , ir tik *bet* kurį ) palaikymą, "$expand" (išplečiant vieno objekto ryšius grąžina visus ryšius, bet objektų ryšių rinkinio išplėtimas yra ribotas)
 
-Daugiau informacijos ieškokite [atsakymų su užklausos parametrais tinkinimas](https://docs.microsoft.com/graph/query-parameters).
+Daugiau informacijos žr. [Atsakymų tinkinimas naudojant užklausos parametrus](https://docs.microsoft.com/graph/query-parameters).
 
-**Mano skambinimo API neveikia – kur galiu atlikti daugiau bandymų?**
+**Neveikia API, iš kurios skambinau – kur galiu atlikti daugiau bandymų?**
 
-**"Microsoft Graph Explorer"** – Išbandykite "Microsoft Graph" API savo nuomotojuje arba "demo" nuomotojuje, taip pat peržiūrėkite **užklausų užklausas** programoje "Microsoft Graph Explorer".
+**"Microsoft "Graph" Explorer"** – išbandykite "Microsoft "Graph"" API nuomotojo arba demonstracinio nuomotojo, taip pat peržiūrėkite užklausų **pavyzdžius** "Microsoft "Graph" Explorer".
 
-**Kai gaunu užklausą dėl duomenų, atrodo, kad gaunu neišsamią duomenų rinkinį**
+**Kai pateikiau užklausą dėl duomenų, atrodo, kad vėl gaunu nebaigtą duomenų rinkinį**
 
-Jei užklausiate rinkinį (pvz., *vartotojai*), "Microsoft Graph" naudoja serverio pusės puslapio apribojimus, todėl rezultatai visada grąžinami su numatytuoju puslapio dydžiu. Jūsų programa visada turėtų tikėtis puslapio iš tarnybos grąžintų rinkinių.
+Jei pateikiate užklausą rinkiniui (pvz., *vartotojams),*"Microsoft "Graph"" naudoja serverio puslapio apribojimus, todėl rezultatai visada pateikiami su numatytuoju puslapio dydžiu. Jūsų programa turėtų visada tikėtis puslapių per rinkinius, grąžintų iš tarnybos.
 
 Daugiau informacijos rasite:
 
-- ["Microsoft Graph" geriausios praktikos](https://docs.microsoft.com/graph/best-practices-concept)
-- ["Microsoft Graph" duomenų puslapių ieška taikomojoje programoje](https://docs.microsoft.com/graph/paging)
+- ["Microsoft "Graph" geriausia praktika](https://docs.microsoft.com/graph/best-practices-concept)
+- [Paging Microsoft "Graph" data in your app](https://docs.microsoft.com/graph/paging)
 
-**Mano programa yra per lėta ir taip pat yra Throttled. Kokius patobulinimus galiu padaryti?**
+**Mano programa yra per lėta ir taip pat yra suslėgta. Kokius patobulinimus galiu atlikti?**
 
-Atsižvelgiant į jūsų scenarijų, jūsų dispozicijoje yra įvairių įvairių parinkčių, kad jūsų programa būtų efektyvesnė, o kai kuriais atvejais mažiau būtų sulaikoma tarnyba (kai skambinate per daug kartų).
+Atsižvelgiant į scenarijų, jūsų žinioje yra įvairių skirtingų parinkčių, kad jūsų taikomoji programa būtų efektyvesnė, o kai kuriais atvejais – mažiau linkę į tai, kad tarnyba slegė (kai skambinate per daug skambučių).
 
 Jei norite sužinoti daugiau, žr.:
 
-- ["Microsoft Graph" geriausios praktikos](https://docs.microsoft.com/graph/best-practices-concept)
-- [Užklausų grupavimas](https://docs.microsoft.com/graph/json-batching)
-- [Keitimų sekimas naudojant Delta užklausą](https://docs.microsoft.com/graph/delta-query-overview)
-- [Gaukite pranešimus apie keitimą naudodami webkablius](https://docs.microsoft.com/graph/webhooks)
-- [Ribojimo gairės](https://docs.microsoft.com/graph/throttling)
+- ["Microsoft "Graph" geriausia praktika](https://docs.microsoft.com/graph/best-practices-concept)
+- [Paketinės užklausos](https://docs.microsoft.com/graph/json-batching)
+- [Keitimų sekmas naudojant delta užklausą](https://docs.microsoft.com/graph/delta-query-overview)
+- [Gauti pranešimus apie pakeitimus naudojant "webhooks"](https://docs.microsoft.com/graph/webhooks)
+- [Throttling guidance](https://docs.microsoft.com/graph/throttling)
 
-**Kur galiu gauti daugiau informacijos apie klaidas ir žinomas problemas?**
+**Kur rasti daugiau informacijos apie klaidas ir žinomas problemas?**
 
-- ["Microsoft Graph" klaidos atsakymo informacija](https://docs.microsoft.com/graph/errors)
-- [Žinomos "Microsoft Graph" problemos](https://docs.microsoft.com/graph/known-issues)
+- ["Microsoft "Graph"" atsakymo į klaidą informacija](https://docs.microsoft.com/graph/errors)
+- [Žinomos "Microsoft "Graph"](https://docs.microsoft.com/graph/known-issues)
 
-**Kur galiu patikrinti paslaugų pasiekiamumo ir ryšio būseną?**
+**Kur galiu patikrinti paslaugos pasiekiamumo ir ryšio būseną?**
 
-Tarnybų pasiekiamumo ir ryšio su pagrindinėmis tarnybomis, kurias galima pasiekti naudojant "Microsoft Graph", paslaugos gali turėti įtakos bendram "Microsoft Graph" pasiekiamumui ir veikimui.
+Pagrindinių tarnybų, kurias galima pasiekti per "Microsoft "Graph"", pasiekiamumas ir ryšys gali turėti įtakos bendram "Microsoft "Graph"" pasiekiamumui ir "Graph".
 
-- "Azure Active Directory" tarnybos sveikatai patikrinkite **saugos + tapatybės** tarnybų būseną, išvardytas "Azure" [būsenos puslapyje](https://azure.microsoft.com/status/).
-- "Office" tarnyboms, kurios prisideda prie "Microsoft Graph", patikrinkite tarnybų, išvardintų " [Office" tarnybos sveikatos ataskaitų](https://portal.office.com/adminportal/home#/servicehealth)srityje, būseną.
+- Jei "Azure Active Directory" tarnybos sveikatą, patikrinkite būseną **Sauga +** tapatybės tarnybos, nurodytos ["Azure" būsenos puslapyje.](https://azure.microsoft.com/status/)
+- Jei Office prie "Microsoft "Graph"", patikrinkite tarnybų, išvardytų ["Office" tarnybos sveikatos ataskaitų srityje, būseną.](https://portal.office.com/adminportal/home#/servicehealth)

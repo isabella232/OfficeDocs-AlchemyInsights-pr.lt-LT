@@ -1,5 +1,5 @@
 ---
-title: Prenumeratos valdymas – saugos ir atitikties užklausos – "Azure Industry" atitikties akreditacijos
+title: Prenumeratos valdymas – saugos ir atitikties užklausos – "Azure" pramonės atitikties akreditacija
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998951"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Prenumeratos valdymas – saugos ir atitikties užklausos – "Azure Industry" atitikties akreditacijos
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Prenumeratos valdymas – saugos ir atitikties užklausos – "Azure" pramonės atitikties akreditacija
 
-Atsižvelgdami į savo problemos aprašą, radome sprendimą. Daugelis klientų galėjo išspręsti savo problemą, atlikę šiuos dokumentus.
+Atsižvelgdami į problemos aprašą, radome jums sprendimą. Dauguma klientų galėjo išspręsti savo problemą patys po mūsų dokumentų.
 
-- **Strategija**: bet kokių klausimų apie "Microsoft" atitikties dokumentą ieškokite " [Azure" patikimumo centro atitiktis](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Strategija**: Jei turite klausimų apie "Microsoft" atitikties dokumentą, žr. ["Azure" patikimumo centro atitiktis](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA ir HITECH veiksmas**: peržiūrėkite "Windows Azure HIPAA" vadovą, jei jus domina HIPAA ir HiTech veiksmas, kad suprastumėte atitinkamas "Windows Azure" galimybes.
+- **HIPAA ir HITECH įstatymas:** žr. "Windows Azure HIPAA" vadovą, jei jus domina HIPAA ir HITECH įstatymas, kad suprastumėte atitinkamas "Azure" Windows galimybes.
 
-- " **FedRAMP" sertifikavimas**: bet kokios informacijos apie "FedRAMP" sertifikavimą ieškokite "FedRAMP Marketplace".
+- **"FedRamp"** sertifikatas: informacijos apie "FedRamp" sertifikavimą žr. "FedRamp Marketplace".
 
-- " **AZURE PCI" DSS suderinamumas**: būtini "Azure" susiję dokumentai, kad būtų galima pasiekti mokėjimo kortelių pramonės pagarbą, yra "atitikties atestavimo" ir "atsakomybės matrica", kurios abi yra "Azure Trust" centre. Patikrinkite, ar turite šiuos dokumentus. Jei turite šiuos dokumentus, bet reikia papildomo "Microsoft Azure PCI" duomenų saugos standarto atitikties įrodymo, skaitykite ["Microsoft" ir PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **"Azure PCI" DSS** atitiktis: būtini "Azure" susiję dokumentai, skirti mokėjimo kortelių pramonės atitiktims pasiekti, yra "Atitikties patvirtinimas" ir "Atsakomybės matrica", kurios abi yra prieinamos "Azure" patikimumo centre. Patikrinkite, ar turite šiuos dokumentus. Jei turite šiuos dokumentus, bet reikia papildomų "Microsoft Azure" PCI duomenų saugos standarto atitikties įrodymo, žr. ["Microsoft" ir PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- " **Azure" operacijos/sauga/atitiktis**: jei turite bendruosius su sauga susijusius klausimus "Azure", peržiūrėkite standartinę atsakymo informaciją "Microsoft Azure" sauga, privatumas ir atitiktis, jei turite susijusių klausimų, žr.: "Microsoft STP" atitikties ir tarnybos patikimumo portalo DUK.
+- **"Azure"** operacijos / sauga / atitiktis : Jei turite bendrųjų su sauga susijusių klausimų "Azure", žr. Standartinis atsakymas į informacijos užklausą "Microsoft Azure" sauga, privatumas ir atitiktis Jei turite su atitiktimi susijusių klausimų, žr.: "Microsoft STP" atitikties ir tarnybos patikimumo portalo DUK.
 
-Jei turite klausimų, susijusių su atitiktimi, žr.: ["Microsoft STP" atitikties](https://www.microsoft.com/trust-center/compliance/compliance-overview) ir tarnybų patikimumo portalo DUK.
+Jei turite su atitiktimi susijusių klausimų, žr. ["Microsoft STP" atitikties ir](https://www.microsoft.com/trust-center/compliance/compliance-overview) tarnybos patikimumo portalo DUK.
 
-- **Gdpr laikymasis**: jei turite klausimų apie duomenų apdorojimo sutartį, peržiūrėkite "duomenų apsaugos sąlygos", pradėdami nuo 7 puslapio "Online Services" sąlygomis. OST yra pirminės duomenų apdorojimo sąlygos, tačiau ji įtraukta į standartinę komercinę sutartį. Be kitų dalykų, ji suteikia sutartinius įsipareigojimus dėl mūsų GDPR įsipareigojimų. Be to, peržiūrėkite sutarties pabaigoje pateiktas sąlygas, nurodytas "priedo 4", nuo puslapio 42. Šie skyriai apima "Microsoft" GDPR įsipareigojimus kaip duomenų tvarkytojas ir kaip antrinis perdirbėjas.
-
-> [!NOTE]
-> Labai rekomenduojama naudoti "Adobe Acrobat Reader", kad būtų galima atidaryti PDF dokumentus, nes buvo pastebėti klausimai su kitais PDF žiūrovais. Taip pat rekomenduojama atsisiųsti failą vietoje, o ne atidaryti jį naršyklės lange, nes tai gali sukelti klaidų.
-
-- **HDS laikymasis**: "Azure" dabar yra "sveikatos duomenų talpinimas", sertifikuota pagal Prancūzijos reikalavimus. Daugiau informacijos rasite "Microsoft Azure" dabar sertifikuotas "Microsoft Azure" sveikatos duomenys Prancūzijoje.
-
-- **Skverbties** bandymas: visas "skverbimosi testo užklausos pateikimas" procesas yra klientas, "pentest" savanaudiški procesai.
-
-Daugiau informacijos apie įsiskverbimo tikrinimą rasite skyriuje [skverbimosi bandymas](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Klientų pranešimai apie pagalbinio procesoriaus pakitimus**: galite pasirinkti, kad gautumėte pranešimus apie "Microsoft Personal" duomenų antrinių procesorių sąrašą.
+- **BDAR atitiktis**: Jei turite klausimų apie duomenų apdorojimo sutartį, žr. "Duomenų apsaugos sąlygos", pradedant nuo 7 puslapio dalyje "Internetinių paslaugų sąlygos". OST apima pirminius duomenų apdorojimo terminus, bet yra įtrauktas į standartinę komercinę sutartį. Be kitų dalykų, jame numatomas sutartinis įsipareigojimas dėl mūsų BDAR įsipareigojimų. Be to, žr. BDAR konkrečias sąlygas sutarties pabaigoje dalyje "4 priedas", pradedant 42 puslapyje. Šie skyriai apima "Microsoft" BDAR įsipareigojimus kaip duomenų tvarkytojas ir kaip antrinis duomenų tvarkytojas kitam duomenų tvarkytojui.
 
 > [!NOTE]
-> "Online Services" klientų duomenų ir asmeninių duomenų sąrašo pranešimas yra visiškai automatizuotas. Daugiau informacijos ieškokite Microsofts duomenų apsaugos ištekliai.
+> Primygtinai rekomenduojama naudoti "Adobe Acrobat Reader" PDF dokumentams atidaryti, nes buvo pastebėta kitų PDF peržiūros programų problemų. Taip pat rekomenduojama atsisiųsti failą vietoje, o ne atidaryti jį naršyklės lange, nes tai gali sukelti klaidų.
+
+- **HDS atitiktis**: "Azure" dabar yra "Health Data Hosting", sertifikuota pagal prancūzijos reikalavimus. Daugiau informacijos žr. "Microsoft Azure" dabar sertifikuota nuo šiol, kad būtų galima priimti slaptus sveikatos duomenis Prancūzijoje".
+
+- **Įsiskverbimo** testavimas: visas "Įsiskverbimo testo užklausos pateikimas" procesas yra klientas– savarankiškas procesas "pentest".
+
+Daugiau informacijos apie įsiskverbimo testavimą žr. [Skverbties tikrinimas](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
+
+- **Klientų pranešimai apie antrinio procesoriaus** keitimus: galite pasirinkti gauti pranešimus apie "Microsoft" asmeninių duomenų antrinių duomenų tvarkytojų sąrašo pakeitimus.
+
+> [!NOTE]
+> "Online Services" klientų duomenų ir asmeninių duomenų sąrašo pranešimas yra visiškai automatizuotas. Daugiau informacijos žr. "Microsofts" duomenų apsaugos ištekliai.
 
 **Rekomenduojami dokumentai**
 
-- ["Azure" portalo parametrų eksportavimas arba naikinimas](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Parametrų eksportavimas arba naikinimas "Azure" portale](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [Veiklos ataskaitų radimas "Azure" portale](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- ["Azure Active Directory" rizikos įvykiai](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Rizikos vartotojai](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Rizikingi prisijungimo moduliai](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- ["Azure Active Directory" įvykiai](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Vartotojai, kuriems kyla pavojus](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Rizikingi prisijungimai](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Kas yra "Azure Active Directory" ataskaitos?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- ["Microsoft" ir HIPAA bei HITECH įstatymas](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [JAV Gynybos departamento (DoD) laikinųjų autorizavimo dokumentų IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- ["Microsoft" ir HIPAA ir HITECH įstatymas](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [JAV gynybos departamento (DOD) laikinojo įgaliojimo dokumentacija APIE IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 
