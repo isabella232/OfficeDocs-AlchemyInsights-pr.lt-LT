@@ -14,16 +14,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b9115f1a37de44eb5212f5bfc41b750d80200852b9982fe683b90af6a22a7df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060288"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>ATNAUJINKITE DNS įrašus, kad jūsų svetainė būtų su dabartiniu išteklių nuomos teikėju
 
-Perkeldami "Microsoft 365" viešąją žiniatinklio svetainę į kitą išteklių nuomos teikėją, tikriausiai reikės pakeisti domeno įrašus.
+Norint perkelti viešąją žiniatinklio Microsoft 365 į kitą išteklių nuomos teikėją, tikriausiai reikės atlikti domeno įrašų pakeitimus.
   
 1. Administravimo centre eikite  į \> **Domenų sąranka** ir pasirinkite norimą keisti domeno vardą.
 
@@ -31,4 +31,4 @@ Perkeldami "Microsoft 365" viešąją žiniatinklio svetainę į kitą ištekli�
 
 Norėdami sužinoti daugiau, [žr. DNS įrašų naujinimas, kad jūsų svetainė būtų su dabartiniu išteklių nuomos teikėju.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Norėdami sužinoti daugiau apie viešosios svetainės nutraukimą, žr. ["SharePoint Online" viešosios svetainės, kurios turi būti nutrauktos.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)
+Norėdami sužinoti daugiau apie viešosios svetainės nutraukimą, [žr. SharePoint viešųjų svetainių nutraukimą.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

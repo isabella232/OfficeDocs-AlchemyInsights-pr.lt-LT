@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060072"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Prieiga prie "BitLocker" atkūrimo raktų
 
-Konfigūruojant "BitLocker" parametrus "Intune Endpoint Protection" strategiją, galima nustatyti, ar "BitLocker" atkūrimo informacija turi būti saugoma "Azure Active Directory".
+Konfigūruojant "BitLocker" parametrus "Intune Endpoint Protection" strategiją, galima nustatyti, ar "Bitlocker" atkūrimo informacija turėtų būti saugoma ""Azure Active Directory"".
 
 Jei šis parametras sukonfigūruotas, saugomi atkūrimo duomenys turi būti matomi "Intune" administratoriui kaip įrenginio įrašo duomenų dalis "Intune" įrenginių ašmenyje dviem būdais:
 
@@ -47,5 +47,5 @@ Jei įrenginys buvo užšifruotas prieš prisijungiant "Intune", atkūrimo rakta
  
 Jei įrenginys buvo užšifruotas dėl konfigūracijos naudojant domeno grupės strategiją, atkūrimo informacija gali būti saugoma vietinėje "Active Directory".
 
-Jei sukonfigūravote galinio punkto apsaugos strategiją, kad būtų saugomas atkūrimo raktas "Azure Active Directory", bet konkretaus įrenginio raktas nebuvo nusiųstas, galite paleisti nusiuntimą pasukdami to įrenginio atkūrimo raktą iš MEM konsolės. Daugiau informacijos žr. ["BitLocker" atkūrimo klavišų pasukimas](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Jei sukonfigūravote galinio punkto apsaugos strategiją, kad atkūrimo raktas būtų saugomas ""Azure Active Directory"", bet konkretaus įrenginio raktas nebuvo nusiųstas, galite paleisti nusiuntimą pasukdami to įrenginio atkūrimo raktą iš MEM konsolės. Daugiau informacijos žr. ["BitLocker" atkūrimo klavišų pasukimas](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

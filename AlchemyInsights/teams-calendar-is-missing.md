@@ -1,5 +1,5 @@
 ---
-title: Trūksta komandų kalendoriaus
+title: Teams nėra kalendoriaus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6191"
 - "9003307"
-ms.openlocfilehash: 996f11a9917c09b19e20e5bc54d3ad22a3fe5f48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fc10c6b9a959adb8dd90c710859e82bd086493bd76ef30a9f6239713ec32109
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909033"
 ---
-# <a name="teams-calendar-is-missing"></a>Trūksta komandų kalendoriaus
+# <a name="teams-calendar-is-missing"></a>Teams nėra kalendoriaus
 
-Jūsų komandos administratorius galėjo išjungti kalendorių, todėl pirmiausia patikrinkite, ar jis pasiekiamas.
+Jūsų Teams administratorius galėjo išjungti kalendorių, todėl pirmiausia patikrinkite, ar jis pasiekiamas jums.
 
-Jei galima, pabandykite pakeisti savo "teams" versiją.
+Jei ji pasiekiama, pabandykite pakeisti savo Teams.
 
 - Jei naudojate žiniatinklio versiją, įjunkite įdiegtą versiją.
-- Jei naudojate įdiegtą versiją, išbandykite "teams" žiniatinklyje.
+- Jei naudojate įdiegtą versiją, pabandykite Teams internete.

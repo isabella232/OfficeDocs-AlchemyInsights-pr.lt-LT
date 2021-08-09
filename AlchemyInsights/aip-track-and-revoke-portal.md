@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a98b2dd7ae24674d7d346335e0729daec3a00db7bb0580dd0dd4ba08f58e7aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934229"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: sekti ir atšaukti portalą
 
-Naudokite dokumentų **sekimo svetainę "Azure"** portale dokumentams sekti ir atšaukti, kai naudojate "Azure" informacijos apsaugą. "Office" programas ("Word", "Excel" ir "PowerPoint") ir failų naršyklę taip pat galima naudoti dokumentams sekti ir atšaukti.
+Naudokite dokumentų **sekimo svetainę "Azure"** portale dokumentams sekti ir atšaukti, kai naudojate "Azure" informacijos apsaugą. "Office", "Word", "Excel" ir "PowerPoint" bei failų naršyklę taip pat galima naudoti dokumentams sekti ir atšaukti.
 
 1. Dokumentų sekimo svetainėje spustelėkite Atšaukti **prieigą**. Atšaukus dokumentą, panaikinama prieiga iš įgaliotųjų vartotojų; dokumentas nepanaiktas.
-2. "Office" taikomojoje programoje:
+2. Programoje Office:
     - Atidarykite apsaugotą dokumentą, kurį norite sekti arba atšaukti.
     - Skirtuko **Pagrindinis grupėje** Apsauga **spustelėkite** Apsaugoti > **sekti ir atšaukti.**
 
