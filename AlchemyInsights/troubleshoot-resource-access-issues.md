@@ -1,5 +1,5 @@
 ---
-title: Šalinti išteklių prieigos problemas
+title: Išteklių prieigos trikčių šalinimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093030"
 ---
-# <a name="troubleshoot-resource-access-issues"></a>Šalinti išteklių prieigos problemas
+# <a name="troubleshoot-resource-access-issues"></a>Išteklių prieigos trikčių šalinimas
 
-Informacijos apie profilių tipus Intune palaiko, kad vartotojai galėtų naudotis įmonės infrastruktūra ir ištekliais, žiūrėkite:
+Informacijos apie profilių tipus "Intune" palaiko, kad vartotojai galėtų pasiekti įmonės infrastruktūrą ir išteklius, žr.:
 
 - [El. pašto parametrų įtraukimas į įrenginius naudojant "Intune"](https://docs.microsoft.com/intune/email-settings-configure)
-- [Sukurkite VPN profilius, kad prisijungtumėte prie VPN serverių "Intune](https://docs.microsoft.com/intune/vpn-settings-configure)")
-- ["Microsoft Intune" įrenginių "Wi-Fi" parametrų įtraukimas ir naudojimas](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Autentifikavimo sertifikatų naudojimas "Microsoft Intune"](https://docs.microsoft.com/intune/certificates-configure)
+- [Sukurkite VPN profilius, kad prisijungtumėte prie VPN serverių "Intune"](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Įtraukite ir naudokite Wi-Fi parametrus savo įrenginiuose "Microsoft Intune"](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Autentifikavimo sertifikatų naudojimas ""Microsoft Intune"](https://docs.microsoft.com/intune/certificates-configure)
 
-Daugiau informacijos apie "Intune" įrenginių profilius rasite [dažniausių klausimų ir atsakymų su "Microsoft Intune" įrenginių strategijomis ir profiliais](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+Daugiau informacijos apie "Intune" įrenginio profilius žr. Dažniausiai užduodami klausimai ir atsakymai apie įrenginio strategijas ir [profilius "Microsoft Intune"](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-Jei turite papildomos informacijos apie išteklių prieigos profilius, peržiūrėkite [bendrus klaidų kodus ir aprašus "Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)".
+Papildomos trikčių diagnostikos informacijos apie išteklių prieigos profilius [žr. Bendrieji](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)klaidų kodai ir aprašai "Microsoft Intune" .

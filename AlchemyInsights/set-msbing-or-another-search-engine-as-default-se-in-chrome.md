@@ -1,5 +1,5 @@
 ---
-title: Nustatykite "Microsoft Bing" arba kitą ieškos modulį kaip numatytąjį ieškos modulį "Google Chrome"
+title: "\"Microsoft Bing\" arba kito ieškos modulio nustatymas kaip numatytojo \"Google Chrome\" ieškos modulio"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9162"
-ms.openlocfilehash: b19fd9de768a412e8193c09bb445290fac9c407b
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: e74d53c60131bb0571fed1e3b219116733aa79947a4c93772039da3bee0660d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061008"
 ---
-# <a name="set-microsoft-bing-or-another-search-engine-as-the-default-search-engine-in-google-chrome"></a>Nustatykite "Microsoft Bing" arba kitą ieškos modulį kaip numatytąjį ieškos modulį "Google Chrome"
+# <a name="set-microsoft-bing-or-another-search-engine-as-the-default-search-engine-in-google-chrome"></a>"Microsoft Bing" arba kito ieškos modulio nustatymas kaip numatytojo "Google Chrome" ieškos modulio
 
 Norėdami nustatyti numatytąjį ieškos variklį "Google Chrome":
 
 1. Atidarykite "Google Chrome".
 1. Viršuje dešinėje pasirinkite piktogramą, kurioje rodomi trys vertikalūs taškai, tada pasirinkite **Parametrai**.
-1. Dalyje **ieškos modulis**, šalia adreso juostoje naudojamo **ieškos modulio** , pasirinkite rodyklę žemyn, tada pasirinkite **"Bing"** arba kitą ieškos modulį.
+1. Dalyje **Ieškos modulis** šalia Adreso **juostoje** naudojamas ieškos modulis pasirinkite rodyklę žemyn, tada pasirinkite **Bing** arba kitą ieškos variklį.
 
-Perjungus ieškos variklį, išskyrus "Bing", nepašalinamas "Bing" plėtinys, todėl galite lengvai ieškoti su darbu susijusio turinio, naudodami išplėtimą inicijuojamos iškeliamojo.
+Pereinant prie kito ieškos modulio Bing o ne "Bing" plėtinys, todėl vis tiek galite lengvai ieškoti su darbu susijusio turinio naudodami plėtiniu pagrįstą iškeliant.

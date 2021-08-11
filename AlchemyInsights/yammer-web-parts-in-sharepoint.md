@@ -1,5 +1,5 @@
 ---
-title: "\"Yammer\" puslapio dalys programoje \"SharePoint\""
+title: "\"Yammer\" puslapio dalių SharePoint"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970339"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>"Yammer" puslapio dalys programoje "SharePoint"
+# <a name="yammer-web-parts-in-sharepoint"></a>"Yammer" puslapio dalių SharePoint
 
-"Yammer" Pokalbiai ir "Yammer" paryškina puslapio dalių bendradarbiavimą su šiuolaikiniais ir klasikiniais "SharePoint" puslapiais. Daugiau informacijos ieškokite " [Yammer" Pokalbiai](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  ir "  [Yammer" svarbiausi dalykai](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
+"Yammer" Pokalbiai ir "Yammer" puslapio dalys pagerina bendradarbiavimą moderniuose ir klasikiniuose SharePoint puslapiuose. Daugiau informacijos žr. ["Yammer" pokalbiai ir](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) "Yammer" Svarbiausi [dalykai.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-Šiuolaikinės "Yammer" pokalbių puslapio dalys atnaujinamos į naująją "Yammer" patirtį ir pasiekiama tiksliniams išleidimo nuomininkams. "Ga rida" prasidėjo. Naujos funkcijos apima galimybę pradėti pokalbį su bet kuriuo paštu (klausimai, apklausos, pagyrimų) ir geriausia atsakyti tiesiogiai iš "SharePoint". Daugiau informacijos ieškokite naujos " [Yammer" klientų sąlygos ir DUK](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+Modernioji "Yammer" pokalbių puslapio dalis atnaujinama į naują "Yammer" ir pasiekiama tikslinio leidimo nuomotojams. GA keitimų pradžia. Naujos funkcijos apima galimybę pradėti pokalbį su bet kuriuo įrašu (klausimai, apklausos, Pagyrimas) ir pažymėti geriausius atsakymus tiesiogiai iš SharePoint. Daugiau informacijos žr. [Naujos "Yammer" sąlygos ir DUK](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
 
- Norėdami suprasti, kuri puslapio dalys ir konfigūracija jums tinka, žiūrėkite " [Yammer" puslapio dalių naudojimas "SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)".  
+ Norėdami suprasti, kuri puslapio dalis ir konfigūracija jums tinka, žr. [""Yammer" puslapio dalies naudojimas "SharePoint Online".](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
 **Puslapio dalių naudojimas su "SharePoint Server"**  
 
-Puslapio dalys gali būti naudojamos šiuolaikiniuose ir Klasikiniuose puslapiuose vietinėje aplinkoje.
+Puslapio dalis galima naudoti moderniuose ir klasikiniuose puslapiuose vietinėse aplinkose.
 
-- Daugiau informacijos apie šiuolaikinius puslapius rasite " [Yammer" informacijos santraukos įtraukimas į "SharePoint Server 2019" šiuolaikinį puslapį](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
-- Daugiau informacijos apie klasikinius puslapius rasite " [Yammer" informacijos santraukos įtraukimas į klasikinį puslapį "SharePoint" serveriuose "2013", "2016" ir "2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)".
+- Daugiau informacijos apie šiuolaikinius puslapius žr. "Yammer" informacijos santraukos įtraukimas į [modernų](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019)puslapį SharePoint Server 2019 . 
+- Daugiau informacijos apie klasikinius puslapius žr. ""Yammer" informacijos santraukos įtraukimas į klasikinį ["SharePoint Servers 2013", "Servers 2016" ir "2019"](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)puslapį.
 
-**"Yammer" įdėjimas**  
+**"Yammer" Įdėjimas**  
 
-Naudodami įterpimo konfigūravimo įrankį galite išbandyti įdėtojo naudojimą. Būsimas naujinimas, skirtas įdėti, įgalins naująją "Yammer" patirtį. Daugiau informacijos ieškokite " [Yammer" įdėjimo konfigūravimo įrankyje](https://aka.ms/YammerEmbedConfigureTool). Norėdami geriau suprasti "Yammer" įdėjimo komponentą, žiūrėkite [įdėti informacijos santrauką](https://aka.ms/YammerDevDocs).
+Naudokite įdėjimo konfigūravimo įrankį, kad išbandykite įdėjimo naudojimą. Būsimas įdėjimo naujinimas įgalins naują "Yammer" patirtį. Daugiau informacijos žr. [įdėjimo "Yammer" įdėjimo konfigūravimo įrankis](https://aka.ms/YammerEmbedConfigureTool). Norėdami geriau suprasti komponento įdėjimo "Yammer", žr. [Įdėjimo informacijos santrauka](https://aka.ms/YammerDevDocs).
 
 **Žinomos problemos ir apribojimai**
 
-- Grupių ID negalima naudoti naudojant naujus "Yammer" URL, kurie pasikeitė. Grįžkite į klasikinį režimą, kad gautumėte grupės ID arba kitus ID iš URL.
-- Įprastiniai (tuštybės) domenai nepalaikomi.
-- "Yammer" įdėti nėra optimizuota mobiliajam telefonui. Naudokite šiuolaikinius puslapius su "Yammer" pokalbių žiniatinklio dalimi.
-- Tinkintos temos gali turėti įtakos "Yammer" pokalbių puslapio dalies apipavidalinimui ir naudojimui. Norėdami pranešti apie problemas, atidarykite palaikymo atvejį.
+- Grupės URL negalimi iš "Yammer" URL, kurie pasikeitė. Grįžkite į klasikinį režimą, kad gautumėte grupės ID arba kitus URL iš URL.
+- Pasirinktiniai (tuštybės) domenai nepalaikomi.
+- "Yammer" Įdėjimas nėra optimizuotas mobiliesiems įrenginiams. Naudokite modernius puslapius su "Yammer" pokalbių puslapio dalimi, kad būtų galima geriausiai naudotis.
+- Pasirinktinės temos gali turėti įtakos pokalbių puslapio "Yammer" išvaizdai ir naudojimo galimybėms. Atidarykite palaikymo atvejį, kad būtų galima pranešti apie problemas.

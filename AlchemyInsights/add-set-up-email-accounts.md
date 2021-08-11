@@ -1,5 +1,5 @@
 ---
-title: 1800018 įtraukti/nustatyti pašto paskyras
+title: 1800018 el. pašto paskyrų įtraukimas / rinkinys
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935561"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>"Outlook" el. pašto paskyros nustatymo problemos
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemos nustatant el. pašto paskyrą Outlook
 
-Jei kyla problemų nustatant "Exchange" paskyrą programoje "Outlook", galite paleisti " [Outlook" paskyros sąrankos įrankį](https://aka.ms/SaRA-OutlookSetupProfile) paveiktame kompiuteryje. Ji atliks įvairius patikrinimus ir pateiks galimus sprendimus jūsų paskyros sąrankos problemai.
+Jei kyla problemų nustatant "Exchange" Outlook, galite paleisti ["Outlook"](https://aka.ms/SaRA-OutlookSetupProfile) paskyros sąrankos įrankį paveiktame kompiuteryje. Ji atliks įvairius tikrinimus ir pateiks galimus paskyros sąrankos problemos sprendimus.
   
-Jei vis dar kyla problemų, peržiūrėkite ["Outlook" negali nustatyti naujo profilio naudodami "Exchange Online" pašto dėžutės "Exchange" automatinį radimo funkciją](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Jei vis dar kyla problemų, žr. Outlook negalite nustatyti naujo profilio naudodami ["Exchange" pašto dėžutės Exchange Online radimo funkciją.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   
