@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Defender\" galinio punkto įrenginiai"
+title: "\"Microsoft\" sargybos galinio punkto \"Onboard\" įrenginiai"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748424"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967485"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>"Microsoft Defender" galinio punkto įrenginiai
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>"Microsoft" sargybos galinio punkto "Onboard" įrenginiai
 
-"Microsoft Defender for Endpoint" suteikia centralizuotą "Windows" ir ne "Windows" platformų saugos operacijų patirtį. Padeda apsaugoti organizacijos tinklą ir naudoti "Microsoft Defender" saugos centrą, kad peržiūrėtumėte įspėjimus iš įvairių palaikomų operacinių sistemų:
+"Microsoft Defender for Endpoint" teikia centralizuotą saugos operacijų Windows ir ne Windows platformų. Tai padeda apsaugoti organizacijos tinklą ir naudoti "Microsoft" sargybos saugos centras peržiūrėti įspėjimus iš įvairių palaikomų operacinių sistemų:
 
-- Jei **naudojate "Windows 10"**, peržiūrėkite ["Windows 10" įrenginių parengimo naudoti įrankius ir metodus](https://go.microsoft.com/fwlink/?linkid=2143460).
-- Jei **naudojate "Windows" serverius**, peržiūrėkite " [Microsoft Defender" Endpoint Service](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Jei **naudojate ne "Windows" pabaigos taškus**, patikrinkite, ar jūsų sistema atitinka " [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) " ar " [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)" reikalavimus, tada pereikite prie " [parengimo](https://go.microsoft.com/fwlink/?linkid=2143628)".
+- Jei **Windows 10 mašinos**, žr. "Windows 10" įrenginių [parengimo įrankiai ir metodai.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Jei **Windows serverių**, žr. "Microsoft" sargybos galinio punkto [tarnybos "Onboard" serveriai](https://go.microsoft.com/fwlink/?linkid=2143627).
+- Jei tai ne Windows pabaigos **taškus**, patikrinkite, ar jūsų sistema atitinka ["macOS"](https://go.microsoft.com/fwlink/?linkid=2143461) arba ["Linux"](https://go.microsoft.com/fwlink/?linkid=2143462)reikalavimus , tada pereikite [prie parengimo](https://go.microsoft.com/fwlink/?linkid=2143628).

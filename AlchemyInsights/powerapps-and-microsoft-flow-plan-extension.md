@@ -1,5 +1,5 @@
 ---
-title: 1575 – "PowerApps" ir "Microsoft Flow" plano plėtinys
+title: 1575-PowerApps ir "Microsoft Flow" plano plėtinys
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728403"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960447"
 ---
 # <a name="powerapps-and-microsoft-flow-plan-extension"></a>"PowerApps" ir "Microsoft Flow" plano plėtinys
 
-Jei ketinate pateikti **"Microsoft Flow" arba "** **powerapps** " plano plėtinį ir jūsų nuomotojas jau turi aktyvių vienos iš šių funkcijų vartotojų, palaikymo užklausos nereikia.
+Jei ketinate prašyti **""Microsoft Flow""** arba **"PowerApps"** plano plėtinio, o jūsų nuomotojas jau turi aktyvius vienos iš toliau nurodytų funkcijų vartotojus, palaikymo užklausos pateikti nereikia.
 
-- "PowerApps" ir "Microsoft Flow" priskirtų jungčių kūrimas ir publikavimas
-- HTTP įprastiniai veiksmai, integruoti į srautą už "SharePoint" ir "OneDrive"
-- Vietinių duomenų integravimas naudojant vietinį duomenų šliuzą
+- Pasirinktinių jungčių kūrimas ir publikavimas "PowerApps" ir ""Microsoft Flow"
+- HTTP pasirinktiniai veiksmai, integruoti į Flow ne SharePoint ir "OneDrive"
+- Vietinį duomenų integravimą naudojant vietinį duomenų šliuzą
 
-Klientai su aktyviais šių funkcijų vartotojais gaus automatinį plėtinį iki sausio 31 d., "2020" arba pasibaigus esamiems "Microsoft" 365 prenumeratos terminui, atsižvelgiant į tai, kuris iš jų ilgesnis.
+Klientai, naudojantys aktyvius šių funkcijų vartotojus, gaus automatinį plėtinį iki 2020 m. sausio 31 d. arba pasibaigus esamam Microsoft 365 prenumeratos terminui, atsižvelgiant į tai, kuris laikas yra ilgesnis.

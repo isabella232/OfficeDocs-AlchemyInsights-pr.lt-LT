@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft 365\" grupės domeno keitimas"
+title: "\"Microsoft 365\" domeno keitimas"
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916999"
 ---
-# <a name="change-the-domain-for-a-microsoft-365-group"></a>"Microsoft" 365 grupės domeno keitimas
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>"Microsoft 365" grupės domeno keitimas
 
-Jei norite pakeisti "Microsoft" 365 grupės domeną kūrimo metu, atlikite veiksmus, nurodytus skyriuje [pasirinkite domeną, kurį norite naudoti kurdami "microsoft 365 Groups"](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Jei kurdami norite pakeisti "Microsoft 365 grupės domeną, atlikite veiksmus, nurodytus Skyriuje Domeno pasirinkimas, kurį [norite naudoti kurdami Microsoft 365 grupės.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Norėdami pakeisti esamos "Microsoft" 365 grupės domeną, kaip administratorius galite pereiti prie "Microsoft 365" administravimo centro https://admin.microsoft.com ir atlikti šiuos veiksmus:
+Norėdami pakeisti esamos "Microsoft 365 grupės domeną, kaip administratorius galite pereiti į "Microsoft 365" administravimas centrą https://admin.microsoft.com ir atlikti šiuos veiksmus:
 
-- Pasirinkite **grupes** kairėje pusėje meniu
-- Ieškokite M365 grupės, kurią norite modifikuoti, ir pasirinkite ją, tada dalyje **elektroninio pašto adresai** spustelėkite **Redaguoti** skirtuke **bendras** .
-- Dabar galite pakeisti savo pirminio elektroninio pašto adreso domeną ir jūs taip pat galėsite įtraukti el. pašto pseudonimus.
+- Pasirinkite **Grupės** kairiajame meniu
+- Ieškokite norimos modifikuoti M365 grupės ir pasirinkite ją, tada spustelėkite **Redaguoti** dalyje El. **pašto** adresai, kai **skirtuke** Bendra.
+- Dabar galite pakeisti pagrindinio el. pašto adreso domeną ir įtraukti el. pašto pseudonimų.
 
 > [!IMPORTANT]
-> Įprastos paskirstymo grupės ir pašto saugos grupės leis jums valdyti mažiau parametrų M365 administravimo centre, **grupės** dalyje. Jei norite tvarkyti daugiau informacijos, spustelėkite skirtuką **Parametrai** , kai redaguojate vieną iš jų "M365" administravimo centre, ir pasirinkite **valdyti daugiau parametrų "Exchange" administravimo centre** .
+> Įprastos siuntimo grupės ir saugos grupės su įgalinta el. paštu leis valdyti mažiau parametrų iš skyriaus M365 **administravimo** centras, grupės. Jei norite valdyti daugiau jų išsamios informacijos, spustelėkite **skirtuką Parametrai,** kai redaguojate vieną iš jų M365 administravimo centre, tada pasirinkite Tvarkyti daugiau parametrų **Exchange administravimo centro** parinktį.

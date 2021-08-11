@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967341"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Panaikintų įvykių audito žurnalų skaitymas
 
 Štai kaip tai padaryti:
 
-1. Eikite į " [Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pasirinkite **ieškos**  >  [**audito žurnalų ieška**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Pasirinkite **Ieškoti**  >  [**audito žurnalo ieškos**](https://go.microsoft.com/fwlink/?linkid=2103759).
     > [!NOTE]
-    > Jei matote pranešimą, kad norite įjungti funkciją, eikite į priekį ir įjunkite ją dabar. Jei funkcija neįjungta, ieškos rezultatai negalės ištraukti ankstesnių datų duomenų.
-1. Pasirinkite **veikla**, tada Raskite " **Exchange" pašto dėžutės veiklas**. Pažymėkite **panaikintus laiškus iš aplanko panaikinta** ir **perkėlėte laiškus į panaikintų elementų** aplanko parinktis. Kai baigsite, spustelėkite už srities ribų, kad sumažintumėte **veiklos** sritį.
-1. Nurodykite datų intervalą, tada lauke **vartotojai** pasirinkite vartotojo, kurį norite tirti, vartotojo vardą. Vienu metu galite pasirinkti daugiau nei vieną vartotoją.
-1. Pasirinkite **Ieškoti**. Veikla rodoma dalyje **rezultatai**.
-1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą, tada pasirinkite **daugiau informacijos**. Papildoma informacija apie panaikintą elementą, pvz., temos eilutę ir elemento vietą, kai jis buvo panaikintas, rodoma lauke **Affecteditems** .
+    > Jei matote pranešimą, kad reikia įjungti funkciją, eikite į priekį ir įjunkite ją dabar. Jei funkcija neįjungta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
+1. Pasirinkite **Veikla**, tada raskite **Exchange pašto dėžutės veiklas**. Pasirinkite **parinktis Panaikinti laiškai iš aplanko Panaikinti elementai** ir Perkelti laiškai į **aplanką** Panaikinti elementai. Kai baigsite, spustelėkite už srities ribų, kad minimizuoti **sritį** Veikla.
+1. Nurodykite datų diapazoną, tada **lauke** Vartotojai pasirinkite vartotojo, kurį norite ištirti, vartotojo vardą. Vienu metu galite pasirinkti daugiau nei vieną vartotoją.
+1. Pasirinkite **Ieškoti**. Veikla rodoma dalyje **Rezultatai**.
+1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą, tada pasirinkite **Daugiau informacijos**. Lauke **AffectedItems** rodoma papildoma informacija apie panaikintą elementą, pvz., temos eilutė ir elemento vieta, kai jis buvo panaikintas.
     > [!NOTE]
-    > Negalite atkurti panaikintų elementų naudodami audito žurnalų funkciją. Norėdami atkurti panaikintus elementus, skaitykite [panaikintų elementų arba laiškų atkūrimas "Outlook Web App"](https://go.microsoft.com/fwlink/?linkid=2103759).
+    > Negalite atkurti panaikintų elementų naudodami audito žurnalo funkciją. Norėdami atkurti panaikintus elementus, [žr. Panaikintų elementų arba el. laiškų atkūrimas Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Norėdami sužinoti daugiau, skaitykite " [Office 365" audito žurnalų ieška, kad išspręstumėte įprastus scenarijus](https://go.microsoft.com/fwlink/?linkid=2103944).
+Norėdami sužinoti daugiau, [žr. Office 365 žurnalo trikčių šalinimas.](https://go.microsoft.com/fwlink/?linkid=2103944)
