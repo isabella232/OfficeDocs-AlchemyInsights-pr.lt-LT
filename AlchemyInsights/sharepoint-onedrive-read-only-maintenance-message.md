@@ -1,5 +1,5 @@
 ---
-title: Tik skaitomas priežiūros pranešimas, bandant naudoti "SharePoint" arba "OneDrive"
+title: Read-Only priežiūros pranešimą, kai bandote naudoti SharePoint arba "OneDrive"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910554"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Tik skaitomas priežiūros pranešimas, bandant naudoti "SharePoint" arba "OneDrive"
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only priežiūros pranešimą, kai bandote naudoti SharePoint arba "OneDrive"
 
-Kai bandoma naudoti "SharePoint" arba "OneDrive", kad būtų galima atlikti vieną iš šių scenarijų, vartotojams gali būti **skirtas tik skaityti skirtas priežiūros** pranešimas. 
+Vartotojai gali gauti **tik skaitymo priežiūros** pranešimą, kai bandote naudoti SharePoint arba "OneDrive" vieną iš toliau nurodytų scenarijų. 
 
--   Suplanuota arba aktyvi priežiūros veikla.  Patikrinkite, ar jie naršyti [pranešimų centre](https://portal.office.com/adminportal/home#/messagecenter).
--   Didelis prioritetas, aktyvus tarnybos incidentas, kuris gali įvykti. Patikrinkite, ar yra kokių nors klausimų, susijusių su [tarnybų sveikata](https://portal.office.com/adminportal/home#/servicehealth).
--   Nedidelį automatinį gijimo atkūrimo scenarijų, kuris gali vykti dėl netikėtų įvykių serveriuose, kurie gali trukti trumpiau nei 30 min. 
+-   Suplanuota arba aktyvi priežiūros veikla.  Patikrinkite juos pereidami į [pranešimų centrą](https://portal.office.com/adminportal/home#/messagecenter).
+-   Didelio prioriteto, aktyvus tarnybos incidentas, kuris gali nutikti. Patikrinkite, ar nėra patarimų / incidentų pereidami į [Tarnybos sveikata](https://portal.office.com/adminportal/home#/servicehealth).
+-   Nedidelis automatinio atkūrimo scenarijus, kuris gali įvykti dėl netikėtų įvykių serveriuose, kurie gali trukti mažiau nei 30 min. 
     
-    Nėra pranešimų centro arba tarnybos sveikatos postų dėl šių nedidelių atgrąžintų sumų, bet jums turėtų vėl būti taikomas įprastas labai greitai.
+    Nėra pranešimų centro arba tarnybos sveikatos pranešimų apie šias nepilnametis atkūrimas, bet jums reikia grįžti prie normalaus labai greitai.
 
-Labai retais atvejais stebėjome, kad vienas iš trijų anksčiau nurodytų scenarijų buvo priežastis, o tarnyba atkurta, tačiau vartotojų naršyklės talpykla nebuvo pašalinta.
+Labai retais atvejais pastebėjome, kad vienas iš trijų anksčiau išvardytų scenarijų buvo priežastis ir tarnyba buvo atkurta, tačiau vartotojų naršyklės talpykla nebuvo išvalyta.
 
-Prieš naršydami svetainėje pabandykite išvalyti naršyklės talpyklą.
+Prieš naršydami svetainėje, pabandykite išvalyti naršyklės talpyklą.
 
-1. Naršyklėje "Microsoft Edge" pasirinkite **Parametrai**, tada pasirinkite **Privatumas ir sauga**.
-2. Dalyje **valyti naršymą**pasirinkite **pasirinkti, ką išvalyti**.
-3. Pasirinkite **slapukai ir įrašyti svetainės duomenys**, tada pasirinkite **valyti**.
-
->[!Note] 
-> Šie veiksmai gali skirtis, kai naudojamos kitos naršyklės, pvz., "Mozilla Firefox" arba "Google Chrome".
+1. Savo Microsoft Edge pasirinkite **Parametrai**, tada pasirinkite **Privatumas ir sauga**.
+2. Dalyje **Valyti naršymą** pasirinkite **Pasirinkti, ką išvalyti**.
+3. Pasirinkite **Slapukai ir įrašyti žiniatinklio svetainės duomenys**, tada pasirinkite **Valyti**.
 
 >[!Note] 
-> Kita galimybė – atidaryti "SharePoint" svetainę arba "OneDrive" naujame "InPrivate" lange.
+> Šie veiksmai gali skirtis naudojant kitas naršykles, pvz., "Mozilla Firefox" arba "Google Chrome".
+
+>[!Note] 
+> Kita parinktis būtų atidaryti savo SharePoint arba "OneDrive" naujame "InPrivate" lange.

@@ -9,39 +9,39 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63a435c63019a421ca440dc7eeb58ccb3a90a5786118eb96a081f60a10e7d0b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910626"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>"O365 Business Essentials" prenumeratos nustatymas
 
-"Microsoft" 365 abonementų kūrimas ir domeno įtraukimas
+Kurti Microsoft 365 paskyras ir įtraukti domeną
   
-- Atlikdami šį veiksmą, naudokite sąrankos vediklį, kad sukurtumėte savo vartotojams "Microsoft" 365 paskyras ir įtrauktumėte savo domeną. Vediklis leidžia personalizuoti kiekvieno jūsų įmonės vartotojo ID ir elektroninio pašto adresą, pvz., [Rob@contoso.com](mailto:rob@contoso.com).
+- Atlikdami šį veiksmą, naudojate sąrankos vediklį, kad Microsoft 365 vartotojų paskyras ir įtrauksite savo domeną. Vediklis leidžia pritaikyti asmeniniams poreikiams visų įmonės vartotojo ID ir el. paštą, [pvz., rob@contoso.com.](mailto:rob@contoso.com)
     
-- Eikite į ["Microsoft" 365 administravimo centrą](https://login.partner.microsoftonline.cn/).
+- Eikite į ["Microsoft 365" administravimo centras](https://login.partner.microsoftonline.cn/).
     
-- Norėdami paleisti vediklį, pasirinkite **Eiti į sąranką**. Norėdami sužinoti daugiau, skaitykite [domeno įtraukimas į "Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+- Norėdami paleisti vediklį, pasirinkite **Eiti į sąranką**. Norėdami sužinoti daugiau, [žr. Domeno įtraukimas į Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
-Importuoti laišką
+El. pašto importavimas
   
-- Perkelkite esamą el. paštą ir kontaktus iš kitų el. pašto sistemų į "Microsoft" 365 pašto dėžutę, kad galėtumėte viską matyti vienoje vietoje. Perkėlimo parinktyse [perkelti el. paštą ir kontaktus į "Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
+- Perkelkite esamus el. laiškus ir kontaktus iš kitų el. pašto sistemų į Microsoft 365 pašto dėžutę, kad viską matysite vienoje vietoje. Perkėlimo parinkčių atveju [el. pašto ir kontaktų perkėlimas į Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
-- Prisijungimas prie el. pašto paskyrų
+- Prisijungimas el. pašto paskyrų
     
-  - Galite ne tik tvarkyti savo el. paštą programoje "Outlook", bet ir prijungti kitus pašto abonementus prie "Outlook", pvz., "Gmail" ir "Yahoo" paskyrų. Tai leidžia valdyti visus el. laiškus vienoje vietoje. Prie "Outlook" galite prijungti iki 5 el. pašto paskyrų. Daugiau informacijos rasite " [Outlook" žiniatinklio "Outlook" pašto paskyrų prijungimas ("Microsoft 365")](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Be el. pašto valdymo "Outlook" galite prijungti kitas el. pašto paskyras prie "Outlook, pvz., "Gmail" ir "Yahoo" paskyrų. Tai leidžia valdyti visus el. laiškus vienoje vietoje. Galite prijungti iki 5 el. pašto paskyrų prie Outlook. Daugiau [Prisijungimas žr. el. internetinė "Outlook" (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) paskyrose. 
     
-"Skype" verslui diegimas
+Įdiegti "Skype" verslui
   
-- Jūs ir jūsų komandos nariai gali [atsisiųsti ir įdiegti "Skype" verslui](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) visuose savo kompiuteriuose, "Mac" kompiuteriuose, planšetiniuose kompiuteriuose ir telefonuose. Tada galėsite matyti bendradarbiams skirtą internetinę būseną, pradėti pokalbius iš kitų "Office" programų ir surengti vaizdo susitikimus su iki 250 žmonių. 
+- Jūs ir jūsų komandos nariai galite [atsisiųsti ir įdiegti "Skype" verslui](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) visuose savo kompiuteriuose, "Mac", planšetiniuose kompiuteriuose ir telefonuose. Tada galėsite matyti bendradarbių būseną internete, pradėti pokalbius iš kitų "Office programų ir surengti vaizdo susitikimus su iki 250 žmonių. 
     
-Failų saugojimas internete
+Failų saugokite internete
   
-- Norėdami sužinoti, kurios saugyklos vietos geriausiai tinka jūsų verslui, Sužinokite, [kur galite saugoti failus "Microsoft 365"](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kiekvienas asmuo gauna " **OneDrive"** debesies saugyklos vietą automatiškai, kai sukuriate "Microsoft" 365 paskyras. Naudodami "OneDrive" galite pasiekti failus visuose kompiuteriuose, telefonuose ir planšetiniuose kompiuteriuose. 
+- Norėdami sužinoti, kurios saugyklos vietos geriausiai tinka jūsų verslui, [žr.](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)Kur galite saugoti failus Microsoft 365 . Kiekvienas gauna "OneDrive" **saugyklos** vietą automatiškai, kai sukuriate Microsoft 365 paskyras. Naudodami "OneDrive" galite pasiekti failus savo kompiuteriuose, telefonuose ir planšetiniuose kompiuteriuose. 
     
-Išsamius sąrankos veiksmus galima rasti [šiame straipsnyje](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+Išsamius sąrankos veiksmus rasite šiame [straipsnyje.](https://docs.microsoft.com/microsoft-365/admin/setup/setup)
   
 

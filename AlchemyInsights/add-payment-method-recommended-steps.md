@@ -1,5 +1,5 @@
 ---
-title: Mokėjimo būdo įtraukimas – Rekomenduojami veiksmai
+title: Mokėjimo būdo įtraukimas – rekomenduojami veiksmai
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935777"
 ---
-# <a name="add-payment-method---recommended-steps"></a>Mokėjimo būdo įtraukimas – Rekomenduojami veiksmai
+# <a name="add-payment-method---recommended-steps"></a>Mokėjimo būdo įtraukimas – rekomenduojami veiksmai
 
-Norėdami atšaukti "Azure" portalo prenumeratą, turite turėti tiek paskyros administratoriaus, tiek prenumeratos savininko teises. 
+Turite turėti ir paskyros administratoriaus, ir prenumeratos savininko teises, kad atšauktumėte prenumeratą "Azure" portale. 
 
-Norėdami atšaukti "Azure" portalo prenumeratą, spustelėkite [Atšaukti "Azure" prenumeratą](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ir būsite nukreipti į "Azure" portalo **prenumeratos** puslapį, kad pasirinktumėte ir atšauktumėte prenumeratą. 
+Norėdami atšaukti prenumeratą "Azure" portale, spustelėkite Atšaukti  ["Azure"](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) prenumeratą ir būsite nukreipti į prenumeratos puslapį "Azure" portale, kad pasirinktumėte ir atšauktumėte prenumeratą. 
 
-**Kas nutiks, kai atšauksiu prenumeratą?** 
+**Kas nutiks atšaukus prenumeratą?** 
 
-Atšaukus prenumeratą, atsiskaitymas nedelsiant nutraukiamas. Tačiau gali užtrukti iki 10 minučių, kol atšaukimo būsena bus rodoma "Azure" portale. "Microsoft" išsiųs galutinę sąskaitą kito mėnesio sąskaitoje faktūroje dėl bet kokio dalinio suvartojimo arba įsigijimo. Paslaugos, kurios veikia produktų paketą, atšauktos nutraukus prenumeratą. Tai reiškia, kad virtualiosios mašinos yra priskirtos, o laikinieji IP adresai yra išlaisvinti, o saugykla tampa skirta **tik skaityti**. 
+Atšaukus prenumeratą, atsiskaitymas nedelsiant sustabdomas. Tačiau gali užtrukti iki 10 minučių, kol atšaukimo būsena bus rodoma "Azure" portale. "Microsoft" išsiųs galutinę sąskaitą faktūrą kito mėnesio sąskaitoje faktūroje už bet kokį dalinį suvartojimą ar pirkimą. Paslaugos, vykdomos prenumeratoje, išjungiamos atšaukus prenumeratą. Tai reiškia, kad virtualiosios mašinos yra išsamūs, laikinieji IP adresai yra atlaisvi, o saugykla **tampa skirta tik skaityti.** 
 
-Atšaukus prenumeratą, "Microsoft" laukia "30-90" dienų prieš visam laikui panaikindama duomenis tuo atveju, jei jums reikia prieiti prie jo arba persigalvotumėte. "Microsoft" neima už duomenų išlaikymu. Daugiau informacijos ieškokite ["Microsoft" patikimumo centras – kaip mes tvarkome jūsų duomenis](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Atšaukus prenumeratą, "Microsoft" laukia 30–90 dienų, kol visam laikui panaikins duomenis, jei reikia juos pasiekti arba pakeisite nuomonę. "Microsoft" ne apmokestina už duomenų apsaugą. Daugiau informacijos žr. ["Microsoft" patikimumo centras – kaip mes valdome jūsų duomenis](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 
 

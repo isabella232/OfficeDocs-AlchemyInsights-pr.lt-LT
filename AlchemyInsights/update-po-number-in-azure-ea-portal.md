@@ -1,5 +1,5 @@
 ---
-title: "\"Azure EA\" portalo naujinimas PO numeriu – Rekomenduojami veiksmai"
+title: PU numerio naujinimas "Azure EA" portale – rekomenduojami veiksmai
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007186"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>"Azure EA" portalo naujinimas PO numeriu – Rekomenduojami veiksmai
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>PU numerio naujinimas "Azure EA" portale – rekomenduojami veiksmai
 
-PVM/mokesčių ID arba pirkimo užsakymo (PU) numerio pasikeitimai įsigalios kitoje sąskaitoje faktūroje. Jei norite pakeisti PVM/mokesčio ID arba pašto numerį į jau sugeneruotą sąskaitą faktūrą, atidarykite palaikymo bilietą. Jei turite klausimų, susijusių su jūsų PVM/mokesčių ID, susisiekite su savo "Microsoft" licencijavimo partneriu (partneris arba programinės įrangos patarėjas). Jie susisieks su regioninių operacijų centru (ROC) klausimams, susijusiems su jūsų PVM/mokesčių ID. 
+PVM /TAX ID arba pirkimo užsakymo (PU) numerio pakeitimai įsigalios paskesioje sąskaitoje faktūroje. Norėdami pakeisti PVM / MOKESČIŲ ID arba PU numerį į jau sugeneruotą sąskaitą faktūrą, atidarykite palaikymo kvitą. Jei turite problemų, susijusių su JŪSŲ PVM / MOKESČIŲ ID, eikite į savo "Microsoft" licencijavimo partnerį (partnerį arba programinės įrangos patarėją). Jie susisieks su regiono operacijų centru (ROC) dėl klausimų, susijusių su jūsų PVM / MOKESČIŲ ID. 
 
-"Azure EA" portalas automatiškai generuoja numatytąjį PO numerį, nebent EA administratorius nustato vieną prieš sąskaitos faktūros datą. Kaip EA administratorius (tiesioginė registracija)/partnerio administratorius (netiesioginis įrašymas), galite atnaujinti PO numerį "Azure EA" portale. Galite bet kada atnaujinti PU numerį prieš sugeneruotą dabartinio atsiskaitymo laikotarpio sąskaitą faktūrą ir ne daugiau nei septynias dienas gavus automatizuoto pranešimo apie sąskaitą laišką.    
+"Azure EA" portalas automatiškai sugeneruoja numatytąjį PU numerį, nebent EA administratorius nustato vieną prieš sąskaitos faktūros datą. Kaip EA administratorius (tiesioginis registravimas) / partnerių administratorius (netiesioginė registracija), galite atnaujinti PU numerį "Azure EA" portale. PU numerį galite atnaujinti bet kuriuo metu prieš generuojamą sąskaitą faktūrą dabartiniu atsiskaitymo laikotarpiu ir ne vėliau kaip per septynias dienas nuo automatinio sąskaitos faktūros pranešimo el. laiško gavimo.    
 
-Norėdami atnaujinti PO numerį:
+Norėdami atnaujinti PU numerį:
 
 1. Prisijunkite prie [EA portalo](https://ea.azure.com/).
-1. Kairiojoje srityje spustelėkite **ataskaitos**.
-1. Puslapio viršuje spustelėkite **naudojimo suvestinė** ir išplečiamajame sąraše pasirinkite atitinkamą laikotarpį.
-1. Spustelėkite **Peržiūrėti/redaguoti po numerius**.
-1. Įrašykite naują PO numerį ir spustelėkite **įrašyti**.
+1. Kairiojoje srityje spustelėkite **Ataskaitos**.
+1. Puslapio viršuje spustelėkite Naudojimo **suvestinė** ir išplečiamajame sąraše pasirinkite atitinkamą laikotarpį.
+1. Spustelėkite **Peržiūrėti / redaguoti PU numerius**.
+1. Įveskite naują PU numerį ir spustelėkite **Įrašyti.**
 
 **Rekomenduojami dokumentai** 
 
 - ["Azure Enterprise" registracijos sąskaitos faktūros](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- ["Azure Enterprise" sutarties sąskaitos supratimas](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- ["Azure Korporatyvinė sutartis" sąskaitos supratimas](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
 - ["Azure Enterprise" vaidmenų supratimas](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Kito įmonės administratoriaus (EA administratoriaus) kūrimas](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Kito įmonės administratoriaus kūrimas (EA administratorius)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

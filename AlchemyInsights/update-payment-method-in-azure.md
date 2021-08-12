@@ -12,23 +12,23 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6860"
-ms.openlocfilehash: 6a08916c67e0a14d6781be7c3c6874115a0df3b9
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6f6898f4cb56e1b1027bab03a4ba9046edfb59864d4f3cfdf8057a18d737f6e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007258"
 ---
 # <a name="update-payment-details-in-azure"></a>Mokėjimo informacijos naujinimas "Azure"
 
-Jei jūsų kredito kortelė bus atnaujinta, o numeris lieka tas pats, atnaujinkite esamą kredito kortelės informaciją, pvz., galiojimo pabaigos datą. Jei jūsų kredito kortelės numeris keičiasi, nes kortelė bus prarasta, pavogta arba nebegalioja, atlikite veiksmus, nurodytus skyriuje [kredito kortelės įtraukimas kaip mokėjimo būdo](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) skyrius. Jums nereikia atnaujinti CVV.
+Jei jūsų kredito kortelė atnaujinama ir numeris lieka toks pat, atnaujinkite esamą kredito kortelės informaciją, pvz., galiojimo pabaigos datą. Jei kredito kortelės numeris pasikeičia, nes kortelė pamesta, pavogta arba jos galiojimas baigėsi, atlikite veiksmus, nurodytus skyriuje Kredito kortelės [įtraukimas kaip mokėjimo](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) būdo. Jums nereikia atnaujinti CVV.
 
-Norėdami pakeisti arba atnaujinti kredito kortelę, turite būti abonemento administratorius. Atlikite šiuos veiksmus, kad atnaujintumėte kredito kortelės/mokėjimo būdą.
+Norėdami pakeisti arba atnaujinti kredito kortelę, turite būti paskyros administratorius. Atlikite šiuos veiksmus norėdami atnaujinti kredito kortelės / mokėjimo būdą.
 
-1. Prisijunkite prie " [Azure" portalo](https://portal.azure.com/) kaip abonemento administratoriaus.
-2. Ieškokite **išlaidų valdymo + atsiskaitymas** .
+1. Prisijunkite prie ["Azure" portalo](https://portal.azure.com/) kaip paskyros administratorius.
+2. Ieškokite dalies **Išlaidų valdymas + Atsiskaitymas**.
 3. Pasirinkite prenumeratą, į kurią norite įtraukti kredito kortelę.
-4. Pasirinkite **mokėjimo būdai** .
-5. Pasirinkite norimą redaguoti kredito kortelę. Kredito kortelės forma bus rodoma dešinėje
+4. Pasirinkite **Mokėjimo būdai**.
+5. Pasirinkite kredito kortelę, kurią norite redaguoti. Kredito kortelės forma bus rodoma dešinėje
 6. Atnaujinkite kredito kortelės informaciją.
-7. Pasirinkite **įrašyti** .
+7. Pasirinkite **Įrašyti**.
