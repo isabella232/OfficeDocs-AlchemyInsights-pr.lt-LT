@@ -1,5 +1,5 @@
 ---
-title: Atlikite daugiau naudodami kelių užduotis sistemoje "Windows 10"
+title: Atlikite daugiau naudodami kelių užduotis Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f980b93337d2a0d3af06876ac14015546b850f80205d66cdb5c4a6fce162c2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948006"
 ---
-# <a name="do-more-with-multitasking-in-windows-10"></a>Atlikite daugiau naudodami kelių užduotis sistemoje "Windows 10"
+# <a name="do-more-with-multitasking-in-windows-10"></a>Atlikite daugiau naudodami kelių užduotis Windows 10
 
 Norėdami peržiūrėti arba perjungti programėles: užduočių juostoje **galite** spustelėti mygtuką Užduočių rodinys arba klaviatūroje paspausti **"Alt-Tab".** Mygtukas Užduočių rodinys atrodo taip:
 

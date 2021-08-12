@@ -1,5 +1,5 @@
 ---
-title: Įrenginio laukiama būsena
+title: Įrenginio būsena laukiama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914011"
 ---
-# <a name="device-in-pending-state"></a>Įrenginio laukiama būsena
+# <a name="device-in-pending-state"></a>Įrenginio būsena laukiama
 
-**Būtinosios sąlygos**
+**Būtinosios sąlygos:**
 
-1. Jei pirmą kartą nustatote įrenginio registracijas, įsitikinkite, kad "Azure [Active Directory" ("Azure AD") peržiūrėjote Supažindinimas su įrenginių valdymu](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) "Azure AD" ("Azure AD").
-2. Jei norite registruoti įrenginius į "Azure AD" tiesiogiai ir juos pateikti į "Intune", turite užtikrinti, kad [sukonfigūravote "Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) " ir pirmiausia turite [licencijavimą](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) .
-3. Įsitikinkite, kad turite teisę atlikti operacijas "Azure AD" ir vietiniame skelbime. Tik visuotinis administratorius "Azure AD" gali valdyti įrenginio registravimų parametrus. Be to, jei nustatote automatines registracijas vietinėje "Active Directory", turite būti "Active Directory" ir AD FS (jei taikoma) administratorius.
+1. Jei pirmą kartą nustatote įrenginių registracijas, įsitikinkite, kad peržiūrėjote Įvadas į įrenginių valdymą [""Azure Active Directory"" ("Azure AD"),](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) kuri padės jums gauti įrenginius pagal "Azure AD" valdymą.
+2. Jei registruosite įrenginius į "Azure AD" tiesiogiai ir užregistruosite juos "Intune", turėsite įsitikinti, kad sukonfigūravote ["Intune"](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) ir pirmiausia [turite](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) licencijavimą.
+3. Įsitikinkite, kad turite teisę atlikti operacijas "Azure AD" ir vietinėje AD. Tik visuotinis „Azure AD“ administratorius gali valdyti įrenginių registravimo parametrus. Be to, jei vietiniame „Active Directory“ nustatote automatines registracijas, turėsite būti „Active Directory“ ir „AD FS“ (jei taikoma) administratorius.
 
-Hibridinis "Azure AD" prisijungimo procesas reikalauja, kad įrenginiai būtų taikomi korporatyviniame tinkle. Jis taip pat veikia per VPN, tačiau yra tam tikrų apribojimų. Mes girdėjome klientus, kuriems reikia pagalbos šalinant hibridinio "Azure AD" prisijungimo procesą pagal nuotolinio darbo aplinkybes.
+Hibridinis "Azure AD" prisijungimo registracijos procesas reikalauja, kad įrenginiai būtų įmonės tinkle. Ji taip pat veikia naudojant VPN, tačiau yra tam tikrų įspėjimų. Išgirdome klientus, kuriems reikia pagalbos šalinant hibridinės "Azure AD" prisijungimo registracijos procesą nuotoliniu būdu.
 
-**Debesies autentifikavimo aplinka (naudojant "Azure AD" slaptažodžių maišos sinchronizavimą arba Pass-per autentifikavimą)**
+**Debesies autentifikavimo aplinka (naudojant "Azure AD" slaptažodžių sinchronizavimą arba nuotolinį autentifikavimą)**
 
-Šis registracijos srautas taip pat žinomas kaip "sinchronizavimo sujungimas".
+Šis registracijos srautas taip pat žinomas kaip "Sinchronizavimo prisijungimas".
 
-Toliau aprašyta, kas nutinka registracijos proceso metu:
+Toliau pateikiamas suskirstymas, kas nutinka registracijos proceso metu:
 
-1. "Windows 10" aptinka tarnybos jungties taško (SCP) įrašą, kai vartotojas prisijungia prie įrenginio.
+1. Windows 10 tarnybos ryšio taško (SCP) įrašą, kai vartotojas įeina į įrenginį.
 
-    1. Įrenginys pirmiausia bando gauti nuomotojo informaciją iš kliento "SCP" registre [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Daugiau informacijos ieškokite [dokumente](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Jei nepavyksta, įrenginys palaiko ryšį su vietinio "Active Directory", kad gautų nuomotojo informaciją iš "SCP". Norėdami patvirtinti, kad SCP būtų galima pateikti šį [dokumentą](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > Rekomenduojame įgalinti "Active Directory" SCP ir naudoti tik kliento "SCP" pradiniam patvirtinimui.
-
-2. "Windows 10" bando palaikyti ryšį su "Azure AD" pagal sistemos kontekstą ir autentifikuoja save nuo "Azure AD".
-
-    Galite patikrinti, ar įrenginys gali pasiekti "Microsoft" išteklius pagal sistemos paskyrą, naudodami [bandomojo įrenginio registracijos ryšio scenarijų](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. "Windows 10" generuoja vartotojo pasirašomą sertifikatą ir saugo ją po kompiuterio objektu vietiniame "Active Directory". Tam reikia, kad būtų matomas domeno valdiklis.
-
-4. Įrenginio objektas, turintis sertifikatą, bus sinchronizuotas su "Azure AD" naudojant "Azure AD Connect". Sinchronizavimo ciklas yra kas 30 minučių pagal numatytuosius parametrus, tačiau tai priklauso nuo "Azure AD Connect" konfigūracijos. Daugiau informacijos ieškokite šiame [dokumente](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Šiame etape jums turėtų būti suteikta galimybė matyti temos įrenginį "**laukianti**" būsena dalyje "Azure" portalo įrenginio peilis.
-
-6. Kitas vartotojas prisijungęs prie "Windows 10", registracija bus atlikta.
+    1. Įrenginys pirmiausia bando gauti nuomotojo informaciją iš kliento SCP registre [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Daugiau informacijos žr. [dokumentas](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Jei nepavyksta, įrenginys susisiekia su vietinę "Active Directory", kad iš SCP gautumėte nuomotojo informaciją. Norėdami patikrinti SCP, žr. šį [dokumentą](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
     > [!NOTE]
-    > Jei esate VPN ir atsijungti/prisijungti nutraukia domeno ryšį, galite suaktyvinti registraciją neautomatiškai. Norėdami tai padaryti:
+    > Rekomenduojame įgalinti SCP "Active Directory" ir naudoti tik kliento SCP pradiniam patvirtinimui.
+
+2. Windows 10 " bando bendrauti su "Azure AD" sistemos kontekste, kad autentifikuoti save "Azure AD".
+
+    Galite patikrinti, ar įrenginys gali pasiekti "Microsoft" išteklius sistemos paskyroje naudodamas [tikrinimo įrenginio registracijos jungiamumo scenarijų](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
+
+3. Windows 10 sugeneruoja savarankiškai pasirašytą sertifikatą ir saugo jį kompiuterio objekte vietinėje "Active Directory". Tam reikia regos linijos į domeno valdiklį.
+
+4. Įrenginio objektas, kuriame yra sertifikatas, sinchronizuojamas su "Azure AD" naudojant "Azure AD" Prisijungimas. Sinchronizavimo ciklas pagal numatytuosius nustatymus yra kas 30 minučių, tačiau tai priklauso nuo "Azure AD" Prisijungimas. Daugiau informacijos žr. šiame [dokumente](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. Šiame etape temos įrenginį turėtumėte matyti "Azure" portalo įrenginio **ašmenų** būsenoje Laukiama.
+
+6. Kitame vartotojo prisijungime prie Windows 10, registracija bus baigta.
+
+    > [!NOTE]
+    > Jei esate VPN ir atsijungti / prisijungti nutraukia domeno ryšį, galite paleisti registraciją rankiniu būdu. Norėdami tai padaryti:
     >
-    > `dsregcmd /join`Dėl administratoriaus raginimo arba nuotoliniu būdu per PSExec į kompiuterį problemą.
+    > `dsregcmd /join`Iškiškite vietoje administratoriaus raginimą arba nuotoliniu būdu naudodami "PSExec" savo kompiuteriui.
     >
     > Pavyzdžiui: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Jei turite įprastas "Azure Active Directory" įrenginio registravimo problemas, peržiūrėkite [įrenginių DUK](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Dažniausiai pasitaikančių problemų dėl "Azure Active Directory" įrenginių registracijos žr. [Įrenginių DUK](https://docs.microsoft.com/azure/active-directory/devices/faq).
