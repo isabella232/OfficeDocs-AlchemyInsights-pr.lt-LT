@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Defender\" \"Microsoft Defender\" trikčių šalinimas naudojant \"Linux\" kompiuterį"
+title: "\"Microsoft Defender for Endpoint\" diegimo trikčių šalinimas \"Linux\" kompiuteryje"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b1ae8a2c7e8d3ade7ca7bf7f300ae9b88e83997c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 443cd0483a6dd7de1a8017e5112eca407792031d697114e556ba4521d282ef91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966621"
 ---
-# <a name="troubleshoot-installation-of-microsoft-defender-for-endpoint-on-a-linux-computer"></a>"Microsoft Defender" "Microsoft Defender" trikčių šalinimas naudojant "Linux" kompiuterį
+# <a name="troubleshoot-installation-of-microsoft-defender-for-endpoint-on-a-linux-computer"></a>"Microsoft Defender for Endpoint" diegimo trikčių šalinimas "Linux" kompiuteryje
 
-Instrukcijų ieškokite ["Microsoft Defender", skirtos "Linux", diegimo problemų sprendimas](https://go.microsoft.com/fwlink/?linkid=2144673).
+Instrukcijų ieškokite ["Microsoft" sargybos, skirta "Linux", diegimo trikčių šalinimas.](https://go.microsoft.com/fwlink/?linkid=2144673)

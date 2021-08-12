@@ -1,5 +1,5 @@
 ---
-title: Peradresuoja laišką į naują adresą
+title: Praleisti el. pašto peradresavimą į naują adresą
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966693"
 ---
-# <a name="skip-redirecting-email-to-new-address"></a>Peradresuoja laišką į naują adresą
+# <a name="skip-redirecting-email-to-new-address"></a>Praleisti el. pašto peradresavimą į naują adresą
 
-Jei turite pasirinktinio DNS įrašus, praleiskite laišką peradresuoti į naują adresą. Tada galėsite įtraukti vėliau jums reikalingą įrašą. Kai kurios "Office" 365 paslaugos gali būti nepasiekiamos, kol nepridėsite įrašo registratoriaus.
+Jei turite pasirinktinių DNS įrašų, praleiskite el. pašto peradresavimo į naują adresą veiksmą. Tada galėsite įtraukti įrašus, kurių jums reikia vėliau. Kai Office 365 paslaugos gali būti nepasiekiamos, kol rankiniu būdu įtrauksite įrašus su registratoriaus paslaugomis.
 
-Norėdami pereiti iš naujo nukreipiančio el. laiško į naują adresą, pasirinkite **praleisti šį veiksmą > patvirtinti**.
+Norėdami praleisti el. pašto peradresavimą į naują adresą, **pasirinkite Praleisti šį veiksmą > Patvirtinti**.

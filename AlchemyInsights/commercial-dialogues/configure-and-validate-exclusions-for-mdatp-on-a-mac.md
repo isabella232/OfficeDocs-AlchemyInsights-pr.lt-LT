@@ -1,5 +1,5 @@
 ---
-title: MDATP išimčių konfigūravimas ir patvirtinimas "Mac" kompiuteryje
+title: MDATP išimčių konfigūravimas ir tikrintas "Mac" kompiuteryje
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916351"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>MDATP išimčių konfigūravimas ir patvirtinimas "Mac" kompiuteryje
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>MDATP išimčių konfigūravimas ir tikrintas "Mac" kompiuteryje
 
-Galite išskirti tam tikrus failus, aplankus, procesus ir procesą atidarytus failus iš MDATP nuskaito "Mac". Išimtys padeda išvengti neteisingo jūsų organizacijos programinės įrangos ir failų aptikimo. Išimtys taip pat padeda sušvelninti MDATP veikimo problemas.
+Galite neįtraukti tam tikrų failų, aplankų, procesų ir procesas atidarytų failų iš MDATP nuskaitymo "Mac" kompiuteryje. Išimtys padeda apsisaugoti nuo netinkamo programinės įrangos ir failų aptikimo unikalių arba tinkintų jūsų organizacijoje. Išimtys taip pat padeda sušvelninti veikimo problemas, kurias sukelia MDATP.
 
-Jei norite sužinoti daugiau, skaitykite ["MDATP", skirtos "Mac", išimčių konfigūravimą ir įteisinimo](https://go.microsoft.com/fwlink/?linkid=2144616).
+Norėdami sužinoti daugiau, [žr. MDATP išimčių konfigūravimas ir tikrintas "Mac" kompiuteryje.](https://go.microsoft.com/fwlink/?linkid=2144616)
