@@ -1,5 +1,5 @@
 ---
-title: Išplėstinio "Udiscovery" apžvalga
+title: "\"Advanced eDiscovery"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916171"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Išplėstinio "Udiscovery" apžvalga
+# <a name="overview-of-advanced-ediscovery"></a>"Advanced eDiscovery
 
 Išplėstinis el. duomenų aptikimas leidžia analizuoti nestruktūrizuotus duomenis, kad būtų galima sumažinti el. duomenų aptikimo išlaidas. Galite taikyti teksto analizę, įrenginių mokymąsi ir aktualumo / nuspėjamąjį kodavimą. Štai keletas patarimų:
 
-- Išplėstinam "eDiscovery" funkcijai reikia arba "E5" prenumeratos jūsų organizacijai, arba "Office 365 E3" prenumeratos su išplėstinio atitikties papildinio.
-- Norėdami sukurti naują išplėstinį e. aptikimo atvejį, eikite į [saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143) ir pasirinkite " **e. Discovery**"  >  **išplėstinį e. aptikimą**.
-- Daugiau informacijos ieškokite ["Microsoft 365" išplėstinio "Microsoft" atradimo apžvalga](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Informacijos apie reikiamus veiksmus, kaip nustatyti išplėstinį "Udiscovery", ieškokite ["Microsoft 365" išplėstinio "Sediscovery" nustatymas](https://go.microsoft.com/fwlink/?linkid=2122672).
+- "Advanced eDiscovery" funkcijai būtina jūsų organizacijos E5 prenumerata arba Office 365 E3 su išplėstinio atitikties priedo prenumerata.
+- Norėdami sukurti naują Advanced eDiscovery, eikite į [saugos & ir](https://go.microsoft.com/fwlink/p/?linkid=2077143) pasirinkite **el.** duomenų aptikimo  >  **Advanced eDiscovery**.
+- Daugiau informacijos [žr. "Microsoft 365 Advanced eDiscovery"](https://go.microsoft.com/fwlink/?linkid=2101588)apžvalga.
+- Informacijos apie reikiamus veiksmus, Advanced eDiscovery, [žr. Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).

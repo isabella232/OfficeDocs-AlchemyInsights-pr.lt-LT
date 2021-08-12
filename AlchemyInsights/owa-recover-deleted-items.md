@@ -1,5 +1,5 @@
 ---
-title: Panaikintų laiškų atkūrimas internetinėje "Outlook"
+title: Panaikintų el. laiškų atkūrimas internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: ff252b7fab1aaba9f4e27866b7296ff0bada9ba0891b2f818eda4b7e7a3a3c31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924273"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Panaikintų laiškų atkūrimas internetinėje "Outlook"
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Panaikintų el. laiškų atkūrimas internetinė "Outlook"
 
-1. Kairiojoje srityje pasirinkite aplanką Panaikinta arba nepageidaujamas el. paštas.
+1. Kairiojoje srityje pasirinkite aplanką Panaikinti elementai arba aplanką Nepageidaujamas el. paštas.
 
 2. Atlikite vieną iš šių veiksmų:
 
-    - Panaikintų elementų aplankas: pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **atkurti**. Jei pranešimo nėra aplanke panaikinta, pranešimų sąrašo viršuje pasirinkite **Atkurti panaikintus iš šio aplanko elementus** , pasirinkite laišką, kurį norite atkurti, ir pasirinkite **atkurti**.
+    - Panaikintų elementų aplankas: pasirinkite pranešimą, kurį norite atkurti, ir **pasirinkite Atkurti**. Jei laiško nėra aplanke Panaikinti elementai,  pasirinkite Atkurti elementus, panaikintus iš šio aplanko laiškų sąrašo viršuje, pasirinkite pranešimą, kurį norite atkurti, tada pasirinkite **Atkurti**.
 
-    - Nepageidaujamo pašto aplankas: pasirinkite pranešimą, kurį norite atkurti, ir pasirinkite **ne nepageidaujamas**.
+    - Nepageidaujamo el. pašto aplankas: pasirinkite pranešimą, kurį norite atkurti, ir **pasirinkite Ne nepageidaujamas el. paštas**.
 
-Norėdami sužinoti daugiau, peržiūrėkite [panaikintų el. laiškų atkūrimas internetinėje "Outlook"](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Norėdami sužinoti daugiau, [žr. Panaikintų el. laiškų atkūrimas internetinė "Outlook"](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).

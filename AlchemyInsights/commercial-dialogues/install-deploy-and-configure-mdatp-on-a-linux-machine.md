@@ -1,5 +1,5 @@
 ---
-title: MDATP diegimas, diegimas ir konfigūravimas "Linux" įrenginyje
+title: MDATP diegimas, diegimas ir konfigūravimas "Linux" kompiuteryje
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1e04b54dc1cb429aeacb274c8078132d1d6bc05c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2387db7597a2828e0da8721f2c56798da1a3ca526683e792b3b5828a05139df7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916243"
 ---
-# <a name="install-deploy-and-configure-mdatp-on-a-linux-machine"></a>MDATP diegimas, diegimas ir konfigūravimas "Linux" įrenginyje
+# <a name="install-deploy-and-configure-mdatp-on-a-linux-machine"></a>MDATP diegimas, diegimas ir konfigūravimas "Linux" kompiuteryje
 
-1. Įsitikinkite, kad esate užsiprenumeravę MDATP ir turite prieigą prie " [Mdatp" portalo](https://go.microsoft.com/fwlink/?linkid=2144512).
-2. Diegti MDATP [neautomatiškai](https://go.microsoft.com/fwlink/?linkid=2144809) arba naudodami konfigūravimo valdymo įrankį: [lėlių](https://go.microsoft.com/fwlink/?linkid=2144715) arba [ansible](https://go.microsoft.com/fwlink/?linkid=2144716).
+1. Įsitikinkite, kad prenumeruojate MDATP ir turite prieigą prie [MDATP portalo.](https://go.microsoft.com/fwlink/?linkid=2144512)
+2. Įdiekite MDATP [rankiniu būdu](https://go.microsoft.com/fwlink/?linkid=2144809) arba naudodami konfigūracijos valdymo įrankį: [Lėlių](https://go.microsoft.com/fwlink/?linkid=2144715) arba [Ansible](https://go.microsoft.com/fwlink/?linkid=2144716).
 
-Norėdami sužinoti daugiau, Sužinokite, [kaip įdiegti "MDATP for Linux](https://go.microsoft.com/fwlink/?linkid=2144717)".
+Norėdami sužinoti daugiau, [žr. Kaip įdiegti "Linux" MDATP](https://go.microsoft.com/fwlink/?linkid=2144717).

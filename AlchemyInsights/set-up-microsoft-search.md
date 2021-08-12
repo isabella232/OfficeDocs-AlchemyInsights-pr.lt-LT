@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" ieškos nustatyti"
+title: Nustatyti "Microsoft" ieška
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958161"
 ---
-# <a name="set-up-microsoft-search"></a>"Microsoft" ieškos nustatyti
+# <a name="set-up-microsoft-search"></a>Nustatyti "Microsoft" ieška
 
-Microsoft Search‎ provides a user-friendly interface to search and find results in your organization across ‎Microsoft 365‎ services and applications to help you complete what you're working on. It is included at no additional cost with your eligible ‎Microsoft 365‎ subscription.
+"Microsoft" ieška suteikia vartotojui patogią sąsają, kad būtų galima ieškoti ir rasti rezultatus jūsų organizacijoje visose "Microsoft 365" tarnybose ir taikomosiose programose, kad būtų galima atlikti tai, su kuo dirbate. Jis be papildomo mokesčio įtraukiamas į jūsų reikalavimus atitinkančią Microsoft 365 prenumeratą.
 
-Naudodami ["Microsoft" ieškos sąrankos](https://go.microsoft.com/fwlink/?linkid=2156919) vadovą sukonfigūruokite, ar norite jį patikrinti vartotojų grupei, ar išsamūs visiems organizacijos nariams. Priskirsite ieškos administratoriams ir ieškos redaktoriams, tada tinkinsite vartotojų ieškos funkcijas naudodami atsakymus ir papildomas parinktis, pvz., įtraukdami "Bing" plėtinį į "Chrome" arba nustatydami "Bing" kaip numatytąjį ieškos variklį.
+Naudokite ["Microsoft" ieška sąrankos vadovą,](https://go.microsoft.com/fwlink/?linkid=2156919) kad sukonfigūruotų, ar norite jį išbandyt vartotojų grupei, ar išsamūs visiems organizacijos nariams. Priskirsite ieškos administratoriams ir ieškos rengykles, tada tinkinsite vartotojų ieškos funkcijas su atsakymais ir papildomomis parinktimis, pvz., įtrauksite "Bing" plėtinį į "Chrome" arba Bing kaip numatytąjį ieškos variklį.

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932105"
 ---
 # <a name="api-permissions-and-consent"></a>API teisės ir sutikimas
 
-Programos, kurios integruoja su "Microsoft" tapatybės platforma, pateikia leidimų modelį, kuris leidžia vartotojams ir administratoriams kontroliuoti, kaip galima pasiekti duomenis. Autorizacijos modelio diegimas buvo atnaujintas "Microsoft" tapatybės platformos galinio punkto. Jis pakeis tai, kaip taikomoji programa turi sąveikauti su "Microsoft" tapatybės platforma. ["Microsoft" tapatybės platformos galinio punkto teisės ir sutikimas](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) apima pagrindines šio autorizavimo modelio sąvokas, įskaitant aprėptis, teises ir sutikimą.
+Su ""Microsoft" tapatybės platforma" integruojamos taikomosios programos atitinka autorizavimo modelį, kuris suteikia vartotojams ir administratoriams galimybę kontroliuoti, kaip galima pasiekti duomenis. Autorizavimo modelio diegimas buvo atnaujintas "Microsoft" tapatybės platforma pabaigos taške. Ji pakeičia, kaip programa turi sąveikauti su "Microsoft" tapatybės platforma. [Teisės ir sutikimas "Microsoft" tapatybės platforma galinio](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) punkto apima pagrindines šio autorizavimo modelio sąvokas, įskaitant aprėptis, teises ir sutikimą.
 
-" [Azure Active Directory" ("AZURE AD") sutikimo sistema](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) leidžia lengvai kurti kelių nuomotojų žiniatinklio ir vietines kliento taikomąsias programas. Šios programos leidžia prisijungti pagal vartotojų paskyras iš "Azure AD" nuomotojo, kuris skiriasi nuo tos vietos, kurioje registruota taikomoji programa. Jiems taip pat gali reikėti prieiti prie žiniatinklio API, pvz., "Microsoft Graph" API (pasiekti "Azure AD", Intune ir "Microsoft" 365) ir kitų "Microsoft" paslaugų API, be savo žiniatinklio API.
+""Azure Active Directory" [("Azure AD")](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) sutikimo sistema leidžia lengvai kurti kelių nuomotojų žiniatinklio ir vietinių klientų taikomąsias programas. Šios taikomosios programos leidžia prisijungti pagal vartotojų paskyras iš "Azure AD" nuomotojo, kuris skiriasi nuo to, kuriame registruota taikomoji programa. Jiems taip pat gali reikėti pasiekti žiniatinklio API, pvz., "Microsoft "Graph"" API (norint pasiekti "Azure AD", "Intune" ir paslaugas "Microsoft 365") ir kitus ""Microsoft" paslaugos" API, be jūsų žiniatinklio API.
 

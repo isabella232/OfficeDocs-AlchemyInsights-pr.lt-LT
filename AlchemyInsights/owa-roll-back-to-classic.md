@@ -1,5 +1,5 @@
 ---
-title: Grįžimas prie klasikinės "Outlook" žiniatinklyje
+title: Grįžti į klasikinį internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805867"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924021"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Nauja internetinė "Outlook"
+# <a name="the-new-outlook-on-the-web"></a>Naujoji internetinė "Outlook"
 
-Nebeįmanoma grįžti į klasikinę "Outlook" žiniatinklio patirtį. Jei norite pateikti atsiliepimų apie naująją patirtį, eikite į " [UserVoice" forumą](https://go.microsoft.com/fwlink/?linkid=2103182). Galite balsuoti dėl idėjų ar problemų, kurias norėtumėte matyti, ir mes tiesiogiai atsakysime į svarbiausius komentarus ir pasiūlymus.
+Nebegalima grįžti į klasikinę internetinė "Outlook" patirtį. Jei norite pateikti atsiliepimą apie naują patirtį, eikite į ["UserVoice" forumą](https://go.microsoft.com/fwlink/?linkid=2103182). Galite balsuoti už idėjas ar problemas, kurias norėtumėte matyti, ir mes tiesiogiai atsakysime į populiariausius komentarus ir pasiūlymus.
 
-[Gaukite pagalbos dėl naujos internetinės "Outlook"](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Gaukite pagalbos dėl naujos internetinė "Outlook"](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
