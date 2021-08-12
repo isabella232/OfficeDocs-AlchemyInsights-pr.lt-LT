@@ -1,5 +1,5 @@
 ---
-title: Pranešti apie įtartinus priedus
+title: Pranešimas apie įtartinus priedus
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948927"
 ---
-# <a name="report-suspicious-attachments"></a>Pranešti apie įtartinus priedus
+# <a name="report-suspicious-attachments"></a>Pranešimas apie įtartinus priedus
 
-1. **Naujame pateikimo** flyout pasirinkite **priedas**, tada nusiųskite failą, kurį norite nuskaityti.
+1. **Iškeliamuoju** meniu Naujas **pateikimas** pasirinkite Priedas , tada nusiųskite failą, kurį norite nuskaityti.
     > [!NOTE]
-    > Šiuo metu yra 3 MB apribojimas. Jei failas viršija 3 MB, apsvarstykite galimybę jį pateikti naudodami el. pašto ID.
-2. Jei pasirinksite **turėtų būti užblokuotas**, jis automatiškai pažymės elementą kaip **kenkėjiškas programas**.
-3. Pasirinkite **pateikti**.
+    > Šiuo metu yra 3 MB apribojimas. Jei failas viršija 3 MB, apsvarstykite galimybę pateikti jį naudodamas el. pašto ID.
+2. Jei pasirinksite **Turėjo būti užblokuota**, jis automatiškai pažymės elementą kaip **kenkėjišką programą**.
+3. Pasirinkite **Pateikti**.
