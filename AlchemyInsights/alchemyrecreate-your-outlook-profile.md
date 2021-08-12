@@ -1,5 +1,5 @@
 ---
-title: "\"Alchemy\" – \"Outlook\" profilio kūrimas iš naujo"
+title: "\"Alchemy\" – iš naujo sukurkite savo Outlook profilį"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933545"
 ---
-# <a name="create-an-outlook-profile"></a>"Outlook" profilio kūrimas
+# <a name="create-an-outlook-profile"></a>Kurti Outlook profilį
 
-Norėdami sukurti arba iš naujo sukurti savo "Outlook" profilį, galite paleisti " [Outlook" profilio įrankį](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) paveiktame kompiuteryje.
+Norėdami sukurti arba iš naujo sukurti savo Outlook profilį, galite [paleisti Outlook profilio įrankį](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) paveiktame kompiuteryje.
 
-Įrankis atliks įvairius tikrinimus ir, kai būsite pasirengę, sukurs "Outlook" profilį su jūsų elektroninio pašto adresu.
+Įrankis atliks įvairius tikrinimus, o kai būsite pasirengę, sukurs Outlook su jūsų el. pašto adresu.

@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e2b7ec560d92c7a74437723f0c33da9009624c7aabb5bb4cf4b3906d916051a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944175"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privatūs kanalai programoje "Microsoft Teams"
+# <a name="private-channels-in-microsoft-teams"></a>Privatūs kanalai Microsoft Teams
 
-Privatūs "Microsoft Teams" kanalai sukuria tikslines bendradarbiavimo komandose erdves. Kanalą gali pasiekti tik komandos vartotojai, kurie yra privataus kanalo savininkai arba nariai. Bet kas, įskaitant svečius, gali būti įtrauktas kaip privataus kanalo narys, kol jis yra komandos nariu.
+Privatūs kanalai Microsoft Teams kurkite tikslines erdves bendradarbiavimui komandose. Kanalą gali pasiekti tik komandos vartotojai, kurie yra privataus kanalo savininkai arba nariai. Bet kas, įskaitant svečius, gali būti įtrauktas kaip privataus kanalo narys, kol jis yra komandos nariu.
 
-Norėdami sužinoti daugiau, pradėkite nuo privačių [kanalų programoje "Microsoft Teams".](https://docs.microsoft.com/MicrosoftTeams/private-channels) Tai apima informaciją, pvz., [privatų kanalo kūrimą ir narystę bei](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [privatų kanalo "SharePoint" svetaines.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+Norėdami sužinoti daugiau, pradėkite nuo [asmeninių kanalų Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Tai apima informaciją, [pvz., privatų kanalo kūrimą ir narystę](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [bei privatų kanalų SharePoint svetaines.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Reikia naujo komandos savininko?**
 
 Jei jūsų privatus kanalo savininkas išeina iš jūsų organizacijos arba pašalinamas iš grupės, asmeninio kanalo narys automatiškai paaukštinami kaip privatus kanalo savininkas.
 
-Administratoriai taip pat gali matyti ["Microsoft Teams"](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) privačių kanalų gyvavimo ciklo valdymas, kad sužinotumėte daugiau apie strategijas, skirtas valdyti, kas gali kurti privačius kanalus, taip pat būdus, kaip padėti kurti užklausas el. duomenų aptikimui arba teisiniams sulaikytiems asmenims.
+Administratoriai taip pat gali matyti ["Microsoft Teams"](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) privačių kanalų gyvavimo ciklo valdymas, kad sužinotumėte daugiau apie strategijas, skirtas valdyti, kas gali kurti privačius kanalus, taip pat būdus, kaip padėti kurti užklausas el. duomenų aptikimui arba teisiniam sulaikymas.

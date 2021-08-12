@@ -1,5 +1,5 @@
 ---
-title: Outlook.com pašto dėžutės išvaizdos keitimas
+title: "\"Outlook.com\" pašto dėžutės išvaizda"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 10f7b7e5dbee437f81a803f95b5529fcbc5e667a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbd92e3aa383bd84e2808297ffc6c75cd83878b8c4cd691b601af667f2110de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916891"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>"Outlook" pašto dėžutės išvaizdos keitimas
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Pašto dėžutės Outlook keitimas
 
-[Maketo parametruose](https://outlook.live.com/mail/options/mail/layout)galite pakeisti laiškų sąrašo ir skaitymo srities išvaizdą. Pasirinkite, ar jūsų laiškas turi būti rodomas kaip atskiri pranešimai ar pokalbiai, jei pranešimų sąrašo viršuje arba apačioje turėtų būti rodomi nauji laiškai ir dar daugiau.
+Galite keisti pranešimų sąrašo ir skaitymo srities išvaizdą maketo [parametruose.](https://outlook.live.com/mail/options/mail/layout) Pasirinkite, ar jūsų el. laiškas turėtų būti rodomas kaip atskiri pranešimai ar pokalbiai, jei nauji pranešimai turėtų būti rodomi laiškų sąrašo viršuje arba apačioje, ir kt.
   
-Norėdami sužinoti daugiau, žiūrėkite ["Outlook.com" pašto dėžutės išvaizdos keitimas](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami sužinoti daugiau, [žr. "Outlook.com" pašto dėžutės išvaizdą.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)

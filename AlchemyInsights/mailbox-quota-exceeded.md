@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9cd70f3be9ec2925e3796a74582ca8adc3d5142e657be38b95e694e43db670c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925533"
 ---
 # <a name="mailbox-quota-exceeded"></a>Viršyta pašto dėžutės kvota
 
 Viršijote savo paskyros pašto dėžutės kvotą. Yra keli veiksmai, kuriuos galite atlikti, kad sumažinsite savo aplanko Gauta dydį, kad būtų našesnis.
 
-1. Panaikinkite senesnius aplanko Gauta elementus. Tai galite greitai atlikti programėlėje nustatydami pasirinktinį perbraukimo judesį: **Parametrai > Braukimo parinktys**. Naudodami šį rinkinį galite lengvai perbraukti per aplanką Gauta, kad jį išvalytų.
+1. Panaikinkite senesnius aplanko Gauta elementus. Tai galite greitai atlikti programėlėje nustatydami pasirinktinį perbraukimo judėjimą: **Parametrai > Parinktys**. Naudodami šį rinkinį galite lengvai perbraukti per aplanką Gauta, kad jį išvalytų.
 
 2. Ištuštinkite pašto šiukšlių aplankus. Eikite tiesiai į pašto šiukšlių aplankus ir paspauskite tuščią **pašto šiukšles**.
 
 3. "Android" galite išvalyti šiukšlinės aplankus vienu spustelėjimu. Eikite tiesiai į šiukšlinės aplanką ir paspauskite tuščią **šiukšlinę**. 
 
-4. Įrašykite priedus į "OneDrive", kad jie būtų saugomi jūsų pašto dėžutėje. Daugiau [informacijos žr. Outlook.com saugyklos](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) apribojimai. 
+4. Įrašykite priedus į "OneDrive", kad jie būtų saugomi jūsų pašto dėžutėje. Daugiau [informacijos žr. saugyklos Outlook.com.](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) 
 
-Jei esate "Microsoft 365" vartotojas, it administratorių taip pat galite paprašyti padidinti pašto dėžutę.
+Jei esate Microsoft 365 vartotojas, taip pat galite paprašyti padidinti pašto dėžutę iš IT administratoriaus.

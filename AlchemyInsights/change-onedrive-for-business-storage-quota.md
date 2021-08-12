@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" verslui saugyklos kvotos keitimas"
+title: Saugyklos "OneDrive" verslui keitimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968684"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Numatytosios "OneDrive" saugyklos vietos keitimas vartotojams
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Numatytosios "OneDrive" vietos keitimas vartotojams
 
-1. Eikite į ["OneDrive" administravimo centro saugyklos puslapį](https://admin.onedrive.com/?v=StorageSettings).
+1. Eikite [į ""OneDrive" centro saugyklos puslapį.](https://admin.onedrive.com/?v=StorageSettings)
     
-2. Lauke **Numatytoji saugykla** įveskite numatytąją saugyklos sumą (GB), tada spustelėkite **įrašyti**.
+2. Lauke Numatytoji saugykla įveskite numatytąjį  saugyklos kiekį (GB), tada spustelėkite **Įrašyti**.
     
-Ši saugyklos vietos nuostata taikoma visiems vartotojams, kuriems nenustatėte konkrečių saugyklos limitų. Norėdami pakeisti konkrečių vartotojų saugyklos vietą, turite naudoti "Microsoft PowerShell". Informacijos, kaip tai padaryti, ieškokite [vartotojų "OneDrive" saugyklos vietos keitimas naudojant "PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)".
+Šis saugojimo vietos parametras taikomas visiems vartotojams, kuriems nenustatėte konkrečių saugyklos apribojimų. Norėdami pakeisti saugojimo vietą konkretiems vartotojams, turite naudoti "Microsoft PowerShell". Informacijos, kaip tai padaryti, žr. [Vartotojų saugyklos vietos "OneDrive" naudojant "PowerShell".](https://go.microsoft.com/fwlink/?linkid=866402)
   
 
