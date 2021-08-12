@@ -1,5 +1,5 @@
 ---
-title: Neveikia bendras naudojimas su išoriniais vartotojais
+title: Neveikia bendrinimas su išoriniais vartotojais
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,32 +12,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: bd3a6c0d7206801ff76be121c4878b8343cc9886
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910374"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>"SharePoint" turinio naudojimo su išoriniais vartotojais problemų sprendimas
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Turinio bendrinimo su išoriniais SharePoint problemų sprendimas
 
-Įsitikinkite, kad jūsų organizacijai įjungtas Išorinis bendrinimas:
+Įsitikinkite, kad jūsų organizacijoje įjungtas išorinis bendrinimas:
   
-1. Eikite į [ &amp; "Microsoft 365" administravimo centro puslapį tarnybų papildiniai](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), tada spustelėkite **svetainės**.
+1. Eikite [į &amp; tarnybų papildinių](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)puslapį dalyje "Microsoft 365" administravimo centras spustelėkite **Svetainės**.
     
-2. Įsitikinkite, kad parametras įjungtas į "įjungta". Jei pasirinkta "tik esami Išoriniai vartotojai", įsitikinkite, kad išorinis vartotojas yra nurodytas "Microsoft" 365 administravimo centre.
+2. Įsitikinkite, kad parametras yra įjungtas į "Įjungta". Jei pažymėta "Tik esami išoriniai vartotojai", įsitikinkite, kad išorinis vartotojas nurodytas "Microsoft 365" administravimo centras.
     
-Įsitikinkite, kad svetainėje įjungtas išorinis bendras naudojimasis. Klasikinis svetainių rinkinys:
+Įsitikinkite, kad įjungtas išorinis svetainės bendrinimas. Klasikiniam svetainių rinkiniui:
   
-1. Naujame "SharePoint" administravimo centre, kairiojoje srityje spustelėkite **svetainės**.
+1. Naujo administravimo SharePoint kairiojoje srityje spustelėkite **Svetainės**.
     
-2. Pažymėkite svetainę arba svetaines ir juostelėje spustelėkite **bendras naudojimasis**.
+2. Pasirinkite svetainę arba svetaines ir juostelėje spustelėkite **Bendrinimas**.
     
-Komandos svetainėje, priklausančiai "Microsoft 365" grupei, arba bendravimo svetainei:
+Komandos svetainės, kuri priklauso Microsoft 365 grupei arba ryšių svetainei:
   
-- Šie nauji svetainių tipai turi tokį patį bendro naudojimo parametrą kaip ir visos organizacijos parametrai, nebent visos organizacijos parametras leidžia failų bendrinimas naudojant saitus, kuriems nereikia prisijungimo. Šiuo atveju svetainės leidžia dalytis su naujais ir esamais išoriniais vartotojais, kurie užsiregistruosite. Norėdami pakeisti konkrečių svetainių parametrą, naudokite naują "SharePoint" administravimo centrą arba "PowerShell". [Sužinokite daugiau](https://go.microsoft.com/fwlink/?linkid=871863).
+- Šių naujų svetainių tipų bendrinimo parametras yra toks pat kaip visos organizacijos parametro, nebent visos organizacijos parametras leidžia bendrinti failus naudojant saitus, kuriems nereikia prisijungimo. Tokiu atveju svetainės leidžia bendrinti su naujais ir esamais išoriniais vartotojais, kurie prisijungia. Norėdami pakeisti konkrečių svetainių parametrą, naudokite naują "SharePoint" administravimo centrą arba "PowerShell". [Sužinokite daugiau](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Išorinio bendro naudojimo parametrai bet kurioje svetainėje gali būti labiau ribojami nei visos organizacijos parametrai, bet ne daugiau nei visos organizacijos parametrai. 
+> Bet kurios svetainės išorinio bendrinimo parametras gali būti labiau ribojantis nei visos organizacijos parametras, bet ne labiau ribojantis nei visos organizacijos parametras. 
   
 

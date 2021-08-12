@@ -1,5 +1,5 @@
 ---
-title: Apgaulės aptikimo tikrinimo saugos patarimo trikčių šalinimas
+title: Apgaulės aptikimo saugos patarimas trikčių šalinimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955974"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Apgaulės aptikimo tikrinimo saugos patarimo trikčių šalinimas
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Apgaulės aptikimo saugos patarimas trikčių šalinimas
 
-Jei gaunate saugos patarimą, kuriame rašoma: "Siuntėjui nepavyko aptikti sukčiavimo ir jis gali būti ne toks, kaip jis atrodo", siuntėjui nepavyko atlikti DKIM arba SPF autentifikavimo patikrų. Geriausias būdas išspręsti šią problemą yra leisti siuntėjui. Jei siuntėjas siunčia jūsų vardu, turite jį autorizuoti įtraukdami siuntėjo IP adresą į SAVO SPF įrašą.
+Jei gaunate "saugos patarimas"Siuntėjas neatlaikė mūsų apgavysčių aptikimo patikrų ir gali būti ne toks, kaip jis atrodo", tada siuntėjui nepavyko atlikti DKIM arba SPF autentifikavimo patikrų. Geriausias būdas išspręsti šią problemą yra leisti siuntėjui. Jei siuntėjas siunčia jūsų vardu, turite jį autorizuoti įtraukdami siuntėjo IP adresą į SAVO SPF įrašą.
   
-Daugiau [informacijos žr. Raudono (įtartinos) saugos patarimo trikčių](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) šalinimas, kad būtų galima aptikti apgaulės atvejus.
+Daugiau [informacijos žr. Raudonų (įtartinų) saugos patarimas sukčiavimo aptikimo patikrų](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) trikčių šalinimas.
   
 Štai keletas kitų saitų, kurie gali padėti:
   
