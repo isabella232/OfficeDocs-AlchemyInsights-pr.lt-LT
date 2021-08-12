@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913975"
 ---
 # <a name="device-permissions"></a>Įrenginio teisės
 
-Norėdami valdyti "Windows" įrenginį, turite būti vietinių administratorių grupės narys. Kaip dalis "Azure Active Directory" ("Azure AD") prisijungia prie proceso, "Azure AD" atnaujina šios grupės narystę įrenginyje. Galite tinkinti narystės naujinimą, kad jis atitiktų jūsų įmonės poreikius. Narystės naujinimas yra, pvz., naudinga, jei norite, kad jūsų pagalbos tarnybos darbuotojai atliktų užduotis, kurioms reikia administratoriaus teisių įrenginyje.
+Norėdami valdyti Windows įrenginį, turite būti vietinių administratorių grupės narys. Kaip ""Azure Active Directory" ("Azure AD") sujungimo proceso dalis, "Azure AD" įrenginyje atnaujina šios grupės narystę. Galite tinkinti narystės naujinimą, kad jis atitiktų jūsų verslo reikalavimus. Pvz., narystės naujinimas yra naudingas, jei norite įgalinti pagalbos tarnybos darbuotojus atlikti užduotis, kurioms reikia administratoriaus teisių įrenginyje.
 
-Norėdami sužinoti, kaip vietinis administratorių narystės naujinimas veikia ir kaip galite tinkinti jį "Azure AD Join", žr. [vietinių administratorių priskyrimas įrenginiams](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Šio straipsnio turinys netaikomas hibridiniam "Azure AD" sujungtiems įrenginiams.
+Norėdami sužinoti, kaip veikia vietinių administratorių narystės naujinimas ir kaip galite jį tinkinti prisijungdami prie "Azure AD", žr. [Vietinių administratorių priskyrimas įrenginiams](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Šio straipsnio turinys netaikomas hibridiniams "Azure AD" prijungties įrenginiams.

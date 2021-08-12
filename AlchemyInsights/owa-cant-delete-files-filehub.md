@@ -1,5 +1,5 @@
 ---
-title: Negalima panaikinti failų arba nuotraukų iš failų programoje "Outlook" žiniatinklyje
+title: Negalite panaikinti failų arba nuotraukų iš failų internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961456"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Negalima panaikinti failų arba nuotraukų iš failų programoje "Outlook" žiniatinklyje
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Negalite panaikinti failų ar nuotraukų iš failų internetinė "Outlook"
 
-**Failuose** rodomi failai ir nuotraukos, pridėti prie pašto dėžutės pašto dėžutės. Norėdami pašalinti failus ir nuotraukas iš failų, turite panaikinti el. laiškus, prie kurių jie pridedami. Pašalinę laiškus taip pat turite juos panaikinti iš aplanko Panaikinti elementai.
+**Failai** rodo failus ir nuotraukas, pridėtus prie laiškų pašto dėžutėje. Norėdami pašalinti failus ir nuotraukas iš failų, turite panaikinti el. laiškus, prie kurių jie pridėti. Panaikindami laiškus, taip pat turite juos panaikinti iš aplanko Panaikinti elementai.

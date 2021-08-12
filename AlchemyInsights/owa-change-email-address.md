@@ -1,5 +1,5 @@
 ---
-title: El. pašto adreso keitimas internetinėje "Outlook"
+title: El. pašto adreso keitimas internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961383"
 ---
-# <a name="change-your-email-address"></a>Elektroninio pašto adreso keitimas 
+# <a name="change-your-email-address"></a>El. pašto adreso keitimas 
 
 Norėdami pakeisti savo el. pašto adresą, jums reikės administratoriaus teisių.
   
-Vadovaukitės instrukcijomis, pateiktomis dalyje [vartotojo vardo ir elektroninio pašto adreso keitimas programoje "Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Vykdykite [nurodymus, pateiktus lauke Vartotojo vardo ir el. pašto adreso keitimas Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
