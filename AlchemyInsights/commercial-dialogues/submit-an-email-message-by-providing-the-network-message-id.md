@@ -1,5 +1,5 @@
 ---
-title: El. laiško pateikimas pateikiant tinklo pranešimo ID
+title: Pateikite el. laišką pateikdami tinklo pranešimo ID
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e4a0a3d9b4fede9198c8a235d05945b30a6e0807
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1a6f9815a36cc267a815ff9757d713afed5d95aec4f7c537135c88cadf26cc51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929925"
 ---
-# <a name="submit-an-email-message-by-providing-the-network-message-id"></a>El. laiško pateikimas pateikiant tinklo pranešimo ID
+# <a name="submit-an-email-message-by-providing-the-network-message-id"></a>Pateikite el. laišką pateikdami tinklo pranešimo ID
 
-1. **Naujame pateikimo** flyout pasirinkite **el. pašto** ir **tinklo pranešimo ID**.
-2. Atlikite šiuos veiksmus, kad rastumėte pranešimo ID, skirtą "Outlook" el. laiškui:
+1. **Iškeliamuoju meniu** Naujas pateikimas pasirinkite **El. pašto** **ir tinklo pranešimo ID**.
+2. Atlikite šiuos veiksmus, kad rastumėte el. laiško ID Outlook:
     1. Dukart spustelėkite el. laišką, kad jį atidarytumėte.
-    1. Pasirinkite **failo**  >  **Ypatybės**.
-    1. Atidarykite užrašinę arba tuščią "Word" dokumentą, tada nukopijuokite ir įklijuokite lauke **interneto antraštės** esantį turinį į atvirą dokumentą, kad būtų patogiau matyti.
-    1. Raskite **X-MS-Exchange-organizacijos-Network-Message-ID** lauką. Reikšmė po **:** yra ID, kurio reikia pateikčiai pateikti.
-3. Dalyje **gavėjai**, jei pašto laiškas buvo iškrautas visų šio laiško gavėjų aplanke Nepageidaujamas paštas, pasirinkite **Žymėti viską**. Jei ne, pažymėkite tik vartotoją, kuris pranešė apie problemą.
-4. Dalyje **pateikimo priežastis**, jei pasirinksite **turėtų būti užblokuota**, nurodykite, ar pranešimas turi būti užblokuotas kaip **šlamštas**, **sukčiavimas apsimetant** ar **kenkėjiška programa**, tada pasirinkite **pateikti**.
+    1. Pasirinkite **Failo**  >  **ypatybės**.
+    1. Atidarykite Užrašinė arba tuščią "Word" dokumentą, tada nukopijuokite  ir įklijuokite turinį, kuris randamas lauke Interneto antraštės, į atidarytą dokumentą, kad geriau jį būtų galima matyti.
+    1. Raskite **lauką X-MS-Exchange-Organization-Network-Message-Id.** Reikšmė po **: yra** ID, kurio reikia pateikti.
+3. Dalyje **Gavėjai**, jei el. laiškas buvo išsiųstas į nepageidaujamo el. pašto aplanką visiems šio el. laiško gavėjams, pasirinkite **Žymėti viską**. Jei ne, pasirinkite tik vartotoją, kuris pranešė apie problemą.
+4. Dalyje **Pateikimo priežastis ,** jei pasirinksite Turėjo būti užblokuota **,** nurodykite , ar pranešimas turėjo būti užblokuotas kaip pašto šiukšlės **,** sukčiavimas apsimetant arba **kenkėjiška** programa , tada pasirinkite **Pateikti**.
 
-Jei norite sužinoti daugiau, Sužinokite, [kaip pateikti įtariamą pašto šiukšlių, "Phish", "URL" ir "Microsoft for nuskaitymo" failus](https://go.microsoft.com/fwlink/?linkid=2101479).
+Norėdami sužinoti daugiau, [žr. Kaip pateikti įtartinus pašto šiukšles,](https://go.microsoft.com/fwlink/?linkid=2101479)sukčiavimo apsimetant, URL ir failus "Microsoft", kad būtų galima nuskaityti.

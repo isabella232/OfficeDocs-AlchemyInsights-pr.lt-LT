@@ -1,5 +1,5 @@
 ---
-title: Automatinis pranešimas, kad automatiškai pereitumėte prie archyvo
+title: Automatiškai sustabdyti laiškų perkėlimą į archyvą
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929961"
 ---
-# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Automatinis pranešimas, kad automatiškai pereitumėte prie archyvo
+# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Automatiškai sustabdyti laiškų perkėlimą į archyvą
 
-Jei naudojate saugojimo strategiją, galite pakeisti tos strategijos saugojimo amžių, kad laiškai nebūtų archyvuojami automatiškai. Toliau nurodyta, kaip tai padaryti.
+Jei naudojate saugojimo strategiją, galite pakeisti tos strategijos saugojimo amžių, kad pranešimai būtų automatiškai archyvuoti. Toliau nurodyta, kaip tai padaryti.
 
-1. " [Exchange" administravimo centre](https://go.microsoft.com/fwlink/?linkid=2059104)pasirinkite **atitikties valdymo**  >  **išsaugojimo žymės**. Raskite savo perkėlimą į archyvo saugojimo žymę.
-2. Dalyje saugojimo žymė pakeiskite saugojimo laikotarpį (archyvo laikotarpis), kad **niekada** nesustabdytumėte elementų automatiškai suarchyvuotų pagal saugojimo strategiją.
+1. Administravimo [Exchange pasirinkite](https://go.microsoft.com/fwlink/?linkid=2059104)atitikties valdymo **saugojimo**  >  **žymes**. Raskite žymę Perkelti į archyvą.
+2. Saugojimo žymėje pakeiskite saugojimo laikotarpį (archyvavimo  laikotarpį) į Niekada, kad nebūtų automatiškai archyvuojami elementai pagal saugojimo strategiją.
 
 > [!NOTE]
-> Taip pakeisite visų pašto dėžučių archyvo parametrą, kuriam taikoma ši saugojimo žymė.
+> Tai pakeis visų pašto dėžučių archyvo parametrą, kai jiems taikoma ši saugojimo žymė.
