@@ -1,5 +1,5 @@
 ---
-title: Klasikinės šaknies svetainės keitimas naudojant šiuolaikinę svetainę
+title: Klasikinės šakninės svetainės sukeitimas naudojant modernią svetainę
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940827"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasikinės šaknies svetainės keitimas naudojant šiuolaikinę svetainę
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasikinės šakninės svetainės sukeitimas naudojant modernią svetainę
 
-Jei jūsų aplinka buvo nustatyta iki balandžio 2019, galite pakeisti savo šaknies svetainę į šiuolaikinę svetainę naudodami "Microsoft PowerShell":
+Jei jūsų aplinka buvo nustatyta iki 2019 m. balandžio mėn., galite pakeisti šakninį puslapį į šiuolaikišką svetainę naudodami "Microsoft PowerShell":
 
-- Jei turite kitą svetainę, kurią norite naudoti kaip savo šaknies svetainę, galite pakeisti [(sukeisti) šaknies svetainę](https://docs.microsoft.com/sharepoint/modern-root-site) su ja. 
-    - Naudokite funkciją [Invoke – SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Norėdami sukeisti svetainės vietą su kita svetaine archyvuodami pradinę svetainę. Galima naudoti ir komandos svetainėje (nėra prijungta prie grupės) ir bendravimo svetainėje. 
+- Jei turite kitą svetainę, kurią norite naudoti kaip šakninį puslapį, galite ją pakeisti [(sukeisti).](https://docs.microsoft.com/sharepoint/modern-root-site) 
+    - Naudokite [Invoke-SPOSiteSwap,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kad sukeisti svetainės vietą su kita svetaine archyvavimo metu pradinėje svetainėje. Galima naudoti tiek komandos svetainėje (neprijungtoje prie grupės), tiek ryšių svetainėje. 
 
-- Netrukus bus įdiegtos papildomos galimybės, leidžiančios toliau naudoti svetainės turinį, bet konvertuoti esamą svetainę į ryšių svetainę. 
+- Netrukus bus įvestos papildomos galimybės, kurios leis toliau naudoti svetainės turinį, bet konvertuoti esamą svetainę į ryšių svetainę. 
 >[!Important]
->Šie pajėgumai bus palaipsniui išskleidžiami. Toliau tikrinkite naujinimų centro naujinimus. 
+>Šios galimybės bus išsiųstos palaipsniui. Toliau patikrinkite, ar pranešimų centre yra naujinimų. 
 
-## <a name="known-issues-with-swapping-sites"></a>Žinomos problemos keičiant svetaines
+## <a name="known-issues-with-swapping-sites"></a>Žinomos svetainių apsikeitimo problemos
 
-- Paskirties svetainė trumpą laiką gali pateikti klaidą "nerastas" (HTTP 404).
-- Turiniui atnaujinti reikia atnaujinti ieškos indeksą. Nėra reikalingo rankinio veiksmo – tai bus atlikta automatiškai.
-- Viskas, kas priklauso nuo "statinio" saitų (pvz., failų sinchronizavimo ir "OneNote" failų), turės būti rankiniu būdu pataisyta.
-- Jei šaltinio svetainė buvo organizacijos naujienų svetainė, atnaujinkite URL.Gaukite visų organizacijos naujienų svetainių sąrašą.
-- "Project Server" svetaines gali reikėti patvirtinti, kad jos būtų tinkamai susietos.
+- Paskirties svetainė trumpą laiką gali pateikti klaidą "nerasta" (HTTP 404).
+- Norint atnaujinti ieškos indeksą, turi būti atirašytas turinys. Nereikia atlikti rankinio veiksmo – tai bus atliekama automatiškai.
+- Viską, kas priklauso nuo "statinių" saitų (pvz., Failų sinchronizavimas ir OneNote failų), reikės pataisyti rankiniu būdu.
+- Jei šaltinio svetainė buvo organizacijos naujienų svetainė, atnaujinkite URL. Gaukite visų organizacijos naujienų svetainių sąrašą.
+- Project Gali tekti patikrinti serverio svetaines, kad jos būtų tinkamai susietos.

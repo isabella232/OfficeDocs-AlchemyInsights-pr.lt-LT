@@ -1,5 +1,5 @@
 ---
-title: Taikomųjų programų grupių valdymas naudojant "Azure" "Windows Virtual" darbalaukio portalą
+title: Programų grupių valdymas naudojant "Azure" portalą, skirtą "Windows darbalaukiui
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912066"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Taikomųjų programų grupių valdymas naudojant "Azure" "Windows Virtual" darbalaukio portalą
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Programų grupių valdymas naudojant "Azure" portalą, skirtą "Windows darbalaukiui
 
-Numatytoji taikomųjų programų grupė, sukurta naudoti naujame "Windows" virtualiojo kompiuterio pagrindinio kompiuterio telkinyje, taip pat publikuoja visas kompiuterio funkcijas. Be to, naudodami "Azure" portalą galite sukurti vieną ar daugiau "RemoteApp" taikomųjų programų grupių, skirtų pagrindinio kompiuterio telkinį.
+Numatytoji programų grupė, sukurta naujam virtualiojo darbalaukio Windows pagrindinio kompiuterio telkiniui, taip pat publikuoja visą darbalaukį. Be to, naudodami "Azure" portalą galite sukurti vieną ar daugiau "RemoteApp" programų grupių pagrindinio kompiuterio telkinį.
 
-Diegimo procesas darys šiuos veiksmus:
+Diegimo procesas padės atlikti šiuos veiksmus:
 
-1. Sukurkite RemoteApp programos grupę.
-2. Įtraukite pasirinktas taikomąsias programas į taikomųjų programų grupę.
-3. Publikuokite atskirus vartotojus arba vartotojų grupes programos grupėje.
-4. Jei pasirinksite, užregistruokite taikomųjų programų grupę.
-5. Sukurkite saitą į "Azure Resource Manager" šabloną, kurį galite atsisiųsti ir įrašyti.
+1. Sukurkite "RemoteApp" programėlių grupę.
+2. Įtraukite pasirinktas programėles į programėlių grupę.
+3. Publikuokite atskirus vartotojus arba vartotojų grupes taikomųjų programų grupėje.
+4. Užregistruokite programėlių grupę, jei pasirinksite tai padaryti.
+5. Sukurkite saitą su "Azure Resource Manager" šablonu pagal konfigūraciją, kurią galite atsisiųsti ir įrašyti.
 
-Norėdami sukurti RemoteApp grupę, skirtą "Windows Virtual" kompiuteriui, vadovaukitės instrukcijomis, pateiktomis dalyje [programų grupių valdymas naudojant "Azure" portalą](https://go.microsoft.com/fwlink/?linkid=2129550).
+Norėdami sukurti "RemoteApp" grupę, skirtą Windows darbalaukiui, vykdykite nurodymus, pateiktus programėlių [grupių valdymas naudojant "Azure" portalą.](https://go.microsoft.com/fwlink/?linkid=2129550)

@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972985"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Būtinos "Microsoft ToDo" licencijos
 
@@ -29,35 +29,35 @@ Vartotojas turi turėti vieną iš šių licencijų, kad būtų galima naudoti "
   
 - "Business Essentials"
 
-- "Business Premium"
+- Verslo Premium
 
-- "Microsoft 365 Firstline F1"
+- Microsoft 365 Firstline F1
 
-- Bet kuris "Office 365 Enterprise" planas
+- Bet Office 365 Enterprise planas
 
 - Saugus produktyvus verslas
 
-- Saugi produktyvi įmonė E3
+- Secure Productive Enterprise E3
 
-- Saugi produktyvi įmonė E5
+- Secure Productive Enterprise E5
 
-- Bet kuris "Office 365 Education" planas
+- Bet Office 365 Education planas
 
-- "Microsoft 365 A3"
+- Microsoft 365 A3
 
-- "Microsoft 365 A5"
+- Microsoft 365 A5
 
-Be galiojančios produkto licencijos, "ToDo" reikia vienos iš šių "Exchange Online" versijų, kad būtų galima sinchronizuoti vartotojo duomenis:
+Be galiojančios produkto licencijos, norint sinchronizuoti vartotojo duomenis, "ToDo" Exchange Online viena iš šių "Exchange Online versijų:
   
-- "Exchange Online" 1 planas
+- Exchange Online 1 planas
 
-- "Exchange Online" 2 planas
+- Exchange Online 2 planas
 
-- "Exchange Essentials"
+- Exchange Pagrindai
 
-- "Exchange Online Kiosk"
+- Exchange Online Kiosk
 
-- "Exchange Online" POP
+- Exchange Online POP
 
 [Licencijų priskyrimas vartotojų paskyroms naudojant "Office 365 PowerShell"](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
