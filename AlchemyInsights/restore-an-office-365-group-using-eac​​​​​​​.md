@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft 365\" grupės atkūrimas naudojant \"Exchange\" administravimo centrą"
+title: Grupės Microsoft 365 naudojant "Exchange" administravimo centrą
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,22 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: 115eeef27cfc10cf6da35de3aea11f5f3fb7b146
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 585db57a58b8fb58c9ae0aca161cce9bae290ac800422c59aa053ee7f19461fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061815"
 ---
-# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>"Microsoft 365" grupės atkūrimas naudojant "Exchange" administravimo centrą
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Grupės Microsoft 365 naudojant "Exchange" administravimo centrą
 
-1. Kairiojoje "Microsoft 365" administravimo centro naršymo srityje išplėskite **Administravimo centras**, tada pasirinkite **"Exchange".**
+1. Kairiojoje ""Microsoft 365" administravimo centras" naršymo srityje išplėskite **Administravimo centras**, tada **pasirinkite Exchange**.
     
-2. "Exchange" administravimo centre pasirinkite **gavėjai**, tada pasirinkite **grupės**. Galite peržiūrėti, ar grupė yra Aktyvi, ar minkšta Panaikinta. Jei grupė buvo panaikinta visam laikui, ji iš viso nebus nurodyta.
+2. Administravimo Exchange pasirinkite **gavėjai**, tada pasirinkite **grupės**. Galite peržiūrėti, ar grupė yra Aktyvi, ar minkšta Panaikinta. Jei grupė buvo panaikinta visam laikui, ji iš viso nebus nurodyta.
     
 3. Norėdami peržiūrėti tikslų laiką, kada grupė buvo panaikinta, pasirinkite grupę ir peržiūrėkite informaciją dešinėje srityje.
     
-4. Pasirinkite norimą atkurti "Microsoft 365" grupę, tada pasirinkite atkūrimo piktogramą.
+4. Pasirinkite Microsoft 365 grupę, kurią norite atkurti, tada pasirinkite atkūrimo piktogramą.
     
 5. Pasirinkite atnaujinti ![Atnaujinimo piktograma](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) , kad atnaujinsite informaciją puslapyje. Jūsų grupė bus rodoma kaip Aktyvi. 
     

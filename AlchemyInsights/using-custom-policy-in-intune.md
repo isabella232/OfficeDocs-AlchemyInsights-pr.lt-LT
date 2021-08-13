@@ -1,5 +1,5 @@
 ---
-title: Pasirinktinio profilių naudojimas "Intune"
+title: Pasirinktinių profilių naudojimas "Intune"
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971095"
 ---
-# <a name="using-custom-policy-in-intune"></a>Pasirinktinio strategijos naudojimas "Intune"
+# <a name="using-custom-policy-in-intune"></a>Pasirinktinės strategijos naudojimas "Intune"
 
-Intune turi daug parametrų, įtaisytų "Android", "iOS", "macOS" ir "Windows" įrenginiuose. Taip pat galite sukurti pasirinktinę profilį, tada įdiegti šiuos tinkintus parametrus į įrenginius naudodami Intune. Pasirinktinių profilių paskirtis yra įtraukti įrenginio parametrus ir funkcijas, kurios nėra įdiegtos į Intune.
+"Intune" yra daug įtaisytųjų "Android", "iOS", "macOS" ir "Windows įrenginių. Taip pat galite sukurti pasirinktinį profilį, tada įdiegti šiuos pasirinktinius parametrus savo įrenginiuose naudodami "Intune". Pasirinktiniai profiliai skirti įtraukti įrenginio parametrus ir funkcijas, kurios nėra įtaisytos "Intune".
 
-["Android" įrenginių "Intune" pasirinktinio parametrai](https://docs.microsoft.com/intune/custom-settings-android)
+[Pasirinktiniai "Android" įrenginių parametrai "Intune"](https://docs.microsoft.com/intune/custom-settings-android)
 
-["Android Enterprise" įrenginių "Intune" pasirinktinio parametrai](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Pasirinktiniai "Android Enterprise" įrenginių parametrai "Intune"](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-["IOS" įrenginių pasirinktinio parametrai "Intune"](https://docs.microsoft.com/intune/custom-settings-ios)
+[Pasirinktiniai "iOS" įrenginių parametrai "Intune"](https://docs.microsoft.com/intune/custom-settings-ios)
 
-["MacOS" įrenginių "Intune" pasirinktinio parametrai](https://docs.microsoft.com/intune/custom-settings-macos)
+[Pasirinktiniai "macOS" įrenginių parametrai "Intune"](https://docs.microsoft.com/intune/custom-settings-macos)
 
-["Windows 10" įrenginių "Intune" pasirinktinio parametrai](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Pasirinktiniai "Intune Windows 10 įrenginių parametrai](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-["Windows" holografinės "Windows" holografinės nuostatos, skirtos "Intune" verslui įrenginiams](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Pasirinktiniai "Intune Windows Holographic for Business įrenginių parametrai](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

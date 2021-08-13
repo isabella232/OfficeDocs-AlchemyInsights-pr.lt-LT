@@ -1,5 +1,5 @@
 ---
-title: "\"Gmail\" paskyros įtraukimas į \"Outlook\""
+title: "\"Gmail\" paskyros įtraukimas į Outlook"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 18d9b44e06e62b2b1af30a53efe5fa47163ef4c6
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 0b642db4eee780d6010549c77de5777d2344d34a27c90994a1c7759bdd9ffc07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937001"
 ---
-# <a name="add-a-gmail-account-to-outlook"></a>"Gmail" paskyros įtraukimas į "Outlook"
+# <a name="add-a-gmail-account-to-outlook"></a>"Gmail" paskyros įtraukimas į Outlook
 
-Veiksmai yra tokie patys, ar įtraukiate pirmąją "Gmail" paskyrą ar papildomas "Gmail" paskyras į "Outlook".
+Veiksmai yra tokie patys, nesvarbu, ar įtrauksite pirmąją "Gmail" paskyrą, ar papildomas "Gmail" paskyras Outlook.
 
-1. Pasirinkite **failo**  >  **įtraukimo abonementas**.
-1. Įveskite savo elektroninio pašto adresą ir spustelėkite **prisijungti**. "Outlook" pradės "Gmail" langą, kuriame prašoma įvesti slaptažodį. 
-1. Įvesti slaptažodį ir pasirinkite **prisijungti**.
+1. Pasirinkite **Failo**  >  **įtraukimas į paskyrą**.
+1. Įveskite savo el. pašto adresą ir **spustelėkite Prisijungimas**. Outlook "Gmail" langą, kuriame prašoma įvesti slaptažodį. 
+1. Įveskite slaptažodį ir **pasirinkite Prisijungti**.
 > [!IMPORTANT]
-> Kai prijungsite "Gmail" paskyrą prie "Outlook", "Gmail" aplanke Gauta galite gauti įspėjamąjį pranešimą, nurodantį, kad Aptiktas naujas "Internet Explorer" registravimasis. Tai numatyta.
-4. Jei anksčiau įgalinote "Gmail" 2 dalių autentifikavimą, būsite paraginti įvesti kodą, atsiųstą į jūsų mobilųjį įrenginį. Jei neįgalinote 2 dalių autentifikavimo, pereikite prie 6 veiksmo.
-1. Atsidarys langas "Google" paskyros teisės. Spustelėkite **leisti**.
-1. Kai "Outlook" baigs įtraukti "Gmail" paskyrą, galite įtraukti kitą el. pašto paskyrą arba pasirinkti **atlikta**.
+> Prijungę "Gmail" paskyrą prie "Outlook", "Gmail" aplanke Gauta galite gauti įspėjimo pranešimą, kad aptiktas naujas prisijungimas iš "Internet Explorer". Tai tikėtinas veikimas.
+4. Jei anksčiau įgalinote "Gmail" 2 dalių autentifikavimą, būsite paraginti įvesti kodą, išsiųstą į mobilųjį įrenginį. Jei neįjungėte 2 dalių autentifikavimo, pereikite prie 6 veiksmo.
+1. Rodomas langas "Google" paskyros teisės. Spustelėkite **Leisti**.
+1. Kai Outlook įtrauksite "Gmail" paskyrą, galėsite įtraukti kitą el. pašto paskyrą arba **pasirinkti Atlikta**.
 > [!TIP]
-- > Jei tikrinate savo telefono "Outlook Mobile" sąrankos lauką, būsite nukreipti į žiniatinklio svetainę, kurioje galite įrašyti savo mobiliojo telefono numerį, ir gausite saitą atsisiųsti "Outlook", skirtą "iOS" arba "Outlook", skirtą "Android". "Outlook Mobile" diegimas yra puikus būdas gauti naujausią informaciją keliaudami.
-- Jei reikia instrukcijų, kaip įtraukti el. pašto paskyrą naudojant išplėstinius parametrus, žiūrėkite [naudoti išplėstinę sąranką, kad ĮTRAUKTUMĖTE POP arba IMAP el. pašto paskyrą į "Outlook" asmeniniam kompiuteriui](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).
+- > Jei žymės langelį Sąranka "Outlook Mobile" mano telefone, būsite nueiti į svetainę, kurioje galėsite įvesti mobiliojo telefono numerį ir gausite saitą, skirtą atsisiųsti "Outlook", skirtą "iOS" arba "Outlook", skirtą "Android". "Outlook Mobile" diegimas yra puikus būdas atnaujinti informaciją kelyje.
+- Jei reikia instrukcijų, kaip įtraukti el. pašto paskyrą naudojant išplėstinius parametrus, žr. Išplėstinės sąrankos naudojimas norint įtraukti [POP arba IMAP el. pašto paskyrą Outlook kompiuteryje.](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced)
