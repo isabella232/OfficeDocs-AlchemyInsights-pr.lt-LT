@@ -1,5 +1,5 @@
 ---
-title: Kortelių ir mokėjimo būdų valdymas
+title: Kortelės ir mokėjimo būdo valdymas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,51 +12,51 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b757aa6ba3aa97e5f0b34d4c25e8778a13d30b9ee9a975ea1eb28a6afba4f8c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972175"
 ---
-# <a name="manage-card-and-payment-method"></a>Kortelių ir mokėjimo būdų valdymas
+# <a name="manage-card-and-payment-method"></a>Kortelės ir mokėjimo būdo valdymas
 
-"Azure" portale, kaip abonemento administratorius, galite įtraukti naują debeto/kredito kortelę, atnaujinti esamą debeto/kredito kortelę arba panaikinti nenaudojate debeto/kredito kortelę. ["Microsoft" kliento sutarties](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)atveju mokėjimo būdai susiejami su [atsiskaitymo profiliais](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Tik vartotojas, prisiregistravęs naudoti "Azure", gali atnaujinti mokėjimo būdą.
+"Azure" portale kaip paskyros administratorius galite įtraukti naują debeto / kredito kortelę, atnaujinti esamą debeto / kredito kortelę arba panaikinti nenaudotas debeto / kredito korteles. [„Microsoft“ klientų sutartyje](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement) mokėjimo metodai yra susieti su [atsiskaitymo profiliais](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Tik tie vartotojai, kurie yra užsiregistravę su „Azure“ gali atnaujinti mokėjimo metodą.
 
-**Naujo debeto arba kredito kortelės įtraukimas į "Azure" prenumeratą**
+**Naujos debeto arba kredito kortelės įtraukimas į "Azure" prenumeratą**
 
-1. Prisijunkite prie " [Azure" portalo](https://ms.portal.azure.com/) kaip [abonemento administratoriaus](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Pasirinkite **išlaidų valdymas + atsiskaitymas**.
-2. Pasirinkite prenumeratą, į kurią norite įtraukti debeto arba kredito kortelę. Pasirinkite **mokėjimo būdai**.
-3. Viršutiniame kairiajame kampe pasirinkite, **+** kad įtrauktumėte kortelę. Debeto/kredito kortelės forma bus rodoma dešinėje. Įvesk debeto arba kredito kortelės duomenis.
-4. Norėdami, kad ši kortelė būtų aktyvus mokėjimo būdas, pažymėkite žymės langelį, kad **tai būtų mano aktyvusis mokėjimo būdas** formos viršuje. Ši kortelė taps aktyvi mokėjimo priemone visoms prenumeratoms, naudojančiomis tą pačią kortelę kaip ir pasirinkta prenumerata. Pasirinkite **Pirmyn**.
-5. Spustelėkite **nustatyti aktyvią**. 
+1. Prisijunkite prie ["Azure" portalo](https://ms.portal.azure.com/) kaip [paskyros administratorius](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Pasirinkite **Išlaidų valdymas + Atsiskaitymas**.
+2. Pasirinkite prenumeratą, į kurią norite įtraukti debeto arba kredito kortelę. Pasirinkite **Mokėjimo būdai**.
+3. Viršutiniame kairiajame kampe pasirinkite, **+** kad įtrauksite kortelę. Dešinėje bus rodoma debeto / kredito kortelės forma. Įveskite debeto arba kredito kortelės informaciją.
+4. Norėdami padaryti šią kortelę aktyviu mokėjimo būdu, pažymėkite žymės langelį šalia Padaryti šį **aktyvų** mokėjimo būdą formos viršuje. Ši kortelė taps aktyvia mokėjimo priemone visoms prenumeratoms, kurios naudoja tą pačią kortelę kaip ir pasirinkta prenumerata. Pasirinkite **Pirmyn**.
+5. Spustelėkite **Nustatyti aktyvų**. 
  
-**Esamos debeto arba kredito kortelės naujinimas/keitimas/šalinimas**
+**Esamos debeto arba kredito kortelės naujinimas / keitimas / pašalinimas**
 
-1.  Prisijunkite prie " [Azure" portalo](https://portal.azure.com/) kaip [abonemento administratoriaus](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Ieškokite **išlaidų valdymo + atsiskaitymas**.
-2.  Pasirinkite **mokėjimo būdai**. Spustelėkite debeto arba kredito kortelę, kurią norėtumėte redaguoti. Debeto/kredito kortelės forma bus rodoma dešinėje.
-3.  Atnaujinkite debeto arba kredito kortelės informaciją. Pasirinkite **įrašyti**.
-4.  Norėdami **pašalinti**, pažymėkite žymės langelį, esantį prie norimos pašalinti kortelės.
+1.  Prisijunkite prie ["Azure" portalo](https://portal.azure.com/) kaip [paskyros administratorius](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Ieškokite Išlaidų **valdymas + Atsiskaitymas**.
+2.  Pasirinkite **Mokėjimo būdai**. Spustelėkite debeto arba kredito kortelę, kurią norite redaguoti. Dešinėje bus rodoma debeto / kredito kortelės forma.
+3.  Atnaujinkite debeto arba kredito kortelės informaciją. Pasirinkite **Įrašyti**.
+4.  Norėdami **pašalinti**, pažymėkite žymės langelį šalia kortelės, kurią norite pašalinti.
 5.  Spustelėkite **Naikinti**.
 
-**Pastaba**: negalite pašalinti debeto/kredito kortelės, jei ji susieta su kitomis aktyviomis "Microsoft" prenumeratomis. Turėsite pašalinti debeto/kredito kortelę iš visų aktyvių prenumeratų, kuriuos turite su "Microsoft", ir bandykite dar kartą.
+**Pastaba:** negalite pašalinti debeto / kredito kortelės, jei ji susieta su kitomis aktyviomis "Microsoft" prenumeratomis. Turėsite pašalinti debeto / kredito kortelę iš visų aktyvių prenumeratų, kurias turite su "Microsoft", ir bandykite dar kartą.
 
-Daugiau informacijos ieškokite [mokėjimo būdų naujinimas, keitimas arba šalinimas](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Daugiau informacijos žr. [Mokėjimo metodų naujinimas, keitimas arba pašalinimas](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Mokėjimo problemų šalinimas**
+**Mokėjimo trikčių šalinimas**
 
-Informacijos apie [mokėjimo triktis/klaidų scenarijus](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) , kad sužinotumėte, ar problema išspręsta.
+Žr. [Mokėjimo trikčių šalinimas / klaidų scenarijai](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues), kad pamatytumėte, ar jūsų problema gali būti išspręsta.
 
-Jei kortelės mokėjimo laukiama dėl jūsų finansinės institucijos, atsisakančių jūsų kortelės, susisiekite su savo **finansine institucija** , kad išspręstumėte problemą. Naudokite toliau pateiktus nurodymus:
+Jei dėl to, kad jūsų finansų įstaiga neigia jūsų kortelę, kortelėje yra  laukiantis mokėjimas, susisiekite su savo finansų įstaiga, kad išspręsite problemą. Naudokitės žemiau pateiktais patarimais:
 
-- Jums gali tekti patikrinti banką, kad pamatytumėte: 
-    - Jei kortelė įgalinta tarptautinėje operacijoje
-    - Jeigu kortelė turi kredito limitą, kad padengtų likutį
-    - Jei kortelėje įgalintas pasikartojantis mokėjimas
+- Jums gali tekti pasitikrinti banką, kad pamatytumėte: 
+    - Jei kortelėje įgalinta tarptautinė operacija
+    - Ar kortelėje nustatytas kredito limitas, kad būtų apmokėtas likutis
+    - Ar kortelėje įgalintas pasikartojantis atsiskaitymas
 
 **Rekomenduojami dokumentai**
 
 - [Sąskaitų faktūrų nustatymas](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
-- [Mokėjimo būdo keitimas – DUK](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Atsiskaitymo profilio mokėjimo būdo keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Prieigos prie "Microsoft" kliento sutarties tikrinimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [DUK: Mokėjimo būdo keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Atsiskaitymo profilio mokėjimo metodo keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Prieigos prie „Microsoft“ kliento sutarties patikrinimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
