@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913146"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Prenumeratų perjungimas norint padidinti pašto dėžutės dydį
 
 Jei jūsų pašto dėžutės dydis jau yra 100 GB, jos padidinti negalima.
   
-Jei pašto dėžutės dydis yra 50 GB, galite jį padidinti iki 100 GB perjungdami į ["Office 365 Enterprise E3" arba](https://products.office.com/business/office-365-enterprise-e3-business-software) ["Office 365 Enterprise E5".](https://products.office.com/business/office-365-enterprise-e5-business-software) Toliau pateikiami veiksmai, kaip perjungti į kitą prenumeratą:
+Jei pašto dėžutės dydis yra 50 GB, galite jį padidinti iki 100 GB perjungdami [į "Office 365 Enterprise E3"](https://products.office.com/business/office-365-enterprise-e3-business-software) [arba "Office 365 Enterprise E5".](https://products.office.com/business/office-365-enterprise-e5-business-software) Toliau pateikiami veiksmai, kaip perjungti į kitą prenumeratą:
   
-1. "Microsoft 365" administravimo centre  eikite į puslapį \> **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Puslapio "Microsoft 365" administravimo centras eikite į puslapį  \> **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pasirinkite prenumeratą, kurią norite atnaujinti.
 

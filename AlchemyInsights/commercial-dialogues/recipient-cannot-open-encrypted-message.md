@@ -1,5 +1,5 @@
 ---
-title: Problemos peržiūros apsaugotojo pranešimo taisymas programoje "Outlook"
+title: Apsaugoto laiško peržiūros problemos sprendimas Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750062"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967161"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>"Outlook" apsaugoto pranešimo peržiūros problemos sprendimas
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Apsaugoto laiško peržiūros "Outlook
 
-Jei gavėjui kyla problemų atidarant šifruotą pranešimą, įsitikinkite, kad gavėjas spusteli pranešimo saitą, kad prašytų vienkartinio kodo.
+Jei gavėjui kyla problemų atidarant šifruotą laišką, įsitikinkite, kad gavėjas spustelės laiške pateiktą saitą, kad paprašytų vienkartinį slaptažodį.
 
-Norėdami atidaryti šifruotus duomenis, vartotojai turi atlikti šiuos veiksmus:
+Norėdami atidaryti šifruotus pranešimus, vartotojai turi atlikti šiuos veiksmus:
 
-1. Atsižvelgiant į naudojamą elektroninio pašto klientą, spustelėkite **skaityti laišką** arba panašų raginimą. Vartotojai peradresuojami į puslapį, kuriame jie gali prisijungti ir gauti vienkartinio naudojimo kodą.
+1. Atsižvelgiant į naudojamą el. pašto klientą, spustelėkite **Skaityti pranešimą arba** panašų raginimą. Vartotojai nukreipiami į puslapį, kuriame jie gali prisijungti ir gauti vienkartinį kodą.
 
 > [!NOTE]
-> "Gmail" vartotojams bus paprašyta prisijungti naudojant "Gmail". Pranešimas bus atidaromas naujame skirtuke spustelėjus **leisti**.
+> "Gmail" vartotojams jų bus paprašyta prisijungti naudojant "Gmail". Spustelėjus Leisti, pranešimas bus atidarytas naujame **skirtuke.**
 
-2. Patikrinkite savo el. paštą vienkartiniam kodui, tada įveskite šį kodą naršyklės lange.
+2. Patikrinkite, ar el. laiške yra vienkartinis kodas, tada įveskite jį naršyklės lange.
 
-3. Spustelėkite **tęsti** , kad perskaitytumėte pranešimą.
+3. Norėdami **perskaityti** pranešimą, spustelėkite Tęsti.
 
-Daugiau informacijos ieškokite [šifruotų žinučių siuntimas, peržiūra ir atsakymas į "Outlook" asmeniniam kompiuteriui](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Daugiau informacijos žr. [Šifruotų pranešimų siuntimas,](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)peržiūra ir Outlook kompiuteryje .
 
 

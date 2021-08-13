@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 80e8cc72db8ae32445d48e5c8a411d5ccd538626653260b3dbd28a247561e888
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975109"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>"Exchange" sąlyginės prieigos stebėjimas
+# <a name="monitoring-conditional-access-for-exchange"></a>"Exchange
 
-Vartotojai, kurie orientuoti naudojant sąlyginę prieigą, gaus pranešimą elektroniniu paštu, jei jie neatitinka jūsų organizacijos prieigos reikalavimų. Norėdami išspręsti problemą, rekomenduojame vieną ar kelis iš šių sprendimų:
+Vartotojai, kuriems skirta sąlyginė prieiga, gaus pranešimo el. laišką, jei jie neatitinka jūsų organizacijos prieigos reikalavimų. Norėdami išspręsti problemą, rekomenduojame vieną ar daugiau iš šių sprendimų:
 
-- Jei manoma, kad įrenginys bus užregistruotas, patarkite vartotojui eiti į įmonės portalo programą ir patikrinkite, ar ji rodoma įmonės portale. Jei ne, vartotojas turi registruotis įrenginyje.
-- "Azure" portale eikite į Intune > įrenginio atitiktis. Dalyje monitorius spustelėkite įrenginio atitiktis. Peržiūrėkite savo įrenginio atitikties ataskaitą, kad patikrintumėte, ar vartotojo įrenginys pažymėtas kaip suderinamas.
-- "Azure" portale eikite į Intune > įrenginio atitiktis. Dalyje tvarkyti spustelėkite strategijos. Atitikties strategijų sąraše patikrinkite, ar profilis priskirtas jūsų vartotojo įrenginiui. Jei nepriskirtas joks profilis, tada Intune negalės patvirtinti įrenginio atitikties būsenos.
-- Vartotojo sąlyginės prieigos priskyrimo redagavimas.
+- Jei manoma, kad įrenginys yra įtrauktas į registrą, pateikite vartotojui Company Portal programėlę ir patikrinkite, ar jis rodomas Company Portal. Jei taip nėra, vartotojas turėtų užregistruoti įrenginį.
+- "Azure" portale eikite į "Intune" > įrenginio atitiktį. Dalyje Monitorius spustelėkite Įrenginio atitiktis. Peržiūrėkite įrenginio atitikties ataskaitą ir patikrinkite, ar vartotojo įrenginys pažymėtas kaip suderinamas.
+- "Azure" portale eikite į "Intune" > įrenginio atitiktį. Dalyje Valdyti spustelėkite Strategijos. Atitikties strategijų sąraše patikrinkite, ar profilis priskirtas jūsų vartotojo įrenginiui. Jei profilis nepriskirtas, "Intune" negalės patvirtinti įrenginio atitikties būsenos.
+- Redaguokite vartotojo sąlyginės prieigos priskyrimą.
 
-1. "Azure" portale eikite į " **Intune**"  >  **sąlyginės prieigos**  >  **strategijas**.
-2. Sąraše pasirinkite strategiją.
-3. Spustelėkite vartotojai ir grupės.
-4. Norėdami nukreipti tam tikrą strategiją į ką nors, įtraukite jas į sąrašą įtraukti. Norėdami užtikrinti, kad asmuo būtų praleistas strategijoje, įtraukite juos į sąrašą neįtraukti.
+1. "Azure" portale eikite į **"Intune"**  >  **sąlyginės prieigos**  >  **strategijos**.
+2. Pasirinkite strategiją iš sąrašo.
+3. Spustelėkite Vartotojai ir grupės.
+4. Norėdami kam nors taikyti tam tikrą strategiją, įtraukite jas į sąrašą Įtraukti. Norėdami užtikrinti, kad asmuo būtų neįtrauktas į strategiją, įtraukite jį į sąrašą Neįtraukti.
 
 Naudingi saitai:
 
 [Įrenginio atitikties apžvalga](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Trikčių diagnostika CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[CA trikčių diagnostika](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Trikčių šalinimo strategija](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+[Trikčių diagnostikos strategija](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 ["Intune" įrenginio atitikties stebėjimas](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Pastaba: šie veiksmai naudingi tik šalinant "Azure Active Directory" funkcijos sąlyginę prieigą. Taip pat galima sulaikyti įrenginį, kuris blokuoja prieigą prie "Exchange" strategijos. Daugiau informacijos apie "Exchange" įrenginių valdymą galima rasti [čia] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
+Pastaba: šie veiksmai naudingi tik šalinant ""Azure Active Directory" sąlyginę prieigą. Taip pat galima sulaikyti įrenginį, blokuojančią jo el. pašto prieigą, naudojant Exchange strategiją. Daugiau informacijos apie Exchange įrenginių valdymą rasite [čia]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

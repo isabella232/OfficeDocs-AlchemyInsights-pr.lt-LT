@@ -1,5 +1,5 @@
 ---
-title: Laiškų perkėlimas į archyvo pašto dėžutę
+title: El. laiškų perkėlimas į archyvo pašto dėžutę
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,28 +13,28 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e72766f441e210a81fcfd6c07b1801f6c0474afb02a70edf2ad8dbb571f3d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974965"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Perkelti laišką į archyvo pašto dėžutę
+# <a name="move-email-to-the-archive-mailbox"></a>El. pašto perkėlimas į archyvo pašto dėžutę
 
-Jei norite, kad būtų atlikti automatizuoti toliau nurodytų parametrų tikrinimai, pasirinkite mygtuką atgal <--šio puslapio viršuje, tada įveskite vartotojo, kuris turi problemų perkeliant laiškus į archyvo pašto dėžutę, el. pašto adresą.
+Jei norite, kad automatiškai patikrindami toliau nurodytus parametrus, šio puslapio viršuje pasirinkite mygtuką Atgal <- ir įveskite vartotojo, kuris susiduria su problemomis perkeliant el. paštą į savo archyvo pašto dėžutę, el. pašto adresą.
 
-1. Patikrinkite, ar įgalintas **archyvo pašto dėžutė** . Jei ne, atlikite [šiame straipsnyje](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) nurodytus veiksmus, kad įgalintumėte archyvo pašto dėžutę.
+1. Patvirtinkite, **kad įgalinta archyvo** pašto dėžutė. Jei ne, atlikite šiame straipsnyje nurodytus [veiksmus, kad įgalintumėte](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) archyvo pašto dėžutę.
 
-2. Kad laiškai automatiškai būtų archyvuojami į archyvo pašto dėžutę, saugojimo žymė su veiksmu **perkelti į archyvą** turi būti nustatyta **automatiškai pritaikyta visai pašto dėžutei (numatytoji)**. Atlikite toliau nurodytus veiksmus, kad sukurtumėte žymę: [archyvuoti numatytąjį žymę](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Norint automatiškai archyvuoti laiškus į archyvo pašto dėžutę, saugojimo žymė su veiksmu Perkelti į **archyvą** turi būti nustatyta automatiškai taikyti visai pašto **dėžutės (numatytoji) žymai.** Norėdami sukurti žymę, atlikite čia nurodytus veiksmus: [Archyvuoti numatytąją žymę](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Tada įtraukite **archyvo** žymę į saugojimo strategiją. "Exchange" administravimo centre pasirinkite **saugojimo strategijos** > įtraukite **perkėlimo į archyvą žymę** į strategiją > **įrašyti**.
+3. Tada įtraukite **archyvo žymę** į saugojimo strategiją. Administravimo Exchange pasirinkite Saugojimo strategijos ir **>** žymę Perkelti į **archyvą** į strategiją, > **Įrašyti.**
 
-4. Dabar [priskirkite saugojimo strategiją](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) konkrečiam vartotojo pašto dėžutei. Ta pati strategija bus taikoma ir **pirminės** ir **archyvo** pašto dėžutei.
+4. Dabar [priskirkite saugojimo strategiją](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) konkretaus vartotojo pašto dėžutei. Ta pati strategija bus taikoma ir pašto dėžutėms **Pirminis,** ir **Archyvuoti.**
 
-Gali reikėti priverstinai vykdyti valdomojo aplanko asistentą (MFA) ir taikyti naujus parametrus vartotojo pašto dėžutei. Norėdami paleisti konkrečios pašto dėžutės valdomojo aplanko asistentą, būdami [prisijungę prie "EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) " vykdykite šią komandą:
+Gali tekti priversti valdomojo aplanko pagalbinę priemonę (MFA) vykdyti ir taikyti naujus parametrus vartotojo pašto dėžutei. Vykdykite šią komandą, kai [esate prisijungę prie "EXO PowerShell",](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) kad paleisite konkrečios pašto dėžutės valdomų aplankų pagalbinę priemonę:
   
-Start – ManagedFolderAssistant – tapatybė <name of the mailbox>
+Start-ManagedFolderAssistant -Identity <name of the mailbox>
 
-Daugiau informacijos apie archyvavimo strategijos nustatymą rasite [pašto dėžučių archyvavimo ir naikinimo strategijos nustatymas](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Daugiau informacijos apie archyvo strategijos nustatymą žr. [Pašto dėžučių archyvavimo ir naikinimo strategijos nustatymas](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

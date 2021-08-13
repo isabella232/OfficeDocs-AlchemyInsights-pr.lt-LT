@@ -1,5 +1,5 @@
 ---
-title: Kaip pakeisti kalbą programoje "Outlook.com"
+title: Kaip pakeisti kalbą "Outlook.com"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913291"
 ---
 # <a name="change-your-language"></a>Kalbos keitimas
 
-1. Jei norite, kad "Outlook" kalba būtų "Outlook", eikite į [**kalbos ir laiko**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) parametrai (**parametrų** \> **rodinys visos "Outlook" nuostatos**–  >  **bendrą**  >  **kalbą ir laiką**).
+1. Norėdami "Outlook" kalbą, eikite į Kalbos ir laiko [**parametrai**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Parametrai Peržiūrėti** visus \> **Outlook parametrai**  >  **Bendra** kalba  >  **ir laikas**).
 
 2. Pasirinkite savo kalbą.
 
-3. Pasirinkite **įrašyti**.
+3. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau, žiūrėkite [laiko juostos ir kalbos parametrų keitimas "Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132)".
+Norėdami sužinoti daugiau, [žr. Laiko juostos ir kalbos parametrų keitimas Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
