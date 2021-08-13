@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Flow\" specializuotas palaikymas"
+title: "\"Microsoft Flow\" Specializuotas palaikymas"
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975937"
 ---
-# <a name="microsoft-flow-specialized-support"></a>"Microsoft Flow" specializuotas palaikymas
+# <a name="microsoft-flow-specialized-support"></a>"Microsoft Flow" Specializuotas palaikymas
 
-Jei reikia specializuoto "Microsoft Flow" palaikymo, eikite į naują " [Power Platform" administravimo centrą](https://aka.ms/flowadminsupport). Naujajame portale pateikiamas daugiau tiesioginis kelias į pagalbinę pagalbą, optimizuotą "Microsoft Flow" ir kitiems "Power Platform" produktams.
+Jei reikia "Microsoft Flow" palaikymo, eikite į naują ["Power Platform" administravimo centrą](https://aka.ms/flowadminsupport). Naujasis portalas suteikia daugiau tiesioginio palaikymo, kuris optimizuotas ""Microsoft Flow" ir kitiems "Power platform" produktams.
 
-sužinoti daugiau, sužinok daugiau:
-- [Informacija apie "Microsoft Flow" nemokamas licencijas](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Srautas organizacijos DUK](https://go.microsoft.com/fwlink/?linkid=2072608)
-- ["Microsoft 365" ir "Dynamics 365" planai, kuriuose yra "Microsoft Flow"](https://go.microsoft.com/fwlink/?linkid=2072406)
-- ["Microsoft Flow" atsiskaitymo ir dozavimo klausimai](https://go.microsoft.com/fwlink/?linkid=2072612)
+Sužinokite daugiau:
+- [Informacija apie ""Microsoft Flow" Nemokamas licencijas](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow jūsų organizacijos DUK](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 "Dynamics 365" planai, kuriuose yra "Microsoft Flow"](https://go.microsoft.com/fwlink/?linkid=2072406)
+- ["Microsoft Flow" atsiskaitymo ir matavimo klausimų](https://go.microsoft.com/fwlink/?linkid=2072612)

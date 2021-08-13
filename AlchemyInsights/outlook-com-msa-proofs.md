@@ -1,5 +1,5 @@
 ---
-title: Outlook.com MSA įrodymai
+title: Outlook.com MSA proofs
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983965"
 ---
 # <a name="security-info-and-security-codes"></a>Saugos informacija ir saugos kodai
 
-Norėdami į savo "Microsoft" paskyrą įtraukti saugos informacijos:
+Norėdami į "Microsoft" paskyrą įtraukti saugos informacijos:
 
-1. Prisijunkite prie [saugos pagrindų](https://account.microsoft.com/security) naudodami savo "Microsoft" paskyrą.
-1. Pasirinkite **saugos kontakto informacija**.
-1. Pasirinkite **įtraukti saugos informaciją** ir vykdykite nurodymus, kad įvestumėte telefono numerį arba el. pašto adresą.
-1. Gausite saugos kodą tuo telefono numeriu arba el. pašto adresu. Įveskite saugos kodą, kurį gavote lange **įtraukti saugos informaciją** ir pasirinkite **Pirmyn**.
+1. Prisijunkite prie saugos [pagrindai naudodami savo](https://account.microsoft.com/security) "Microsoft" paskyrą.
+1. Pasirinkite **Saugos kontaktinė informacija**.
+1. Pasirinkite **Įtraukti saugos informaciją ir** vykdykite nurodymus, kad įvesite telefono numerį arba el. pašto adresą.
+1. Tuo telefono numeriu arba el. pašto adresu gausite saugos kodą. Įveskite saugos kodą, kurį gavote lange **Įtraukti saugos informaciją** ir pasirinkite **Pirmyn**.
 
-Jei norite pašalinti telefono numerį arba elektroninio pašto adresą, pasirinkite **pašalinti** prie jo.
+Jei norite pašalinti telefono numerį arba el. pašto adresą, **šalia jo pasirinkite** Šalinti.
 
-Jei norite pakeisti, kuris telefono numeris arba elektroninio pašto adresas gauna saugos įspėjimus, pasirinkite **keisti įspėjimų parinktis**.
+Jei norite pakeisti, kuris telefono numeris arba el. pašto adresas gauna saugos įspėjimus, pasirinkite **Keisti įspėjimo parinktis**.
 
-Norėdami sužinoti daugiau, skaitykite ["Microsoft" paskyros saugos informaciją ir patvirtinimo kodus](https://support.microsoft.com/help/12428/).
+Norėdami sužinoti daugiau, skaitykite ["Microsoft" paskyros saugos informaciją ir patvirtinimo kodus.](https://support.microsoft.com/help/12428/)

@@ -1,5 +1,5 @@
 ---
-title: 305 padidinti archyvo pašto dėžutės dydį
+title: 305 Archyvo pašto dėžutės dydžio didinimas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926397"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Archyvo pašto dėžutės dydžio padidinimas
+# <a name="increase-the-archive-mailbox-size"></a>Archyvo pašto dėžutės dydžio didinimas
 
 
-Jei norite, kad būtų atlikti automatizuoti toliau nurodytų parametrų tikrinimai, pasirinkite mygtuką atgal <--šio puslapio viršuje, tada įveskite vartotojo, kuriam reikia padidinti archyvo pašto dėžutės dydį, el. pašto adresą.
+Jei norite, kad atliktų automatinį toliau nurodytų parametrų patikrinimą, šio puslapio viršuje pasirinkite mygtuką atgal <- ir įveskite vartotojo, kuriam reikia padidinti archyvo pašto dėžutės dydį, el. pašto adresą.
 
-"Microsoft" 365 [riboja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) archyvo pašto dėžučių dydį pagal licenciją, priskirtą vartotojo abonementui. Kai archyvo pašto dėžutė pasiekia 90% jo leidžiamo dydžio, vartotojas gauna pranešimą apie laišką. Kai archyvo pašto dėžutė pasiekia jo dydžio limitą, vartotojas negalės perkelti daugiau elementų į archyvo pašto dėžutę. "Microsoft 365" nepadidins archyvo pašto dėžutės dydžio, kai pasiekiama dydžio riba. Vietoj to, vartotojai gali atlikti šiuos veiksmus, kad atlaisvintumėte vietos archyvo pašto dėžutėje:
+Microsoft 365 [riboja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) archyvo pašto dėžučių dydį pagal vartotojo paskyrai priskirtą licenciją. Kai archyvo pašto dėžutė pasiekia 90 % leidžiamo dydžio, vartotojas gauna el. laišką. Kai archyvo pašto dėžutė pasiekia savo dydžio limitą, vartotojas negali perkelti daugiau elementų į archyvo pašto dėžutę. Microsoft 365 pašto dėžutės dydžio nepadidins pasiekus dydžio limitą. Vietoj to vartotojai gali atlikti šiuos veiksmus, kad atlaisvinti vietos archyvo pašto dėžutėje:
 
-- Eksportuokite elementus į. pst failą naudodami "Outlook".
+- Eksportuokite elementus į .pst failą naudodami Outlook.
 
 - Naikinti elementus iš archyvo pašto dėžutės.
 
-"Microsoft 365" leidžia **neribotą archyvavimą** naudoti "Office 365 Enterprise E3" ir "E5" licencijas. Administratorius turi įgalinti šią funkciją prieš tai, kai archyvo pašto dėžutė pasiekia maksimalų dydį. Įgalinus neribotą archyvavimą, ji gali užtrukti iki 30 dienų prieš įtraukiant į archyvo pašto dėžutę laisvą vietą. Todėl rekomenduojame administratoriams patikrinti laisvą vietą archyvo pašto dėžutėje, kuri leidžia vartotojui toliau naudoti archyvo pašto dėžutę, kol ji plečiasi. Daugiau informacijos ieškokite [neriboto archyvavimo "microsoft 365" apžvalga](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) ir [neriboto archyvavimo naudojimas "Microsoft 365"](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Microsoft 365 suteikia **neribotą archyvavimą** E3 Office 365 Enterprise E5 licencijoms. Administratorius turi įgalinti šią funkciją, kol archyvo pašto dėžutė pasiekia maksimalų dydį. Įgalinus neribotą archyvavimą, gali užtrukti iki 30 dienų, kol į archyvo pašto dėžutę bus įtraukta laisvos vietos. Todėl rekomenduojame administratoriams patikrinti laisvos vietos archyvo pašto dėžutėje, kuri leidžia vartotojui toliau naudoti archyvo pašto dėžutę, kol ji išplečiama. Daugiau informacijos [žr. Neriboto archyvavimo "Microsoft 365"](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) ir ["Enable unlimited archiving in Microsoft 365"](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-Daugiau informacijos apie prieigą prie archyvo pašto dėžutės iš "Outlook" ieškokite ["Outlook" elementų prieigos prie automatinio išplėstinio archyvo reikalavimai](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Norėdami konfigūruoti saugojimo strategiją, kuri automatiškai perkelia elementus į archyvo pašto dėžutę, peržiūrėkite ["Microsoft" 365 organizacijos pašto dėžučių archyvo ir naikinimo strategijos nustatymas](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Daugiau informacijos, kaip pasiekti archyvo pašto dėžutę iš Outlook, žr. Outlook, kaip pasiekti elementus [automatiškai išplėstame archyve.](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) Norėdami konfigūruoti saugojimo strategiją, kuri automatiškai perkelia elementus į archyvo pašto dėžutę, žr. Archyvo ir naikinimo strategijos nustatymas pašto [dėžutėms jūsų Microsoft 365 organizacijoje.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Pastaba**: automatinio Išplečiamasis Archyvas nepalaikomas "Exchange 2010" pagrindinėms pašto dėžutėms.
+**Pastaba:** automatinis archyvų išplėtimas nepalaikomas 2010 m. "Exchange pašto dėžutėse.
