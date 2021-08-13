@@ -1,5 +1,5 @@
 ---
-title: Klausimai ir problemos dėl išteklių prieigos
+title: Klausimai ir problemos, susijusios su išteklių prieiga
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967305"
 ---
-# <a name="questions-and-issues-with-resource-access"></a>Klausimai ir problemos dėl išteklių prieigos
+# <a name="questions-and-issues-with-resource-access"></a>Klausimai ir problemos, susijusios su išteklių prieiga
 
-Informacijos apie profilių tipus Intune palaiko, kad vartotojai galėtų naudotis įmonės infrastruktūra ir ištekliais, žiūrėkite:
+Informacijos apie profilių tipus "Intune" palaiko, kad vartotojai galėtų pasiekti įmonės infrastruktūrą ir išteklius, žr.:
 
-- ["Microsoft Intune" įrenginių Wi-Fi parametrų pridėjimas ir naudojimas](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [Įtraukite ir naudokite Wi-Fi parametrus savo įrenginiuose "Microsoft Intune"](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
 - [El. pašto parametrų įtraukimas į įrenginius naudojant "Intune"](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [Autentifikavimo sertifikatų naudojimas "Microsoft Intune"](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [VPN profilių prijungimas prie VPN serverių "Intune"](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [Autentifikavimo sertifikatų naudojimas ""Microsoft Intune"](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [VPN profilių kūrimas norint prisijungti prie VPN serverių "Intune"](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Skaitykite daugiau...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

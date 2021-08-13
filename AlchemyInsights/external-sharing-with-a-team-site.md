@@ -1,5 +1,5 @@
 ---
-title: Išorinis bendras naudojimas su komandos svetaine
+title: Išorinis bendrinimas su komandos svetaine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977701"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Išorinis bendras naudojimas su komandos svetaine
+# <a name="external-sharing-with-a-team-site"></a>Išorinis bendrinimas su komandos svetaine
 
-Norėdami įjungti išorinius vartotojų mainus komandos svetainėse, atlikite šiuos veiksmus: 
+Norėdami įjungti išorinį vartotojų bendrinimą komandos svetainėse, atlikite šiuos veiksmus: 
   
-1. Naujajame "SharePoint" administravimo centre spustelėkite **aktyvios svetainės**.
+1. Naujame administravimo SharePoint spustelėkite Aktyvios **svetainės**.
   
-2. Pasirinkite svetainę, kurioje yra **komandos svetainės** šablonas. 
+2. Pasirinkite svetainę, kuri turi **komandos svetainės** šabloną. 
   
-3. Viršutiniame meniu pasirinkite mygtuką **dalytis** . 
+3. Viršutiniame **meniu** pasirinkite mygtuką Bendrinimas. 
   
- **Pastaba**: pagal numatytuosius, kai sukuriama moderni komandos svetainė, išorinio naudojimo parinktis bus nustatyta naujiems ir esamiems išoriniams vartotojams. 
+ **Pastaba:** pagal numatytuosius nustatymus sukūrus modernią komandos svetainę, išorinio bendrinimo parinktis bus nustatyta kaip Nauji ir esami išoriniai vartotojai. 
   
- **Pastaba:** Jei pažymėjote daugiau nei vieną svetainę, mygtukas **dalytis** bus išjungtas. Pasirinkite tik vieną svetainę. 
+ **Pastaba:** Jei pasirinkote daugiau nei vieną svetainę, mygtukas **Bendrinimas** bus išjungtas. Pasirinkite tik vieną svetainę. 
   
 

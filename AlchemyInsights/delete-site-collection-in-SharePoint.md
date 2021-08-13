@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948171"
 ---
 # <a name="delete-a-site"></a>Svetainės naikinimas
 
-Kai naikinate svetainę, ji perkeliama į panaikintas svetaines ir išsaugoma "93" dienoms. Norėdami panaikinti svetainę, eikite į [aktyvūs tinklapiai](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Kai panaikinate svetainę, ji perkeliama į panaikintas svetaines ir išlaikoma 93 dienas. Norėdami panaikinti svetainę, eikite į [Aktyvios svetainės](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Panaikinus svetainę, viskas joje panaikinama, įskaitant:
+Kai panaikinate svetainę, panaikinama visa jos dalis, įskaitant:
 
 - Dokumentų bibliotekos ir failai.
-- Sąrašus ir sąrašų duomenis.
+- Sąrašų ir sąrašo duomenys.
 - Svetainės parametrai ir retrospektyva.
-- Bet kurios antrinės svetainės ir jų turinys.
+- Visos antrinės svetainės ir jų turinys.
 
-Prieš panaikindami svetainę, turite pranešti svetainės administratoriams ir visiems antrinių svetainių savininkams, kad jie galėtų perkelti savo duomenis į kitą vietą ir taip pat pranešti vartotojams, kai svetainės bus panaikintos.
+Prieš panaikindami svetainę, turėtumėte pranešti svetainės administratoriams ir antrinių svetainių savininkams, kad jie galėtų perkelti savo duomenis į kitą vietą, taip pat pranešti vartotojams, kada svetainės bus naikinamos.
 
-Daugiau informacijos ieškokite [svetainės naikinimas](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Daugiau informacijos [žr. Svetainės naikinimas](https://docs.microsoft.com/sharepoint/delete-site-collection).
