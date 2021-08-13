@@ -1,5 +1,5 @@
 ---
-title: Konfigūracijos tvarkytuvo naudojimas diegiant, naujinant ir valdant "Microsoft Edge" sistemoje "Windows"
+title: Konfigūracijos tvarkytuvo naudojimas norint diegti, naujinti ir valdyti Microsoft Edge Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919549"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Konfigūracijos tvarkytuvo naudojimas diegiant, naujinant ir valdant "Microsoft Edge" sistemoje "Windows"
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Konfigūracijos tvarkytuvo naudojimas norint diegti, naujinti ir valdyti Microsoft Edge Windows
 
-Kaip ir konfigūravimo tvarkytuvo versija 1910, galite įdiegti "Microsoft Edge" (versijas 77 ir naujesnę) naudodami "PowerShell" scenarijų. Scenarijus išjungia automatinius naujinimus, todėl galite valdyti naujinimus naudodami konfigūravimo tvarkytuvą. Jei norite daugiau sužinoti apie šią ir kitą konfigūravimo tvarkytuvo naudojimo naudą, skaitykite ["Microsoft Edge Management"](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+Nuo konfigūracijos tvarkytuvo 1910 versijos galite įdiegti "Microsoft Edge (77 ir naujesnės versijos) naudodami "PowerShell" scenarijų. Scenarijus išjungia automatinius naujinimus, o tai leidžia valdyti naujinimus naudojant konfigūracijos tvarkytuvą. Norėdami sužinoti daugiau apie tai ir kitus konfigūracijos tvarkytuvo naudojimo pranašumus, [žr. Microsoft Edge valdymas.](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)

@@ -1,5 +1,5 @@
 ---
-title: Kontaktų įtraukimas į spartųjį rinkimą
+title: Kontaktų įtraukimas į spartų skambinimą
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954561"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Kontaktų įtraukimas į spartųjį rinkimą
+# <a name="add-contacts-to-speed-dial"></a>Kontaktų įtraukimas į spartų skambinimą
 
-1. Dalyje  **pokalbiai**eikite į  **Kontaktai**.
-2. Jei matote asmens, kurį norite įtraukti į spartųjį rinkimą, kortelę, savo kortelėje pasirinkite  **daugiau parinkčių**  (trys taškai) ir pasirinkite  **įtraukti į spartųjį rinkimą**.
+1. **Skambučiuose** eikite į **Kontaktai**.
+2. Jei matote kortelę asmeniui, kurį norite įtraukti į spartų skambinimą, savo kortelėje pasirinkite Daugiau parinkčių  **(trys**  taškai) ir  **pasirinkite Įtraukti į spartų skambinimą**.
 
-Jei nematote asmens, viršutiniame dešiniajame ekrano kampe pasirinkite  **įtraukti spartųjį rinkimą**  , pradėkite vesti jo vardą, pasirinkite asmenį, tada pasirinkite  **įtraukti**.
+Jei nematote asmens, ekrano  viršuje dešinėje pasirinkite Įtraukti spartų ratuką, pradėkite įvesti jo vardą, pasirinkite asmenį, tada pasirinkite **Įtraukti**.

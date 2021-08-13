@@ -1,5 +1,5 @@
 ---
-title: Kaip "Microsoft Edge" naudoja "Microsoft" sargybos "SmartScreen"?
+title: Kaip Microsoft Edge naudoti "Microsoft" sargybos "SmartScreen"?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926937"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Kaip "Microsoft Edge" naudoja "Microsoft" sargybos "SmartScreen"
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Kaip Microsoft Edge naudoti "Microsoft" sargybos "SmartScreen"
 
-Kad apsaugotų jus žiniatinklyje, "Microsoft Edge" naudoja "Microsoft" sargybos "SmartScreen" kaip išankstinio įspėjimo sistemą prieš svetaines, kurios užpuola sukčiavimo apsimetant ir platina kenkėjiškas programas per sutelktas atakas.
+Kad apsaugotų jus žiniatinklyje, "Microsoft Edge" naudoja "Microsoft" sargybos "SmartScreen" kaip išankstinio įspėjimo sistemą prieš svetaines, kurios išnaudoja sukčiavimo apsimetant ataką ir platina kenkėjiškas programas per kryptingas atakas.
 
-Administratoriai gali konfigūruoti "Microsoft" sargybos "SmartScreen" naudodami grupės strategijos, "Microsoft Intune" arba mobiliųjų įrenginių valdymo (MDM) parametrus. Atsižvelgdami į tai, kaip nustatote "Microsoft" sargybos "SmartScreen", galite rodyti vartotojams įspėjimo puslapį ir leisti jiems tęsti svetainę arba visiškai blokuoti svetainę.
+Administratoriai gali konfigūruoti "Microsoft" sargybos "SmartScreen" naudodami grupės strategijos, "Microsoft Intune" arba mobiliųjų įrenginių valdymo (MDM) parametrus. Atsižvelgdami į tai, kaip "Microsoft" sargybos "SmartScreen", galite rodyti vartotojams įspėjimo puslapį ir leisti jiems tęsti svetainę arba visiškai blokuoti svetainę.
 
-Norėdami sužinoti daugiau, žr. ["Microsoft Edge" "Microsoft" sargybos "SmartScreen" ir](https://go.microsoft.com/fwlink/?linkid=2133081) ["Microsoft" sargybos programos apsaugos palaikymas.](https://go.microsoft.com/fwlink/?linkid=2132839)
+Norėdami sužinoti daugiau, [žr. Microsoft Edge ir "Microsoft" sargybos "SmartScreen"](https://go.microsoft.com/fwlink/?linkid=2133081) ["Microsoft" sargybos "Application Guard".](https://go.microsoft.com/fwlink/?linkid=2132839)

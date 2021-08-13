@@ -1,5 +1,5 @@
 ---
-title: Naudokite "Microsoft Edge" filtro formatą, skirtą URL sąrašo pagrįstoms strategijoms
+title: Url Microsoft Edge strategijų filtro formato naudojimas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 440e27e066cb8b2e8ca7d1c9e907a8c9bbd2a8cb23592c231f343442ff9e06d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919467"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Naudokite "Microsoft Edge" filtro formatą, skirtą URL sąrašo pagrįstoms strategijoms
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Url Microsoft Edge strategijų filtro formato naudojimas
 
-"Microsoft Edge" versijose 77 ir vėlesnė versija filtro formatą galima naudoti [URL sąrašui – pagrįstoms strategijoms](https://go.microsoft.com/fwlink/?linkid=2135179).
+77 Microsoft Edge naujesnėse versijose filtro formatą galima naudoti [URL sąrašu pagrįstoms politikoms.](https://go.microsoft.com/fwlink/?linkid=2135179)
