@@ -1,5 +1,5 @@
 ---
-title: "\"iOS\" parengimo profiliai taisyklės ID 1029"
+title: "\"iOS\" parengimo profiliai Taisyklės ID 1029"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925713"
 ---
 # <a name="ios-provisioning-profiles"></a>"iOS" parengimo profiliai
 
-"Apple iOS Line-of-Business" naudoja parengimo profilio koncepciją, naudojamą norint patikrinti taikomosios programos vientisumą ir vykdyti strategijas, apibrėžtas profilyje. Šie parengimo profiliai baigia galioti po 12 mėnesių, todėl naujas profilis turi būti susietas su įdiegta taikomąja programa, kad taikomosios programos galėtų veikti toliau.
+"Apple iOS line-of-business" naudoja parengimo profilio sąvoką, kuri naudojama patikrinti taikomosios programos vientisumą ir įgalinti profilyje apibrėžtas strategijas. Šių parengimo profilių galiojimas baigiasi po 12 mėnesių, todėl naujas profilis turi būti susietas su įdiegta programa, kad taikomosios programos ir toliau būtų paleidžiamos.
   
-Šiame straipsnyje aprašoma, kaip sukurti susieti naują parengimo profilį su "iOS LOB" programa, kuri buvo įdiegta per Intune: [naudokite "iOS" taikomųjų programų parengimo šablonus, kad jūsų programos nebebaigtų](https://docs.microsoft.com/intune/app-provisioning-profile-ios) .
+Šiame straipsnyje aprašoma, kaip sukurti susieti naują parengimo profilį su "iOS LOB" programa, įdiegta naudojant "Intune": "iOS" taikomųjų programų [parengimo profilių naudojimas,](https://docs.microsoft.com/intune/app-provisioning-profile-ios) kad jūsų taikomosios programos nebaigtų galioti
   

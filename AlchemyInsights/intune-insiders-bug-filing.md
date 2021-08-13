@@ -1,5 +1,5 @@
 ---
-title: "\"Intune Insider\" klaidų pateikimas"
+title: Intune Insider bug filing
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925929"
 ---
-# <a name="intune-insider-bug-filing"></a>"Intune Insider" klaidų pateikimas
+# <a name="intune-insider-bug-filing"></a>Intune Insider bug filing
 
-Dėkojame, kad domitės "Intune Insider" programos. Jei jau esate onbolipa su "Intune" "Insider" programa ir reikia pateikti palaikymo užklausą, atlikite toliau nurodytus veiksmus.
+Dėkojame, kad domitesi "Intune Insider" programa. Jei jau esate "Intune Insiders" programoje ir turite pateikti palaikymo užklausą, tada:
 
-1. Apibūdinkite problemą aukščiau esančiame lauke.
-2. Sukurkite naują paslaugos užklausą naudodami toliau pateiktas parinktis.
+1. Apibūdinkite problemą aukščiau pateiktame lauke.
+2. Sukurkite naują tarnybos užklausą naudodami toliau pateiktas parinktis.
 
 "Intune" palaikymo inžinierius susisieks su jumis.
 
-Jei nesate "Intune Insider" programos, Dėkojame už jūsų susidomėjimą. Šiuo metu neįdarbiname naujų dalyvių.
+Jei neturite "Intune Insider" programos, ačiū už jūsų susidomėjimą. Šiuo metu nesam naujų dalyvių.

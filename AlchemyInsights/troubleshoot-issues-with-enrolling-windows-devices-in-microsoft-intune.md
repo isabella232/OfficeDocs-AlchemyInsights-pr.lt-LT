@@ -1,5 +1,5 @@
 ---
-title: "\"Windows\" įrenginių registracijos \"Microsoft Intune\" trikčių šalinimas"
+title: "\"Windows\" įrenginių \"Microsoft Intune\""
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981049"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>"Windows" įrenginių registracijos "Microsoft Intune" trikčių šalinimas
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>"Windows" įrenginių "Microsoft Intune"
 
 Peržiūrėkite toliau nurodytus išteklius, kad išspręsite problemą dabar.
   
@@ -35,7 +35,7 @@ Kai kurie dažnai pasitaikę klaidų pranešimai ir sprendimo veiksmai:
 
 -  Įrenginį jau užregistravo kitas vartotojas. Tokiu atveju pašalinkite įrenginį iš "Azure Intune" konsolės arba rankiniu būdu atjunkite įrenginį prieš bandydami dar kartą.
 
--  Įrenginys yra "Windows 10 Home". Prie "Azure Active Directory" gali prisijungti tik "Windows 10 Pro", "Education" ir "Enterprise" SKU.
+-  Įrenginys yra Windows 10 Home. Prie Windows 10 Pro gali prisijungti tik "Windows 10 Pro", "Education" ir "Enterprise" "AZURE ACTIVE DIRECTORY".
 
 Papildomi ištekliai, kurie padės išspręsti problemą:
   
@@ -43,4 +43,4 @@ Papildomi ištekliai, kurie padės išspręsti problemą:
 
 -  Peržiūrėkite šiuos dokumentus, kad būtų pateikiamas sąrašas dažnai pasitaikančių klaidų, kurios neleidžia registruotis ir išspręsti kiekvieno iš jų: Trikčių diagnostikos [vadovas](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) [ir Trikčių diagnostikos dokumentas.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Sužinokite, kaip registruoti "Windows" įrenginius "Microsoft Intune".](https://docs.microsoft.com/intune/windows-enroll)
+[Sužinokite, kaip registruotis Windows įrenginiuose "Microsoft Intune".](https://docs.microsoft.com/intune/windows-enroll)

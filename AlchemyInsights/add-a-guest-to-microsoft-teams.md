@@ -1,5 +1,5 @@
 ---
-title: Svečio įtraukimas į "Microsoft Teams" (automatinis pasiūlymas)
+title: Svečio įtraukimas į Microsoft Teams (automatinis pasiūlymas)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f21eae666d2b25380f184bb2c194e5d1c12812bb78309e6b09f9f497163b8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936605"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a>Svečio įtraukimas į "Microsoft Teams"
+# <a name="add-a-guest-to-microsoft-teams"></a>Svečio įtraukimas į Microsoft Teams
 
-Kartais norėsite bendradarbiauti su žmonėmis, kurie nėra jūsų komandos organizacijoje. Dažnai tai padarysite el. paštu, bet jei norite bendradarbiauti su jais naudodami "Teams", galite įtraukti juos kaip svečius.
+Kartais norėsite bendradarbiauti su žmonėmis, kurie nėra jūsų komandos organizacijoje. Dažnai tai padarysite el. paštu, bet jei norite bendradarbiauti su jais Teams, galite įtraukti juos kaip svečius.
 
-Daugiau informacijos žr. [Svečių įtraukimas į "Teams" komandą.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
+Daugiau informacijos [žr. Svečių įtraukimas į komandą](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)Teams .
 
-**Pastaba:** Turite būti komandos savininkas, kad įtrauktumėte svečią į "Teams" (taip pat [žr. Svečių teisių nustatymas).](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)
+**Pastaba:** Turite būti komandos savininkas, kad įtrauktumėte svečią į Teams (taip pat [žr. Svečių teisių nustatymas](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).

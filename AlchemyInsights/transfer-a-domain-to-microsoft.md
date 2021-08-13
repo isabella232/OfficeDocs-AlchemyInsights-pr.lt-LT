@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980977"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Domeno perkėlimas į "Microsoft"
 
-Domenų registravimas ir atsiskaitymas negali būti perkeliami į "Microsoft".
+Domenų registracijos ir atsiskaitymo negalima perkelti į "Microsoft".
 
-Norėdami įtraukti jau savo domeną, vadovaukitės domeno [įtraukimo vedikliu](https://admin.microsoft.com/Adminportal/Domains/Wizard)arba eikite į **parametrų**  >  **domenų**  >  **įtraukimas**.
+Norėdami įtraukti domeną, kurį jau turite, vykdykite vediklį Įtraukti [domeną](https://admin.microsoft.com/Adminportal/Domains/Wizard)arba eikite **į Parametrai**  >  **Domenai Įtraukti**  >  **domeną**.
 
-Daugiau informacijos apie DNS pokyčius, reikalingus norint patvirtinti domeną, ieškokite [DNS įra ų įtraukimas, kad galėtumėte prijungti savo domeną](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Daugiau informacijos apie DNS keitimus, reikalingus jūsų domenui patikrinti, žr. [DNS įrašų įtraukimas, kad būtų galima prijungti domeną](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Jei turite klausimų apie domenus, peržiūrėkite [DUK apie domenus](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Visus klausimus, susijusius su domenais, [žr. Domenų DUK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
