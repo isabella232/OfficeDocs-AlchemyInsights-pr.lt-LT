@@ -1,5 +1,5 @@
 ---
-title: Nepristatyti "SharePoint" įspėjimų pranešimai
+title: SharePoint įspėjimų pranešimai neprisiųsti
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957909"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Nepristatyti "SharePoint" įspėjimų pranešimai
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint įspėjimų pranešimai neprisiųsti
 
-Galite patikrinti pašto šiukšlių aplanką, nes kartais gali būti įspėjimų.
+Patikrinkite aplanką NEPAGEIDAUJAMAS EL. paštas, nes kartais ten gali būti įspėjimų.
 
-Nustatykite, ar **visi įspėjimai nepristatomi** , ar **atskiras įspėjimas** iš konkretaus failo ar bibliotekos nepristatomas.
+**Nustatykite, ar neįteikite visų** **įspėjimų** arba ar neįteikite atskiro įspėjimo iš konkretaus failo ar bibliotekos.
 
-- **Atskiri įspėjimai nepristatomi**: jei nepristatomas atskiras įspėjimas iš konkretaus failo arba bibliotekos, galite pabandyti jį panaikinti ir atkurti. Norėdami atkurti įspėjimą, žr. [: "SharePoint" įspėjimų valdymas, peržiūra arba naikinimas](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- **Visi įspėjimai nepristatomi**: jei visi įspėjimai iš kelių failų arba bibliotekų nepristatomi, apsilankykite [tarnybos sveikatos ataskaitų srityje](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , kad patikrintumėte, ar yra kokių nors klausimų, kurie gali įvykti naudojant "SharePoint" arba "Exchange". Problema gali būti naudojant "SharePoint" įspėjimų galimybę arba uždelsimo laiškus naudojant "Exchange". Taip pat svarbu pastebėti, ar kitas laiškas pristatomas, o jei ne, tikėtina, kad "Exchange" vėluoja.
+- **Atskiri įspėjimai neprisiųsti**: Jei atskiras įspėjimas iš konkretaus failo ar bibliotekos neprisiųstas, galite bandyti jį panaikinti ir sukurti iš naujo. Žr. [Įspėjimų tvarkymas, SharePoint arba naikinimas,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) kad iš naujo būtų galima sukurti įspėjimą.
+- **Visi įspėjimai** neprisiųsdami: jei visi įspėjimai iš kelių [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) failų ar bibliotekų nėra pristatomi, apsilankykite tarnybos sveikatos ataskaitų srityje, kad patikrinsite, ar nėra patarimų / incidentų, kurie gali kilti naudojant "SharePoint" arba "Exchange". Problema gali būti susijusi su SharePoint įspėjimo galimybėmis arba el. laiškų delsa Exchange. Taip pat svarbu atkreipti dėmesį, ar pristatomi kiti el. laiškai, o jei ne, tikėtina, kad problema kyla dėl Exchange delsos.
 
 DUK apie įspėjimus:
 
-- Negalima išsiųsti įspėjimų siuntimo grupei, palaikomos tik saugos ir O365 grupės.
-- Negalite tinkinti įspėjimų elektroninio pašto šablonų; Norėdami pasiekti, turite naudoti "Microsoft FLOW" arba "SharePoint Designer" darbo eigą.
+- Įspėjimų siuntimo grupei siųsti negalima, palaikomos tik saugos ir O365 grupės.
+- Negalite tinkinti įspėjimo el. laiškų šablonų; jums reikia naudoti "Microsoft FLOW" arba SharePoint dizaino įrankio darbo eigą.
 
 ## <a name="related-topics"></a>Susijusios temos
 
 Norite išbandyti "Microsoft Flow" "SharePoint Online"?
 
-- [Kurti srautą](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Kurti Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- ["SharePoint" ir srautas](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint ir Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

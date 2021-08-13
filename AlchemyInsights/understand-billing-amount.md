@@ -1,5 +1,5 @@
 ---
-title: Atsiskaitymo sumos supratimas
+title: Atsiskaitymo sumos paaiškinimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919647"
 ---
-# <a name="understand-billing-amount"></a>Atsiskaitymo sumos supratimas
+# <a name="understand-billing-amount"></a>Atsiskaitymo sumos paaiškinimas
 
 **Klientų led (WD):**
 
 - Norėdami padėti peržiūrėti ir suprasti savo sąskaitą, žr.: [Susipažinkite: atskirų "Azure Bill" sąskaitų peržiūra](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Sąskaitos faktūros terminų supratimas: ["Azure" sąskaitos faktūros sąlygų paaiškinimas](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - "Azure" naudojimo mokesčių terminų supratimas: [naudojimo sąlygų paaiškinimas](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Norėdami gauti sąskaitos faktūros PDF ir išsamaus kasdienio naudojimo failo kopiją (. CSV): [gauti sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Norėdami gauti sąskaitos faktūros PDF ir išsamaus kasdienio naudojimo failo kopiją (.CSV): [Gaukite sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Pastaba:** jei atšauksite prenumeratą / išteklius atsiskaitymo ciklo viduryje, vis tiek matysite mokestį, kuris būtų už bet kokį ankstesnio mėnesio naudojimą. Pvz., jei atsiskaitymo ciklas buvo nuo 26-os kiekvieno mėnesio iki kito mėnesio 25-os & sustabdėte prenumeratą 23-ą dieną, kuri yra 28 dienos į atsiskaitymo ciklą birželio mėn., galite matyti mokestį už 28 naudojimo dienas. Jei matote mokestį, nepaisant prenumeratos atšaukimo, įsitikinkite, kad neturite jokių kitų palaikymo planų, kurie sukelia mokestį. Jei tai padarysite, eikite į priekį ir atšaukite planą.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827872"
 - Norėdami padėti peržiūrėti ir suprasti sąskaitą, žr.: [Susipažinkite: "Microsoft" partnerio sutarties sąskaitos faktūros peržiūra](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Sąskaitos faktūros terminų supratimas: ["Microsoft" partnerio sutarties sąskaitos faktūros paaiškinimas](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Įmonės sutartis (EA)**
+**Korporatyvinė sutartis (EA)**
 
-- Norėdami padėti peržiūrėti ir suprasti savo sąskaitą, žr.: ["Azure Enterprise" sutarties sąskaitos supratimas](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Jei esate "Azure" klientas su įmonės sutartimi (EA klientu), negalite atsisiųsti savo organizacijos sąskaitų faktūrų. Sąskaitos faktūros siunčiamos kam nustatyta gauti registracijos sąskaitas faktūras, galite atsisiųsti naudojimą ["Azure" portale.](https://portal.azure.com/)
+- Norėdami padėti peržiūrėti ir suprasti savo sąskaitą, žr.: ["Azure Korporatyvinė sutartis sąskaitos supratimas](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Jei esate "Azure" klientas, Korporatyvinė sutartis (EA klientas), negalite atsisiųsti savo organizacijos sąskaitų faktūrų. Sąskaitos faktūros siunčiamos kam nustatyta gauti registracijos sąskaitas faktūras, galite atsisiųsti naudojimą ["Azure" portale.](https://portal.azure.com/)
 
 Peržiūrėti paslaugos perpildymo sąskaitą faktūrą:
 
@@ -71,7 +71,7 @@ Palyginkite savo "Azure Marketplace" sumą ataskaitose > naudojimo suvestinę į
 
 **Debesies sprendimų teikėjas (CSP)**
 
-- Sužinokite daugiau, kaip atsiskaitymas veikia "Azure Cloud" sprendimų teikėjo ("Azure CSP") programoje: ["Azure CSP Billing"](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Sužinokite daugiau, kaip atsiskaitymas veikia "Azure Debesies sprendimų teikėjas " ("Azure CSP") programoje: ["Azure CSP Billing"](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Sužinokite apie CSP sąskaitos skaitymą ir supratimą: ["Azure CSP" sąskaita faktūra](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Rekomenduojami dokumentai**
@@ -81,4 +81,4 @@ Palyginkite savo "Azure Marketplace" sumą ataskaitose > naudojimo suvestinę į
 - ["Azure" išlaidų limito supratimas](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - "Azure" atsiskaitymo už išorinius paslaugų mokesčius supratimas: [kaip išrašomos išorinės paslaugos](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [DUK apie "Azure Free" paskyrą](https://azure.microsoft.com/free/free-account-faq/)
-- ["Azure Enterprise" sutarties administravimo vaidmenų supratimas "Azure"](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- ["Azure Korporatyvinė sutartis" administravimo vaidmenų supratimas "Azure"](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

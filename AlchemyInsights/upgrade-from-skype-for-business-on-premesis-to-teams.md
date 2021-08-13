@@ -1,5 +1,5 @@
 ---
-title: Versijos naujinimas iš "Skype" verslui vietoje į "Teams"
+title: Versijos naujinimas "Skype" verslui vietoje į Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5bf8d952441ff5fe1e6fae5b517aa0ad83b8bb79f5e49256e8ebcedbc086c3d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919677"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Versijos naujinimas iš "Skype" verslui vietoje į "Teams"
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Versijos naujinimas "Skype" verslui vietoje į Teams
 
-Jei vietoje esate įdiegę "Skype" verslui arba "Microsoft Lync", o jūsų organizacija nori atnaujinti versiją į "Teams", vadovaukitės toliau pateiktais nurodymais. Turėsite nustatyti hibridinį ryšį su nuomotoju, tada perkelti vartotojus į "Teams" ir priskirti jiems atitinkamą sambūvio ir versijos naujinimo režimą. 
+Jei esate įdiegę ""Skype" verslui" arba "Microsoft Lync" vietoje ir jūsų organizacija nori atnaujinti versiją į "Teams", vykdykite toliau pateiktame straipsnyje pateiktas rekomendacijas. Turėsite nustatyti hibridinį ryšį su nuomotoju, tada perkelti vartotojus į Teams priskirti jiems atitinkamą sambūvio ir versijos naujinimo režimą. 
 
-[Versijos naujinimas iš vietinės "Skype" verslui į "Teams"](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Versijos naujinimas iš "Skype" verslui vietinės versijos į Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

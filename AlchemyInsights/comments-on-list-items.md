@@ -1,5 +1,5 @@
 ---
-title: Komentarai sąrašo elementuose
+title: Komentarai apie sąrašo elementus
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995495"
 ---
-# <a name="comments-on-list-items"></a>Komentarai sąrašo elementuose
+# <a name="comments-on-list-items"></a>Komentarai apie sąrašo elementus
 
-Vartotojai gali peržiūrėti visus komentarus sąrašo elemente ir filtruoti tarp rodinių, kuriuose rodomi komentarai arba su elementu susieta veikla.
+Vartotojai gali peržiūrėti visus sąrašo elemento komentarus ir filtruoti rodinius, kurie rodo komentarus arba veiklą, susijusią su elementu.
 
-Vartotojai turi įsidėmėti, kad jie gali įtraukti ir panaikinti komentarus:
+Vartotojai turi atkreipti dėmesį į šiuos dalykus, kad galėtų įtraukti ir panaikinti komentarus:
 
-- Komentarai turi atitikti "SharePoint" būdingus teisių parametrus.
-- Klasikiniams sąrašams, kurie dar nėra sukurti šiuolaikinėms vartotojo sąsajoms, pvz., užduočių sąrašams, ši komentavimo funkcija nebus.
-- Šio leidimo negalima naudoti "teams" sąrašų komentavimui.
-- Komentarai neindeksuoti pagal iešką.
+- Komentarai seka teisių parametrus, būdingus "SharePoint".
+- Klasikiniai sąrašai, kurie dar nėra sukurti rodyti šiuolaikinėse vartotojo sąsajose, pvz., užduočių sąrašuose, neturi šios komentarų funkcijos.
+- Komentuoti "Teams" sąrašus naudojant šį leidimą negalima.
+- Ieška neindeksuoja komentarų.
 
-Administratoriai gali išjungti šią funkciją organizacijos lygiu keisdami parametrą **Commentsonlistitemsdisabled** , esantį **Set-spotenant** "PowerShell" cmdlet.
+Administratoriai gali išjungti šią funkciją organizacijos lygiu pakeisdami **parametrą CommentsOnListItemsDisabled** **cmdlet Set-SPOTenant** PowerShell.
 
-Šiuo metu negalima išjungti komentarų svetainės arba sąrašo lygiu. Tikimės, kad šie valdikliai bus atnaujinti, greičiausiai pirmąjį ketvirtį 2021.
+Šiuo metu negalima išjungti komentarų svetainės arba sąrašo lygiu. Tikimės, kad šie valdikliai bus įdiegti vėlesniame naujinime, tikėtina, kad jie bus pateikti 2021 m. pirmąjį ketvirtį.
