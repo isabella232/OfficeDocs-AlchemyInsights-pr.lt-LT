@@ -1,5 +1,5 @@
 ---
-title: Bendrinimas naudojant "SharePoint"
+title: Bendrinimas SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094290"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Kaip bendrinti "SharePoint Online"
 
@@ -25,11 +25,11 @@ Norėdami bendrinti svetainę:
   
 1. Atidarykite svetainę žiniatinklio naršyklėje.
     
-2. Jei svetainė priklauso "Microsoft 365" grupei, spustelėkite piktogramą parametrai, esančią viršuje dešinėje, tada spustelėkite **svetainės teisės**. Spustelėkite **Kviesti žmones**, tada pasirinkite, kad įtrauktumėte narių į "Microsoft" 365 grupę arba bendrintumėte tik svetainę. 
+2. Jei svetainė priklauso grupei Microsoft 365, spustelėkite piktogramą Parametrai, esančią viršutiniame dešiniajame kampe, tada spustelėkite **Svetainės teisės**. Spustelėkite **Kviesti** žmones , tada pasirinkite įtraukti narių į Microsoft 365 arba bendrinti tik svetainę. 
     
-    Norėdami naudoti bendravimo svetainę, viršutinėje dešinėje spustelėkite **bendrinti svetainę** , įveskite asmens vardą, tada pasirinkite teisių rinkinį (skaityti, redaguoti arba visiškai kontroliuoti). 
+    Jei norite gauti  ryšių svetainę, spustelėkite Bendrinti svetainę viršutiniame dešiniajame kampe, įveskite asmens vardą ir pasirinkite teisių lygį (Skaityti, Redaguoti arba Visas valdymas). 
     
-    Jei turite klasikinę komandos svetainę, viršutinėje dešinėje spustelėkite **bendrinti** . Įveskite vardą asmens, kurį norite pakviesti, arba įveskite visus, kad bendrintumėte su visais organizacijos nariais. Spustelėkite **bendrinti**.
+    Klasikinės komandos svetainės viršutiniame **dešiniajame** kampe spustelėkite Bendrinti. Įveskite asmens, kurį norite pakviesti, vardą arba įveskite Visi, kuriuos norite bendrinti su visais organizacijos nariais. Spustelėkite **Bendrinti**.
     
 [Sužinokite, kaip bendrinti failą arba aplanką](https://go.microsoft.com/fwlink/?linkid=511430)
   
