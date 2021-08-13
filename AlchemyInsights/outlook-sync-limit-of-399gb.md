@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook\" sinchronizavimo limitas 3,99 GB"
+title: Outlook 3,99 GB sinchronizavimo limitas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924597"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>"Outlook" sinchronizavimo būsenos juosta lieka "3,99" GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook būsenos juosta išlieka 3,99 GB
 
-Pabandykite sumažinti aplanko turinį arba sukurti sinchronizavimo filtrą dideliems aplankams arba beveik 4 GB.
+Pabandykite sumažinti aplanko turinio dydį arba sukurkite didelių aplankų sinchronizavimo filtrą 4 GB arba netoli jos.
 
-Būsenos juostos eigos peržiūra niekada rodo daugiau nei 3,99 GB, kuris liko pradiniame [didžiųjų aplankų sinchronizavimo srityje](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Daugiau informacijos žr. Būsenos juostos eiga niekada rodo daugiau nei 3,99 GB pradinio [didelių aplankų sinchronizavimo](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).

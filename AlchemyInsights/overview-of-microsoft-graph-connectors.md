@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Graph\" jungčių apžvalga"
+title: "\"Microsoft \"Graph\"\" jungčių apžvalga"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924546"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>"Microsoft Graph" jungčių apžvalga
+# <a name="overview-of-microsoft-graph-connectors"></a>"Microsoft "Graph"" jungčių apžvalga
 
-Norėdami suplanuoti "Microsoft Graph" jungtis, peržiūrėkite  [jungčių apžvalgą](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Norėdami planuoti "Microsoft "Graph"" jungtis, žr. [Jungčių apžvalga](https://docs.microsoft.com/microsoftsearch/connectors-overview).
 
-- Peržiūrėkite ["Microsoft"](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) arba  [jungčių partnerių](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)jungtis.
-- [Valdykite savo jungtį, skirtą "Microsoft Search"](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Žr. ["Microsoft" jungtys](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) [arba partnerių jungtys.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Valdykite savo jungtį "Microsoft" ieška.](https://docs.microsoft.com/microsoftsearch/manage-connector)
 
-Norėdami suplanuoti "Microsoft" iešką, peržiūrėkite  ["Microsoft" ieškos apžvalgą](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Norėdami planuoti "Microsoft" ieška, [žr. ""Microsoft" ieška"](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)apžvalga.

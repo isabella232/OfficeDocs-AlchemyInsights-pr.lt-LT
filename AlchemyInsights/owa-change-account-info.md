@@ -1,5 +1,5 @@
 ---
-title: Paskyros informacijos keitimas internetinėje "Outlook"
+title: Paskyros informacijos keitimas programoje "internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e65d8ff1d86f0500821f35c74404a5dabee5eea2c7819978c6742355ba13000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924489"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Paskyros informacijos keitimas internetinėje "Outlook"
+# <a name="change-account-information-in-outlook-on-the-web"></a>Paskyros informacijos keitimas internetinė "Outlook"
 
 1. Puslapio viršuje pasirinkite savo vardą arba profilio paveikslėlį.
-1. Pasirinkite **mano paskyra**.
-1. Pasirinkite **asmeninė informacija**.
-1. Keisti arba įtraukti informaciją apie save.
+1. Pasirinkite **Mano paskyra**.
+1. Pasirinkite **Asmeninė informacija**.
+1. Pakeiskite arba įtraukite informacijos apie save.
 
-*Pastaba:* Kai kurią informaciją, pvz., savo vardą ir pareigų pavadinimą, gali pateikti jūsų IT arba žmogiškųjų išteklių skyrius. Jei norite atnaujinti šią informaciją, susisiekite su jais arba su administratoriumi.
+*Pastaba:* Tam tikrą informaciją, pvz., vardą ir pareigas, gali pateikti it arba žmogiškųjų išteklių skyrius. Jei norite atnaujinti šiuos duomenis, susisiekite su jais arba savo administratoriumi.
 
-Daugiau informacijos ieškokite [nuotraukos ir paskyros informacijos keitimas internetinėje "Outlook"](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Daugiau informacijos žr. [Nuotraukos ir paskyros informacijos keitimas internetinė "Outlook"](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
