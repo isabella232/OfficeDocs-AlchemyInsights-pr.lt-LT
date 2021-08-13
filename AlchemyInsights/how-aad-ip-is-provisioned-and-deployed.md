@@ -1,5 +1,5 @@
 ---
-title: Kaip "Azure Active Directory" tapatybės apsauga parengta ir įdiegta
+title: Kaip "Azure Active Directory" tapatybės apsauga yra parengimas ir įdiegtis
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927867"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Kaip "Azure Active Directory" tapatybės apsauga yra parengta ir įdiegta?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Kaip "Azure Active Directory" tapatybės apsauga yra parengimas ir įdiegtis?
 
-Numatyta, kad "Azure Active Directory" tapatybės apsaugos funkcijos yra įgalintos nuomotojo lygiu visiems nuomotojo vartotojams.
+Pagal numatytuosius nustatymus "Azure Active Directory" apsaugos priemonės įgalintos nuomotojo lygiu visiems nuomotojo vartotojams.
 
-Jei norite sužinoti daugiau, žiūrėkite [kas yra "Azure Active Directory" tapatybės apsauga?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Norėdami sužinoti daugiau, [žr. Kas "Azure Active Directory" tapatybės apsauga?](https://go.microsoft.com/fwlink/?linkid=2130395)

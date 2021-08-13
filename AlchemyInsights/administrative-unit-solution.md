@@ -1,5 +1,5 @@
 ---
-title: Administracinio vieneto sprendimas
+title: Administravimo vieneto sprendimas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: c32d0652642fa4143b037662809f3ca5dec079f0
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: 93b77f0a23bc53035d63e08869067aff25270aed559d7cddded04aaa92285302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952473"
 ---
-# <a name="administrative-unit-solution"></a>Administracinio vieneto sprendimas
+# <a name="administrative-unit-solution"></a>Administravimo vieneto sprendimas
 
-1. Įsitikinkite, kad vartotojas, kuriantis administracinius vienetus ir priskiria vaidmenis, yra visuotinis administratorius arba teisių vaidmenų administratorius.
-2. Įsitikinkite, kad priskiriate vartotojus tiesiogiai administraciniams vienetams. Priskiriant grupę administraciniam vienetui, visi grupės nariai nėra priskirti administraciniam vienetui.
-3. Kai masinė operacija atlikta administraciniame vienete, gali praeiti laiko, kad atsispindėtų vartotojo sąsajoje, atsižvelgiant į įvairius faktorius (-us), pvz., esamos tarnybos apkrova.
+1. Įsitikinkite, kad vartotojas, kuriantis administravimo vienetus ir priskiriantis vaidmenis, yra visuotinis administratorius arba teisių vaidmenų administratorius.
+2. Įsitikinkite, kad vartotojus priskiriate tiesiogiai administravimo vienetams. Priskiriant grupę administravimo vienetui, administravimo vienetui neprisi priskiriami ne visi grupės nariai.
+3. Jei masinė operacija atliekama administravimo vienete, pakeitimai gali užtrukti, kol bus atspindėta vartotojo sąsaja, atsižvelgiant į įvairius veiksnius, pvz., dabartinę tarnybos apkrovą.
 
-Daugiau informacijos apie administracinius vienetus rasite [vaidmenų valdymas administravimo vienete](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).
+Daugiau informacijos apie administravimo vienetus žr. [Vaidmenų valdymas administravimo vienete](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).
