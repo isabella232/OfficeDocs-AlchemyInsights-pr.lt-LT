@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 7249bafe1b047c66d9351a79f1782cfcc1a936a1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: db784c133fec554604ad09f5b27941879d97ff238f926ff6338d0f3b7c3c4105
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007906"
 ---
 # <a name="troubleshoot-user-consent"></a>Vartotojo sutikimo trikčių šalinimas
 
-1. Galite konfigūruoti, kaip galutiniai vartotojai sutiktų su programomis "Azure" portale arba "PowerShell". Daugiau informacijos ieškokite [vartotojo sutikimo parametruose](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) .
-1. Administratorius taip pat gali naudoti ["Microsoft Graph" API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) , kad suteiktų sutikimą perduoti teises vieno vartotojo vardu. Daugiau informacijos ieškokite [vartotojo vardu gauti prieigą](https://docs.microsoft.com/graph/auth-v2-user).
-1. [Vartotojo sutikimo klaidos](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): šiame straipsnyje aptariamos klaidos, kurios gali įvykti vykstant programos sutikimui. Jei kyla problemų dėl netikėto sutikimo raginimų, kuriuose nėra jokių klaidų žinučių, ieškokite " [AZURE AD" autentifikavimo scenarijai](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Galite konfigūruoti, kaip galutiniai vartotojai sutinka su programomis per "Azure" portalą arba "PowerShell". Daugiau [informacijos žr. Vartotojo](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) sutikimo parametrai.
+1. Administratorius taip pat gali naudoti ["Microsoft "Graph" API,](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) kad duotų sutikimą suteikti įgaliotas teises vieno vartotojo vardu. Daugiau informacijos [žr. Prieiga vartotojo vardu.](https://docs.microsoft.com/graph/auth-v2-user)
+1. [Vartotojo sutikimo klaidos:](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)šiame straipsnyje aptariamos klaidos, kurios gali įvykti sutikimo su programa proceso metu. Jei šalinant netikėtų sutikimo raginimų, kuriuose nėra klaidų pranešimų, trikčių diagnostiką, žr. ["Azure AD" autentifikavimo scenarijai.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

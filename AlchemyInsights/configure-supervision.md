@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915451"
 ---
-# <a name="configure-supervision-policies"></a>Konfigūruoti priežiūros strategijas
+# <a name="configure-supervision-policies"></a>Priežiūros strategijų konfigūravimas
 
-"Microsoft 365" priežiūros strategijos leidžia stebėti "Exchange" el. paštą, internetinę "Skype" verslui, "Microsoft teams" ir trečiųjų šalių pranešimus, siunčiamus organizacijoje ir už jos ribų. Paskirti recenzentai gali tikrinti stebimus, kad jie atitiktų jūsų organizacijos strategijas, rizikos valdymą ir reguliavimo atitikties standartus ir juos išspręstų pagal klasifikacijos tipą.
+"Microsoft 365" priežiūros strategijos leidžia stebėti el. Exchange, ""Skype" verslui Online", "Microsoft Teams" ir "3rd party" ryšius, siunčiamus organizacijoje ir už jos ribų. Paskirti redaktoriai gali tikrinti stebimus laiškus, kad įsitikintų, jog jie atitinka jūsų organizacijos strategijas, rizikos valdymo ir reguliavimo atitikties standartus ir juos išsprendžia pagal klasifikacijos tipą.
 
-Norėdami naudoti priežiūros strategijas savo organizacijoje, turite:
+Norėdami naudoti organizacijos priežiūros strategijas, turite:
 
-- Nustatykite, kad būtų stebimi ryšiai.
-- Nuspręskite, kas vykdys ryšių peržiūrą.
+- Nustatykite, kuriuos pranešimus stebėti.
+- Nuspręskite, kas atliks ryšių peržiūrą.
 - Sąrankos priežiūros strategijos
 
-sužinoti daugiau, sužinok daugiau:
+Sužinokite daugiau:
 
 - [Priežiūros strategijų apžvalga](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigūruoti priežiūros strategijas](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Priežiūros strategijų konfigūravimas](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
