@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972427"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST importavimo problemų šalinimas
 
-- Jei importuojate per patį "Outlook" klientą, [žr. "Outlook" .pst](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)failo importavimo problemų sprendimas .
+- Jei importuojate "Outlook kliento viduje, žr. ".pst" failo [importavimo Outlook problemų sprendimas.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
 - Jei naudojate importavimo tarnybą ir užstringa, atkreipkite dėmesį, kad kiekvienas PST failas, kurį nusiunčiate į "Azure" saugyklos vietą, neturėtų būti didesnis nei 20 GB. PST failai, didesni nei 20 GB, gali turėti įtakos PST importavimo proceso našumui. Daugiau informacijos apie įstrigančių užduočių trikčių [diagnostiką žr. Problemos, kurios turi įtakos PST importavimo uždėjimo vietoms](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 

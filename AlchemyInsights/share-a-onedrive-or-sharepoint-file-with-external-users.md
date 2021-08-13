@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" arba \"SharePoint\" failo bendrinimas su išoriniais vartotojais"
+title: Failo arba "OneDrive" failo SharePoint bendrinimas su išoriniais vartotojais
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 242284b6300d871c52a7bf4a2975a121be738566
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d43150d3e11c3d15302231b919497d3a9876c05ddc720f46b1428d1f6f09eeb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094434"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>"OneDrive" arba "SharePoint" failo arba aplanko bendrinimas su išoriniais vartotojais
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Bendrinti "OneDrive" arba SharePoint failą arba aplanką su išoriniais vartotojais
 
-1. Naršyklėje eikite į failą ar aplanką, kurį norite bendrinti, pažymėkite jį, tada spustelėkite **bendrinti**.
+1. Naršyklėje eikite į failą arba aplanką, kurį norite bendrinti, pažymėkite jį, tada spustelėkite **Bendrinti**.
     
-2. Dialogo lange siuntimo saitas spustelėkite rodyklę žemyn, kad pakeistumėte saito tipą.
+2. Dialogo lange Siųsti saitą spustelėkite rodyklę žemyn, kad pakeistų saito tipą.
     
-3. Dalyje **kas norėtų naudoti šį saitą**, pasirinkite **Visi** , jei norite, kad gavėjai galėtų bendrinti saitą arba **konkrečius žmones** , kad galėtų suteikti prieigą tik tiems žmonėms, kuriuos nurodėte. 
+3. Dalyje **Who norite,** kad šis saitas veiktų  , pasirinkite Bet kas, jei norite,  kad gavėjai galėtų bendrinti saitą arba Konkretūs žmonės, kad suteiktų prieigą tik jūsų nurodytiems žmonėms. 
     
-    Jei šios parinktys nepasiekiamos, turite įsitikinti, kad jos yra leidžiamos jūsų organizacijai ir svetainių rinkiniui. Norėdami tai padaryti, peržiūrėkite ["SharePoint Online" išorinio naudojimo įjungimas arba išjungimas](https://go.microsoft.com/fwlink/?linkid=866426).
+    Jei šių parinkčių nėra, turite įsitikinti, kad jos leidžiamos jūsų organizacijai ir svetainių rinkiniui. Norėdami tai padaryti, [žr. Išorinio bendrinimo įjungimas arba išjungimas naudojant "SharePoint Online".](https://go.microsoft.com/fwlink/?linkid=866426)
     
 4. Spustelėkite **Taikyti**.
     
-5. Įveskite žmonių, su kuriais norite bendrinti, vardus, tada spustelėkite **išsiųsti**.
+5. Įveskite žmonių, su kuriuos norite bendrinti, vardus, tada spustelėkite **Siųsti**.
     
 

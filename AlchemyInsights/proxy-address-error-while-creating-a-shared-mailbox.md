@@ -12,22 +12,22 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: ab491e883ab294f08d0b5d2e686dc059b468d29f
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: 7c15d5db5445fbe4c3ec22878f180f48d2da4f90369f2e6f223916646eb19c12
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062916"
 ---
-# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Tarpinio serverio adreso klaida kuriant pašto dėžutę arba kitą objektą, kuriam įgalintas el. paštas
+# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Tarpinio serverio adreso klaida kuriant pašto dėžutę arba kitą objektą su įgalinta el. pašto funkcija
 
-Jei bandėte kurti el. pašto funkciją palaikantį objektą (pašto dėžutę, bendrinamą pašto dėžutę ir kt.) ir gavote klaidos pranešimą "tarpinio serverio adresas" SMTP:alias@domain.com "jau naudojamas...", jūsų pasirinktas elektroninio pašto adresas jau yra įtrauktas į kitą jūsų organizacijoje esantį objektą, kuriame įgalintas el. laiškas.
+Jei bandėte sukurti objektą, palaikantį el. paštą (pašto dėžutę, bendrinamą pašto dėžutę ir t. t.) ir gavote klaidą "Tarpinio serverio adresas "SMTP:alias@domain.com" jau naudojamas...", jūsų pasirinktą el. pašto adresą jau naudoja kitas organizacijos objektas, palaikantis el. paštą.
   
-Jums reikia surasti vartotoją, grupę, bendrinamą pašto dėžutę arba viešąjį aplanką, kuriame yra šis elektroninio pašto adresas ir jį panaikinti arba pakeisti jo elektroninio pašto adresą. Tada galite sukurti naują el. pašto objektą su atlaisvintomis el. pašto adresu. Naudokite iešką pagrindiniame puslapyje, kad ją rastumėte. Taip pat galite naudoti šią "Exchange Online PowerShell" komandą, kad galėtumėte ją rasti:
+Turite rasti vartotoją, grupę, bendrinamą pašto dėžutę arba viešąjį aplanką, kuriame yra šis el. pašto adresas, ir jį panaikinti arba pakeisti savo el. pašto adresą. Tada galėsite sukurti naują objektą, palaikantį el. paštą su laisvu el. pašto adresu. Naudokite iešką pagrindiniame puslapyje, kad ją rastumėte. Taip pat galite naudoti šią Exchange Online "PowerShell" komandą, kad jos ieškote:
 
 `
     Get-EXORecipient -Filter "EmailAddresses -eq 'email@contoso.onmicrosoft.com'"
 `
   
-Jei nenorite panaikinti esamo elektroninio pašto adreso, pasirinkite naują naujo objekto, kurį kuriate, elektroninio pašto adresą.
+Jei nenorite panaikinti esamo el. pašto adreso, pasirinkite naują kuriamo objekto el. pašto adresą.
   

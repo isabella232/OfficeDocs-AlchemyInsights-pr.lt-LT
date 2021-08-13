@@ -1,5 +1,5 @@
 ---
-title: Užduočių ir kalendoriaus įvykių sąrašas šiuolaikinės vartotojo sąsajos
+title: Užduočių ir kalendoriaus įvykių sąrašas šiuolaikinėje vartotojo sąsają
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941340"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Užduočių ir kalendoriaus įvykių sąrašas šiuolaikinės vartotojo sąsajos
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Užduočių ir kalendoriaus įvykių sąrašas šiuolaikinėje vartotojo sąsają
 
-Galite matyti klaidą rodymo "pavadinimas" kaip `< ID >_.000` užduoties ir įvykių sąrašuose, kai bandote jas atvaizduoti šiuolaikiniame rodinyje.
+"Title" rodymo klaida gali būti rodoma kaip užduočių ir įvykių sąrašuose, kai bandote juos `< ID >_.000` atvaizduoti moderniame rodinyje.
 
-Kai kurie sąrašų ir bibliotekų tipai dar nėra sukurti, kad būtų rodomi šiuolaikinėje vartotojo sąsajoje, pvz., užduočių sąraše arba įvykių sąraše.
+Tam tikrų tipų sąrašai ir bibliotekos dar nėra sukurti, kad būtų rodomi modernioje vartotojo sąsajoje, pvz., užduočių sąraše arba įvykių sąraše.
 
-Vienas iš prioritetinių elementų yra remti užduočių ir įvykių sąrašus kaip modernios UX dalį. Tačiau mes neturime šio palaikymo ETA, todėl toliau naudokite klasikinę šių sąrašų naudojimo patirtį.
+Vienas iš prioritetinių elementų yra palaikyti UŽDUOČIŲ ir ĮVYKIŲ sąrašus kaip šiuolaikinio UX dalį. Tačiau šiam palaikyme neturime ETA, todėl toliau naudokite klasikinę šių sąrašų naudojimo patirtį.
 
-Daugiau informacijos rasite [Maksimizuokite modernių sąrašų ir bibliotekų naudojimą](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Norėdami gauti daugiau informacijos, apsilankykite [Maksimizuoti šiuolaikinių sąrašų ir bibliotekų naudojimą.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
