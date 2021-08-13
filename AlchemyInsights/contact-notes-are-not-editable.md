@@ -1,5 +1,5 @@
 ---
-title: Kontaktų pastabos neredaguojamos
+title: Kontaktų pastabų redaguoti negalima
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915343"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nepavyksta redaguoti kontakto programoje "Outlook" pastabų lauko
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Negalite redaguoti kontakto pastabų lauko Outlook
 
-Tai žinoma problema. Stengiamės ją išspręsti, o jūs galite pamatyti vėliausią [kontakto lauko pastabų lauko redagavimą](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+Tai žinoma problema. Dirbame, kad ją pataisytumėte ir matysite naujausią kontakto pastabų [lauko būseną.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Sprendimo būdas**: Jei naudojate "Microsoft 365" arba "Outlook.com" paskyrą, galite redaguoti kontaktus naudodami žiniatinklį. Jei naudojate IMAP arba POP abonementą, šiuo metu nėra jokio sprendimo būdo.
+**Sprendimo būdas**: Jei naudojate "Microsoft 365" arba "Outlook.com" paskyrą, galite redaguoti kontaktus naudodami žiniatinklį. Jei naudojate IMAP arba POP paskyrą, šiuo metu sprendimo sprendimo nėra.

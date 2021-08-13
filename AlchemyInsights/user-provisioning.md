@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971347"
 ---
 # <a name="user-provisioning"></a>Vartotojo parengimas
 
-- Naudokite [užsakomąsias parengimo](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) galimybes, kad suteiktumėte vartotojui ir gautumėte išsamią diagnostiką apie veiksmus, kurių imtasi.
-- Norėdami pašalinti problemas, su kuriomis susidūrėte, kai konfigūruojami vartotojai ir grupės, peržiūrėkite trikčių diagnostikos vadovą [jokie vartotojai nėra konfigūruojami](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
-- Jei pastebite, kad vartotojai nėra parengti, peržiūrėkite [parengimo žurnalus (peržiūra)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) "Azure Active Directory" (AD). Ieškoti žurnalų įrašų, susijusių su konkrečiu vartotoju.
-- Periodiškai paleiskite parengimo programą, kad būtų sugauti visi vartotojai, kurie buvo praleisti ankstesnio parengimo ciklo metu.
-- Vartotojas/grupė galėjo būti nesukonfigūruota, nes mūsų tarnyba dar neturėjo galimybės įvertinti vartotojo. Peržiūrėkite nurodymus, kaip ilgai trunka parengimas, taip pat ir eigos juostos parengimo konfigūravimo puslapyje. Jei stabili būsena, nurodyta sekcijoje papildoma informacija, yra prieš vartotojo sukūrimo/atnaujinimo/panaikinimo datą, tai reiškia, kad dar neįvertinome vartotojo. Pagal šį scenarijų, geriausia, ką reikia padaryti – palaukite, kol bus baigta parengimo tarnyba. Jei pasiekta pastovi būsena, rekomenduojame paleisti iš naujo nuo vartotojo sąsajos "Azure" portale.
-  - Atkreipkite dėmesį, kad mūsų paslauga yra tik apie vartotojų/grupių pokyčius šaltinio sistemoje ("Azure Active Directory"). Jei vartotojas/grupė pašalinama tiesiogiai taikomojoje programoje (pvz., ServiceNow), mes nežinome apie tuos keitimus ir nepervyniokite jo pagal šaltinio sistemoje esančio vartotojo būseną. Pagal šį scenarijų geriausia atšaukti pakeitimą tikslinėje taikomojoje programoje.
-- Mūsų tarnyba vertino vartotoją/grupę ir nustatė, kad ji neturėtų būti parengta:
-  - Jei nustatysite sritį priskirtiems vartotojams ir grupėms, patikrinkite, ar vartotojas/grupė priskiriama taikomajai programai.
-  - Jei vartotojas/grupė priskiriama taikomajai programai, įsitikinkite, kad jos nepriskirtos numatytajam prieigos vaidmeniui. Šiam vaidmeniui negalima naudoti parengimo.
-  - Jei nustatėte atributą pagal aprėpties filtrą, įsitikinkite, kad vartotojas atitinka nurodytus kriterijus.
-  - Jei vartotojai jau yra tikslinėse sistemose ir vartotojo būsena šaltinio ir paskirties atitikmuo, mes nesiimsime jokių tolesnių veiksmų.
-- Mūsų tarnyba bandė pateikti vartotojui ir nepavyko. Šiuose scenarijuose Peržiūrėkite parengimo žurnalų skirtuką trikčių diagnostika ir rekomendacijos:
-  - Būtinas atributas vartotojui gali trūkti "Azure Active Directory" arba neatitinka trečiosios šalies taikomosios programos reikalaujamos formos. Pvz., šalies atributas vartotojui gali būti nustatytas Jungtinėse Valstijose, kai jis turėtų būti mums.
-  - Atributas yra referencinis atributas, kurio dar nėra taikomojoje taikomojoje programoje. Nuorodų atributas yra atributas, kuris nukreipia į kitą objektą, pvz., vartotoją, kuris yra grupės narys. Vartotojo ID būtų grupės nario atributas, tačiau jį galima apdoroti tik tuo atveju, jei vartotojo objektas jau yra.
+- Naudokite [parengimo pagal poreikį galimybę,](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) kad būtų galima parengti vartotoją ir gauti išsamią diagnostiką apie veiksmus, kurių buvo imtasi.
+- Norėdami šalinti problemas, su kuriomis susiduriate su parengimo vartotojais ir grupėmis metu, žr. trikčių [diagnostikos vadovą Nėra vartotojų parengimo](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
+- Jei pastebite, kad vartotojai nėra parengti, žr. Parengimo [žurnalai (peržiūra)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) "Azure Active Directory" (AD). Ieškokite žurnalo įrašų, susijusių su konkrečiu vartotojui.
+- Periodiškai iš naujo paleiskite parengimą, kad visi vartotojai, kurie buvo praleisti ankstesniame parengimo cikle.
+- Galbūt vartotojas / grupė nebuvo parengti, nes mūsų tarnyba dar neturėjo galimybės įvertinti vartotojo. Peržiūrėkite rekomendacijas, kiek laiko trunka parengimas, ir eigos juostą parengimo konfigūravimo puslapyje. Jei pastovi būsena, nurodyta papildomos išsamios informacijos skyriuje, yra prieš datą, kai vartotojas buvo sukurtas / atnaujintas / panaikintas, tai reiškia, kad dar neįvertinome vartotojo. Pagal šį scenarijų geriausia palaukti, kol baigsis parengimo tarnyba. Jei pasiekta pastovi būsena, rekomenduojame iš naujo paleisti vartotojo sąsają "Azure" portale.
+  - Atkreipkite dėmesį, kad mūsų tarnyba žino tik apie vartotojo / grupės pakeitimus šaltinio sistemoje ("Azure Active Directory"). Jei vartotojas / grupė pašalinama tiesiogiai taikomojoje programoje (pvz., "ServiceNow"), mes nežinome apie šiuos pakeitimus ir neatimsime jų atgal pagal vartotojo būseną šaltinio sistemoje. Tokiu atveju geriausia atšaukti pakeitimą tiesiogiai paskirties programoje.
+- Mūsų tarnyba įvertino vartotoją / grupę ir nustatė, kad ji neturėtų būti parengimo:
+  - Jei nustatėte priskirtų vartotojų ir grupių aprėptį, patikrinkite, ar vartotojui / grupei priskirta programa.
+  - Jei vartotojui / grupei priskirta taikomoji programa, įsitikinkite, kad jis nepriskirtas numatytai prieigos vaidmeniui. Šio vaidmens negalima naudoti parengimui.
+  - Jei nustatėte atributu pagrįstą filtravimo filtrą, įsitikinkite, kad vartotojas atitinka jūsų nurodytus kriterijus.
+  - Jei vartotojai jau yra paskirties sistemoje, o vartotojo būsena šaltinio ir paskirties atitikmenyje, mes nesiimsime jokių tolesnių veiksmų.
+- Mūsų tarnyba bandė parengti vartotoją ir nepavyko. Šių scenarijų atveju peržiūrėkite parengimo žurnalų skirtuką Trikčių šalinimas ir rekomendacijos:
+  - Gali būti, kad vartotojui trūksta būtinojo atributo "Azure Active Directory" neatitinka formato, kurio reikalauja trečiosios šalies taikomoji programa. Pvz., vartotojo atributas Šalis gali būti nustatytas kaip Jungtinės Amerikos Valstijos, kai jis turėtų būti JAV.
+  - Atributas yra nuorodų atributas, kuris dar nėra paskirties programoje. Nuorodų atributas yra atributas, kuris nurodo kitam objektui, pvz., vartotojui, kuris yra grupės narys. Vartotojo ID būtų grupės nario atribute, bet gali būti apdorojamas tik jei vartotojo objektas, kurį nurodo, kad jis jau yra.
