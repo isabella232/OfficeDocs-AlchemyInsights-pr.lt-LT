@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Edge\" naudojimo pradžia"
+title: Pradėkite naudoti Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992824"
 ---
-# <a name="start-using-microsoft-edge"></a>"Microsoft Edge" naudojimo pradžia
+# <a name="start-using-microsoft-edge"></a>Pradėkite naudoti Microsoft Edge
 
-"Microsoft" išleido naują "Microsoft Edge", kuri yra naujos kartos žiniatinklio naršyklė. Jis sukurtas "Chromium" atvirojo kodo pagrindu ir optimizuotas dirbti su "Microsoft" produktais, pvz., "SharePoint" ir "OneDrive".
+"Microsoft" išleido naują Microsoft Edge, kuri yra naujos kartos žiniatinklio naršyklė. Jis yra sukurtas Chromium atvirojo kodo pagrindu ir optimizuotas dirbti su "Microsoft" produktais, pvz., SharePoint ir "OneDrive".
 
-Jei kyla problemų dėl "Google Chrome", "Mozilla Firefox" arba "Safari", rekomenduojame naudoti "Microsoft Edge".
+Jei kyla problemų dėl "Google Chrome", "Mozilla Firefox" arba "Safari", rekomenduojame naudoti Microsoft Edge.
 
-Jei esate didelės organizacijos administratorius, pradėkite naudoti mūsų ["Microsoft Edge"](https://go.microsoft.com/fwlink/?linkid=2142423) sąrankos vadovą.
+Jei esate didelės organizacijos administratorius, naudokite mūsų [Microsoft Edge sąrankos vadovą,](https://go.microsoft.com/fwlink/?linkid=2142423) kad būtų galima pradėti.
 
-Norėdami atsisiųsti "Microsoft Edge" viename įrenginyje vienu metu, eikite [į Pristatome naują "Microsoft Edge".](https://go.microsoft.com/fwlink/?linkid=2141049)
+Norėdami atsisiųsti Microsoft Edge vienu metu viename įrenginyje, eikite [į Pristatome naują Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).

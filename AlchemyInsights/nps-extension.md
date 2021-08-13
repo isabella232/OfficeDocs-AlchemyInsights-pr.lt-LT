@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985909"
 ---
 # <a name="network-policy-server-extension"></a>Tinklo strategijos serverio plėtinys
 
-Tinklo strategijos serverio (NPS) plėtinys, skirtas "Azure AD" kelių dalių autentifikavimui, į jūsų autentifikavimo infrastruktūrą įtraukia debesyje veikiančius MFA pajėgumus, naudodami esamus serverius. Naudodami NPS plėtinį, galite įtraukti telefono skambutį, teksto pranešimą arba telefono taikomosios programos patvirtinimą į esamą autentifikavimo srautą ir nereikės diegti, konfigūruoti ir prižiūrėti naujų serverių.
+"Azure AD" kelių dalių autentifikavimo tinklo strategijos serverio (NPS) plėtinys įtraukia debesimi pagrįstas MFA galimybes į autentifikavimo infrastruktūrą, naudodamas esamus serverius. Naudodami NPS plėtinį, galite įtraukti telefono skambutį, teksto pranešimą arba telefono programos patvirtinimą į esamą autentifikavimo srautą nediegdami, nekonfigūruokite ir nelaikykite naujų serverių.
 
-NPS plėtinys veikia kaip adapteris tarp spindulio ir debesies pagrindu veikiančios "Azure AD" kelių dalių autentifikavimo, kad būtų galima pateikti antrąjį išorinio arba sinchronizuoto vartotojo autentifikavimo koeficientą.
+NPS plėtinys veikia kaip adapteris tarp RADIUS ir debesies pagrindu sukurto "Azure AD" kelių dalių autentifikavimo, kad būtų galima naudoti antrąjį išorinių arba sinchronizuotų vartotojų autentifikavimo veiksnį.
 
-Daugiau informacijos apie tai, kaip veikia NPS plėtinys, ieškokite [esamos tinklo strategijos serverio (NPS) infrastruktūros integravimas su "AZURE AD" kelių dalių autentifikavimu](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Daugiau informacijos apie tai, kaip veikia NPS plėtinys, žr. Esamos tinklo strategijos [serverio (NPS) infrastruktūros integravimas į "Azure AD" kelių dalių autentifikavimą.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)

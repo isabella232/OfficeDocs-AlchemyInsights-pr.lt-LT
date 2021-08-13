@@ -1,5 +1,5 @@
 ---
-title: "\"Teams\" PS modulio diegimas ir nuoroda"
+title: Teams PS modulio diegimas ir nuoroda
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956553"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Ką galima atlikti naudojant "Microsoft teams" "PowerShell" modulį
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Ką galite atlikti naudodami "Microsoft Teams PowerShell" modulį
 
-Jei reikia žinoti, kaip įdiegti "teams" "PowerShell" modulį, galite patikrinti [šį interneto dienoraštį](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+Jei norite sužinoti, kaip įdiegti "Teams PowerShell" modulį, galite peržiūrėti šį interneto [dienoraštį](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
 
 Išsamesnė informacija:
 
-- Peržiūrėkite " [teams](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) " "PowerShell" apžvalgą, kad suprastumėte [administratoriaus vaidmenų galimybes](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [kurkite ir tvarkykite komandas naudodami "PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)" ir [tvarkykite strategijas](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) arba [konfigūracijas](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- Peržiūrėkite ["Microsoft teams PowerShell" komandų nuorodą](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) , skirtą "PowerShell" galimų komandų sąrašui. 
+- Peržiūrėkite [Teams "PowerShell"](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) apžvalgą, kad suprastumėte [administratoriaus](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)vaidmenų galimybes , kurkite ir valdykite komandas naudodami ["PowerShell"](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)ir [valdykite strategijas](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) arba [konfigūracijas](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
+- Peržiūrėkite [Microsoft Teams "PowerShell" komandos nuorodą,](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) kad būtų rodomas komandų sąrašas, pasiekiamas naudojant "PowerShell". 

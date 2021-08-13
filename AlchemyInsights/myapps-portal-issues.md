@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: 09e5b7c40f77f6221acc7c072d3ddf6f072e8d7fafdf29be8262dfeed051dddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986089"
 ---
 # <a name="myapps-portal-issues"></a>"MyApps" portalo problemos
 
-Norėdami šalinti triktis, kylančias prisijungiant prie arba naudojant "mano Apps" portalą, žiūrėkite [trikčių šalinimas su mano taikomųjų programų](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)portalu.
+Norėdami šalinti problemas, su kuriomis susiduriate prisijungdami prie portalo Mano programėlės arba naudodami jį, žr. Mano [programų portalo trikčių šalinimas.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Nematau taikomųjų programų, kurių tikėjausi programos prieigos skydelyje**
+**Programos prieigos skyde nematau programų, kurias tikėjausi**
 
-Informacijos, kaip sužinoti, kodėl taikomosios programos, kurių tikitės, nėra programos prieigos skydelyje, ieškokite:
+Informacijos, kodėl programos, kurių tikitės, nerodoma programų prieigos skyde, žr.:
 
-- [Nežinau, kodėl programa, kurią priskiriau, nerodoma "Access" skydelyje](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+- [Nežinau, kodėl priskirta taikomoji programa nerodoma prieigos skyde](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Nežinau, kodėl programa rodoma "Access" skydelyje](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+- [Nežinau, kodėl taikomoji programa rodoma prieigos skyde](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Kilo problemų prisijungiant prie programos prieigos skydelio**
+**Kyla problemų prisijungiant prie taikomosios programos prieigos skydo**
 
-Norėdami šalinti triktis, susijusias su prisijungimo prie programos prieigos skydelio problemomis, žiūrėkite:
+Norėdami šalinti prisijungimo prie taikomosios programos prieigos srities triktis, žr.:
 
-[Negaliu prisijungti prie "Access" skydo žiniatinklio svetainės](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Negaliu prisijungti prie prieigos skydo svetainės](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Kilo problemų naudojant programos prieigos skydelio naršyklės plėtinį**
+**Kyla problemų naudojant taikomųjų programų prieigos skydo naršyklės plėtinį**
 
-Norėdami šalinti triktis, susijusias su programos prieigos skydelio naršyklės plėtinio naudojimu, žiūrėkite:
+Norėdami pašalinti problemas, susijusias su taikomosios programos prieigos skydo naršyklės plėtinio naudojimu, žr.:
 
-[Mačiau klaidą diegiant programos prieigos skydelio naršyklės plėtinį](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Mačiau klaidos pranešimą diegiant taikomosios programos prieigos skydo naršyklės plėtinį](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Kyla problemų dėl programos prieigos skydelio funkcijos**
+**Kyla problemų dėl funkcijos taikomosios programos prieigos skyde**
 
-Norėdami šalinti triktis, susijusias su konkrečia funkcija programos prieigos skydelyje, žiūrėkite:
+Norėdami šalinti problemas, susijusias su konkrečia funkcija taikomosios programos prieigos skyde, žr.:
 
-- [Nežinau, kaip naudoti savitarnos programos prieigą](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Nežinau, kaip naudoti savitarnos taikomosios programos prieigą](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Susidūrėte su problema naudojant savitarnos programos prieigą](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Kilo problemų naudojant savitarnos taikomosios programos prieigą](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Jei kyla problemų diegiant arba naudojant "mano Apps" portalą**
+**Jei kyla problemų diegiant arba naudojant mano programėlių portalą**
 
-Norėdami pašalinti problemas, kurios kyla diegiant arba naudojant "MyApps" portalą, žiūrėkite:
+Norėdami šalinti problemas, kurios kyla diegiant arba naudojant "MyApps" portalą, žr.:
 
-- [Rinkinių kūrimas mano programų portale](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Rinkinių kūrimas portale Mano taikomosios programos](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Savitarnos taikomųjų programų priskyrimo konfigūravimas](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Savitarnos programos priskyrimo konfigūravimas](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- ["Mano Apps" portalo galutinių vartotojų problemų šalinimas](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Galutinio vartotojo problemų šalinimas mano programų portale](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

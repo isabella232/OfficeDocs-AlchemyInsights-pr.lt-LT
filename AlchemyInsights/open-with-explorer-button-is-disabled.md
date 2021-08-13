@@ -1,5 +1,5 @@
 ---
-title: Mygtukas atidaryti naudojant "Explorer" išjungtas
+title: Mygtukas Atidaryti naudojant "Explorer" išjungtas
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944607"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Išjungtas mygtukas atidaryti naudojant naršyklę
+# <a name="the-open-with-explorer-button-is-disabled"></a>Mygtukas Atidaryti naudojant "Explorer" išjungtas
 
-- Eikite į "SharePoint" arba "OneDrive" vietą programoje "Internet Explorer 10" arba "Internet Explorer 11". Mygtukas nesuderinamas su kitomis žiniatinklio naršyklėmis.
+- Eikite į SharePoint arba "OneDrive" vietą "Internet Explorer 10 Internet Explorer 11". Mygtukas nesuderinamas su kitomis žiniatinklio naršyklėmis.
     
 > [!NOTE]
-> Jei norite, kad būtų galima kopijuoti arba perkelti kelis failus ir aplankus, galite atidaryti biblioteką failų naršyklėje, bet jei norite reguliariai dirbti bibliotekoje, rekomenduojame ją sinchronizuoti. Jei reikia daugiau informacijos, kaip išspręsti kitas failų naršyklės atidaromas problemas, žiūrėkite [Atidaryti naudojant "Explorer"](https://go.microsoft.com/fwlink/?linkid=871665). Informacijos apie sinchronizavimo nustatymą ieškokite ["SharePoint" failų sinchronizavimas naudojant naująjį "OneDrive" sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Bibliotekos atidarymas failų naršyklėje yra patogus, jei reikia vieną kartą kopijuoti arba perkelti kelis failus ir aplankus, tačiau jei norite reguliariai dirbti bibliotekoje, rekomenduojame ją sinchronizuoti. Daugiau pagalbos ir kitų problemų, kurios atidaromos failų naršyklėje, trikčių šalinimas, žr. [Atidaryti naudojant "Explorer".](https://go.microsoft.com/fwlink/?linkid=871665) Informacijos apie sinchronizavimo nustatymą žr. [Failų sinchronizavimas SharePoint su naujuoju "OneDrive" sinchronizavimo programa klientu](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 
