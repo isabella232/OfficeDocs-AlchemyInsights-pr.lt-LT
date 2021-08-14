@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a187fec34ef3eae485a8a880127b5f82a028edb7f0e9a276a41b5e33cad25ead
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942843"
 ---
 # <a name="self-service-purchase-of-powershell"></a>Savitarnos "PowerShell" įsigijimas
 
-Norėdami naudoti MSCommerce "PowerShell" modulį, turite jį įdiegti "Windows 10" įrenginyje su TLS 1.2 (reikia vietinio administratoriaus teisių).  Importuokite ir prisijunkite prie MSCommerce modulio.  Kai būsite paraginti prisijungti, turėsite naudoti visuotinio arba atsiskaitymo administratoriaus vaidmens kredencialus.  
+Norėdami naudoti MSCommerce "PowerShell" modulį, turite jį įdiegti "Windows 10" įrenginyje su TLS 1.2 (būtinos vietinio administratoriaus teisės).  Importuokite ir prisijunkite prie MSCommerce modulio.  Kai būsite paraginti prisijungti, turėsite naudoti visuotinio arba atsiskaitymo administratoriaus vaidmens kredencialus.  
 
 Jei neturite TLS 1.2, bandydami gauti arba atnaujinti strategiją galite gauti šį klaidos pranešimą:
 

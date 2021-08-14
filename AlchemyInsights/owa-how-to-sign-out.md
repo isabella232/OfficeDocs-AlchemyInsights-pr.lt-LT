@@ -1,5 +1,5 @@
 ---
-title: Kaip atsijungti nuo "Outlook" žiniatinklyje
+title: Kaip atsijungti nuo internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063168"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kaip atsijungti nuo "Outlook" žiniatinklyje
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kaip atsijungti nuo internetinė "Outlook"
 
-Norėdami atsijungti nuo "Outlook" žiniatinklyje, viršutiniame dešiniajame kampe pasirinkite savo vardą arba paveikslėlį ir pasirinkite **Atsijungti**.
+Norėdami atsijungti nuo internetinė "Outlook", viršutiniame dešiniajame kampe pasirinkite savo vardą arba paveikslėlį ir pasirinkite **Atsijungti**.
 
-Norėdami baigti automatinį prisijungimą prie darbo arba mokymo įstaigos paskyros:
+Norėdami sustabdyti automatiškai prisijungti prie darbo arba mokymo įstaigos paskyros:
 
-1. Pasirinkite savo vardą arba nuotrauką ir pasirinkite **Atsijungti**.
-1. Eikite į [Outlook.Office.com](https://outlook.office.com/) ir pasirinkite **naudoti kitą paskyrą**.
-1. Prisijunkite naudodami elektroninio pašto adresą, kurį norite naudoti.
+1. Pasirinkite savo vardą arba paveikslėlį ir **pasirinkite Atsijungti**.
+1. Eikite [į Outlook.office.com](https://outlook.office.com/) ir pasirinkite **Naudoti kitą paskyrą**.
+1. Prisijunkite naudodami el. pašto adresą, kurį norite naudoti.
 
-Norėdami sužinoti daugiau, Sužinokite, [kaip prisijungti prie "Outlook" ir atsijunkite nuo interneto](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Norėdami sužinoti daugiau, [žr. Kaip prisijungti prie "Internetinė "Outlook""](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
