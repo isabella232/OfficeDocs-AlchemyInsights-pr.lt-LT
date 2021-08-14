@@ -1,5 +1,5 @@
 ---
-title: Bendrųjų problemų sprendimas naudojant DKIM įrašo formatavimą
+title: Dažniausiai pasitaikančių DKIM įrašų formatavimo problemų sprendimas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a59ca1c93121cb4681c0d44b85a9b756c07895b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930069"
 ---
-# <a name="fix-common-problems-with-dkim-record-formatting"></a>Bendrųjų problemų sprendimas naudojant DKIM įrašo formatavimą
+# <a name="fix-common-problems-with-dkim-record-formatting"></a>Dažniausiai pasitaikančių DKIM įrašų formatavimo problemų sprendimas
 
-Daugelis DKIM nustatymo problemų yra susijusios su klaidingais DNS įrašais.
+Dauguma DKIM set-up problemų yra susijusios su netinkamais DNS įrašais.
 
-Norėdami sutvarkyti DKIM nustatymo problemas, patikrinkite, ar teisingai suformatuotas DKIM CNAME įrašas (**ne** txt įrašas). Daugiau informacijos ieškokite [ką reikia daryti norint rankiniu būdu nustatyti DKIM "Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)".
+Norėdami išspręsti DKIM rinkinio problemas, patikrinkite, ar tinkamai suformatuotas DKIM CNAME įrašas **(ne** TXT įrašas). Daugiau informacijos žr. Ką reikia daryti norint rankiniu būdu nustatyti [DKIM "Office 365".](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
-Jei reikia pagalbos dėl DNS įrašų, ieškokite [DNS įrašų kūrimas bet kuriame DNS išteklių nuomos teikėjo, skirto "Office 365"](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Jei reikia pagalbos dėl DNS įrašų apskritai, žr. DNS įrašų [kūrimas bet kuriame DNS išteklių](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)nuomos teikėjo Office 365 .
 
 > [!NOTE]
-> Kai savo domeno DNS išteklių nuomos tarnyboje sukuriate arba naujinate savo DKIM DNS įrašus, turėsite palaukti, kol DNS įrašus išplatins.
+> Sukūrę arba atnaujinę DKIM DNS įrašus savo domeno DNS išteklių nuomos paslaugoje, turėsite palaukti, kol bus platinami DNS įrašai.

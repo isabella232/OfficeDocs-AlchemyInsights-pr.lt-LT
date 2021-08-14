@@ -1,5 +1,5 @@
 ---
-title: 1050 Antispam 4.7.500 serveris užimtas. Bandykite dar kartą vėliau iš [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Serveris užimtas. Bandykite dar kartą vėliau iš [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932645"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 serveris užimtas, bandykite dar kartą vėliau
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Serveris užimtas, bandykite dar kartą vėliau
 
-Ši klaida įvyksta, kai elektroninio pašto srauto kiekis iš šaltinio IP adreso viršija ribą, pagrįstą "Source IP address" geru vardu (arba reputacijos neturėjimu).
+Ši klaida įvyksta, kai el. pašto srauto iš šaltinio IP adreso apimtis viršija šaltinio IP adreso reputacijos (arba reputacijos trūkumo) ribą.
 
-Laiškų blokavimas iš šaltinio IP adreso nustos galioti per valandą. Jei šaltinio IP adresas yra vietinis el. pašto serveris, kuris priklauso jums, patikrinkite pašto srauto jungties konfigūraciją. Jei veiksmas tęsiasi ilgiau nei valandą, kreipkitės į palaikymo tarnybą, kad prašytumėte šaltinio IP adreso išimties.
+El. pašto blokavimas iš šaltinio IP adreso nustos galioti per valandą. Jei šaltinio IP adresas yra vietinis el. pašto serveris, kuris priklauso jums, patikrinkite pašto srauto jungties konfigūraciją. Jei veikimas tęsiasi ilgiau nei valandą, kreipkitės į palaikymo tarnybą, kad būtų galima prašyti šaltinio IP adreso išimties.

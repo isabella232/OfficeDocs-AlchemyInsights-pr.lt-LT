@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929817"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>"SharePoint" koncentratoriaus svetainės kūrimas
+# <a name="create-a-sharepoint-hub-site"></a>Sukurkite SharePoint telkinio svetainę
 
-1. Naujajame "SharePoint" administravimo centre, dalyje **svetainės**spustelėkite **aktyvios svetainės**.
+1. Naujo administravimo SharePoint dalyje Svetainės **spustelėkite** Aktyvios **svetainės**.
 
-2. Pažymėkite svetainę, kurią norite naudoti kaip koncentratorių svetainę, spustelėkite **koncentratoriaus svetainė**, tada spustelėkite **registruotis kaip koncentratoriaus svetainė**.
+2. Pasirinkite svetainę, kurią norite būti koncentratoriaus svetaine, spustelėkite **Koncentratoriaus** svetainė , tada spustelėkite **Registruoti kaip koncentratoriaus svetainę**.
 
-3. Nustatykite koncentratoriaus svetainės rodomą pavadinimą ir nurodykite atskirus vartotojus ar saugos grupes, su kuriomis norite leisti susieti svetaines su koncentratoriumi.
+3. Įveskite koncentratoriaus svetainės rodomą pavadinimą ir nurodykite atskirus vartotojus arba saugos grupes, kurias norite leisti susieti svetaines su koncentratorių.
 
     > [!NOTE]
-    >  Rekomenduojame pasirinkti bendravimo svetainę arba komandos svetainę, kuri naudoja naująjį šabloną. Jei naudojate klasikinę komandos svetainę, koncentratoriaus naršymas bus rodomas tik šiuolaikiniuose puslapiuose, o koncentratoriaus svetainės parametrai bus matomi tik šiuolaikiniuose puslapiuose. Svetainės, kurios jau yra susietos su kitu koncentratoriumi, negali būti registruojamos kaip koncentratoriaus svetainė.
+    >  Rekomenduojame pasirinkti ryšių svetainę arba komandos svetainę, kuri naudoja naują šabloną. Jei naudojate klasikinę komandos svetainę, koncentratoriaus naršymas bus rodomas tik moderniuose puslapiuose, o koncentratoriaus svetainės parametrai bus rodomi tik moderniuose puslapiuose. Svetainių, kurios jau susietos su kitu koncentratorių, negalima registruoti kaip koncentratoriaus svetainės.
   
 [Sužinokite daugiau apie koncentratoriaus svetaines](https://go.microsoft.com/fwlink/?linkid=869149)
   

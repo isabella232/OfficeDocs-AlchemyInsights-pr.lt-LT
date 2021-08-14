@@ -1,5 +1,5 @@
 ---
-title: "\"Android Enterprise\" registracijos klaida: \"MGP\" nustatymo nustatymas"
+title: "\"Android Enterprise\" registracijos klaida: MGP nustatymo aptikimas"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932861"
 ---
-# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>"Android Enterprise" registracijos klaida: "MGP" nustatymo nustatymas
+# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>"Android Enterprise" registracijos klaida: MGP nustatymo aptikimas
 
-Nustatėme, kad valdomas "Google Play" nėra nustatytas arba atjungtas jūsų paskyrai. Dėl to gali nepavykti užregistruoti įrenginių "Android Enterprise" scenarijuose, kuriuose būtinas valdomojo "Google Play" Prisijungimas.
+Aptikome, kad jūsų paskyrai nėra nustatyta arba atjungta valdoma "Google Play". Dėl to gali nepavykti užregistruoti įrenginių "Android Enterprise" scenarijuose, kai reikalingas valdomas "Google Play" ryšys.
 
-Galite patikrinti valdomą "Google Play" prisijungimo būseną "MEM" konsolėje, dalyje **nuomotojo administravimas > nuomotojo būsena > jungties būsena** ir peržiūrėkite toliau pateiktus dokumentus, kad sužinotumėte, kaip prijungti savo Intune paskyrą prie valdomos "Google" paskyros: **[prijunkite savo Intune paskyrą prie valdomos "Google Play"](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** paskyros.
+Valdomo "Google Play" ryšio būseną galite patikrinti MEM konsolės dalyje Nuomotojo administravimas > Nuomotojo būsena **> Jungties būsena** ir peržiūrėti toliau nurodytą dokumentaciją, kad sužinotumėte, kaip prijungti "Intune" paskyrą prie valdomos "Google" **[paskyros: Prisijungimas "Intune" paskyrą prie valdomos "Google Play" paskyros.](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**

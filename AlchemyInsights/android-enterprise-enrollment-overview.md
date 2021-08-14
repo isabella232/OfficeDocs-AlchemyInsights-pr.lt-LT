@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932897"
 ---
 # <a name="android-enterprise-enrollment---overview"></a>"Android Enterprise" registracija – apžvalga
 
-Norėdami naudoti "Android Enterprise" registraciją jūsų organizacijoje, pirmiausia turite [prijungti savo Intune paskyrą prie valdomos "Google Play" paskyros](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Norėdami naudoti "Android Enterprise" registraciją organizacijoje, pirmiausia [turite Prisijungimas "Intune" paskyrą į valdomą "Google Play" paskyrą.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
 
-Prijungę sėkmingai, galite pasirinkti reikiamus veiksmus su "Android" įtraukimo tipu, kurį reikia atlikti vartotojams:
+Sėkmingai prijungę, galite pasirinkti tinkamus "Android" registracijos tipo veiksmus, kuriuos turėtų atlikti jūsų vartotojai:
 
-- ["Android Enterprise" darbo profilių įrenginių registracijos nustatymas](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- ["Android Enterprise" skirtų įrenginių "Intune" registracijos nustatymas](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- ["Android Enterprise" visiškai valdomų įrenginių Intune registracijos nustatymas](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- ["Android Enterprise" darbo profilių įrenginių registracijos nustatyti](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- ["Intune" registracija "Android Enterprise" skirtuose įrenginiuose](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- ["Intune" registracijos "Android Enterprise" visiškai valdomų įrenginių nustatyti](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Sąrankos ir "Android Enterprise" įrenginių diegimo darbo eigoje kartu su DUK peržiūra rasite ["Microsoft Intune" "Android Enterprise" įrenginių konfigūravimas ir trikčių diagnostika](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+"Android Enterprise" įrenginių sąrankos ir registracijos darbo eiga kartu su DUK peržiūra, žr. "Android Enterprise" įrenginių konfigūravimas ir [trikčių šalinimas "Microsoft Intune".](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune)
 
-Informacijos apie trikčių diagnostikos įrenginio registraciją apskritai ir kai kurias "Android" registracijos klaidas ieškokite [įrenginio įtraukimo į "Microsoft Intune" trikčių šalinimas](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Informacijos apie įrenginių registracijos trikčių diagnostiką apskritai ir kai kurias "Android" registracijos klaidas žr. Įrenginio registracijos [trikčių šalinimas "Microsoft Intune"](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Jei jus domina "COSU" įrenginių QR kodų registracija, peržiūrėkite [šį interneto dienoraštį](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Jei jus domina COSU įrenginių QR kodo registracijos mentodas, žr. šį interneto [dienoraštį](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
 
-Taip pat galite naudoti [turinį, aprašantį "Intune" trikčių diagnostikos diską](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , kad nustatytumėte, kokios registracijos problemos kyla vartotojams.
+Taip pat galite naudoti [turinį, aprašantį "Intune"](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) trikčių diagnostikos ašmenį, kad lengviau identifikuokite, kokios registracijos problemos kyla vartotojams.

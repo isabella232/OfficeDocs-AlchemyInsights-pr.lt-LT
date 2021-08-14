@@ -1,5 +1,5 @@
 ---
-title: 1051 Antispam 4.7.500 prieiga uždrausta, bandykite dar kartą vėliau
+title: 1051 Antispam 4.7.500 Prieiga uždrausta, bandykite dar kartą vėliau
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932681"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>"4.7.500" prieiga uždrausta, bandykite dar kartą vėliau
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Prieiga uždrausta, bandykite dar kartą vėliau
 
-Ši klaida įvyksta, kai elektroninio pašto srauto kiekis iš šaltinio IP adreso viršija ribą, pagrįstą "Source IP address" geru vardu (arba reputacijos neturėjimu).
+Ši klaida įvyksta, kai el. pašto srauto iš šaltinio IP adreso apimtis viršija šaltinio IP adreso reputacijos (arba reputacijos trūkumo) ribą.
 
-Laiškų blokavimas iš šaltinio IP adreso nustos galioti per valandą. Jei šaltinio IP adresas yra vietinis el. pašto serveris, kuris priklauso jums, patikrinkite pašto srauto jungties konfigūraciją. Jei veiksmas tęsiasi ilgiau nei valandą, kreipkitės į palaikymo tarnybą, kad prašytumėte šaltinio IP adreso išimties.
+El. pašto blokavimas iš šaltinio IP adreso nustos galioti per valandą. Jei šaltinio IP adresas yra vietinis el. pašto serveris, kuris priklauso jums, patikrinkite pašto srauto jungties konfigūraciją. Jei veikimas tęsiasi ilgiau nei valandą, kreipkitės į palaikymo tarnybą, kad būtų galima prašyti šaltinio IP adreso išimties.
