@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 425c5c0f12bed27bb72a0eb0fec803d7b61d9d0f873563dc6439cbfda9fdd08c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959367"
 ---
 # <a name="remove-the-large-attachment"></a>Didelio priedo pašalinimas
 
-1. Programoje "Outlook" pasirinkite **Siųsti / gauti darbą**  >  **neprisijungus**. 
+1. "Outlook" pasirinkite **Siųsti / gauti darbą**  >  **neprisijungus**. 
 2. Naršymo srityje pasirinkite **Siunčiama**. Čia galite: 
     - Panaikinkite pranešimą (pažymėkite jį ir pasirinkite **Naikinti**).
     - Vilkite laišką į aplanką Juodraščiai, dukart spustelėkite, kad jį atidarytumėte, ir pašalinkite priedą, tada pasirinkite **Naikinti**).
-3. Jei gaunate klaidos pranešimą, kad "Outlook" bando perduoti pranešimą, uždarykite "Outlook". Gali šiek tiek užtrukti, kad išeitumėte. Jei "Outlook" uždaro, paspauskite Ctrl + Alt + Delete ir pasirinkite **Paleisti užduočių tvarkytuvą**. Užduočių tvarkytuve pasirinkite skirtuką **Procesai,** slinkite žemyn iki outlook.exe ir pasirinkite **Baigti procesą**.
-4. Kai "Outlook" uždarys, paleiskite ją iš naujo ir pakartokite 2 ir 3 veiksmus. 
+3. Jei gaunate klaidos pranešimą, Outlook bandote perduoti pranešimą, uždarykite Outlook. Gali šiek tiek užtrukti, kad išeitumėte. Jei Outlook, paspauskite Ctrl + Alt + Delete ir pasirinkite Paleisti **užduočių tvarkytuvą**. Užduočių tvarkytuve pasirinkite skirtuką **Procesai,** slinkite žemyn iki outlook.exe ir pasirinkite **Baigti procesą**.
+4. Kai Outlook, paleiskite jį iš naujo ir pakartokite 2 ir 3 veiksmus. 
 5. Kai pašalinsite priedą, spustelėkite **Siųsti / gauti darbą**  >  **neprisijungus,** kad tęstumėte darbą internete. 
 
 Pranešimai taip pat užstringa aplanke Siunčiama, kai **spustelėsite Siųsti**, bet nesate prisijungę. Spustelėkite **Siųsti / gauti ir** peržiūrėkite mygtuką Dirbti **neprisijungus.** Jei jis mėlynas, esate atjungtas. Spustelėkite jį, kad prisijungtumėte (mygtukas tampa baltas) ir spustelėkite **Siųsti viską.**

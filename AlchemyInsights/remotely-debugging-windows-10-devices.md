@@ -1,5 +1,5 @@
 ---
-title: Darbo su nuotoliniu "Windows 10" įrenginių derinimui pradžia
+title: Darbo su nuotoliniu būdu derinimo su Windows 10 įrenginiais pradžia
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959403"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darbo su nuotoliniu "Windows 10" įrenginių derinimui pradžia
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darbo su nuotoliniu būdu derinimo su Windows 10 įrenginiais pradžia
 
 Norėdami nuotoliniu būdu derinti tiesioginį turinį "Windows 10" įrenginyje iš "Windows" arba "macOS" kompiuterio:
 
-1. Nustatykite "Windows 10" įrenginį nuotoliniam derinimui, tada prisijunkite prie jo iš savo kūrimo įrenginio.
-2. Patikrinkite ir derinti tiesioginį turinį "Windows 10" įrenginyje iš savo kūrimo įrenginio.
-3. Ekrano transliavimas iš "Windows 10" įrenginio į "DevTools" egzempliorių jūsų kūrimo kompiuteryje.
+1. Nustatykite savo Windows 10 nuotolinį derinimą, tada prisijunkite prie jo iš savo kūrimo įrenginio.
+2. Patikrinkite ir debug live content on your Windows 10 device from your development machine.
+3. Ekrano transliacijos turinys iš Windows 10 įrenginio į "DevTools" egzempliorių jūsų kūrimo kompiuteryje.
 
-Norėdami sužinoti daugiau, [žr. Nuotolinės derinimo su "Windows 10" įrenginiais naudojant "Microsoft Edge" pradžia.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Norėdami sužinoti daugiau, [žr. Darbo pradžia nuotolinės derinimo Windows 10 įrenginiuose naudojant Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

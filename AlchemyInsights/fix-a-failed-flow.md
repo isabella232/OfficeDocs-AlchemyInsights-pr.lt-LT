@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945975"
 ---
-# <a name="fix-a-flow-that-failed"></a>Nepavykto pašalinti srautas
+# <a name="fix-a-flow-that-failed"></a>Nepavykusio srauto taisymas
 
-1. Eikite į ["Microsoft Flow"](https://flow.microsoft.com/), tada viršutinėje dešiniojoje srityje spustelėkite piktogramą pranešimai. (Arba mobiliųjų įrenginių programėlėje pasirinkite skirtuką veikla.) Pasirinkite srautą, kurio nepavyko pažiūrėti į išsamią informaciją.
+1. Eikite ["Microsoft Flow"](https://flow.microsoft.com/)ir spustelėkite piktogramą Pranešimai viršutiniame dešiniajame kampe. (Arba mobiliųjų įrenginių programėlėje pasirinkite skirtuką Veikla.) Pasirinkite srautą, kuriame nepavyko peržiūrėti išsamios informacijos.
     
-2. Raskite veiksmą su raudona šauktuko piktograma, kad pamatytumėte klaidos pranešimą srautui.
+2. Raskite veiksmą naudodami raudoną šauktuko piktogramą, kad pamatytumėte srauto klaidos pranešimą.
     
-3. Atsižvelgiant į klaidos pranešimą, turėtumėte galėti redaguoti srautą ir jį išspręsti. 
+3. Atsižvelgiant į klaidos pranešimą, turėtumėte galėti redaguoti srautą ir jį ištaisyti. 
     
-[Dažnai pasitaikančių srautų gedimai](https://go.microsoft.com/fwlink/?linkid=872110)
+[Dažnos srauto klaidos](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
