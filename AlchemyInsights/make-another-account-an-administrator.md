@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993217"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Standartinės vartotojo paskyros keitimas administratoriui sistemoje "Windows 10"
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Standartinės vartotojo paskyros keitimas į "Windows 10
 
-Štai kaip pakeisti standartinę vartotojo paskyrą į "Windows 10" administratorių:
+Štai kaip galite pakeisti standartinę vartotojo paskyrą administratoriui Windows 10:
 
-1. Eikite **į Pradžia**  >  **Parametrai**  >  **Paskyros** šeima & kitų žmonių (arba Kitų žmonių , jei  >   naudojate "Windows 10 Enterprise").
+1. Eikite **į**  >  **Parametrai**  >    >  **paskyros šeimos &** (arba **Kiti** žmonės, jei naudojate Windows 10 Enterprise).
 2. Pasirinkite paskyrą, kurią norite padaryti administratoriumi, tada pasirinkite **Keisti paskyrą**.
 3. Dalyje **Paskyros tipas** pasirinkite **Administratorius**, tada pasirinkite **Gerai**.
 

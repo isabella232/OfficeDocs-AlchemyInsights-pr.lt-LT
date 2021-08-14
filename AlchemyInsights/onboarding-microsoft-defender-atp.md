@@ -1,5 +1,5 @@
 ---
-title: Parengimo "Microsoft" sargybos ATP
+title: "\"Microsoft\" sargybos ATP parengimas"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985477"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Parengimo "Microsoft" sargybos ATP
+# <a name="onboarding-microsoft-defender-atp"></a>"Microsoft" sargybos ATP parengimas
 
-Išteklių, kuriuos galima naudoti ""Microsoft" sargybos ATP", "Windows 10", Windows "Mac" ir "Linux" kompiuteriuose, žr.: 
+"Microsoft" sargybos ATP išteklių, Windows 10, "Windows" serverių ir "Mac" bei "Linux" įrenginių, žr.: 
 
 - **Windows 10 mašinos** Atsižvelgiant į jūsų verslo reikalavimus, galite pasirinkti iš parinkčių, kad būtų galima naudoti įrenginį, kuriame veikia Windows 10. Daugiau informacijos ieškokite "Windows 10" įrenginių [parengimo įrankiai ir metodai.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows serveriai** Norėdami "Microsoft" sargybos ATP "Windows Server" versiją, žr. ["Onboard" serveriai](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)su "Microsoft" sargybos ATP tarnyba .
+- **Windows serveriai** Norėdami įdiegti "Microsoft" sargybos ATP savo "Windows Server" versiją, žr. ["Microsoft" sargybos ATP tarnybos "Onboard" serveriai.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
 - **Ne Windows galiniai punktai**  Prieš įeidami į ne "Windows" sistemą, turite atitikti ["Mac"](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) arba ["Linux"](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)sistemos reikalavimus.
 
