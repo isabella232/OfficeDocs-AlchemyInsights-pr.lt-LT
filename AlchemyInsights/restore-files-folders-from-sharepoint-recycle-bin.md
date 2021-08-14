@@ -1,5 +1,5 @@
 ---
-title: Failų arba aplankų atkūrimas iš "SharePoint" šiukšlinės
+title: Failų arba aplankų atkūrimas iš SharePoint šiukšlinės
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3195"
-ms.openlocfilehash: fc401c90c2b07306f2684f2fc8c62863ee469f01
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bbccbd7c578a59faab076ee533ad22f6621fa4c1065ead9adce091acb0ef51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981985"
 ---
-# <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a>Failų arba aplankų atkūrimas iš "SharePoint" šiukšlinės 
+# <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a>Failų arba aplankų atkūrimas iš SharePoint šiukšlinės 
 
-Kai panaikinate elementą iš "SharePoint" dokumentų bibliotekos arba sąrašo, jis iš karto nepašalinamas iš "SharePoint". Panaikinti elementai tam tikrą laiką patenka į svetainės šiukšlinę. Tuo metu galite atkurti panaikintus elementus į pradinę vietą.
+Kai panaikinate elementą iš SharePoint bibliotekos arba sąrašo, jis iš karto nepašalinamas iš SharePoint. Panaikinti elementai tam tikrą laiką patenka į svetainės šiukšlinę. Tuo metu galite atkurti panaikintus elementus į pradinę vietą.
 
-- [Failų arba aplankų atkūrimas iš "SharePoint" šiukšlinės](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [Failų arba aplankų atkūrimas iš SharePoint šiukšlinės](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Panaikintų failų arba aplankų atkūrimas "OneDrive"](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)

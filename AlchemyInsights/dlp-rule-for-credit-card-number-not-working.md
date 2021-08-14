@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005098"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP problemos su kredito kortelių numeriais
 
@@ -26,35 +26,35 @@ ms.locfileid: "47679449"
 
 **DLP problemos su kredito kortelių numeriais**
 
-Kyla problemų, susijusių su **duomenų praradimo prevencija (DLP)** neveikia turiniui, kuriame yra **kredito kortelės numeris** , kai naudojant DLP slaptą informacijos tipą "O365"? Jei taip, įsitikinkite, kad jūsų turinyje yra reikalinga informacija, kad suaktyvintų DLP strategiją, kai ji vertinama. Pvz., **kredito kortelės strategijos** , sukonfigūruotos naudojant 85% pasikliautinąjį lygį, toliau pateikiami įvertinti ir turi būti aptikti taisyklės, kad būtų galima suaktyvinti:
+Ar kyla problemų dėl duomenų  **praradimo prevencijos (DLP)** neveikia turiniui, kuriame yra kredito kortelės numeris, kai naudojate DLP slaptos informacijos tipą "O365"? Jei taip, įsitikinkite, kad jūsų turinyje yra reikiamos informacijos, kad būtų suaktyvinta DLP strategija, kai ji įvertinama. Pvz., kredito **kortelės strategijos,** sukonfigūruotos 85 % patikimumo lygiu, atveju įvertinami ir turi būti aptinkami šie taisyklės paleidimo rezultatai:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 skaitmenų, kuriuos galima formatuoti arba nesuformatuoti (dddddddddddddddd) ir turi praeiti Luhn testą.
+- **[Formatas:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 skaitmenų, kurie gali būti suformatuoti arba neformatuoti (dddddddddddddd) ir turi išlaikyti Luhn testą.
 
-- **[Raštas:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Labai sudėtingas ir tvirtas raštas, kuris aptinka korteles iš visų didžiųjų prekinių ženklų visame pasaulyje, įskaitant visa, MasterCard, Discover Card, JCB, American Express, dovanų korteles ir Diner korteles.
+- **[Raštas:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Labai sudėtingas ir patikimas modelis, kuris aptinka korteles iš visų pagrindinių prekių ženklų visame pasaulyje, įskaitant "Visa", "MasterCard", "Discover Card", JCB, "American Express", dovanų korteles ir diner korteles.
 
-- **[Kontrolinė suma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Taip, Luhn kontrolinė suma
+- **[Kontrolinė suma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Taip, Luhn checksum
 
-- **[Apibrėžimas:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP strategija yra 85% įsitikinę, kad jis aptinka šio tipo slaptą informaciją, jei "300" simbolių arti:
+- **[Apibrėžimas:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP strategija yra 85 % užtikrinta, kad ji aptiko šio tipo slaptą informaciją, jei šalia 300 simbolių:
 
-  - Funkcija Func_credit_card randa turinį, atitinkantį raštą.
+  - Funkcija Func_credit_card randa turinį, kuris atitinka šabloną.
 
-  - Patenkinama viena iš šių veiksmų:
+  - Teisingas vienas iš šių sąlygų:
 
-  - Randamas raktažodis iš Keyword_cc_verification.
+  - Rastas Keyword_cc_verification žodis.
 
-  - Randamas raktažodis iš Keyword_cc_name
+  - Rastas Keyword_cc_name žodis
 
-  - Funkcija Func_expiration_date randa datą reikiamu datos formatu.
+  - Funkcija Func_expiration_date randa datą tinkamu datos formatu.
 
-  - Kontrolinė suma eina
+  - Pereina čekis
 
-    Pvz., Šis pavyzdys turėtų suaktyvinti DLP kredito kortelės numerio strategiją:
+    Pvz., šis pavyzdys paleis DLP kredito kortelės numerio strategiją:
 
-  - Viza: 4485 3647 3952 7352
+  - Visa: 4485 3647 3952 7352
   
-  - Galiojimo laikas: 2/2009
+  - Baigiasi: 2009-02-02
 
-Daugiau informacijos apie tai, ko reikia **kredito kortelės numeriui** aptikti jūsų turinyje, ieškokite šiame straipsnyje šiame straipsnyje: [kas yra slaptos informacijos tipai ieškoti kredito kortelės #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Daugiau informacijos apie tai,  ko reikia norint aptikti jūsų turinio kredito kortelės numerį, žr. šiame straipsnyje: Kas yra slaptos informacijos tipai, [ieškoti kredito kortelės#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Naudodami kitą įtaisytąjį slaptą informacijos tipą, skaitykite šį straipsnį informacijos apie tai, ko reikia kitiems tipams: [kaip atrodo slaptos informacijos tipai](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Naudodami kitą įtaisytą slaptos informacijos tipą, informacijos apie tai, ko reikia kitiems tipams, ieškokite šiame straipsnyje: Kokio tipo [slaptos informacijos tipų ieškoti](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

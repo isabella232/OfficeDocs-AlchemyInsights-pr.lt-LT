@@ -1,5 +1,5 @@
 ---
-title: Neleiskite komandoms automatiškai paleisti
+title: Automatinis Teams paleidimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923804"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Neleiskite komandoms automatiškai paleisti
+# <a name="prevent-teams-from-starting-automatically"></a>Automatinis Teams paleidimas
 
-Pagal numatytuosius "teams" automatiškai atidaromas paleidus įrenginį.
+Pagal numatytuosius nustatymus Teams automatiškai, kai paleidžiate įrenginį.
 
-Norėdami pakeisti šį parametrą, pasirinkite savo komandų profilio paveikslėlį, tada pasirinkite **Parametrai**  >   **bendrai**. Dalyje  **taikomoji**programa pasirinkite  **automatiškai paleisti taikomąją programą**.
+Norėdami pakeisti šį parametrą, pasirinkite Teams profilio paveikslėlį, **tada pasirinkite Parametrai**  >   **Bendra**. Dalyje  **Taikomoji** programa atžymėk  **automatinio paleidimo taikomąją programą**.
 
-Daugiau informacijos rasite "  [teams" parametrų keitimas](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Daugiau informacijos [žr. Parametrų keitimas Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).

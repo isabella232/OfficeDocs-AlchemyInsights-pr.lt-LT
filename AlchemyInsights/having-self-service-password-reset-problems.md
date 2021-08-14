@@ -1,5 +1,5 @@
 ---
-title: Turite savo savitarnos slaptažodžio nustatymo iš naujo (SSPR) problemas?
+title: Kyla savitarnos slaptažodžio nustatymo iš naujo (SSPR) problemų?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945858"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Turite savo savitarnos slaptažodžio nustatymo iš naujo (SSPR) problemas?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Kyla savitarnos slaptažodžio nustatymo iš naujo (SSPR) problemų?
 
-Įprasti savitarnos slaptažodžio nustatymo iš naujo (SSPR) problemos hibridinio debesies ir vietiniame aplinkoje:
+Bendrosios savitarnos slaptažodžio nustatymo iš naujo (SSPR) problemos hibridinės debesies ir vietinėse aplinkose yra:
 
-- ["SSPR" slaptažodžio įrašymo funkcija neįgalinta](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Nepriskirta "Azure AD Premium" licencija](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- " [AZURE AD Connect" problemos](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) arba darbo [tinkle problemos](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Neįgalintas SSPR slaptažodžio nurašymas](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Nepriskirta "Azure AD premium" licencija](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- ["Azure AD Prisijungimas arba tinklo](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [problemos](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
 - [SSPR autentifikavimo metodai neregistruoti](https://mysignins.microsoft.com/security-info)
-- [Nepalaikomi "write-back" scenarijai](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , pvz., "Microsoft 365" administravimo centras arba administratoriai, naudojantys SSPR
+- [Nepalaikomi įrašymo atgaliniai scenarijai,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) pvz., "Microsoft 365" administravimas centras arba administratoriai, naudojantys SSPR
 
 
 Daugiau informacijos rasite:
 
 - [Savitarnos slaptažodžio nustatymo iš naujo trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Savitarnos slaptažodžio nustatymo iš naujo "Azure Active Directory" trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Savitarnos slaptažodžio nustatymo iš naujo nurašymo iš naujo trikčių šalinimas "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
