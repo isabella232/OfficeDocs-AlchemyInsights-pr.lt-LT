@@ -1,5 +1,5 @@
 ---
-title: El. pašto SF – palikimas
+title: El. pašto sąskaita faktūra – senstelėjusi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003631"
 ---
-# <a name="e-mail-invoice---legacy"></a>El. pašto SF – palikimas
+# <a name="e-mail-invoice---legacy"></a>El. pašto sąskaita faktūra – senstelėjusi
 
-**Pasirinkite, kad gautumėte prenumeratos sąskaitas elektroniniu paštu**
+**Pasirinkite gauti prenumeratos sąskaitas faktūras el. paštu**
 
-Turite turėti abonemento administratoriaus vaidmenį prenumeratoje arba palaikymo plane, kad pasirinktumėte gauti sąskaitą faktūrą elektroniniu paštu. El. pašto sąskaitos faktūros galimos tik prenumeratoms ir palaikymo planams, o ne užsakymams arba "Azure Marketplace" pirkiniams. Pasirinkę, galite įtraukti papildomų gavėjų, kurie gaus sąskaitą ir elektroniniu paštu.
+Privalote turėti prenumeratos paskyros administratoriaus vaidmenį arba palaikymo planą, kad pasirinktumėte gauti jos sąskaitas faktūras el. paštu. Sąskaitų faktūrų gavimas el. paštu pasiekiamas tik prenumeratoms ir palaikymo planams, bet ne rezervavimui arba pirkimams „Azure“ parduotuvėje. Kai pasirinksite, galite įtraukti papildomų gavėjų, kurie taip pat gaus sąskaitą faktūrą el. paštu.
 
-Atlikite šiuos veiksmus, kad gautumėte prenumeratos sąskaitas elektroniniu paštu:
+Atlikite šiuos veiksmus, kad gautumėte prenumeratos sąskaitas faktūras el. paštu:
 
-1. Prisijunkite prie " [Azure" portalo](https://portal.azure.com/).
-2. Ieškokite **išlaidų valdymo + atsiskaitymas**.
-3. Pasirinkite **sąskaitas** iš kairėje esančių parinkčių.
-4. Pasirinkite "Azure" prenumeratos arba palaikymo plano prenumeratą, tada pasirinkite **gauti sąskaitą faktūrą el. paštu**.
-5. Spustelėkite **Siųsti sąskaitą faktūrą** ir sutikite su sąlygomis.
-6. Sąskaita bus nusiųsta jūsų pageidaujamam bendravimo el. paštui. Pasirinkite **atnaujinti profilį** , kad atnaujintumėte el. laišką.
+1. Prisijunkite prie [„Azure“ portalo](https://portal.azure.com/).
+2. Ieškokite dalies **Išlaidų valdymas + Atsiskaitymas**.
+3. Kairėje **pusėje** pusėje pasirinkite Sąskaitos faktūros.
+4. Pasirinkite „Azure“ prenumeratą arba palaikymo plano prenumeratą, tuomet pasirinkite **Gauti sąskaitas faktūros el. paštu**.
+5. Spustelėkite **Siųsti sąskaitą faktūrą el. paštu** ir sutikite su sąlygomis.
+6. Sąskaita faktūra išsiunčiame jūsų pasirinktu naudojamu el. pašto adresu. Pasirinkite **Naujinti profilį**, kad atnaujintumėte el. pašto adresą.
 
 **Papildomų gavėjų įtraukimas norint gauti sąskaitas faktūras**
 
-Norėdami bendrinti savo prenumeratos ir palaikymo plano sąskaitas kiekvieną mėnesį su savo apskaitos komanda arba nusiųsti juos į vieną iš kitų el. pašto adresų:
+Norėdami bendrinti savo prenumeratos ir palaikymo plano sąskaitas kas mėnesį su apskaitos komanda arba siųsti jas vienu iš kitų el. pašto adresų:
 
-1. Atlikite anksčiau nurodytus veiksmus, kad pirmiausia įgalintumėte sąskaitą faktūrą pagal el. paštą, tada pasirinkite **Konfigūruoti gavėjus.**
-2. Įveskite elektroninio pašto adresą, tada pasirinkite **įtraukti gavėją**. Galite įtraukti kelis elektroninio pašto adresus.
-3. Įtraukę visus el. pašto adresus, ekrano apačioje pasirinkite **atlikta** .
+1. Atlikite anksčiau nurodytus veiksmus, kad pirmiausia įgalintumėte sąskaitą faktūrą el. paštu, tada **pasirinkite Konfigūruoti gavėjus.**
+2. Įveskite el. pašto adresą, o tuomet pasirinkite **Įtraukti gavėją**. Galite įtraukti kelis el. pašto adresus.
+3. Įtraukę visus el. pašto adresus, ekrano apačioje pasirinkite **Atlikta**.
 
 **Leisti kitiems atsisiųsti jūsų prenumeratos sąskaitą faktūrą**
 
-Norėdami leisti vartotojams/grupėms su prenumeratos lygio prieiga ir atsisiųsti jūsų sąskaitą faktūrą:
+Norėdami leisti vartotojams / grupėms, kurie turi prenumeratos lygio prieigą, atsisiųsti sąskaitą faktūrą:
 
-1. Prisijunkite prie " [Azure" portalo](https://portal.azure.com/) kaip prenumeratos administratoriaus paskyros.
-2. Ieškokite **išlaidų valdymo + atsiskaitymas**.
-3. Pasirinkite **sąskaitas** iš kairėje esančių parinkčių.
-4. Pasirinkite "Azure" prenumeratą, tada spustelėkite **leisti kitiems atsisiųsti sąskaitą faktūrą**.
-5. Pasirinkite **įjungta** ir **įrašykite** puslapio viršuje.
+1. Prisijunkite prie ["Azure" portalo](https://portal.azure.com/) kaip prenumeratos paskyros administratorius.
+2. Ieškokite dalies **Išlaidų valdymas + Atsiskaitymas**.
+3. Kairėje **pusėje** pusėje pasirinkite Sąskaitos faktūros.
+4. Pasirinkite savo "Azure" prenumeratą, tada **spustelėkite Leisti kitiems atsisiųsti sąskaitą faktūrą.**
+5. **Pasirinkite** On **(į), tada** – Įrašyti puslapio viršuje.
 
 > [!NOTE]
-Jei nesate paskyros administratorius, susisiekite su savo paskyros administratoriumi, kad galėtumėte pasirinkti, ar norite pasirinkti, pridėti gavėjus ar leisti kitiems vartotojams atsisiųsti sąskaitą faktūrą.
+Jei esate ne paskyros administratorius, susisiekite su savo paskyros administratoriumi, kad jis vadovaudamiesi anksčiau pateiktomis instrukcijomis galėtų pasirinkti, įtraukti gavėjų arba leisti kitiems vartotojams atsisiųsti sąskaitą faktūrą.

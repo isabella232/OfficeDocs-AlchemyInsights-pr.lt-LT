@@ -1,5 +1,5 @@
 ---
-title: Problemos, susijusios su imitavimo, sukčiavimo apsimetant arba apsimetimu?
+title: Problemos dėl apsimetimo apsimetant, apsimetimo ar apsimetimo?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986791"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemos, susijusios su imitavimo, sukčiavimo apsimetant arba apsimetimu?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemos dėl apsimetimo apsimetant, apsimetimo ar apsimetimo?
 
 Sužinokite, kaip "Microsoft" apsaugo jus nuo:
 
@@ -27,12 +27,12 @@ Sužinokite, kaip "Microsoft" apsaugo jus nuo:
 
 Papildomos rekomendacijos:
 
-- Dėl apsimetusių siuntėjų, kurie gali būti iš jūsų domeno, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) ir [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) gali padėti.
+- Spoofed senders that appear to come from your own domain, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) and [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) can help.
 
-- Patikrinkite, ar jūsų domene esantys siuntėjai nėra sukonfigūruoti naudoti pašto srauto taisykles (taip pat žinomas kaip transportavimo taisyklės) arba leisti sąrašo įrašus. Daugiau informacijos ieškokite skyriuje [perspėjimai apie "Microsoft" pašto šiukšlių filtrus](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Patikrinkite, ar jūsų domeno siuntėjai nėra sukonfigūruoti apeiti apsaugos nuo pašto šiukšlių filtravimą naudojant pašto srauto taisykles (dar vadinamas transportavimo taisyklėmis) arba leisti sąrašo įrašus. Daugiau informacijos žr. Įspėjimai dėl ["Microsoft" pašto šiukšlių filtrų apėjimo](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Patikrinkite, ar vartotojai nesukonfigūravo [Patikimų siuntėjų sąrašo](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) įrašų, galinčių leisti apsimestinius išpuolius.
+- Patikrinkite, ar vartotojai nesukonfigūravo [Seifas siuntėjų sąrašo](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) įrašų, kurie gali leisti sukčiavimo apsimetant atakų.
 
-- Apsvarstykite galimybę sukurti didelio patikimumo pašto šiukšlių ir sukčiavimo apsimetant laiškus į karantiną, o ne aplanką Nepageidaujamas el. paštas. Daugiau informacijos rasite karantino laiškų [laiškai](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Užuot siuntę aplanką Nepageidaujamas el. paštas, apsvarstykite galimybę sulaikyti didelio patikimumo pašto šiukšles ir sukčiavimo apsimetant laiškus. Daugiau informacijos žr. [Sulaikyti el. laiškus](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
 
-**["Microsoft" ataskaitų pranešimai](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) yra geriausias būdas mums pranešti, kaip atlikti filtrus.**
+**[Ataskaitų teikimas "Microsoft"](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) yra geriausias būdas pranešti mums, kaip veikia filtrai.**

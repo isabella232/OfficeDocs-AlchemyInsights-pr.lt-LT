@@ -1,5 +1,5 @@
 ---
-title: Problemos su kredencialais
+title: Kredencialų problemos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,74 +12,74 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: e463e8181123277f3509c0b0bb6f871a1a09bed1
-ms.sourcegitcommit: c3574f574afe5a40a6ea2c6e399c58977d18bb73
+ms.openlocfilehash: 975d4850c1ecffae786dd19b7f4363e0c95378cff4f3ae6bb1968af33ef810b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986827"
 ---
-# <a name="issues-with-credentials"></a>Problemos su kredencialais
+# <a name="issues-with-credentials"></a>Kredencialų problemos
 
-["Microsoft" tapatybės platforma ir "OAuth" 2,0 kliento kredencialų srautas](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) aprašo, kaip programa tiesiogiai atitinka "oauth 2,0" kliento kredencialų suteikimo srautą.
+"Microsoft" tapatybės platforma ir ["OAuth 2.0" kliento](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) kredencialų srautas aprašo, kaip programuoti tiesiogiai pagal "OAuth 2.0" kliento kredencialų teikimo srautą.
 
-**Kaip valdyti taikomosios programos slaptažodį arba sertifikato kredencialus?**
+**Kaip valdyti programos slaptažodį arba sertifikato kredencialus?**
 
-"Azure CLI" galite naudoti [AZ ad taikomosios programos](https://docs.microsoft.com/cli/azure/ad/app/credential) kredencialus, kad panaikintumėte, sąraše arba iš naujo nustatytumėte taikomosios programos slaptažodį arba sertifikato kredencialus.
+"Azure CLI" galite naudoti ["az" reklamos](https://docs.microsoft.com/cli/azure/ad/app/credential) programos kredencialus, kad panaikinsite, siųsite arba iš naujo nustatysite programos slaptažodį arba sertifikato kredencialus.
 
-**Kaip iš naujo nustatyti vartotojų slaptažodžius?**
+**Kaip mano vartotojai iš naujo nustato savo slaptažodžius?**
 
-Vartotojai turi [registruotis savitarnos slaptažodžio nustatymo iš naujo,](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) kad galėtų iš naujo nustatyti savo slaptažodžius. Užregistravus vartotoją, jie gali vadovautis šiame straipsnyje pateiktomis instrukcijomis, kad iš naujo nustatytumėte slaptažodį: [darbo arba mokymo įstaigos slaptažodžio nustatymas iš naujo](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account).
+Vartotojai turi [registruotis, kad galėtų iš naujo nustatyti savo](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) slaptažodžius, kad galėtų nustatyti savitarnos slaptažodį iš naujo. Užregistravęs vartotoją, jis gali vadovautis šiame straipsnyje pateiktomis instrukcijomis ir iš naujo nustatyti slaptažodį: [Iš naujo nustatyti darbo arba mokymo įstaigos slaptažodį.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account)
 
 **Kaip mano vartotojai keičia savo slaptažodžius?**
 
-Vartotojai gali atlikti šiame straipsnyje nurodytus veiksmus, kad pakeistų slaptažodžius: [kaip pakeisti slaptažodį](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password).
-Jie taip pat gali [valdyti taikomųjų programų slaptažodžius dviem veiksmais](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords).
+Vartotojai gali atlikti šiame straipsnyje nurodytus veiksmus, kad pakeistų savo slaptažodžius: [Kaip pakeisti slaptažodį](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password).
+Jie taip pat [gali valdyti programų slaptažodžius, kad būtų galima patvirtinti dviem veiksmais.](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords)
 
-**Mano vartotojas gauna klaidą keičiant arba iš naujo nustatant slaptažodį**
+**Mano vartotojas gauna klaidą keisdamas arba iš naujo nustatydamas savo slaptažodį**
 
-Šis saitas pateiks informaciją apie įprastas problemas, kurios gali iškilti, kai vartotojas bando iš naujo nustatyti slaptažodį: [Dažniausios problemos ir jų sprendimai](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
+Šis saitas pateiks informacijos apie įprastas problemas, kurios gali kilti vartotojui bandant iš naujo nustatyti slaptažodį: [dažnai pasitaikančių problemų ir jų sprendimų](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
 
-**Iškilo problema iš naujo nustatant vartotojo slaptažodį**
+**Kyla problemų nustatant vartotojo slaptažodį iš naujo**
 
-- Įsitikinkite, kad turite teisę iš naujo nustatyti slaptažodžius. *Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius.* Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratoriaus slaptažodžius.
+- Įsitikinkite, kad turite teisę iš naujo nustatyti slaptažodžius. *Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius.* Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratorių slaptažodžius.
 
 - Įsitikinkite, kad suprantate licencijavimo reikalavimus:
 
   - Turite turėti bent vieną licenciją, priskirtą jūsų organizacijoje:
-    - **Tik debesies vartotojai** – bet kuris "Office 365" (O365) sumokėtas SKU arba "Azure AD Basic"
-    - **Debesies ir (arba) vietiniai vartotojai – "** Azure AD Premium" P1 arba P2, įmonės mobilumas + sauga (EPS) arba saugi gamybinė įmonė (SPE)
-    - Jei norite sužinoti daugiau apie licencijavimo reikalavimus, skaitykite " [AZURE AD" savitarnos slaptažodžio nustatymo iš naujo licencijavimo reikalavimus](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing).
-- Norėdami iš naujo nustatyti vartotojo slaptažodį, raskite vartotoją "Azure AD". Po to vartotojo Apžvalgos disku spustelėkite mygtuką iš naujo nustatyti slaptažodį.
+    - **Tik debesies vartotojai** – bet Office 365 (O365) sumokėjo SKU arba "Azure AD Basic"
+    - **Debesies ir (arba)** vietinės vartotojų – "Azure AD Premium P1 arba P2, Enterprise Mobility + Security (EMS) arba Secure Productive Enterprise (SPE)
+    - Norėdami sužinoti daugiau apie licencijavimo reikalavimus, žr. "Azure AD" savitarnos [slaptažodžio nustatymo iš naujo licencijavimo reikalavimai.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Norėdami iš naujo nustatyti vartotojo slaptažodį, raskite vartotoją "Azure AD". Tada to vartotojo apžvalgos ašmenyje spustelėkite mygtuką Nustatyti slaptažodį iš naujo.
 
 **Slaptažodžio nustatymo iš naujo mygtukas yra pilkas**
 
-Jūs neturite teisę iš naujo nustatyti **šio** vartotojo slaptažodžių. *Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius.* Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratoriaus slaptažodžius.
+Jums neleidžiama iš naujo **nustatyti** šio vartotojo slaptažodžių. *Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius.* Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratorių slaptažodžius.
 
 **Nematau slaptažodžio nustatymo iš naujo ašmenų**
 
-Jūs nesate įgalioti iš naujo nustatyti slaptažodžius. *Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius.* Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratoriaus slaptažodžius.
+Jums neleidžiama iš naujo nustatyti slaptažodžių. *Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius.* Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratorių slaptažodžius.
 
-**Nematau vietinio integravimo peilio slaptažodžio nustatymo iš naujo**
+**Slaptažodžio nustatymo iš naujo metu nematau vietinio integravimo disko**
 
-- Vietinis integravimo peilis rodomas tik hibridinėse aplinkose – tai reiškia, kad naudojate slaptažodį write, kad galėtumėte manipuliuoti vietinio vartotojo slaptažodžiais.
+- Vietinės integracijos ašmenys rodomas tik hibridinėse aplinkose, t. y. naudojate slaptažodžio nurašymo funkciją, kad valdysite vietinio vartotojo slaptažodžius.
 
 - Nematote šio disko, jei:
 
-  - Nenaudojate slaptažodžio įrašymo atgal
-  - Iškilo problema dėl slaptažodžio įrašymo ir diegimo ryšio
-  - Iškilo "Azure AD Connect" diegimo/ryšio problema
-  - Jei reikia daugiau trikčių šalinimo veiksmų problemoms su slaptažodžiais write, žiūrėkite [slaptažodžio įrašymo trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+  - Nenaudojate slaptažodžio įrašymo atgalinio
+  - Kilo problemų dėl slaptažodžio įrašymo įrenginio / ryšio
+  - Kilo "Azure AD" diegimo / ryšio Prisijungimas
+  - Daugiau trikčių šalinimo veiksmų, susijusių su slaptažodžio įrašymo atgal, žr. Slaptažodžio [įrašymo trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
 
 **Nežinau, kaip iš naujo nustatyti vartotojo slaptažodį**
 
-1. Prisijunkite prie "Azure" portalo kaip tinkamo administratoriaus.
-2. Eikite į diską **vartotojai ir grupės** , pasirinkite **visi vartotojai**.
+1. Prisijunkite prie "Azure" portalo kaip atitinkamas administratorius.
+2. Eikite į **vartotojų ir grupių ašmenį,** pasirinkite Visi **vartotojai**.
 3. Pasirinkite vartotoją iš sąrašo.
-4. Pasirinktam vartotojui pasirinkite **apžvalga**, tada komandų juostoje pasirinkite **iš naujo nustatyti slaptažodį**.
-5. Pasirinkite mygtuką **iš naujo nustatyti slaptažodį** ir vadovaukitės ekrane pateikiamomis instrukcijomis.
-    - Tik iš naujo vykdomas " **Azure" portalo** palaikymo slaptažodžio įrašymo metu.
+4. Pasirinktam vartotojui pasirinkite **Apžvalga**, tada komandų juostoje pasirinkite Iš naujo **nustatyti slaptažodį**.
+5. Pasirinkite mygtuką **Iš naujo nustatyti** slaptažodį ir vykdykite ekrane pateiktas instrukcijas.
+    - Iš naujo nustato tik **"Azure" portalo palaikymo** slaptažodžio įrašymo atgalinę kopiją.
 
-**Iš naujo nustatyti vietinio vartotojo slaptažodį iš "Office 365" administravimo portalo arba "Office 365 Mobile" taikomosios programos, tačiau vartotojas vis tiek negali prisijungti**
+**Iš naujo nustatou vietinio vartotojo slaptažodį iš "Office 365 Admin" portalo arba "Office 365 mobiliųjų įrenginių taikomosios programos, tačiau vartotojas vis tiek negali prisijungti**
 
-Slaptažodžio write-back nepalaiko šiame portale. Iš naujo nustatyti vartotojo slaptažodį dar kartą "Azure" portale.
+Slaptažodžio rašymas šiame portale nepalaikomas. Iš naujo nustatykite vartotojo slaptažodį "Azure" portale.
