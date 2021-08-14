@@ -4,10 +4,10 @@ title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebau
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>Buvimo trikčių šalinimas programoje "Outlook"
+# <a name="troubleshoot-presence-issues-in-outlook"></a>Buvimo trikčių šalinimas Outlook
 
-Norėdami nustatyti ir išspręsti problemas, susijusias su vartotojo buvimo būsena programoje "Outlook", atsisiųskite ir paleiskite "Microsoft" palaikymo ir atkūrimo pagalbinę priemonę > [Teams Presence Scenario".](https://aka.ms/SaRA-TeamsPresenceScenario)
+Norėdami nustatyti ir ištaisyti vartotojo buvimo būsenos problemas programoje "Outlook", atsisiųskite ir paleiskite "Microsoft palaikymo ir atkūrimo pagalbinė priemonė > [Teams" buvimo scenarijų](https://aka.ms/SaRA-TeamsPresenceScenario).
 
-Norėdami rankiniu būdu pašalinti buvimo programoje "Outlook" problemą, atlikite veiksmus, nurodytus straipsnyje Vartotojo [buvimo būsenos problemos programoje "Outlook".](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Norėdami rankiniu būdu pašalinti buvimo "Outlook" problemą, atlikite veiksmus, nurodytus skyriuje Vartotojo [buvimo būsenos Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
 
-Jei buvimo būsena nėra atnaujinama "Teams", žr. "Teams" nerodykite [faktinės buvimo būsenos.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Jei buvimo būsena neatnauj Teams, žr. Jūsų faktinė buvimo būsena nėra [rodoma](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)Teams .

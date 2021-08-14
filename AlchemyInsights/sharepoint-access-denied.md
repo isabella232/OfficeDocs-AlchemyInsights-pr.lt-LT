@@ -1,5 +1,5 @@
 ---
-title: "\"Access\" uždraustų žinučių trikčių diagnostika"
+title: "\"Access Denied\" pranešimų trikčių šalinimas"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af0bc0215f8feacc28a0b9bdf6b2659778736d669f7a3ff17628401e23d5fb6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957981"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>"Access" uždraustų žinučių trikčių diagnostika
+# <a name="troubleshoot-access-denied-messages"></a>"Access Denied" pranešimų trikčių šalinimas
 
-Jei bandydami naršyti "SharePoint Online" svetainę gaunate pranešimą "prieiga uždrausta", peržiūrėkite toliau pateiktus straipsnius.
+Jei bandydami naršyti "Sharepoint Online" svetainę gaunate pranešimą, kad prieiga uždrausta, žr. toliau pateikiamus straipsnius.
 
-**Vartotojo įtraukimas ir licencijuoti**
+**Vartotojo įtraukimas ir licencijavimas**
 
-Įsitikinkite, kad [vartotojams priskiriate licencijas "Microsoft 365" verslui](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+[Įsitikinkite, kad priskiriate licencijas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)vartotojams Microsoft 365 verslui.
 
 **Teisių priskyrimas**
 
-Jei vartotojui priskirta "SharePoint" licencija ir vis tiek gaunamas pranešimas "prieiga uždrausta", įsitikinkite, kad jiems [priskirtas reikiamas teisių lygis](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Jei vartotojui buvo priskirta "SharePoint" licencija ir vis dar gauna pranešimą apie prieigą, įsitikinkite, kad jam [priskirtas atitinkamas teisių lygis.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-**Naudokite "Access" užklausos funkciją**
+**Apsvarstykite galimybę naudoti prieigos užklausos funkciją**
 
-" [Access" užklausos](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkcija leidžia žmonėms prašyti prieigos prie turinio, kurio jie šiuo metu neturi teisės matyti. 
+Prieigos [užklausos](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkcija leidžia žmonėms prašyti prieigos prie turinio, kurį jie šiuo metu neturi teisės matyti. 
 
-**Leisti pasirinktiniam scenarijui gali sukelti "Access" uždraustas problemas**
+**Leisti pasirinktinį scenarijų gali kilti prieigos atsisakymo problemų**
 
-Yra tam tikrų scenarijų, kai "leisti pasirinktiniam scenarijui" funkcija gali pateikti prieigą uždrausta. Dėl paveiktų funkcijų sąrašo, saugos sumetimais ir galimybės išjungti funkciją. Apsilankykite, [leiskite arba užkirkite kelią pasirinktiniam scenarijui](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Yra tam tikrų scenarijų, kai funkcija Leisti pasirinktinį scenarijų gali pateikti prieigą. Jei reikia paveiktų funkcijų sąrašo, saugos sumetimais ir galimybe išjungti funkciją. Apsilankykite , [Leisti arba neleisti naudoti pasirinktinio scenarijaus](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Pastaba: jei "OneDrive" arba "SharePoint" svetainė neprieinama keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema. [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
+Pastaba: jei "OneDrive" arba SharePoint svetainės negali keli vartotojai, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema. [Patikrinkite tarnybos sveikatos ataskaitų sritį](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

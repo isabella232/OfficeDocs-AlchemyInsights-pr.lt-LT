@@ -1,5 +1,5 @@
 ---
-title: Kaip bendrinti bloknotus "OneNote", skirtos žiniatinkliui arba "OneNote" 2016
+title: Kaip bendrinti bloknotus "internetinė "OneNote"" OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f66f55325f52ed89b077923615de03d7818c50cab0043dca98aadca3e725bc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958053"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Bloknotų bendrinimas "OneNote", skirtos žiniatinkliui arba "OneNote" 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Bloknotų bendrinimas internetinė "OneNote" arba OneNote 2016
 
-Naudodami "OneNote" žiniatinklyje galite bendrinti pastabas arba pakviesti kitus, jei norite peržiūrėti ir keisti savo bloknotą, arba sukurti saitą į pastabų puslapį, kurį galite įklijuoti į el. paštą, interneto dienoraštį arba tinklalapį. Daugiau informacijos ieškokite "OneNote" [naudojimas žiniatinklyje norint bendrinti pastabas su kitais žmonėmis](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+"internetinė "OneNote"" galite bendrinti pastabas pakviesdami kitus peržiūrėti ir atlikti bloknoto pakeitimus arba sukurdami saitą į pastabų puslapį, kurį galite įklijuoti el. laiške, interneto dienoraštyje arba tinklalapyje. Daugiau informacijos žr. Pastabų [internetinė "OneNote" su kitais žmonėmis naudojimas](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-"OneNote" 2016 įsitikinkite, kad jūsų "OneNote 2016" bloknotas yra "OneDrive", kad kiti galėtų jį pasiekti. Norėdami bendrinti, galite pakviesti žmones pašte arba gauti bendrinimo saitą. Daugiau informacijos ieškokite ["OneNote 2016", skirtos "Windows", bloknoto bendrinimas su kitais žmonėmis](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+Programoje OneNote 2016 įsitikinkite, kad OneNote 2016 bloknotas yra "OneDrive" kad kiti galėtų jį pasiekti. Norėdami bendrinti, galite pakviesti žmones į paštą arba gauti bendrinimo saitą. Daugiau informacijos žr. [Bloknoto OneNote 2016 Windows su kitais žmonėmis bendrinimas](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

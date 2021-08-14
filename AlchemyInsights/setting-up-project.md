@@ -1,5 +1,5 @@
 ---
-title: Projekto nustatymas
+title: Parametro Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Taikykite ne daugiau nei 500 žodžių straipsnį.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Taikyti ne daugiau kaip 500 straipsnio žodžių.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958017"
 ---
-# <a name="setting-up-project"></a>Projekto nustatymas
+# <a name="setting-up-project"></a>Parametro Project
 
- Norėdami nustatyti "Microsoft Project", atlikite [šiame straipsnyje](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)nurodytus veiksmus.
+ Norėdami nustatyti Microsoft Project, atlikite šiame straipsnyje [nurodytus veiksmus.](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
 
-**Pranešimas "Mac" vartotojams:** Šiuo metu "MacOS" "Project" produktas negalimas. 
+**Pranešimas "Mac" vartotojams:** Šiuo Project "MacOS" produkto naudoti negalima. 
   
-Jei sąrankos metu vykdote klaidą, [įdiekite projektą naudodami palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SaRA-ProjectSetupScenario).
+Jei sąrankos metu veikia klaidų, įdiekite [Project naudodami palaikymo ir atkūrimo pagalbinė priemonė](https://aka.ms/SaRA-ProjectSetupScenario).
