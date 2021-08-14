@@ -1,5 +1,5 @@
 ---
-title: Automatinis tam tikrų "Office 365" laiškų šifravimas
+title: Automatiškai šifruoti tam tikrus Office 365 el. laiškus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949575"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Automatinis tam tikrų "Office 365" laiškų šifravimas
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Automatiškai šifruoti tam tikrus Office 365 el. laiškus
 
-Galite automatiškai šifruoti laišką, kurį vartotojai siunčia tam tikriems išoriniams žmonėms arba organizacijoms. Norėdami tai atlikti, atlikite šiuos veiksmus:
+Galite automatiškai šifruoti laiškus, kuriuos vartotojai siunčia tam tikriems išoriniams žmonėms ar organizacijoms. Norėdami tai padaryti, atlikite šiuos veiksmus:
 
-1. " [Exchange" administravimo centre](https://outlook.office365.com/ecp/)pasirinkite **pašto srauto > taisyklės**. 
-2. Spustelėkite **naują (+)** piktogramą, tada spustelėkite taikyti "**Office 365" pranešimų šifravimą ir teisių apsaugą pranešimams**.
-3. Dalyje **pavadinimas** įveskite taisyklės pavadinimą, pvz., šifruoti " *DrToniRamos@gmail.com" siunčiamus pranešimams*.
-4. **Jei norite taikyti šią taisyklę**, pasirinkite **gavėją > yra šis asmuo**. 
-5. Lange **Pasirinkti narius** pasirinkite asmens, kuriam norite taikyti šifravimo taisyklę, vardą, tada spustelėkite **įtraukti**. 
-6. Baigę įtraukti vartotojų, spustelėkite **gerai**.
-7. Prie lauko **atlikti** šį lauką spustelėkite **pasirinkti vieną**. 
-8. Išplečiamajame meniu **RMS šablonas** pasirinkite **šifruoti**, tada spustelėkite **gerai**. (Jei nematote šios parinkties, vadinasi, jūsų planas neapima automatinio šifravimo. Tačiau galite ją įtraukti!)
-9. Pasirinkite bet kurią pasirinktinę parinktį (iš pasirinktinių pasirinkimų sąrašo, kurį galite atlikti šiuo metu, o daugelis iš jų gali būti paliekami numatytasis paprastumo parametras).
+1. Administravimo [Exchange pasirinkite pašto](https://outlook.office365.com/ecp/) **srauto > taisykles**. 
+2. Spustelėkite **piktogramą Naujas (+),** tada spustelėkite **Taikyti "Office 365" pranešimų šifravimas ir teisių apsaugą laiškams.**
+3. Lauke **Pavadinimas** įveskite taisyklės pavadinimą, pvz., Šifruoti laiškus, *siunčiamus DrToniRamos@gmail.com*.
+4. Jei **lauke Taikyti šią taisyklę pasirinkite** **Gavėjas, > yra šis asmuo**. 
+5. Lange **Pasirinkti narius** pasirinkite asmens, kuriam turėtų būti taikoma šifravimo taisyklė, vardą, tada spustelėkite **Įtraukti**. 
+6. Kai baigsite įtraukti vartotojus, spustelėkite **Gerai**.
+7. Šalia lauko **Atlikti šį lauką** spustelėkite **Pasirinkti vieną.** 
+8. **Išplečiamajame meniu RMS** šablonas pasirinkite Šifruoti , tada spustelėkite **Gerai**.  (Jei nematote šios parinkties, tai reiškia, kad jūsų planas neapima automatinio šifravimo. Tačiau galite jį įtraukti!)
+9. Pasirinkite bet kurį pasirinktinį pasirinkimą (iš pasirinktinių pasirinkimų sąrašo, kurį galite atlikti šiuo metu, daugelis iš jų gali būti palikti su numatytuoju paprastumo parametru).
 10. Spustelėkite **Įrašyti**.
 
 > [!IMPORTANT]
-> Visada galite grįžti ir redaguoti šią taisyklę.
+> Visada galėsite grįžti ir redaguoti šią taisyklę vėliau.
 
-Daugiau informacijos apie šifravimo taisyklių kūrimą rasite [pašto srauto taisyklių nustatymas, kad būtų šifruojami el. laiškai "Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)".
+Daugiau informacijos apie šifravimo taisyklių sukūrimą žr. Pašto srauto taisyklių apibrėžimas el. [laiškams šifruoti Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

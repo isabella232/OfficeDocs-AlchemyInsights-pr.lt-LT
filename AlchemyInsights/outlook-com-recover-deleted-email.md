@@ -1,5 +1,5 @@
 ---
-title: Panaikintų laiškų atkūrimas "Outlook.com"
+title: Panaikintų el. laiškų atkūrimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,23 +14,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095370"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Panaikintų laiškų Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Panaikintų el. laiškų atkūrimas Outlook.com
 
-1. Kairiojoje srityje pasirinkite **pašalinti elementai**.
-2. Pasirinkite elementą, kurį norite atkurti, ir pasirinkite **atkurti**.
-3. Jei laiškas nėra panaikintų elementų, lango viršuje pasirinkite **Atkurti panaikintus iš šio aplanko elementus** .
+1. Kairiojoje srityje pasirinkite **Panaikinti elementai**.
+2. Pasirinkite elementą, kurį norite atkurti, ir pasirinkite **Atkurti**.
+3. Jei laiško nėra panaikintų elementų sąraše, lango viršuje pasirinkite Atkurti **elementus,** panaikintus iš šio aplanko.
 
  **Svarbi informacija apie panaikintus elementus:**
   
-- Iš panaikintų elementų aplanko pašalinti elementai atkuriami 30 dienų.
-- Jei neprisijungėte prie savo "365" dienų paskyros, jūsų laiškas bus ištrintas ir jo nebus galima atkurti.
-- Neįmanoma atkurti laiškų, panaikintų iš antrinių abonementų.
+- Iš aplanko Panaikinti elementai pašalinti elementai atkuriami 30 dienų.
+- Jei nesate prisijungę prie savo paskyros 365 dienas, jūsų el. laiškas bus panaikintas ir jo atkurti negalima.
+- Negalima atkurti el. laiškų, panaikintų iš antrinių paskyrų.
 
-Norėdami sužinoti daugiau, peržiūrėkite [panaikintų el. laiškų atkūrimas "Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)".
+Norėdami sužinoti daugiau, [žr. Panaikintų el. laiškų atkūrimas Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
