@@ -1,5 +1,5 @@
 ---
-title: Domeno registratoriaus radimas
+title: Raskite savo domenų registratorių
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a3f35489337e641ea0a300618c5336417262056
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3ed5fadebfe188c399cb80abf57f0a08033a0930e72bc7e77bd9ac889638fe60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949503"
 ---
-# <a name="find-your-domain-registrar"></a>Domeno registratoriaus radimas
+# <a name="find-your-domain-registrar"></a>Raskite savo domenų registratorių
 
 Antrame naršyklės lange atlikite šiuos veiksmus:
 
-1. " [InterNIC" ieškos puslapio](https://lookup.icann.org/)lauke **WHOIS ieška** įveskite savo domeną. Pvz., **contoso.com**. Domenų vardai, kurie baigiasi dviejų raidžių kombinacijomis (pvz **.,. ca** arba **. jp** ), neveiks su šiuo įrankiu.
-2. Pasirinkite parinktį **domenas** , tada spustelėkite **pateikti**.
-3. Puslapyje **WHOIS ieškos rezultatai** Raskite registro įrašą. Šiame įraše išvardijamos organizacijos, teikiančios registratoriaus paslaugą jūsų domenui.
+1. ["InterNIC" ieškos](https://lookup.icann.org/)puslapio lauke **Whois ieška** įveskite savo domeną. Pvz., **contoso.com**. Domenų vardai, kurie baigiasi dviejų raidžių deriniais **(pvz., .ca** arba **.jp),** neveiks su šiuo įrankiu.
+2. Pasirinkite parinktį **Domenas,** tada spustelėkite **Pateikti**.
+3. Puslapyje **Whois ieškos rezultatai raskite** registratoriaus įrašą. Šiame įraše išvardytos organizacijos, kurios teikia jūsų domeno registratoriaus tarnybą.

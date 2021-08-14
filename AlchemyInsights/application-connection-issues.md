@@ -1,5 +1,5 @@
 ---
-title: Taikomųjų programų ryšių problemos
+title: Programos ryšio problemos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931548"
 ---
-# <a name="application-connection-issues"></a>Taikomųjų programų ryšių problemos
+# <a name="application-connection-issues"></a>Programos ryšio problemos
 
-" [Azure Active Directory" taikomųjų programų integravimo mokymas](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) – kad galėtumėte integruoti taikomąsias programas su "Azure Active Directory", sukūrėme mokomųjų programų rinkinį, kurį naudodami konfigūravimą.
+[Mokymo priemonės, kaip integruoti programas su ""Azure Active Directory""](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) – kad būtų galima integruoti taikomąsias programas su ""Azure Active Directory"", sukūrėme mokomųjų programų rinkinį, kuris padės jums konfigūruoti.
 
-**Taikomųjų programų tarpinio serverio agento jungties trikčių diagnostika**
+**Programos tarpinio serverio agento jungties trikčių šalinimas**
 
-Jei nepavyksta įdiegti jungties, žiūrėkite [problemą diegiant tarpinio serverio agento jungtį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
+Jei nepavyksta įdiegti jungties, žr. Problema diegiant [programos tarpinio serverio agento jungtį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
 
-[Derinimo taikomosios programos tarpinio serverio jungties problemos](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) padeda šalinti triktis, susijusias su "Azure Active Directory" ("Azure AD") taikomosios programos tarpinio serverio jungtimis. Jei naudojate nuotolinę prieigą prie vietinio žiniatinklio taikomosios programos taikomosios programos tarpinio serverio paslaugą, tačiau kyla problemų jungiantis prie taikomosios programos, naudokite šią struktūrinę schemą norėdami derinti jungties problemas.
+[Derinimo programos tarpinio serverio jungties](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) problemos padeda šalinti ""Azure Active Directory" ("Azure AD") taikomosios programos tarpinių serverių jungtis. Jei naudojate taikomosios programos tarpinio serverio tarnybą nuotolinei prieigai prie vietinės žiniatinklio programos, bet kyla problemų jungiantis prie taikomosios programos, naudokite šią struktūrinę schemą jungties problemoms derinti.
 
-[Nėra darbinės jungties grupės, skirtos taikomosios programos tarpinio serverio](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) taikomajai programai, padeda išspręsti įprastas problemas, kylančias, kai nėra jungties, aptiktos taikomosios programos tarpinio serverio taikomajai programai, integruota su "Azure Active Directory".
+[Nepavyko rasti programos tarpinio](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) serverio taikomosios programos darbo jungties grupės, kuri padėtų išspręsti įprastas problemas, su kuriomis susiduriama, kai nėra aptiktos jungties taikomosios programos tarpinio serverio programai, integruotai į ""Azure Active Directory"".
 
 **"Cisco AnyConnect" integravimo trikčių šalinimas**
 
-Norėdami sužinoti, kaip integruoti "Cisco AnyConnect" su "Azure Active Directory" ("Azure AD"), žiūrėkite [Susipažinkite: "Azure Active Directory" bendrosios autentifikacijos (SSO) integravimas su "Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)".
+Norėdami sužinoti, kaip integruoti "Cisco AnyConnect" su ""Azure Active Directory" "Azure AD", žr. Mokymo programa: "Azure Active Directory" bendrosios a [prisijungimo (SSO) integravimas su "Cisco AnyConnect".](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)
