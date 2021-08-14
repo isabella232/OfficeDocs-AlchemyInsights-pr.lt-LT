@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962679"
 ---
 # <a name="adblock"></a>AdBlock
 
-Kai kurie vartotojai, naudodami "Google Chrome" su AdBlock plėtiniu, šiuo metu susiduria su problemomis skaitant arba kuriant elektroninį paštą. Norėdami išspręsti šią problemą:
+Kai kurie vartotojai šiuo metu susiduria su problemomis skaitydami arba kurdami el. laiškus naudodami "Google Chrome" su "AdBlock" plėtiniu. Norėdami išspręsti šią problemą:
 
-1. Naudokite ["Microsoft Edge"](https://www.microsoft.com/windows/microsoft-edge)   arba kitą žiniatinklio naršyklę.
-1. Neįtraukti Outlook.com iš "AdBlock" parametrų."Google Chrome" viršutiniame dešiniajame kampe pasirinkite **Adblock**,   tada pasirinkite **nevykdyti šiame domene esančių puslapių**.Atnaujinkite naršyklę, kad būtų galima įkelti Outlook.com dar kartą.
+1. Naudokite [Microsoft Edge arba](https://www.microsoft.com/windows/microsoft-edge) kitą žiniatinklio naršyklę.
+1. Neįtraukite Outlook.com į "AdBlock" parametrus. Viršutiniame dešiniajame "Google Chrome" kampe pasirinkite **AdBlock,** tada pasirinkite **Neveikti šio domeno puslapiuose.** Atnaujinkite naršyklę, kad Outlook.com.

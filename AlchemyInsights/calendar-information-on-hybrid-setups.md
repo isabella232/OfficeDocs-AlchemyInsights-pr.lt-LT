@@ -1,5 +1,5 @@
 ---
-title: "\"608\" kalendoriaus informacija apie hibridinius nustatymus"
+title: 608 Kalendoriaus informacija apie hibridines sąrankas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989563"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalendoriaus užimtumo problemos hibridinėje aplinkoje
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalendoriaus užimtumo problemos hibridinėse aplinkose
 
-Jei vartotojams kyla problemų, susijusių su kalendoriaus užimtumo informacija hibridinėje aplinkoje, iš naujo paleiskite hibridinio konfigūravimo vediklį. Daugiau informacijos apie hibridinio konfigūravimo vediklį rasite [hibridinio konfigūravimo vediklis](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Jei vartotojams kyla problemų matant kalendoriaus užimtumo informaciją hibridinėse aplinkose, iš naujo paleiskite hibridinės konfigūracijos vediklį. Daugiau informacijos apie hibridinės konfigūracijos vediklį žr. [Hibridinės konfigūracijos vediklis](https://go.microsoft.com/fwlink/p/?linkid=528149).
 
-Trikčių diagnostikos veiksmų hibridinėse aplinkose ieškokite [hibridinio diegimo trikčių diagnostika](https://technet.microsoft.com/library/jj659053.aspx).
+Hibridinių aplinkų trikčių šalinimo veiksmus žr. [Hibridinio diegimo trikčių diagnostika](https://technet.microsoft.com/library/jj659053.aspx).

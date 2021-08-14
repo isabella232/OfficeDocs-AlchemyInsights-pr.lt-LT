@@ -1,5 +1,5 @@
 ---
-title: "\"8000093\" Outlook.com susietos paskyros teisės"
+title: 8000093 Outlook.com prijungtos paskyros teisės
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: f143b603e50024b665d74ac91cdfbbe82e19303e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d62a760ec3f46f7179e044f25cca8f1b3f01188323330cad11671311eef002e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752403"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962427"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kaip sutvarkyti "atrodo, kad neturime teisės"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kaip ištaisyti "Atrodo, kad neturime teisių"
 
-Jei matote klaidos pranešimą "atrodo, kad neturime teisės gauti laiškų..." atlikite šiuos veiksmus:
+Jei matote klaidos pranešimą "Atrodo, kad neturime teisės gauti el. laiškų..." atlikite šiuos veiksmus:
 
-1. Atidarykite [prijungtos paskyros parametrus](https://outlook.live.com/mail/options/mail/accounts) ir pašalinkite arba panaikinkite prijungtą paskyrą, nurodytą klaida.
-2. Vėl įtraukite prijungtą paskyrą.
-3. Grįžkite [į savo pašto dėžutę](https://outlook.live.com/mail/inbox).
+1. Atidarykite [savo prijungto abonemento](https://outlook.live.com/mail/options/mail/accounts) parametrus ir pašalinkite arba panaikinkite prijungtą paskyrą, nurodytą klaidą.
+2. Dar kartą įtraukite prijungtą paskyrą.
+3. [Grįžkite į savo pašto dėžutę](https://outlook.live.com/mail/inbox).
 
-Gali šiek tiek užtrukti, kol visi laiškai iš naujo sinchronizuotų su jūsų prijungtu abonementu.
+Gali šiek tiek užtrukti, kad visi el. laiškai būtų iš naujo sinchronizuojami iš prijungtos paskyros.
 
-Sužinokite daugiau apie sujungtų paskyrų [šalinimą](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) ir [įtraukimą](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .
+Sužinokite daugiau apie [prijungtų](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) [paskyrų pašalinimą](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) ir įtraukimą.
