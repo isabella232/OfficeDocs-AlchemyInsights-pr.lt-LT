@@ -1,5 +1,5 @@
 ---
-title: "\"Android\" taikomųjų programų apsaugos strategijos parametrai \"Microsoft Intune\""
+title: "\"Android\" programos apsaugos strategijos parametrai \"Microsoft Intune\""
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951645"
 ---
-# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>"Android" taikomųjų programų apsaugos strategijos parametrai "Microsoft Intune"
+# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>"Android" programos apsaugos strategijos parametrai "Microsoft Intune"
 
-Yra trys "Android" įrenginių programos apsaugos strategijos parametrų kategorijos:
+Yra trys "Android" įrenginių programų apsaugos strategijos parametrų kategorijos:
 
-**Duomenų apsauga** kontroliuoja, kaip tvarkomi įmonės duomenys, pvz., ar duomenys gali būti nukopijuoti arba įklijuoti į kitą programą, ar galima atsižvelgti į programą. Parametrai taip pat įgalina šifruoti įmonės duomenis ir tvarkyti, ar tam tikrus duomenis galima sinchronizuoti su prigimtiniais įrenginių programėlėmis, pvz., kontaktų sąrašu arba žiniatinklio naršykle. Norėdami sužinoti daugiau, peržiūrėkite [duomenų apsauga](https://go.microsoft.com/fwlink/?linkid=2135259).
+**Duomenų apsauga** kontroliuoja, kaip apdorojami įmonės duomenys, pvz., ar duomenis galima kopijuoti ar įklijuoti į kitą programą, ar galima naudoti ekrano nuotrauką. Parametrai taip pat užtikrina įmonės duomenų šifravimą ir valdo, ar tam tikrus duomenis galima sinchronizuoti su vietinėmis įrenginio programomis, pvz., kontaktų sąrašu arba žiniatinklio naršykle. Norėdami sužinoti daugiau, [žr. Duomenų apsauga](https://go.microsoft.com/fwlink/?linkid=2135259).
 
-" **Access" reikalavimai** padeda vartotojams pasiekti taikomąją programą. Pavyzdžiui, programai gali reikėti, kad vartotojas įvestų PIN arba pirštų atspaudus, kad galėtų jį pasiekti. Norėdami sužinoti daugiau, žiūrėkite " [Access" reikalavimai](https://go.microsoft.com/fwlink/?linkid=2135260).
+**Prieigos reikalavimai** padės vartotojams pasiekti taikomąją programą. Pvz., programa gali reikalauti, kad vartotojas galėtų įvesti PIN kodą arba piršto atspaudą, kad jį galėtų pasiekti. Norėdami sužinoti daugiau, žr. ["Access" reikalavimai](https://go.microsoft.com/fwlink/?linkid=2135260).
 
-**Sąlyginė Paleistis** reguliuoja taikomosios programos prisijungimo saugos parametrus, pvz., maksimalus PIN bandymas prieš užrakinimą arba minimali operacinė sistema, reikalinga programėlei paleisti. Jei norite sužinoti daugiau, žiūrėkite [sąlyginė Paleistis](https://go.microsoft.com/fwlink/?linkid=2135507).
+**Sąlyginis** paleidimas valdo programėlės prisijungimo saugos parametrus, pvz., maksimalų PIN bandymą prieš užrakinimo arba minimalią operacinę sistemą, reikalingą programai paleisti. Norėdami sužinoti daugiau, žr. [Sąlyginis paleidimas](https://go.microsoft.com/fwlink/?linkid=2135507).

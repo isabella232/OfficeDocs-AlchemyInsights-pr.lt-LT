@@ -1,5 +1,5 @@
 ---
-title: Ail kliento Išplėstinė konfigūracija
+title: AIP kliento išplėstinė konfigūracija
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951825"
 ---
-# <a name="aip-client-advanced-configuration"></a>Ail kliento Išplėstinė konfigūracija
+# <a name="aip-client-advanced-configuration"></a>AIP kliento išplėstinė konfigūracija
 
-Kilo problemų dėl "AIP" kliento išplėstinės konfigūracijos? Jei taip, atlikite šiuos veiksmus:
+Kyla problemų dėl išplėstinės AIP kliento konfigūracijos? Jei taip, atlikite šiuos veiksmus:
 
-1. Galbūt naudojate aprėpties strategijas, kurios netinkamai sukonfigūruotos. Daugiau informacijos ieškokite [kaip konfigūruoti "Azure" informacijos apsaugos strategiją konkretiems vartotojams naudojant aprėpties strategijas](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Galbūt naudojate aprėpties strategijas, kurios nėra tinkamai sukonfigūruotos. Daugiau informacijos žr. [Kaip konfigūruoti "Azure" informacijos apsaugos strategiją konkretiems vartotojams naudojant aprėpties strategijas](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 
-2. Jei vis dar susiduriate su problema, peržiūrėkite toliau nurodytus išteklius. Jei problema lieka neišspręsta, padarykite problemos ekrano nuotrauką ir pridėkite ją prie palaikymo bilieto.
+2. Jei problema išlieka, žr. toliau nurodytus išteklius. Jei problema išlieka neišspręsta, pasiimk problemos ekrano nuotrauką ir pridėkite ją prie palaikymo kvito.
 
-Jei turite papildomų išteklių, žiūrėkite:
+Daugiau išteklių žr.:
 
-- [Kaip sukonfigūruoti "Azure" informacijos apsaugos strategijos parametrus](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Kaip konfigūruoti "Azure" informacijos apsaugos strategijos parametrus](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Administratoriaus vadovas: pasirinktinio konfigūravimo "Azure" informacijos apsaugos klientui](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Administravimo vadovas: "Azure" informacijos apsaugos kliento pasirinktinės konfigūracijos](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
 - [Kas yra "Azure" informacijos apsauga?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Bendrųjų scenarijų, kurie naudoja "Azure" informacijos apsaugą, vadovai](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Bendrųjų scenarijų, kurie naudoja "Azure" informacijos apsaugą, naudojimo instrukcijos](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
 - ["Azure" informacijos apsaugos strategijos konfigūravimas](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
 - [Numatytoji "Azure" informacijos apsaugos strategija](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Kaip sukurti naują "Azure" informacijos apsaugos žymę](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Kaip sukurti naują "Azure" informacijos apsaugos etiketę](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Kaip sukonfigūruoti teisių valdymo apsaugos žymę](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Kaip konfigūruoti teisių valdymo apsaugos etiketę](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
 - ["Azure" informacijos apsaugos reikalavimai](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Vadovėlis: "Azure" informacijos apsaugos strategijos parametrų konfigūravimas ir naujos Žymos kūrimas](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Vadovėlis: "Azure" informacijos apsaugos strategijos parametrų konfigūravimas ir naujos etiketės kūrimas](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
