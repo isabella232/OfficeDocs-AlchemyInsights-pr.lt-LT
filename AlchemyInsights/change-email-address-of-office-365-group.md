@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft 365\" grupės el. pašto adreso keitimas"
+title: El. pašto adreso keitimas Microsoft 365 grupės
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 8eaafae8650a8072cdfbec281afe6d5e93fea655
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6bd9301b983d09f6a0058fee17577b9fc695458ed205f96aacf79a87e4a91e34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930737"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>"Microsoft 365" grupės el. pašto adreso keitimas
+# <a name="change-email-address-of-a-microsoft-365-group"></a>El. pašto adreso keitimas Microsoft 365 grupės
 
-Galite pakeisti "Microsoft 365" grupės el. pašto adresą naudodami administravimo centrą. Tiesiog pasirinkite grupę ir pasirinkite @redaguoti el. pašto adresą.
+Naudodami administravimo centrą, galite pakeisti Microsoft 365 grupės el. pašto adresą. Tiesiog pasirinkite grupę ir pasirinkite @redaguoti el. pašto adresą.
 
-Taip pat galite naudoti exo "PowerShell" komandą norėdami pakeisti pagrindinį "Microsoft 365" grupės SMTP adresą:
+Taip pat galite naudoti exo "PowerShell" komandą, norėdami pakeisti pirminį Microsoft 365 SMTP adresą:
 
 Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>
 

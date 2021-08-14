@@ -1,5 +1,5 @@
 ---
-title: "\"Teams\" klientas užstrigo įkėlus"
+title: Teams klientas užstringa įkeliant
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981697"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>"Teams" klientas užstrigo įkėlus
+# <a name="teams-client-is-stuck-on-loading"></a>Teams klientas užstringa įkeliant
 
-"Microsoft" žino apie naujausių komandų kompiuterio taikomosios programos komponavimo versiją, dėl kurios vartotojai negali prisijungti. Įtakos vartotojai mato įkeliant pasirodžiusį "Microsoft teams" pranešimą.
+"Microsoft" žino apie klaidą naujausioje kompiuterio Teams komponavimo versijos, kuri neleidžia vartotojams prisijungti. Paveikti vartotojai mato rodomą Microsoft Teams įkėlimo pranešimą.
 
-Paprasčiausias būdas šiuo metu yra naudoti "teams Web App" <https://teams.microsoft.com/> .
+Šiuo metu paprasčiausias sprendimas yra naudoti "Teams taikomąją programą <https://teams.microsoft.com/> .
 
-Daugiau informacijos ir dabartinės būsenos ieškokite tarnybos sveikatos ataskaitų srities įraše <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Daugiau informacijos ir dabartinės būsenos ieškokite tarnybos sveikatos ataskaitų srities skelbime <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
