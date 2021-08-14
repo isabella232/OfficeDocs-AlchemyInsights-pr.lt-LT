@@ -10,31 +10,31 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095262"
 ---
-# <a name="settings-in-outlookcom"></a>"Outlook.com" parametrai
+# <a name="settings-in-outlookcom"></a>Parametrai in Outlook.com
 
-Jei gavėjas yra vidinis arba išorinis jūsų organizacijoje ir naudoja "Office 365" arba "Outlook.com" el. pašto paskyrą, toliau nurodyti klientai neturėtų daryti nieko ypatingo, kad galėtų atidaryti laišką: **"outlook 2016", "Outlook" žiniatinklyje/"Outlook Web App", "Outlook" mobiliųjų įrenginių programėlė**
+Jei gavėjas yra vidinis arba išorinis jūsų organizacijai AND, jei jis naudoja "Office 365" arba "Outlook.com" el. pašto paskyrą, šie klientai neturėtų daryti nieko ypatingo, kad atidarytų pranešimą: **"Outlook 2016", "internetinė "Outlook" " / "Outlook Web App", "Outlook" mobiliųjų įrenginių programėlė**
 
-Vartotojų, kuriems buvo išsiųstas apsaugotas laiškas, **atstovai** negali atidaryti apsaugotų laiškų. Tik pirminiai gavėjai (asmuo, kuriam buvo išsiųstas apsaugotas laiškas) gali peržiūrėti informaciją el. laiške.
+**Vartotojų,** kuriems buvo išsiųstas apsaugotas el. paštas, atstovai negali atidaryti apsaugotų laiškų. Informaciją el. laiške gali peržiūrėti tik pirminiai gavėjai (asmuo, kuriam buvo išsiųstas apsaugotas el. laiškas).
 
-- Jei gavėjas yra kitame interneto paslaugų teikėjo, o jis &nbsp; negali atidaryti pranešimo ir pamatyti "rpmsg" priedą, vadovaukitės toliau pateiktomis instrukcijomis:
+- Jei gavėjas yra kitas interneto paslaugų teikėjas ir jis negali atidaryti pranešimo ir pamatyti &nbsp; "rpmsg" priedo, vykdykite toliau pateiktas instrukcijas:
     
-    - Pasirinkite **skaityti** laišką.
+    - Pasirinkite **Skaityti** pranešimą.
     
-    - Jos nukreipiamos į puslapį, kuriame jie turi pasirinkti **prisijungti naudojant vienkartinį kodą**.
+    - Jie nukreipiami į puslapį, kuriame jie turėtų pasirinkti prisijungti **naudodami vienkartinį slaptažodį**.
     
-    - Vienkartinio naudojimo slaptasis kodas išsiunčiamas į tą patį elektroninio pašto adresą. Įveskite kodą naršyklės lange, tada pasirinkite **tęsti** , kad perskaitytumėte pranešimą.
+    - Vienkartinis slaptasis kodas siunčiamas tuo pačiu el. pašto adresu. Įveskite kodą naršyklės lange, tada pasirinkite Tęsti, kad **perskaitytumėte** pranešimą.
 
-- Jei negalite užšifruoti iš kitos organizacijos gautų žinučių, vadovaukitės šiame [straipsnyje](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)nurodytais sprendimo veiksmais.
+- Jei negalite užšifruoti pranešimų iš kitos organizacijos, atlikite šiame straipsnyje nurodytus sprendimo [veiksmus.](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)
 
-- Jei gavėjo pašto dėžutė yra " **Yahoo" arba "Gmail**", vadovaukitės </span> šiame [straipsnyje](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)pateiktomis instrukcijomis.
+- Jei gavėjo pašto dėžutė yra **"Yahoo" arba "Gmail",** vykdykite </span> šiame straipsnyje pateiktas [instrukcijas.](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)
 
-- Apsaugos strategijos taikomos tik [žinomiems failų formatams](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). "OneDrive" verslui priedų šifravimas nepalaikomas.
+- Apsaugos strategijos taikomos tik [žinomiems failų formatams.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) "OneDrive" verslui priedai nepalaikomi šifravimui.
 
-- Bendrai naudojamos pašto dėžutės **negali atidaryti užšifruotų žinučių šiuo metu per bet kurį klientą**. 
+- Bendrinamos pašto **dėžutės šiuo metu negali atidaryti šifruotų laiškų per bet kurį klientą.** 

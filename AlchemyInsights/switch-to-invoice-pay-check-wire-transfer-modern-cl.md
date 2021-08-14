@@ -1,5 +1,5 @@
 ---
-title: Perjungti į mokėjimą pagal sąskaitą faktūrą (Check/Wire pervedimas)
+title: Mokėjimo pagal sąskaitą faktūrą perjungimas (čekis / pavedimas)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009076"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Perjungti į mokėjimą pagal sąskaitą faktūrą (Check/Wire pervedimas)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Mokėjimo pagal sąskaitą faktūrą perjungimas (čekis / pavedimas)
 
-Atsižvelgdami į savo problemos aprašą, radome sprendimą. Daugelis klientų galėjo išspręsti savo problemą, atlikę šiuos dokumentus.
+Atsižvelgdami į problemos aprašą, radome jums sprendimą. Dauguma klientų galėjo išspręsti savo problemą patys po mūsų dokumentų.
 
-Jei pereinate prie mokėjimo pagal sąskaitą faktūrą, tai reiškia, kad mokėsite sąskaitą per 30 dienų nuo sąskaitos faktūros datos. Norėdami gauti teisę sumokėti už "Azure" prenumeratą pagal sąskaitą faktūrą, pateikite "Azure" palaikymo užklausą. Kai jūsų užklausa patvirtinama, galite pakeisti "Azure" portalo "sąskaitos faktūros" prenumeratą.
+Jei perjungsite mokėti pagal sąskaitą faktūrą, tai reiškia, kad sąskaitą apmokėsite per 30 dienų nuo sąskaitos faktūros datos. Norėdami gauti teisę mokėti už "Azure" prenumeratą pagal sąskaitą faktūrą, pateikite užklausą "Azure" palaikymo tarnybai. Kai jūsų užklausa bus patvirtinta, galite pakeisti prenumeratą į sąskaitą faktūrą mokėdami "Azure" portale.
 
-**Prieš tęsdami, peržiūrėkite toliau pateiktus reikalavimus/apribojimus, pateiktus prašant sąskaitos faktūros mokėjimo parinkties:**
+**Prieš tęsdami toliau, peržiūrėkite šiuos reikalavimus / apribojimus, siųsdami prašymą dėl sąskaitos faktūros mokėjimo būdo:**
 
-- Prisijunkite prie " [Azure" portalo](https://portal.azure.com/), pereikite prie apmokėjimo būdų ir patikrinkite, ar jau esate iš anksto patvirtinti sąskaitos faktūros mokėjimui.
-- Sąskaitos faktūros mokėjimas galimas tik verslo paskyroms, o ne asmeniniams abonementams.
-- Prieš perjungdami į sąskaitos faktūros mokėjimą turite sumokėti visus neapmokėtus mokesčius.
-- Palaikymo komanda peržiūrės paskyrą, kad nustatytų, ar ji atitinka mokėjimo sąskaitos faktūros mokėjimo būdą.
-- Kai pereinate į sąskaitą faktūrą, negalėsite grįžti prie kredito ar debeto kortelės mokėjimo.
+- Prisijunkite prie ["Azure" portalo,](https://portal.azure.com/)eikite į mokėjimo būdus ir patikrinkite, ar jau iš anksto patvirtinote mokėjimą už sąskaitą faktūrą.
+- Sąskaitos faktūros mokėjimas galimas tik verslo paskyroms, o ne asmeninėms paskyroms.
+- Prieš pereidami prie sąskaitos faktūros mokėjimo, turite sumokėti visus neapmokėtą mokestį.
+- Palaikymo komanda peržiūrės paskyrą, kad nustatytų, ar ji atitinka sąskaitos faktūros mokėjimo būdą.
+- Pereidami prie mokėjimo už sąskaitą faktūrą, negalite grįžti prie kredito arba debeto kortelės mokėjimo.
 
-Kai būsite patvirtinti sumokėti pagal sąskaitą faktūrą, galite perjungti "Azure" prenumeratą į sąskaitos faktūros mokėjimą čekiu arba pavedimu " [Azure" portale](https://portal.azure.com/).
+Kai patvirtinate mokėti pagal sąskaitą faktūrą, galite pakeisti savo "Azure" prenumeratą į sąskaitą faktūrą mokėdami čekiu arba pavedimu ["Azure" portale.](https://portal.azure.com/)
 Norėdami tai padaryti:
 
-1. Prisijunkite prie " [Azure" portalo](https://portal.azure.com/)   kaip abonemento administratoriaus. Ieškokite ir pasirinkite **išlaidų valdymas + atsiskaitymas**.
-2. Meniu pasirinkite **atsiskaitymo profiliai**.
+1. Prisijunkite prie ["Azure" portalo](https://portal.azure.com/)   kaip paskyros administratorius. Ieškokite ir pasirinkite **Išlaidų valdymas + Atsiskaitymas**.
+2. Meniu pasirinkite Atsiskaitymo **profiliai**.
 3. Pasirinkite atsiskaitymo profilį.
-4. Meniu *Atsiskaitymo profilis* pasirinkite **mokėjimo būdai**.
-5. Pasirinkite juostą, kurioje sakoma, kad turite teisę sumokėti čekiu/pavedimu.
+4. Meniu *Atsiskaitymo profilis* pasirinkite **Mokėjimo būdai**.
+5. Pasirinkite reklaminę juostą, kuri sako, kad turite teisę mokėti čekiu / pavedimu.
 
 **Rekomenduojami dokumentai**
 
-- [Užklausos/atsisiuntimo/peržiūros "Azure" atsiskaitymo sąskaitos faktūros ir naudojimo duomenys](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Kaip siųsti "Azure" sąskaitas tiesiai į aplanką Gauta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- ["Azure" atsiskaitymo sąskaitos faktūros ir naudojimo duomenų užklausa / atsisiuntimas / rodinys](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Kaip siųsti "Azure" sąskaitas faktūras tiesiai į aplanką Gauta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Mokėjimas pagal sąskaitą faktūrą](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Savo sąskaitos faktūros sąlygų supratimas](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Terminų supratimas sąskaitoje faktūroje](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)

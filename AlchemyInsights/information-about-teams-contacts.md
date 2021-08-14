@@ -1,5 +1,5 @@
 ---
-title: Informacija apie komandų kontaktus
+title: Informacija apie Teams kontaktus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036515"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868354"
 ---
-# <a name="information-about-teams-contacts"></a>Informacija apie komandų kontaktus
+# <a name="information-about-teams-contacts"></a>Informacija apie Teams kontaktus
 
-Jei kontaktas nėra sinchronizuojamas vienam ar keliems vartotojams, atlikite šiuos veiksmus:
-- Įsitikinkite, kad vartotojo "Exchange" pašto dėžutė yra Patalpinta internete (ne vietoje). Daugiau informacijos ieškokite [kaip "Exchange" ir "Microsoft teams" sąveika](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Įsitikinkite, kad kontakto telefono numeris įtrauktas į kontaktinę informaciją.
-
-"Teams" naudoja šiuos kontaktus:
+Teams šiuos kontaktus:
 
 - Kontaktai organizacijos "Active Directory"
-- Kontaktai įtraukti į vartotojo "Outlook" numatytąjį aplanką
+- Kontaktai, įtraukti į vartotojo numatytąjį Outlook aplanką
 
-Komandos vartotojai gali bendrauti su bet kuo organizacijos "Active Directory" ir gali įtraukti visus organizacijos "Active Directory" kaip kontaktą ir kontaktų sąrašus, eidami į **pokalbį > kontaktus arba pokalbius > kontaktus**.
+Jei kontaktai nėra baigti arba nesinchronizuojami vienam ar keliems vartotojams, atlikite šiuos veiksmus:
 
-"Teams" vartotojai taip pat gali įtraukti asmenį, kuris nėra jūsų organizacijos "Active Directory", kaip kontaktą, jei norite paskambinti **> kontaktus**.
+- Įsitikinkite, kad vartotojo pašto Exchange ištekliai nuomojami internete (ne vietoje). Daugiau informacijos žr. Kaip [Exchange ir Microsoft Teams.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Įsitikinkite, kad kontakto telefono numeris įtraukiamas į kontaktinę informaciją.
+- Ieškokite kontakto el. laiško ieškos **juostoje.** Kontaktus, kuriuos galite gauti sinchronizavimą su kontaktų sąrašu.
 
 

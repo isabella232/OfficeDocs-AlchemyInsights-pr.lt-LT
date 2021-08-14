@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686318"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868390"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Kaip įtraukti arba redaguoti "VatID"
 
@@ -32,6 +32,6 @@ ms.locfileid: "53686318"
 1. Administravimo centre eikite į  puslapį \> [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Skirtuke  Produktai pasirinkite prenumeratą, kurią norite atnaujinti.
 3. Puslapio Prenumeratos išsami informacija sekcijoje **Tarnybos naudojimo adresas** pasirinkite Redaguoti tarnybos naudojimo **adresą**.
-4. Srityje **Redaguoti tarnybos naudojimo adresą** įveskite SAVO PVM ID lauke **PVM numeris,** tada pasirinkite **Įrašyti**. Kai tai padarysite, PVM nebus apmokestintas nuo kitos sąskaitos.
+4. Srityje **Redaguoti tarnybos naudojimo adresą** įveskite SAVO PVM ID lauke **PVM numeris,** tada pasirinkite **Įrašyti**. Kai tai padarysite, PVM nebus apmokestintas už kitą sąskaitą faktūrą.
 
-Norėdami sužinoti daugiau, [žr. Koks mokestis bus](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)taikomas Microsoft 365? .
+Norėdami sužinoti daugiau, [žr. Koks mokestis bus](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)taikomas už Microsoft 365? .
