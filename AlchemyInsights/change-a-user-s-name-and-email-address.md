@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: f65878f987924d4f1b428d66e9b82596b2760004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dddf341d5c021e30b65984fae165765cb8116f791f8ea3a02ff70f27e73c19f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018904"
 ---
 # <a name="change-a-name-and-email-address"></a>Vardo ir el. pašto adreso keitimas
 
-Pakeisti vartotojo vardą ir el. pašto adresą "Microsoft 365" yra paprasta. Eikite į **puslapį** \> [Vartotojai aktyvūs](https://go.microsoft.com/fwlink/p/?linkid=834822) vartotojai ir pasirinkite vartotoją, kad redaguotų savo informaciją. Šiame straipsnyje taip pat galite naudoti nuoseklias instrukcijas:
+Pakeisti vartotojo vardą ir el. pašto adresą Microsoft 365 paprasta. Eikite į **puslapį** \> [Vartotojai aktyvūs](https://go.microsoft.com/fwlink/p/?linkid=834822) vartotojai ir pasirinkite vartotoją, kad redaguotų savo informaciją. Šiame straipsnyje taip pat galite naudoti nuoseklias instrukcijas:
   
-[Vartotojo vardo ir el. pašto adreso keitimas "Microsoft 365"](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[Vartotojo vardo ir el. pašto adreso keitimas Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
  **Pastaba:** jei pakeisite vartotojo pagrindinį el. pašto adresą, jo senasis el. pašto adresas vis tiek galios gaunant el. paštą (taip nutinka automatiškai). Be to, jei jūsų organizacija yra hibridinės būsenos, visus el. pašto ir vartotojo vardo pakeitimus reikia atlikti vietinėje "Active Directory" ir sinchronizuoti su debesimi.

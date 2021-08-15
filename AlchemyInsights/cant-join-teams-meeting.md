@@ -1,5 +1,5 @@
 ---
-title: Negalite prisijungti prie komandos susitikimo
+title: Negalite prisijungti prie Teams susitikimo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003566"
 - "6656"
-ms.openlocfilehash: bc00638af3364f7d843c5b00d42a60491c4d1859
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: b2d53c7c06264fc0c6a9e682ff0802b1fbc562b378b75cfb06ca330492dfcf22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019012"
 ---
-# <a name="cant-join-teams-meeting"></a>Negalite prisijungti prie komandos susitikimo
+# <a name="cant-join-teams-meeting"></a>Negalite prisijungti prie Teams susitikimo
 
 Trikčių šalinimo pasiūlymai:  
 
-- Administravimo centre parinktis  **leisti susitikti dabar kanalo**  strategijoje gali būti išjungta. Paprašykite komandų administratoriaus tai patikrinti.
-- Atidarykite "teams" žiniatinklio taikomąją programą "Google Chrome" ir bandykite prisijungti prie susitikimo.
-- Paprašykite susitikimo susitikimo, vykdydami instrukcijas dalyje "pakviesti žmones" ir  [pradėkite tiesioginį susitikimą "teams](https://support.microsoft.com/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5)".
-- Įsitikinkite, kad vaizdas nėra sugadintas.
+- Administravimo  **centro kanalo strategijos parinktis**  Leisti susitikti dabar gali būti išjungta. Paprašykite Teams administratoriaus, kad tai patikrinsite.
+- Atidarykite Teams taikomąją programą "Google Chrome" ir bandykite prisijungti prie susitikimo.
+- Paprašykite, kad kas nors susitikime jus pakvies pagal instrukcijas, pateiktas dalyje "Pakviesti žmonių", dalyje Pradėkite tiesioginį [susitikimą Teams](https://support.microsoft.com/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5).
+- Įsitikinkite, kad vaizdas nesugadintas.
