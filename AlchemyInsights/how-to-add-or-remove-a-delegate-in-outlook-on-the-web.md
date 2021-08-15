@@ -1,5 +1,5 @@
 ---
-title: Kaip įtraukti arba pašalinti atstovą internetinėje "Outlook" (OWA)
+title: Kaip įtraukti arba pašalinti atstovą žiniatinklio Outlook (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993433"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Kaip įtraukti arba pašalinti atstovą internetinėje "Outlook" (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Kaip įtraukti arba pašalinti atstovą žiniatinklio Outlook (OWA)
 
-Norėdami priskirti redaktoriaus arba atstovo prieigą prie jūsų kalendoriaus:
+Norėdami priskirti rengyklę arba atstovo prieigą prie kalendoriaus:
 
-1. "Outlook" žiniatinklyje pasirinkite kalendoriaus piktogramą puslapio apačioje.
-2. Puslapio viršuje pasirinkite **bendrinti > kalendorių**.
-3. Puslapyje **bendrinimo ir teisės** įveskite asmens, su kuriuo norite bendrinti kalendorių, vardą arba el. pašto adresą. Jei galite bendrinti savo kalendorių su daugiau nei vienu asmeniu, galite įtraukti tik vieną asmenį iš "Outlook" žiniatinklyje.
-4. Įtraukę asmenį, kuriam norite valdyti savo kalendorių, pasirinkite išplečiamąjį sąrašą, esantį prie jo vardo, ir pasirinkite prieigos lygį, kurį norite turėti.
+1. Dalyje internetinė "Outlook" pasirinkite kalendoriaus piktogramą puslapio apačioje.
+2. Puslapio viršuje pasirinkite Bendrinti > **kalendorių**.
+3. Puslapyje **Bendrinimas ir teisės** įveskite asmens, su kuriuo norite bendrinti kalendorių, vardą arba el. pašto adresą. Nors kalendorių galite bendrinti su daugiau nei vienu asmeniu, vienu metu galite įtraukti tik vieną asmenį iš internetinė "Outlook".
+4. Kai įtraukėte asmenį, kurį norite valdyti savo kalendorių, pasirinkite išplečiamąjį sąrašą šalia jo vardo ir pasirinkite norimą prieigos lygį.
 
-    - Pasirinkite **gali redaguoti** , kad suteiktumėte jiems teisę keisti jūsų kalendorių.
-    - Pasirinkite **atstovas** , kad suteiktumėte jiems tas pačias teises kaip redaktorius, taip pat jie gaus susitikimų užklausas ir atsakymus jūsų vardu.
+    - Pasirinkite **Gali redaguoti,** kad suteikite jiems teisę atlikti kalendoriaus keitimus.
+    - Pasirinkite **Atstovas,** kad suteikite jiems tas pačias teises kaip rengyklė, be to, jie jūsų vardu gaus susitikimo užklausas ir atsakymus.
     > [!NOTE]
-    > Kai atstovas atsiliepia į susitikimo kvietimą jūsų vardu, kai naudojant internetinę "Outlook" jūsų aplanke Gauta nebus rodomas atsakymas. Jūsų kalendoriuje bus rodomi arba preliminariai priimti susitikimai ir bus rodoma, kad jūsų įgaliotas asmuo jas priėmė.
-    - Parinktys **gali peržiūrėti, kai esu užsiėmęs**, **gali peržiūrėti pavadinimus ir vietas** ir **gali peržiūrėti visą informaciją** , kad kiti galėtų peržiūrėti jūsų kalendorių, bet neatlikti jo keitimo. Prieiga prie jūsų organizacijai nepriklausančių asmenų ribojama šiomis parinktimis.
+    > Kai atstovas atsako į susitikimo kvietimą jūsų vardu, nematysite atsakymo į kvietimą aplanke Gauta, kai naudojate internetinė "Outlook". Priimti arba preliminariai priimti susitikimai bus rodomi jūsų kalendoriuje ir parodys, kad jūsų atstovas juos priėmė.
+    - Parinktys **Gali peržiūrėti, kai esu užsiėmęs**,  Gali peržiūrėti **pavadinimus** ir vietas ir Gali peržiūrėti visą informaciją, kad kiti galėtų peržiūrėti jūsų kalendorių, bet ne keisti. Prieiga ne iš jūsų organizacijos žmonėms ribojama šiomis parinktimis.
 
-5. Baigę įtraukti asmenį, su kuriuo norite bendrinti kalendorių, ir pasirinkote, kurias teises norite suteikti, pasirinkite **bendrinti**. Jei nuspręsite Nebendrinti kalendoriaus dabar, pasirinkite **Šalinti**.
+5. Pridėję asmenį, su kuriuo norite bendrinti kalendorių, ir pasirinkę, kurias teises norite suteikti, pasirinkite **Bendrinti**. Jei nuspręsite šiuo metu ne bendrinti savo kalendoriaus, pasirinkite **Pašalinti**.
 
-Asmuo, su kuriuo bendrinate savo kalendorių, gaus pranešimą apie tai. Kai kvietime pasirinkite mygtuką **priimti** , jis įtrauks kalendorių į jų kalendorių sąrašą.
+Asmuo, su kurį bendrinote savo kalendorių, gaus el. laišką, kuriame bus pasakojami apie jį. Pasirinkus kvietime **esantį** mygtuką Priimti, jis įtrauks jūsų kalendorių į jų kalendorių sąrašą.
 
 > [!NOTE]
-> Kalendoriaus elementai, pažymėti kaip **privatūs** , yra apsaugoti. Dauguma žmonių, su kuriais bendrinate savo kalendorių, mato tik tų elementų, kurie pažymėti kaip **privatūs**, o ne temos, vietos ar kitos išsamios informacijos, laiką. Išimtis taikoma, jei pažymėsite žymės langelį suteikti **atstovui Peržiūrėti asmeninius įvykius** .
+> Kalendoriaus elementai, **pažymėti kaip** Privatus, yra apsaugoti. Dauguma žmonių, su kuriuo bendrinate kalendorių, mato tik elementų, pažymėtų **Privatus,** laiką, o ne temą, vietą ar kitą informaciją. Ši išimtis yra, jei pažymėsite žymės **langelį Leisti atstovui peržiūrėti privačius** įvykius.
 
-Norėdami pašalinti atstovą internetinėje "Outlook" (OWA):
+Norėdami pašalinti atstovą žiniatinklio Outlook (OWA):
 
-1. "Outlook" žiniatinklyje pasirinkite kalendoriaus piktogramą puslapio apačioje.
-2. Puslapio viršuje pasirinkite **bendrinti** ir pasirinkite kalendorių, kurio bendrinimą norite baigti.
-3. Pasirinkite **Šalinti** prie asmens, su kuriuo nebenorite dalytis kalendoriumi.
+1. Dalyje internetinė "Outlook" pasirinkite kalendoriaus piktogramą puslapio apačioje.
+2. Puslapio viršuje pasirinkite Bendrinti ir pasirinkite kalendorių, kurio bendrinimą norite sustabdyti.
+3. Šalia **asmens,** su kuriuo norite sustabdyti kalendoriaus bendrinimą, pasirinkite Šalinti.

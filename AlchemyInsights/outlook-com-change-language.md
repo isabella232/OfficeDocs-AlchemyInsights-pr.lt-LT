@@ -1,5 +1,5 @@
 ---
-title: Kalbos, datos ir laiko formato arba "Outlook.com" laiko juostos keitimas
+title: Kalbos, datos ir laiko formato arba laiko juostos keitimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: cb3f720ec270a6bdc1a8ae7f817862e41f71f666
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 616ca679ed3f8d5f2fe5d63e2ee41789e08bcf4bc6809022991d1ede02d8cb49
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984181"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Kalbos, datos ir laiko formato arba laiko juostos keitimas programoje "Outlook.com"
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Kalbos, datos ir laiko formato arba laiko juostos keitimas Outlook.com
 
-1. Atidarykite savo [kalbos ir laiko parametrus](https://go.microsoft.com/fwlink/?linkid=2085505).
-1. Pasirinkite kalbą, datos formatą, laiko formatą ir laiko juostą, kurią norite naudoti.
-1. Pasirinkite **įrašyti**.
+1. Atidarykite [kalbos ir laiko parametrus](https://go.microsoft.com/fwlink/?linkid=2085505).
+1. Pasirinkite norimą naudoti kalbą, datos formatą, laiko formatą ir laiko juostą.
+1. Pasirinkite **Įrašyti**.

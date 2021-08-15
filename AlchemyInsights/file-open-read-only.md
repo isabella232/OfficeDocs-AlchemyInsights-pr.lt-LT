@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029812"
 ---
 # <a name="file-open-read-only"></a>Failas atidarytas tik skaityti
 
@@ -38,18 +38,18 @@ Failuose iš interneto ir kitose potencialiai nesaugiose vietose gali būti viru
   
  **Ar "OneDrive" pilna?**
   
-Jei failas saugomas "OneDrive", o jūsų "OneDrive" saugojimo vieta pilna, negalėsite įrašyti dokumento, kol nepateksite į jam skirtą vietą. Galite patikrinti laisvos vietos "OneDrive" pranešimų centre spustelėdami "OneDrive" piktogramą ir pasirinkdami Tvarkyti saugyklą arba galite eiti į , prisijungti ir atkreipkite dėmesį, kiek vietos naudojama [https://onedrive.live.com](https://onedrive.live.com) apatiniame kairiajame ekrano kampe.
+Jei failas saugomas ""OneDrive" ir "OneDrive" saugojimo vieta yra pilna, negalėsite įrašyti dokumento, kol neįeisite į jam skirtą vietą. Galite patikrinti savo laisvą vietą ""OneDrive"" pranešimų centre spustelėdami ""OneDrive"" piktogramą ir pasirinkdami Tvarkyti saugyklą arba galite eiti į , prisijungti ir atkreipkite dėmesį, kiek vietos naudojama apatiniame kairiajame [https://onedrive.live.com](https://onedrive.live.com) ekrano kampe.
   
- **Ar "Office" suaktyvintas?**
+ **Ar Office suaktyvintas?**
   
-Jei "Office" nesuaktyvintas arba jei jūsų prenumeratos galiojimas baigėsi, gali būti, kad naudojate tik skaitymo sumažinto funkcionalumo režimą. Informacijos, kaip aktyvinti "Office", žr.: [Nelicelicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jei Office nėra suaktyvintas arba jei jūsų prenumeratos galiojimas baigėsi, gali būti, kad naudojate tik skaitymo sumažinto funkcionalumo režimą. Informacijos, kaip aktyvinti "Office", žr.: [Nelicektyvus](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)produktas ir aktyvinimo klaidos Office .
   
  **Jei visa kita nepavyksta...**
   
 - Pabandykite iš naujo paleisti kompiuterį
     
-- "Office" naujinimų diegimas
+- Naujinimų Office diegimas
     
-- "Office" atkūrimas internete
+- Internetinio "Office
     
 

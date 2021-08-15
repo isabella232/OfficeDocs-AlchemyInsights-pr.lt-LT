@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Search\" diegimas \"Bing\" plėtinyje \"Google Chrome\""
+title: Įdiekite ""Microsoft" ieška" Bing "Google Chrome"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014620"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>"Microsoft Search" diegimas "Bing" plėtinyje "Google Chrome"
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Įdiekite ""Microsoft" ieška" Bing "Google Chrome"
 
-Norėdami įdiegti "Microsoft Search" "Bing" plėtinyje "Google Chrome", atlikite šiuos veiksmus:
+Norėdami įdiegti "Microsoft" ieška "Bing" plėtinį "Google Chrome", atlikite šiuos veiksmus:
 
 1. Įsitikinkite, kad įrenginys [atitinka plėtinio](https://go.microsoft.com/fwlink/?linkid=2152236) diegimo kriterijus.
-2. Pasirinkite, kad plėtinys būtų įdiegtas, sukonfigūruodami atitinkamus parametrus **"Microsoft** 365" administravimo centro skyriuje "Microsoft Search".
-3. Vartotojo įrenginyje įdiekite "Microsoft Search in Bing" fono tarnybą. Ši foninė tarnyba yra įtraukta į "Microsoft 365" taikomąsias programas, skirtas įmonėms.
+2. Pasirinkite, kad plėtinys būtų įdiegtas, konfigūruodami **atitinkamus parametrus "Microsoft" ieška** dalyje "Microsoft 365" administravimo centras.
+3. Vartotojo įrenginyje įdiekite ""Microsoft" ieška" Bing. Ši fono tarnyba yra įtraukta į "Microsoft 365" programos įmonėms.
 
-Daugiau informacijos žr. Kaip [įdiegiamas "Microsoft Search in Bing" plėtinys, skirtas "Google Chrome"?](https://go.microsoft.com/fwlink/?linkid=2150992)
+Daugiau informacijos žr. [Kaip įdiegti "Microsoft" ieška Bing "Google Chrome" plėtinį?](https://go.microsoft.com/fwlink/?linkid=2150992)
