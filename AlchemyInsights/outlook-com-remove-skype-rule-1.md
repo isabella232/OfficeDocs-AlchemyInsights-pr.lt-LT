@@ -1,5 +1,5 @@
 ---
-title: Outlook.com "Skype" pašalinimas
+title: Outlook.com Pašalinti Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962103"
 ---
-# <a name="skype-icon-missing"></a>Trūksta "Skype" piktogramos
+# <a name="skype-icon-missing"></a>Skype piktogramos
 
-Mes laikinai pašalinome "Skype" piktogramą iš Outlook.com kaip dizaino atnaujinimo ir funkcijų naujinimo dalis, kurias džiaugiamės, kad būtų diegiamos. Dėkojame už kantrybę, o mes paruošime jums naują ir geresnę patirtį.
+Laikinai pašalinome Skype piktogramą iš "Outlook.com" kaip dizaino atnaujinimo ir funkcijų naujinimo dalį, kurią džiaugiamės galėdami įdiegti. Vertiname jūsų kantrybę, kol ruošiame jums naują ir patobulintą patirtį.
 
-Vis dar galite naudoti "Skype" naudodami savo naršyklę " [Web.Skype.com](https://web.skype.com/)".
+Vis tiek galite naudoti Skype naudodami naršyklę [web.skype.com](https://web.skype.com/).

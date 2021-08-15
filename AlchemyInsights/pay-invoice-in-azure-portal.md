@@ -1,5 +1,5 @@
 ---
-title: Mokėjimo sąskaita faktūra "Azure" portale – Rekomenduojami veiksmai
+title: Mokėjimo sąskaita faktūra "Azure" portale – rekomenduojami veiksmai
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010372"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Mokėjimo sąskaita faktūra "Azure" portale – Rekomenduojami veiksmai
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Mokėjimo sąskaita faktūra "Azure" portale – rekomenduojami veiksmai
 
-Atsižvelgdami į savo problemos aprašą, radome sprendimą. Daugelis klientų galėjo išspręsti savo problemą, atlikę šiuos dokumentus.
+Atsižvelgdami į problemos aprašą, radome jums sprendimą. Dauguma klientų galėjo išspręsti savo problemą patys po mūsų dokumentų.
 
-Turite būti atsiskaitymo paskyros administratorius, kad mokėtumėte sąskaitas faktūras "Azure" portale. Atsiskaitymo paskyros administratorius yra vartotojas, kuris iš pradžių pasirašė "Microsoft" kliento sutarties paskyrą. 
+Turite būti atsiskaitymo paskyros administratorius, kad mokėtų sąskaitas faktūras "Azure" portale. Atsiskaitymo paskyros administratorius yra vartotojas, kuris iš pradžių prisiregistravo naudoti "Microsoft" klientų sutarties paskyrą. 
 
-Norėdami sumokėti sąskaitą "Azure" portale: 
+Norėdami sumokėti sąskaitą faktūrą "Azure" portale: 
 
-1. Prisijunkite prie " [Azure" portalo](https://portal.azure.com/).
-1. Ieškokite **Išlaidų valdymas + Atsiskaitymas**.
-1. Kairiojoje srityje, dalyje **atsiskaitymas** spustelėkite **sąskaitos faktūros**.
-1. Jei kurios nors sąskaitos faktūros yra mokėtinos arba vėluoja, matysite mėlyną **mokėjimo dabar** saitą. Spustelėkite **sumokėti dabar**.
-1. Naujame peiliuje spustelėkite **pasirinkti mokėjimo būdą** , kad pasirinktumėte esamą kredito kortelę arba įtrauktumėte naują.
-1. Pasirinkus mokėjimo būdą, spustelėkite **mokėti dabar**.
-Sąskaitos faktūros būsena bus atnaujinta, kad būtų sumokėta sąskaitos faktūros ašmenimis.
+1. Prisijunkite prie [„Azure“ portalo](https://portal.azure.com/).
+1. Ieškokite dalies **Išlaidų valdymas + Atsiskaitymas**.
+1. Kairiojoje srityje dalyje **Atsiskaitymas** spustelėkite **Sąskaitos faktūros.**
+1. Jei kuri nors iš jūsų sąskaitų faktūrų yra termino arba termino sueis, matysite **mėlyną** tos sąskaitos faktūros saitą Mokėti dabar. Spustelėkite **Mokėti dabar**.
+1. Naujame ašmenyse spustelėkite **Pasirinkti mokėjimo būdą,** kad pasirinktumėte esamą kredito kortelę arba įtrauksite naują.
+1. Pasirinkę mokėjimo būdą, spustelėkite **Mokėti dabar**.
+Sąskaitos faktūros būsena bus atnaujinta į apmokėtą sąskaitų faktūrų ašmenyse.
 
 **Rekomenduojami dokumentai**
 
-- [Kaip apmokėti "Microsoft Azure" sąskaitą](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [Mokėjimo būdo keitimas – DUK](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Atsiskaitymo profilio mokėjimo būdo keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Prieigos prie "Microsoft" kliento sutarties tikrinimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Kaip sumokėti sąskaitą už "Microsoft Azure"](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
+- [DUK: Mokėjimo būdo keitimas](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Atsiskaitymo profilio mokėjimo metodo keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Prieigos prie „Microsoft“ kliento sutarties patikrinimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

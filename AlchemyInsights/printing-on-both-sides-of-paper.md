@@ -14,24 +14,24 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee9a7b58f36137f0bc5647c14c01dff9e2e6d49b9c2eac5fa5996c258fbafbb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010131"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Spausdinimas ant abiejų popieriaus pusių (dvipusis spausdinimas)
 
 **Ar mano spausdintuvas gali spausdinti dvipusiu spausdinimu?**
 
-Jūsų spausdintuvo funkcijų suvestinė arba neautomatinis turėtų nurodyti, ar galima spausdinti ant abiejų popieriaus pusių, dar vadinamų dvipusio spausdinimo funkcija. Jei turite "Microsoft Office", kitas būdas sužinoti yra atidaryti "Office" programą, pvz., "Word" arba "Excel", eiti į **Failas > Spausdinti**, įsitikinkite, kad pasirinktas tinkamas spausdintuvas ir ieškote galimybių dalyje Parametrai. Toliau pateikiami pavyzdžiai. 
+Jūsų spausdintuvo funkcijų suvestinė arba neautomatinis turėtų nurodyti, ar galima spausdinti ant abiejų popieriaus pusių, dar vadinamų dvipusio spausdinimo funkcija. Jei turite "Microsoft Office", kitas būdas sužinoti yra atidaryti ""Office" programa", pvz., "Word" arba "Excel", eiti į **Failas > Spausdinti**, įsitikinkite, kad pasirinktas tinkamas spausdintuvas ir ieškoma galimybių Parametrai dalyje. Toliau pateikiami pavyzdžiai. 
 
 ![Spausdintuvo parametrai](media/print-settings.png)
 
-**Dvipusis spausdinimas naudojant "Microsoft Office"**
+**Dvipusis spausdinimas Microsoft Office**
 
-Jei spausdintuvas gali spausdinti abiejose pusėse, kai pereisite į Failas **> Spausdinti** "Office" programoje, matysite parinktį "Spausdinti abiejose pusėse", kaip parodyta aukščiau pateiktame pavyzdyje.  Pasirinkite norimą dvipusio spausdinimo tipą (apverskite ant ilgo krašto arba apverskite trumpą kraštą) ir spustelėkite **Spausdinti,** kad pradėtumėte spausdinti.
+Jei spausdintuvas gali spausdinti abiejose pusėse, kai **""Office" programa"** eikite į Failas > Spausdinti, matysite parinktį "Spausdinti abiejose pusėse", kaip parodyta aukščiau pateiktame pavyzdyje.  Pasirinkite norimą dvipusio spausdinimo tipą (apverskite ant ilgo krašto arba apverskite trumpą kraštą) ir spustelėkite **Spausdinti,** kad pradėtumėte spausdinti.
 
 **Dvipusis spausdinimas iš bet kurios taikomosios programos**
 

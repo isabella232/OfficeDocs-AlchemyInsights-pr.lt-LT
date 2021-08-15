@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f954d85a6b682a5e683e7216b71e694e8013e9a6145b9c7f119d3b2a5b78965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990643"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Aplanko arba failų nusiuntimas į "SharePoint" dokumentų biblioteką
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Upload arba failų į SharePoint biblioteką
 
-Norėdami nusiųsti aplanką, turite naudoti "Microsoft Edge", "Google Chrome" arba "Mozilla FireFox". Negalite nusiųsti aplankų klasikinės bibliotekos naudojimo metu arba naudodami "Internet Explorer 10" arba 11.
+Norėdami nusiųsti aplanką, turite naudoti "Microsoft Edge", "Google Chrome" arba "Mozilla FireFox". Negalite nusiųsti aplankų naudodami klasikinę biblioteką arba naudodami Internet Explorer 10 arba 11.
   
 1. Atidarykite dokumentų biblioteką, kurioje norite nusiųsti aplanką arba failus.
     
-2. Kompiuteryje atidarykite failų naršyklę ir raskite aplanką ar failus, kuriuos norite nusiųsti.
+2. Kompiuteryje atidarykite failų naršyklę ir raskite aplanką arba failus, kuriuos norite nusiųsti.
     
-3. Nuvilkite aplanką arba failus į dokumentų biblioteką. Jei nematote, kad jūsų nusiųsti elementai bus rodomi bibliotekoje, atnaujinkite puslapį. 
+3. Vilkite aplanką arba failus į dokumentų biblioteką. Jei bibliotekoje nerodomi jūsų nusiųsti elementai, atnaujinkite puslapį. 
     
-Jei nenorite nusiųsti elementų vilkdami elementus tarp "Windows", taip pat galite naudoti mygtuką **nusiųsti** dokumentų bibliotekoje, kad pasirinktumėte aplanką ar failus, kuriuos norite nusiųsti. 
+Jei nenorite nusiųsti vilkdami elementus tarp langų, taip **pat galite naudoti mygtuką Upload** bibliotekoje, kad pasirinktumėte aplanką arba failus, kuriuos norite nusiųsti. 
   
 
