@@ -1,5 +1,5 @@
 ---
-title: Nuostatų paslaugos konfigūravimas
+title: Parengimo tarnybos konfigūravimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033286"
 ---
-# <a name="configuring-the-provision-service"></a>Nuostatų paslaugos konfigūravimas
+# <a name="configuring-the-provision-service"></a>Parengimo tarnybos konfigūravimas
 
-Jei reikia automatizuoto vartotojo parengimo darbui, "Azure AD" reikia galiojančių kredencialų, leidžiančių prisijungti prie darbo dienos žiniatinklio tarnybų API. Be to, "Test Connection" mygtukas darbo dieną, skirtas skelbimų vartotojo parengimo programėlei, taip pat patikrina, ar jis gali prisijungti prie "Azure AD Connect" parengimo agento, susieto su skelbimo domenu.
+Kad veiktų automatinis vartotojų parengimas, "Azure AD" reikalauja galiojančių kredencialų, kurie leidžia prisijungti prie darbo dienos žiniatinklio tarnybų API. Be to, mygtukas Tikrinti ryšį darbo dieną su AD vartotojo parengimo programa taip pat patikrina, ar jis gali prisijungti prie "Azure AD Prisijungimas parengimo agento, susieto su AD domenu.
 
-Jei "Azure" portale įrašant kredencialus grąžinama klaida, atlikite toliau nurodytus rekomenduojamus veiksmus:
+Jei įrašant kredencialus "Azure" portalas grąžina klaidą, atlikite toliau nurodytus rekomenduojamus veiksmus:
 
-1. Įsitikinkite, kad esate sukonfigūravę darbo dienos integravimo sistemos vartotojo abonementą, kaip nurodyta skyriuje mokomųjų [vartotojų integravimo sistemos vartotojo darbo dienos konfigūravimas](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
-2. Įsitikinkite, kad "Azure AD Connect" parengimo agento tarnyba veikia ir veikia jūsų vietiniame "Windows Server", naudodami tarnybų valdymo konsolę. Taip pat galite patikrinti agento būseną "Azure" portale spustelėdami mygtuką Peržiūrėti vietinius agentus.
-3. Įsitikinkite, kad įvedate lauko "WORKDAY username" reikšmę naudodami formatą username@workday – nuomotojo vardas. Jei darbo dienos – nuomotojo vardo nėra, nepavyksta autentifikuoti darbo dieną.
-4. Jei konfigūruojate integraciją su "WORKDAY" diegimo nuomotoju, Įsiminkite jūsų darbo dienos nuomotojo suplanuotus prastovos valandas. Darbo diena suplanavo laiką savo įgyvendinimo nuomotojams per savaitgalius (paprastai nuo penktadienio vakaro iki šeštadienio ryto) ir ryšio triktys šio prastovų lange yra žinoma problema, kurią automatiškai išsprendžia, kai tik įgyvendinimo nuomotojai grįžta internete.
-5. Retais atvejais taip pat galite matyti šią klaidą, jei integravimo sistemos vartotojo slaptažodis buvo pakeistas dėl nuomotojo atnaujinimo arba paskyra yra užrakintoje arba pasibaigutoje būsenoje. Patikrinkite integravimo sistemos vartotojo būseną su savo darbo dienos administratoriumi.
+1. Įsitikinkite, kad sukonfigūravote darbo dienos integravimo sistemos vartotojo paskyrą, kaip nurodyta mokymo priemonės skyriuje Integravimo [sistemos vartotojo konfigūravimas darbo dieną](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+2. Patvirtinkite, kad "Azure AD Prisijungimas" parengimo agento tarnyba veikia jūsų vietiniame "Windows serveryje naudojant tarnybų valdymo konsolę. Taip pat galite patikrinti agento būseną "Azure" portale spustelėdami mygtuką Peržiūrėti vietinį agentą.
+3. Įsitikinkite, kad įvedate lauko "Darbo dienos vartotojo vardas" reikšmę naudodami username@workday-nuomotojo vardo formatą. Jei trūksta darbo dienos nuomotojo vardo, darbo dienos autentifikavimas nepavyksta.
+4. Jei konfigūruojate integravimą su darbo dienos diegimo nuomotoju, atkreipkite dėmesį į suplanuotas darbo dienos nuomotojo prastovas. Darbo diena suplanavo savo įgyvendinimo nuomotojų laiką savaitgaliais (paprastai nuo penktadienio vakaro iki šeštadienio ryto), o ryšio gedimai šiame prastovos lange yra žinoma problema, kuri automatiškai išsprendžiama, kai tik diegimo nuomotojai vėl bus prisijungę.
+5. Retais atvejais taip pat galite matyti šią klaidą, jei integravimo sistemos vartotojo slaptažodis pasikeitė dėl nuomotojo atnaujinimo arba jei paskyros būsena užrakinta arba jos galiojimo laikas baigėsi. Patikrinkite integravimo sistemos vartotojo būseną su savo darbo dienos administratoriumi.
 
-Išsamesnės informacijos apie darbo dienos konfigūravimą automatiniam parengimas ieškokite straipsnyje [Susipažinkite: darbo dienos konfigūravimas automatiniam vartotojų parengimas](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Daugiau informacijos apie automatinio parengimo darbo dienos konfigūravimą žr. [Vadovėlis: Darbo dienos konfigūravimas automatiniam vartotojų parengimui](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).

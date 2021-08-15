@@ -1,5 +1,5 @@
 ---
-title: Nustatykite ClientAccessServerEnabled į TRUE
+title: Nustatyti ClientAccessServerEnabled kaip True
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994873"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>Nustatykite ClientAccessServerEnabled į TRUE
+# <a name="set-clientaccessserverenabled-to-true"></a>Nustatyti ClientAccessServerEnabled kaip True
 
-Jei negalite atidaryti užšifruotos el. laiško, o ne matyti **rpmsg** priedą, atlikite šiuos veiksmus:
+Jei negalite atidaryti šifruoto el. laiško ir vietoj to **matote rpmsg priedą,** atlikite šiuos veiksmus:
 
-1. Prisijungimas prie "Exchange Online" "PowerShell".
+1. Prisijungimas "Exchange Online PowerShell".
 
 > [!NOTE]
-> Norėdami prisijungti prie "Exchange Online PowerShell", turite prisijungti naudodami visuotinio administratoriaus arba "Exchange" administratoriaus paskyrą.
+> Norėdami prisijungti prie "Exchange Online PowerShell", turite prisijungti naudodami visuotinį administratorių arba Exchange administratoriaus paskyrą.
 
-   a. Atidarykite "Windows PowerShell", tada vykdykite šią komandą: `$UserCredential = Get-Credential`
-b. Dialogo lange **"Windows PowerShell" kredencialų užklausa** įveskite savo darbo arba mokymo įstaigos paskyrą ir slaptažodį, c. Spustelėkite **Gerai**. 
+   a. Atidarykite Windows PowerShell, tada vykdykite šią komandą:`$UserCredential = Get-Credential`
+b. Dialogo **Windows PowerShell kredencialų užklausa** įveskite savo darbo arba mokymo įstaigos paskyrą ir slaptažodį, c. Spustelėkite **Gerai**. 
 
-2. Vykdykite šią komandą, kad sukurtumėte naują seansą:
+2. Norėdami sukurti naują seansą, vykdykite šią komandą:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
@@ -40,14 +40,14 @@ b. Dialogo lange **"Windows PowerShell" kredencialų užklausa** įveskite savo 
     
     `Import-PSSession $Session -DisableNameChecking`
 
-3. `Get-IRMConfiguration`Komanda vykdyti.
+3. Vykdyti `Get-IRMConfiguration` komandą.
 
-4. Pažymėkite parametrą **Clientaccessserverenabled** . 
+4. Patikrinkite **parametrą ClientAccessServerEnabled.** 
 
-    a. Jei parametras **Clientaccessserverenabled** nustatytas kaip **klaidingas**, vykdykite šią "cmdlet": `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Jei **Parametras ClientAccessServerEnabled** nustatytas kaip **False**, vykdykite šią "cmdlet": `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
 > Visada uždarykite "PowerShell" seansą naudodami šią komandą: `Remove-PSSession $Session`
 
-Daugiau informacijos ieškokite " [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)".
+Daugiau informacijos žr. Exchange Online ["PowerShell".](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 

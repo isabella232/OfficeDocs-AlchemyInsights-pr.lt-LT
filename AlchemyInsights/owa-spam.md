@@ -1,5 +1,5 @@
 ---
-title: Pašto šiukšlių ir šiukšlių tvarkymas internetinėje "Outlook"
+title: Darbas su pašto šiukšlėmis ir nepageidaujamais el. paštu internetinė "Outlook"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982597"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Laiškų žymėjimas kaip nepageidaujamo "Outlook" žiniatinklyje
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Pažymėti el. laiškus kaip nepageidaujamus el. laiškus internetinė "Outlook"
 
-Norėdami pažymėti laišką kaip nepageidaujamą arba pašto šiukšlių, pasirinkite laišką pranešimų sąraše ir pasirinkite **nepageidaujamas**  >  **nepageidaujamas**.
+Norėdami pažymėti pranešimą kaip nepageidaujamų laiškų arba pašto šiukšlių, pasirinkite pranešimą savo pranešimų sąraše ir pasirinkite **Nepageidaujamas**  >  **el. laiškas**.
 
-Norėdami užblokuoti visus laiškus iš konkretaus elektroninio pašto adreso, pasirinkite pranešimą arba pranešimus pranešimų sąraše, tada pasirinkite **nepageidaujamas**  >  **blokas**.
+Norėdami blokuoti visus laiškus iš konkretaus el. pašto adreso, pasirinkite pranešimą arba laiškus laiškų sąraše, tada pasirinkite **Nepageidaujamas**  >  **blokavimas**.
 
-Jei netyčia pažymėsite laišką kaip nepageidaujamą, pasirinkite laišką aplanke nepageidaujamas el. paštas ir pasirinkite **ne**nepageidaujamas, o ne  >  **nepageidaujamas**. (*Pastaba:* jūsų nepageidaujamo pašto aplanke esantys elementai panaikinami po 30 dienų.)
+Jei netyčia pažymėsite pranešimą kaip nepageidaujaą, pasirinkite pranešimą aplanke Nepageidaujamas el. paštas ir pasirinkite **Ne**  >  **nepageidaujamas el. paštas**. (*Pastaba:* nepageidaujamo el. pašto aplanko elementai panaikinami po 30 dienų.)
 
-Sužinokite daugiau apie tai, kaip [padėti išsaugoti pašto šiukšlių ir nepageidaujamus laiškus iš "Outlook" žiniatinklio aplanke Gauta.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Sužinokite daugiau, kaip [padėti apsaugoti pašto šiukšles ir nepageidaujamo el. pašto internetinė "Outlook" pašto dėžutę.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

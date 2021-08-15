@@ -1,5 +1,5 @@
 ---
-title: "\"1800001\" naikinimo profilis"
+title: 1800001 Naikinti profilį
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005530"
 ---
 # <a name="delete-a-profile"></a>Profilio naikinimas
 
-Norėdami panaikinti profilį, atlikite toliau nurodytus veiksmus.
+Norėdami panaikinti profilį, atlikite šiuos veiksmus.
   
-1. Programoje "Outlook" pasirinkite **failo** \> **abonemento parametrai** \> **valdyti profilius**.
+1. "Outlook" pasirinkite  \> **Failų paskyra Parametrai** \> **Profilių valdymas**.
 
 2. Pasirinkite **Rodyti profilius**.
 
-3. Dialogo lange **paštas** pasirinkite norimą naikinti profilį, tada spustelėkite **Šalinti**.
+3. Dialogo **lange Paštas** pasirinkite profilį, kurį norite panaikinti, tada spustelėkite **Šalinti**.
 
     > [!NOTE]
-    > "Outlook" gali įspėti, kad panaikinus jūsų profilį bus pašalinti autonominiai duomenys. Neprarasite informacijos, saugomos jūsų "Outlook" duomenų failuose (. pst) arba bet kokios informacijos, saugomos jūsų internetinėse paskyrose, pvz., Outlook.com, "Exchange" arba "Microsoft 365" paskyrų.
+    > Outlook įspėti, kad panaikinus profilį bus pašalinti autonominiai duomenys. Neprarasite jokios informacijos, saugomos "Outlook" duomenų failuose (.pst) arba bet kokios informacijos, saugomos jūsų internetinėse paskyrose, pvz., Outlook.com, "Exchange" arba "Microsoft 365" paskyrose.
   
-Jei naudojate **"Outlook for Mac** " profilių valdymą, peržiūrėkite ["Outlook", skirtos "Mac", profilių arba identifikacijų valdymas](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) arba atlikite toliau nurodytus veiksmus.
+Jei **Outlook for Mac" profilių** valdymą, žr. Profilių arba tapatybių valdymas ["Outlook for Mac"](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) arba atlikite šiuos veiksmus.
   
-1. Iš ieškiklio atidarykite aplanką **programos** .
+1. Iš ieškiklio atidarykite **aplanką** Programos.
 
-2. CTRL + spustelėkite arba dešiniuoju pelės mygtuku spustelėkite **"Microsoft Outlook**", tada pasirinkite **Rodyti paketo turinį**.
+2. Ctrl + spustelėkite arba dešiniuoju pelės mygtuku **spustelėkite "Microsoft Outlook**, tada pasirinkite **Rodyti paketo turinį**.
 
-3. Pasirinkite **turinio** \> **bendrinimo palaikymas**, tada paleiskite **"Outlook" profilio tvarkytuvą**.
+3. Pasirinkite **Turinio** \> **bendrinamas palaikymas**, tada paleiskite Outlook **profilių tvarkytuvą**.
