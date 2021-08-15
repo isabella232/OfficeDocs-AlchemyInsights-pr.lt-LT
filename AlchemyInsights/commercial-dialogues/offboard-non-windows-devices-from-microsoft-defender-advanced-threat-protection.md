@@ -1,5 +1,5 @@
 ---
-title: Offboard ne "Windows" įrenginiai iš "Microsoft Defender" išplėstinės grėsmės apsauga (ATP)
+title: Offboard non-Windows devices from Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967809"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard ne "Windows" įrenginiai iš "Microsoft Defender" išplėstinės grėsmės apsauga (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard non-Windows devices from Microsoft Defender Advanced Threat Protection (ATP)
 
 Toliau nurodyta, kaip tai padaryti.
 
-1. Vykdykite trečiosios šalies dokumentus, kad atjungtumėte trečiosios šalies sprendimą iš "Microsoft Defender ATP".
-2. Naudodami "Azure Active Directory" nuomotoją, pašalinkite trečiosios šalies sprendimo teises:
+1. Vykdykite trečiosios šalies dokumentaciją, kad atjungtų trečiosios šalies sprendimą nuo "Microsoft" sargybos ATP.
+2. Iš "Azure Active Directory" nuomotojo pašalinkite trečiosios šalies sprendimo teises:
 
-    1. Prisijunkite prie " [Azure" portalo](https://go.microsoft.com/fwlink/?linkid=2125612).
-    1. Pasirinkite **Visos tarnybos**"  >  **Azure Active Directory**  >  **Enterprise" taikomosios programos**.
-    1. Pasirinkite taikomąją programą, kurią norite atlikti.
+    1. Prisijunkite prie [„Azure“ portalo](https://go.microsoft.com/fwlink/?linkid=2125612).
+    1. Pasirinkite **Visos**  >  **tarnybos, "Azure Active Directory"**  >  **"Enterprise" taikomosios programos**.
+    1. Pasirinkite programą, kurią norite išjungti.
     1. Pasirinkite **Naikinti**.
 
-Jei norite sužinoti daugiau, skaitykite [ne "Windows" įrenginių offboard](https://go.microsoft.com/fwlink/?linkid=2143630).
+Norėdami sužinoti daugiau, [žr. "Offboard" Windows įrenginiai.](https://go.microsoft.com/fwlink/?linkid=2143630)

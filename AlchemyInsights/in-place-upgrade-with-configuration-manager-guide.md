@@ -1,5 +1,5 @@
 ---
-title: Versijos naujinimas naudojant konfigūracijos tvarkytuvo vadovą
+title: Versijos naujinimas vietoje naudojant konfigūracijos tvarkytuvo vadovą
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014764"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Versijos naujinimas naudojant konfigūracijos tvarkytuvo vadovą
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Versijos naujinimas vietoje naudojant konfigūracijos tvarkytuvo vadovą
 
-Atliekant vietinį versijos naujinimo procesą išsaugomi visi duomenys, parametrai, taikomosios programos ir tvarkyklės iš esamos operacinės sistemos versijos. Ji sukurta labai patikimai ir turi galimybę automatiškai atkurti ankstesnę operacinę sistemą, jei kyla problemų.
+Versijos naujinimo vietoje procesas išsaugo visus esamos operacinės sistemos versijos duomenis, parametrus, taikomąsias programas ir tvarkykles. Jis sukurtas taip, kad būtų labai patikimas ir gali automatiškai grįžti į ankstesnę operacinę sistemą, jei iškils problemų.
 
-Norėdami atnaujinti "Windows 7" ir "Windows" 8,1 įrenginius į naujausią "Windows 10" versiją, naudokite [vietinį versijos naujinimą naudodami konfigūracijos tvarkytuvo vadovą](https://admin.microsoft.com/adminportal/home#/win10upgrade) . Naudosite scenarijų, jei norite patikrinti būtinąsias sąlygas ir automatiškai konfigūruoti vietinį versijos naujinimą.
+Atnaujindami ["Windows](https://admin.microsoft.com/adminportal/home#/win10upgrade) 7" ir ""Windows 8".1" įrenginius į naujausią "Windows 10" versiją, naudokite place upgrade with Configuration Manager vadovą. Norėdami patikrinti būtinąsias sąlygas ir automatiškai konfigūruoti versijos naujinimą vietoje, naudosite pateiktą scenarijų.

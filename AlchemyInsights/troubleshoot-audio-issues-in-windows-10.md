@@ -1,5 +1,5 @@
 ---
-title: Garso trikčių šalinimas sistemoje "Windows 10"
+title: Garso trikčių šalinimas "Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039434"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Garso trikčių šalinimas sistemoje "Windows 10"
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Garso trikčių šalinimas "Windows 10
 
 **Garso trikčių diagnostikos priemonės paleidimas**
 
@@ -55,12 +55,12 @@ Norėdami įsitikinti, kad tvarkyklės yra atnaujinti:
 
 2. Dalyje **Garso, vaizdo ir žaidimų** valdikliai pasirinkite garso plokštę, atidarykite ją, pasirinkite skirtuką **Tvarkyklė** ir pasirinkite Naujinti **tvarkyklę**.
 
-**Pastaba:** jei "Windows" neranda naujos tvarkyklės, ieškokite jos įrenginio gamintojo svetainėje ir vykdykite jų nurodymus.
+**Pastaba:** Windows neranda naujos tvarkyklės, ieškokite jos įrenginio gamintojo svetainėje ir vykdykite jų nurodymus.
 
 **Iš naujo įdiekite tvarkyklę**
 
 Jei negalite atnaujinti naudodami įrenginių tvarkytuvę arba rasti naujos tvarkyklės gamintojo svetainėje, pabandykite atlikti šiuos veiksmus:
 
-1. Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) garso tvarkyklę ir pasirinkite **Pašalinti**. Iš naujo paleiskite įrenginį ir "Windows" bandys iš naujo įdiegti tvarkyklę.
+1. Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) garso tvarkyklę ir pasirinkite **Pašalinti**. Iš naujo paleiskite įrenginį ir Windows bandys iš naujo įdiegti tvarkyklę.
 
-2. Jei tvarkyklės diegimas iš naujo neveikia, pabandykite naudoti bendrąją garso tvarkyklę, kuri pateikiama su "Windows". Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) savo garso tvarkyklę > **Naujinti** tvarkyklės programinę įrangą Naršykite mano kompiuteryje tvarkyklės programinę įrangą Leiskite pasirinkti iš mano kompiuterio įrenginių tvarkyklių sąrašo , pasirinkite Didelės raiškos garso įrenginys , pasirinkite Pirmyn ir vykdykite nurodymus, kad  >    >  jį įdiegtumėte.  
+2. Jei tvarkyklės diegimas iš naujo neveikia, pabandykite naudoti bendrąją garso tvarkyklę, kuri pateikiama su Windows. Įrenginių tvarkytuvėje dešiniuoju pelės mygtuku spustelėkite (arba paspauskite ir laikykite) savo garso tvarkyklę > **Naujinti** tvarkyklės programinę įrangą Naršykite mano kompiuteryje tvarkyklės programinę įrangą Leiskite pasirinkti iš mano kompiuterio įrenginių tvarkyklių sąrašo , pasirinkite Didelės raiškos garso įrenginys , pasirinkite Pirmyn ir vykdykite nurodymus, kad  >    >  jį įdiegtumėte.  

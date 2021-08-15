@@ -1,5 +1,5 @@
 ---
-title: Daugiau informacijos apie DLP klausimus
+title: Daugiau informacijos apie DLP problemas
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030838"
 ---
 # <a name="information-about-dlp-issues"></a>Informacija apie DLP problemas
 
@@ -24,15 +24,15 @@ ms.locfileid: "47679737"
 
 **Informacija apie DLP strategiją**
 
-Naudodami DLP strategiją, galite nustatyti, stebėti ir automatiškai apsaugoti slaptą informaciją "Microsoft 365".
+Naudodami DLP strategiją, galite nustatyti, stebėti ir automatiškai apsaugoti slaptą informaciją Microsoft 365.
 
-Daugiau informacijos rasite apsilankę šiuose saituose:
+Jei reikia daugiau informacijos, apsilankykite šiuose saitų:
 
 - [Duomenų praradimo prevencijos apžvalga](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 - [Kaip atrodo slaptos informacijos tipai](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Pasirinktinio slapto informacijos tipo kūrimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Siųsti pranešimus elektroniniu paštu ir Rodyti strategijos patarimus](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Apsaugokite "SharePoint Online" failus naudodami saugojimo etiketes ir DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP ir "Microsoft teams"](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [Pasirinktinio slaptos informacijos tipo kūrimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Siųsti el. pašto pranešimus ir rodyti strategijos patarimus](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- ["SharePoint Online" failų apsauga naudojant saugojimo žymas ir DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP ir Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Norėdami patikrinti savo duomenis įtaisytuoju arba pasirinktiniu slaptos informacijos tipu, naudokite parinktį **tikrinimo tipas** , esančią dalyje **klasifikacijos**  >  **slaptos informacijos tipai**. Daugiau informacijos ieškokite [pasirinktinio slapto informacijos tipų tikrinimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Norėdami patikrinti duomenis naudodami įtaisytą arba pasirinktinį slaptos informacijos tipą, naudokite parinktį **Tikrinimo tipas** dalyje Slaptos   >  **klasifikacijos informacijos tipai.** Daugiau informacijos žr. [Pasirinktinių slaptos informacijos tipų tikrinimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).

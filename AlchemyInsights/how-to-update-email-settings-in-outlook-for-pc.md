@@ -1,5 +1,5 @@
 ---
-title: Kaip atnaujinti pašto parametrus programoje "Outlook" asmeniniam kompiuteriui
+title: Kaip atnaujinti el. pašto parametrus "Outlook", skirtame kompiuteriui
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976981"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Kaip atnaujinti pašto parametrus programoje "Outlook" asmeniniam kompiuteriui
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Kaip atnaujinti el. pašto parametrus "Outlook", skirtame kompiuteriui
 
-1. Atidarykite "Outlook" ir pasirinkite **failas > paskyros parametrai > paskyros parametrai**.
+1. Atidarykite Outlook ir **pasirinkite Failas > Paskyros Parametrai > paskyros Parametrai**.
 
-2. Pasirinkite norimą keisti el. pašto paskyrą, tada spustelėkite **keisti**. 
+2. Pasirinkite el. pašto paskyrą, kurią norite keisti, tada spustelėkite **Keisti**. 
 
-3. **Parametrų** puslapyje atnaujinkite gaunamus ir siunčiamus serverių vardus, jūsų el. pašto adresą, vardą, vartotojo vardą ir slaptažodį. Jei reikia pakeisti SSL parametrus arba prievado parametrus, spustelėkite **daugiau parametrų**. Dažniausi naujinimo parametrai yra skirtuke **siunčiamo pašto serveris** ir skirtuke **Išsamiau** .
+3. Puslapyje **"Parametrai"** atnaujinkite gaunamo ir siunčiamo pašto serverio vardus, el. pašto adresą, savo vardą, vartotojo vardą ir slaptažodį, jei reikia. Jei reikia pakeisti SSL parametrus arba prievado parametrus, spustelėkite **Daugiau Parametrai**. Dažniausi naujinimo parametrai yra skirtuke **Siunčiamo pašto serveris** ir **skirtuke Išsamiau.**
 
-4. Jei kyla problemų siunčiant laišką arba gaunate laiškus apie siunčiamo pašto serverį, įsitikinkite, kad pažymėtas žymės langelis **mano siunčiamo pašto serveris (SMTP) reikalauja autentifikavimo** .
+4. Jei kyla problemų siunčiant el. laiškus arba gaunate pranešimus apie siunčiamo pašto serverį, įsitikinkite, kad pažymėtas žymės langelis Mano siunčiamo pašto **serveris (SMTP)** reikalauja autentifikavimo.
 
-5. Jei reikia atnaujinti gaunamus arba išeinančius serverio prievadus arba SSL parametrus, eikite į skirtuką **Išsamiau** ir atlikite norimus keitimus.
+5. Jei reikia atnaujinti gaunamo arba siunčiamo pašto serverio  prievadus arba SSL parametrus, eikite į skirtuką Išsamiau ir atlikite norimus keitimus.
 
 > [!NOTE]
-> " **AOL" ir "Verizon" klientams**: pasirinkus **SSL/TLS** išplečiamajame lauke **gaunamo ir išeinančio serverio Šifruotasis ryšys** užtikrina, kad vis tiek galite siųsti ir gauti el. laiškus po lapkričio 7 d., 2017.
+> **"AOL" ir "Verizon"** klientams: pasirinkus SSL  **/TLS** išplečiamajame lauke dalyje Gaunamo ir siunčiamo pašto serverio šifruoti ryšiai užtikrinama, kad vis tiek galėsite siųsti ir gauti el. laiškus po 2017 m. lapkričio 7 d.
 
-6. Baigę Naujinti parametrus, spustelėkite **gerai**, tada **Pirmyn**, tada spustelėkite **baigti**.
+6. Kai baigsite naujinti parametrus, spustelėkite **Gerai**, **spustelėkite Pirmyn**, tada spustelėkite **Baigti**.
 
 

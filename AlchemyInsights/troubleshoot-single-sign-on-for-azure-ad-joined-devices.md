@@ -1,5 +1,5 @@
 ---
-title: Vieno prisijungimo prie "Azure AD" įrenginių trikčių šalinimas
+title: Bendrosios prisijungimo prie "Azure AD" prijungtų įrenginių trikčių šalinimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039254"
 ---
-# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Vieno prisijungimo prie "Azure AD" įrenginių trikčių šalinimas
+# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Bendrosios prisijungimo prie "Azure AD" prijungtų įrenginių trikčių šalinimas
 
-Jei turite vietinę "Active Directory" (AD) aplinką ir norite prisijungti prie savo skelbimų domeno prijungtuose kompiuteriuose į "Azure AD", galite tai atlikti atlikdami hibridinio "Azure AD" sujungimą. [Kaip: Suplanuokite hibridinį "Azure Active Directory" prisijungti prie diegimo](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) suteikia jums susijusius veiksmus, kad įdiegtumėte hibridinio "Azure AD" sujungimą į aplinką.
+Jei turite vietinę "Active Directory" (AD) aplinką ir norite prisijungti prie ad domenu prijungtų kompiuterių prie "Azure AD", tai galite atlikti atlikdami hibridinį "Azure AD" prisijungimą. [Kaip: suplanuokite hibridinę "Azure Active Directory" sujungimo](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) įdiegtį, atlikite susijusius veiksmus, kad jūsų aplinkoje įdiegtų hibridinį "Azure AD" prisijungimą.
 
-Daugiau informacijos ieškokite ["AZURE AD" sujungtų įrenginių konfigūravimas vietiniame Single-Sign "Windows Hello" verslui naudojimas](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base).
+Daugiau informacijos žr. "Azure AD" prijungtų įrenginių konfigūravimas [vietiniams įrenginiams Single-Sign On using Windows Hello for Business".](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)
 
 **Pirminio atnaujinimo atpažinimo ženklo (PRT) problemos**
 
-Pirminis atnaujinimo žetonas (PRT) yra pagrindinis "Azure AD" autentifikavimo "Windows 10", "Windows Server" 2016 ir naujesnės versijos, "iOS" ir "Android" įrenginių artefaktas. Tai yra JSON žiniatinklio žetonas (JWT), specialiai išduotas "Microsoft" pirmos šalies simboliniams brokeriams, kad būtų galima įjungti viengubus autentifikacijos (SSO) taikomąsias programas, naudojamas tuose įrenginiuose. Išsamesnės informacijos apie tai, kaip išduodamas PRT, naudojamas ir saugomas "Windows 10" įrenginiuose, rasite [kas yra pirminis atnaujinimo žetonas?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Pirminis atnaujinimo atpažinimo ženklas (PRT) yra pagrindinis "Azure AD" autentifikavimo "Windows 10", "Windows Server 2016" ir naujesnėse versijose, "iOS" ir "Android" įrenginiuose artefaktas. Tai JSON žiniatinklio atpažinimo ženklas (JWT), specialiai išduotas "Microsoft" pirmosios šalies atpažinimo ženklų tarpininkams, kad įgalintumėte bendrąją a prisijungimo funkciją (SSO) visuose tuose įrenginiuose naudojamose programose. Išsamios informacijos apie TAI, kaip išleidžiamas, naudojamas ir apsaugotas "Windows 10 įrenginiuose, [žr. Kas yra pirminis atnaujinimo atpažinimo ženklas?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
-**WamDefaultSet: taip ir AzureADPrt: taip**
+**WamDefaultSet: YES ir AzureADPrt: TAIP**
 
-Šie laukai nurodo, ar vartotojas sėkmingai autentifikuotas "Azure AD" prisijungiant prie įrenginio. Jei reikšmės yra **ne**, taip gali būti dėl:
+Šie laukai nurodo, ar vartotojas sėkmingai autentifikavo "Azure AD", kai prisijungia prie įrenginio. Jei reikšmės yra **NE**, taip gali būti dėl:
 
-- Netinkamas saugyklos raktas TPM, susietame su įrenginiu, kai registruojama
+- Netinkamas saugyklos raktas TPM, susietas su įrenginiu po registracijos (patikrinkite KeySignTest paleisdami padidintą versiją)
 - Alternatyvus prisijungimo ID
-- Nerastas HTTP tarpinis serveris
+- HTTP tarpinis serveris nerastas
 
-Norėdami šalinti įrenginius naudodami komandą dsregcmd, žiūrėkite [SSO būseną](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
+Norėdami šalinti įrenginių triktis naudodami komandą dsregcmd, žr. [SSO būsena](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
