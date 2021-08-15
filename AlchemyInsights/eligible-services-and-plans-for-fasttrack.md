@@ -1,5 +1,5 @@
 ---
-title: Tinkamos paslaugos ir "Fasttakelio" planai
+title: Tinkamos "FastTrack" paslaugos ir planai
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030244"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Tinkamos paslaugos ir "Fasttakelio" planai
+# <a name="eligible-services-and-plans-for-fasttrack"></a>Tinkamos "FastTrack" paslaugos ir planai
 
-Naudodami "Office 365" "Fasttakelio" centrą, galite nuotoliniu būdu dirbti su "Fasttakelio" specialistais be papildomų išlaidų, kad "Office 365" aplinka būtų paruošta naudoti. "Fasttakelio" specialistai gali padėti jums įsigyti bent 150 licencijas.
+Naudodami "FastTrack" centro "Office 365", nuotoliniu būdu dirbate su "FastTrack" specialistais be jokių papildomų išlaidų, kad jūsų Office 365 aplinka būtų paruošta naudoti. "FastTrack" specialistai gali padėti jums įsigę bent 150 licencijų.
 
-Norėdami gauti pagalbos dėl "Fasttakelio" portalo, prisijunkite prie " [fasttakelio" portalo](https://go.microsoft.com/fwlink/?linkid=2125443) ir atlikite veiksmus, kad užbaigtumėte **pagalbos užklausą naudodami "Microsoft 365"** formą.
+Norėdami gauti pagalbos per "FastTrack" portalą, prisijunkite prie ["FastTrack" portalo](https://go.microsoft.com/fwlink/?linkid=2125443) ir atlikite veiksmus, kad užbaigtų pagalbos **užklausą naudodami Microsoft 365** formą.
 
 > [!NOTE]
-> Jei kyla problemų jungiantis arba reikia papildomos pagalbos, siųskite elektroninį laišką į " [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com)".
+> Jei kyla problemų prisijungiant arba reikia papildomos pagalbos, išsiųskite el. laišką [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-Įvairių pramonės šakų reikalavimus atitinkančių planų įvairovė – nuo verslo įmonių iki švietimo įstaigų.
+Yra įvairių "FastTrack" reikalavimus atitinkančių planų skirtingoms pramonės šakoms , nuo įmonių įmonių iki švietimo įstaigų.
 
-Jei norite sužinoti daugiau, žiūrėkite [reikalavimus atitinkantys "Microsoft" 365 planai](https://go.microsoft.com/fwlink/?linkid=2125459).
+Norėdami sužinoti daugiau, [žr. Reikalavimus atitinkantys Microsoft 365 planai.](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-Yra "Exchange Online" ir "Microsoft teams", "Microsoft 365" ir "Windows 10" tinkamų paslaugų asortimentas.
+Yra tinkamų paslaugų asortimentas nuo "Exchange Online" iki "Microsoft Teams", "Microsoft 365" ir "Windows 10".
 
-Išsamų reikalavimus atitinkančių tarnybų sąrašą rasite [reikalavimus atitinkančios paslaugos](https://go.microsoft.com/fwlink/?linkid=2125636).
+Visą reikalavimus atitinkančių paslaugų sąrašą žr. [Reikalavimus atitinkančios paslaugos](https://go.microsoft.com/fwlink/?linkid=2125636).

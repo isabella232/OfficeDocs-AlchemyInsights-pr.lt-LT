@@ -1,5 +1,5 @@
 ---
-title: 8000049 kalbėtis su šeima ir draugais "Skype" Outlook.com
+title: 8000049 kalbėtis su šeima ir draugais Skype svetainėje Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956739"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Bendravimas su šeima ir draugais "Skype" Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Kalbėkite su šeima ir draugais Skype svetainėje Outlook.com
 
-Outlook.com Klientai gali kalbėtis su draugais ir šeima naudodami "Skype" pokalbius, balso ir vaizdo funkcijas. Kai [suliejate "Microsoft" ir "Skype" paskyras](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), automatiškai gaunate prieigą prie internetinės "Skype" Outlook.com.
+Outlook.com klientai gali kalbėtis su draugais ir šeima su pokalbio, balso ir vaizdo funkcijomis Skype. Kai [suliejate savo "Microsoft" Skype "Microsoft"](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)ir "Skype" paskyras, "Skype.com" automatiškai turite prieigą prie "Outlook.com".
   
-Sužinokite daugiau apie tai, kaip [kalbėtis su šeima ir draugais "Skype" Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Sužinokite daugiau, kaip [kalbėtis su šeima ir draugais Skype svetainėje Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409)
   
 

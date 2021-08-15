@@ -1,5 +1,5 @@
 ---
-title: Klaidos pranešimas, kai dalijamasi failais
+title: Klaidos pranešimas bendrinant failus
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51552ecf6c6ef4e91f092751aa33f55e961b34133fd7e8763e84f1a2c894d5a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030028"
 ---
-# <a name="error-messages-when-sharing"></a>Klaidos pranešimas, kai dalijamasi
+# <a name="error-messages-when-sharing"></a>Klaidų pranešimai bendrinant
 
-Jei gaunate klaidos pranešimą, kai bandote bendrinti su išoriniu vartotoju, greičiausiai Išorinis bendrinimas neįgalintas arba bendrinimas nustatytas taip, kad nebūtų galima vartotojo bendrinimo lygio.
+Jei bandydami bendrinti su išoriniu vartotojas gaunate klaidos pranešimą, tikėtina, kad išorinis bendrinimas neįgalintas arba nustatyta, kad bendrinimas neleidžia bendrinti vartotojo.
   
-Naujajame "SharePoint" administravimo centre kairiojoje srityje spustelėkite **bendras naudojimas** . Pasirinkite norimą leisti bendro naudojimo lygį. Įsitikinkite, kad svetainėje įjungtas išorinis bendras naudojimasis. 
+Naujoje administravimo SharePoint spustelėkite **bendrinimas** kairiojoje srityje. Pasirinkite norimo leisti bendrinimo lygį. Įsitikinkite, kad įjungtas svetainės išorinis bendrinimas. 
   
-Jei vartotojas bando prisiregistruoti gauna klaidos pranešimą, atlikite šiuos veiksmus:
+Jei vartotojas, bandantis prisijungti, gauna klaidos pranešimą, pabandykite atlikti šiuos veiksmus:
   
-- Įsitikinkite, kad vartotojas priėmė atsiųstą bendro naudojimo kvietimą.
+- Įsitikinkite, kad vartotojas priėmė išsiųstą bendrinimo kvietimą.
     
-- Įsitikinkite, kad vartotojas priima kvietimą su atsiųstu el. pašto adresu.
+- Įsitikinkite, kad vartotojas priima kvietimą el. pašto adresu, kuriuo jis buvo išsiųstas.
     
 

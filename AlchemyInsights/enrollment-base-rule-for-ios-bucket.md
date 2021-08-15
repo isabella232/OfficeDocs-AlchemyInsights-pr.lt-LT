@@ -1,5 +1,5 @@
 ---
-title: "\"IOS\" atminties registracijos bazinės taisyklės"
+title: "\"iOS\" talpyklos registracijos pagrindinė taisyklė"
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030064"
 ---
 # <a name="intune-device-enrollment"></a>"Intune" įrenginio registracija
 
-[Sužinokite apie įrenginio registraciją su Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Sužinokite apie įrenginio registraciją naudojant "Intune"](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-["IOS" įrenginio registracijos su "Intune" nustatymas](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+["iOS" įrenginio registracijos su "Intune" rinkinys](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-["Android" įrenginio registracijos su "Intune" nustatymas](https://docs.microsoft.com/intune/android-enroll)
+["Android" įrenginio registracijos su "Intune" rinkinys](https://docs.microsoft.com/intune/android-enroll)
 
-["Windows" įrenginio registracijos su Intune nustatymas](https://docs.microsoft.com/intune/windows-enroll)
+[Įrenginio Windows "Intune"](https://docs.microsoft.com/intune/windows-enroll)
 
 Įrenginio registracijos trikčių diagnostika
 
-1. Naudokite " [Intune" trikčių diagnostikos portalą](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   , kad išspręstumėte ir išspręstumėte įprastas registracijos triktis. Peržiūrėkite [šį dokumentą](https://docs.microsoft.com/intune/help-desk-operators) , kad sužinotumėte daugiau.
+1. Naudokite ["Intune" trikčių diagnostikos portalą,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) kad diagnozuojate ir išspręsite bendrąsias registracijos triktis. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune/help-desk-operators) jei reikia daugiau informacijos.
 
-2. Peržiūrėkite šiuos dokumentus dėl dažniausių klaidų, neleidžiančių įtraukimo ir rezoliucijų, sąrašo:
+2. Peržiūrėkite šiuos dokumentus, kad peržiūrėtumėte dažnai pasitaikančių klaidų, kurios neleidžia registruotis ir skiriamosios gebos, sąrašą:
     - [Trikčių diagnostikos vadovas](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Doc diagnostika](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+    - [Doc trikčių diagnostika](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

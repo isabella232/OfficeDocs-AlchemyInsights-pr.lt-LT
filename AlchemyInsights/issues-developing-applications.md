@@ -1,5 +1,5 @@
 ---
-title: Problemos kuriant taikomąsias programas
+title: Programų kūrimo problemos
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,49 +13,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013432"
 ---
-# <a name="issues-developing-applications"></a>Problemos kuriant taikomąsias programas
+# <a name="issues-developing-applications"></a>Programų kūrimo problemos
 
-Norėdami pašalinti Dažniausias "Azure Active Directory" (AD) programų kūrimo problemas, skaitykite šiuos straipsnius:
+Norėdami šalinti dažniausiai pasitaikančių ""Azure Active Directory" (AD) programų triktis, žr. šiuos straipsnius:
 
-- [Matau problemų prisijungiant prie taikomosios programos (-ų) naudojant tik "Chrome" naršyklę](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
-- [Nežinau, kaip pakeisti atpažinimo ženklo naudojimo numatytuosius parametrus mano taikomojoje programoje](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
-- [Aš painiojama apie tai, kaip veikia taikomųjų programų sutikimas](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
-- [Nežinau, kaip suteikti teises savo taikomajai programai](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
-- [Nesuprantu skirtumo tarp įgaliotųjų ir taikomosios programos teisių](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
+- [Matau problemų prisijungiant prie taikomosios (-ių) programos (-ų) naudojant tik "Chrome" naršyklę](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [Nežinau, kaip pakeisti atpažinimo ženklo naudojimo trukmės numatytąsias reikšmes mano programoje](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
+- [Esu paini apie tai, kaip veikia programos sutikimas](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
+- [Nežinau, kaip suteikti teises savo programai](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
+- [Nesuprantu skirtumo tarp įgaliotųjų ir taikomųjų programų teisių](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-*" **Azure Active Directory" autentifikavimo bibliotekos (ADAL) ir "AZURE ad Graph" API (AAD grafikas) palaikymo pabaiga**
+***""Azure Active Directory"" autentifikavimo bibliotekos (ADAL) ir "Azure AD "Graph" API (AAD "Graph") palaikymo pabaiga***
 
-- Nuo birželio 30 d., 2020, nebegalėsime įtraukti jokių naujų funkcijų į "Azure Active Directory" autentifikavimo biblioteką (ADAL) ir "Azure AD Graph API" (AAD Graph). Mes ir toliau suteiksime techninio palaikymo ir saugos naujinimus, tačiau nebepateiksime funkcijų naujinimų.
+- Nuo 2020 m. birželio 30 d. mes neįtrauksime jokių naujų funkcijų į „Azure Active Directory“ autentifikavimo biblioteką (ADAL) ir „Azure AD Graph“ API („AAD Graph“). Mes toliau teiksime techninį palaikymą ir saugos naujinimus, bet nebeteiksime funkcijų naujinimų.
 
-- Nuo birželio 30 d., 2022, mes užbaigsime ADAL ir AAD Graph palaikymą ir nebepateiks techninio palaikymo ar saugos naujinimų. Dėl šios sąlygos, toliau pateikiami padariniai:
+- Nuo 2022 m. birželio 30 d. baigsime ADAL ir „AAD Graph“ palaikymą ir nebeteisime techninio palaikymo ar saugos naujinimų. Dėl šios sąlygos pasekmės yra šios:
 
-    - Taikomosios programos, naudojančios ADAL esamą operacinės sistemos versiją, toliau veiks po šio laiko, bet negalės gauti jokio techninio palaikymo ar saugos naujinimų.
+    - Programos, kurios naudoja ADAL esamoms OS versijoms, po šio laiko veiks ir toliau, tačiau negaus jokių techninio palaikymo ar saugos naujinimų.
 
-    - Taikomosios programos, naudojančios AAD grafiką po šio laiko, gali nebegauti atsakymų iš AAD diagramos galinio punkto
+    - Programos, kurios "Graph" AAD, gali nebegauti atsakymų iš AAD "Graph" pabaigos taško
 
-−*Adal perkėlimas**
+**ADAL perkėlimas**
 
-Jei naudojate "Microsoft" taikomąsias programas, rekomenduojame naujinti į "Microsoft" autentifikavimo biblioteką (MSAL), kuri turi naujausias funkcijas ir saugos naujinimus. Ši rekomendacija parengta atsižvelgiant į tai, kad "Microsoft" pradeda perkelti savo taikomąsias programas į MSAL iki palaikymo termino pabaigos. 
+Jei naudojate "Microsoft" programas, rekomenduojame atnaujinti į "Microsoft" autentifikavimo biblioteką (MSAL), kurioje yra naujausių funkcijų ir saugos naujinimų. Ši rekomendacija pateikta atsižvelgiant į tai, kad "Microsoft" inicijuoja savo programų perkėlimo į MSAL procesą iki palaikymo pabaigos termino. 
 
-"Microsoft" vykdomas "Microsoft" perkėlimas į "MSAL" užtikrina, kad taikomosios programos naudos iš MSAL vykstančių saugos ir funkcijų patobulinimų.
+"Microsoft" perkėlus savo programėles į MSAL užtikrinama, kad programos naudos iš MSAL vykdomų saugos ir funkcijų patobulinimų.
 
-1. [DUK apie ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-2. [Sužinokite, kaip perkelti taikomąsias programas pagal platformą](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-3. Jei jums reikia pagalbos suprasti, kurią iš jūsų taikomųjų programų naudoja ADAL, rekomenduojame Peržiūrėti visus savo programų šaltinio kodus ir, jei taikoma, susisiekti su bet kuriuo nepriklausomu programinės įrangos pardavėjais (ISVs) arba taikomųjų programų teikėjais. "Microsoft" palaikymas taip pat gali suteikti jums visų ne "Microsoft" ADAL taikomųjų programų sąrašą savo nuomotojuje.
+1. [Skaityti ADAL DUK](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+2. [Sužinokite, kaip perkelti programas pagal platformą](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+3. Jei reikia pagalbos, kad suprastumėte, kurios iš jūsų programų naudoja ADAL, rekomenduojame peržiūrėti visus savo programų šaltinio kodus ir, jei taikoma, susisiekti su nepriklausomais programinės įrangos tiekėjais (ISV) arba programų teikėjais. „Microsoft“ palaikymo tarnyba taip pat gali pateikti visų jūsų nuomotojo ne „Microsoft“ ADAL programų sąrašą.
 
-**AAD Graph perkėlimas**
+**„AAD Graph“ perkėlimas**
 
-Jei naudojate "AAD Graph" taikomąsias programas, vadovaukitės mūsų rekomendacijomis, kaip perkelti "AAD Graph" taikomąsias programas į "Microsoft Graph":
+Taikomųjų programų, kurios naudoja AAD "Graph", vadovaukitės mūsų nurodymais, kaip perkelti AAD "Graph" programas į "Microsoft "Graph"":
 
-1. [Mūsų perkėlimo kontrolinis sąrašas suteikia darbo pradžios tašką](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-2. "Azure App" registracijos portale rodoma, kurios taikomosios programos naudoja AAD grafiką. Rekomenduojame Peržiūrėti visus savo taikomųjų programų šaltinio kodus ir, jei reikia, susisiekti su bet kuriais nepriklausomais programinės įrangos tiekėjais (ISVs) arba taikomųjų programų teikėjais. "Microsoft" palaikymas taip pat gali suteikti informacijos apie "AAD Graph" naudojimą jūsų nuomotojuje.
+1. [Mūsų perkėlimo kontroliniame sąraše apibūdinama darbo pradžia](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+2. Jūsų „Azure“ programos registracijos portale rodoma, kuriose programose naudojama „AAD Graph“. Rekomenduojame peržiūrėti visus savo programų šaltinio kodus ir, jei taikoma, susisiekti su nepriklausomais programinės įrangos tiekėjais (ISV) arba programų teikėjais. "Microsoft" palaikymas taip pat gali suteikti informacijos apie AAD "Graph" jūsų nuomotojo naudojimą.
 
 
 

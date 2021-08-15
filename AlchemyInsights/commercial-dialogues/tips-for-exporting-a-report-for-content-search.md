@@ -1,5 +1,5 @@
 ---
-title: Turinio ieškos ataskaitos eksportavimo patarimai
+title: Patarimai turinio ieškos ataskaitos eksportavimas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978889"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Turinio ieškos ataskaitos eksportavimo patarimai
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Patarimai turinio ieškos ataskaitos eksportavimas
 
-Gali reikėti peržiūrėti turinio ieškos ataskaitą, o ne eksportuoti išsamius ieškos rezultatus. Jei taip, galite eksportuoti tik ieškos rezultatų ataskaitą. Štai keletas patarimų:
+Gali tekti peržiūrėti turinio ieškos ataskaitą, o ne eksportuoti visus ieškos rezultatus. Jei taip, galite eksportuoti tik ieškos rezultatų ataskaitą. Štai keletas patarimų:
 
 - Įsitikinkite, kad paskyrai priskirtas atitikties ieškos valdymo vaidmuo.
-- Įsitikinkite, kad jūsų kompiuteris atitiko visas [būtinąsias sąlygas](https://go.microsoft.com/fwlink/?linkid=2102407). Palaikomos ne visos naršyklės, pvz., "Chrome".
-- Susiaurinkite savo eksportavimo rezultatus iki mažiau nei 20 TB, kad eksportavimas nebūtų nesėkmingas. Pabandykite naudoti mažesnį datų intervalą arba mažiau ieškos vietų.
-- Ataskaitos eksportavimas skaičiuojamas nuo maksimalaus ataskaitų, kurios gali būti vykdomos tuo pačiu metu, skaičiaus.
+- Įsitikinkite, kad jūsų kompiuteris [atitiko visas būtinas sąlygas.](https://go.microsoft.com/fwlink/?linkid=2102407) Palaikomos ne visos naršyklės, pvz., "Chrome".
+- Susiaurinkite eksportavimo rezultatus iki mažiau nei 20 TB, kad eksportavimas nepavyktų. Pabandykite naudoti mažesnį datų diapazoną arba mažiau ieškos vietų.
+- Ataskaitos eksportavimas skaičiuojamas pagal maksimalų ataskaitų, kurios gali veikti vienu metu, skaičių.
 
-Norėdami sužinoti daugiau, žiūrėkite [turinio ieškos ataskaitos eksportavimas](https://go.microsoft.com/fwlink/?linkid=2102409)
+Norėdami sužinoti daugiau, [žr. Turinio ieškos ataskaitos eksportavimas](https://go.microsoft.com/fwlink/?linkid=2102409)

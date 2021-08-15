@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Graph API\" naudojimas grupėms valdyti"
+title: "\"Microsoft \"Graph\" API\" naudojimas grupėms valdyti"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7847"
-ms.openlocfilehash: ef5f5002aa2d624a586dab7b5b5b1ae7b73962ba
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 95c3b2344a125a63740f7b365f6b43c99098b337aaf6a72086786ce6a7cb505d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038048"
 ---
-# <a name="use-microsoft-graph-api-to-manage-groups"></a>"Microsoft Graph API" naudojimas grupėms valdyti
+# <a name="use-microsoft-graph-api-to-manage-groups"></a>"Microsoft "Graph" API" naudojimas grupėms valdyti
 
-Grupės yra vartotojų ir kitų vadovų, kurie bendrina prieigą prie "Microsoft" tarnybų arba programos išteklių, rinkiniai. "Microsoft Graph" pateikia API, kuriuos galite naudoti kurdami ir valdydami skirtingus grupių ir grupių funkcijų tipus pagal jūsų scenarijų. Visos su grupe susijusios operacijos programoje "Microsoft Graph" reikalauja administratoriaus sutikimo. Daugiau informacijos ieškokite [darbas su grupėmis programoje "Microsoft Graph"](https://docs.microsoft.com/graph/api/resources/groups-overview).
+Grupės – tai vartotojų ir kitų direktorių rinkiniai, kurie bendrina prieigą prie išteklių "Microsoft" paslaugos arba jūsų programoje. "Microsoft "Graph"" teikia API, kurias galite naudoti kurdami ir tvarkydami skirtingų tipų grupes ir grupės funkcijas pagal savo scenarijų. Visoms su grupe susijusioms operacijoms programoje "Microsoft "Graph" administratoriaus sutikimo. Daugiau informacijos žr. [Darbas su grupėmis programoje "Microsoft "Graph"".](https://docs.microsoft.com/graph/api/resources/groups-overview)

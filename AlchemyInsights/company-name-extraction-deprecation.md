@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978781"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Įmonės pavadinimo išgavimo pakeitimai "SharePoint Online"
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>"SharePoint Online" įmonės pavadinimo SharePoint pakeitimai
 
-Nuo 2019 m. lapkričio 15 d. pašalinsime įmonės pavadinimo [gavimą iš "SharePoint Online".](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Įmonės pavadinimo išgavimas "SharePoint" leidžia ieškos sistemai išgauti įmonės pavadinimus iš turinio pagal tam tikrą sąlygų rinkinį naudojant iš anksto užpildytą žodyną arba naudojant sąrašus Įmonės įtraukimas arba Įmonės išimtys. Nors įmonės pavadinimo gavimas tapo sprendimu, kuriuo galima išgauti vieną ar daugiau įmonės pavadinimų iš turinio "SharePoint Online", žodynas ir jo pagrindinių funkcijų rinkinys tapo nebeaktualūs.
+Nuo 2019 m. lapkričio 15 d. pašalinsime įmonės pavadinimo gavimą [iš "SharePoint Online".](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Įmonės pavadinimo SharePoint leidžia ieškos sistemai išgauti įmonės pavadinimus iš turinio pagal tam tikrą sąlygų rinkinį naudojant iš anksto užpildytą žodyną arba naudojant sąrašus Įmonės įtraukimas arba Įmonės išimtys. Nors įmonės pavadinimo gavimas tapo sprendimu, kuriuo galima išgauti vieną ar daugiau įmonių pavadinimų iš "SharePoint Online" turinio, žodynas ir jo pagrindinių funkcijų rinkinys tapo nebeaktualūs.
 
 - [Kaip sužinoti, ar įgalinta ypatybės įmonės pavadinimo išskleidimo funkcija?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

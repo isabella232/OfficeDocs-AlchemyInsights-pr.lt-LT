@@ -1,5 +1,5 @@
 ---
-title: Kaip vartotojai atidaro užšifruotą laišką
+title: Kaip vartotojai atidaro šifruotą el. laišką
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979069"
 ---
-# <a name="how-users-open-an-encrypted-email-message"></a>Kaip vartotojai atidaro užšifruotą laišką
+# <a name="how-users-open-an-encrypted-email-message"></a>Kaip vartotojai atidaro šifruotą el. laišką
 
-Toliau pateikiami keli scenarijai, kuriuose aprašoma, kaip vartotojai, gavę užšifruotą laišką, jį atidaro:
+Toliau pateikiami keli scenarijai, kurie apibūdina, kaip vartotojai gauna šifruotą el. laišką:
 
-- Jei vartotojas naudoja "Office 365" el. pašto abonementą, jis galės jį peržiūrėti kaip bet kurį kitą pranešimą.
-- Jei vartotojas naudoja "Gmail", jie spustelėkite **spustelėkite čia, kad būtų parengtas pranešimas** , tada jie bus prisijungę ir spustelėkite **leisti** , kad peržiūrėtumėte pranešimą.
-- Jei vartotojas naudoja "Yahoo" arba kitą interneto paslaugų teikėją, jis spustelėkite **perskaityti pranešimą** arba **spustelėkite čia, kad perskaitytumėte pranešimą**; matysite saitą, kad gautumėte vienkartinį prieigos kodą. Jiems reikės spustelėti saitą, kad gautumėte slaptąjį kodą, tada įvesti slaptąjį kodą. Tada jie galės peržiūrėti pranešimą žiniatinklio naršyklėje.
-- Jei vartotojai negauna užšifruotų el. laiškų, jie turi patikrinti savo **pašto šiukšlių** arba **šlamšto** aplanką.
+- Jei vartotojas naudoja Office 365 el. pašto paskyrą, jis galės ją peržiūrėti kaip bet kurį kitą pranešimą.
+- Jei vartotojas naudoja "Gmail",  jis spustelės Spustelėkite čia, kad paruoštų pranešimą, tada jis prisijungsite, tada spustelėkite **Leisti,** kad būtų rodomas pranešimas.
+- Jei vartotojas naudoja "Yahoo" arba kitą interneto paslaugų teikėją, jis spustelės Perskaityti **pranešimą** arba **Spustelėkite čia, kad perskaitytų jūsų pranešimą;** jie matys saitą, kad gautumėte vienkartinį slaptažodį. Jie turės spustelėti saitą, kad gautumėte slaptažodį, tada įveskite slaptažodį. Tada jie galės peržiūrėti pranešimą žiniatinklio naršyklėje.
+- Jei vartotojai negauna šifruotų el. laiškų, jie turi patikrinti savo aplanką **Pašto šiukšlės** **arba Nepageidaujamas el. paštas.**
 
-Daugiau informacijos ieškokite [kaip atidaryti apsaugotą pranešimą](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+Daugiau informacijos [žr. Kaip atidaryti apsaugotą pranešimą](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
