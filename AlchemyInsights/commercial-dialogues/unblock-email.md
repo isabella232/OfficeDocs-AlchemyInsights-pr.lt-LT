@@ -1,5 +1,5 @@
 ---
-title: El. laiško atblokavimas
+title: El. pašto atblokavimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994729"
 ---
-# <a name="unblock-email"></a>El. laiško atblokavimas
+# <a name="unblock-email"></a>El. pašto atblokavimas
 
-Jei pašto šiukšlių siuntimo metu vartotojo pašto abonementas užblokuotas, toliau aprašyta, kaip tai padaryti.
+Jei vartotojo el. pašto paskyra užblokuota siųsti pašto šiukšles, toliau aprašoma, kaip tai padaryti:
 
-1. *Nedelsdami* iš naujo nustatykite susijusio abonemento slaptažodį. Nesiųskite naujo slaptažodžio vartotojui elektroniniu paštu. Dėl to niekas negali pasiekti pašto šiukšlių.
-2. Eikite į saugos & atitikties centrą ir pažiūrėkite, ar abonementas yra [apribotų vartotojų sąraše](https://protection.office.com/#/restrictedusers).
-3. Pasirinkite **ieškos** piktogramą ir įvesti apriboto vartotojo vardą. Pavyzdžiui, jei vartotojo elektroninio pašto adresas yra *Rob@contoso.com*, tiesiog įveskite **Rob**.
-4. Jei paskyra yra, pasirinkite **atblokuoti**. Atlikite veiksmus, aprašytus srityje Iškeliamasis ir pasirinkite **taip** , kad patvirtintumėte.  
+1. Iš karto iš naujo nustatykite paveiktos paskyros *slaptažodį.* Nesiųskite naujo slaptažodžio vartotojui el. paštu. Tai neleidžia visiems pasiekti jos norint siųsti pašto šiukšles.
+2. Eikite į saugos & centrą ir sužinokite, ar paskyra yra sąraše [Apriboti vartotojai](https://protection.office.com/#/restrictedusers).
+3. Pasirinkite ieškos **piktogramą** ir įveskite apriboto vartotojo vartotojo vardą. Pavyzdžiui, jei vartotojo el. pašto adresas yra *rob@contoso.com*, tiesiog įveskite **rob**.
+4. Jei paskyra yra, pasirinkite **Atblokuoti**. Atlikite veiksmus, nurodytus išskridimas srityje, tada pasirinkite Taip, **kad** patvirtintumėte.  
     > [!NOTE]
-    > Kai neužblokuota, paskyra turėtų būti suteikta galimybė siųsti laišką "3-4" valandomis.
+    > Atblokuota paskyra turėtų galėti pradėti siųsti laiškus per 3–4 valandas.

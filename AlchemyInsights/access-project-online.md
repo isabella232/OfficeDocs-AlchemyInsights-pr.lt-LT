@@ -1,5 +1,5 @@
 ---
-title: Prieiga prie "Project Online"
+title: "\"Access\" Project Online"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 36f9480cb4bf6e52f0f4cffaca6e5f328ed46cb7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 803c72aac296c1610702cf6bd31cc8b3fa50d0ffa5321a8637186992bd51de3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955137"
 ---
-# <a name="access-project-online"></a>Prieiga prie "Project Online"
+# <a name="access-project-online"></a>"Access" Project Online
 
-- Norėdami pasiekti "Project Online", pirmiausia turite prenumeruoti ["Project Online"](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) įtraukdami jį į "Office 365", tada įsitikinkite, [kad jums priskirta licencija](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
-- Atlikite [šiuos veiksmus,](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) kad įtraukdami vartotojus į "Project Online" [ir bendrindami "Project Online"](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) su jais.
+- Norėdami pasiekti Project Online, pirmiausia turite [užsiprenumeruoti Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) įtraukdami jį į Office 365, tada įsitikinkite, kad [jums priskirta licencija](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
+- Atlikite [šiuos veiksmus](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) norėdami įtraukti vartotojų į "Project Online" [ir bendrinti Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) su jais.
 
-Norėdami suteikti vartotojams prieigą prie "Project Web App" svetainės naudodami "SharePoint" teisių režimą:
+Norėdami suteikti vartotojams prieigą prie Project žiniatinklio taikomosios programos svetainės naudodami SharePoint režimą:
 
-1. Prisijunkite prie "Project Online" kaip administratorius.
+1. Prisijunkite, kad Project Online kaip administratorius.
 2. "Project Web App" pagrindiniame puslapyje spustelėkite **Bendrinti** viršutiniame dešiniajame kampe.
-3. Dialogo **lange Bendrinti "Project Web App"** įveskite asmens, prie kurio norite suteikti prieigą, vartotojo vardą lauke **Kviesti** žmones.
-4. Spustelėkite **Rodyti parinktis** ir meniu **Pasirinkite teisių lygį** pasirinkite Projektų vadovai, skirti **"Project Web App".**
+3. Dialogo **lange Project Žiniatinklio** taikomosios programos bendrinimas įveskite asmens, prie kurio norite suteikti prieigą, vartotojo vardą lauke **Kviesti** žmones.
+4. Spustelėkite **Rodyti parinktis**, **tada** meniu Pasirinkti teisių lygį pasirinkite **Project "Project Web App".**
 5. Spustelėkite **Bendrinti**.

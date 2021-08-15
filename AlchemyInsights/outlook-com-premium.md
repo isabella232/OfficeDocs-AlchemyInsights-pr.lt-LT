@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254cd25b76a5bc7d58f08eee5686c021c88ee28880b0b1135fba8e2119355721
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983461"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
-**Esami Premium abonentai**
+**Esami Premium prenumeratoriai**
 
-- Jei jau turite "Outlook.com Premium" prenumeratą, perskaitykite " [Outlook.com Premium" DUK](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Jei jau turite "Outlook.com" Premium prenumeratą, perskaitykite [Outlook.com Premium DUK](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Nauji abonentai**
+**Nauji prenumeratoriai**
 
 - Atsiprašome, bet Outlook.com Premium dabar uždaryta naujiems prenumeratoriams.
-- Daug [funkcijų ir privalumų](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) dabar įtraukta į ["Microsoft 365 Home" ir "Microsoft 365 Personal" prenumeratas](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Daugelis funkcijų [ir pranašumų dabar](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) įtrauktos į ["Microsoft 365 Home" ir "Microsoft 365 Personal" prenumeratas.](https://go.microsoft.com/fwlink/?linkid=2017122)

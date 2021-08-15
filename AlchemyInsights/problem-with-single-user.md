@@ -1,5 +1,5 @@
 ---
-title: Problema su vienu vartotoju
+title: Vieno vartotojo problema
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8469"
-ms.openlocfilehash: f3564063a3adf291ec4909ffeb2f6de0e478da96
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 8d8821cda94b2af244fa317707421f9d197b6052fb316789cd286ea8b4adf19e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960159"
 ---
-# <a name="problem-with-single-user"></a>Problema su vienu vartotoju
+# <a name="problem-with-single-user"></a>Vieno vartotojo problema
 
-- Vartotojas gali būti nesukonfigūruotas, nes tarnyba dar neturėjo galimybės įvertinti vartotojo. Peržiūrėkite nurodymus, kaip ilgai trunka parengimas, taip pat ir eigos juostos parengimo konfigūravimo puslapyje. Jei stabili būsena, nurodyta sekcijoje papildoma informacija, yra prieš vartotojo sukūrimo/atnaujinimo/panaikinimo datą, tai reiškia, kad dar neįvertinome vartotojo. Pagal šį scenarijų, geriausia, ką reikia padaryti – palaukite, kol bus baigta parengimo tarnyba.
+- Vartotojas gali būti nesuteikite, nes tarnyba dar neturėjo galimybės įvertinti vartotojo. Peržiūrėkite rekomendacijas, kiek laiko trunka parengimas, ir eigos juostą parengimo konfigūravimo puslapyje. Jei pastovi būsena, nurodyta papildomos išsamios informacijos skyriuje, yra prieš datą, kai vartotojas buvo sukurtas / atnaujintas / panaikintas, tai reiškia, kad dar neįvertinome vartotojo. Pagal šį scenarijų geriausia palaukti, kol baigsis parengimo tarnyba.
 
-  - Atkreipkite dėmesį, kad mūsų paslauga yra tik apie vartotojų pakeitimą šaltinio sistemoje (debesies HR). "Azure AD" šaltinio sistemoje turi būti galiojantis keitimas, kad būtų galima aptikti keitimą ir srautą į "Active Directory".
-- Parengimo tarnyba vertino vartotoją ir nustatė, kad jis neturėtų būti konfigūruojamas:
-  - Jei nustatėte atributą pagal aprėpties filtrą, įsitikinkite, kad vartotojas atitinka nurodytus kriterijus.
-  - Jei vartotojai jau yra tikslinėse sistemose ir vartotojo būsena šaltinio ir paskirties atitikmuo, mes nesiimsime jokių tolesnių veiksmų.
-- Parengimo tarnyba bandė pateikti vartotojui ir nepavyko. Šiuose scenarijuose Peržiūrėkite parengimo žurnalų skirtuką trikčių diagnostika ir rekomendacijos:
-  - Vartotojui būtinas atributas gali trūkti vietiniame "Active Directory" arba "Azure AD". Pvz., "userPrincipalName" arba "Samaccountiname" generavimo taisyklės nesugeneruoja tinkamos reikšmės.
-  - Sutampantis atributas (paprastai darbuotojai) nėra skirtas unikaliam vartotojui vietinėje "Active Directory" arba "Azure AD". Pvz., "AD" yra du vartotojai su tuo pačiu darbuotojai ir Tarnyba pateikia klaidos kodą, nurodantį to paties šaltinio įrašo dublikatus paskirties įrašus.
+  - Atkreipkite dėmesį, kad mūsų tarnyba žino tik apie pakeitimus vartotojams šaltinio sistemoje (debesies HR). Turi būti galiojantis "Azure AD" šaltinio sistemos pakeitimas, kad būtų galima aptikti pakeitimą ir tekėti į "Active Directory".
+- Parengimo tarnyba įvertinė vartotoją ir nustatė, kad ji neturėtų būti parengimo:
+  - Jei nustatėte atributu pagrįstą filtravimo filtrą, įsitikinkite, kad vartotojas atitinka jūsų nurodytus kriterijus.
+  - Jei vartotojai jau yra paskirties sistemoje, o vartotojo būsena šaltinio ir paskirties atitikmenyje, mes nesiimsime jokių tolesnių veiksmų.
+- Parengimo tarnyba bandė parengti vartotoją ir ji nepavyko. Šių scenarijų atveju peržiūrėkite parengimo žurnalų skirtuką Trikčių šalinimas ir rekomendacijos:
+  - Vietinėje "Active Directory" arba "Azure AD" gali trūkti būtinojo atributo vartotojui. Pvz., userPrincipalName arba sAMAccountName generavimo taisyklės negeneruoja reikiamos reikšmės.
+  - Atitinkantis atributas (paprastai employeeId) nėra skirtas unikaliam vartotojui vietiniame "Active Directory" arba "Azure AD". Pvz., AD yra du vartotojai, kurių darbuotojo Id yra tas pats, o tarnyba pateikia klaidos kodą, nurodantį pasikartojančius to paties šaltinio įrašo tikslinius įrašus.
 
-Norėdami peržiūrėti vieno vartotojo ir grupių žurnalus, peržiūrėkite [konkretaus vartotojo problemų parengimo žurnalus](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs).
+Norėdami peržiūrėti vieno vartotojo ir grupių žurnalus, žr. Konkretaus vartotojo problemos parengimo [žurnalų peržiūra.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs)

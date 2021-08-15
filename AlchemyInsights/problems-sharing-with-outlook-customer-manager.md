@@ -1,5 +1,5 @@
 ---
-title: problemos – bendras naudojimas – su "Outlook" – klientų vadybininku
+title: problemos-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960123"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemos, susijusios su "Outlook Customer Manager"
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemos bendrinus su "Outlook Customer Manager"
 
-Jei kyla problemų su "Outlook Customer Manager", rekomenduojame pirmiausia išbandyti savo naršyklės talpyklą. Pvz., "Internet Explorer":
+Jei kyla bendrinimo problemų naudojant "Outlook manager", rekomenduojame pirmiausia pabandyti išvalyti naršyklės talpyklą. Pavyzdžiui, "Internet Explorer" turėtumėte:
 
-1. Eikite į **Parametrai**  >  **bendras** > parametrai dalyje **Naršymo retrospektyvos**  >  **talpyklos ir duomenų bazės**.
-2. Naikinti talpyklos failus svetainėje "outlookapps.com".
-3. Iš naujo paleiskite "Outlook".
+1. Eikite **į Parametrai**  >  **bendra** > Parametrai dalyje Naršymo **retrospektyva**  >  **Talpyklos ir duomenų bazės**.
+2. Panaikinkite svetainės "outlookapps.com" talpyklos failus.
+3. Iš naujo Outlook.
 
-Jei norite gauti daugiau informacijos apie bendrinimą, skaitykite ["Outlook Customer Manager" bendrinimo informacija](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Daugiau informacijos apie bendrinimą žr. [Informacijos bendrinimas "Outlook Customer Manager".](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

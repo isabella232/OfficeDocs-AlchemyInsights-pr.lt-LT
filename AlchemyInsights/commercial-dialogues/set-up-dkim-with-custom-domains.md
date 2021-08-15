@@ -1,5 +1,5 @@
 ---
-title: DKIM nustatymas su pasirinktiniais domenais
+title: DKIM nustatymas naudojant pasirinktinius domenus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994829"
 ---
-# <a name="set-up-dkim-with-custom-domains"></a>DKIM nustatymas su pasirinktiniais domenais
+# <a name="set-up-dkim-with-custom-domains"></a>DKIM nustatymas naudojant pasirinktinius domenus
 
-Kiekvienam pasirinktiniam domenui DNS turite publikuoti du CNAME įrašus. Norėdami tai padaryti, naudokite šį formatą:
+Turite publikuoti du CNAME įrašus kiekvienam pasirinktiniam domenui DNS. Norėdami tai padaryti, naudokite šį formatą:
 
 ```console
 Host name:            selector1._domainkey
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **Domenasguid** yra pasirinktinio domeno PRITAIKYTAME MX įraše esantis tekstas į kairę nuo **. mail.Protection.Outlook.com** (pvz., "Contoso-com" domeno **contoso.com**). " **Initialdomain** " yra domenas, kurį naudojote, kai prisiregistravote naudoti "Office 365" (pvz., **contoso.onmicrosoft.com**).
+> **DomainGUID** yra tekstas, esantis į kairę **nuo .mail.protection.outlook.com** pasirinktinio domeno tinkintame MX įraše (pvz., contoso-com domeno **contoso.com**). **InitialDomain** yra domenas, kurį naudojote prisiregistravę naudoti Office 365 (pvz., **contoso.onmicrosoft.com**).
 
-Daugiau informacijos apie DNS įrašus ieškokite [DNS įrašų kūrimas "Office 365" DNS išteklių nuomos teikėjo](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)svetainėje.
+Daugiau informacijos apie DNS įrašus žr. [DNS įrašų kūrimas bet kuriame DNS išteklių](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)nuomos teikėjo Office 365 .

@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955209"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Prieiga uždrausta peržiūrint darbo eigą
 
-Jei "SharePoint" grupės narystė nenustatyta visiems, "SharePoint" 2013 darbo eigos, kurios bando siųsti laišką "SharePoint" grupei, gali nepavykti naudojant klaidos pranešimą "prieiga uždrausta".
+SharePoint 2013 m. darbo eigos, kurios bando siųsti el. laišką į "SharePoint" grupę, gali nepavykti dėl klaidos pranešimo "Prieiga uždrausta", jei "SharePoint" grupės narystė nėra nustatyta kaip Visi.
   
  **Norėdami išspręsti šią problemą, atlikite šiuos veiksmus:**
   
- 1. Leiskite visiems matyti "SharePoint" grupės narius.
+ 1. Leisti visiems matyti grupės SharePoint narius.
   
- 2. Pašalinkite "SharePoint" grupę iš el. laiško eilutės Kam arba kopija.
+ 2. Pašalinkite SharePoint grupę iš el. laiško eilutės Kam arba KOPIJA.
   
- 3. Tiesiogiai įtraukti vartotojus į eilutę kam arba kopija, jei "SharePoint" grupėje negalima pakeisti narystės matomumo.
+ 3. Aiškiai įtraukite vartotojus į eilutę Kam arba KOPIJA, jei negalima pakeisti grupės SharePoint matomumo.
   
-Norėdami peržiūrėti daugiau informacijos, žr [http neleistinas/_vti_bin/Client.svc/sp.utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Norėdami peržiūrėti daugiau informacijos, žr. [HTTP neįgaliotas į /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
