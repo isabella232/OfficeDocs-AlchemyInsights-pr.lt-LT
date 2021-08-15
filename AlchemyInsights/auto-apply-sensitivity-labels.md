@@ -1,5 +1,5 @@
 ---
-title: Automatiškai taikyti jautrumo žymes
+title: Automatiškai taikyti slaptumo žymas
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969306"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automatiškai taikyti jautrumo žymes
+# <a name="auto-apply-sensitivity-labels"></a>Automatiškai taikyti slaptumo žymas
 
-Slaptumo Žymos gali būti rankiniu būdu pritaikytos vartotojų turiniui arba galite juos sukonfigūruoti automatiškai pritaikyti turiniui.
+Slaptumo žymas vartotojai gali taikyti neautomatiškai arba galite konfigūruoti, kad jos būtų automatiškai taikomos turiniui.
 
-Automatinio jautrumo etikečių taikymas pašalina poreikį mokyti vartotojus, kaip klasifikuoti turinį ir pranešti apie strategijos konfigūracijas.
+Automatiškai taikant slaptumo žymas, vartotojams nereikia išmokyti klasifikuoti turinio ir pranešti jiems apie strategijos konfigūracijas.
 
-Jei norite automatiškai taikyti etiketes, reikia atlikti šiuos veiksmus:
+Kad etiketės būtų taikomos automatiškai, būtina atlikti šiuos veiksmus:
 
-- "Azure" informacijos apsaugos P2 prenumerata
-- ["Azure" informacijos apsaugos vieningosios ženklinimo programos atsisiuntimas ir diegimas](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- "Azure Information Protection P2" prenumerata
+- ["Azure" informacijos apsaugos vieningosios etiketės kliento atsisiuntimas ir diegimas](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Stengiamės dirbti su vietiniu palaikymu, kad ateityje nereiktų "Azure" informacijos apsaugos vieningosios ženklinimo programos.
+Dirbame su vietiniu palaiku, kuris ateityje nereikalauja "Azure" informacijos apsaugos vieningojo etikečių kliento.
 
-Šiuo metu tik "Windows" palaiko vieningosios ženklinimo klientą.  Ši funkcija dar nepalaikoma "Mac", "iOS" ir "Android".
+Šiuo metu tik Windows palaiko vieningą etikečių klientą.  Ši funkcija dar nepalaikoma "Mac", "iOS" ir "Android".
 
-Daugiau informacijos apie jautrumo žymes ir jų taikymą automatiškai rasite:
+Daugiau informacijos apie slaptumo žymas ir jų sąvadą automatiškai pritaikykite turiniui, žr.:
 
-- [Slaptumo žymių apžvalga](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Jautrumo Žymos taikymas turiniui automatiškai](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Slaptumo etikečių apžvalga](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Automatiškai taikyti slaptumo žymą turiniui](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

@@ -1,5 +1,5 @@
 ---
-title: "\"323\" problemos dėl vėluojančio elektroninio pašto"
+title: 323 El. pašto delsos problemos
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,13 +13,13 @@ ms.custom:
 - "323"
 - "3100002"
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 378476218b3605b94fc18ed37047f10be1c0ec97
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5cdae61ad9fabadf88e61ae3badbb3b7bb8891371120413926060142c7ff24f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986863"
 ---
-# <a name="delays-in-email-message-delivery"></a>Pavėluota laiškų pristatymas
+# <a name="delays-in-email-message-delivery"></a>Vėluojama pristatyti el. laiškus
 
-Atrodo, kad turite "Mail Flow" problemą. Turime diagnostiką, kurie padės atpažinti daug dažnai pasitaikančių pašto srautų problemų. Spustelėkite **vykdyti diagnostiką** toliau.
+Atrodo, kad turite pašto srauto problemą. Turime diagnostiką, kuri padės nustatyti daugelį dažnai pasitaikančių pašto srauto problemų. Spustelėkite **Vykdyti diagnostiką** toliau.

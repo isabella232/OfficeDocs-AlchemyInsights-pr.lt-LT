@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Graph\" API problemos"
+title: "\"Microsoft \"Graph\" API problemos"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,93 +12,93 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7759"
-ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
-ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
+ms.openlocfilehash: 9df021211c8a65997889d9303dbf28a27104cfa95841d4cb810427c652ba0784
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50714153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975901"
 ---
-# <a name="microsoft-graph-api-issues"></a>"Microsoft Graph" API problemos
+# <a name="microsoft-graph-api-issues"></a>"Microsoft "Graph" API problemos
 
-Ši tema taip pat gali būti taikoma kūrėjams, kurie vis dar naudoja "Azure AD Graph API". Tačiau **primygtinai** rekomenduojama naudoti "Microsoft Graph" visiems jūsų katalogo, tapatybės ir "Access" valdymo scenarijams.
+Ši tema taip pat gali būti taikoma kūrėjams, vis dar naudojantys "Azure AD" "Graph" API. Tačiau primygtinai **rekomenduojama naudoti** "Microsoft "Graph" visus katalogus, tapatybę ir prieigos valdymo scenarijus.
 
 **Autentifikavimo arba autorizavimo problemos**
 
-- Jei jūsų programai **nepavyksta įsigyti žetonų** norint paskambinti "Microsoft Graph", pasirinkite problemą, kad gautumėte " **Access" atpažinimo ženklo (autentifikavimo)** "Microsoft Graph" kategoriją, kad gautumėte daugiau konkrečios žinyno ir palaikymo šioje temoje.
-- Jei jūsų programa **gauna "401" arba "403" autorizavimo klaidas** , kai skambinate "Microsoft Graph", pasirinkite "Microsoft Graph API" kategoriją gauti prieigą prie " **Access Denied" (leidimas)** , kad šioje temoje gautumėte konkretesnį žinyną ir palaikymą.
+- Jei jūsų programa **negali** įsigyti atpažinimo ženklų, kad paskambintų "Microsoft "Graph"", pasirinkite Problema gaunant prieigos **atpažinimo ženklą (autentifikavimą) "Microsoft** "Graph"" kategoriją, kad gautumėte daugiau konkrečios pagalbos ir palaikymo šia tema.
+- Jei jūsų programa gauna **401 arba 403** autorizavimo klaidas, kai skambinate "Microsoft "Graph"", pasirinkite kategoriją Gauti prieigą **uždrausta (autorizuoti) "Microsoft** "Graph" API", kad gautumėte daugiau konkrečios pagalbos ir palaikymo šia tema.
 
-**Noriu naudoti "Microsoft Graph", bet nežinote, nuo ko pradėti**
+**Noriu naudoti "Microsoft "Graph", bet nežinote, kur pradėti**
 
-- ["Microsoft Graph" apžvalga](https://docs.microsoft.com/graph/overview)
-- [Tapatybės ir "Access" valdymo apžvalga programoje "Microsoft Graph"](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Darbo pradžia "Microsoft Graph" taikomųjų programų kūrimas](https://docs.microsoft.com/graph/)
-- **"Microsoft Graph Explorer"** – jūsų nuomotojo arba demonstracinio kompiuterio "Microsoft Graph" API bandymas
+- ["Microsoft "Graph"](https://docs.microsoft.com/graph/overview)
+- [Tapatybės ir "Access" valdymo "Microsoft "Graph"](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Darbo pradžia kuriant "Microsoft "Graph"" programėles](https://docs.microsoft.com/graph/)
+- **"Microsoft "Graph" Explorer"** – išbandykite "Microsoft "Graph" API savo nuomotojo arba demonstracinį nuomotoją
 
-**Noriu naudoti "Microsoft Graph", tačiau ar ji palaiko "v 1.0" katalogo API, kurių man reikia?**
+**Noriu naudoti "Microsoft "Graph", bet ar ji palaiko man reikalingas v1.0 katalogo API?**
 
-"Microsoft Graph" yra rekomenduojamas katalogo, tapatybės ir "Access" valdymo API. Tačiau vis dar yra kelios spragos tarp to, kas įmanoma, "Azure AD Graph" ir "Microsoft Graph". Peržiūrėkite šiuos straipsnius, kuriuose Akcentuokite naujausius skirtumus, kurie padės jums pasirinkti:
+"Microsoft "Graph"" yra rekomenduojama katalogo, tapatybės ir prieigos valdymo API. Tačiau vis dar yra keletas spragų tarp to, kas įmanoma "Azure AD "Graph" ir "Microsoft "Graph"". Peržiūrėkite šiuos straipsnius, kuriuose paryškinti naujausias skirtumai, padėsiintys pasirinkti:
 
-- [Išteklių tipo skirtumai tarp "Azure AD Graph" ir "Microsoft Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Ypatybių skirtumai tarp "Azure AD Graph" ir "Microsoft Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- ["Azure AD" ir "Microsoft Graph" metodo skirtumai](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Išteklių tipo skirtumai tarp "Azure AD" "Graph" "Microsoft "Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- ["Azure AD" ir "Microsoft "Graph"" ypatybių "Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- ["Azure AD" ir "Microsoft "Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Mano skambinimo API neveikia – kur galiu atlikti daugiau bandymų?**
+**API, iš kurios skambinau, neveikia – kur galiu atlikti daugiau bandymų?**
 
-**"Microsoft Graph Explorer"** – Išbandykite "Microsoft Graph" API savo nuomotojuje arba "demo" nuomotojuje, taip pat peržiūrėkite **užklausų užklausas** programoje "Microsoft Graph Explorer".
+**"Microsoft "Graph" Explorer"** – išbandykite "Microsoft "Graph"" API nuomotojo arba demonstracinio nuomotojo, taip pat peržiūrėkite užklausų **pavyzdžius** "Microsoft "Graph" Explorer".
 
-**Mano programa yra per lėta ir taip pat yra Throttled. Kokius patobulinimus galiu padaryti?**
+**Mano programa yra per lėta ir taip pat yra suslėgta. Kokius patobulinimus galiu atlikti?**
 
-Atsižvelgiant į jūsų scenarijų, jūsų dispozicijoje yra įvairių parinkčių, kad jūsų programa būtų efektyvesnė, o kai kuriais atvejais, mažiau linkę ją naudoti (kai skambinate per daug kartų).
+Atsižvelgiant į scenarijų, jūsų žinioje yra įvairių parinkčių, kad jūsų taikomoji programa būtų efektyvesnė, o kai kuriais atvejais mažiau linkę į tai, kad tarnyba slegė (kai skambinate per daug skambučių).
 
-- ["Microsoft Graph" geriausios praktikos](https://docs.microsoft.com/graph/best-practices-concept)
-- [Užklausų grupavimas](https://docs.microsoft.com/graph/json-batching)
-- [Keitimų sekimas naudojant Delta užklausą](https://docs.microsoft.com/graph/delta-query-overview)
-- [Gaukite pranešimus apie keitimą naudodami webkablius](https://docs.microsoft.com/graph/webhooks)
-- [Ribojimo gairės](https://docs.microsoft.com/graph/throttling)
+- ["Microsoft "Graph" geriausia praktika](https://docs.microsoft.com/graph/best-practices-concept)
+- [Paketinės užklausos](https://docs.microsoft.com/graph/json-batching)
+- [Keitimų sekmas naudojant delta užklausą](https://docs.microsoft.com/graph/delta-query-overview)
+- [Gauti pranešimus apie pakeitimus naudojant "webhooks"](https://docs.microsoft.com/graph/webhooks)
+- [Throttling guidance](https://docs.microsoft.com/graph/throttling)
 
-**Kur galiu gauti daugiau informacijos apie klaidas ir žinomas problemas?**
+**Kur rasti daugiau informacijos apie klaidas ir žinomas problemas?**
 
-- ["Microsoft Graph" klaidos atsakymo informacija](https://docs.microsoft.com/graph/errors)
-- [Žinomos "Microsoft Graph" problemos](https://docs.microsoft.com/graph/known-issues)
+- ["Microsoft "Graph"" atsakymo į klaidą informacija](https://docs.microsoft.com/graph/errors)
+- [Žinomos "Microsoft "Graph"](https://docs.microsoft.com/graph/known-issues)
 
-**Kur galiu patikrinti paslaugų pasiekiamumo ir ryšio būseną?**
+**Kur galiu patikrinti paslaugos pasiekiamumo ir ryšio būseną?**
 
-Tarnybų pasiekiamumo ir ryšio su pagrindinėmis tarnybomis, kurias galima pasiekti naudojant "Microsoft Graph", paslaugos gali turėti įtakos bendram "Microsoft Graph" pasiekiamumui ir veikimui.
+Pagrindinių tarnybų, kurias galima pasiekti per "Microsoft "Graph"", pasiekiamumas ir ryšys gali turėti įtakos bendram "Microsoft "Graph"" pasiekiamumui ir "Graph".
 
-- "Azure Active Directory" tarnybos sveikatai patikrinkite **saugos + tapatybės** tarnybų būseną, išvardytas "Azure" [būsenos puslapyje](https://azure.microsoft.com/status/).
-- "Office" tarnyboms, kurios prisideda prie "Microsoft Graph", patikrinkite tarnybų, išvardintų " [Office" tarnybos sveikatos ataskaitų](https://portal.office.com/adminportal/home#/servicehealth)srityje, būseną.
+- Jei "Azure Active Directory" tarnybos sveikatą, patikrinkite būseną **Sauga +** tapatybės tarnybos, nurodytos ["Azure" būsenos puslapyje.](https://azure.microsoft.com/status/)
+- Jei Office prie "Microsoft "Graph"", patikrinkite tarnybų, išvardytų ["Office" tarnybos sveikatos ataskaitų srityje, būseną.](https://portal.office.com/adminportal/home#/servicehealth)
 
-"Microsoft Graph" autorizavimo klaidos gali kilti dėl kelių skirtingų problemų, kurių dauguma generuoja "401" arba "403" klaidą. Pavyzdžiui, toliau nurodyti būdai gali sukelti autorizavimo klaidas:
+"Microsoft "Graph"" autorizavimo klaidos gali būti kelių skirtingų problemų, iš kurių dauguma generuoja 401 arba 403 klaidą, rezultatas. Pvz., dėl šių veiksmų gali kilti autorizavimo klaidų:
 
 - Netinkami [atpažinimo ženklo gavimo srautai](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)
 - Prastai konfigūruotos [teisių aprėptys](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)
 - [Sutikimo](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) trūkumas
 
-**_„Azure Active Directory“ autentifikavimo bibliotekos (ADAL) ir „Azure AD Graph“ API („AAD Graph“) palaikymo pabaiga_* _
+***""Azure Active Directory"" autentifikavimo bibliotekos (ADAL) ir "Azure AD "Graph" API (AAD "Graph") palaikymo pabaiga***
 
-* Nuo birželio 30 d., 2020 * *, mes nebeįtrauksime jokių naujų funkcijų į ADAL ir Azure AD Graph. Mes toliau teiksime techninį palaikymą ir saugos naujinimus, bet nebeteiksime funkcijų naujinimų.
+**Nuo 2020 m. birželio 30** d. nebebus įtraukti naujų funkcijų į "ADAL" ir "Azure AD" "Graph". Mes toliau teiksime techninį palaikymą ir saugos naujinimus, bet nebeteiksime funkcijų naujinimų.
 
-**Nuo birželio 30 d., 2022**, mes užbaigsime "adal" ir "Azure AD Graph" palaikymą ir nebepateiks techninio palaikymo ar saugos naujinimų.
+**Nuo 2022 m. birželio 30** d. baigsime "ADAL" ir "Azure AD "Graph"" palaikymą ir nebeteisime techninio palaikymo arba saugos naujinimų.
 
-Taikomosios programos, naudojančios ADAL esamą operacinės sistemos versiją, toliau veiks po šio laiko, bet negalės *gauti jokio techninio palaikymo ar saugos naujinimų*.
+Programos, kurios naudoja ADAL esamoms OS versijoms, veiks po šio laiko, bet *negaus techninio palaikymo ar saugos naujinimų.*
 
-Programos, naudojančios "Azure AD Graph", po šio laiko gali nebegauti atsakymų iš "Azure AD Graph" galinio punkto.
+Programos, kurios naudoja "Azure AD "Graph"" po šio laiko, gali nebegauti atsakymų iš "Azure AD" "Graph" pabaigos taško.
 
 **ADAL perkėlimas**
 
 Rekomenduojame atnaujinti į [„Microsoft“ autentifikavimo biblioteką (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), kurioje yra naujausios funkcijos ir saugos naujinimai.
 
-Jei naudojate "Microsoft" taikomąsias programas, žinokite, kad "Microsoft" proceso metu migruoja jo taikomąsias programas į "MSAL" iki palaikymo termino pabaigos ir užtikrins, kad jos bus naudingos naudojant MSAL esamą saugos ir funkcijų patobulinimus.
+Jei naudojate "Microsoft" programas, žinokite, kad "Microsoft" pereina prie MSAL iki palaikymo pabaigos termino, užtikrindama, kad jos naudos iš MSAL vykdomų saugos ir funkcijų patobulinimų.
 
 1. [Skaityti ADAL DUK](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
 2. [Sužinokite, kaip perkelti programas pagal platformą](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. Jei reikia pagalbos norint suprasti, kurios iš jūsų taikomųjų programų naudoja ADAL, rekomenduojame Peržiūrėti visus savo programų šaltinio kodus ir, jei reikia, susisiekti su bet kuriuo ISVs arba taikomųjų programų teikėjais. „Microsoft“ palaikymo tarnyba taip pat gali pateikti visų jūsų nuomotojo ne „Microsoft“ ADAL programų sąrašą.
+3. Jei reikia pagalbos, kuri iš jūsų programų naudoja ADAL, rekomenduojame peržiūrėti visus savo programų šaltinio kodus ir, jei taikoma, susisiekti su visais ISV arba programų teikėjais. „Microsoft“ palaikymo tarnyba taip pat gali pateikti visų jūsų nuomotojo ne „Microsoft“ ADAL programų sąrašą.
 
 **„AAD Graph“ perkėlimas**
 
-Jei naudojate "Azure AD Graph" taikomąsias programas, vadovaukitės mūsų rekomendacijomis, kaip [perkelti "AZURE ad Graph" taikomąsias programas į "Microsoft Graph"](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+Programų, kurios naudoja "Azure AD "Graph"", vadovaukitės mūsų nurodymais, kaip perkelti ["Azure AD" "Graph" programas į "Microsoft "Graph"".](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)
 
 1. [Mūsų perkėlimo kontroliniame sąraše apibūdinama darbo pradžia](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).
-2. Jūsų „Azure“ programos registracijos portale rodoma, kuriose programose naudojama „AAD Graph“. Rekomenduojame peržiūrėti visą programų šaltinio kodą ir, jei taikoma, susisiekti su visais ISV arba programų teikėjais. "Microsoft" palaikymas taip pat gali suteikti jums sąrašą visų "AAD Graph" naudojimo jūsų nuomotojuje.
-3. Jei norite, kad programa pasiektų duomenis programoje "Microsoft Graph", vartotojas arba administratorius, naudodamas sutikimo procesą, privalo suteikti jam teisingas teises. ["Microsoft Graph" teisių nuorodoje](https://docs.microsoft.com/graph/permissions-reference) išvardijamos teisės, susietos su kiekvienu pagrindiniu "Microsoft Graph" API rinkiniu. Taip pat pateikiama rekomendacijų, kaip naudoti teises.
+2. Jūsų „Azure“ programos registracijos portale rodoma, kuriose programose naudojama „AAD Graph“. Rekomenduojame peržiūrėti visą programų šaltinio kodą ir, jei taikoma, susisiekti su visais ISV arba programų teikėjais. "Microsoft" palaikymas taip pat gali pateikti visų AAD "Graph" jūsų nuomotojo naudojimo sąrašą.
+3. Kad jūsų programa turėtų prieigą prie "Microsoft "Graph"" duomenų, vartotojas arba administratorius turi suteikti reikiamas teises per sutikimo procesą. "Microsoft ["Graph" teisių nuorodoje](https://docs.microsoft.com/graph/permissions-reference) išvardytos teisės, susietos su kiekvienu svarbiu "Microsoft" "Graph" API. Jame taip pat pateikiama patarimų, kaip naudoti teises.

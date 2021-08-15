@@ -1,5 +1,5 @@
 ---
-title: Sužinokite apie jautrumo žymų ir jų šalinimą
+title: Sužinokite apie slaptumo žymas arba jų trikčių diagnostiką
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 27c08c071b2feb8458f03d2b01017a6c348111a3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016816"
 ---
-# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Sužinokite apie jautrumo žymų ir jų šalinimą
+# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Sužinokite apie slaptumo žymas arba jų trikčių diagnostiką
 
-Informacijos apie jautrumo žymes apžvalgą rasite [Sužinokite apie jautrumo žymes](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Informacijos apie slaptumo žymas [žr. Sužinokite apie slaptumo žymas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Jei sukonfigūravote savo slaptumo žymas, bet jos nerodomos "Office" programose, atlikite toliau nurodytus veiksmus:
+Jei sukonfigūravote slaptumo žymas, bet jos nerodomas Office programose, atlikite šias užduotis:
 
-- Įsitikinkite, kad "Office 365 E3" arba "E5" licencija priskiriama.
+- Įsitikinkite, Office 365 E3 priskirta "E5" licencija.
 
-- Įsitikinkite, kad jūsų pageidautiems vartotojams ir grupėms buvo publikuota jautrumo žymė.
+- Patvirtinkite, kad slaptumo žyma publikuota norimiems vartotojams ir grupėms.
 
-- Įsitikinkite, kad vartotojas naudoja programą, kuri palaiko jautrumo žymes. Daugiau informacijos ieškokite ["Office" dokumentų ir el. laiško slaptumo žymių taikymas](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
+- Įsitikinkite, kad vartotojas naudoja taikomąją programą, palaikančią slaptumo žymas. Daugiau informacijos žr. [Slaptumo žymų taikykite savo dokumentams ir el. laiškams Office](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
 
-- Jei norite perkelti "Azure" informacijos apsaugos žymas, Sužinokite, [kaip perkelti "Azure" informacijos apsaugos žymas į suvienodintas slaptumo žymas](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+- Jei norite perkelti "Azure" informacijos apsaugos žymas, žr. [Kaip perkelti "Azure" informacijos apsaugos žymas į vieningas slaptumo žymas](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
 
-- Įsitikinkite, kad įdiegtas "Azure" informacijos apsaugos klientas. Daugiau informacijos ieškokite " [Azure" informacijos apsauga vieningas ženklinimo klientas](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history).
+- Įsitikinkite, kad įdiegtas "Azure" informacijos apsaugos klientas. Daugiau informacijos žr. ["Azure" informacijos apsaugos vieningas etikečių klientas](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history).
 
-Jei anksčiau nurodytos užduotys nepadeda išspręsti jūsų problemų, susijusių su jautrumo žymėmis, žiūrėkite [žinomas problemas, susijusias su jautrumo žymėmis "Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)".
+Jei anksčiau nurodytos užduotys nepadėjo išspręsti problemų dėl slaptumo žymų, žr. Žinomos problemos, susijusios su [slaptumo žymomis Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

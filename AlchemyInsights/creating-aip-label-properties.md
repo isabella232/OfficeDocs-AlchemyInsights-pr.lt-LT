@@ -1,5 +1,5 @@
 ---
-title: PPK žymių strategijų kūrimo
+title: AIP etikečių strategijų kūrimas
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031990"
 ---
-# <a name="creating-aip-label-policies"></a>PPK žymių strategijų kūrimo
+# <a name="creating-aip-label-policies"></a>AIP etikečių strategijų kūrimas
 
-"Azure" informacijos apsaugos (AIP) etiketes galima naudoti su visu duomenų diapazonu, kurį organizacija paprastai sukuria ir saugo pagal mažiausią asmens duomenų klasifikaciją pagal aukščiausią labai konfidencialių duomenų klasifikaciją. "Azure" informacijos apsaugos strategijos taikomos "Azure" informacijos apsaugos (AIP) klasikiniam klientui, o ne "  [aip](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)". Galite konfigūruoti kelis elementus "AIP" politikoje, įskaitant tokias parinktis:
+"Azure Information Protection(AIP)" žymas galima naudoti su visu duomenų diapazonu, kurį organizacija paprastai sukuria ir saugo nuo žemiausios asmens duomenų klasifikacijos iki aukščiausios labai konfidencialių duomenų klasifikacijos. "Azure" informacijos apsaugos strategijos taikomos klasikiniame "Azure" informacijos apsaugos(AIP) kliente, o ne [AIP vieningojo ženklinimo klientui.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Galite konfigūruoti kelis AIP strategijos elementus, įskaitant parinktis, pvz.:
 
-- Parinktis, kurios žymė leis administratoriams arba vartotojams klasifikuoti ir apsaugoti (pasirinktinai) dokumentus ir elektroninius laiškus
-- Galimybė vykdyti klasifikavimą, kai vartotojai įrašo dokumentus ir siunčia laišką
-- Parinktis automatiškai žymėti el. laišką, atsižvelgiant į jo priedus.
-- Parinktis valdyti, ar "Office" taikomosiose programose rodoma informacijos apsaugos juosta
+- Parinktis, kurios etiketė leis administratoriams arba vartotojui klasifikuoti ir apsaugoti(pasirinktinai) dokumentus ir el. laiškus
+- Parinktis įgalinti klasifikaciją, kai vartotojai įrašo dokumentus ir siunčia el. laiškus
+- Parinktis automatiškai pažymėti el. laišką pagal jo priedus.
+- Parinktis kontroliuoti, ar informacijos apsaugos juosta rodoma Office programose
 
-Jei turite papildomų parinkčių ir informacijos apie "Azure" informacijos apsaugos strategijas, žiūrėkite: " [Azure" informacijos apsaugos strategijos apžvalga](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Daugiau parinkčių ir informacijos apie "Azure" informacijos apsaugos strategijas žr.: ["Azure" informacijos apsaugos strategijos apžvalga.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
 
-Kitų naudingų išteklių, susijusių su Ail strategijomis, ieškokite:
+Kitus naudingus išteklius, susijusius su AIP strategija, žr.:
 
-- [Vadovėlis: "Azure" informacijos apsaugos strategijos parametrų konfigūravimas ir naujos Žymos kūrimas](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Vadovėlis: "Azure" informacijos apsaugos strategijos parametrų konfigūravimas ir naujos etiketės kūrimas](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
 - ["Azure" informacijos apsaugos strategijos konfigūravimas](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Jautrumo žymių ir jų strategijų kūrimas ir konfigūravimas](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Bendrųjų scenarijų, kurie naudoja "Azure" informacijos apsaugą, vadovai](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- ["Azure" informacijos apsaugos dokumentų peržiūra](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Slaptumo etikečių ir jų strategijų kūrimas ir konfigūravimas](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Bendrųjų scenarijų, kurie naudoja "Azure" informacijos apsaugą, naudojimo instrukcijos](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Peržiūrėkite "Azure" informacijos apsaugos dokumentaciją](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
 - ["Azure" informacijos apsaugos reikalavimai](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- ["Azure" informacijos apsaugos greito pasirengimo darbui vadovas](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- ["Azure" informacijos apsaugos greito pasirengimo pradžia mokymo programa](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
 - [Atsisiųsti "Azure" informacijos apsaugos klientą](https://www.microsoft.com/download/details.aspx?id=53018)
