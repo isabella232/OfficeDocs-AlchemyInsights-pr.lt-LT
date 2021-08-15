@@ -1,5 +1,5 @@
 ---
-title: Dokumentas atidaromas tik skaityti
+title: Dokumento atidarymas tik skaityti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030364"
 ---
-# <a name="documents-opening-in-read-only"></a>Dokumentai atidaromi tik skaityti
+# <a name="documents-opening-in-read-only"></a>Dokumentai, atidaromi tik skaityti
 
-Gali būti, kad jūsų atidaromi failai bus skirti tik skaityti. Kai kuriais atvejais tai daroma papildomai failų apsaugai, pvz., kai atidarote internetinius failus, o kartais tai nutinka dėl parametro, kurį galima pakeisti.
+Galite rasti atidarytus failus, kad jie būtų skirti tik skaityti. Kai kuriais atvejais ši sąlyga yra papildoma sauga, pvz., kai atidarote failus iš interneto, ir kitais atvejais ši sąlyga gali būti dėl parametro, kurį galima pakeisti.
 
-- [„SharePoint“ failai atidaromi tik skaityti](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint atidaryti kaip tik skaitomi failai](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Jei klientas mano, kad nurodytos priežastys, pvz., saugos gerinimo mechanizmas arba nepakeistas parametras, nėra vienas iš dizaino scenarijų, išdėstytų [„SharePoint“ failai, atidaromi kaip skirti tik skaityti](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), toliau pateikiami kitų įprastų dokumentų, kuriuos galima atidaryti tik skaitymo režimu, sprendimai.
+Jei klientas mano, kad nurodytos priežastys, pvz., saugos didinimo mechanizmas arba nepakitęs parametras, nėra vienas iš ["SharePoint"](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)failuose, atidarytuose kaip tik skaitomi, nurodytų scenarijų, čia pateikiami kiti bendri dokumentų atidarymo tik skaitymo režimu sprendimai.
 
 - Paleiskite kompiuterį iš naujo.
-- Įdiekite „Office“ naujinimus.
-- Kompiuteryje patikrinkite antivirusinę programą.
-- Įsitikinkite, kad svetainė yra „Internet Explorer“ patikimų svetainių zonoje.
-- Atkurkite „Office“.
-- Išvalykite [„Office“ dokumentų talpyklą](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Įdiekite Office naujinimus.
+- Patikrinkite kompiuterio antivirusinę programą.
+- Įsitikinkite, kad svetainė yra "Internet Explorer" patikimų svetainių zonoje.
+- Atlikite Office.
+- Išvalykite [Office talpyklą.](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us)
 

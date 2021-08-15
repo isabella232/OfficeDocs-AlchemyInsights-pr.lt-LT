@@ -1,5 +1,5 @@
 ---
-title: "\"Azure\" funkcijų taikomosios programos"
+title: "\"Azure\" funkcijų programos"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7843"
-ms.openlocfilehash: 11ccf3d819845383d06d25ff41c647fa456a3de1
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: bd5c16c68e69c8d9739bdc84d6d678681b5395fed3b90420d7b78cc47664eaed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979645"
 ---
-# <a name="azure-function-apps"></a>"Azure" funkcijų taikomosios programos
+# <a name="azure-function-apps"></a>"Azure" funkcijų programos
 
-[Konfigūruokite taikomosios programos paslaugą arba "Azure" funkcijų programą, kad galėtumėte naudoti "AZURE ad Login](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) ", kaip konfigūruoti "Azure App" paslaugą arba "Azure" funkcijas, kad būtų galima naudoti "Azure Active Directory" ("Azure AD")
+[Konfigūruokite "App Service" arba "Azure"](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) funkcijų programėlę, kad būtų galima naudoti "Azure AD" prisijungimą, rodo, kaip konfigūruoti "Azure App Service" arba "Azure" funkcijas"Azure Active Directory" naudoti ""Azure Active Directory" ("Azure AD") kaip autentifikavimo teikėją.

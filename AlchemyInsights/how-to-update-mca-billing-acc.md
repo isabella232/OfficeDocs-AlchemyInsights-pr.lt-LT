@@ -1,5 +1,5 @@
 ---
-title: Su "MCA" rekomenduojamais veiksmais susijęs naujinimas ir pirkėjo adresas
+title: Su jūsų MCA susieto pirkėjo ir sąskaitos adreso naujinimas – rekomenduojami veiksmai
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001516"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Su "MCA" rekomenduojamais veiksmais susijęs naujinimas ir pirkėjo adresas
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Su jūsų MCA susieto pirkėjo ir sąskaitos adreso naujinimas – rekomenduojami veiksmai
 
-Galite atnaujinti pardavimo ir pirkėjo adresą, susietą su jūsų "Microsoft" klientų sutarties (MCA). 
+Galite atnaujinti su jūsų "Microsoft" klientų sutartimi (MCA) susietą pirkėjo ir sąskaitos adresą. 
 
 > [!NOTE]
-> Tik vartotojo administratorius gali keisti "Azure Active Directory" vartotojo profilio informaciją. Jei nepriskyrėte vartotojo administratoriaus vaidmens, susisiekite su savo vartotojo administratoriumi. Daugiau informacijos apie vartotojo profilio keitimą ieškokite [vartotojo profilio informacijos įtraukimas arba naujinimas naudojant "Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)".
+> Tik vartotojo administratorius gali keisti "Azure Active Directory" profilio informaciją. Jei jums nepriskirtas vartotojo administratoriaus vaidmuo, kreipkitės į vartotojo administratorių. Daugiau informacijos apie vartotojo profilio keitimą žr. Vartotojo profilio informacijos įtraukimas arba [atnaujinimas naudojant "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
-**Parduotas** adresas – parduotas adresas yra organizacijos arba atskiro asmens, atsakingo už atsiskaitymo paskyrą, adresas ir kontaktinė informacija. Ji rodoma visose sąskaitose, sugeneruotose atsiskaitymo sąskaitoje.
+**Parduodamas adresas** – parduodamas adresas yra organizacijos arba asmens, kuris yra atsakingas už atsiskaitymo paskyrą, adresas ir kontaktinė informacija. Jis rodomas visose sąskaitose faktūrose, sugeneruotose atsiskaitymo paskyroje.
 
-**Pirkėjo-** gavėjo adresas – Pirk.-gavėjo adresas yra organizacijos arba atskiro asmens, atsakingo už sąskaitas faktūras, sugeneruotas atsiskaitymo paskyrai, adresas ir kontaktinė informacija. Jei norite gauti "MCA" atsiskaitymo paskyrą, kiekvieno atsiskaitymo profilio pirkėjo – gavėjo adresas ir jis rodomas atsiskaitymo profiliui sugeneruotoje sąskaitoje faktūroje.
+**Pirk.-mokėtojo** adresas – sąskaitos-mokėtojo adresas yra adresas ir organizacijos arba asmens, kuris yra atsakingas už sąskaitas faktūras, sugeneruotas naudojant atsiskaitymo paskyrą, kontaktinė informacija. MCA atsiskaitymo paskyroje yra kiekvieno atsiskaitymo profilio sąskaitos adresas ir jis rodomas sąskaitos faktūros, sugeneruotos atsiskaitymo profiliui, sąskaitoje faktūroje.
 
-**Jei norite atnaujinti MCA atsiskaitymo paskyrą, parduodamą adresu**:
+**Norėdami atnaujinti MCA atsiskaitymo paskyrą, parduodamą adresu:**
 
-1. Prisijunkite prie "Azure" portalo naudodami el. pašto adresą, kuriame yra savininko arba bendraautorio vaidmuo atsiskaitymo paskyros, skirtos MCA.
-1. Ieškokite **išlaidų valdymo**  +  **atsiskaitymo**.
-1. Spustelėkite  >  **Naujinti ypatybių naujinimą**.
-1. Įveskite naują adresą ir spustelėkite **įrašyti**.
+1. Prisijunkite prie "Azure" portalo naudodami el. pašto adresą, kuriame yra MCA atsiskaitymo paskyros savininkas arba bendraautorius.
+1. Ieškokite Išlaidų **valdymo**  +  **atsiskaitymas**.
+1. Spustelėkite **Ypatybės**  >  **Naujinimas, parduodamas.**
+1. Įveskite naują adresą ir spustelėkite **Įrašyti**.
 
-Kai kurios paskyros turi būti papildomai tikrinamos, prieš atnaujinant jų adresą. Jei jūsų abonementui reikia patvirtinimo rankiniu būdu, būsite paprašyti susisiekti su "Azure" palaikymo tarnyba.
+Kai kurioms paskyroms reikia papildomo patvirtinimo, kad būtų galima atnaujinti jų parduodamą adresą. Jei jūsų paskyrai reikalingas patvirtinimas rankiniu būdu, būsite paprašyti susisiekti su "Azure" palaikymo tarnyba.
 
-**Norėdami atnaujinti MCA atsiskaitymo paskyros adresą**: 
+**Norėdami atnaujinti MCA atsiskaitymo paskyros adresą:** 
 
-1. Prisijunkite prie "Azure" portalo naudodami elektroninio pašto adresą, kuris turi savininko arba bendraautorio vaidmenį atsiskaitymo sąskaitoje arba "MCA" atsiskaitymo profilio.
-1. Ieškokite **išlaidų valdymo**  +  **atsiskaitymo**.
-1. Spustelėkite **atsiskaitymo profiliai** ir pasirinkite atsiskaitymo profilį, kad atnaujintumėte atsiskaitymo adresą.
-1. Spustelėkite **Ypatybės**  >  **naujinimo adresas**.
-1. Įveskite naują adresą ir spustelėkite **įrašyti**.
+1. Prisijunkite prie "Azure" portalo naudodami el. pašto adresą, kuris turi savininko arba bendraautoriaus vaidmenį atsiskaitymo paskyroje arba MCA atsiskaitymo profilyje.
+1. Ieškokite Išlaidų **valdymo**  +  **atsiskaitymas**.
+1. Spustelėkite **Atsiskaitymo profiliai** ir pasirinkite atsiskaitymo profilį, kad atnaujinumėte atsiskaitymo adresą.
+1. Spustelėkite **Ypatybės Naujinimo**  >  **adresas**.
+1. Įveskite naują adresą ir spustelėkite **Įrašyti**.
 
 **Rekomenduojami dokumentai**
 
 ["Azure" atsiskaitymo paskyros kontaktinės informacijos keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
 [Atsiskaitymo paskyros parametrų naujinimas](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-["Microsoft" klientų sutarties administravimo vaidmenų "Azure" supratimas](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+["Microsoft Customer Agreement" administravimo vaidmenų supratimas "Azure"](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

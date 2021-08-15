@@ -1,5 +1,5 @@
 ---
-title: "\"Apple\" automatinio įrenginio registracijos Sinchronizavimo klaidos"
+title: "\"Apple\" automatinio įrenginio registracijos sinchronizavimo klaidos"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013756"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>"Apple" automatinio įrenginio registracijos Sinchronizavimo klaidos
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>"Apple" automatinio įrenginio registracijos sinchronizavimo klaidos
 
-"Nustatėme, kad turite vieną ar daugiau ad/DEP žetonų, kurie yra klaidos būsenos. Tol, kol bus išspręsta kiekvieno paveikto atpažinimo ženklo klaidos būsena, funkcija Ada neveiks taip, kaip tikėtasi. ".
+"Aptikome, kad turite vieną ar daugiau ADE/DEP atpažinimo ženklų, kurių būsena yra klaida. Kol klaidos būsena nebus išspręsta kiekvienam paveiktam atpažinimo ženklui, ADE funkcija neveiks taip, kaip tikėtasi.".
 
-Ši klaida gali pasireikšti įvairiais būdais, įskaitant:
+Ši klaida gali būti rodoma keliais būdais, įskaitant:
 
-1. Įrenginių negalima sinchronizuoti iš ABM/ASM į Intune
-2. Registracijos profilio priskyrimai gali būti nepavykę
-3. Įrenginiai gali sėkmingai neužbaigti ADE įtraukimo
+1. Įrenginiai gali būti nesinchronizuojami iš ABM / ASM į "Intune"
+2. Registracijos profilio užduotys gali nepavykti
+3. Įrenginiai gali nepavykti sėkmingai užregistruoti ADE
 
-Patikrinkite, ar sinchronizavimo klaida, pateikta "Intune" konsolėje, dalyje **įrenginiai > registruotis įrenginiai > "Apple" registracija > registracijos programos atpažinimo ženklai**.
+Patikrinkite sinchronizavimo klaidą, apie kurią pranešta "Intune" konsolėje dalyje **Įrenginiai, > Registruoti įrenginius > "Apple" registracija > registracijos programos atpažinimo ženklus.**
 
-Viena dažniausių Sinchronizavimo klaidos priežasčių yra dabartinio atpažinimo ženklo galiojimo laikas. Daugeliu atvejų paveikto atpažinimo ženklo atnaujinimas padės išspręsti problemą.
+Viena iš dažniausių sinchronizavimo klaidos priežasčių yra dabartinio atpažinimo ženklo galiojimo pabaiga. Daugeliu atvejų problema bus išspręsta atnaujinus paveiktą atpažinimo ženklą.
 
-Jei vieno arba kelių jūsų žetonų galiojimas baigėsi, peržiūrėkite toliau pateiktus dokumentus, kad galėtumėte juos atnaujinti:
+Jei baigėsi vieno ar daugiau atpažinimo ženklų galiojimo laikas, žr. toliau nurodytą dokumentaciją, kad prireikus juos atnaujintumėte:
 
 [Automatinio įrenginio registracijos atpažinimo ženklo atnaujinimas](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Be to, galite matyti toliau pateiktus dokumentus, kad matytumėte galimus kitų klaidų, sukėlusio simbolinės sinchronizavimo triktis, taisymus:
+Be to, galite matyti toliau nurodytą dokumentaciją, kad pamatytumėte galimas kitų klaidų, dėl kurių kyla atpažinimo ženklo sinchronizavimo klaidų, ištaisymą:
 
-[ABM/ASM Sinchronizavimo klaidos, skirtos "iOS"/iPadOS ir "macOS" Automatizuotiems įrenginio registracijos žetonams](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
-
-
+["iOS" / "iPadOS" ir "macOS" automatinių įrenginių registracijos atpažinimo ženklų ABM / ASM sinchronizavimo klaidos](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
 
 
-[ABM/ASM Sinchronizavimo klaidos, skirtos "iOS"/iPadOS ir "macOS" Automatizuotiems įrenginio registracijos žetonams](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+
+
+["iOS" / "iPadOS" ir "macOS" automatinių įrenginių registracijos atpažinimo ženklų ABM / ASM sinchronizavimo klaidos](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
