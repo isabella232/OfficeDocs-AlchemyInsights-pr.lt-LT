@@ -1,5 +1,5 @@
 ---
-title: importavimas – eksportavimas – "Outlook", skirtas "Mac"
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e947c6cd5d27bdb690117b18dd100f3de64b0bcd5d5bdab7cb1eeca355ef4489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987439"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Importavimas/eksportavimas naudojant "Outlook", skirtą "Mac" 
+# <a name="importexport-in-outlook-for-mac"></a>Import / Export in Outlook for Mac 
 
-Eksportuoti
-1. Skirtuke **Įrankiai** pasirinkite **eksportuoti**.
-2. Lauke **Įrašyti kaip** dalyje **Parankiniai** pasirinkite aplanką **Atsisiuntimai** ir pasirinkite **įrašyti**.
-3. Kai matote pranešimą, kad eksportavimas baigtas, pasirinkite **baigti**.
+Eksportuoti:
+1. Skirtuke  Įrankiai pasirinkite **Eksportuoti**.
+2. Lauko **Įrašyti kaip** dalyje **Parankiniai** pasirinkite aplanką **Atsisiuntimai** ir pasirinkite **Įrašyti**.
+3. Kai matote pranešimą, kad eksportavimas baigtas, pasirinkite **Baigti**.
 
-Importuoti
-1. Skirtuke **Įrankiai** pasirinkite **importuoti**.
-2. Pasirinkite **"Outlook", skirtą "Windows" archyvo failui (. pst)**  >  **tęsti**.
-3. Raskite. pst failą "Mac" kompiuteryje, tada pasirinkite **importuoti**.
-4. Kai importavimo procesas baigtas, pasirinkite **baigti**.
-5. Importuotos prekės pasirodo naršymo srityje, dalyje **mano kompiuteris**.
+Importavimas:
+1. Skirtuke  Įrankiai pasirinkite **Importuoti**.
+2. Pasirinkite **Outlook archyvo Windows (.pst)**  >  **Tęsti**.
+3. Raskite .pst failą "Mac" kompiuteryje, tada pasirinkite **Importuoti**.
+4. Kai importavimo procesas bus baigtas, pasirinkite **Baigti**.
+5. Importuoti elementai rodomi naršymo srityje dalyje **Mano kompiuteris.**
 
-Jei turite visas "Outlook for Mac" importavimo ir eksportavimo instrukcijas, peržiūrėkite ["Outlook" el. pašto, kontaktų ir kalendoriaus importavimas ir eksportavimas](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Visą "Mac" Outlook importavimo ir eksportavimo instrukcijų rinkinį žr. [El. Outlook, kontaktų ir kalendoriaus importavimas ir eksportavimas.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Norėdami gauti palaikymą programoje "Outlook for Mac" problemoms, atidarykite "Outlook" ir pasirinkite **padėti**  >  **susisiekti su palaikymo tarnyba**. Įveskite savo klausimą ir "Outlook for Mac" palaikymo komandos narys susisieks su jumis. [Kreipkitės į palaikymo tarnybą programoje "Outlook", skirtą "Mac"](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
+Norėdami gauti "Mac" Outlook palaikymą, atidarykite "Outlook ir pasirinkite Žinynas **Kreipkitės į**  >  **palaikymo tarnybą**. Įveskite savo klausimą, o "Outlook for Mac" palaikymo komandos narys su jumis palaikys ryšį. [Kreipkitės į palaikymo tarnybą "Outlook for Mac"](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

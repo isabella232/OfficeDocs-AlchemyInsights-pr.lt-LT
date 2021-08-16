@@ -1,5 +1,5 @@
 ---
-title: 929 aplanko Gauta taisyklės, skirtos "Defecttransport" taisyklėms
+title: 929 Aplanko Gauta taisyklės, kad būtų galima deflectTransport rules
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028660"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pašto srauto taisyklės (taip pat vadinamos transportavimo taisyklėmis)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pašto srauto taisyklės (dar vadinamos transportavimo taisyklėmis)
 
-- Bendroji pašto srauto taisyklių apžvalga: [pašto srauto taisyklės (transportavimo taisyklės) "Exchange Online](https://technet.microsoft.com/library/jj919238.aspx) "
+- Bendra pašto srauto taisyklių apžvalga: [pašto srauto taisyklės (transportavimo taisyklės) Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Pašto srauto taisyklių nustatymas: [pašto srauto taisyklės procedūros "Exchange Online](https://technet.microsoft.com/library/dn600436.aspx) "
+- Pašto srauto taisyklių nustatymas: [pašto srauto taisyklių procedūros Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
 - Pašto srauto taisyklių kūrimas, modifikavimas ir naikinimas: [pašto srauto taisyklių valdymas](https://technet.microsoft.com/library/jj657505.aspx)
 
-Taip pat galite tvarkyti pašto srauto taisykles "Exchange Online" "PowerShell". Daugiau informacijos rasite [get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (rodinys), [New-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (kurti), [Remove-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (panaikinti), [Set-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modifikuoti esamus), [išjungti-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (išjungti esamą) ir [įgalinti-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (įgalinti esamą).
+Taip pat galite valdyti pašto srauto taisykles programoje "Exchange Online PowerShell". Daugiau informacijos žr. [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (rodinys), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) ir [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable existing).
 
-Papildomos pašto srauto taisyklės cmdlet: [get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (sąrašo galimi veiksmai), [get-Transportrulepreatate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (sąrašas galimos sąlygos ir išimtys), [Export-transportrulecollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (eksporto taisyklės) ir [Import-transportrulecollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importo taisyklės).
+Papildomos pašto srauto taisyklės "cmdlet": [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (sąrašo galimi veiksmai), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (sąrašo galimos sąlygos ir išimtys), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (eksportavimo taisyklės) ir [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importavimo taisyklės).

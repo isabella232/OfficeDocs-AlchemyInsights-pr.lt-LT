@@ -1,5 +1,5 @@
 ---
-title: Pašto dėžučių sulaikymų nustatymas
+title: Pašto dėžutėse patalpų sulaikyto laiko nustatymas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987577"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Pašto dėžutėse esančių sulaikymų identifikavimas
+# <a name="identify-holds-placed-on-mailboxes"></a>Sulaikytų pašto dėžučių sulaikymas
 
-Ar turite "Microsoft" 365 turinį, kurį **saugo** **sulaikymas** , kurio negalite identifikuoti? Reikia **sužinoti** , kur sulaikymas yra **pašto dėžutėje** ? Sulaikymai (*saugojimo priemonės*) gali būti taikomi vienu iš šių būdų:
+Ar turite Microsoft 365 turinį, **kurį** išlaiko **sulaikytasis,** kurio negalite identifikuoti? Reikia **sužinoti, kur** telkimas yra pašto **dėžutėje?** *Sulaikymus*( saugojimo funkcijas ) galima taikyti vienu iš šių būdų:
   
 - Sulaikymas dėl bylinėjimosi
 
-- "Udiscovery" sulaikymas
+- El. duomenų aptikimo sulaikymas
 
-- Laikymas vietoje
+- In-Place sulaikyti
 
-- "Microsoft 365" saugojimo strategija 
+- Microsoft 365 saugojimo strategija 
 
-  - Konkrečios vietos išsaugojimo strategijos
+  - Konkrečios vietos saugojimo strategijos
 
   - Visos organizacijos saugojimo strategijos
 
-- "Microsoft 365" Žymos
+- Microsoft 365 žymos
 
-Norėdami nustatyti, kokio tipo sulaikymą taiko vartotojo pašto dėžutei, Sužinokite, [kaip nustatyti "Exchange Online" pašto dėžutėje pateikto sulaikymo tipą](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Norėdami nustatyti, kokio tipo sulaikymas taikomas vartotojo pašto dėžutei, žr. Kaip nustatyti sulaikyto pašto [dėžutės Exchange Online tipą.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

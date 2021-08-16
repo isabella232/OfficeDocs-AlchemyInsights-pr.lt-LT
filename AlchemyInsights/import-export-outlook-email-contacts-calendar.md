@@ -1,5 +1,5 @@
 ---
-title: 1221 – importavimas – eksportavimas – "Outlook" – paštas – Kontaktai – kalendorius
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987367"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>„„Outlook“ el. pašto, kontaktų ir kalendoriaus elementų importavimas ir eksportavimas
 
@@ -29,6 +29,6 @@ ms.locfileid: "47778951"
 
     Bus paleistas importavimo ir eksportavimo vediklis.
 
-Visą "Outlook" importavimo ir eksportavimo instrukcijų rinkinį rasite  [šiame straipsnyje](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Visą importavimo ir eksportavimo instrukcijų rinkinį rasite Outlook [straipsnyje.](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
 
-Jei esate administratorius ir norite masiškai importuoti kelis PST failus į "Microsoft" 365 pašto dėžutes, peržiūrėkite [šį straipsnį](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Jei esate administratorius ir norite masiškai importuoti kelis PST failus į pašto Microsoft 365 pašto dėžutes, [žr. šį straipsnį](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).

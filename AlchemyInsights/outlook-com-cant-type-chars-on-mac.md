@@ -1,5 +1,5 @@
 ---
-title: "\"9000071\" negali įvesti @ simbolio \"Mac\" kompiuteryje"
+title: 9000071 "Mac" negali įvesti @ simbolio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: a682ad3ebb196df818e894c129ded59cd0e2880a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984577"
 ---
 # <a name="how-to-type-special-characters-on-a-mac"></a>Kaip įvesti specialiuosius simbolius "Mac" kompiuteryje
 
-Norėdami įvesti specialiuosius simbolius "Mac" kompiuteryje, atidarykite **specialiųjų simbolių** meniu, naudodami sparčiuosius klavišus ⌘ **komandų**  +  **valdymo**  +  **sritį**.
+Norėdami įvesti specialiuosius simbolius savo "Mac", atidarykite meniu **Specialieji** simboliai su sparčiuoju **klavišu**.  +    +  
 
-Spartusis klavišas @ taip pat yra **ALT**  +  **64**.
+Spartusis @spartusis klavišas taip **pat yra ALT**  +  **64**.
