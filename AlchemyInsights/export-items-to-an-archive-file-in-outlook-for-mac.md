@@ -1,5 +1,5 @@
 ---
-title: Elementų eksportavimas į archyvo failą programoje "Outlook for Mac"
+title: Elementų eksportavimas į archyvo failą "Outlook for Mac"
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100410"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Elementų eksportavimas į archyvo failą programoje "Outlook for Mac"
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Elementų eksportavimas į archyvo failą "Outlook for Mac"
 
-Norėdami sumažinti aplanko Gauta dydį, neautomatiškai Archyvuokite el. laiškus, kontaktus ir kitus elementus į "Outlook for Mac" duomenų failą (. OLM). Galite įrašyti. OLM failą į bet kurią vietą "Mac" kompiuteryje arba kitame kompiuteryje, kuriame saugote.
+Norėdami sumažinti aplanko Gauta dydį, rankiniu būdu archyvuokite el. laiškus, kontaktus ir kitus elementus į "Outlook", skirtą "Mac" duomenų failui (.olm). .olm failą galite įrašyti bet kurioje "Mac" vietoje arba kitoje kompiuterio vietoje, kad jį būtų galima saugoti.
 
-1. Skirtuke **Įrankiai** spustelėkite **eksportuoti**.
+1. Skirtuke  Įrankiai spustelėkite **Eksportuoti.**
 
 > [!NOTE]
-> Nematote mygtuko **eksportuoti** ? Įsitikinkite, kad turite naujausią "Outlook" versiją. Meniu "Outlook" **Žinynas** spustelėkite **Tikrinti, ar yra naujinimų**. Jei taikomi visi "Outlook" naujinimai ir vis dar nematote mygtuko **eksportuoti** , ieškokite **eksportavimo** "Outlook" meniu **failas** .
+> Nematote **mygtuko Eksportuoti?** Įsitikinkite, kad turite naujausią "Outlook" versiją. Meniu Outlook **spustelėkite** Tikrinti, **ar yra naujinimų.** Jei Outlook visi naujinimai ir vis tiek nematote  mygtuko Eksportuoti,  meniu Failas Outlook **Eksportavimas.**
 
-2. Lauke **eksportuoti į archyvo failą (. OLM)** pažymėkite norimus eksportuoti elementus ir spustelėkite **tęsti**.
+2. Lauke **Eksportuoti į archyvo failą (.olm)** pažymėkite norimus eksportuoti elementus ir spustelėkite **Tęsti.**
 
-3. Lauke **Įrašyti kaip** dalyje **Parankiniai** pasirinkite aplanką **Atsisiuntimai** ir spustelėkite **įrašyti**.
+3. Lauko **Įrašyti kaip** dalyje **Parankiniai** pasirinkite aplanką **Atsisiuntimai,** tada spustelėkite **Įrašyti**.
 
-4. Eksportavę duomenis ir gavę pranešimą, spustelėkite **baigta**.
+4. Kai duomenys bus eksportuoti ir gausite pranešimą, spustelėkite **Baigti**.
 
-Informacijos apie tai, kaip pasiekti duomenis, kuriuos įrašėte "Outlook for Mac" duomenų faile (. OLM), rasite straipsnyje [pašto laiškų, kontaktų ir kitų elementų importavimas į "Outlook" 2016, skirtą "Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)".
+Informacijos, kaip pasiekti duomenis, kuriuos įrašėte "Outlook for Mac" duomenų faile (.olm), žr. El. laiškų, kontaktų ir kitų elementų importavimas į ["Outlook 2016 for Mac".](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 
-**Noriu eksportuoti į "iCloud" arba į kitą archyvo failo tipą**
+**Noriu eksportuoti į "iCloud" arba į kito tipo archyvo failą**
 
-Šiuo metu galima tik eksportavimo parinktis yra. OLM archyvo failas. Norėdami prašyti papildomų eksportavimo parinkčių, eikite į ["Outlook" pasiūlymo lauką](https://outlook.uservoice.com/) ir Palikite atsiliepimą. "Outlook" komanda aktyviai stebi šį forumą.
+Vienintelė šiuo metu pasiekiama eksportavimo parinktis yra .olm archyvo failas. Norėdami prašyti papildomų eksportavimo parinkčių, apsilankykite [Outlook lauke, kad](https://outlook.uservoice.com/) paliksite atsiliepimą. Komanda Outlook aktyviai stebi šį forumą.
 
-**Taip pat žiūrėkite**
+**Taip pat žr.**
 
-- [. Pst failo importavimas į "Outlook 2016 for Mac" iš "Outlook", skirtos "Windows"](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [.pst failo importavimas į "Outlook 2016 for Mac" iš "Outlook for Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Laiko mašinos naudojimas norint automatiškai archyvuoti arba kurti "Outlook 2016 for Mac" atsarginę elementų atsarginę reikšmę](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Laiko įrenginio naudojimas automatiškai archyvuoti arba kurti atsargines elementų kopijas "Outlook 2016 for Mac"](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

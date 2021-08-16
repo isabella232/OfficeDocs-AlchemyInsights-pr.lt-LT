@@ -1,5 +1,5 @@
 ---
-title: Darbo su "SharePoint Online" Pradžia
+title: Darbo su "SharePoint Online" pradžia
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48142ab68f3478c9becd51e658bd07255803f47f00611e0f1f8ab1757fdc984d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029488"
 ---
-# <a name="get-started-with-sharepoint-online"></a>Darbo su "SharePoint Online" Pradžia
+# <a name="get-started-with-sharepoint-online"></a>Darbo su "SharePoint Online" pradžia
 
-Pradėkite naudoti " [SharePoint Online" mokomąjį vaizdo](https://go.microsoft.com/fwlink/?linkid=866438) transliaciją ir [greito pasirengimo darbui vadovą](https://go.microsoft.com/fwlink/?linkid=866437). Jei ieškote išsamesnio, nuoseklusis vadovas atlikite veiksmus, nurodytus " [SharePoint Online" diegimo patarime.](https://portal.office.com/onboarding/sharepointonline#/)
+Gaukite ir pradėkite naudoti mūsų [SharePoint mokomuosius vaizdo įrašus ir](https://go.microsoft.com/fwlink/?linkid=866438) [greito pasirengimo darbui vadovą.](https://go.microsoft.com/fwlink/?linkid=866437) Jei ieškote išsamesnių, nuoseklių instrukcijų, atlikite veiksmus, nurodytus ["SharePoint" diegimo internete patarėje.](https://portal.office.com/onboarding/sharepointonline#/)
   
 
