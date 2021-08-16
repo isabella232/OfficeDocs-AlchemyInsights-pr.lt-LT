@@ -1,5 +1,5 @@
 ---
-title: Problemos, susijusios su besiūlių SSO integravimu su mano vietinėje programėlėmis
+title: Sklandžių SSO integravimo su mano vietinėmis programėlėmis problemos
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028300"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemos, susijusios su besiūlių SSO integravimu su mano vietinėje programėlėmis
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Sklandžių SSO integravimo su mano vietinėmis programėlėmis problemos
 
-Norėdami šalinti triktis, susijusias su sklandžiais SSO integravimu su vietinėse taikomosiose programose, atlikite šiuos veiksmus:
+Norėdami šalinti sklandžių SSO integravimo su vietinėmis programomis problemas, atlikite šiuos veiksmus:
 
 **Rekomenduojami veiksmai**
 
-1. Norėdami sukonfigūruoti **vietinę taikomąją** programą, skirtą **vienkartiniam autentifikacija naudojant taikomosios programos tarpinį serverį**, peržiūrėkite [bendrosios autentifikacijos slaptažodį naudojant taikomosios programos tarpinį serverį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Taikomųjų programų tarpinio serverio problemų trikčių diagnostika**: rekomenduojame pradėti peržiūrėti trikčių šalinimo srautą, [derinti taikomosios programos tarpinio serverio jungties problemas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), kad nustatytumėte, ar taikomosios programos tarpinio serverio jungtys tinkamai sukonfigūruotos. Jei vis dar kyla problemų jungiantis prie taikomosios programos, vadovaukitės trikčių šalinimo veiksmais [derinimo taikomosios programos tarpinio serverio taikomosios programos problemoms spręsti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). " [CORS" problemas galite identifikuoti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) naudodami šiuos naršyklės derinimo įrankius:
-    1. Paleisk naršyklę ir naršykite į žiniatinklio programą.
-    1. Paspauskite **F12** , kad iškviestumėte derinimo konsolę.
-    1. Pabandykite atkurti operaciją ir peržiūrėkite konsolės pranešimą. CORS pažeidimas sukuria konsolės klaidą apie kilmę.
-    1. Kai kurios "CORS" problemos neišsprendžiamos, pvz., kai jūsų programa nukreipia į "login.microsoftonline.com" ir "Access" atpažinimo ženklo galiojimo laikas baigsis. Tada nepavyksta. Šio scenarijaus sprendimo būdas – pratęsti "Access" atpažinimo ženklo galiojimo laiką, kad jis nesibaigtų vartotojo seanso metu. Daugiau informacijos apie tai, kaip tai padaryti, rasite [konfigūruotina atpažinimo ženklų naudojimo "Microsoft" tapatybės platformoje](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)informacija.
+1. Norėdami **sukonfigūruoti vietinį** bendrosios autenčios taikomosios programos tarpinį serverį **,** žr. Bendrosios autentavimo naudojant taikomosios programos [tarpinį serverį slaptažodžių](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)saugyklos .
+1. **Programos tarpinio serverio** trikčių šalinimas: rekomenduojame pradėti nuo trikčių šalinimo srauto [peržiūros,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)derinti taikomosios programos tarpinio serverio jungties problemas, kad nustatytumėte, ar tinkamai sukonfigūruotos taikomosios programos tarpinio serverio jungtys. Jei vis tiek kyla problemų jungiantis prie taikomosios programos, atlikite trikčių šalinimo veiksmus, nurodytus [Taikomosios programos tarpinio serverio taikomosios programos problemų derinimas.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) Cors [problemas galite nustatyti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) naudodami šiuos naršyklės derinimo įrankius:
+    1. Paleiskite naršyklę ir raskite žiniatinklio taikomąją programą.
+    1. Paspauskite **F12,** kad iškeitų derinimo konsolė.
+    1. Pabandykite atkurti operaciją ir peržiūrėkite konsolės pranešimą. CORS pažeidimas pateikia konsolės klaidą apie kilmę.
+    1. Kai kurių CORS problemų išspręsti negalima, pvz., kai jūsų programa peradresuoja login.microsoftonline.com autentifikuoti, o prieigos atpažinimo ženklo galiojimas baigiasi. Tada CORS skambutis nepavyks. Šio scenarijaus sprendimo būdas yra pratęsti prieigos atpažinimo ženklo naudojimo laiką, kad jis truktų vartotojo seanso metu. Daugiau informacijos apie tai, kaip tai padaryti, žr. [Konfigūruojami atpažinimo](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)ženklų naudojimo "Microsoft" tapatybės platforma .
 
 **Rekomenduojami dokumentai**
 
-- [Kaip sukonfigūruoti bendrąją autentifikacija taikomosios programos tarpinio serverio taikomajai programai](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [SAML vienkartinė autentifikacija vietinėms programoms naudojant taikomosios programos tarpinį serverį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- ["Azure Active Directory" taikomųjų programų tarpinio serverio problemų supratimas ir sprendimas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- ["Kerberos" ribojami taikomųjų programų tarpinio serverio perdavimo konfigūracijų trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Kaip konfigūruoti bendrąją a prisijungimą prie taikomosios programos tarpinio serverio taikomosios programos](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [SAML bendroji a prisijungimo prie vietinės taikomosios programos su taikomosios programos tarpinis serveris](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- ["Application Proxy CORS"Azure Active Directory" problemų supratimas ir sprendimas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- ["Kerberos" apriboto perdavimo konfigūracijų trikčių šalinimas naudojant programos tarpinį serverį](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

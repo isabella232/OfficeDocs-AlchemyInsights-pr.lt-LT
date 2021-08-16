@@ -1,5 +1,5 @@
 ---
-title: Trūkstamų taikomųjų programų radimas
+title: Trūkstamų taikomųjų programų radus
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068928"
 ---
-# <a name="find-missing-applications"></a>Trūkstamų taikomųjų programų radimas
+# <a name="find-missing-applications"></a>Trūkstamų taikomųjų programų radus
 
-- [Greitoji paleistis: Peržiūrėkite taikomųjų programų, kurios naudoja jūsų "Azure Active Directory" ("AZURE AD") tapatybės valdymo nuomotoją, sąrašą](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) rodoma, kaip peržiūrėti taikomąsias programas, taip pat žinomas kaip taikomosios programos, kurios jau nustatytos naudoti jūsų "Azure AD" nuomotoją kaip tapatybės teikėją (idP).
-- Norėdami ieškoti konkrečios taikomosios programos, eikite į meniu **taikomosios programos tipas** , pasirinkite **visos taikomosios programos** ir pasirinkite **taikyti**.
-  - Nurodykite norimos surasti taikomosios programos pavadinimą. Jei taikomoji programa įtraukta į jūsų "Azure AD" nuomotoją, ji rodoma ieškos rezultatuose. Taip pat galite nurodyti pirmąsias programos pavadinimo raides.
-- [Išspręskite įprastas problemas įtraukdami arba pašalindami taikomąją programą į "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) , padeda suprasti Dažniausias problemas, su kuriomis susiduria žmonės, naudodami "Azure Active Directory".
+- "Quickstart": peržiūrėkite programų, kurios naudoja [jūsų ""Azure Active Directory"" ("Azure AD")](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) nuomotoją tapatybės valdymui, sąrašą, kuriame rodoma, kaip peržiūrėti taikomąsias programas, dar vadinamas programomis, kurios jau nustatytos naudoti "Azure AD" nuomotoją kaip tapatybės teikėją (IDP).
+- Norėdami ieškoti konkrečios programos, eikite į meniu **Programos tipas,** pasirinkite **Visos taikomosios** programos ir pasirinkite **Taikyti**.
+  - Įveskite norimos rasti taikomosios programos pavadinimą. Jei programa įtraukta į "Azure AD" nuomotoją, ji rodoma ieškos rezultatuose. Taip pat galite įvesti kelias pirmąsias taikomosios programos pavadinimo raides.
+- [Dažnai pasitaikančių problemų įtraukiant arba šalinant](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) taikomąją programą "Azure Active Directory" padeda suprasti įprastas problemas, su kuriomis žmonės susiduria peržiūrėdami programas "Azure Active Directory".

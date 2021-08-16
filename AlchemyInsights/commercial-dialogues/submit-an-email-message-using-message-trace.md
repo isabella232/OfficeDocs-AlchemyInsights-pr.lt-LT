@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874547"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>El. laiško siuntimas naudojant laiškų sekimą
 
-1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143), tada eikite į Pašto **srauto**  >  [pranešimų sekimas](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. Eikite į Exchange administravimo centrą (EAC) pašto <https://admin.exchange.microsoft.com> \> **srauto** \> **pranešimų sekimas**.
+
+   Norėdami pereiti tiesiai į pranešimų **sekimo puslapį,** naudokite <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Pasirinkite **+ Pradėkite sekimą**.
 3. Pereikite per pateiktas parinktis. Pasirinkite gavėjus ir siuntėjus, tada atitinkamai koreguokite datų diapazoną. Galite palikti numatytuosius likusių parinkčių parametrus.
 4. Pasirinkite **Ieškoti**. Pagal ieškos kriterijus bus rodomas el. laiškų sąrašas. Dukart spustelėkite pranešimą, kurį norite pateikti, tada pasirinkite **Pateikti pranešimą**.
-5. Norėdami sužinoti daugiau, [žr. Pranešimų sekimas saugos & centre](https://go.microsoft.com/fwlink/?linkid=2101557).
+
+Norėdami sužinoti daugiau, [žr. Pranešimų sekimas šiuolaikinėje EAC](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac).

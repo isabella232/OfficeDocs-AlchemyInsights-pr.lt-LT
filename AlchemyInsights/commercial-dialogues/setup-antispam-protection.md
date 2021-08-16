@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058514"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874583"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Apsaugos nuo pašto šiukšlių nustatyti
 
-Štai kaip tai padaryti:
+1. ""Microsoft 365" sargyba" portale eikite į <https://security.microsoft.com/> **El. &** \> **bendradarbiavimo strategijos & Taisyklės** Grėsmių strategijos Apsauga nuo pašto šiukšlių \>  \>  **skyriuje** Strategijos.
 
-1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Eikite **į**  >  **Grėsmių valdymo** strategija ir spustelėkite **[Apsauga nuo pašto šiukšlių](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Skirtuke **Pasirinktinis** įjunkite **Pasirinktiniai** parametrai.
-1. Išplėskite **numatytosios pašto šiukšlių filtro** strategiją , **spustelėkite** Redaguoti strategiją , tada nurodykite šiuos parametrus:
-    1. Sekcijoje **Pašto šiukšlės** ir masiniai veiksmai nustatykite reikšmę 5 arba 6.
-1. Spustelėkite **Įrašyti**.
+   Norėdami pereiti tiesiai į apsaugos **nuo pašto šiukšlių strategijų** puslapį, naudokite <https://security.microsoft.com/antispam> .
 
-Norėdami sužinoti daugiau apie savo apsaugos nuo pašto šiukšlių strategijos parinktis, [žr. Apsaugos nuo pašto šiukšlių strategijų konfigūravimas](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. Puslapyje Apsaugos **nuo pašto šiukšlių strategijos** atlikite vieną iš šių veiksmų:
+   - Norėdami įtraukti naują strategiją, pasirinkite **+ Kurti** \> **gaunamąjį**. Bus paleidžiamas vediklis, kuris padės nustatyti strategijos parametrus.
+   - Norėdami redaguoti esamą strategiją, pasirinkite strategiją spustelėdami strategijos pavadinimą (**Tipas** yra **Pasirinktinė apsaugos nuo** pašto šiukšlių strategija arba **Pavadinimas** yra gaunamų pašto šiukšlių apsaugos nuo pašto šiukšlių **strategija (numatytoji)**). Rodomame išsamios informacijos iškeliame lange pasirinkite **Redaguoti** sekcijoje, kurioje yra norimi konfigūruoti parametrai.
+
+3. Peržiūrę parametrus pasirinkite Pateikti **(naujas)** arba **Įrašyti** (redaguoti).
+
+Daugiau informacijos žr. [Apsaugos nuo pašto šiukšlių strategijų konfigūravimas EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
