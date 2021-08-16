@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064212"
 ---
-# <a name="cant-get-verification-codes"></a>Negalite gauti patvirtinimo kodų
+# <a name="cant-get-verification-codes"></a>Negaliu gauti patvirtinimo kodų
 
-Jei negalite pasiekti alternatyvaus elektroninio pašto arba telefono numerio, eikite į savo "Microsoft" paskyros [saugos pagrindų](https://account.microsoft.com/security) puslapį, prisijungimo puslapyje pasirinkite Neturiu **nė vieno iš** jų ir vadovaukitės instrukcijomis, kaip pakeisti savo saugos informaciją.
+Jei negalite pasiekti alternatyvaus el. pašto arba telefono [](https://account.microsoft.com/security) numerio, eikite  į savo "Microsoft" paskyros puslapį Saugos pagrindai, prisijungimo puslapyje pasirinkite Neturiu jų ir vykdykite nurodymus, kad pakeistumėte savo saugos informaciją.
 
-*Pastaba:* ["Microsoft authenticator" programai](https://go.microsoft.com/fwlink/?linkid=2016117) nereikia interneto ryšių, kad būtų galima pateikti patvirtinimo kodą.
+*Pastaba:* ["Microsoft Authenticator"](https://go.microsoft.com/fwlink/?linkid=2016117) programai nereikia interneto ryšio, kad būtų galima pateikti patvirtinimo kodą.
 
-Norėdami sužinoti daugiau, skaitykite ["Microsoft" paskyros saugos informaciją ir patvirtinimo kodus](https://support.microsoft.com/help/12428/).
+Norėdami sužinoti daugiau, skaitykite ["Microsoft" paskyros saugos informaciją ir patvirtinimo kodus.](https://support.microsoft.com/help/12428/)

@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096738"
 ---
 # <a name="onedrive-puid-mismatch"></a>"OneDrive" PUID neatitikimas
 
-Pasirodo, kad "OneDrive" verslui yra [ID neatitikimas](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) . Kad galėtume jums padėti anksčiausiai, atlikite šiuos veiksmus:
+Atrodo, kad susiduriate su [ID neatitikimu "OneDrive" verslui.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) Norėdami suteikti mums galimybę padėti jums anksčiausiai, atlikite šiuos veiksmus:
 
-1. Spustelėkite  **kreipkitės į palaikymo tarnybą**, tada –  **nauja tarnybos užklausa**.
-2. Palikite pavadinimą ir aprašą kaip  **"OneDrive" svetainės vartotojo ID nesutapimą**.
-3. Kai bilietas bus pateiktas, atnaujinkite jį su šia informacija:
-    - Paveiktas "OneDrive" svetainės URL.
-    - Paveikto vartotojo vartotojo vardą (UPN).
+1. Spustelėkite  **Kreiptis į palaikymo** tarnybą , tada – Nauja tarnybos  **užklausa**.
+2. Palikite pavadinimą ir aprašą **kaip "OneDrive" vartotojo ID neatitikimą.**
+3. Kai bilietas bus pateiktas, atnaujinkite jį šia informacija:
+    - "OneDrive" svetainės URL, kuris yra paveiktas.
+    - Susijusio vartotojo vardas (UPN).
