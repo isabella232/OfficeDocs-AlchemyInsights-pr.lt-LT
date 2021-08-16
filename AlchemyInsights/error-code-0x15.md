@@ -1,5 +1,5 @@
 ---
-title: Klaidos kodas 0x15
+title: Klaidos kodo 0x15
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Jei gaunate klaidą aktyvindami "Office 2013" nuotolinio darbalaukio tarnybų (RDS) diegimus, apsvarstykite galimybę įgalinti ADAL redaguodami registrą.
-ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Jei 2013 m. "Office tarnybų (RDS) diegimų aktyvinimo metu gaunate klaidą, apsvarstykite galimybę įgalinti ADAL redaguodami registrą.
+ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100770"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Klaida aktyvinant "Office 2013" nuotolinio darbalaukio tarnybose
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Klaida aktyvinant 2013 Office. nuotolinio darbalaukio tarnybose
 
-Jei gaunate klaidą aktyvindami "Office 2013" nuotolinio darbalaukio tarnybų (RDS) diegimus, apsvarstykite galimybę įgalinti ADAL redaguodami registrą.
+Jei 2013 m. "Office tarnybų (RDS) diegimų aktyvinimo metu gaunate klaidą, apsvarstykite galimybę įgalinti ADAL redaguodami registrą.
   
-|**Registro raktas**|**Įveskite**|**Reikšmę**|
+|**Registro raktas**|**Tipas**|**Reikšmė**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
+|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Daugiau informacijos rasite " [Office 2013" šiuolaikinės autentifikavimo įgalinimas "Windows" įrenginiuose](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+Daugiau informacijos žr. [2013 m. Office autentifikavimo įgalinimo Windows įrenginiuose.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  "ADAL" įgalintas pagal numatytuosius "Microsoft" 365 "Enterprise" ir "Office 2016" programose. Nuotolinio darbalaukio tarnybos (RDS) anksčiau buvo pavadintos terminalų tarnybomis.
+>  Pagal numatytuosius nustatymus ADAL įjungiama "Microsoft 365" programos įmonėms 2016 Office. Nuotolinio darbalaukio tarnybos (RDS) anksčiau buvo pavadintos terminalo paslaugomis.
   

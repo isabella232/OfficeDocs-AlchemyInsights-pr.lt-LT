@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233542"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031414"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>""Microsoft 365" programos
 
@@ -27,7 +27,7 @@ Centralizuotas diegimas yra rekomenduojamas būdas diegti Office papildinių var
 **Pastaba:** Norėdami įdiegti papildinių, Office kaip atskiras vartotojas, žr. Papildinių rodymas, valdymas [ir diegimas Office programose.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Taip pat įsitikinkite, kad įgalintas Office parduotuvės papildinių įsigijimas. Daugiau informacijos [žr. Priedų atsisiuntimų išjungimas](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)išjungus "Office" parduotuvę visuose klientuose (išskyrus Outlook) .
 
 1. Įsitikinkite, kad jūsų aplinka atitinka papildinių diegimo naudojant centralizuotą diegimą reikalavimus. Daugiau informacijos žr. [Reikalavimai](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. Eikite **Parametrai** Integruotos programos Gaukite programėlių  >    >   Microsoft 365 administravimo centre, kad diegdami papildiniai. 
+2. Eikite **Parametrai** Integruotas programas Gaukite  >    >   programėlių "Microsoft 365" administravimo centras ir įdiekite papildinių. 
 
 Pastabos: 
 
@@ -46,6 +46,6 @@ Daugiau informacijos rasite:
 [Papildiniai diegiami administravimo centre](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Papildiniai administravimo centre](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Centralizuoto diegimo "PowerShell" "cmdlet" naudojimas papildinių valdymas](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Publikavimas Office papildiniai naudojant centralizuotą diegimą Microsoft 365 administravimo centre](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Publikuoti Office papildiniai naudojant centralizuotą diegimą naudojant "Microsoft 365" administravimo centras](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [Trikčių šalinimas: vartotojas nematote papildiniai](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Vartotojo klaidų šalinimas naudojant Office papildiniai](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
