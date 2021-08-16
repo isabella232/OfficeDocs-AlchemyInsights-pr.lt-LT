@@ -1,5 +1,5 @@
 ---
-title: Kalbos/IP filtro strategijos taisymas
+title: Kalbos / IP filtro strategijos taisymas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017104"
 ---
-# <a name="fix-languageip-filter-policy"></a>Kalbos/IP filtro strategijos taisymas
+# <a name="fix-languageip-filter-policy"></a>Kalbos / IP filtro strategijos taisymas
 
-Jūsų nuomotojuje esanti "anti-spam" strategija paveikė šį pranešimą. Norėdami peržiūrėti strategiją, atlikite šiuos veiksmus:
+Šis pranešimas paveikė pasirinktinę nuomotojo apsaugos nuo pašto šiukšlių strategiją. Norėdami peržiūrėti strategiją, atlikite šiuos veiksmus:
 
-1. Eikite į " [Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143), tada eikite į **grėsmių valdymo**  >  **strategija**  >  [apsauga nuo pašto šiukšlių](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Skirtuke **Pasirinktinai** pasirinkite **numatytąjį pašto šiukšlių filtravimo strategiją** arba kitą pasirinktinę strategiją, kurią galbūt sukūrėte, tada pasirinkite **Redaguoti strategiją**.
-3. Išplėskite parinktį **tarptautinė pašto šiukšlių** ir peržiūrėkite parametrus.
+1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143), tada eikite į **Grėsmių valdymo strategija** Apsauga  >  **nuo** pašto  >  [šiukšlių](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Skirtuke **Pasirinktinis** pasirinkite numatytojo pašto šiukšlių **filtro strategiją** arba bet kurią kitą pasirinktinę strategiją, kurią galėjote sukurti, tada pasirinkite Redaguoti **strategiją**.
+3. Išplėskite **parinktį Tarptautiniai pašto** šiukšlės ir peržiūrėkite parametrus.
 
-Daugiau informacijos apie pašto šiukšlių filtravimo strategijų konfigūravimą rasite [pasirinktinio pašto šiukšlių filtravimo strategijos parametrų konfigūravimas](https://go.microsoft.com/fwlink/?linkid=2101054).
+Daugiau informacijos apie pašto šiukšlių filtro strategijų konfigūravimą žr. [Pasirinktinių pašto šiukšlių filtro strategijos parametrų konfigūravimas](https://go.microsoft.com/fwlink/?linkid=2101054).

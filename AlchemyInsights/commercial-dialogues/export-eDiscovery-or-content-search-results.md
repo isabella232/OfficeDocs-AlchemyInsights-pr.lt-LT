@@ -1,5 +1,5 @@
 ---
-title: Eksportuokite elektroninės aptikimo/turinio ieškos rezultatus
+title: El. duomenų aptikimo / turinio ieškos rezultatų eksportavimas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988119"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>Eksportuokite elektroninės aptikimo/turinio ieškos rezultatus
+# <a name="export-ediscoverycontent-search-results"></a>El. duomenų aptikimo / turinio ieškos rezultatų eksportavimas
 
-Gali reikėti eksportuoti ieškos rezultatus į PST failą (iš el. laiško) arba į vietinius "Office" dokumentus (iš "SharePoint" ir "OneDrive" verslui svetainių). Jei taip, atlikite šiuos veiksmus:
+Gali tekti eksportuoti ieškos rezultatus į PST failą (iš el. pašto) arba į vietinius Office dokumentus (iš SharePoint ir "OneDrive" verslui svetainių). Jei taip, atlikite šiuos veiksmus:
 
-- Įsitikinkite, kad paskyrai priskirtos tinkamos teisės eksportuoti. Daugiau informacijos ieškokite " [elektroninės aptikimo" teisių priskyrimas](https://go.microsoft.com/fwlink/?linkid=2102406).
-- Įsitikinkite, kad jūsų kompiuteris atitiko visas [būtinąsias sąlygas](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Palaikomos ne visos naršyklės, pvz., "Chrome".
-- Norėdami eksportuoti iš turinio ieškos: a. Eikite į [saugos & atitikties centrą](https://protection.office.com/contentsearch) ir spustelėkite **Ieškoti**, tada pasirinkite **turinio ieška**. Puslapyje **turinio ieška** pasirinkite įrašytą iešką.
-    b. Išsamios informacijos srityje, dalyje **eksportuoti rezultatus į kompiuterį**, pasirinkite **pradėti eksportavimą**. Jei eksportuojate daugiau nei 100 k pašto dėžučių, turite naudoti "PowerShell", kad atsisiųstumėte eksportavimo rezultatus. Daugiau informacijos ieškokite [rezultatų eksportavimas iš daugiau nei 100 k pašto dėžučių](https://go.microsoft.com/fwlink/?linkid=2143861).
+- Įsitikinkite, kad paskyrai priskirtos tinkamos teisės eksportuoti. Daugiau informacijos [žr. El. duomenų aptikimo teisių priskyrimas](https://go.microsoft.com/fwlink/?linkid=2102406).
+- Įsitikinkite, kad jūsų kompiuteris atitiko visas [būtinas sąlygas.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Palaikomos ne visos naršyklės, pvz., "Chrome".
+- Norėdami eksportuoti iš turinio ieškos: a. Eikite [į saugos & ir](https://protection.office.com/contentsearch) spustelėkite **Ieškoti**, tada pasirinkite **Turinio ieška**. Turinio **ieškos puslapyje** pasirinkite įrašytą iešką.
+    b. Srities Išsami informacija dalyje **Eksportuoti rezultatus į kompiuterį pasirinkite** Pradėti **eksportuoti**. Jei eksportuojate daugiau nei 100 K pašto dėžutes, norėdami atsisiųsti eksportavimo rezultatus, turėsite naudoti "PowerShell". Daugiau informacijos žr. [Rezultatų eksportavimas iš daugiau nei 100K pašto dėžučių](https://go.microsoft.com/fwlink/?linkid=2143861).
 
-Jei norite sužinoti daugiau, žiūrėkite [eksportuoti turinio ieškos rezultatus](https://go.microsoft.com/fwlink/?linkid=2102118).
+Norėdami sužinoti daugiau, [žr. Turinio ieškos rezultatų eksportavimas](https://go.microsoft.com/fwlink/?linkid=2102118).

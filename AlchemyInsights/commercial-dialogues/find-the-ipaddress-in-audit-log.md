@@ -1,5 +1,5 @@
 ---
-title: IP adreso radimas audito logijoje
+title: IP adreso radus audito žurnale
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7a01aa3cc0d875e6534435f3e8f90a24f2832dc3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017140"
 ---
-# <a name="find-the-ip-address-in-audit-log"></a>IP adreso radimas audito logijoje
+# <a name="find-the-ip-address-in-audit-log"></a>IP adreso radus audito žurnale
 
-1. IP adresas, atitinkantis vartotojo arba administratoriaus vykdomą veiklą, rodomas audito žurnaluose. Taip pat užregistruojamas kliento informacija. Štai kaip nustatyti IP adresą:
+1. IP adresas, atitinkantis vartotojo arba administratoriaus atliekamą veiklą, rodomas audito žurnaluose. Kliento informacija taip pat užregistruojama. Štai kaip nustatyti IP adresą:
 
-1. Eikite į " [Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pasirinkite **ieškos**  >  **[audito žurnalų ieška](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Pasirinkite **Ieškoti**  >  **[audito žurnalo ieškos](https://go.microsoft.com/fwlink/?linkid=2103759)**.
     > [!NOTE]
-    > Jei matote pranešimą, kad turite įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįgalinta, ieškos rezultatai negalės ištraukti ankstesnių datų duomenų.
-1. Jei jus domina konkreti veikla, pasirinkite ją iš sąrašo **veikla** ; Priešingu atveju, pagal numatytuosius, visi veiksmai bus grąžinti pasirinktam vartotojui. Atminkite, kad tam tikra veikla gali būti neprieinama pasirenkant meniu **veikla** ; Tačiau šie audito elementai bus pateikti, jei pažymėtas **visos veiklos rezultatų rodymas** (numatytasis parametras).
-1. Nurodykite datų intervalą ir lauke **vartotojai** pasirinkite vartotojo, kurį norite tirti, vartotojo vardą.
-1. Pasirinkite **Ieškoti**. Veikla rodoma dalyje **rezultatai**. Galite peržiūrėti kiekvienos veiklos IP adresą.
-1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą, tada pasirinkite **daugiau informacijos**.
+    > Jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįgalinta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
+1. Jei jus domina konkreti veikla, pasirinkite ją iš **sąrašo Veikla;** kitu atveju pagal numatytuosius nustatymus visos pasirinkto vartotojo veiklos bus grąžintos. Atkreipkite dėmesį, kad tam tikros veiklos gali būti negalimos pasirinkti iš **meniu** Veikla; tačiau šie audito elementai bus grąžinti, jei **pasirinkta Rodyti visų veiklų** rezultatus (numatytasis parametras).
+1. Nurodykite datos diapazoną ir **lauke** Vartotojai pasirinkite vartotojo, kurį norite ištirti, vartotojo vardą.
+1. Pasirinkite **Ieškoti**. Veikla rodoma dalyje **Rezultatai**. Galite matyti kiekvienos veiklos IP adresą.
+1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą, tada pasirinkite **Daugiau informacijos**.
 
-Norėdami sužinoti daugiau, skaitykite " [Office 365" audito žurnalų ieška, kad išspręstumėte įprastus scenarijus](https://go.microsoft.com/fwlink/?linkid=2103944).
+Norėdami sužinoti daugiau, žr. Office 365 [žurnalo trikčių šalinimas.](https://go.microsoft.com/fwlink/?linkid=2103944)

@@ -1,5 +1,5 @@
 ---
-title: Jūsų MDM institucija nenustatyta
+title: Jūsų MDM institucija nėra nustatyta
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046688"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Jūsų MDM institucija nenustatyta
+# <a name="your-mdm-authority-is-not-set"></a>Jūsų MDM institucija nėra nustatyta
 
-Šio nuomotojo mobiliojo įrenginio valdymo (MDM) tarnyba nenustatyta. Turite nustatyti MDM, prieš pradėdami ir valdydami įrenginius naudodami "Intune" MDM. Nustatydami MDM tarnybą negalėsite naudoti "Intune" MDM funkcijų. MDM institucijos parametras nustato, kaip valdyti įrenginius.
+Šio nuomotojo mobiliųjų įrenginių valdymo (MDM) institucija nėra nustatyta. Turite nustatyti MDM instituciją prieš užregistruodami ir valdydami įrenginius naudodami "Intune MDM". Nenustatę MDM institucijos negalėsite naudoti "Intune" MDM funkcijų. MDM institucijos parametras nustato, kaip valdote savo įrenginius.
 
 Rekomenduojami veiksmai:
-1. Pereikite prie "Intune" įtraukimo apžvalgos disko, kad nustatytumėte MDM tarnybą.
-2. Pasirinkite reikiamą instituciją pagal jūsų administracinius poreikius. Daugiau informacijos ieškokite [straipsnyje mobiliojo įrenginio valdymo institucijos nustatymas](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Eikite į "Intune" registracijos apžvalgos ašmenį, kad nustatytų MDM instituciją.
+2. Pasirinkite atitinkamą instituciją pagal savo administracinius poreikius. Daugiau informacijos žr. [Straipsnyje Mobiliųjų įrenginių valdymo institucijos straipsnio nustatykite](https://docs.microsoft.com/intune/mdm-authority-set).

@@ -1,5 +1,5 @@
 ---
-title: Kaip atnaujinti "Azure" portalo pirkimo užsakymo numerį
+title: Kaip atnaujinti pirkimo užsakymo numerį "Azure" portale
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028804"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Kaip atnaujinti "Azure" portalo pirkimo užsakymo numerį
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Kaip atnaujinti pirkimo užsakymo numerį "Azure" portale
 
-Galite atnaujinti pirkimo užsakymo (PU) numerį "Azure" portale. Norėdami tai padaryti, turite turėti savininko arba bendraautorio vaidmenį "Microsoft" kliento sutarties (MCA) atsiskaitymo sąskaitoje. 
+Galite atnaujinti pirkimo užsakymo (PU) numerį "Azure" portale. Norėdami tai padaryti, turite turėti savininko arba bendraautorių vaidmenį "Microsoft" kliento sutarties (MCA) atsiskaitymo paskyroje. 
 
-Jei norite atnaujinti savo PU numerį:
-1. Prisijunkite prie "Azure" portalo ir eikite į **išlaidų valdymas + atsiskaitymas**.
-1. Spustelėkite **atsiskaitymo profiliai** ir pasirinkite atsiskaitymo profilį, kad ATNAUJINTUMĖTE PU numerį.
-1. Spustelėkite **Ypatybės** ir pasirinkite **atnaujinti po numerį**. 
+Norėdami atnaujinti PU numerį:
+1. Prisijunkite prie "Azure" portalo ir eikite **į Išlaidų valdymas + Atsiskaitymas**.
+1. Spustelėkite **Atsiskaitymo profiliai ir** pasirinkite atsiskaitymo profilį, kad atnaujinumėte PU numerį.
+1. Spustelėkite **Ypatybės** ir pasirinkite **Naujinti PU numerį.** 
 
-**Rekomenduojami dokumentai**
+**Rekomenduojama dokumentacija**
 
-- ["MCA" sąskaitos faktūros supratimas](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [MCA sąskaitos faktūros supratimas](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 - [Atsiskaitymo paskyros parametrų naujinimas](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
