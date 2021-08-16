@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 88525fccd6dcde0cb3949e348d1f2a7df3ee7ce7
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52793896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098070"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Saugos "Microsoft Intune" naudojimas norint konfigūruoti Windows 10 įrenginius
 
 "Intune" saugos bazinės linijos padeda apsaugoti vartotojus ir įrenginius. Saugos bazinės linijos yra Windows parametrai iš anksto sukonfigūruotos grupės, naudojamos norint taikyti žinomų parametrų grupę ir numatytąsias reikšmes, kurias rekomenduoja atitinkamos saugos komandos. Sukurdami saugos bazinį profilį "Intune", sukuriate šabloną, kurį sudaro keli įrenginio konfigūracijos profiliai.
 
-Kai diegiate saugos bazines linijas vartotojų arba įrenginių grupėms, parametrai taikomi įrenginiams, veikiaems Windows 10 arba naujesnėse versijose. Pvz., "Microsoft" mobiliųjų įrenginių valdymo (MDM) saugos bazinė linija automatiškai įgalina ""BitLocker"" keičiamiesiems diskams, reikalingas įrenginio atrakinimo slaptažodis ir išjungiamas bazinis autentifikavimas. Kai numatytoji reikšmė neveikia jūsų aplinkoje, galite tinkinti bazinę liniją, kad pritaikytų norimus parametrus.
+Kai diegiate saugos bazines linijas vartotojų arba įrenginių grupėms, parametrai taikomi įrenginiams, veikiaems Windows 10 arba naujesnėse versijose. Pvz., "Microsoft" mobiliųjų įrenginių valdymo (MDM) saugos bazinė linija automatiškai įgalina "BitLocker" keičiamiesiems diskams, reikalauja slaptažodžio įrenginiui atrakinti ir išjungia bazinį autentifikavimą. Kai numatytoji reikšmė neveikia jūsų aplinkoje, galite tinkinti bazinę liniją, kad pritaikytų norimus parametrus.
 
 Saugos bazinės linijos taip pat padeda sukurti saugią darbo eigą Microsoft 365. Saugos bazinė linija apima geriausias saugos parametrų praktikas ir rekomendacijas. Intune partners with the Windows team that creates baselines for group policies, so these recommendations are based on solid guidance and extensive experience.
 
