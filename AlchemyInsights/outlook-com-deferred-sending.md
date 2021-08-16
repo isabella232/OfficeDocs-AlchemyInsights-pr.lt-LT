@@ -1,5 +1,5 @@
 ---
-title: Atidėtas siuntimas naudojant "Outlook.com"
+title: Atidėtas siuntimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041414"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Atidėti arba planuoti laiškų siuntimą
+# <a name="delay-or-schedule-sending-email-messages"></a>El. laiškų siuntimo atidėjimas arba planavimas
 
-Atsiprašome, bet negalite atidėti arba suplanuoti laiškų siuntimo mobiliųjų įrenginių programėlėje arba žiniatinklio naršyklėje. Norėdami tai padaryti, naudokite "Outlook", [skirtą "Windows" arba "Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)".
+Atsiprašome, bet negalite atidėti arba suplanuoti el. laiškų siuntimo mobiliųjų įrenginių programėlėje arba žiniatinklio naršyklėje. Norėdami tai padaryti, naudokite ["Outlook" Windows "Outlook", skirtą "Mac".](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Anuliuoti siuntimą**
+**Anuliuoti siuntą**
 
-Galite pakeisti "Outlook.com" parametrus ir atidėti pranešimo siuntimą iki 10 sekundžių. Galite atšaukti pranešimo siuntimą šiuo laikotarpiu. Norėdami įjungti šią funkciją, atidarykite savo [anuliavimo siuntimo](https://outlook.live.com/mail/options/mail/messageContent/undoSend) parametrus.
+Galite pakeisti savo Outlook.com parametrus, kad pranešimas būtų siunčiamas iki 10 sekundžių. Šiuo laikotarpiu galite atšaukti laiško siuntimą. Norėdami įjungti šią funkciją, atidarykite siuntimo [anuliavimo](https://outlook.live.com/mail/options/mail/messageContent/undoSend) parametrus.
 
-Sužinokite daugiau apie [el. laiško priminimus "Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)".
+Sužinokite daugiau [apie el. laiškų atšaukimą Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

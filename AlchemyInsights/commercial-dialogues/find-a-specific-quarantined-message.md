@@ -1,5 +1,5 @@
 ---
-title: Konkretaus sulaikyto laiško radimas
+title: Konkretaus sulaikyto pranešimo radimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3f9bd87a30bc7062afbe39dcc7df19b8eac37741
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967953"
 ---
-# <a name="find-a-specific-quarantined-message"></a>Konkretaus sulaikyto laiško radimas
+# <a name="find-a-specific-quarantined-message"></a>Konkretaus sulaikyto pranešimo radimas
 
 1. Eikite į [saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Eikite į **grėsmių valdymo**  >  **apžvalgos**  >  **Karantinas**.
+2. Eikite į **Grėsmių valdymo**  >  **peržiūros**  >  **karantinas**.
 3. Pasirinkite **Ieškoti**.
-4. Pasirinkite bet kurią sąlygų derinį pažymėdami žymės langelius, esančius prie jų (šiuo metu negalite naudoti pakaitos kortų).
+4. Pasirinkite bet kokį sąlygų derinį pažymėdami šalia jų esančius žymės langelius (šiuo metu negalite naudoti pakaitos simbolių).
