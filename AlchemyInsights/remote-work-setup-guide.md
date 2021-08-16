@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023998"
 ---
 # <a name="remote-work-setup-guide"></a>Nuotolinio darbo sąrankos vadovas
 
-Daugiau ir daugiau darbų atlikta nuotoliniu būdu. Jūsų organizacija turi būti pritaikyta, kad būtų galima valdyti padidėjusią nuotolinio darbo paklausą.
+Vis daugiau darbų atliekama nuotoliniu būdu. Jūsų organizacijos turi būti įrengtos valdyti padidintą nuotolinio darbo poreikį.
 
-Naudokite [nuotolinio darbo sąrankos vadovą](https://go.microsoft.com/fwlink/?linkid=2142062) , kad įgalintumėte esminius saugos požymius ir peržiūrėtumėte papildomas saugos rekomendacijas. Gausite patarimų, kaip sumažinti įtampą VPN infrastruktūroje ir pasirinktinai nustatyti nuotolinę prieigą staliniams ir programėlėms. Tada peržiūrėsite "Microsoft teams" ir "Office" programų diegimo parinktis.
+Norėdami įgalinti [svarbias saugos funkcijas ir peržiūrėti](https://go.microsoft.com/fwlink/?linkid=2142062) papildomas saugos rekomendacijas, naudokite nuotolinės darbo sąrankos vadovą. Gausite patarimų, kaip sumažinti VPN infrastruktūros įtampą ir pasirinktinai nustatyti nuotolinę prieigą prie darbalaukių ir programų. Tada peržiūrėkite savo parinktis, kaip diegti "Microsoft Teams" Office programas.

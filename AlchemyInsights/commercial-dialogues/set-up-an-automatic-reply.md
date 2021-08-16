@@ -1,5 +1,5 @@
 ---
-title: Automatinio atsakymo nustatymas
+title: Automatinio atsakymo konfigūravimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994945"
 ---
-# <a name="set-up-an-automatic-reply"></a>Automatinio atsakymo nustatymas
+# <a name="set-up-an-automatic-reply"></a>Automatinio atsakymo konfigūravimas
 
-Naudokite automatinius atsakymus, jei norite, kad žmonės, kurie siunčia jums laišką, žinotų, jog jūs iš karto neatsakysite į jų laiškus. Įjungus automatinius atsakymus, jie bus nusiųsti kiekvienam siuntėjui.
+Naudokite automatinius atsakymus, kai norite pranešti jums el. laiškus siunčiantiems žmonėms, kad iš karto neatsakysite į jų laiškus. Įjungę automatinius atsakymus, jie bus išsiųsti vieną kartą kiekvienam siuntėjui.
 
-1. Prisijunkite prie "Outlook.com".
-2. Naršymo juostoje pasirinkite **Parametrai**  >  **nustatyti automatinius atsakymus**. Jei **Automatinis atsakymų nustatymas** nerodomas, pasirinkite **parametrų**  >  **parinktys**  >  **automatiniai atsakymai**.
-3. Pakeiskite automatinių atsakymų parametrus čia, įskaitant automatinius atsakymus per tam tikrą laikotarpį, išsiųsdami atsakymą visiems organizacijos nariams arba nusiųsdami atsakymą tik organizacijai nepriklausantiems nariams.
+1. Prisijunkite prie Outlook.com.
+2. Naršymo juostoje pasirinkite **Parametrai**  >  **automatinių atsakymų.** Jei **automatinių atsakymų nustatymas** nerodomas, pasirinkite **Parametrai**  >    >  **Automatiniai atsakymai**.
+3. Čia pakeiskite automatinių atsakymų parametrus, įskaitant tik automatinius atsakymus tam tikrą laikotarpį, vieną kartą siųsdami atsakymą visiems organizacijos nariams arba siųsdami atsakymą tik organizacijai nepriklausančiems nariams.

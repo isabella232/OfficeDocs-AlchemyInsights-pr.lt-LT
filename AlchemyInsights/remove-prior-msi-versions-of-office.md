@@ -1,5 +1,5 @@
 ---
-title: Ankstesnių "Office" MSI versijų šalinimas
+title: Ankstesnių MSI versijų pašalinimas iš Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023782"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Ankstesnių "Office" MSI versijų šalinimas
+# <a name="remove-prior-msi-versions-of-office"></a>Ankstesnių MSI versijų pašalinimas iš Office
 
-Rekomenduojame pašalinti ankstesnes "Windows Installer" (MSI) "Office" versijas prieš diegiant "Office 365 ProPlus". Štai kaip tai padaryti:
+Prieš diegdami "Windows" rekomenduojame pašalinti ankstesnes "Office" diegimo programos (MSI) Office 365 ProPlus. Štai kaip tai padaryti:
 
-1. Jei naudojote MSI, kad įdiegtumėte "Office", galite naudoti "Office" diegimo įrankį (ODT), kad pašalintumėte "Office". Galite naudoti "RemoveMSI" elementą **configuration.xml** faile.
-1. Vadovaukitės šiame straipsnyje pateikiamais nurodymais: " [Office 365" saugos & atitikties centras.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Jei MSI naudojote norėdami įdiegti Office, galite naudoti Office diegimo įrankį (ODT), kad pašalintumėte Office. Galite naudoti "RemoveMSI" elementą savo **configuration.xml** faile.
+1. Vykdykite šiame straipsnyje nurodytus nurodymus: [Office 365 saugos & centras.](https://go.microsoft.com/fwlink/p/?linkid=2077143)

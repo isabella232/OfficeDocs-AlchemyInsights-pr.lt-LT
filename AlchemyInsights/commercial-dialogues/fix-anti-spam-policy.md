@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988267"
 ---
 # <a name="fix-anti-spam-policy"></a>Apsaugos nuo pašto šiukšlių strategijos taisymas
 
-Jūsų nuomotojuje esanti "anti-spam" strategija paveikė šį pranešimą. Norėdami peržiūrėti strategiją, atlikite šiuos veiksmus:
+Šis pranešimas paveikė pasirinktinę nuomotojo apsaugos nuo pašto šiukšlių strategiją. Norėdami peržiūrėti strategiją, atlikite šiuos veiksmus:
 
-1. Eikite į " [Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143), tada eikite į **grėsmių valdymo**  >  **strategija**  >  [apsauga nuo pašto šiukšlių](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Skirtuke **Pasirinktinai** pasirinkite **numatytąjį pašto šiukšlių filtravimo strategiją** arba kitą pasirinktinę strategiją, kurią galbūt sukūrėte, tada pasirinkite **Redaguoti strategiją**.
-3. Išplėskite parinktį **pašto šiukšlių ypatybės** ir peržiūrėkite **žymės langelį kaip šlamšto** parametrus.
+1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143), tada eikite į **Grėsmių valdymo strategija** Apsauga  >  **nuo** pašto  >  [šiukšlių](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Skirtuke **Pasirinktinis** pasirinkite numatytojo pašto šiukšlių **filtro strategiją** arba bet kurią kitą pasirinktinę strategiją, kurią galėjote sukurti, tada pasirinkite Redaguoti **strategiją**.
+3. Išplėskite **pašto šiukšlių ypatybes** ir peržiūrėkite pašto **šiukšlių parametrus.**
 
-Daugiau informacijos apie pašto šiukšlių filtravimo strategijų konfigūravimą rasite [pasirinktinio pašto šiukšlių filtravimo strategijos parametrų konfigūravimas](https://go.microsoft.com/fwlink/?linkid=2101054).
+Daugiau informacijos apie pašto šiukšlių filtro strategijų konfigūravimą žr. [Pasirinktinių pašto šiukšlių filtro strategijos parametrų konfigūravimas](https://go.microsoft.com/fwlink/?linkid=2101054).

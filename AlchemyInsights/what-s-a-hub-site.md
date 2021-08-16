@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989815"
 ---
 # <a name="whats-a-hub-site"></a>Kas yra koncentratoriaus svetainė?
 
-Koncentratoriaus svetainė padeda organizuoti svetaines ir suteikti joms bendrą naršymą ir prekės ženklą. Visuotinis arba "SharePoint" administratoriai galės kurti koncentratoriaus svetaines ir nustatyti, kurie vartotojai gali susieti savo svetaines su koncentratoriaus svetaine. Daugiau informacijos ieškokite " [SharePoint Hub" svetainėse](https://go.microsoft.com/fwlink/?linkid=869388).
+Koncentratoriaus svetainė padeda tvarkyti svetaines ir suteikti joms bendrą naršymo ir prekės ženklo ženklą. Visuotiniai arba SharePoint administratoriai galės kurti koncentratoriaus svetaines ir nurodyti, kurie vartotojai gali susieti savo svetaines su koncentratoriaus svetaine. Daugiau informacijos žr. [SharePoint koncentratoriaus svetainėse](https://go.microsoft.com/fwlink/?linkid=869388).
   
