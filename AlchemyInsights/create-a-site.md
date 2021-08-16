@@ -8,23 +8,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: ecbaf5a52a0867893c470f759a030bafea376e34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2aeb4e943311143be7d9c1477c81d9652067a02c739dc258e4187deb79cade7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032314"
 ---
 # <a name="create-a-site"></a>Svetainės kūrimas
 
-- Eikite į ["Microsoft" 365 administravimo centro puslapį svetainės](https://portal.office.com/adminportal/home#/SitesList), tada pasirinkite **įtraukti svetainę**. 
+- Eikite [į puslapio Svetainės "Microsoft 365" administravimo centras](https://portal.office.com/adminportal/home#/SitesList)tada pasirinkite **Įtraukti svetainę**. 
     
-- Naujo "SharePoint" administravimo centro puslapyje svetainės spustelėkite **kurti**. 
+- Naujo administravimo SharePoint puslapyje Svetainės spustelėkite **Kurti**. 
     
-**Pastaba:** Negalite kurti naujos svetainės, kurioje yra tas pats URL su esama svetaine. 
+**Pastaba:** Negalite sukurti naujos svetainės, kurioje yra tas pats URL su esama svetaine. 
   
-Daugiau informacijos apie svetainės kūrimą ieškokite [svetainės kūrimas](https://go.microsoft.com/fwlink/?linkid=866295).
+Daugiau informacijos apie svetainės sukūrimą [žr. Svetainės kūrimas](https://go.microsoft.com/fwlink/?linkid=866295).
   
-Informacijos apie tai, kaip leisti vartotojams kurti savo svetaines, ieškokite [svetainės kūrimo tvarkymas "SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296)".
+Informacijos, kaip leisti vartotojams kurti savo svetaines, žr. [Svetainės kūrimo valdymas "SharePoint Online".](https://go.microsoft.com/fwlink/?linkid=866296)
   
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 73fd2b032ebad1990e5ee68e460d0a07305d984a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7cffda69019dc720ae8e49b59636bd13277abf1d57c89831a077f4d66b4586a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033754"
 ---
 # <a name="using-intune-admin-console"></a>"Intune" administravimo konsolės naudojimas
 
-Štai keletas įprastų "Intune" administravimo konsolės užduočių:
+Toliau pateikiame keletą dažnai pasitaikančių užduočių "Intune" administravimo konsolėje:
 
-- ["Intune" nustatymas](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Vadovėlis: "Microsoft Intune" žingsnis į "Azure" portalą](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
-- [Naudokite trikčių diagnostikos portalą, kad padėtumėte vartotojams įmonėje](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
-- ["Microsoft Intune" duomenų saugyklos naudojimas ataskaitoms patobulinti ir tinkinti](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)
+- ["Intune" nustatyti](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Vadovėlis: "Azure"Microsoft Intune" portalo ""Microsoft Intune"" apžvalga](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
+- [Trikčių diagnostikos portalo naudojimas siekiant padėti vartotojams įmonėje](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Duomenų "Microsoft Intune" naudojimas ataskaitoms tobulinti ir tinkinti](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)

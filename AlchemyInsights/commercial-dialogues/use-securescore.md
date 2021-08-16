@@ -1,5 +1,5 @@
 ---
-title: Naudokite SecureScore
+title: "\"SecureScore\" naudojimas"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033790"
 ---
-# <a name="use-securescore"></a>Naudokite SecureScore
+# <a name="use-securescore"></a>"SecureScore" naudojimas
 
-Saugus rezultatas yra saugos analizės įrankis, kuris rekomenduoja, ką galite padaryti, kad dar labiau sumažintumėte riziką. Saugus įvertinimas atsižvelgia į jūsų "Office" 365 parametrus ir veiklas ir lygina juos su "Microsoft" nustatyta pagrindine linija. Gausite rezultatą atsižvelgdami į tai, kaip suderinta su geriausia saugos praktika.
+Saugos balas yra saugos analizės įrankis, kuris rekomenduoja, ką galite daryti, kad dar labiau sumažintumėte riziką. "Secure Score" žiūri į Office 365 parametrus ir veiklą ir palygina juos su "Microsoft" nustatyta bazine linija. Gausite rezultatą pagal tai, kaip sulygiavote su geriausia saugos praktika.
 
-Norite išbandyti saugią balą? Kai esate prisijungę prie "Office 365" kaip visuotinis administratorius, eikite į [SecureScore.com.](https://securescore.office.com/)
+Norite išbandyti saugų rezultatą? Kai esate prisijungę prie "Office 365 kaip visuotinis administratorius, eikite [į SecureScore.com.](https://securescore.office.com/)

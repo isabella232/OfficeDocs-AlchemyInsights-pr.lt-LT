@@ -1,5 +1,5 @@
 ---
-title: Duomenų aptikimo parametrai
+title: Ediscovery settings
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101238"
 ---
-# <a name="ediscovery-settings"></a>Duomenų aptikimo parametrai
+# <a name="ediscovery-settings"></a>Ediscovery settings
 
-"elektroninės aptikimo"/turinio ieškos leidžia ieškoti, laikyti ir eksportuoti turinį iš "Exchange Online" pašto dėžučių, "SharePoint Online" ir "OneDrive" verslui svetainių, "Skype" verslui pokalbių, "Microsoft teams" ir "Microsoft 365 Groups".
+El. duomenų aptikimas / turinio ieškos leidžia ieškoti, laikyti ir eksportuoti turinį iš "Exchange Online" pašto dėžučių, "SharePoint Online" ir ""OneDrive" verslui" svetainių, ""Skype" verslui" pokalbių, "Microsoft Teams" ir "Microsoft 365" grupių.
 
-- Jei ieškote meniu parinkčių "elektroninės aptikimo" arba "turinio ieška", ieškokite " [elektroninės aptikimo" problemos](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Sužinokite apie teises, būtinas atliekant iešką "" Udiscovery "iš [teisių, reikalingų" Indiscovery "paieškai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Jei ieška negrąžina laukiamų rezultatų, ieškokite [ieškos negrąžinti laukiamų rezultatų](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Jei ieškote el. duomenų aptikimo arba turinio ieškos meniu parinkčių, žr. [El. duomenų aptikimo problemos](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Sužinokite apie teises, reikalingas el. duomenų aptikimo ieškai atlikti iš teisių, [reikalingų el. duomenų aptikimo ieškai.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Jei jūsų ieška negrąžina laukiamų rezultatų, žr. [Ieška negrąžinant laukiamų rezultatų](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Daugiau informacijos apie "udiscovery" ieškokite " [sediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)".
+Daugiau informacijos apie ediscovery žr. [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
