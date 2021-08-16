@@ -1,5 +1,5 @@
 ---
-title: Pašto vėlavimas siunčiant į "Office 365"
+title: Pašto delsa siunčiant į Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 0f33b4987e11680e5e853b7b747b93767094b8ac
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099186"
 ---
-# <a name="mail-delays-when-sending-to-office-365"></a>Pašto vėlavimas siunčiant į "Office 365"
+# <a name="mail-delays-when-sending-to-office-365"></a>Pašto delsa siunčiant į Office 365
 
-Jei nukreipiate paštą per įrodymų punktą ar kitas "SendMail" pranešimų sistemas ir patiriate vėlavimą siųsti laiškus į "Exchange Online", Peržiūrėkite šį straipsnį: [įrodymų apie įrodymų apsaugą pašto apsauga su "Exchange Online" konfigūravimas](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange).
+Jei nukreipiate paštą per "ProofPoint" arba kitas "SendMail" pranešimų sistemas ir vėluojate siųsti laiškus į "Exchange Online", žr. šį straipsnį: ["Proofpoint"](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)el. pašto apsaugos konfigūravimas naudojant "Exchange Online".
 
-Naudokite šią problemą, kad sukonfigūruotumėte pokyčius, padėsiančius išspręsti pašto vėlavimo problemas.
+Naudokite tai norėdami padėti konfigūruoti keitimus, kad būtų galima išspręsti pašto delsos problemas.

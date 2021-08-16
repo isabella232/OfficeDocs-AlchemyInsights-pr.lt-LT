@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024538"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Vidinio serverio klaidos "Outlook.com"
+# <a name="internal-server-errors-in-outlookcom"></a>Vidinės serverio klaidos "Outlook.com"
 
-O ne! Jei matote pranešimą "klaida 500" arba "vidinė serverio klaida", tai mums, o ne jūs – Atsiprašome.
+O ne! Jei matote pranešimą "Klaida 500" arba pranešimą "Vidinė serverio klaida", tai mes, o ne jūs, atsiprašome.
 
-Peržiūrėkite " [Office" tarnybos būsenos puslapį](https://portal.office.com/servicestatus) , kad įsitikintumėte, jog nėra nieko, bet geriausias sprendimas – atlikti keletą minučių pertrauką, tada atnaujinti naršyklę paspausdami **Ctrl** ir **F5**.
+Peržiūrėkite [puslapį "Office"](https://portal.office.com/servicestatus) tarnybos būsena, kad įsitikintumėte, jog niekas daugiau neįeina, tačiau geriausias sprendimas yra kelias minutes padaryti pertrauką, tada atnaujinti naršyklę paspaudus **CTRL** ir **F5**.

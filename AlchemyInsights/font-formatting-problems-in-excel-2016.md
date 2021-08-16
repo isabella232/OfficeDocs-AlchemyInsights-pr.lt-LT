@@ -1,5 +1,5 @@
 ---
-title: Šriftų formatavimo problemos programoje "Excel" 2016
+title: Šrifto formatavimo problemos Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068208"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Šriftų formatavimo problemos programoje "Excel"
+# <a name="font-formatting-problems-in-excel"></a>Šrifto formatavimo problemos Excel
 
-Programoje "Excel" 2016 šrifto formatavimas gali būti nerodomas tinkamai langelyje. Taip gali nutikti, jei langelyje yra daugiau nei vienas šrifto formatavimas. Pavyzdžiui, jei kai kurie simboliai yra paryškinti, o kiti neparyškinti, gali būti nerodomas Paryškintasis formatas. Arba jei turite skirtingų spalvotų simbolių tame pačiame langelyje, galite nematyti, kad spalvos būtų rodomos tinkamai. Mūsų inžinierių komanda žino apie šią problemą ir šiuo metu dirba pataisymą. Tuo tarpu bandykite naudoti kitą šriftą. Arba bandykite vengti naudoti kelių tipų formatavimą tame pačiame langelyje, kol ši problema bus išspręsta.
+Jei Excel 2016, šrifto formatavimas gali būti netinkamai rodomas langelyje. Taip gali nutikti, jei langelyje yra daugiau nei vienos rūšies šrifto formatavimas. Pvz., jei kai kurie simboliai yra paryškinti, o kiti – ne paryškinti, gali būti nerodomas paryškintasis formatas. Arba jei tame pačiame langelyje yra skirtingų spalvotų simbolių, gali būti, kad spalvos rodomos netinkamai. Mūsų inžinierių komanda žino apie šią problemą ir šiuo metu dirba su pataisomis. Tuo tarpu pabandykite naudoti kitą šriftą. Arba stenkitės nenaudoti kelių tipų formatavimo tame pačiame langelyje, kol ši problema bus išspręsta.
   

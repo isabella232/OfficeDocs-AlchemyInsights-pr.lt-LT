@@ -1,5 +1,5 @@
 ---
-title: "\"Windows Update\" klaidų taisymas"
+title: Naujinimo Windows taisymas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068280"
 ---
-# <a name="fix-windows-update-errors"></a>"Windows Update" klaidų taisymas
+# <a name="fix-windows-update-errors"></a>Naujinimo Windows taisymas
 
-Jei atsisiųsdami ir diegdami "Windows" naujinimą gaunate klaidos kodą, naujinimo **trikčių** diagnostikos priemonė gali padėti išspręsti šią problemą.
+Jei atsisiųsdami ir diegdami "Windows" naujinimą gaunate klaidos kodą, naujinimo **trikčių** diagnostikos priemonė gali padėti išspręsti problemą.
 
-- ["Windows 10" naujinimo trikčių diagnostikos priemonės atsisiuntimas](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Paleiskite trikčių diagnostikos priemonę. Kai tai bus atlikta, geriausia iš naujo paleisti įrenginį. Tada patikrinkite, ar yra naujų naujinimų, nueikite [į > Parametrai > "Windows Update" & saugos > "Windows Update".](ms-settings:windowsupdate)
+- [Atsisiųsti naujinimo trikčių diagnostikos priemonę, Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Paleiskite trikčių diagnostikos priemonę. Kai tai bus atlikta, geriausia iš naujo paleisti įrenginį. Tada patikrinkite, ar yra naujų naujinimų, [nueikite į > Parametrai > Naujinimo & saugos > Windows naujinimas.](ms-settings:windowsupdate)
 
-Jei jie vis dar neveikia, peržiūrėkite ["Windows Update": DUK, jei](https://support.microsoft.com/help/12373/windows-update-faq) reikia daugiau informacijos.
+Jei jie vis dar neveikia, peržiūrėkite [Windows: DUK, jei](https://support.microsoft.com/help/12373/windows-update-faq) reikia daugiau informacijos.

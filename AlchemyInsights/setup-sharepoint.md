@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" nustatymas"
+title: Nustatyti SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023458"
 ---
-# <a name="set-up-sharepoint"></a>"SharePoint" nustatymas
+# <a name="set-up-sharepoint"></a>Nustatyti SharePoint
 
-" [SharePoint" sąrankos vadovas](https://go.microsoft.com/fwlink/?linkid=2071425) padeda nustatyti "SharePoint" dokumentų saugyklos ir turinio valdymą, kurti svetaines, konfigūruoti išorinį bendrą naudojimą, perkelti duomenis ir konfigūruoti išplėstinius parametrus bei valdyti vartotojų įtraukimą ir bendravimą jūsų organizacijoje.
+["SharePoint" sąrankos](https://go.microsoft.com/fwlink/?linkid=2071425) vadovas padeda nustatyti "SharePoint" dokumentų saugyklą ir turinio valdymą, kurti svetaines, konfigūruoti išorinį bendrinimą, perkelti duomenis ir konfigūruoti išplėstinius parametrus, taip pat didinti vartotojų įtraukimą ir bendravimą organizacijoje.
 
-Atliksite turinio naudojimo teisių strategijų konfigūravimo veiksmus, pasirinkite perkėlimo sinchronizavimo įrankius ir įgalinkite "SharePoint" aplinkos saugos parametrus.
+Atlikite turinio bendrinimo teisių strategijų konfigūravimo veiksmus, pasirinkite perkėlimo sinchronizavimo įrankius ir įgalinkite savo "SharePoint" aplinkos saugos parametrus.
