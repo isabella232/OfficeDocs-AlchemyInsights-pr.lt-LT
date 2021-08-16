@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" šakninės svetainės keitimas"
+title: Pagrindinės svetainės SharePoint keitimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 45a38259c399eda0ccd79a34af6499cdede8d142f72e7050ee2f774292a62971
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052898"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>"SharePoint" šakninės svetainės keitimas
+# <a name="replace-the-sharepoint-root-site"></a>Pagrindinės svetainės SharePoint keitimas
 Jei norite modernizuoti šakninį puslapį esama svetaine arba tiesiog norite turėti kitą svetainę šakninės svetainės lygiu, galite pasirinkti pakeisti (sukeisti) svetaines.
 
-1. Naudodami naują "SharePoint" administravimo centrą, eikite į [Aktyvios svetainės](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. Naudodami naują administravimo SharePoint, eikite į [Aktyvios svetainės](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
 2. Pasirinkite šakninį puslapį, kurį norite pakeisti.
 3. Pasirinkite **Keisti svetainę**.
 4. Pateikite esamos svetainės url, kurį norite pakeisti. **Pastaba:** Būsite informuoti, ar svetainę galima naudoti kaip pakaitinę šakninį puslapį.
