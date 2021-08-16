@@ -1,5 +1,5 @@
 ---
-title: "\"8000037\" negauna elektroninio pašto \"Outlook.com\""
+title: 8000037 Negausite el. laiškų Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097350"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Negauti laiškų "Outlook.com"
+# <a name="not-receiving-mail-in-outlookcom"></a>Negausite laiškų Outlook.com
 
-Jei negausite elektroninio pašto iš konkretaus siuntėjo, pvz., banko išrašų ar slaptažodžio nustatymo iš naujo, turėsite susisiekti su siuntėju ir pranešti, kad negaunate el. laiško savo "Outlook.com" paskyroje. Paprašykite siuntėjo [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , kur jie gali surasti informacijos apie geriausią praktiką, rekomenduoti trikčių diagnostiką ir saitą, kad galėtumėte susisiekti su mūsų siuntėjo palaikymo komanda.
+Jei negaunate el. laiškų iš konkretaus siuntėjo, pvz., banko išrašų arba slaptažodžio nustatymo iš naujo pranešimų, turėsite susisiekti su siuntėju ir pranešti, kad negaunate el. laiškų savo "Outlook.com" paskyroje. Kreipkitės į siuntėją , kur jis gali rasti informacijos apie geriausią praktiką, rekomenduoti trikčių diagnostiką ir [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) saitą, kad susisiektumėte su mūsų siuntėjų palaikymo komanda.
   
-Jei jūsų "Outlook.com" abonementas iš viso negauna elektroninio pašto, skaitykite " [Outlook.com" el. pašto sinchronizavimo problemų sprendimas](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Jei jūsų Outlook.com paskyra iš viso negauna el. laiškų, žr. ["Outlook.com" el. pašto sinchronizavimo problemų sprendimas](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Automatiškai sukurtos naujos saugojimo žymės
+title: Naujos saugojimo žymos sukurtos automatiškai
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097524"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automatiškai sukurtos naujos saugojimo žymės
+# <a name="new-retention-labels-created-automatically"></a>Naujos saugojimo žymos sukurtos automatiškai
 
-"Security" arba atitikties administravimo centre galite matyti [tris naujas saugojimo žymes](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) **, sukurtas** automatiškai jūsų organizacijoje. Žymų pavadinimai:
+Saugos arba atitikties [administravimo centre dalyje Saugojimo žymos](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) galite matyti tris naujas saugojimo **žymas,** sukurtas automatiškai jūsų organizacijoje. Etikečių pavadinimai:
 
-- Operatyvinė procedūra
-- Verslo generalinis
+- Veikimo procedūra
+- Bendra verslo informacija
 - Sutarties sutartis
 
-Tai įvyks pirmą kartą pasirinkus **failų planą** , jei nėra sukurtų kitų saugojimo žymių. Šios etiketės kuriamos automatiškai ir, jei reikia, jas galima pašalinti, jei jos dar nepritaikytos turiniui. Norėdami pašalinti etiketes:
+Tai įvyks pirmą kartą pasirinkus Failų **planas,** jei nebus sukurta jokių kitų saugojimo žymų. Šios žymos sukuriamos automatiškai ir, jei reikia, gali būti pašalintos, jei jos dar nebuvo taikomos turiniui. Norėdami pašalinti žymas:
 
-1. Saugos arba atitikties administravimo centre pasirinkite **klasifikavimo**  >  **etikečių**  >  **saugojimo** skirtuką.
+1. Saugos arba atitikties administravimo centre pasirinkite **Skirtukas Klasifikacijos**  >    >  **etikečių saugojimas.**
 
-1. Pasirinkite saugojimo etiketes, kurias norite pašalinti > **Naikinti žymę**  >  **taip** , kad panaikintumėte žymę.
+1. Pasirinkite saugojimo žymas, kurias norite pašalinti > **Naikinti etiketę**  >  **Taip,** kad panaikinsite etiketę.
 
-Naudodami failų planų tvarkytuvą, galite tvarkyti savo organizacijos saugojimo etiketes ir strategijas – daugiau informacijos rasite [failų planavimo tvarkytuvo apžvalga](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Naudodami failų planų tvarkytuvą, galite valdyti saugojimo žymas ir strategijas organizacijoje – daugiau informacijos [žr. Failų planų tvarkytuvo apžvalga.](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)

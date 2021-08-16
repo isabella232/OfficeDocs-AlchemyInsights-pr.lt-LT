@@ -1,5 +1,5 @@
 ---
-title: Su atpažinimo ženklų reikalavimais ir atributais susijusios problemos
+title: Atpažinimo ženklų pretenzijų ir atributų problemos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012892"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Su atpažinimo ženklų reikalavimais ir atributais susijusios problemos
+# <a name="issues-with-token-claims-and-attributes"></a>Atpažinimo ženklų pretenzijų ir atributų problemos
 
-**Atpažinimo ženklų reikalavimų naujinimas, konfigūravimas arba šalinimas**
+**Atpažinimo ženklų pretenzijų naujinimas, konfigūravimas arba pašalinimas**
 
-1. Naudodami "Azure Active Directory" ("Azure AD"), atsakymų atpažinimo ženkle, kurį gaunate po to, kai įgaliojate taikomąją programą, galite [Tinkinti vaidmens reikalavimo tipą](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) .
-2. Taikomųjų programų kūrėjai savo "Azure AD" taikomosiose programose gali naudoti pasirinktines pretenzijas, kad nurodytų, kokius teiginius jie nori naudoti žetonams, siunčiamiems į jų taikomąją programą. Daugiau informacijos ieškokite [pasirinktinių reikalavimų pateikimas programėlei](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-3. [Konfigūruokite "Azure Active Directory" taikomųjų programų grupės reikalavimus](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
-4. Jei naudojate sklandžią bendrąją autentifikacijos programą, žiūrėkite [Tinkinti reikalavimus, pateiktus "SAML" atpažinimo ženklo įmonėms taikomosiose programose](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
+1. Naudodami "Azure Active Directory" ("Azure AD"), [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) galite tinkinti vaidmens reikalavimo tipą atsakymo atpažinimo žetone, kurį gaunate įgaliodami programą.
+2. Programų kūrėjai gali naudoti pasirinktinius teiginius savo "Azure AD" programose, kad nurodytų, kuriuos teiginius jie nori naudoti atpažinimo ženkluose, siunčiamuose jų taikomai programai. Daugiau informacijos žr. [Pasirinktinių teiginių pateiktis jūsų programoje](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
+3. [Konfigūruokite programų grupės pretenzijas naudodami "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Jei naudojate sklandžią bendrąją afiksinę programą, žr. Tinkinkite [pretenzijas, išduotas "SAML" atpažinimo ženklu, skirtame įmonės programoms.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
-**Atributų atributo susiejimas**
+**Pretenzijų atributų susiejimas**
 
-1. Norėdami konfigūruoti pretenzijų atvaizdavimo strategiją naudodami "PowerShell", žiūrėkite [Tinkinti teiginius, pateiktus "Tokens" konkrečios programos nuomotojuje (peržiūra)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-2. Katalogo schemos plėtinio atributai – tai būdas saugoti papildomus duomenis "Azure Active Directory" vartotojo objektams ir kitiems katalogo objektams, pvz., grupėms, nuomotojo duomenims, paslaugų direktams. Galima naudoti tik plėtinio atributus vartotojo objektuose. [Naudojant katalogų schemos plėtinio atributus teiginiams](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) nurodoma, kaip naudoti katalogo schemos plėtinio atributus siunčiant vartotojo duomenis į taikomąsias programas atpažinimo ženklų ieškiniams.
+1. Norėdami konfigūruoti pretenzijų susiejimo strategiją naudodami "PowerShell", žr. Konkrečios programos atpažinimo žetonuose tinkinimas [nuomotojo (peržiūra)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
+2. Katalogų schemos plėtinių atributai suteikia galimybę saugoti papildomus duomenis "Azure Active Directory" vartotojų objektų ir kitų katalogų objektų, pvz., grupių, nuomotojo išsamios informacijos, tarnybos vadovo, duomenų saugykloje. Tik vartotojo objektų plėtinių atributai gali būti naudojami išleidžiant pretenzijas į taikomąsias programas. [Katalogų schemos plėtinių atributų naudojimas](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) pretenzijose aprašo, kaip naudoti katalogų schemos plėtinių atributus siunčiant vartotojo duomenis į taikomąsias programas atpažinimo ženklų teiginiuose.
 
-Daugiau informacijos apie simbolinius teiginius rasite:
+Daugiau informacijos apie atpažinimo ženklų pretenzijas žr.:
 
-- ["Access" atpažinimo ženklų pretenzijos](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
-- [Ieškiniai id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Teigia](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) , kad galite tikėtis ID atpažinimo ženklai ir prieigos žetonai, kuriuos išleido "Azure AD" B2C
+- [Pretenzijos prieigos atpažinimo ženklus](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Pretenzijos id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
+- [Pretenzijos,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) kurių galite tikėtis ID atpažinimo ženklus ir prieigos atpažinimo ženklus, išduotus "Azure AD B2C"
 - [SAML atpažinimo ženklo pretenzijų nuoroda](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
