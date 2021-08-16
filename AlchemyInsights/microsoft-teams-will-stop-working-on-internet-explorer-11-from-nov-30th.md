@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft teams\" nustos veikti \"Internet Explorer 11\" nuo lapkričio 30 d."
+title: Microsoft Teams nustos veikti "Internet Explorer 11" nuo lapkričio 30 d.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026950"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>"Microsoft teams" nustos veikti "Internet Explorer 11" nuo lapkričio 30 d.
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams nustos veikti "Internet Explorer 11" nuo lapkričio 30 d.
 
-Kaip pateikta MC225570, pradedant lapkričio 30 d., 2020, "Microsoft teams" žiniatinklio taikomoji programa nebepalaikys "Internet Explorer" (IE) 11. 
+Kaip pranešta MC225570, nuo 2020 m. lapkričio 30 d., "Microsoft Teams" žiniatinklio taikomoji programa nebepalaiko "Internet Explorer" (IE) 11. 
 
-Rekomenduojame atnaujinti į naująją ["Microsoft Edge"](https://www.microsoft.com/edge) , kad galėtumėte saugiau ir naujoviškesnę internetinę patirtį. 
+Rekomenduojame atnaujinti į naująją "Microsoft Edge [saugesnę](https://www.microsoft.com/edge) ir novatoriškesnę internetinę patirtį. 
 
-Daugiau informacijos ieškokite ["Microsoft" 365 programos – atsisveikinimas su "Internet Explorer 11" ir "Windows 10 Saulėlydžiai Microsoft Edge Legacy" – "Microsoft" technologijų bendruomenė](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Daugiau informacijos žr. Microsoft 365" programėlės [atsisveikins su "Internet Explorer 11" ir "Windows 10 saulėlydžiais "Microsoft Edge" pasenusi versija – "Microsoft Tech Community"](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
 

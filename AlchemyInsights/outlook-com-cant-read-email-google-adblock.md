@@ -1,5 +1,5 @@
 ---
-title: Negalite skaityti Outlook.com el. pašto "Google Chrome" su AdBlock
+title: Negalima skaityti "Outlook.com" el. laiškų "Google Chrome" su "AdBlock"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984721"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Negalite skaityti el. laiško "Google Chrome" su AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Negalima skaityti el. laiškų naudojant "Google Chrome" su "AdBlock"
 
-Jei negalite skaityti arba kurti elektroninio pašto, kai naudojate "Google Chrome" su AdBlock plėtiniu:
+Jei negalite skaityti arba kurti el. laiškų naudodami "Google Chrome" su "AdBlock" plėtiniu:
 
-- Naudokite ["Microsoft Edge"](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) arba kitą žiniatinklio naršyklę.
-- Neįtraukti Outlook.com iš "AdBlock" parametrų. "Google Chrome" viršutiniame dešiniajame kampe pasirinkite **Adblock** , tada pasirinkite **nevykdyti šiame domene esančių puslapių**. Atnaujinkite naršyklę, kad būtų galima įkelti Outlook.com dar kartą.
+- Naudokite [Microsoft Edge arba](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) kitą žiniatinklio naršyklę.
+- Neįtraukite Outlook.com į "AdBlock" parametrus. Viršutiniame dešiniajame "Google Chrome" kampe pasirinkite **AdBlock,** tada pasirinkite **Neveikti šio domeno puslapiuose.** Atnaujinkite naršyklę, kad Outlook.com.

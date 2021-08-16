@@ -1,5 +1,5 @@
 ---
-title: Žurnalo taisyklės įgalinimas arba išjungimas
+title: Žurnalo taisyklės įjungimas arba išjungimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058838"
 ---
-# <a name="enable-or-disable-a-journal-rule"></a>Žurnalo taisyklės įgalinimas arba išjungimas
+# <a name="enable-or-disable-a-journal-rule"></a>Žurnalo taisyklės įjungimas arba išjungimas
 
 Toliau nurodyta, kaip tai padaryti.
 
-1. " [Exchange" administravimo centre](https://go.microsoft.com/fwlink/p/?linkid=2059104)eikite į **atitikties valdymo**  >  **žurnalų taisykles**.
-2. Sąrašo **rodinio stulpelyje, esančiame prie taisyklės** pavadinimo, pažymėkite žymės langelį, kad įgalintumėte taisykles arba išvalytumėte taisyklę.
+1. Administravimo [Exchange eikite į](https://go.microsoft.com/fwlink/p/?linkid=2059104)atitikties **valdymo**  >  **žurnalo taisykles**.
+2. Sąrašo rodinio stulpelyje **ON** šalia taisyklės pavadinimo pažymėkite žymės langelį, kad įgalintumėte taisykles arba išvalytumėte, kad išjungtumėte taisyklę.
