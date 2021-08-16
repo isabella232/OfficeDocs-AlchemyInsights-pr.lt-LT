@@ -1,5 +1,5 @@
 ---
-title: 1264 IP užblokuotas siunčiant per daug pašto šiukšlių (550 5.7.51)
+title: 1264 IP užblokuota siųsti per daug pašto šiukšlių (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099258"
 ---
 # <a name="access-denied-banned-sender"></a>Prieiga uždrausta, uždraustas siuntėjas
 
- **Klaida**: SMTP klaida iš nuotolinio serverio RCPT komandai, Host: *XXXX*-com.mail.Protection.Outlook.com (*XXX.xxx.xxx.xxx*) paaiškinimas: 550 5.7.511 prieiga uždrausta, uždrausta siuntėjas [*XX.xxx.x.xxx*]. 
+ **Klaida:** SMTP klaida iš nuotolinio serverio, skirta komandai RCPT TO, pagrindinio kompiuterio: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) priežastis: 550 5.7.511 Prieiga uždrausta, uždraustas siuntėjas [*xx.xxx.x.xxx*]. 
 
-Jei gaunate šį klaidos pranešimą siųsdami laišką "Microsoft" 365 gavėjui, pašalinkite paveiktą paskyrą iš sąrašo blokuojami siuntėjai [https://sender.office.com](https://sender.office.com) .
+Jei gaunate šią klaidą siųsdami el. Microsoft 365 gavėjui, pašalinkite paveiktą paskyrą iš blokuojamų siuntėjų [https://sender.office.com](https://sender.office.com) sąrašo.

@@ -1,5 +1,5 @@
 ---
-title: Failų nusiuntimo į "OneDrive" problemų sprendimas
+title: Failų nusiuntimo į ""OneDrive"
 ms.author: matteva
 author: pebaum
 ms.date: 04/21/2020
@@ -9,20 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef5de5d8c002f30d553d5c290a43d8e83f5d3c256612833e1f90ca65b6508e09
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068499"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Failų nusiuntimo į "OneDrive" problemų sprendimas
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Failų nusiuntimo į ""OneDrive"
 
-Išbandykite tai, jei nepavyksta nusiųsti failo:
+Išbandykite, jei failas nebus nusiųsta:
   
-- Pervardykite failą ir bandykite dar kartą. Kai kurių failų vardų ir simbolių negalima naudoti. 
+- Pervardykite failą ir bandykite dar kartą. Kai kurie failų vardai ir simboliai failų varduose yra neleistimi. 
     
-- Jei sinchronizuojate failą, perkelkite jį iš "OneDrive" aplanko (pvz., perkelkite jį į darbalaukį) ir, kai "OneDrive" sinchronizavimo būsena rodoma kaip "atnaujinta", perkelkite jį atgal. 
+- Jei sinchronizuojate failą, perkelkite jį iš savo ""OneDrive"" aplanko (pvz., perkelkite jį į darbalaukį), o kai jūsų ""OneDrive" sinchronizavimo programa" būsena rodoma kaip "Atnaujinti", perkelkite jį atgal. 
     
 [Daugiau trikčių diagnostikos patarimų](https://go.microsoft.com/fwlink/?linkid=873155)
   
