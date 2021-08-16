@@ -1,5 +1,5 @@
 ---
-title: Automatinio prisijungimo prie "Outlook.com" sustabdymas
+title: Automatinis prisijungimo prie "Outlook.com" sustabdymas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8cc2099aa725277cc15f39398a70fc5d9200b829bdee224a9c3fae480763a33a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010876"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a>Kaip baigti prisijungti automatiškai
+# <a name="how-to-stop-signing-in-automatically"></a>Kaip sustabdyti prisijungimą automatiškai
 
-Norėdami baigti prisijungti prie "Outlook.com" automatiškai, atžymėkite žymės langelį **palikti mane prijungtą** puslapyje, kuriame įvedate savo slaptažodį.
+Norėdami sustabdyti prisijungimą prie Outlook.com automatiškai, panaikinkite žymės langelio Palikti **mane** prijungtą puslapyje, kuriame įvedate slaptažodį, žymėjimą.
   
-Norėdami sužinoti daugiau, Sužinokite, [kaip prisijungti prie "Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)".
+Norėdami sužinoti daugiau, [žr. Kaip prisijungti prie "Outlook.com"](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)arba iš jos .
   

@@ -1,5 +1,5 @@
 ---
-title: "\"Outlook.com\" pašto dėžutės išvaizdos keitimas"
+title: Outlook.com pakeiskite pašto dėžutės išvaizdą
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096486"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com pašto dėžutės išvaizdos keitimas
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>"Outlook.com" pašto dėžutės išvaizda
 
-Galite pakeisti laiškų sąrašo ir skaitymo srities rodymą "Outlook.com".
+Galite pakeisti pranešimų sąrašo ir skaitymo srities išvaizdą Outlook.com.
 
-- Norėdami pakeisti pranešimo lango maketą, atidarykite [skaitymo srities](https://outlook.live.com/mail/options/mail/layout/readingPane) parinktis.
-- Norėdami pakeisti savo el. pašto rūšiavimą, pranešimų sąrašo viršuje pasirinkite **filtruoti**  >  **pagal** ir pasirinkite, kaip norite rikiuoti el. paštą.
-- Norėdami sugrupuoti laiškus pagal pokalbį, atidarykite savo [pranešimų organizacijos](https://outlook.live.com/mail/options/mail/layout/conversations) parinktis.
-- Norėdami įjungti arba išjungti reikšmingiausi Gautieji, atidarykite [maketo](https://outlook.live.com/mail/options/mail/layout/focused) parinktis.
+- Norėdami pakeisti pranešimo lango maketą, atidarykite skaitymo [srities parinktis.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Norėdami pakeisti el. laiškų rikiavimo būdą, laiškų sąrašo viršuje pasirinkite **Filtruoti** rikiavimą pagal ir pasirinkite, kaip norite  >   rikiuoti savo el. paštą.
+- Norėdami grupuoti laiškus pagal pokalbį, atidarykite [pranešimų organizacijos parinktis.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Norėdami įjungti arba išjungti aplanką Kryptingi gautieji, atidarykite [maketo parinktis.](https://outlook.live.com/mail/options/mail/layout/focused)

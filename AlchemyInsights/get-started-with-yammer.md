@@ -1,5 +1,5 @@
 ---
-title: Darbo su "Yammer" Pradžia
+title: Darbo su ""Yammer"
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002302"
 ---
-# <a name="get-started-with-yammer"></a>Darbo su "Yammer" Pradžia
+# <a name="get-started-with-yammer"></a>Darbo su ""Yammer"
 
-"Yammer" yra geriausia klasėje, saugi ir privati įmonės socialinis tinklas. "Yammer" teikia patrauklią ir paprastą naudoti patirtį žiniatinklyje ir "Yammer" taikomojoje programoje, skirtai "Android" ir "iOS" įrenginiams. "Yammer" galima integruoti su "Microsoft teams" ir "Outlook". "Yammer" taip pat pateikia atnaujintą "SharePoint Online" integravimo patirtį.
+"Yammer" yra geriausias klasės, saugus ir privatus įmonės socialinis tinklas. "Yammer" suteikia patrauklias ir lengvai naudojamas funkcijas žiniatinklyje ir ""Yammer"", skirtame "Android" ir "iOS" įrenginiams. "Yammer" galima integruoti su Microsoft Teams ir Outlook. "Yammer" taip pat teikia atnaujintą integravimo patirtį "SharePoint Online".
 
-Naudodami "Yammer" diegimo patarėją, Paruoškite savo "Yammer" tinklą įtraukdami domenų, nustatę administratoriai ir sujungdami "Yammer" tinklus. Įdiekite "Yammer", tada pritaikykite ieškos, sukonfigūruokite saugos ir atitikties parametrus ir patikslinkite parametrus.
+Naudokite "Yammer" diegimo patarėją, kad "Yammer" tinklą įtraukdami domenų, apibrėždami administratorius ir sujungdami "Yammer" tinklus. Įdiekite "Yammer" tada tinkinkite išvaizdą, konfigūruokite saugą ir atitiktį ir patikslinkite parametrus.

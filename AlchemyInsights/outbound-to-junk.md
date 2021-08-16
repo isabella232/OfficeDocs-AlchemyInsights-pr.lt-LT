@@ -1,5 +1,5 @@
 ---
-title: Siunčiamas laiškas į nepageidaujamo pašto aplanką
+title: Siunčiamas el. laiškas į aplanką Nepageidaujamas el. paštas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096666"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Siunčiamas laiškas į nepageidaujamo pašto aplanką
+# <a name="outbound-email-to-junk-email-folder"></a>Siunčiamas el. laiškas į aplanką Nepageidaujamas el. paštas
 
-Jei matote, kad siunčiami laiškai pažymėti kaip nepageidaujami, atlikite šiuos veiksmus:
+Jei matote, kad išsiųsti laiškai pažymėti kaip Nepageidaujamas, atlikite šiuos veiksmus:
 
-- Jei to dar nepadarėte, apsvarstykite [siunčiamų pašto šiukšlių strategijos pranešimų konfigūravimą](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Jei to dar nepadarėte, apsvarstykite galimybę [konfigūruoti siunčiamų pašto šiukšlių strategijos pranešimus.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Naudokite [pranešimų sekimo](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) funkciją, jei norite sužinoti, ar siunčiančiame pranešime yra įvykio reikšmės **šlamštas** su papildoma informacija: **naudokite didelės rizikos pristatymo telkinį**.
+- Naudokite [pranešimų sekimą,](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) kad pamatytumėte, ar siunčiamo laiško įvykio **reikšmė** Yra pašto šiukšlės su papildoma informacija: Naudokite didelės rizikos **pristatymo telkinį**.
 
-  Šiuose pranešimuose patikrinkite pranešimo turinį, kad pamatytumėte, kas gali būti laikoma pašto šiukšle. Pavyzdžiui, parašai kartais gali sukelti problemų daugeliui vartotojų.
+  Patikrinkite šių pranešimų turinį, kad pamatytumėte, kas gali būti laikoma pašto šiukšlėmis. Pavyzdžiui, parašai kartais gali sukelti problemų daugeliui vartotojų.
 
-  Jei turite kelis teisėtų siuntimo laiškų pavyzdžius, kurie yra pažymėti kaip nepageidaujami, atidarykite palaikymo bilietą ir paprašykite palaikymo agento pateikti savo laiškus kaip neteisingus teigiamus rezultatus mūsų šlamšto analitikams. Būkite pasirengę pateikti laiškų pavyzdžius, kuriuose yra visos laiškų antraštės.
+  Jei turite kelis teisėtų siunčiamų laiškų, pažymėtų kaip Nepageidaujamas, pavyzdžius, atidarykite palaikymo kvitą ir paprašykite palaikymo agento pateikti savo laiškus kaip klaidingus teigiamus laiškus mūsų pašto šiukšlių analitikams. Būkite pasirengę pateikti laiškų pavyzdžius, kuriuose yra visos laiškų antraštės.
