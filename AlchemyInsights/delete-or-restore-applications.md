@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004335"
 - "7737"
-ms.openlocfilehash: 4df9a98644f6bc7a30f9009719c5198db591afc9
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 0c7be98650ca87f36b66f0bb38fb665fc81525b7f3410da14b99fb67468c1e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102579"
 ---
 # <a name="delete-or-restore-applications"></a>Taikomųjų programų naikinimas arba atkūrimas
 
-**Norėdami panaikinti taikomąją programą iš "AZURE AD" nuomotojo**:
+**Norėdami panaikinti taikomąją programą iš "Azure AD" nuomotojo:**
 
-1. " **AZURE AD" portale** pasirinkite **įmonės taikomosios programos**. Tada Raskite ir pasirinkite taikomąją programą, kurią norite panaikinti.
-2. Kairiojoje srityje esančioje sekcijoje **tvarkyti** pasirinkite **Ypatybės**.
-3. Pasirinkite **Naikinti**, tada pasirinkite **taip** , kad patvirtintumėte, jog norite panaikinti taikomąją programą iš "Azure AD" nuomotojo.
+1. "Azure **AD" portale** pasirinkite **Įmonės programos**. Tada raskite ir pasirinkite taikomąją programą, kurią norite panaikinti.
+2. Kairiojoje **srityje** esančioje sekcijoje Tvarkyti pasirinkite **Ypatybės**.
+3. Pasirinkite **Naikinti**, tada pasirinkite **Taip,** kad patvirtintumėte, kad norite panaikinti programą iš "Azure AD" nuomotojo.
 
-Daugiau informacijos apie tai, kaip panaikinti programėlę, rasite " [QuickStart": taikomosios programos naikinimas "Azure Active Directory" ("AZURE AD") nuomotojuje](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).
+Daugiau informacijos, kaip panaikinti taikomąją programą, [žr. "Quickstart": taikomosios programos naikinimas iš "Azure Active Directory" ("Azure AD") nuomotojo](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).
 
-"PowerShell", " [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) " cmdlet pašalina taikomosios programos tarpinio serverio konfigūracijas iš konkrečios programos "Azure Active Directory" ir gali visiškai panaikinti taikomąją programą, jei nurodyta.
+"PowerShell" cmdlet [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) pašalina programos tarpinio serverio konfigūracijas iš konkrečios ""Azure Active Directory"" taikomosios programos ir gali visiškai panaikinti taikomąją programą, jei nurodyta.
 
-Galite **atkurti panaikintą taikomąją programą** naudodami "PowerShell". Nustačius programą, kurią norite atkurti, galite ją atkurti naudodami [atkurti – Azureadnaikintiprograma](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).
+**Panaikinę taikomąją programą galite atkurti naudodami** "PowerShell". Kai bus nustatyta programa, kurią norite atkurti, galėsite ją atkurti naudodami ["Restore-AzureADDeletedApplication".](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication)

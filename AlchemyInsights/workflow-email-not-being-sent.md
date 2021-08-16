@@ -1,5 +1,5 @@
 ---
-title: Neatsiųstas darbo eigos laiškas
+title: Darbo eigos el. laiškas nesiunčiamas
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072528"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>"SharePoint" sąrašui arba bibliotekai nesiunčiama darbo eigos el. paštas
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Darbo eigos el. laiškas nesiunčiamas SharePoint sąrašui arba bibliotekai
 
-1. El. laiškai iš darbo eigų nesiunčiami visiems vartotojams arba tik konkretiems vartotojams arba rodoma klaida, **kai el. laiško išsiųsti negalima. Įsitikinkite, kad el. laiškas turi galiojantį gavėją**.
+1. El. laiškai iš darbo eigų nesiunčiami visiems vartotojams arba tik konkretiems vartotojams arba matote klaidą El. laiško išsiųsti **negalima. Įsitikinkite, kad el. laiške yra galiojantis gavėjas.**
 
-    Patikrinkite, ar vartotojas nėra to svetainių rinkinio grupėje **Visos žmonių** teisės (vartotojų informacijos sąrašas).  Pavyzdinis tiesioginis URL: https:// <tenant> . SharePoint.com/sites/ <sitename> /_layouts/15/People.aspx? MembershipGroupId = 0
+    Patikrinkite, ar vartotojas yra to **svetainių rinkinio** teisių grupėje Visi žmonės (vartotojų informacijos sąrašas).  Tiesioginio URL pavyzdys: https:// <tenant> .sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
     - Jei vartotojo nėra, įsitikinkite, kad vartotojas yra prisijungęs prie puslapio. 
-    - Jei tai išorinis vartotojas, įsitikinkite, kad jų kvietimas priimtas.
-    - Jei vartotojas yra grupėje teisės, įsitikinkite, kad teisingas elektroninio pašto adresas.
-    - Jei vartotojas elektroninio pašto adresas nustatytas čia, tada sukurkite įspėjimų apie tą vartotoją, kuris verčia tos vartotojo paskyros sinchronizavimą iš "SharePoint" vartotojų profilių su šiuo svetainių rinkiniu.
+    - Jei tai išorinis vartotojas, įsitikinkite, kad jo kvietimas buvo priimtas.
+    - Jei vartotojas yra teisių grupėje, įsitikinkite, kad teisingas el. pašto adresas.
+    - Jei vartotojų el. pašto adresas čia nėra nustatytas, sukurkite to vartotojo įspėjimo pavyzdį, kuris verčia to vartotojo paskyros sinchronizavimą iš "SharePoint profilių į šį svetainių rinkinį.
  
-2. El. laiškai iš darbo eigų siunčiami svetainių rinkinio administratoriams, bet ne kitiems vartotojams ir matyti klaidos **http uždraustas <span>https:</span>//URL/_vti_bin/Client.xvc.sp.utilities.Utility.sendemail**.
+2. El. laiškai iš darbo eigų siunčiami svetainių rinkinio administratoriams, bet ne kitiems vartotojams ir žr. klaidą HTTP Draudžiama **<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    [Jei siunčiate laišką "SharePoint" grupei, žiūrėkite prieiga uždrausta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Žr. [Prieiga uždrausta, kai siunčiate el. laišką į SharePoint grupę.](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)
 
-    Taip pat patikrinkite, ar neaktyvi " **Access" vartotojo teisių blokavimo režimo** svetainių rinkinio funkcija.
+    Taip pat patikrinkite, ar **ribotos prieigos vartotojo teisių blokavimo režimo** svetainių rinkinio funkcija nėra aktyvi.
 
 
 ## <a name="related-topics"></a>Susijusios temos
 Norite išbandyti "Microsoft Flow" "SharePoint Online"?
-- [Kurti srautą](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- ["SharePoint" ir srautas](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Kurti Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ir Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
