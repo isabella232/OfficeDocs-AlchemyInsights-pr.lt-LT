@@ -1,5 +1,5 @@
 ---
-title: Outlook.com negali siųsti el. laiško
+title: Outlook.com negali siųsti el. laiškų
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,22 +13,22 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: adb6dd3cc5a6a526b87dc74a6552759cc8db46ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0852df594e4c87d2fb2c766c52ec0aa41d3fc1e89029c1ee4417cfffebbe7352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064464"
 ---
-# <a name="unable-to-send-email-in-outlookcom"></a>Nepavyksta išsiųsti elektroninio pašto "Outlook.com"
+# <a name="unable-to-send-email-in-outlookcom"></a>Nepavyksta siųsti el. laiškų Outlook.com
 
-Jei kyla problemų siunčiant pranešimą "Outlook.com", išbandykite šiuos sprendimus.
+Jei kyla problemų siunčiant laiškus "Outlook.com", išbandykite šiuos sprendimus.
 
-1. Patikrinkite [tarnybos būseną](https://go.microsoft.com/fwlink/p/?linkid=837482). 
-2. Patikrinkite, ar neįjungtas [Anuliuoti siuntimą](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
-3. Jei jūsų aplankas Gauta yra pilnas, negalėsite siųsti arba gauti naujų laiškų. Išvalykite [nepageidaujamą laišką](https://outlook.live.com/mail/junkemail) , dešiniuoju pelės mygtuku spustelėję **nepageidaujamas el. paštas**  >  **Naikinti viską**.
-4. Įsitikinkite, kad žmonių, kuriuos bandote siųsti, elektroninio pašto adresai yra tinkamai formatuoti.
-5. Jei turite daugiau nei 20 sujungtų abonementų, negalėsite siųsti arba gauti laiškų.
-6. Jūsų paskyra gali būti laikinai užblokuota, nes pastebėjome kai kurias neįprastas prisijungimo veiklas. Peržiūrėkite [savo "Outlook.com" paskyros blokavimą](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Patikrinkite [tarnybos būseną](https://go.microsoft.com/fwlink/p/?linkid=837482). 
+2. Patikrinkite, [ar neįjungta](https://outlook.live.com/mail/options/mail/messageContent/undoSend) parinktis Anuliuoti siuntą.
+3. Jei aplankas Gauta pilnas, negalėsite siųsti arba gauti naujų laiškų. Ištuštinkite [nepageidaujamo el.](https://outlook.live.com/mail/junkemail) pašto adresą dešiniuoju pelės mygtuku spustelėdami **Nepageidaujamas el. paštas**  >  **Naikinti viską.**
+4. Įsitikinkite, kad žmonių, kuriems bandote siųsti, el. pašto adresai yra tinkamai suformatuoti.
+5. Jei turite daugiau nei 20 prijungtų abonementų, negalėsite siųsti arba gauti laiškų.
+6. Jūsų paskyra gali būti laikinai užblokuota, nes pastebėjome neįprastą prisijungimo veiklą. Žr. [Mano "Outlook.com" paskyros atblokavimas](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
 
-Sužinokite daugiau apie tai, kaip [išspręsti Outlook.com el. pašto sinchronizavimo problemas](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Sužinokite daugiau, kaip išspręsti ["Outlook.com" el. pašto sinchronizavimo problemas.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)

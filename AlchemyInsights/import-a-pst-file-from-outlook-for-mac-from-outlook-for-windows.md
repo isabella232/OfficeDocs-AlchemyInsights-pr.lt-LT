@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987403"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295915"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>.pst failo importavimas iš "Outlook", Windows į "Outlook for Mac" 
 
@@ -26,7 +26,7 @@ Norėdami perkelti laiškus ir kitus elementus iš "Windows" kompiuterio į "Mac
 
 **Naujesnėse versijose – .pst failo importavimas iš "Windows į "Mac"**
 
-1. Meniu Outlook"Mac" **failas** pasirinkite **Importuoti**.
+1. Meniu Outlook for **Mac"** failas pasirinkite **Importuoti**.
 
 2. Pasirinkite **Outlook archyvo Windows (.pst)** ir spustelėkite **Tęsti**.
 
@@ -53,14 +53,13 @@ Norėdami perkelti laiškus ir kitus elementus iš "Windows" kompiuterio į "Mac
 
    Importuoti elementai rodomi naršymo srityje dalyje **Mano kompiuteris.**
 
-> [!NOTE]
-> Outlook for Mac" gali importuoti tik "Unicode" pagrįstus .pst failus, kurie yra standartinis "Outlook" ("Windows") ir naujesnėse versijose asmeninių aplankų failų formatas. ANSI suformatuoti .pst failai, dar vadinami "Outlook 97–2002" asmeninių aplankų failais, buvo standartinis asmeninių aplankų formatas, skirtas "Outlook", skirtai "Windows" 97–2002 versijose. Šio failo formato negalima importuoti į "Outlook", skirtą "Mac". Jei turite senesnę ANSI formatuoto .pst failo versiją, nėra automatinės procedūros failui konvertuoti į naujesnį failo formatą. Tačiau galite sukurti naują "Outlook" duomenų failą (.pst) "Microsoft Outlook for Windows 2003" arba naujesnėse versijose, tada importuoti elementus iš senesnio failo į naują failą. Tada galite importuoti naują .pst failą į "Outlook for Mac". Daugiau informacijos, kaip kurti .pst failus ir  importuoti elementus, žr. "Outlook" Windows.
+**Pastaba:**"Outlook for Mac" gali importuoti tik "Unicode" pagrindu sukurtus .pst failus, kurie yra standartinis "Outlook" ("Windows") ir naujesnėse versijose asmeninių aplankų failų formatas. ANSI suformatuoti .pst failai, dar vadinami "Outlook 97–2002" asmeninių aplankų failais, buvo standartinis asmeninio aplanko formatas, skirtas "Outlook", skirtai "Windows" 97–2002 versijose. Šio failo formato negalima importuoti į "Outlook", skirtą "Mac". Jei turite senesnę ANSI formato .pst failo versiją, nėra automatinės procedūros, kaip konvertuoti failą į naujesnį failo formatą. Tačiau galite sukurti naują "Outlook" duomenų failą (.pst) "Microsoft Outlook for Windows 2003" arba naujesnėse versijose, tada importuoti elementus iš senesnio failo į naują failą. Tada galite importuoti naują .pst failą į "Outlook", skirtą "Mac". Daugiau informacijos, kaip kurti .pst failus ir  importuoti elementus, žr. "Outlook" Windows.
 
 **Atidaryti Outlook duomenų failą (.pst arba .olm)**
 
 Galite importuoti "Outlook" duomenų Windows failą (.pst) arba "Outlook", skirtą "Mac" duomenų failui (.olm). Šiuose duomenų failuose gali būti daug kelių elementų tipų duomenų. Outlook Duomenų failai dažnai naudojami kaip archyvas arba perkeliami duomenys iš vieno kompiuterio į kitą.
 
-1. Meniu Outlook"Mac" failas spustelėkite **Importuoti**.
+1. Meniu Outlook for Mac" failas spustelėkite **Importuoti**.
 
 2. Spustelėkite **Outlook duomenų failą**, tada spustelėkite rodyklę dešinėn.
 
@@ -72,8 +71,7 @@ Galite importuoti "Outlook" duomenų Windows failą (.pst) arba "Outlook", skirt
 
 Importuoti elementai rodomi naršymo srityje dalyje **Mano kompiuteris.**
 
-> [!NOTE]
-> Outlook for Mac" gali importuoti tik "Unicode" pagrįstus .pst failus, kurie yra standartinis "Outlook" ("Windows") ir naujesnėse versijose asmeninių aplankų failų formatas. ANSI suformatuotų .pst failų, dar vadinamų "Outlook 97–2002" asmeninių aplankų failais, negalima importuoti į "Outlook for Mac". Jei turite senesnę ANSI formatuoto .pst failo versiją, nėra automatinės procedūros failui konvertuoti į naujesnį failo formatą. Tačiau "Microsoft Outlook for Windows 2003" arba naujesnėje versijoje galite sukurti naują "Outlook" duomenų failą (.pst), tada importuoti elementus iš senesnio failo į naują failą. Tada galite importuoti naują .pst failą į "Outlook for Mac". Daugiau informacijos, kaip kurti .pst failus ir importuoti elementus, žr. "Outlook" Windows. 
+**Pastaba:**"Outlook for Mac" gali importuoti tik "Unicode" pagrįstus .pst failus, kurie yra standartinis "Outlook" ("Windows") ir naujesnėse versijose asmeninių aplankų failų formatas. ANSI suformatuotų .pst failų, dar vadinamų "Outlook 97–2002" asmeninių aplankų failais, negalima importuoti į "Outlook", skirtą "Mac". Jei turite senesnę ANSI formato .pst failo versiją, nėra automatinės procedūros, kaip konvertuoti failą į naujesnį failo formatą. Tačiau galite sukurti naują "Outlook" duomenų failą (.pst) "Microsoft Outlook for Windows 2003" arba naujesnėje versijoje, tada importuoti elementus iš senesnio failo į naują failą. Tada galite importuoti naują .pst failą į "Outlook", skirtą "Mac". Daugiau informacijos, kaip kurti .pst failus ir importuoti elementus, žr. "Outlook" Windows. 
 
 **"Entourage" elementų atidarymas iš archyvo arba ankstesnės versijos**
 
@@ -81,18 +79,18 @@ Galite importuoti elementus, pvz., el. laiškus, kontaktus ir įvykius iš "Ento
 
 1. Meniu Outlook for **Mac"** failas spustelėkite **Importuoti**.
 
-2. Spustelėkite **"Entourage" informaciją iš archyvo arba ankstesnės** versijos, spustelėkite rodyklę dešinėn, tada vykdykite nurodymus.
+2. Spustelėkite **"Entourage" informacija iš archyvo arba ankstesnės** versijos, spustelėkite rodyklę dešinėn, tada vykdykite nurodymus.
 
-> [!NOTE]
-- Jei naudojote "Microsoft Exchange" paskyrą su "Entourage", visi "Exchange" paskyros elementai atsisiunčiami iš "Exchange serverio, kai importavimo procesas bus baigtas. Visas taisykles ar tvarkaraščius, susijusius su Exchange paskyra, reikės iš naujo sukonfigūruoti Outlook.
+**Pastaba:**
+- Jei naudojote "Microsoft Exchange" paskyrą su "Entourage", visi "Exchange" paskyros elementai atsisiunčiami iš "Exchange serverio baigus importavimo procesą. Visas taisykles ar tvarkaraščius, susijusius su Exchange paskyra, reikės perkonfigūruoti Outlook.
 
-- Jei importuojate elementus iš "Entourage 2004" arba "Entourage 2008", "Exchange" paskyros elementų kategorijos informacija nebus importuojama į Outlook. Tačiau naudojant "Entourage 2008", "Web Services Edition", kategorijos informacija bus atsisiųsta iš Exchange serverio.
+- Jei importuojate elementus iš "Entourage 2004" arba "Entourage 2008", "Exchange" paskyros elementų kategorijos informacija neimportuota į Outlook. Tačiau naudojant "Entourage 2008", "Web Services Edition", kategorijos informacija bus atsisiųsta iš Exchange serverio.
 
-- Outlook nėra "Project Center". Jei naudojote "Project Center" "Entourage" ir tada importavote savo "Entourage" informaciją į Outlook, "Project Center" susiejimai konvertuojami į kategorijas. Pvz., jei įtraukėte elementus į projektą, pavadintą "Tyrimų dokumentas" "Entourage", šiems elementams priskiriama kategorija, vadinama "Tyrimų dokumentas" Outlook.
+- Outlook nėra "Project Center". Jei naudojote "Project Center" "Entourage" ir tada importavote savo "Entourage" informaciją į "Outlook", "Project Center" susiejimai konvertuojami į kategorijas. Pvz., jei įtraukėte elementus į projektą, pavadintą "Tyrimų dokumentas" "Entourage", šiems elementams priskiriama kategorija, vadinama "Tyrimų dokumentas" Outlook.
 
 - Pasirinktiniai rodiniai, ieškos parametrai ir įvykio kelionės laiko informacija iš "Entourage" neimportuojami į Outlook. Outlook įvykiai neapima jokios kelionės laiko informacijos.
 
-**Perkelti elementą iš archyvo aplanko į kitą aplanką Outlook**
+**Elemento perkėlimas iš archyvo aplanko į kitą aplanką Outlook**
 
 1. Pasirinkite elementą, kurį norite perkelti.
 
@@ -100,8 +98,7 @@ Galite importuoti elementus, pvz., el. laiškus, kontaktus ir įvykius iš "Ento
 
 3. Ieškos lauke įveskite norimo perkelti aplanko pavadinimą ir spustelėkite **Perkelti**.
 
-> [!TIP]
-> Norėdami nukopijuoti elementą iš archyvo aplanko į kitą aplanką Outlook, tiesiog nuvilkite elementą į aplanką, kuriame norite įdėti kopiją.
+   **Patarimas**: Norėdami nukopijuoti elementą iš archyvo aplanko į kitą aplanką Outlook, tiesiog nuvilkite elementą į aplanką, kuriame norite įdėti kopiją.
 
 **Taip pat žr.**
 

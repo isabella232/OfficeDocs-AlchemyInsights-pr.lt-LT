@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966981"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296059"
 ---
 # <a name="release-quarantined-messages"></a>Sulaikytų pranešimų leidimas
 
-Galite paleisti sulaikytą laišką (arba pranešimų rinkinį) visiems gavėjams arba tik paleisti laišką konkretiems žmonėms, kuriuos pasirenkate iš visų gavėjų sąrašo.
+Galite paleisti sulaikytą laišką (arba pranešimų rinkinį) visiems gavėjams arba tik paleisti laišką konkretiems žmonėms, kuriuos pasirenkate iš visų gavėjų sąrašo. Toliau nurodyta, kaip tai padaryti.
 
-1. Eikite į [saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Eikite į **Grėsmių valdymo**  >  **peržiūros**  >  **karantinas**.
-3. Pasirinkite pranešimą (-ius), kurį (-ius) norite išleisti.
-4. Kai išleisite pranešimą, **pasirinkite Atnaujinti,** kad atnaujinsite duomenis, tada dukart spustelėkite pranešimą. Turėtumėte matyti, kad pranešimas buvo išleistas numatytiems gavėjams.
+1. ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į El. **pašto & Bendradarbiavimo peržiūros** \>  \> **sulaikytas**.
+
+   Norėdami pereiti tiesiai į sulaikymo **puslapį,** naudokite <https://security.microsoft.com/quarantine> .
+
+2. Puslapyje **Sulaikyti** patikrinkite, ar pasirinktas **el.** pašto skirtukas, tada atlikite vieną iš šių veiksmų:
+   - **Vienas pranešimas**: pasirinkite pranešimą. Rodomame išsamios informacijos iškeliame meniu pasirinkite **Leidimo el.** paštas , sukonfigūruokite norimas parinktis, tada **spustelėkite Paleisti pranešimą**.
+   - **Keli pranešimai:** pasirinkite iki 100 laiškų, kad pranešimas būtų rodomas visiems gavėjams (negalite nurodyti atskirų pradinių gavėjų). Rodomame **išplečiamajame** sąraše Masiniai veiksmai pasirinkite **Paleisti** pranešimus , sukonfigūruokite norimas parinktis, tada **spustelėkite Paleisti pranešimą**.
+
+Daugiau informacijos žiūrėkite šiuose straipsniuose:
+
+- [Sulaikytų pranešimų radimas ir išleidimas kaip vartotojo](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Sulaikytų laiškų ir failų valdymas administratoriaus teisėmis](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
