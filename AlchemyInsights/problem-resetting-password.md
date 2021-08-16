@@ -1,5 +1,5 @@
 ---
-title: Problemos nustatymo iš naujo slaptažodis
+title: Problema nustatant slaptažodį iš naujo
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,65 +13,65 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039974"
 ---
-# <a name="problems-resetting-password"></a>Problemos iš naujo nustatyti slaptažodį
+# <a name="problems-resetting-password"></a>Slaptažodžio nustatymo iš naujo problemos
 
-Toliau pateikiami keli klausimai, su kuriais galite susidurti iš naujo nustatę slaptažodį ir galimus sprendimo būdus:
+Toliau nurodytos kelios problemos, su kurias galite susidurti nustatydami slaptažodį iš naujo, ir galimi sprendimai:
 
-**Iškilo problema dėl slaptažodžio nustatymo iš naujo, neįtrauktos į kitas kategorijas**
+**Kyla problemų dėl slaptažodžio nustatymo iš naujo, kuris netaikomas kitose kategorijose**
 
-- Įsitikinkite, kad turite teisę iš naujo nustatyti slaptažodžius. Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius. Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratoriaus slaptažodžius.
+- Įsitikinkite, kad turite teisę iš naujo nustatyti slaptažodžius. Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius. Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratorių slaptažodžius.
 - Įsitikinkite, kad suprantate licencijavimo reikalavimus:
     - Turite turėti bent vieną licenciją, priskirtą jūsų organizacijoje
-        - Tik debesies vartotojai – bet kuris "Office 365" (O365) sumokėtas SKU arba "Azure AD Basic"
-        - Debesies ir (arba) vietiniai vartotojai – "Azure AD Premium" P1 arba P2, įmonės mobilumas + sauga (EPS) arba saugi gamybinė įmonė (SPE)
-        - Norėdami sužinoti daugiau apie licencijavimo reikalavimus, peržiūrėkite straipsnį [licencijavimo reikalavimai, skirti "AZURE AD" savitarnos slaptažodžio nustatymo iš naujo](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).
+        - Tik debesies vartotojai – bet Office 365 (O365) mokami SKU arba "Azure AD Basic"
+        - Debesies ir (arba) vietinį vartotojų – "Azure AD Premium P1 arba P2, Enterprise Mobility + Security (EMS) arba Secure Productive Enterprise (SPE)
+        - Norėdami daugiau sužinoti apie licencijavimo reikalavimus, žr. straipsnį "Azure AD" savitarnos [slaptažodžio nustatymo iš naujo licencijavimo reikalavimai.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kilo problemų tikrinant slaptažodžio nustatymo iš naujo strategiją, kurią nustatėte**
+**Kyla problemų bandant nustatyti slaptažodžio nustatymo iš naujo strategiją**
 
-- Neseniai taikytos strategijos gali užtrukti kelias minutes, kad būtų galima replikuoti visus duomenų centrus ir galutinius taškus. Fiziniai atstumai iš duomenų centro taip pat turės įtakos, kaip greitai keičiami keitimai.
-- Išbandykite su galutinio vartotojo, o ne administratoriumi ir pilotu su nedideliu vartotojų rinkiniu. Strategijos, sukonfigūruotos "Azure" portale, taikomos tik galutiniams vartotojams, o ne administratoriams. "Microsoft" užtikrina, kad "Azure" administratoriaus vaidmuo būtų stipri numatytoji dviejų vartų slaptažodžio nustatymo iš naujo strategija (pvz.: visuotinis administratorius, pagalbos administratorius, slaptažodžių administratorius ir kt.)
-    - Sužinokite daugiau apie [administratorių strategijas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences).
+- Neseniai taikomos strategijos gali užtrukti kelias minutes, kad būtų galima pakartoti visuose duomenų centruose ir pabaigos taškuose. Fizinis atstumas nuo duomenų centro taip pat turės įtakos, kaip greitai taikomi keitimai.
+- Patikrinkite, ar galutinis vartotojas, o ne administratorius, ir bandomasis su nedideliu vartotojų komplektu. Strategijos, sukonfigūruotos "Azure" portale ONLY, taikomos galutiniams vartotojams, o ne administratoriams. "Microsoft" užtikrina griežtą numatytąją "Azure" administratoriaus vaidmens dviejų vartų slaptažodžio nustatymo iš naujo strategiją (pvz., visuotinis administratorius, pagalbos tarnybos administratorius, slaptažodžių administratorius ir t. t.)
+    - Sužinokite daugiau [apie administratoriams skirtas strategijas.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 
-**Noriu įdiegti slaptažodį iš naujo, bet nenoriu, kad mano vartotojai užregistruotų papildomą saugos informaciją**
+**Noriu įdiegti slaptažodį iš naujo, bet nenoriu, kad mano vartotojai užregistruos papildomą saugos informaciją**
 
-Iš anksto užpildyti jūsų vartotojų duomenis, kad jie neturėtų! -Kaip administratorius galite nustatyti savo vartotojams telefono ir elektroninio pašto ypatybes prieš atkurdami slaptažodį iš naujo savo organizacijai. Tai galite padaryti naudodami API, "PowerShell" arba "Azure AD Connect". Daugiau informacijos rasite čia:
+Iš anksto užpildykite vartotojų duomenis, kad jie jų neprisiims! - Jei esate administratorius, galite nustatyti vartotojų telefono ir el. pašto ypatybes prieš iš naujo nustatyti slaptažodį organizacijoje. Tai galite padaryti naudodami API, "PowerShell" arba "Azure AD" Prisijungimas. Daugiau informacijos čia:
 - [Slaptažodžio nustatymo iš naujo diegimas nereikalaujant vartotojų registruotis](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
-- [Kokius duomenis naudoja slaptažodžio nustatymas iš naujo](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kokie duomenys naudojami iš naujo nustačius slaptažodį](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Slaptažodžio nustatymo iš naujo mygtukas yra pilkas**
 
-Jūs neturite teisę iš naujo nustatyti šio vartotojo slaptažodžių. Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius. Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratoriaus slaptažodžius.
+Jums neleidžiama iš naujo nustatyti šio vartotojo slaptažodžių. Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius. Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratorių slaptažodžius.
 
 **Nematau slaptažodžio nustatymo iš naujo ašmenų**
 
-Jūs nesate įgalioti iš naujo nustatyti slaptažodžius. Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius. Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratoriaus slaptažodžius.
+Jums neleidžiama iš naujo nustatyti slaptažodžių. Tik visuotinis, slaptažodis ir vartotojų administratoriai gali iš naujo nustatyti vartotojų slaptažodžius. Visuotiniai administratoriai taip pat gali iš naujo nustatyti kitų privilegijuotų administratorių slaptažodžius.
 
-**Nematau vietinio integravimo peilio slaptažodžio nustatymo iš naujo**
+**Slaptažodžio nustatymo iš naujo metu nematau vietinio integravimo disko**
 
-- Vietinis integravimo peilis rodomas tik hibridinėse aplinkose – tai reiškia, kad naudojate slaptažodį write, kad galėtumėte manipuliuoti vietinio vartotojo slaptažodžiais.
+- Vietinės integracijos ašmenys rodomas tik hibridinėse aplinkose, t. y. naudojate slaptažodžio nurašymo funkciją, kad valdysite vietinio vartotojo slaptažodžius.
 - Nematote šio disko, jei:
-    - Nenaudojate slaptažodžio įrašymo atgal
-    - Iškilo problema dėl slaptažodžio įrašymo ir diegimo ryšio
-    - Iškilo "Azure AD Connect" diegimo/ryšio problema
-    - Jei reikia daugiau trikčių šalinimo veiksmų problemoms su slaptažodžiais write, žr skyriuje [slaptažodžio įrašymo trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+    - Nenaudojate slaptažodžio įrašymo atgalinio
+    - Kilo problemų dėl slaptažodžio įrašymo įrenginio / ryšio
+    - Kilo "Azure AD" diegimo / ryšio Prisijungimas
+    - Daugiau trikčių šalinimo veiksmų, susijusių su slaptažodžio įrašymo atgalinio rašymo trikčių šalinimu, žr. skyrių Slaptažodžio [įrašymo trikčių šalinimas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Nežinau, kaip iš naujo nustatyti vartotojo slaptažodį**
 
-1. Prisijunkite prie "Azure" portalo kaip tinkamo administratoriaus.
-1. Eikite į diską vartotojai ir grupės, pasirinkite **visi vartotojai**.
+1. Prisijunkite prie "Azure" portalo kaip atitinkamas administratorius.
+1. Eikite į vartotojų ir grupių ašmenį, pasirinkite **Visi vartotojai**.
 1. Pasirinkite vartotoją iš sąrašo.
-1. Pasirinktam vartotojui pasirinkite **apžvalga**, tada komandų juostoje spustelėkite **iš naujo nustatyti slaptažodį**.
-1. Vadovaukitės ekrane pateikiamomis instrukcijomis.
-    - Tik iš naujo vykdomas "Azure" portalo palaikymo slaptažodžio įrašymo metu.
+1. Pasirinktam vartotojui pasirinkite **Apžvalga**, tada komandų juostoje spustelėkite Iš naujo **nustatyti slaptažodį**.
+1. Vykdykite ekrane pateiktas instrukcijas.
+    - Iš naujo nustato tik "Azure" portalo palaikymo slaptažodžio įrašymo atgalinę kopiją.
 
-**Iš naujo nustatyti vietinio vartotojo slaptažodį iš "Office 365" administravimo portalo arba "Office 365 Mobile" taikomosios programos, tačiau vartotojas vis tiek negali prisijungti**
+**Iš naujo nustatou vietinio vartotojo slaptažodį iš "Office 365 Admin" portalo arba "Office 365 mobiliųjų įrenginių taikomosios programos, tačiau vartotojas vis tiek negali prisijungti**
 
-Slaptažodžio write-back nepalaiko šiame portale. Iš naujo nustatyti vartotojo slaptažodį dar kartą "Azure" portale – portal.azure.com
+Slaptažodžio rašymas šiame portale nepalaikomas. Iš naujo nustatykite vartotojo slaptažodį "Azure" portale – portal.azure.com
 

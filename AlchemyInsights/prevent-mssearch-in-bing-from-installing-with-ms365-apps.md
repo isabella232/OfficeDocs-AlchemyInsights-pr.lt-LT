@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" ieškos \"Bing\" diegimas naudojant \"Microsoft\" 365 taikomąsias programas"
+title: "\"\"Microsoft\" ieška\" Bing įdiegti naudojant \"\"Microsoft 365\" programos"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040118"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>"Microsoft" ieškos "Bing" diegimas naudojant "Microsoft" 365 taikomąsias programas
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>""Microsoft" ieška" Bing įdiegti naudojant ""Microsoft 365" programos
 
-Jei norite, kad "Bing" "Microsoft" ieškos fone tarnyba negalėtų įdiegti "Microsoft" 365 taikomųjų programų įmonėms, naudokite vieną iš šių parinkčių:
+Norėdami, kad ""Microsoft" ieška" Bing fono tarnyba nediegtų naudojant ""Microsoft 365" programos įmonėms", naudokite vieną iš šių parinkčių:
 
 - "Office" diegimo įrankis arba grupės strategija
-- "Microsoft Endpoint Configuration Manager" (dabartinė šaka) arba "Microsoft Intune"
+- Microsoft Endpoint Configuration Manager (dabartinė šaka) arba "Microsoft Intune"
 
-Norėdami sužinoti daugiau, Sužinokite, kaip apsisaugoti nuo "Microsoft" [ieškos su "Microsoft" "365" programų, skirtų įmonėms](https://go.microsoft.com/fwlink/?linkid=2151946), "Microsoft" ieškos "Bing".
+Norėdami sužinoti daugiau, žr. Kaip neleisti [""Microsoft" ieška" Bing", naudojant ""Microsoft 365" programos įmonėms".](https://go.microsoft.com/fwlink/?linkid=2151946)

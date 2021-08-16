@@ -1,5 +1,5 @@
 ---
-title: 204 kaip sužinoti, ar trūksta "Outlook" pašto, kalendoriaus ar kontaktų
+title: 204 Kaip rasti trūkstamus arba atkurti trūkstamus laiškus Outlook kalendorių ar kontaktus
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029164"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kaip surasti ir atkurti trūkstamus laiškus, kontaktus ar kalendoriaus elementus programoje "Outlook"
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kaip rasti ir atkurti trūkstamus laiškus, kontaktus arba kalendoriaus elementus Outlook
 
-1. Programoje "Outlook" eikite į savo laiškų aplanką sąrašas, tada pasirinkite **pašalinti elementai**. **Svarbu**: Jei nematote aplanko **panaikinta** , tačiau matote aplanką **Šiukšlinė** , jūsų abonementas nepalaiko elemento, kurio nebėra **panaikintų elementų** aplanke, atkūrimo.
+1. "Outlook" eikite į savo el. pašto aplankų sąrašą, tada **pasirinkite Panaikinti elementai**. **Svarbu:** jei nematote aplanko  Panaikinti elementai, bet vietoj  to matote aplanką Šiukšlinė, jūsų paskyra nepalaiko elemento, kuris nebėra aplanke Panaikinti **elementai, atkūrimo.**
 
-2. Meniu **Pagrindinis** spustelėkite **Atkurti panaikintus elementus iš serverio**. **Svarbu**: jei meniu nėra komandos **Atkurti panaikintus elementus iš serverio** , jūsų abonementas nepalaiko elemento, kurio nebėra **panaikintų elementų** aplanke, atkūrimo.
+2. Meniu **Pagrindinis** spustelėkite Atkurti **panaikintus elementus iš serverio.** **Svarbu:** jei **meniu** nėra komandos Atkurti panaikintus elementus iš serverio, jūsų paskyra nepalaiko elemento, kuris nebėra aplanke Panaikinti **elementai,** atkūrimo.
 
-3. Pažymėkite norimus atkurti elementus, spustelėkite **Atkurti pažymėtus elementus**, tada spustelėkite **gerai**.
+3. Pažymėkite elementus, kuriuos norite atkurti, spustelėkite **Atkurti pasirinktus elementus**, tada spustelėkite **Gerai**.
 
-**Kur yra atkurtos prekės?** Kai atkuriate elementus iš aplanko Atkuriami elementai, jie perkeliami į aplanką **panaikinta** . Kai atkursite elementą, galite jį surasti aplanke **panaikinta** ir galite jį perkelti į kitą aplanką.
+**Kur atkurti elementai?** Kai atkuriate elementus iš aplanko Atkuriami elementai, jie perkeliami į **aplanką Panaikinti** elementai. Kai atkursite elementą, jį  rasite aplanke Panaikinti elementai, tada galėsite jį perkelti į kitą aplanką.
 
-Taip pat galite naudoti problemą **, dėl kurios**kilo [problemų siunčiant, gaunant arba ieškant el. laiškų](https://aka.ms/SaRA-OutlookSendReceive) . Šis įrankis tikrina keletą problemų ir pasiūlys galimus sprendimus.
+Taip pat galite naudoti man kyla problemų siunčiant, gaunant arba ieškant [el. laiškų įrankio](https://aka.ms/SaRA-OutlookSendReceive) **paveiktame kompiuteryje.** Šis įrankis patikrins, ar yra įvairių problemų, ir pasiūlys galimus sprendimus.

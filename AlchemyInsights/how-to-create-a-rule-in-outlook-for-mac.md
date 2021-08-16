@@ -1,5 +1,5 @@
 ---
-title: 1800021 kaip sukurti taisyklę programoje "Outlook", skirtai "Mac"
+title: 1800021 Kaip sukurti taisyklę "mac" Outlook".
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e83453ed21348cc723b25bbf071709363d1eeaf2efda5e630c6431f62d348037
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015736"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kaip sukurti taisyklę programoje "Outlook for Mac"
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kaip sukurti taisyklę "mac" Outlook".
 
-1. Norėdami sukurti aplanką, kuriame būtų galima laikyti el. laiškus, siunčiamus pagal taisyklę, pasirinkite šaknies pašto dėžutę, skirtuke **tvarkyti** spustelėkite **Naujas aplankas**, įveskite aplanko pavadinimą ir paspauskite klavišą "įvesti".
+1. Norėdami sukurti aplanką, kuriame būtų pagal taisyklę siunčiami el. laiškai, pasirinkite šakninį pašto dėžutę, skirtuke Tvarkymas spustelėkite Naujas aplankas **,** įveskite aplanko pavadinimą ir paspauskite "Enter". 
 
-2. Laiškų sąraše spustelėkite el. laišką, kuriam norite sukurti taisyklę.
+2. Laiškų sąraše spustelėkite el. laišką, kurio taisyklę norite sukurti.
 
-3. Skirtuke **Pagrindinis** spustelėkite **taisyklės**, tada spustelėkite **kurti taisyklę**.
+3. Skirtuke **Pagrindinis** spustelėkite **Taisyklės**, tada spustelėkite **Kurti taisyklę.**
 
-4. Dalyje **kai gaunamas naujas laiškas** , redaguokite kriterijus, kad jie atitiktų jūsų poreikius. 
+4. Dalyje **Gavus naują pranešimą, redaguokite** kriterijus, kad jie atitiktų jūsų poreikius. 
 
-Išsamių instrukcijų, kaip kurti tinkintas taisykles, ieškokite [straipsnyje taisyklės kūrimas naudojant "Outlook", skirtą "Mac](https://aka.ms/AA1uy0v) "
+Išsamias instrukcijas, kaip kurti pasirinktines taisykles, žr. Taisyklės [kūrimas "Outlook for Mac"](https://aka.ms/AA1uy0v)
   
