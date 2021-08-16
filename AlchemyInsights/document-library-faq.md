@@ -14,23 +14,23 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba373dc3a21e75870e30f6dd3fd60223738aab7b72e721cf7a1067aa69d829ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030721"
 ---
 # <a name="document-library-faq"></a>Dokumentų bibliotekos DUK
 
 **Dokumentų bibliotekų trikčių šalinimas:**
 
-Eikite [į "SharePoint Online"](https://docs.microsoft.com/sharepoint/troubleshoot/online) trikčių diagnostiką ir "Filtruoti pagal pavadinimą" arba rankiniu būdu detalizuoti straipsnius dalyje "Sąrašai ir bibliotekos".
+Pereikite į [SharePoint trikčių diagnostiką](https://docs.microsoft.com/sharepoint/troubleshoot/online) ir "Filtruoti pagal pavadinimą" arba rankiniu būdu detalizuoti straipsnius dalyje "Sąrašai ir bibliotekos".
 
 **Norėdami sužinoti apie dokumentų bibliotekas:**
 
-- [Dokumentų bibliotekos kūrimas "SharePoint"](https://support.office.com/article/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939)
-- [Failų nusiuntimas į biblioteką](https://support.office.com/article/upload-files-to-a-library-da549fb1-1fcb-4167-87d0-4693e93cb7a0)
+- [Dokumentų bibliotekos kūrimas naudojant "SharePoint](https://support.office.com/article/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939)
+- [Upload failų į biblioteką](https://support.office.com/article/upload-files-to-a-library-da549fb1-1fcb-4167-87d0-4693e93cb7a0)
 - [Sąrašo arba bibliotekos teisių redagavimas](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [Aplanko, failo arba saito perkėlimas arba kopijavimas dokumentų bibliotekoje](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 - [Sąrašo arba bibliotekos versijų įgalinimas ir konfigūravimas](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)

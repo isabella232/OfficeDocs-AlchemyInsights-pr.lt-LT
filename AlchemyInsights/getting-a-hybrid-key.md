@@ -1,5 +1,5 @@
 ---
-title: Hibridinio rakto gavimas
+title: Hibridinio rakto g
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056534"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>"Exchange" hibridinio rakto gavimas
+# <a name="getting-an-exchange-hybrid-key"></a>Kaip gauti Exchange hibridinį raktą
 
-Norėdami prijungti savo vietinę organizaciją prie "Exchange Online" "Microsoft 365", turite nustatyti bent vieną "Exchange" serverį vietinėje organizacijoje. Šis serveris naudojamas hibridiniam diegimui, kuri sujungia jūsų vietinę "Exchange" organizaciją su "Exchange Online", kurti. Norėdami gauti hibridinį raktą šiam serveriui, atlikite veiksmus [Exchange hibridinio produkto kodo platinimo vediklyje](https://aka.ms/hybridkey).
+Norėdami prijungti vietinę organizaciją prie Exchange Online Microsoft 365, turite nustatyti bent vieną Exchange serverį vietinėje organizacijoje. Šis serveris naudojamas hibridinio diegimo, kuris prijungia jūsų vietinę Exchange prie Exchange Online. Norėdami gauti šio serverio hibridinį kodą, atlikite veiksmus, nurodytus [Exchange produkto kodo paskirstymo vediklio](https://aka.ms/hybridkey).
   

@@ -1,5 +1,5 @@
 ---
-title: Perkelti domeną tarp nuomininkų
+title: Domeno perkėlimas tarp nuomotojų
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048632"
 ---
-# <a name="transfer-domain-between-tenants"></a>Perkelti domeną tarp nuomininkų
+# <a name="transfer-domain-between-tenants"></a>Domeno perkėlimas tarp nuomotojų
 
-Pasirinktinio domeno, pvz., "forthcoffee.com", galima pašalinti iš vieno nuomotojo ir patvirtinti naujame nuomotojuje.
+Pasirinktinį domeną, pvz., forthcoffee.com, galima rankiniu būdu pašalinti iš vieno nuomotojo, tada patvirtinti naujame nuomotoje.
 
-Atlikite šiuos veiksmus, kad [pašalintumėte domeną](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Tada naujame nuomotojo eikite į **Parametrai**  >  **domenai**  >  **įtraukti domeną**.
+Atlikite šiuos [veiksmus, kad pašalintumėte domeną.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Tada naujame nuomotoje eikite į **Parametrai**  >  **Domenai**  >  **Įtraukti domeną.**
 
-Jei reikia sudėtingesnių scenarijų, peržiūrėkite ["Microsoft 365" nuomotojų iki nuomotojų perkėlimus](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Sudėtingesnių scenarijų ieškokite [Microsoft 365 iš nuomotojo į nuomotojo perkėlimą](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
 
-**Taip pat Pastaba**:
-- Pradinio onmicrosoft.com domeno negalima naikinti arba perkelti tarp nuomotojų.
-- Iš "Microsoft" įsigyto pasirinktinio domeno negalima perkelti tarp nuomotojų.
+**Taip pat atkreipkite dėmesį:**
+- Pradinio onmicrosoft.com negalima panaikinti arba perkelti tarp nuomotojų.
+- Pasirinktinio domeno, įsigyto iš "Microsoft", negalima perkelti tarp nuomotojų.

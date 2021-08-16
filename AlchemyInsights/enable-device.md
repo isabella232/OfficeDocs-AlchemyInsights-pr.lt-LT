@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8278"
-ms.openlocfilehash: 9e4b03dcba7a2c98a5d63213ee49f9ba8f91d670
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4722ccf6847fc6c02616dbc62d59a2a87c089f77ae79c0a916211af6c5f2a6d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003495"
 ---
 # <a name="enable-device"></a>Įgalinti įrenginį
 
-**Norėdami įgalinti įrenginį naudodami komandą PowerShell**
+**Įrenginio įgalinimo naudojant "PowerShell" komandą**
 
 Vykdykite toliau pateiktas komandas.
 
 - Norėdami gauti įrenginio objektą: `Get-MsolDevice -Name <Name>`
 - Norėdami įgalinti įrenginį: `Enable-MsolDevice -DeviceId <DeviceId>`
 
-Daugiau informacijos, kaip konfigūruoti hibridinio sujungimo valdomuosius domenus, ieškokite [hibridinio sujungimo konfigūravimas](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains).
+Daugiau informacijos apie hibridinio prisijungimo konfigūravimą valdomų domenų atveju žr. [Hibridinio sujungimo konfigūravimas.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains)

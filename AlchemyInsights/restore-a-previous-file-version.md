@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039578"
 ---
 # <a name="restore-a-previous-file-version"></a>Ankstesnės failo versijos atkūrimas
 
-Naudodami internetinę versijų retrospektyvą, galite peržiūrėti ir atkurti ankstesnes failų versijas "OneDrive" arba "SharePoint". Versijų retrospektyva veikia su visais failų tipais, įskaitant PDF, CAD failus, nuotraukas ir vaizdo įrašus. Norėdami atkurti ankstesnę failo versiją:
+Naudodami internetinę versijų retrospektyvą, galite matyti ir atkurti ankstesnes failų versijas "OneDrive" arba SharePoint. Versijų retrospektyva veikia su visų tipų failais, įskaitant PDF, CAD failus, nuotraukas ir vaizdo įrašus. Norėdami atkurti ankstesnę failo versiją:
   
-1. Atidarykite "SharePoint" dokumentų biblioteką arba "OneDrive" vietą.
+1. Atidarykite SharePoint biblioteką arba "OneDrive" vietą.
     
-2. Spustelėkite failo kairėje, kad jį pažymėtumėte, tada spustelėkite **versijų retrospektyva**. Jei komandų juostoje nematote versijų retrospektyvos, spustelėkite daugiau ( **...** ). 
+2. Spustelėkite kairėje failo pusėje, kad jį pasirinktumėte, tada spustelėkite **Versijų retrospektyva**. Jei komandų juostoje nematote versijų retrospektyvos, spustelėkite Daugiau ( **...** ). 
     
-3. Spustelėkite norimą peržiūrėti versiją arba spustelėkite daugiau ( **...** ), esančią versijos dešinėje, tada spustelėkite **atkurti**.
+3. Spustelėkite versiją, kurią norite peržiūrėti, arba spustelėkite Daugiau ( **...** ) į dešinę nuo versijos, tada spustelėkite **Atkurti**.
     
 

@@ -1,5 +1,5 @@
 ---
-title: "\"Access\" užklausų tvarkymas"
+title: Prieigos užklausų valdymas
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8674f8612dc2310b622f9324a515bb5d88b43271ac9d1a474eefa1be3cae750
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066840"
 ---
-# <a name="manage-access-requests"></a>"Access" užklausų tvarkymas
+# <a name="manage-access-requests"></a>Prieigos užklausų valdymas
 
-Kai vartotojas bando pasiekti elementą "SharePoint", o jie neturi teisės, jie matys pranešimą, kad jiems reikia teisės pasiekti elementą. Vartotojas gali paprašyti prieigos (kai kuriais atvejais prie konkretaus elemento arba prisijungti prie grupės), o svetainės savininkas gali patvirtinti arba atmesti užklausą. Jei asmuo, kuris nėra svetainės savininkas, bendrina svetainę su kitu asmeniu, svetainės savininkas taip pat gaus "Access" užklausą naujam vartotojui. Norėdami patvirtinti arba atmesti "Access" užklausas:
+Kai vartotojas bando pasiekti elementą SharePoint ir neturi teisių, jis matys pranešimą, kad jis turi teisę pasiekti elementą. Vartotojas gali prašyti prieigos (kai kuriais atvejais prie konkretaus elemento arba prisijungti prie grupės), o svetainės savininkas gali patvirtinti arba atmesti užklausą. Jei kas nors, kas nėra svetainės savininkas, bendrina svetainę su kitu asmeniu, svetainės savininkas taip pat gaus prieigos užklausą naujam vartotojui. Norėdami patvirtinti arba atmesti prieigos užklausas:
   
-1. Eikite į svetainę, viršuje dešinėje spustelėkite piktogramą parametrai, tada spustelėkite **Svetainės parametrai**. (Jei nematote svetainės parametrų, spustelėkite **svetainės teisės**, tada spustelėkite **Išplėstinės teisės parametrai**. Ieškokite reklaminės juostos, kurios saitas vadinamas "Rodyti prieigos užklausas ir kvietimus.")
+1. Eikite į svetainę, spustelėkite Parametrai piktogramą viršutiniame dešiniajame kampe, tada spustelėkite **Svetainės Parametrai**. (Jei nematote parinkties Svetainės Parametrai spustelėkite **Svetainės teisės**, tada spustelėkite **Išplėstiniai teisių parametrai**. Ieškokite reklaminės juostos, kurios saitas vadinamas "Rodyti prieigos užklausas ir kvietimus".
     
-2. Dalyje **vartotojai ir teisės**spustelėkite **prieigos užklausos ir kvietimai**. (Jei tai nerodoma, "Access" užklausos nebuvo pateiktos.)
+2. Dalyje **Vartotojai ir teisės** spustelėkite **"Access" užklausos ir kvietimai**. (Jei tai nerodoma, nebuvo pateikti jokie prieigos prašymai.)
     
-3. Norėdami suteikti vartotojo teises atskirai, spustelėkite **tvirtinti** arba **atmesti**. Norėdami pasirinkti konkretų teisių lygį, pirmiausia spustelėkite daugtaškį (...) šalia asmens vardo. Taip pat galite įtraukti vartotoją į grupę, kuri turi teisę į svetainę. Norėdami naudoti ryšių svetaines ir klasikines komandos svetaines, galite tai padaryti puslapyje Svetainės parametrai. Svetainėms, priklausančioms "Microsoft 365" grupei, galite įtraukti vartotoją į grupę.
+3. Norėdami suteikti vartotojo teises atskirai, spustelėkite **Patvirtinti arba** **Atmesti**. Norėdami pasirinkti konkretų teisių lygį, pirmiausia spustelėkite daugtaškį (...) šalia asmens vardo. Arba įtraukite vartotoją į grupę, kuri turi teisę į svetainę. Jei naudojate ryšių svetaines ir klasikines komandos svetaines, tai galite padaryti svetainės Parametrai puslapyje. Svetainių, kurios priklauso Microsoft 365 grupei, galite įtraukti vartotoją į grupę.
     
-    ["Access" užklausų tvarkymas ](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Prieigos užklausų valdymas ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Daugiau informacijos apie teisių rinkinius](https://go.microsoft.com/fwlink/?linkid=867071)
     
