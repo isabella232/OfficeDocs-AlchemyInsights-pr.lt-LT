@@ -1,5 +1,5 @@
 ---
-title: "\"Intune Exchange\" vietinis sujungimas"
+title: "\"Intune Exchange vietinė jungtis"
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013972"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>"Intune Exchange" vietinis sujungimas
+# <a name="intune-exchange-on-premise-connector"></a>"Intune Exchange vietinė jungtis
 
-Išsamios informacijos, kaip nustatyti jungtį tarp "Intune" ir "Exchange", kuri laikoma vietinėje svetainėje, rasite toliau pateiktus dokumentus.
+Išsamesnės informacijos, kaip nustatyti jungtį tarp "Intune" ir "Exchange, kurios ištekliai nuomojami vietoje, ieškokite šioje dokumentacijoje:
 
-["Microsoft Intune" "Azure" "Microsoft Intune" vietinio "Exchange" jungties nustatymas](https://docs.microsoft.com/intune/exchange-connector-install)
+[Vietinės "Intune" jungties Exchange ""Microsoft Intune" Azure"](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**DUK**
+**DUK:**
 
-K: matau klaidą, pvz., "Exchange Connector versija nepalaikoma" bandant nustatyti "Exchange" jungtį. Kas gali būti priežastis?
+K: matau klaidą, pvz., "Exchange jungties versija nepalaikoma" bandant nustatyti Exchange jungtį. Kokia gali būti priežastis?
 
-A: jūsų naudojama paskyra licencijuota tinkamai – joje turi būti "Active Intune" licencija
+A: jūsų naudojama paskyra tinkamai licencijuota – ji turi turėti aktyvią "Intune" licenciją
 
-K: ar galima turėti kelias "Exchange" jungtis?
+K: Ar galima turėti kelias Exchange jungtis?
 
-A: galite nustatyti tik vieną "Exchange" jungtį per "Intune" nuomotoją vienai "Exchange" organizacijai. Jungtis gali būti įdiegta tik viename serveryje kelių serverių "Exchange" organizacijoje.
+A: Galite nustatyti tik vieną Exchange jungtį vienam "Intune" nuomotojui Exchange organizacijoje. Jungtį galima įdiegti tik viename kelių serverių mainų organizacijos serveryje.
 
-Taip pat negalite sukonfigūruoti "Exchange" ir "Exchange Online" konfigūruojamų tame pačiame nuomotojo jungčių.
+Taip pat negalite sukonfigūruoti jungčių, Exchange vietiniame ir Exchange Online tame pačiame nuomotoje.
 
-K: ar jungtyje galima naudoti CAS masyvą kaip jo jungtį su "Exchange"?
+K: ar jungtis gali naudoti CAS masyvą kaip ryšį su Exchange?
 
-A: CAS masyvas nurodo, kad jungties nustatyme nėra palaikomos konfigūracijos. Reikia nurodyti tik vieną serverį ir turi būti kieta jungties konfigūracijos faile, kurį galima rasti
+A: CAS masyvo nurodymas jungties sąrankoje nėra palaikoma konfigūracija. Turi būti nurodytas tik vienas serveris ir jis turėtų būti užkoduotas jungties konfigūracijos faile, kurį galima rasti
 
-programos "data\microsoft\microsoft Intune" vietinis Exchange Connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Raskite šį įrašą ```<ExchangeWebServiceURL />``` ir pakeiskite URL naudodami "Exchange" serverį.
+Raskite šį įrašą ```<ExchangeWebServiceURL />``` ir pakeiskite URL "Exchange" serveriu.
 
-**Pavyzdžiui**
+**Pavyzdys:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Jei turite papildomų trikčių šalinimo veiksmų, peržiūrėkite šiuos dokumentus: ["Intune" vietinio "Exchange" jungties trikčių diagnostika](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Daugiau trikčių diagnostikos žr. šioje dokumentacijoje: [Vietinės "Intune"](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune) Exchange trikčių šalinimas
 
-**Įgalinimo "Exchange" jungties Įgalinę išsamų registravimą**
+**Daugiažodės jungties daugiažodinio Exchange įgalinimas**
 
-1. Atidarykite "Exchange" jungties sekimo konfigūracijos failą, skirtą redaguoti.  
-Failas yra:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Atidarykite Exchange jungties sekimo konfigūracijos failą, kad jį būtų galima redaguoti.  
+Failas yra : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Pavyzdžiui**
+**Pavyzdys:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Raskite "TraceSourceLine" su šiuo raktu: OnPremisesExchangeConnectorService  
+2. Raskite TraceSourceLine naudodami šį raktą: OnPremisesExchangeConnectorService  
   
-3. Keisti SourceLevel mazgo reikšmę iš informacijos ActivityTracing (numatytoji) į išsamų ActivityTracing  
+3. Mazgo SourceLevel reikšmės keitimas iš Informacijos veiklaSątrauka (numatytoji reikšmė) į Išsami veiklaSątrauka  
 
-**Pavyzdžiui**
+**Pavyzdys:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Failas yra:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConf
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. "Microsoft Intune" "Exchange" tarnybos paleidimas iš naujo  
-5. Visas sinchronizavimas "Intune" portale, kol jis baigs ir pakeis XML į "Information ActivityTracing" ir iš naujo paleiskite "Microsoft Intune" "Exchange" tarnybą.  
-6. Žurnalų vieta: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
+4. Iš naujo paleiskite "Microsoft Intune" Exchange tarnybą  
+5. Visiškas sinchronizavimas "Intune" portale, kol jis baigsis, tada pakeiskite XML atgal į "Information ActivityTracing" ir iš naujo paleiskite "Microsoft Intune" Exchange tarnybą.  
+6. Žurnalų vieta yra: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

@@ -1,5 +1,5 @@
 ---
-title: El. laiško parašo kūrimas naudojant "Outlook 2016"
+title: El. pašto parašo kūrimas Outlook 2016
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045248"
 ---
-# <a name="create-an-email-signature-in-outlook-2016"></a>El. laiško parašo kūrimas naudojant "Outlook 2016"
+# <a name="create-an-email-signature-in-outlook-2016"></a>El. pašto parašo kūrimas Outlook 2016
 
-Programoje "Outlook" jūsų el. pašto parašas gali apimti tekstą, vaizdus, jūsų elektroninę vizitinę kortelę, logotipą ar net ranka rašyto parašo vaizdą.
+Naudojant Outlook parašą gali būti tekstas, vaizdai, elektroninė vizitinė kortelė, logotipas ar net ranka rašyto parašo vaizdas.
 
-1. Programoje "Outlook" atidarykite naują el. laišką.
-2. Skirtuke **laiškas** **pasirinkite parašų**  >  **parašai**.
-3. Dalyje **pasirinkite redaguotiną parašą** pasirinkite **naujas**, tada įveskite parašo pavadinimą.
-4. Dalyje **Redaguoti parašą** kurkite parašą.
+1. "Outlook" atidarykite naują el. laišką.
+2. Skirtuke **Pranešimas** pasirinkite **Parašo**  >  **parašai**.
+3. Dalyje **Pasirinkite norimą redaguoti parašą** **pasirinkite** Naujas , tada įveskite parašo pavadinimą.
+4. Dalyje **Redaguoti parašą** sukurkite savo parašą.

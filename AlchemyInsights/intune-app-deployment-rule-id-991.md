@@ -1,5 +1,5 @@
 ---
-title: "\"Intune\" taikomųjų programų diegimo taisyklės ID 991"
+title: "\"Intune\" taikomosios programos diegimo taisyklės ID 991"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014116"
 ---
-# <a name="intune-app-deployment"></a>Intune taikomųjų programų diegimas
+# <a name="intune-app-deployment"></a>"Intune" taikomosios programos diegimas
 
-Taikomųjų programų su Intune diegimas yra trijų etapų procesas:
+Taikomųjų programų diegimas naudojant "Intune" yra trijų veiksmų procesas:
   
-1. Taikomosios **Programos įtraukimas** – galite įtraukti taikomosios programos saugyklos programėlę arba nusiųsti verslo taikomosios programos eilutę.
+1. **Taikomosios programos įtraukimas** – galite įtraukti programėlę "App Store" arba nusiųsti "Line of Business" taikomąją programą.
 
-2. Taikomosios **programos priskyrimas** – nustatykite taikomosios programos diegimo apimtį.
+2. **Taikomosios programos priskyrimas** – nustatykite taikomosios programos diegimo aprėptį.
 
-3. **Taikomųjų programų stebėjimas** – Peržiūrėkite taikomųjų programų diegimo būseną, rastų programėlių sąrašą ir tvarkykite programas, įsigytas iš taikomųjų programų parduotuvių.
+3. **Programų stebėjimas** – peržiūrėkite programėlių diegimo būseną, sąrašą, aptiktas programėles ir tvarkykite programėles, įsigytas iš programėlių parduotuvių.
 
-Skaitykite, [kas yra Intune programų valdymas](https://docs.microsoft.com/intune/app-management) , skirtas walkthroughs ir informacijos apie taikomųjų programų konfigūravimą ir apsaugą.
+Skaitykite [Kas yra "Intune" programėlių valdymas,](https://docs.microsoft.com/intune/app-management) skirtas vadovams ir informacijai apie taikomųjų programų konfigūravimą ir apsaugą.
   

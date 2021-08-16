@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: c5d23ac050d92c1d6b8c188707255de0abf0b95c
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: MT
+ms.openlocfilehash: 5845258aeccc700e865ab109be8662ccc61ffc15c0a4fc7439449af22c73b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016240"
 ---
 # <a name="create-a-private-channel"></a>Asmeninio kanalo kūrimas
 
-Pagal numatytuosius, bet kuris komandos savininkas arba komandos narys gali kurti privatų kanalą. Svečiai negali kurti asmeninio kanalo. 
+Pagal numatytuosius nustatymus bet kuris komandos savininkas arba komandos narys gali sukurti privatų kanalą. Svečiai negali sukurti privačiojo kanalo. 
 
-Galimybė kurti privačius kanalus gali būti valdoma komandos lygiu ir organizacijos lygiu. Naudokite strategijas, kad kontroliuotumėte, kurie jūsų organizacijos vartotojai gali kurti privačius kanalus. Nustatę strategijas, komandos savininkai gali išjungti arba įgalinti narių privilegiją kurti privačius kanalus skirtuke **Parametrai** .
+Galimybę kurti privačius kanalus galima valdyti komandos lygiu ir organizacijos lygiu. Naudokite strategijas norėdami kontroliuoti, kuriems organizacijos vartotojams leidžiama kurti privačius kanalus. Nustatę strategijas, komandos savininkai gali išjungti arba įgalinti narių teisę kurti privačius kanalus **skirtuke Parametrai** kanalai.
 
 > [!NOTE]
-> Kiekviena komanda gali turėti daugiausia 30 privačiųjų kanalų ir kiekvienas privatus kanalas gali turėti ne daugiau kaip "250" narių.
+> Kiekviena komanda gali turėti daugiausia 30 privačių kanalų, o kiekviename privačiame kanale gali būti ne daugiau kaip 250 narių.
 
-Daugiau informacijos ieškokite [asmeninis kanalo kūrimas](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
+Daugiau informacijos ieškokite Private [Channel Creation](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
 
 

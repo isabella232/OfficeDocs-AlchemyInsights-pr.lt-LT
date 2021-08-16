@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074364"
 ---
 # <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Vietos diske įrašymas naudojant "OneDrive" failus pagal poreikį, skirtą "Mac"
 
-"OneDrive" failai pagal poreikį padeda pasiekti visus savo failus "OneDrive" nesiunčiant jų visų ir nenaudojant saugojimo vietos įrenginyje.  
+"OneDrive" Failai pagal poreikį padeda pasiekti visus failus ""OneDrive" nereikia jų atsisiųsti ir naudoti saugojimo vietos įrenginyje.  
 
-Jei naudojate naujas "OneDrive" paskyras "Mac OS Mojave" arba naujesnę, "OneDrive" nustatymas įjungiamas pagal numatytuosius parametrus pagal numatytuosius parametrus. Esami vartotojai "OneDrive" nuostatose turi įjungti "Files On-Demand".  
+Naujose ""OneDrive"" paskyrose "Mac OS Mojave" arba naujesnei, "Files On-Demand" yra įjungta pagal numatytuosius parametrus, kai nustatote "OneDrive". Esami vartotojai turi įjungti parinktį Failai pagal poreikį "OneDrive" nuostatose.  
 
 [Sužinokite daugiau apie "Mac OS" pagal poreikį esantys failai.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)

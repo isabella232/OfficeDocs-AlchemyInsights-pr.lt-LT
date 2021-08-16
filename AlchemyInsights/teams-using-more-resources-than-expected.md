@@ -1,5 +1,5 @@
 ---
-title: Komandų atnaujinimo rekomendacijos
+title: Teams versijos naujinimo rekomendacijos
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998699"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>"Teams" naudoja daugiau kompiuterio išteklių nei tikėtasi
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams naudoja daugiau kompiuterio išteklių nei tikėtasi
 
-Puikūs našumo ir vartotojų patirties klausimai yra pagrindiniai "Microsoft" klausimai. "Teams" pradžios laikas pagerėjo ir mes toliau tobulinsime komandas, įskaitant bendrą išteklių suvartojimą.  
+Puikus našumas ir vartotojų patirtis yra pagrindiniai "Microsoft" rūpesčiai. Teams paleidimo laikas gerėja, ir mes ir toliau gerinsime Teams, įskaitant bendrą išteklių naudojimą.  
 
-Informacijos apie "teams" ir išteklių naudojimą ieškokite [kaip "Microsoft teams" naudoja atmintį](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  ir  ["teams" yra lėtas vaizdo įrašų susitikimuose nešiojamuosiuose kompiuteriuose, kurie yra 4k/HDR monitoriuose](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Informacijos apie Teams ir išteklių naudojimą žr. Kaip ["Microsoft Teams"](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) naudoja atmintį ir "Teams" veikia lėtai, kai vaizdo susitikimai nešiojamuosiuose kompiuteriuose prijungti [prie 4K / HDR monitorių.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)

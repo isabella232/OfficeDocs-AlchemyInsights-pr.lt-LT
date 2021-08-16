@@ -1,5 +1,5 @@
 ---
-title: "\"Intune\" įrenginių inventorius"
+title: "\"Intune\" įrenginių atsargos"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014080"
 ---
-# <a name="intune-device-inventory"></a>"Intune" įrenginių inventorius
+# <a name="intune-device-inventory"></a>"Intune" įrenginių atsargos
 
-Įrenginių ašmenys suteikia administratoriui įžvalgų įrenginių dalyje valdymas, kurį naudoja "Intune" vienam įrenginiui. Rodoma informacija: aparatūra, aptiktos taikomosios programos, įrenginio atitikties būsena ir įrenginio konfigūracijos būsena.
+Įrenginių ašmenys suteikia administratoriui įžvalgų apie "Intune" valdymo įrenginius pagal kiekvieną įrenginį. Rodoma informacija: Aparatūra, Aptiktos taikomosios programos, Įrenginio atitikties būsena ir Įrenginio konfigūravimo būsena.
 
-Įrenginių atsargų duomenys ir aptiktos taikomosios programos renkamos septynių dienų ciklu. Taikomosios programos ir specifiniai aparatūros elementai skiriasi atsižvelgiant į įrenginio operacinę sistemą ir į tai, ar įrenginys yra asmeniškai, ar įmonės nuosavybė.
+Aparatūros ir aptiktų taikomųjų programų atsargų duomenys renkami septynių dienų ciklu. Pateiktos taikomosios programos ir konkretūs aparatūros elementai skiriasi atsižvelgiant į įrenginio operacinę sistemą ir į tai, ar įrenginys priklauso asmeniškai, ar įmonės.
 
-Daugiau informacijos rasite [įrenginio informacijos peržiūra "Intune](https://docs.microsoft.com/intune/device-inventory)".
+Daugiau informacijos žr. [įrenginio išsami informacija "Intune"](https://docs.microsoft.com/intune/device-inventory).
 
 **DUK**
 
-K: aš negavau visos inventorizacijos programos, esančios "Intune", įtrauktų į "Windows" įrenginius. kodėlgi ne?
+K: negauiu viso "Intune" užregistruotuose įrenginiuose esančių taikomųjų programų Windows sąrašo. kodėlgi ne?
 
-A: šiuo metu "Windows 10" kompiuteriuose, kurie identifikuojami kaip įmonės įrenginiai, nurodomos tik šiuolaikinės taikomosios programos. Intune nerenka informacijos apie "Win32" taikomąsias programas, įdiegtas šiuose įrenginiuose.
+A: Šiuo metu tik šiuolaikinės programėlės yra išvardytos Windows 10, kurie identifikuojami kaip įmonės įrenginiai. "Intune" nerinks informacijos apie šiuose įrenginiuose įdiegtas "Win32" programas.
 
-K: Kodėl telefono numeriai nerenkami iš visų įrenginių?
+K: kodėl telefono numeriai renkami ne iš visų įrenginių?
 
-A: kai, pvz., paleidus mobiliųjų įrenginių atsargų ataskaitą, į "Intune" priskiriami telefonai, kurie priskiriami įmonės įrenginiams. "Bring-Your-Own" įrenginio telefono numeriai visada yra dalinai užmaskuoti žvaigždute (* * * *) ir rodomi tik keturi paskutiniai skaitmenys.
+A: Telefonai, priskiriami "Intune" įmonės įrenginiams, nėra identifikuojami su visu telefono numeriu, kai, pvz., vykdote mobiliųjų įrenginių atsargų ataskaitą. Jūsų pačių įrenginio telefono numeriai visada iš dalies užmaskuojami žvaigždutėmis (****) ir rodomi tik paskutiniai keturi skaitmenys.

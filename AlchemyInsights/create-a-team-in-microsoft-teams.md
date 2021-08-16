@@ -1,5 +1,5 @@
 ---
-title: Komandos kūrimas "Microsoft teams"
+title: Komandos kūrimas Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: 53e69c5ec5428da7d1469d3b25e242af9d659092
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 4889efc0a86ce7d7b4eeb8595160c0e3e3bb397e5f0d6c5395a54daece512465
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032206"
 ---
-# <a name="create-a-team-in-microsoft-teams"></a>Komandos kūrimas "Microsoft teams"
+# <a name="create-a-team-in-microsoft-teams"></a>Komandos kūrimas Microsoft Teams
 
-Norėdami sukurti komandą "Microsoft teams", atlikite šiuos veiksmus:
+Norėdami sukurti komandą naudodami Microsoft Teams, atlikite šiuos veiksmus:
 
-1. Kairiojoje komandų pusėje spustelėkite **komandos**.
-2. Sąrašo teams apačioje spustelėkite **prisijungti** arba **kurti komandą**.
-3. Spustelėkite **kurti naują komandą**.
+1. Kairiojoje "Teams" pusėje spustelėkite **Teams**.
+2. Komandų sąrašo apačioje spustelėkite Prisijungti **arba sukurkite** **komandą.**
+3. Spustelėkite **Kurti naują komandą.**
 
-Jei kyla problemų kuriant komandą, gali būti taikoma strategija. Daugiau informacijos rasite skyriuje [valdyti, kas gali kurti "Microsoft 365" grupes](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).
+Jei kyla problemų kuriant komandą, gali būti taikoma strategija. Daugiau informacijos žr. [Tvarkyti, kas gali kurti Microsoft 365 grupės](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).

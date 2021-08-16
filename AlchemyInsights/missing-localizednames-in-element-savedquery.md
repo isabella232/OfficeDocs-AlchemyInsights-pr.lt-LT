@@ -1,5 +1,5 @@
 ---
-title: Trūksta "LocalizedNames" elemente "savedquery"
+title: Elemento "savedquery" trūksta "LocalizedNames"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065616"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Trūksta "LocalizedNames" elemente "savedquery"
+# <a name="missing-localizednames-in-element-savedquery"></a>Elemento "savedquery" trūksta "LocalizedNames"
 
-Norėdami gauti pagalbos dėl trūkstamų "LocalizedNames", žiūrėkite ["elementas" savedquery "turi nepilną turinį. Galimų elementų sąrašas: "LocalizedNames" klaida įvyksta importuojant Dynamics 365 sprendimą](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Jei reikia pagalbos dėl trūkstamų "LocalizedNames", žr. ["Elementas "savedquery" turi nebaigtą turinį. Galimų elementų, kurių tikimasi, sąrašas: "LocalizedNames" klaida įvyksta importuojant "Dynamics 365" sprendimą.](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
-Ieškokite specialiųjų simbolių rodinio pavadinime, dėl kurio gali kilti problema. Pašalinkite visus specialiuosius simbolius rodinio pavadinime ir eksportuokite sprendimą dar kartą.
+Rodinio pavadinime ieškokite specialiųjų simbolių, kurie gali sukelti problemą. Pašalinkite visus specialiuosius simbolius rodinio pavadinime ir dar kartą eksportuokite sprendimą.
