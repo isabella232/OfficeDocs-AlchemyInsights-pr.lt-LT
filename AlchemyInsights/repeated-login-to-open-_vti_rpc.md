@@ -1,5 +1,5 @@
 ---
-title: Pakartotinis prisijungimas norint atidaryti _vti_rpc
+title: Pasikartojantis prisijungimas norint atidaryti _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053042"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Pakartotinis prisijungimas norint atidaryti _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>Pasikartojantis prisijungimas norint atidaryti _vti_rpc
 
-Kai dirbate su "OneDrive" failais naudodami "Office 2016", galite matyti pranešimą: "praneškite mums paskyrą, kurią norite naudoti, kad atidarytumėte _vti_rpc." Ši problema buvo išspręsta 1708 versijoje (16.0.8431.2094). Norėdami išspręsti šią problemą, atnaujinkite į naujausią "Office" versiją. Pasirinkite atnaujinti **failų** \> **paskyros** \> **naujinimo parinktis** \> **dabar**.
+Dirbdami su ""OneDrive"" naudodami "Office 2016", galite matyti pranešimą: "Papasakokite mums paskyrą, kurią norite naudoti norėdami atidaryti "_vti_rpc". Ši problema buvo išspręsta 1708 versijoje (16.0.8431.2094). Norėdami išspręsti šią problemą, atnaujinkite į naujausią "Office" versiją. Pasirinkite **Failo** \> **abonemento** \> **naujinimo parinktys Naujinti** \> **dabar**.
   

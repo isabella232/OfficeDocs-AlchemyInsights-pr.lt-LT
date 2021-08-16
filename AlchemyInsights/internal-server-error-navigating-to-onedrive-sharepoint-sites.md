@@ -1,5 +1,5 @@
 ---
-title: Efektyvumo problemos – "SharePoint" arba "OneDrive"
+title: Veikimo problemos– SharePoint arba "OneDrive"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028444"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Vidinė serverio klaida naršant "SharePoint" arba "OneDrive" svetaines
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Vidinė serverio klaida naršant į "SharePoint" arba "OneDrive" svetaines
 
-Vartotojai gali gauti "500" vidinio serverio klaidą bandydami pereiti į "SharePoint" arba "OneDrive" svetaines. 
+Vartotojai gali gauti 500 vidinio serverio klaidos pranešimą bandydami pereiti į SharePoint arba "OneDrive" svetaines. 
 
-Prieš naršydami svetainėje pabandykite išvalyti naršyklės talpyklą.
+Prieš naršydami svetainėje, pabandykite išvalyti naršyklės talpyklą.
 
 
-1. Naršyklėje "Microsoft Edge" eikite į daugiau... > parametrai
+1. Naršyklėje Microsoft Edge Daugiau...> Parametrai
 
-2. Dalyje Valyti naršymo duomenis pasirinkite **pasirinkti, ką išvalyti**
+2. Dalyje Valyti naršymo duomenis pasirinkite Pasirinkti, **ką išvalyti**
 
-3. Pažymėkite žymės langelį Slapukai ir įrašyti svetainės duomenys, tada pasirinkite **valyti**.
+3. Pažymėkite žymės langelį Slapukai ir įrašyti žiniatinklio svetainės duomenys ir pasirinkite **Valyti**.
 
-Pastaba: šie veiksmai gali skirtis, kai naudojamos kitos naršyklės, pvz., "Firefox" arba "Chrome".
+Pastaba: šie veiksmai gali skirtis naudojant kitas naršykles, pvz., "Firefox" arba "Chrome".
 
-Jei tai neišsprendžia problemos, galite patikrinti, ar jūsų nuomotojuje yra aktyvi priežiūra, kai naršote [pranešimų centre](https://portal.office.com/adminportal/home#/MessageCenter).
+Jei tai neišsprendžia problemos, galite patikrinti, ar nuomotoje yra aktyvi priežiūra, pereidami į [pranešimų centrą](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Galiausiai, įsitikinkite, kad apsilankysite [tarnybos sveikatos](https://portal.office.com/adminportal/home#/servicehealth) puslapyje, kad patikrintumėte, ar yra kokių nors galinčių įvykti incidentų.
+Galiausiai, įsitikinkite, [kad apsilankote](https://portal.office.com/adminportal/home#/servicehealth) tarnybos sveikatos puslapyje, kad patikrinsite, ar nėra patarimų / incidentų, kurie gali sėsti.
 
