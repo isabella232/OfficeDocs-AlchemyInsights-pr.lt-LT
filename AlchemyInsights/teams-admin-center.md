@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049352"
 ---
 # <a name="teams-admin-center"></a>„Teams“ administravimo centras
 
@@ -32,5 +32,5 @@ Jei vartotojai neatsiranda „Teams“ administravimo centre, patikrinkite šiuo
 
 - Ar per pastarąsias 24 valandas sukūrėte vartotojus arba licencijas? Prieš atidarydami palaikymo bilietą būtinai palaukite bent 24 valandas.
 - Įsitikinkite, kad priskyrėte reikiamas licencijas?
-- Jei turite vietinę "Active Directory", patikrinkite, ar jūsų vietinės ["Active Directory" lauke ProxyAddresses esanti msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) arba SIP adreso reikšmė yra unikali, o formatas atitinka **sip:** Vartotojo vardas iš ["Microsoft 365" administravimo centro](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Jei ketinate išlaikyti "Skype" verslui serverio diegimą ir turėti vartotojų namams vietinį ir internetinį: vykdykite "Hibridinis nustatymas naudojant **"Teams" ir internetinę "Skype" verslui valdymo** skydo "Skype" verslui serverio valdymo skydą ir perkelkite vartotojus internete.
+- Jei turite vietinę "Active Directory", patikrinkite, ar [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) arba SIP adreso reikšmė vietinės "Active Directory" lauke ProxyAddresses yra unikali, o formatas atitinka **sip:** vartotojo vardas iš [""Microsoft 365" administravimo centras".](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Jei ketinate toliau diegti ""Skype" verslui serverio leidimas" ir norite, kad vartotojai būtų namuose vietoje ir internete: **vykdykite "Set up hybrid with Teams and "Skype" verslui Online" ""Skype" verslui serverio leidimas** Control Panel" ir perkelkite vartotojus internete.

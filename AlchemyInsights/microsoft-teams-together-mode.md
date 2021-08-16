@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft teams\" kartu režimas"
+title: Microsoft Teams Kartu režimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012244"
 ---
-# <a name="microsoft-teams-together-mode"></a>"Microsoft teams" kartu režimas
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Kartu režimas
 
-Bendras režimas jungia dešimtmečius tyrimų ir produktų kūrimo dalyviams vaizdo skambučiu, kad būtų rodomas kartu virtualioje erdvėje, pvz., auditorija, susitikimų kambarys arba kavos baras. 
+Kartu režimas sujungia dešimtis tyrimų ir produktų kūrimo, kad vaizdo skambučio dalyviai būtų rodomi kartu virtualioje erdvėje, pvz., auditorijoje, susitikimų kambaryje ar kavos juostoje. 
 
-Naujos funkcijos grioviai tradicinis laukų tinklelis, kuriant aplinką, kurioje vartotojai Šneka, turi didelį poveikį vaizdo konferencijos jausme ir teikia daugiau sanglaudos grupei. Norėdami daugiau sužinoti apie režimą kartu, Sužinokite, [kaip geriausiai išnaudoti "Together" režimą](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Naujoji funkcija griauža tradicinį dėžučių tinklelį, sukurdama aplinką, kurią vartotojai sako, turi didelį poveikį vaizdo konferencijos sąrangai ir užtikrina grupę labiau sanglaudą. Norėdami sužinoti daugiau apie "Together" režimą, [žr. Kaip išgauti visas iš "Together" režimo](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Daugiau informacijos apie tai, kada jūsų organizacijai bus skirtas bendras režimas, ieškokite "Microsoft 365" veiksmų planas, ["Microsoft teams" – kartu](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Daugiau informacijos apie tai, kada jūsų organizacijai bus pasiekiamas režimas Kartu, žr. Microsoft 365 Veiksmų [planas, Microsoft Teams – kartu režimas](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

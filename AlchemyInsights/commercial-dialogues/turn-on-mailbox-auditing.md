@@ -1,5 +1,5 @@
 ---
-title: Pašto dėžučių tikrinimo įjungimas
+title: Pašto dėžutės tikrinimo įjunkite
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058046"
 ---
-# <a name="turn-on-mailbox-auditing"></a>Pašto dėžučių tikrinimo įjungimas
+# <a name="turn-on-mailbox-auditing"></a>Pašto dėžutės tikrinimo įjunkite
 
-Norėdami įjungti vieno vartotojo ar visos organizacijos pašto dėžučių tikrinimą, paleiskite šias "cmdlet" iš "Remote PowerShell":
+Norėdami įjungti pašto dėžutės auditą vienam vartotojui arba visai organizacijai, vykdykite šias "cmdlet" iš nuotolinės "PowerShell":
 
-- **Vienas vartotojas**: Set-Mailbox-tapatybė "Jane Dow"-AuditEnabled $TRUE
-- **Organizacija**: Get-Mailbox-Resultisize Unlimited-filtruoti {RecipientTypeDetails-EQ "UserMailbox"} | Set-Mailbox – AuditEnabled $true
+- **Vienas vartotojas**: Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
+- **Organizacija:** Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
 
-Norėdami sužinoti daugiau, peržiūrėkite [pašto dėžutės tikrinimo tvarkymas](https://go.microsoft.com/fwlink/?linkid=2103668).
+Norėdami sužinoti daugiau, [žr. Pašto dėžučių audito valdymas](https://go.microsoft.com/fwlink/?linkid=2103668).

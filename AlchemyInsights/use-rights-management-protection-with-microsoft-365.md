@@ -13,18 +13,18 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 8b3eec34c3c5be2ffbf5cec73adf0637600b13ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b57387176c9a3098c1967da953c6f178ea174204f5a31334f71ddd143d66d92c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998504"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Teisių valdymo apsaugos naudojimas su „Microsoft 365“
 
 Prieš naudodami informacijos teisių valdymo (IRM) funkcijas „Microsoft“ programų ir paslaugų, turite aktyvinti [teisių valdymo tarnybą (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms).
 
-1. Licencijų reikalavimų ir aktyvinimo iš **"Microsoft 365" administravimo** centro ieškokite Kaip aktyvinti teisių valdymo [apsaugą iš "Microsoft 365" administravimo centro](https://docs.microsoft.com/azure/information-protection/activate-office365). **Pastaba**: reikia visuotinės administravimo paskyros.
+1. Jei reikia licencijų reikalavimų ir aktyvinimo **iš "Microsoft 365" administravimo centras**, [žr. Kaip aktyvinti](https://docs.microsoft.com/azure/information-protection/activate-office365)teisių valdymo apsaugą nuo "Microsoft 365" administravimo centras . **Pastaba**: reikia visuotinės administravimo paskyros.
 
 2. Licencijos reikalavimus ir kaip suaktyvinti naudojant **„Microsoft Azure“ portalą**, žr. [Kaip aktyvinti teisių valdymo tarnybą iš „Microsoft Azure“portalo](https://docs.microsoft.com/azure/information-protection/activate-azure). **Pastaba**: nereikia visuotinės administravimo paskyros.
 
