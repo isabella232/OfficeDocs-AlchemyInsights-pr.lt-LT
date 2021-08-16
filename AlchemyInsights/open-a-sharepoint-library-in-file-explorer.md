@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" bibliotekos atidarymas failų naršyklėje"
+title: Atidarykite SharePoint biblioteką failų naršyklėje
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025258"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>"SharePoint" bibliotekos atidarymas failų naršyklėje
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Atidarykite SharePoint biblioteką failų naršyklėje
 
-1. Pereikite į biblioteką programoje "Internet Explorer 10" arba "Internet Explorer 11". 
+1. Eikite į biblioteką programoje "Internet Explorer 10 Internet Explorer 11". 
     
-2. Spustelėkite rodinio piktogramą, esančią viršuje dešinėje, tada spustelėkite **Peržiūrėti failų naršyklėje**.
+2. Spustelėkite piktogramą Rodymas viršutiniame dešiniajame kampe, tada spustelėkite **Peržiūrėti failų naršyklėje.**
     
 > [!NOTE]
-> Jei norite, kad būtų galima kopijuoti arba perkelti kelis failus ir aplankus, galite atidaryti biblioteką failų naršyklėje, bet jei norite reguliariai dirbti bibliotekoje, rekomenduojame ją sinchronizuoti. Norėdami šalinti problemas, atidaromas failų naršyklėje, žiūrėkite [Atidaryti naudojant "Explorer"](https://go.microsoft.com/fwlink/?linkid=871665). Informacijos apie sinchronizavimo nustatymą ieškokite ["SharePoint" failų sinchronizavimas naudojant naująjį "OneDrive" sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Bibliotekos atidarymas failų naršyklėje yra patogus, jei reikia vieną kartą kopijuoti arba perkelti kelis failus ir aplankus, tačiau jei norite reguliariai dirbti bibliotekoje, rekomenduojame ją sinchronizuoti. Norėdami šalinti failų naršyklės atidarymo triktis, žr. [Atidaryti naudojant "Explorer".](https://go.microsoft.com/fwlink/?linkid=871665) Informacijos apie sinchronizavimo nustatymą žr. [Failų sinchronizavimas SharePoint su naujuoju "OneDrive" sinchronizavimo programa klientu](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 
