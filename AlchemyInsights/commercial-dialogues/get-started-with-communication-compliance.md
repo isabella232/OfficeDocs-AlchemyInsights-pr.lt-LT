@@ -1,5 +1,5 @@
 ---
-title: Darbo su bendravimo atitiktimi Pradžia
+title: Darbo su bendravimo atitiktimi pradžia
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034690"
 ---
-# <a name="get-started-with-communication-compliance"></a>Darbo su bendravimo atitiktimi Pradžia
+# <a name="get-started-with-communication-compliance"></a>Darbo su bendravimo atitiktimi pradžia
 
-Prieš pradėdami, jūsų organizacija turi turėti vieną iš šių prenumeratų arba papildinių:
+Prieš pradėdami, jūsų organizacija turi turėti vieną iš šių prenumeratų arba priedų:
 
-* "Microsoft 365 E5" prenumerata (mokama arba bandomoji versija)
-* "Microsoft 365 E3" prenumerata + "Microsoft 365 E5" atitikties papildinys
-* "Microsoft 365 E3" prenumerata + "Microsoft 365 E5 Insider" rizikos valdymo papildinys
-* "Microsoft 365 A5" prenumerata (mokama arba bandomoji versija)
-* "Microsoft 365" a3 prenumerata + "Microsoft 365 A5" atitikties papildinys
-* "Microsoft 365" a3 prenumerata + "Microsoft 365 A5 Insider" rizikos valdymo papildinys
-* "Microsoft 365 G5" prenumerata (mokama arba bandomoji versija)
-* "Microsoft 365 G5" prenumerata + "Microsoft 365 G5" atitikties papildinys
-* "Microsoft 365 G5" prenumerata + "Microsoft 365 G5 Insider" rizikos valdymo papildinys
-* "Office 365 Enterprise E5" prenumerata (mokama arba bandomoji versija)
-* "Office 365 Enterprise E3" prenumerata + "Office 365" Išplėstinis atitikties papildinys (nebebus galimas naujiems prenumeratoms, žiūrėkite pastabą)
+* Microsoft 365 E5 prenumerata (mokama arba bandomoji versija)
+* Microsoft 365 E3 prenumerata + "Microsoft 365 E5" atitiktis priedas
+* Microsoft 365 E3 prenumerata + "Microsoft 365 E5 Insider" rizikos valdymo priedas
+* Microsoft 365 A5 prenumerata (mokama arba bandomoji versija)
+* Microsoft 365 A3 prenumerata + Microsoft 365 A5 atitikties priedas
+* Microsoft 365 A3 prenumerata + Microsoft 365 A5 "Insider" rizikos valdymo priedas
+* Microsoft 365 G5 prenumerata (mokama arba bandomoji versija)
+* Microsoft 365 G5 prenumerata + Microsoft 365 G5 atitikties priedas
+* Microsoft 365 G5 prenumerata + Microsoft 365 G5 Insider" rizikos valdymo priedas
+* Office 365 Enterprise E5 prenumerata (mokama arba bandomoji versija)
+* Office 365 Enterprise "E3" prenumerata + "Office 365" išplėstinė atitiktis priedas (nebenaudojama naujose prenumeratose, žr. pastabą)
 
     > [!NOTE]
-    > Jei neturite esamos "Office 365 Enterprise E5" plano ir norite išbandyti "Insider" rizikos valdymą, galite [įtraukti "Microsoft 365"](https://go.microsoft.com/fwlink/?linkid=2130508) į savo esamą prenumeratą arba prisiregistruoti naudoti "Office 365 Enterprise E5" bandomąją versiją.
+    > Jei neturite esamo "Office 365 Enterprise E5" plano ir norite išbandyti "Insider" rizikos valdymą, galite [įtraukti "Microsoft 365"](https://go.microsoft.com/fwlink/?linkid=2130508) į esamą prenumeratą arba prisiregistruoti išbandyti "Office 365 Enterprise E5".

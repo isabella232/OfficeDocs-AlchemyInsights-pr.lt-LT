@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint Online\" viešosios svetainės yra nutraukiamos"
+title: SharePoint Internetinės viešosios svetainės yra nutraukiamos
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051278"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>"SharePoint Online" viešosios svetainės yra nutraukiamos
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Internetinės viešosios svetainės yra nutraukiamos
 
-Jei sukūrėte "SharePoint Online" viešąją žiniatinklio svetainę, galite ją toliau naudoti iki kovo 31 d., 2018. Jei norite ir toliau kurti viešąją žiniatinklio svetainę, turite sukurti naują su nauju tiekėju. "SharePoint Online" viešosios žiniatinklio svetainės turinys bus ištrintas, todėl jums reikės nukopijuoti bet kokį turinį, kurį norite pasilikti.
+Jei sukūrėte "SharePoint Online" viešąją svetainę, galite ją toliau naudoti iki 2018 m. kovo 31 d. Jei norite ir toliau turėti viešąją žiniatinklio svetainę, turite sukurti naują svetainę su nauju teikėju. Jūsų "SharePoint Online" viešosios svetainės turinys bus panaikintas, todėl turite nukopijuoti bet kokį turinį, kurį norite išsaugoti.
   
-"SharePoint Online" viešosios žiniatinklio svetainės viršuje rodoma reklaminė juosta kaip pranešimas apie tai, kad svetainė bus pašalinta. Negalite išjungti šios reklaminės juostos. Informacijos, kaip įrašyti ir kopijuoti turinį į partnerio svetainę, rasite [išsamios informacijos apie funkcijos nutraukimo procesą](https://go.microsoft.com/fwlink/?linkid=866980).
+Internetinės viešosios žiniatinklio svetainės viršuje SharePoint kaip pranešimas, kad svetainė bus pašalinta. Negalite išjungti šios reklaminės juostos. Informacijos apie turinio įrašymą ir kopijavimą partnerio svetainėje žr. [Išsami informacija apie funkcijų nutraukimo procesą](https://go.microsoft.com/fwlink/?linkid=866980).
   

@@ -1,5 +1,5 @@
 ---
-title: Darbo su "SharePoint Online" Pradžia
+title: Darbo su "SharePoint Online" pradžia
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051422"
 ---
-# <a name="workflows-in-sharepoint"></a>"SharePoint" darbo eigos
+# <a name="workflows-in-sharepoint"></a>Darbo eigos SharePoint
 
-Jei "SharePoint" darbo eigos nesiunčia laiškų, jūsų organizacija gali susidurti su "Exchange Online" siuntėjų limitais.
+Jei SharePoint darbo eigos nesiunčia el. laiškų, jūsų organizacija galėjo susidurti su Exchange Online siuntėjų apribojimais.
 
-Klaidos pranešimas "darbo eiga yra sustabdytas", jei turite vieną iš šių elementų:
+Klaidos pranešimas "Darbo eiga sustabdyta" gali atsirasti, jei turite vieną iš šių elementų:
 
-- Naudojate "SharePoint Online" darbo eigą, kuri naudoja "SharePoint 2010" arba "SharePoint 2013" darbo eigos platformos tipą.
+- Turite darbo eigą "SharePoint Online", kuri naudoja "SharePoint 2010" arba "SharePoint 2013" darbo eigos platformos tipą.
 
-- Darbo eiga sukonfigūruota siųsti pasirinktiniam el. laiškui daugiau nei 200 vartotojams vienu metu, daugiau nei 10 000 gavėjams per dieną arba daugiau nei 30 pranešimų per minutę.
+- Darbo eiga sukonfigūruota siųsti pasirinktinį el. laišką daugiau nei 200 vartotojų vienu metu, daugiau nei 10 000 gavėjų per dieną arba daugiau nei 30 pranešimų per minutę.
 
-Paleidus darbo eigą, el. laiškas nesiunčiamas, o jūs pastebėjote klaidos pranešimą, vidinė būsena nustatyta kaip sustabdyta arba negalima išsiųsti gavėjui.
+Paleidus darbo eigą, el. laiškas nesiunčiamas, o jūs pastebėsite klaidos pranešimą, vidinė būsena nustatyta kaip Sulaikyta arba Negalima siųsti gavėjui.
 
-Daugiau informacijos rasite toliau pateiktame [straipsnyje](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
+Daugiau informacijos žr. šiame [straipsnyje.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
 

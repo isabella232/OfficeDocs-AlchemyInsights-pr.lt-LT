@@ -1,5 +1,5 @@
 ---
-title: 8000063 kaip dešiniuoju pelės mygtuku spustelėti "Mac"
+title: 8000063 Kaip dešiniuoju pelės mygtuku spustelėti "Mac" kompiuteryje
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001948"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Kaip dešiniuoju pelės mygtuku spustelėti "Mac"
+# <a name="how-to-right-click-on-a-mac"></a>Kaip dešiniuoju pelės mygtuku spustelėti "Mac" kompiuteryje
 
-Jei naudojate "Mac" kompiuterius, dešiniuoju pelės mygtuku spustelėkite – antrinis spustelėjimas arba valdymo spustelėjimas. Jei jūsų pelė, "trackpad" arba kitas įvesties įrenginys neapima dešiniojo pelės klavišo mygtuko arba kito būdo spustelėti dešinįjį pelės mygtuką, laikydami nuspaudę klaviatūros **valdymo klavišą** spustelėkite.
+"Mac" kompiuteriuose dešiniuoju pelės mygtuku spustelėkite vadinamą antriniu spustelėjimu arba valdiklio spustelėjimu. Jei pelės, sekimo pulto ar kito įvesties įrenginio nėra mygtuko spustelėti dešiniuoju pelės  mygtuku arba kitu būdu, kad būtų galima atlikti spustelėjimus dešiniuoju pelės mygtuku, laikykite nuspaudę klaviatūros klavišą Control, kol spustelėsite.
   
-Norėdami gauti daugiau informacijos, eikite į ["Apple" palaikymas](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Jei reikia daugiau informacijos, eikite į ["Apple" palaikymas](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

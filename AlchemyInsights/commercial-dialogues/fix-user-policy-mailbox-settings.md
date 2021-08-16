@@ -1,5 +1,5 @@
 ---
-title: Vartotojų strategijos/pašto dėžutės parametrų taisymas
+title: Vartotojo strategijos / pašto dėžutės parametrų taisymas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034726"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Vartotojų strategijos/pašto dėžutės parametrų taisymas
+# <a name="fix-user-policymailbox-settings"></a>Vartotojo strategijos / pašto dėžutės parametrų taisymas
 
 Pašto dėžutės nepageidaujamo pašto parametrai paveikė šį pranešimą. Norėdami peržiūrėti parametrus, atlikite šiuos veiksmus:
 
-1. "Exchange Management Shell" Paleistis. Daugiau informacijos ieškokite " [Exchange" valdymo aplinkos atidarymas](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Vykdykite šią komandą (naudodami vartotojo elektroninio pašto adresą):  **get-mailboxjunkmailconfiguration-tapatybė "user@domain.com"**
-3. Patikrinkite, ar siuntėjo elektroninio pašto adresas priklauso **TrustedSendersAndDomains** arba **Blockedsendersanddomains**. Jei el. pašto adresas yra viename iš sąrašų, gali tekti jį pašalinti. Norėdami sužinoti daugiau, žiūrėkite [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Paleiskite Exchange valdymo aplinką. Daugiau informacijos žr. [Valdymo aplinkos Exchange atidarymas.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Vykdykite šią komandą (naudodami vartotojo el. pašto adresą):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Patikrinkite, ar siuntėjo el. pašto adresas priklauso **"TrustedSendersAndDomains"** arba **"BlockedSendersAndDomains".** Jei el. pašto adresas yra viename iš sąrašų, gali tekti jį pašalinti. Norėdami sužinoti daugiau, [žr. Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
