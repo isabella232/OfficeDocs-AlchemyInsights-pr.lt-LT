@@ -1,5 +1,5 @@
 ---
-title: Kaip vartotojai gali ieškoti savo internetinio archyvo laiškams
+title: Kaip vartotojai gali ieškoti savo internetinio archyvo laiškų
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034510"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kaip vartotojai gali ieškoti savo internetinio archyvo laiškams
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kaip vartotojai gali ieškoti savo internetinio archyvo laiškų
 
-Internetinio archyvo funkcija, skirta "Office 365 Enterprise" klientams, kurie turi dideles pašto dėžutes. Vartotojo internetinis Archyvas veikia šiek tiek kaip antroji "Outlook" paskyra su savo aplankų struktūra. Norėdami ieškoti elektroninio pašto internetiniame archyve:
+Internetinis archyvas yra funkcija, skirta Office 365 klientams, kurie turi neįprastai dideles pašto dėžutes. Vartotojo internetinis archyvas veikia šiek tiek kaip antroji paskyra Outlook su savo aplankų struktūra. Norėdami rasti el. paštą savo interneto archyve:
 
-1. Internetinis Archyvas neįtrauktas į iš aplanko Gauta atliktas paieškas. Turite eiti į internetinį archyvą ir atlikti iešką.
-2. "Outlook" žiniatinklyje Archyvas vadinamas *archyvo vietoje*. Eikite į In-Place archyvo pašto dėžutę, tada atlikite iešką.
-3. Programoje "Outlook 2016" jis vadinamas *internetine archyvo <`name` >*. Eikite į internetinę archyvo pašto dėžutę ir atlikite iešką.
+1. Internetinis archyvas neįtrauktas į ieškas, atliekamas iš aplanko Gauta. Turite eiti į internetinį archyvą ir atlikti iešką.
+2. "internetinė "Outlook"" archyvas vadinamas *archyvu vietoje.* Eikite į In-Place pašto dėžutę ir atlikite iešką.
+3. "Outlook 2016" jis vadinamas internetiniu *archyvu – `name` > <*. Eikite į interneto archyvo pašto dėžutę ir atlikite iešką.
 
 > [!TIP]
-> Vartotojai negali pasiekti savo internetinės archyvo pašto dėžutės naudodami "Outlook" mobiliajame įrenginyje, pvz., išmaniajame telefone.
+> Vartotojai negali pasiekti savo interneto archyvo pašto dėžutės naudodami Outlook mobiliajame įrenginyje, pvz., išmaniuoju telefonu.

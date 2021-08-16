@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005665"
 - "9926"
-ms.openlocfilehash: bebf23f5a592c621e163de97d6c439eb7c3b14e1
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: MT
+ms.openlocfilehash: 69edaed056670a3d67cc0aba982b9d2528dbae936b209022733205efcf421062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020596"
 ---
 # <a name="turn-on-and-off-color-filter"></a>Spalvų filtro įjungimas ir išjungimas
 
@@ -25,11 +25,11 @@ Spalvų filtrai keičia spalvų paletę ekrane ir gali padėti atskirti dalykus,
 
 **Padarykite nuotraukas ir spalvas lengviau matomas pritaikę spalvų filtrą savo ekranui**
 
-- Įjunkite ir išjunkite klaviatūros spalvų filtrus paspausdami "Windows" logotipo klavišą + "Ctrl" + C. 
+- Įjunkite ir išjunkite spalvų filtrus iš klaviatūros paspausdami klavišą Windows klavišas + Ctrl + C. 
 
 ARBA
 
-- Eikite **į Parametrai**  >  **Pritaikymas neįgaliesiems** Spalvų filtrai , tada pasirinkite įvairius spalvų filtrus, kad geriau pamatytumėte ekrano elementus, arba pasirinkite spalvų didumo filtrą, kad spalvos būtų labiau  >  skirtingos.  (Numatytasis filtras yra Pustoniai, todėl viskas ekrane rodoma nespalvotai.)
+- Eikite **į Parametrai** Pritaikymas neįgaliesiems Spalvų filtrai , tada pasirinkite įvairius spalvų filtrus, kad geriau pamatytumėte ekrano elementus, arba pasirinkite spalvų didumo filtrą, kad spalvos  >    >  būtų labiau skirtingos.  (Numatytasis filtras yra Pustoniai, todėl viskas ekrane rodoma nespalvotai.)
 
 **Teksto ir programėlių palengvinimas naudojant skirtingas spalvas**  
 
@@ -37,25 +37,25 @@ Pasirinkite mygtuką **Pradžia,** > **Parametrai**  >  **Pritaikymas neįgalies
 
 ## <a name="my-screen-is-unexpectedly-black-and-white"></a>Mano ekranas netikėtai nespalvotas
 
-Kelios "Windows" funkcijos gali pakeisti įvairių ekrano dalykų spalvas į nespalvotas.
+Kelios Windows funkcijos gali pakeisti įvairių ekrano dalykų spalvas į nespalvotas spalvas.
 
-Jei viskas, ką matote sistemoje "Windows", yra juoda ir balta, patikrinkite pritaikymo neįgaliesiems parametrus:
+Jei viskas, ką matote Windows yra juoda ir balta, patikrinkite pritaikymo neįgaliesiems parametrus:
 
 Jei matote juodą ekraną su baltu tekstu ir ryškiomis spalvomis:  
 
-1. Eikite **į Parametrai**  >  **Pritaikymas neįgaliesiems**.  
+1. Eikite **Parametrai**  >  **Pritaikymas neįgaliesiems**.  
 1. Pasirinkite **Didelis kontrastingumas** ir įsitikinkite, **kad nustatyta** Parinktis Įjungti didelį kontrastingumą kaip **Išjungta**.
 
 Jei matote baltą ekraną su juodu tekstu:  
 
-1. Eikite **į Parametrai**  >  **Pritaikymas neįgaliesiems**.  
+1. Eikite **Parametrai**  >  **Pritaikymas neįgaliesiems**.  
 1. Pasirinkite **Spalvų filtrai** ir jei parinktis Įjungti  spalvų **filtrus** nustatyta kaip **Įjungti** ir Pasirinkta Pustonių skalė, **nustatykite Parinktį Įjungti spalvų filtrus** kaip **Išjungta**.
 
-Jei juodas ir baltas ekranas apsiriboja konkrečiais elementais, pvz., "Windows" užduočių juosta arba kai kurių programėlių fonu, patikrinkite savo personalizavimo parametrus:
+Jei juodas ir baltas ekranas apsiriboja konkrečiais elementais, pvz., Windows užduočių juosta arba kai kurių programėlių fonu, patikrinkite savo personalizavimo parametrus:
 
-1. Eikite **į**  >  **Parametrų suasmeninimo**  >  **spalvos**.
+1. Eikite **į Parametrai**  >  **Personalizavimo**  >  **spalvos**.
 
 1. Dalyje **Pasirinkite spalvą** patikrinkite parametrus. Jei nustatyta **"Light",** tai gali nustatyti baltus elementus, pvz., užduočių juostą ir programos foną. Tamsūs nustato juos juodai.  
 
-    Jei **parinktis Pasirinkti spalvą** nustatyta kaip **Pasirinktinė**, patikrinkite numatytuosius "Windows" režimus ir numatytuosius programos režimo parametrus. Numatytasis "Windows" režimo parametras nustato pradžios meniu, užduočių juostos ir veiksmų centro išvaizdą, o numatytasis programos režimo parametras turi įtakos failų naršyklei ir parametrų programėlei.
+    Jei **parinktis Pasirinkti spalvą** nustatyta kaip **Pasirinktinė**, patikrinkite numatytuosius Windows ir numatytuosius programos režimo parametrus. Numatytasis Windows režimo parametras nustato pradžios meniu, užduočių juostos ir veiksmų centro išvaizdą, o numatytasis taikomosios programos režimo parametras turi įtakos failų naršyklei ir Parametrai programėlei.
 

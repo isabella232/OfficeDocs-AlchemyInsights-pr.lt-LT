@@ -1,5 +1,5 @@
 ---
-title: 8000006 keisti profilio pavadinimą "Outlook.com"
+title: 8000006 profilio pavadinimo keitimas "Outlook.com"
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: b0fe9d7f62738b96c9887f7b18fc29c90436ee71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29383f8b4c943871cdf12c2056d946f4ad841de0260a13fc824031daa78c0e6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082518"
 ---
 # <a name="change-your-profile-name"></a>Profilio pavadinimo keitimas
 
-1. Eikite į [savo "Microsoft" paskyros informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Eikite [į Jūsų "Microsoft" paskyros informacija](https://go.microsoft.com/fwlink/p/?linkid=860841).
     
-2. Pasirinkite **Redaguoti vardą**. 
+2. Pasirinkite **Redaguoti pavadinimą**. 
     
-3. Įrašykite vardą ir pavardę, tada pasirinkite **įrašyti**. 
+3. Įveskite vardą ir pavardę, tada pasirinkite **Įrašyti**. 
     
-Norėdami pakeisti profilio pavadinimą, palaukite iki 24 valandų.
+Palaukite iki 24 valandų, kad įsigalios jūsų profilio pavadinimo pakeitimai.
   
-Norėdami sužinoti daugiau, žiūrėkite [savo profilio nuotraukos arba vardo keitimas "Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110)".
+Norėdami sužinoti daugiau, [žr. Profilio nuotraukos arba pavadinimo keitimas Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
   
 
