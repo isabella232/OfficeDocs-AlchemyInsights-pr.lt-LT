@@ -1,5 +1,5 @@
 ---
-title: Taikomosios programos apsaugos strategijos reikalavimai
+title: Programos apsaugos strategijos reikalavimai
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995378"
 ---
-# <a name="application-protection-policy-requirements"></a>Taikomosios programos apsaugos strategijos reikalavimai
+# <a name="application-protection-policy-requirements"></a>Programos apsaugos strategijos reikalavimai
 
-Taikomosios programos apsaugos strategijos reikalavimai:
+Programos apsaugos strategijos reikalavimai:
 
-- Vartotojas turi Intune arba EMS licenciją.
-- Vartotojas priklauso grupės, skirtos taikomosios programos apsaugos strategijoms.
-- Tik vienas įmonės vartotojas yra prisijungęs prie apsaugotų taikomųjų programų įrenginyje.
-- [Taikomoji programa įdiegė "Intune" SDK. Programų, palaikančių SDK, sąrašą rasite "Microsoft Intune" apsaugotos programos.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- Vartotojas turi "Intune" arba EMS licenciją.
+- Vartotojas priklauso grupei, kuriai taikomos taikomosios programos apsaugos strategijos.
+- Tik vienas įmonės vartotojas yra prisijungęs prie apsaugotų programėlių įrenginyje.
+- [Taikomoji programa įdiegė "Intune" SDK. Programų, kurios palaiko SDK, sąrašą žr. "Microsoft Intune" apsaugotas programas.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Skaitykite daugiau...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)

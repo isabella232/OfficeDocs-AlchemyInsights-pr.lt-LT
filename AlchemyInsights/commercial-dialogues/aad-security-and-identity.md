@@ -1,5 +1,5 @@
 ---
-title: "\"Azure Active Directory\" (Sauga ir tapatybė"
+title: "\"Azure Active Directory\" (sauga ir tapatybė"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995449"
 ---
-# <a name="azure-active-directory-security-and-identity"></a>"Azure Active Directory" (Sauga ir tapatybė)
+# <a name="azure-active-directory-security-and-identity"></a>"Azure Active Directory" (sauga ir tapatybė)
 
 Pasirinkite vieną iš šių sąrankos vadovų:
 
-- " **Azure Active Directory" prie** [savo katalogo](https://go.microsoft.com/fwlink/?linkid=2071310) Konfigūruokite slaptažodžių maišos sinchronizavimą arba Pass-per autentifikavimą, kad vartotojai galėtų prisijungti prie savo el. pašto ir savo vietinio "Active Directory" (domeno valdiklio) naudodami tą patį slaptažodį. Taip pat galite nustatyti susiejimo prisijungimo su "Active Directory" susiejimo tarnyba (AD FS).
+- **"Azure Active Directory" Prisijungimas** [Sinchronizuoti](https://go.microsoft.com/fwlink/?linkid=2071310) vartotojus su katalogu Sukonfigūruokite slaptažodžių sinchronizavimą arba tarpinio autentifikavimo funkciją, kad vartotojai galėtų prisijungti prie savo el. pašto ir vietinio "Active Directory" (domeno valdiklio) naudodami tą patį slaptažodį. Taip pat galite nustatyti susiejimo prisijungimą naudodami "Active Directory" susiejimo tarnybas (AD FS).
 
-- "Azure [AD" sąrankos vadovo](https://go.microsoft.com/fwlink/?linkid=2134390) **nustatymas** "Azure", naudojant "Azure Active Directory Premium", pvz., kelių dalių autentifikavimo, įrenginio registravimo ir saugos stebėjimo funkcijas, galima nustatyti išplėstines funkcijas.
+- **"Azure" funkcijų nustatymas "Azure** [AD"](https://go.microsoft.com/fwlink/?linkid=2134390) sąrankos vadovas Išplėstinių funkcijų, "Azure Active Directory" Premium, pvz., kelių dalių autentifikavimo, įrenginio registracijos ir saugos stebėjimo, nustatymas.

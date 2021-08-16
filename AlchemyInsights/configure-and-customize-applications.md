@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044996"
 ---
 # <a name="configure-and-customize-applications"></a>Taikomųjų programų konfigūravimas ir tinkinimas
 
-**Taikomųjų programų konfigūravimas**
+**Programų konfigūravimas**
 
-1. " [QuickStart": konfigūruokite taikomosios programos ypatybes "Azure Active Directory" ("AZURE AD") nuomotojuje](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) rodoma, kaip konfigūruoti kai kurias programos ypatybes.
-2. Kad būtų lengviau integruoti taikomąsias programas su "Azure Active Directory", sukūrėme [mokomųjų programų rinkinį](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , kurį galite atlikti naudodami konfigūraciją.
-3. [Kaip sukonfigūruoti taikomosios programos tarpinio serverio taikomąją](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) programą padeda suprasti, kaip sukonfigūruoti taikomosios programos tarpinio serverio taikomąją programą "Azure AD", kad jūsų vietinėms programoms būtų rodoma debesyje.
-4. [Atsisiųskite "PingAccess" ir Konfigūruokite savo taikomąją programą](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): vadovaukitės instrukcijomis, pateiktomis *Konfigūruokite Pingaccess "Azure AD", kad apsaugotų taikomąsias programas* , publikuotas naudojant "Microsoft Azure AD Application proxy" "Ping Identity" žiniatinklio svetainėje, ir atsisiųsti naujausią "pingaccess
+1. ["Quickstart": ""Azure Active Directory" ("Azure AD")](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) nuomotojo taikomosios programos ypatybės rodo, kaip konfigūruoti kai kurias programos ypatybes.
+2. Norėdami padėti integruoti programas su "Azure Active Directory", sukūrėme mokomųjų programų [rinkinį, kuris](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) padės jums konfigūruoti.
+3. [Kaip konfigūruoti taikomosios programos tarpinio serverio](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) taikomąją programą, galima suprasti, kaip konfigūruoti taikomosios programos tarpinio serverio taikomąją programą "Azure AD", kad jūsų vietinės taikomosios programos būtų pateiktos debesyje.
+4. [Atsisiųskite "PingAccess"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)ir konfigūruokite taikomąją programą: vykdykite nurodymus, pateiktus *"Azure AD" "PingAccess" konfigūravimas,* kad apsaugotumėte programas, publikuotas naudojant ""Microsoft Azure AD" Application Proxy" "Ping Identity" žiniatinklio svetainėje ir atsisiųskite naujausią "PingAccess" versiją.
 
-**Netinkamai sukonfigūruota taikomosios programos (AADSTS650056) klaidos**
+**Netinkamai sukonfigūruota taikomoji programa (AADSTS650056) klaidos**
 
-1. Įsitikinkite, kad pasiekiate taikomąją programą iš programos savininko pateikto prisijungimo adreso. Kitu atveju Prisijunkite prie taikomosios programos naudodami įprastą procesą. Daugeliu atvejų tai bus automatiškai išspręsta natūraliai. Jei ne, šis skelbimas gali padėti išspręsti ir išspręsti problemą.
-2. **Jei jūsų organizacija turi taikomąją programą** (reiškianti taikomosios programos registraciją jūsų organizacijoje):
-    - Minimaliai rekomenduojame `User.Read` `openid` įtraukti arba įgaliotasis teises iš **"Microsoft Graph** ".
-    - Įsitikinkite, kad sutinkate su taikomąja programa ir visomis jos teisėmis. Galite tai patikrinti peržiūrėdami taikomosios programos " **API" teisių** stulpelį **Būsena** .
-    - Kai kuriuose scenarijuose taikomoji programa gali būti trečiosios šalies, tačiau ji gali būti registruota jūsų organizacijoje. Patvirtinkite, kad Ši taikomoji programa pateikta jūsų taikomųjų programų registracijose (ne įmonės taikomosios programos).
-    - Jei ir toliau matysite šį klaidos pranešimą. Tada gali tekti sukurti **4 veiksme** aprašytą sutikimo URL.
-3. **Jei jūsų organizacija nėra programos savininkas ir naudoja ją kaip trečiosios šalies taikomąją programą**:
-    - Jei esate pasaulinis/įmonės administratorius, turėtumėte matyti sutikimo ekraną. Įsitikinkite, kad žymės langelį **"sutikimas organizacijos vardu"**.
-    - Jei nematote lango sutikimas, panaikinkite įmonės taikomąją programą ir bandykite dar kartą.
-    - Jei ir toliau matysite šį klaidos pranešimą. Tada gali tekti sukurti **4 veiksme** aprašytą sutikimo URL.
-4. **Rankiniu būdu sukurkite naudojamo sutikimo URL**: jei taikomoji programa skirta pasiekti konkretų šaltinį, jums gali nepavykti naudoti sutikimo mygtukų iš "Azure" portalo, todėl turėsite rankiniu būdu sugeneruoti savo sutikimo URL ir jį naudoti.
-    - Jums reikės gauti `{App-Id}` ir `{App-Uri-Id}` iš programos savininko. `{Tenant-Id}` bus jūsų nuomotojo identifikatorius. Tai bus `yourdomain.onmicrosoft.com` arba jūsų katalogo ID.
-    - Jei taikomoji programa jungiasi prie išteklių, tada `{App-Id}` `{App-Uri-Id}` bus tas pats.
-5. Daugiau informacijos ieškokite [problemų prisijungiant prie SAML pagrįstų vienkartinio prisiregistravimo konfigūruojamų taikomųjų programų](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application).
+1. Įsitikinkite, kad naudojate taikomąją programą naudodami prisijungimo adresą, kurį pateikė taikomosios programos savininkas. Kitu atveju prisijunkite prie taikomosios programos per įprastą procesą. Daugeliu atvejų tai automatiškai išspręs natūraliai. Jei taip nėra, šis įrašas gali padėti pašalinti triktis ir išspręsti problemą.
+2. **Jei jūsų organizacijai priklauso programa (tai** reiškia, kad taikomosios programos registracija yra jūsų organizacijoje):
+    - Bent jau rekomenduojame įtraukti "Microsoft "Graph" arba `User.Read` `openid` **įgaliotas** teises.
+    - Įsitikinkite, kad taikomoji programa ir visos jos teisės yra duotos. Tai galite patikrinti peržiūrėę programos **registracijos** stulpelį Būsena API **teisėse.**
+    - Kai kuriais atvejais taikomoji programa gali būti trečioji šalis, tačiau ji gali būti registruota jūsų organizacijoje. Patikrinkite, ar ši taikomoji programa yra įtraukta į jūsų programų registracijas (ne įmonės taikomąsias programas).
+    - Jei toliau matote šį klaidos pranešimą. Tada gali tekti sukurti sutikimo URL, aprašytą **4 veiksme.**
+3. **Jei jūsų organizacija nėra taikomosios programos savininkas ir naudoja ją kaip trečiosios šalies taikomąją programą:**
+    - Jei esate visuotinis / įmonės administratorius, turėtumėte matyti sutikimo ekraną. Įsitikinkite, kad pažymėkite žymės langelį **"Sutikimas organizacijos vardu".**
+    - Jei nematote sutikimo ekrano, panaikinkite programą "Enterprise" ir bandykite dar kartą.
+    - Jei toliau matote šį klaidos pranešimą. Tada gali tekti sukurti sutikimo URL, aprašytą **4 veiksme.**
+4. **Neautomatiškai** sukurkite naudoti skirtą sutikimo URL: jei programa skirta pasiekti konkretų išteklių, gali būti, kad negalėsite naudoti mygtukų Sutikimas iš "Azure" portalo, turėsite rankiniu būdu sugeneruoti savo sutikimo URL ir jį naudoti.
+    - Jums reikės gauti ir `{App-Id}` iš `{App-Uri-Id}` taikomosios programos savininko. `{Tenant-Id}` bus jūsų nuomotojo identifikatorius. Tai bus arba `yourdomain.onmicrosoft.com` jūsų katalogo ID.
+    - Jei taikomoji programa pati turi prieigą prie ištekliaus, `{App-Id}` tada ir bus tokia `{App-Uri-Id}` pati.
+5. Daugiau informacijos žr. Prisijungimo prie SAML pagrindu sukonfigūruotas bendrosios [afiksuojamų programų problemos.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)
 
-**Taikomųjų programų tinkinimas**
+**Programų tinkinimas**
 
-- [Įtraukite prekės ženklų į savo organizacijos "Azure Active Directory" prisijungimo puslapį](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) – naudokite organizacijos logotipą ir pasirinktinę spalvų schemas, kad galėtumėte nuosekliai peržvelgti savo "Azure Active Directory" ("Azure AD") prisijungimo puslapius.
-- [Pasirinktinio domeno vardo įtraukimas naudojant "Azure Active Directory" portalą](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – kiekvienas naujas "Azure AD" nuomotojas pateikiamas su pirminiu domeno vardu. Negalite keisti arba panaikinti pradinio domeno vardo, tačiau galite įtraukti savo organizacijos pavadinimus. Įtraukus pasirinktinio domenų vardus, lengviau kurti vartotojų vardus, kurie yra susipažinę su vartotojais.
+- Įtraukite prekės ženklo į savo organizacijos [""Azure Active Directory""](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) prisijungimo puslapį – naudokite organizacijos logotipą ir pasirinktines spalvų schemas, kad ""Azure Active Directory"" ("Azure AD") prisijungimo puslapiai būtų nuoseklūs.
+- [Įtraukite savo pasirinktinį domeno vardą naudodami "Azure Active Directory" portalą](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – kiekvienas naujas "Azure AD" nuomotojas turi pradinį domeno vardą. Negalite keisti arba panaikinti pradinio domeno vardo, bet galite įtraukti savo organizacijos vardus. Pasirinktinių domenų vardų įtraukimas padeda kurti vartotojų vardus, kurie yra pažįstami jūsų vartotojams.

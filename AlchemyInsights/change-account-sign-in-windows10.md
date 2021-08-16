@@ -1,5 +1,5 @@
 ---
-title: Paskyros, kurią naudojate prisijungdami prie "Windows 10" kompiuterio, keitimas
+title: Paskyros, kurią naudojate prisijungdami prie savo Windows 10 kompiuterio, keitimas
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,56 +13,56 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018616"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Paskyros, kurią naudojate prisijungdami prie "Windows 10" kompiuterio, keitimas
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Paskyros, kurią naudojate prisijungdami prie savo Windows 10 kompiuterio, keitimas
 
-**Pastaba** Jei parduodate arba dovanojate savo kompiuterį, apsvarstykite galimybę visiškai ją nustatyti iš naujo, kad pašalintumėte visą asmeninę informaciją. Norėdami pašalinti visus failus, parametrus ir taikomąsias programas, peržiūrėkite [prieš parduodant ar dovanojant "Windows 10" įrenginį arba "Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)".
+**Pastaba** Jei parduodate arba dovanojate kompiuterį, apsvarstykite galimybę visiškai jį nustatyti iš naujo, kad pašalintumėte visą asmeninę informaciją. Norėdami pašalinti visus failus, parametrus ir programėles, žr. Prieš parduokite arba [dovanokite savo Windows 10 įrenginį arba Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
 
-Norėdami pakeisti esamą vartotoją nauju abonementu:
+Norėdami pakeisti esamą vartotoją nauja paskyra:
 
-1. Įtraukti naują vartotoją.
+1. Įtraukite naują vartotoją.
 
-1. Padarykite naują vartotoją savo kompiuterio administratoriumi.
+1. Padarykite naują vartotoją kompiuterio administratoriumi.
 
-1. Panaikinti senąjį vartotoją.
+1. Panaikinkite seną vartotoją.
 
-**Pastaba** Panaikinus vartotoją, visam laikui prarandami visi su tuo vartotoju susiję parametrai, failai ir duomenys. Sukurkite atsarginę visko, ką norite įrašyti, atsarginę.
+**Pastaba** Kai panaikinate vartotoją, visam laikui prarandate visus parametrus, failus ir duomenis, susietus su tuo vartotojui. Sukurkite atsarginę visko, ką norite įrašyti, atsarginę kopijas.
 
-**Perėjimas prie kito vartotojo abonemento**
+**Perjungimas į kitą vartotojo paskyrą**
 
-1. Užduočių juostoje pasirinkite **Pradžia** ("Windows" logotipo pradžios mygtukas). 
+1. Užduočių **juostoje** Windows pradžios mygtuką Pradžia (pradžios mygtukas). 
 
-1. Kairėje pradžios meniu pusėje pasirinkite paskyros pavadinimo piktogramą (arba paveikslėlį) > perjungti vartotoją > kitą vartotoją.
+1. Kairėje programos pusėje pradžios meniu paskyros pavadinimo piktogramą (arba paveikslėlį) > Perjungti vartotoją > kitą vartotoją.
 
-**Norėdami pakeisti paskyros, naudojamos prisijungti, tipą**
+**Paskyros, naudojamos prisijungti, tipo keitimas**
 
-- "Microsoft" paskyros keitimas į vietinį abonementą
+- "Microsoft" paskyros keitimas į vietinę paskyrą
 
-    1. Pasirinkite mygtuką Pradžia, pasirinkite **parametrų**  >  **paskyros** > savo informaciją.
+    1. Pasirinkite mygtuką Pradžia, pasirinkite **Parametrai**  >  **paskyros** > Jūsų informacija.
 
-    1. Jei naudojate vietinį abonementą, kuris nėra susietas su elektroninio pašto adresu, bet norite naudoti "Microsoft" paskyrą, pasirinkite **prisijungti naudojant "Microsoft" paskyrą**.
+    1. Jei naudojate vietinę paskyrą, kuri nėra susieta su el. pašto adresu, bet norite naudoti "Microsoft" paskyrą, pasirinkite Prisijungti **naudojant "Microsoft" paskyrą.**
 
-    1. Jei naudojate "Microsoft" paskyrą, susietą su elektroninio pašto adresu, bet norite naudoti vietinį abonementą, pasirinkite **prisijungti naudojant vietinį abonementą**.
+    1. Jei naudojate "Microsoft" paskyrą, susietą su el. pašto adresu, bet norite naudoti vietinę paskyrą, pasirinkite Prisijungti **naudojant vietinę paskyrą.**
 
     1. Jei reikia, įveskite slaptažodį, tada pasirinkite **Pirmyn**.
 
-    1. Paleiskite įrenginį iš naujo. Kai kitas kartas prisijungsite, bus rodoma jūsų perjungta paskyra.
+    1. Iš naujo paleiskite įrenginį. Kai kitą kartą prisijungsite, bus rodoma paskyra, į kurią perėjote.
 
-- Standartinio abonemento keitimas administratoriui
+- Keiskite iš standartinės paskyros į administratorių
 
-    1. Pasirinkite Pradžia, tada pasirinkite **parametrų**  >  **paskyros**  >  **šeima & kitų žmonių** (arba **kitų žmonių**, jei naudojate "Windows 10 Enterprise").
+    1. Pasirinkite Pradžia, tada **pasirinkite Parametrai**  >    >  **paskyrų šeimą &** **(arba Kiti** žmonės , jei naudojate Windows 10 Enterprise).
 
-    1. Pasirinkite paskyrą, kurią norite suteikti administratoriui, ir pasirinkite **keisti paskyrą**.
+    1. Pasirinkite paskyrą, kurią norite padaryti administratoriumi, tada pasirinkite **Keisti paskyrą**.
 
-    1. Dalyje **paskyros tipas** pasirinkite **administratorius**, tada pasirinkite **gerai**.
+    1. Dalyje **Paskyros tipas** pasirinkite **Administratorius**, tada pasirinkite **Gerai**.
 
-Jei norite sužinoti daugiau, peržiūrėkite "Microsoft" palaikymas:
+Norėdami sužinoti daugiau, žr. "Microsoft" palaikymas:
 
-[Naujo vartotojo įtraukimas ir Prisijungimas naudojant tą abonementą](https://support.microsoft.com/windows/add-or-remove-accounts-on-your-pc-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32) 
- [Elektroninio pašto adreso, naudojamo prisijungti, keitimas](https://support.microsoft.com/account-billing/change-the-email-address-or-phone-number-for-your-microsoft-account-761a662d-8032-88f4-03f3-c9ba8ba0e00b)
+[Naujo vartotojo įtraukimas ir prisijungimas naudojant tą paskyrą](https://support.microsoft.com/windows/add-or-remove-accounts-on-your-pc-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32) 
+ [El. pašto adreso, kurį naudojote prisijungdami, keitimas](https://support.microsoft.com/account-billing/change-the-email-address-or-phone-number-for-your-microsoft-account-761a662d-8032-88f4-03f3-c9ba8ba0e00b)
