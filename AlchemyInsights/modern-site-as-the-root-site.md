@@ -1,5 +1,5 @@
 ---
-title: Moderni svetainė kaip pagrindinė svetainė
+title: Moderni svetainė kaip šakninė svetainė
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000400"
 ---
-# <a name="modern-site-as-root-site"></a>Moderni svetainė kaip pagrindinė svetainė
+# <a name="modern-site-as-root-site"></a>Moderni svetainė kaip šakninė svetainė
 
-Pradėjome naudoti naują funkciją, kuri leis jums [sukeisti klasikinės svetainės šaknies svetainę su šiuolaikine svetaine](https://docs.microsoft.com/sharepoint/modern-root-site). Naudokite funkciją [Invoke – SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Norėdami sukeisti svetainės vietą su kita svetaine archyvuodami pradinę svetainę. Galima naudoti ir komandos svetainėje (nėra prijungta prie grupės) ir bendravimo svetainėje.
+Pradėjome įdiegti naują funkciją, kuri leis jums pakeisti klasikinę svetainės šakninį puslapį [modernia svetaine.](https://docs.microsoft.com/sharepoint/modern-root-site) Naudokite [Invoke-SPOSiteSwap,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kad sukeisti svetainės vietą su kita svetaine archyvavimo metu pradinėje svetainėje. Galima naudoti tiek komandos svetainėje (neprijungtoje prie grupės), tiek ryšių svetainėje.
 
 >[!Important]
-> Nepanaikinkite klasikinės šaknies svetainės kurdami šiuolaikinę bendravimo svetainę. Tai nepalaiko "Microsoft". Panaikinus svetainę, visos jūsų organizacijos "SharePoint" svetainės bus prieinamos visiems vartotojams, kol neatkursite svetainės arba sukursite naują svetainę tame pačiame URL. Perduodame šią funkciją per pranešimų centrą. Turėtumėte tikėtis, kad funkcija bus įjungta jūsų nuomotojuje artimiausiu metu.
+> Nepanaikykite klasikinės šakninės svetainės, kad sukurtumėte šiuolaikišką ryšių svetainę. "Microsoft" to nepalaiko. Panaikinus šakninį puslapį, visos jūsų SharePoint svetainės taps nepasiekiamos visiems vartotojams, kol atkursite svetainę arba sukursite naują svetainę tuo pačiu URL. Šią funkciją pereisime per pranešimų centrą. Turėtumėte tikėtis, kad netrukus jūsų nuomotojo funkcija bus įjungta.
 
-## <a name="known-issues-with-swapping-sites"></a>Žinomos problemos keičiant svetaines
-- Paskirties svetainė trumpą laiką gali pateikti klaidą "nerastas" (HTTP 404).
-- Turiniui atnaujinti reikia atnaujinti ieškos indeksą. Čia nereikia atlikti rankinio veiksmo, tai bus atlikta automatiškai.
-- Viskas, kas priklauso nuo "statinio" saitų (pvz., failų sinchronizavimo ir "OneNote" failų), turės būti rankiniu būdu pataisyta.
-- "Project Server" svetaines gali reikėti patvirtinti, kad jos būtų tinkamai susietos. 
+## <a name="known-issues-with-swapping-sites"></a>Žinomos svetainių apsikeitimo problemos
+- Paskirties svetainė trumpą laiką gali pateikti klaidą "nerasta" (HTTP 404).
+- Norint atnaujinti ieškos indeksą, turi būti atirašytas turinys. Čia nėra reikalingų rankinių veiksmų, tai bus atliekama automatiškai.
+- Viską, kas priklauso nuo "statinių" saitų (pvz., Failų sinchronizavimas ir OneNote failų), reikės pataisyti rankiniu būdu.
+- Project Gali tekti patikrinti serverio svetaines, kad jos būtų tinkamai susietos. 

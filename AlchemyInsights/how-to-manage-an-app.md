@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002092"
 ---
 # <a name="how-to-manage-an-app"></a>Kaip valdyti taikomąją programą
 
 Norėdami valdyti taikomąją programą:
 
-- Pradėkite naudoti "Microsoft teams" administravimo centro [taikomąsias programas](https://admin.teams.microsoft.com/policies/manage-apps) , kad įtrauktumėte organizacijos programą.
-- Galite naudoti [programos teisių strategijas](https://admin.teams.microsoft.com/policies/app-permission) "Microsoft teams" administravimo centre, kad galėtumėte leisti arba užblokuoti taikomąją programą ir priskirti ją vartotojams.
-- Norėdami pakeisti, kad programėlė būtų pateikta vartotojams arba prisegti taikomąją programą, "Microsoft teams" administravimo centre naudokite [taikomųjų programų sąrankos strategijas](https://admin.teams.microsoft.com/policies/app-setup) .
+- Pradėkite [nuo programėlių](https://admin.teams.microsoft.com/policies/manage-apps) valdymo Microsoft Teams administravimo centre, kad įtrauksite taikomąją programą savo organizacijai.
+- Galite naudoti [taikomųjų programų teisių strategijas](https://admin.teams.microsoft.com/policies/app-permission) Microsoft Teams administravimo centre, kad leisite arba blokuokite taikomąją programą ir priskirsite ją vartotojams.
+- Norėdami pakeisti tvarką, kurią programa pateikiama vartotojams, arba prisegti taikomąją programą, naudokite programų sąrankos [strategijas](https://admin.teams.microsoft.com/policies/app-setup) Microsoft Teams administravimo centre.
 
-Daugiau informacijos apie organizacijos taikomųjų programų strategijų kūrimą ieškokite:
+Daugiau informacijos apie savo organizacijos taikomųjų programų strategijų sukūrimą žr.:
 
-- [Programų valdymas "Microsoft teams" administravimo centre](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- ["Microsoft teams" taikomųjų programų teisių strategijų valdymas](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Taikomųjų programų sąrankos strategijų valdymas "Microsoft teams"](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [Programų valdymas "Microsoft Teams administravimo centre](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Programos teisių strategijų valdymas programoje "Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Programos sąrankos strategijų valdymas programoje "Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

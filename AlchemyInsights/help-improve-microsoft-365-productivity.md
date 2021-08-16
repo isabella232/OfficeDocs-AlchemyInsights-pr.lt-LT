@@ -1,5 +1,5 @@
 ---
-title: Padėkite tobulinti "Microsoft 365" našumą
+title: Padėkite pagerinti Microsoft 365 produktyvumą
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002200"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Padėkite tobulinti "Microsoft 365" našumą
+# <a name="help-improve-microsoft-365-productivity"></a>Padėkite pagerinti Microsoft 365 produktyvumą
 
-Našumo balas palaiko jūsų organizacijos skaitmeninę transformaciją su įžvalgų apie tai, kaip naudojami "Microsoft 365" produktai ir jų technologija.
+Produktyvumo balas palaiko jūsų organizacijos skaitmeninę transformaciją su įžvalgomis apie Microsoft 365 produktų naudojimą ir technologijų patirtį.
 
 Jei norite sužinoti daugiau, žr.:
 
-- [Kaip apskaičiuojamas rezultatas](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [kaip interpretuoti savo organizacijos balą](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [Našumo įvertinimo privatumo valdikliai](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [kaip skaičiuojamas rezultatas](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [kaip suprasti organizacijos rezultatą](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [produktyvumo įvertinimo privatumo valdikliai](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Daugiau informacijos ieškokite ["Microsoft" našumo įvertinimas](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).
+Daugiau informacijos žr. ["Microsoft" produktyvumo balų apžvalga](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).

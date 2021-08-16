@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ff6abac5ed18750767f76aca158779c5cb3bba1324b0a451987cc37b4b0e239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063924"
 ---
 # <a name="account-locked"></a>Paskyra užrakinta
 
-Jei bandote prisijungti prie "Outlook.com" matote pranešimą "jūsų paskyra užrakinta", tai yra todėl, kad pastebėjome neįprastą veiklą jūsų paskyroje. Norėdami apsisaugoti nuo galimo sukčiavimo ar piktnaudžiavimo, laikinai užblokuojame jūsų paskyrą. Žinome, kad tai yra varginantis procesas, bet mes galime padėti jums grįžti prie savo paskyros vos keliais žingsniais.
+Jei bandydami prisijungti prie "Outlook.com" matote pranešimą "Jūsų paskyra užrakinta", taip yra todėl, kad pastebėjome neįprastą veiklą jūsų paskyroje. Norėdami apsaugoti jus nuo galimo sukčiavimo ar piktnaudžiavimo, laikinai užrakiavome jūsų paskyrą. Žinome, kad tai nelinksma, tačiau galime padėti jums grįžti prie jūsų paskyros vos keliais veiksmais.
 
-1. Eikite į [account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ir prisijunkite prie savo užrakintos paskyros.Norėdami atrakinti paskyrą, turite įrašyti "Microsoft" tekstiniame pranešime nurodytą saugos kodą. Norėdami gauti tekstinį pranešimą, turite turėti telefoną, palaikantį tekstinius pranešimus. Jei jūsų telefonas nepalaiko teksto žinučių, galite paprašyti draugo arba šeimos nario naudoti savo telefoną. "Microsoft" neįrašo šio telefono numerio, todėl telefono numeris, kurį naudojate Norėdami gauti šį teksto pranešimą, neturi būti susietas su jūsų paskyra.
-2. Jei matote pranešimą "viršyta naudojimo riba", eikite į [paskyros Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483)   ir vienas iš mūsų agentų peržiūrės jūsų paskyrą.
+1. Eikite [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ir prisijunkite prie užrakintos paskyros. Norėdami atrakinti paskyrą, turite įvesti saugos kodą, pateiktą teksto pranešime iš "Microsoft". Norėdami gauti teksto pranešimą, turite turėti telefoną, palaikantį teksto pranešimus. Jei jūsų telefonas nepalaiko teksto pranešimų, galite paprašyti draugo arba šeimos nario naudoti jo telefoną. "Microsoft" neįrašo šio telefono numerio, todėl telefono numerio, kurį naudojate šiam teksto pranešimui gauti, nereikia susieti su jūsų paskyra.
+2. Jei matote pranešimą "Viršytas naudojimo limitas", eikite į [Paskyros pakartotinis statymas](https://go.microsoft.com/fwlink/?linkid=2090483) ir vienas iš mūsų agentų peržiūrės jūsų paskyrą.
 
-Jei norite sužinoti daugiau, skaitykite " [Outlook.com" paskyros atblokavimas](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Norėdami sužinoti daugiau, skaitykite [Mano "Outlook.com" paskyros atblokavimas](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

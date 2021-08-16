@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063960"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Negaunu "Facebook" kodų naudodami Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Negausite "Facebook" kodų naudodami Outlook.com
 
-Jei paprašėte naujo slaptažodžio iš "Facebook", bet negavau slaptažodžio nustatymo iš naujo el. laiško:
+Jei paprašėte naujo slaptažodžio iš "Facebook", bet negausite slaptažodžio nustatymo iš naujo el. laiško:
 
-- Patikrinkite [šlamšto arba nepageidaujamo pašto aplanką](https://outlook.live.com/mail/junkemail).
-- Pabandykite [iš naujo nustatyti "Facebook" slaptažodį dar kartą](https://aka.ms/facebook-password-reset).
+- Patikrinkite pašto [šiukšlių arba nepageidaujamų laiškų aplanką](https://outlook.live.com/mail/junkemail).
+- Pabandykite [iš naujo nustatyti "Facebook" slaptažodį dar kartą](https://aka.ms/facebook-password-reset).
 
-Jei negalite iš naujo nustatyti savo slaptažodžio, nes negalite pasiekti el. laiško ar mobiliojo telefono numerio savo paskyroje, išbandykite ["Facebook" slaptažodžio nustatymo iš naujo patarimus](https://aka.ms/facebook-password-help).
+Jei negalite iš naujo nustatyti slaptažodžio, nes negalite pasiekti el. pašto arba mobiliojo telefono numerio paskyroje, išbandykite ["Facebook"](https://aka.ms/facebook-password-help)slaptažodžio nustatymo iš naujo Patarimai .
