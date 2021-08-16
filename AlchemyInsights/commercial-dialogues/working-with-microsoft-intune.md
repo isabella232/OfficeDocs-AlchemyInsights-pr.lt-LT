@@ -1,5 +1,5 @@
 ---
-title: Darbas naudojant "Microsoft Intune"
+title: Darbas "Microsoft Intune"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069900"
 ---
-# <a name="working-in-microsoft-intune"></a>Darbas naudojant "Microsoft Intune"
+# <a name="working-in-microsoft-intune"></a>Darbas "Microsoft Intune"
 
-Štai keletas "Intune" pagrindų:
+Štai keli "Intune" pagrindai:
 
 - [Kas yra Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
 - [Kaip prisiregistruoti naudoti "Intune" bandomąją versiją?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
 - ["Intune" nustatymas pirmą kartą](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
 - [Kas yra įrenginio registracija "Intune"?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Naudokite trikčių diagnostikos portalą, kad padėtumėte vartotojams įmonėje](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Trikčių diagnostikos portalo naudojimas siekiant padėti vartotojams įmonėje](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
 [Skaitykite daugiau apie "Microsoft Intune"...](https://docs.microsoft.com/mem/intune/)

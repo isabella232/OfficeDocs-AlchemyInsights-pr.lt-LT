@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058514"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Apsaugos nuo pašto šiukšlių nustatyti
 
 Štai kaip tai padaryti:
 
-1. Eikite į ["Office 365" saugos & atitikties centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Eikite **į**  >  **Grėsmių valdymo** strategija ir spustelėkite **[Apsauga nuo pašto šiukšlių](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
 1. Skirtuke **Pasirinktinis** įjunkite **Pasirinktiniai** parametrai.
 1. Išplėskite **numatytosios pašto šiukšlių filtro** strategiją , **spustelėkite** Redaguoti strategiją , tada nurodykite šiuos parametrus:
