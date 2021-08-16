@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034366"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>Sužinokite apie "Microsoft" sargybą, Office 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "52539796"
 
 **Kaip aktyvinti "Microsoft" sargybą Office 365?**
 
-Seifas Priedai, Seifas saitai ir apsauga nuo sukčiavimo apsimetant yra "Microsoft" sargybos, Office 365 funkcija. "Enterprise E5", "Education A5" ir Microsoft 365 Business "Microsoft" sargyba, skirta Office 365 funkcijoms. Visiems kitiems planams reikalingas "Microsoft" sargybos priedas, skirtas Office 365 prenumeratai. Turite priskirti atitinkamas licencijas savo vartotojams, kad juos apsaugotų "Microsoft" sargyba Office 365. Norėdami pasiekti šią funkciją, turite turėti visuotinio administratoriaus arba saugos administratoriaus teises. Norėdami sužinoti daugiau apie tai, kaip masiškai taikyti [licencijas galutiniams](https://go.microsoft.com/fwlink/?linkid=2093435)vartotojams, žr. Licencijų priskyrimas vartotojams Office 365 verslui .
+Seifas Priedai, Seifas saitai ir apsauga nuo sukčiavimo apsimetant yra "Microsoft" sargybos, Office 365 funkcija. "Enterprise E5", "Education A5" ir "Microsoft 365 Business" apima įtaisytą "Microsoft" sargybą, Office 365 funkcijas. Visiems kitiems planams reikalingas "Microsoft" sargybos priedas, skirtas Office 365 prenumeratai. Turite priskirti atitinkamas licencijas savo vartotojams, kad juos apsaugotų "Microsoft" sargyba Office 365. Norėdami pasiekti šią funkciją, turite turėti visuotinio administratoriaus arba saugos administratoriaus teises. Norėdami sužinoti daugiau apie tai, kaip masiškai taikyti [licencijas galutiniams](https://go.microsoft.com/fwlink/?linkid=2093435)vartotojams, žr. Licencijų priskyrimas vartotojams Office 365 verslui .
 
 **Kaip valdyti "Microsoft" sargybą Office 365 daugiau apie ją?**
 

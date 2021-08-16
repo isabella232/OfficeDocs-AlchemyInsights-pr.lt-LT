@@ -1,5 +1,5 @@
 ---
-title: Įrenginio įrašymo atgal
+title: Įrenginio writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101958"
 ---
-# <a name="device-writeback"></a>Įrenginio įrašymo atgal
+# <a name="device-writeback"></a>Įrenginio writeback
 
-Įrenginio įrašymo atgal naudojamas šiais atvejais:
+Įrenginio "Writeback" naudojama šiais atvejais:
 
-- ["Windows Hello" verslui įgalinimas naudojant hibridinio sertifikato patikimumo diegimą](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Įgalinti sąlyginę prieigą, pagrįstą įrenginiais ADFS (2012 R2 arba naujesnės versijos) apsaugotose taikomosiose programose (remdamasi šalių patikais)
+- Įjungti [Windows Hello verslui naudojant hibridinį sertifikato patikimumo diegimą](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Sąlyginės prieigos įgalinimas pagal įrenginius su ADFS (2012 R2 arba naujesnėmis) apsaugotomis programomis (pasitikėti šalių pasitikėjimais)
 
     > [!NOTE]
-    > "Azure AD Premium" prenumerata reikalinga įrenginio write.
+    > Įrenginio įrašymo atgal Premium "Azure AD" prenumerata.
 
-Taip užtikrinamas papildomas saugumas ir užtikrinimas, kad prieiga prie taikomųjų programų būtų suteikiama tik patikimiems įrenginiams. Daugiau informacijos apie sąlyginę prieigą rasite [rizikos valdymas naudojant sąlyginę prieigą](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) ir [vietinio sąlyginės prieigos nustatymas naudojant "Azure Active Directory" įrenginio registraciją](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Tai suteikia papildomos saugos ir garantijos, kad prieiga prie taikomųjų programų suteikiama tik patikimiems įrenginiams. Daugiau informacijos apie sąlyginę prieigą žr. Rizikos valdymas naudojant [sąlyginę](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) prieigą ir vietinės sąlyginės prieigos nustatymas [naudojant ""Azure Active Directory" įrenginių registraciją.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Daugiau informacijos apie tai, kaip įgalinti įrenginių write-back įrenginių, ieškokite [įrenginio įrašymo įjungimas](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Daugiau informacijos apie įrenginio rašymo atgalinio įrašymo įgalinimas įrenginiuose, žr. [Įrenginio rašymo atgalinio įrašymo įgalinimas](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).

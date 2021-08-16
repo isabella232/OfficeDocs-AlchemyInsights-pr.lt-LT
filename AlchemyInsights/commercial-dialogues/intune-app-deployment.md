@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034438"
 ---
 # <a name="intune-app-deployment-process"></a>"Intune" taikomųjų programų diegimo procesas
 
-Taikomųjų programų su "Intune" diegimas vykdomas toliau.
+Taikomųjų programų diegimas naudojant "Intune" vyksta toliau pateiktame procese:
 
-- Taikomosios programos įtraukimas – galite įtraukti taikomosios programos saugyklos programėlę arba nusiųsti verslo taikomosios programos eilutę.
-- Taikomosios programos priskyrimas – nustatykite taikomosios programos diegimo apimtį.
-- Taikomųjų programų stebėjimas – Peržiūrėkite taikomųjų programų diegimo būseną, rastų programėlių sąrašą ir tvarkykite programas, įsigytas iš taikomųjų programų parduotuvių.
-- [Taikomoji programa įdiegė "Intune" SDK. Programų, palaikančių SDK, sąrašą rasite "Microsoft Intune" apsaugotos programos](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Taikomosios programos įtraukimas – galite įtraukti programėlę "App Store" arba nusiųsti "Line of Business" taikomąją programą.
+- Taikomosios programos priskyrimas – nustatykite taikomosios programos diegimo aprėptį.
+- Programų stebėjimas – peržiūrėkite programėlių diegimo būseną, sąrašą, aptiktas programėles ir tvarkykite programėles, įsigytas iš programėlių parduotuvių.
+- [Taikomoji programa įdiegė "Intune" SDK. Programų, kurios palaiko SDK, sąrašą žr. "Microsoft Intune" apsaugotos programos.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Skaitykite daugiau apie "Intune" taikomųjų programų įdiegtį ir valdymą...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Skaitykite daugiau apie "Intune" taikomosios programos diegimą ir valdymą...](https://docs.microsoft.com/mem/intune/apps/app-management)
