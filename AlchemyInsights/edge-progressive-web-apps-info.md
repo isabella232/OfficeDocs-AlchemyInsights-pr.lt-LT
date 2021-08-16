@@ -1,5 +1,5 @@
 ---
-title: Sužinokite apie pažangias žiniatinklio programas (PWAs) "Microsoft Edge" (chromas)
+title: Sužinokite apie progresyvias žiniatinklio taikomąsias programas (PVA) Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101454"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Sužinokite apie pažangias žiniatinklio programas (PWAs) "Microsoft Edge" (chromas)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Sužinokite apie progresyvias žiniatinklio taikomąsias programas (PVA) Microsoft Edge (Chromium)
 
-PWAs yra žiniatinklio svetainės palaipsniui tobulinamos veikti kaip vietinės programos, skirtos platformoms, kurios juos palaiko. PWAs sujungia geriausias žiniatinklio ir vietinių taikomųjų programų savybes.
+PWAs yra svetainės, palaipsniui patobulintos, kad veiktų kaip vietinės programos platformose, kurios jas palaiko. PWAs sujungia geriausias žiniatinklio ir vietinių programų savybes.
 
-" [Microsoft Edge" (chromo)](https://go.microsoft.com/fwlink/?linkid=2135193) interneto platformos perspektyvos pagrįstos standartais. Vartotojai gali diegti taikomąsias programas tiesiog naršyklėje ir jiems nereikia "Microsoft" parduotuvės – pagrįsto diegimo arba registravimo. Darbalaukio PWAs palaikomi bet kurioje platformoje, kurioje yra "Microsoft Edge" (chromo).
+Atsižvelgiant į žiniatinklio platformą, [PWAs Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) pagrįsti standartais. Jie leidžia vartotojams įdiegti programas tiesiai iš naršyklės ir jiems nereikia Microsoft Store diegimo arba registracijos. Darbalaukio PVA palaikomos bet kurioje platformoje, Microsoft Edge (Chromium) yra.
