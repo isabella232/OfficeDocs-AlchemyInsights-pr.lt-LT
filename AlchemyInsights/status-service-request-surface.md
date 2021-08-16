@@ -1,5 +1,5 @@
 ---
-title: Patikrinkite, ar yra "Surface" arba "Xbox" aptarnavimo užsakymo užklausos būsena
+title: Patikrinkite "Surface" arba "Xbox" paslaugos užsakymo užklausos būseną
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021532"
 ---
-# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Patikrinkite, ar yra "Surface" arba "Xbox" aptarnavimo užsakymo užklausos būsena
+# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Patikrinkite "Surface" arba "Xbox" paslaugos užsakymo užklausos būseną
 
-Jei norite peržiūrėti savo paslaugos užsakymo išsamią informaciją (pvz., taisymo užklausas), atlikite šiuos veiksmus:
+Jei norite peržiūrėti savo aptarnavimo užsakymo informaciją (t. y. remonto užklausas), atlikite šiuos veiksmus:
 
-1. Eikite į įrenginių tarnybos.
+1. Eikite į Įrenginių tarnybos.
 
-1. Pasirinkite **Rodyti išsamią informaciją** , kad pamatytumėte išsamią retrospektyvą ir naujausius naujinimus.
+1. Pasirinkite **Rodyti išsamią informaciją,** kad pamatytumėte visą retrospektyvą ir naujausius naujinimus.
 

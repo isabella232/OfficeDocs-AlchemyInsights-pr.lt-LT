@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft 365\" programų taisymo atsiprašome, mes turime laikinų serverio problemų pranešimą"
+title: "\"Microsoft 365\" programų taisymo atsiprašome, turime laikinų serverio problemų pranešimą"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021604"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>"Microsoft 365" programų taisymo pranešimas "Atsiprašome, kyla laikinų serverio problemų"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>El. Microsoft 365 "Atsiprašome, kyla laikinų serverio problemų" pranešimas
 
 Jei gaunate šį pranešimą, bandykite atlikti šiuos veiksmus:
 
-1. Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja interneto prieigos prie "Microsoft 365" programų. Žr. [URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Patikrinkite užkardos, antivirusinės programinės įrangos ir tarpinio serverio parametrus, kad patvirtintumėte, jog jie neblokuoja interneto prieigos prie Microsoft 365 programų. Žr. [URL ir IP adresų diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 2. Eikite **į Pradėti**  >  **vykdyti**, tada įveskite **services.msc**. Įsitikinkite, kad visos šios tarnybos veikia:
     - Tinklo prijungtų įrenginių automatinis nustatymas
     - Tinklo sąrašo tarnyba
     - Tinklo vietos žinomumas
-    - "Windows" įvykių žurnalas
+    - Windows Įvykių žurnalas
 
 Jei viena iš šių tarnybų neveikia, pabandykite ją paleisti. Jei kyla problemų pradedant tarnybą, vykdykite šią komandą atidarydami komandinę eilutę su didesnėmis teisėmis:
 
