@@ -1,5 +1,5 @@
 ---
-title: Kurti bendravimo svetainę
+title: Ryšių svetainės kūrimas
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069576"
 ---
-# <a name="create-a-communication-site"></a>Kurti bendravimo svetainę
+# <a name="create-a-communication-site"></a>Ryšių svetainės kūrimas
 
-Norėdami sukurti bendravimo svetainę "SharePoint Online", atlikite šiuos veiksmus: 
+Norėdami sukurti ryšių svetainę "SharePoint Online", atlikite šiuos veiksmus: 
   
-1. Puslapio viršutiniame kairiajame kampe spustelėkite taikomųjų programų vykdyklę, tada pasirinkite "SharePoint" plytelę. Jei nematote "SharePoint" plytelės, spustelėkite **svetainės** arba **Visos programos** , jei "SharePoint" nematoma. 
+1. Viršutiniame kairiajame puslapio kampe spustelėkite taikomųjų programų vykdyklę ir pasirinkite SharePoint plytelę. Jei nematote išklotinės SharePoint, spustelėkite **Svetainės** arba **Visos programėlės,** SharePoint nėra matomas. 
     
-2. "SharePoint" puslapio viršuje spustelėkite **kurti svetainę** ir pasirinkite **bendravimo svetainė**. Vykdykite svetainių kūrimo vediklio veiksmus. 
+2. Puslapio "SharePoint" viršuje spustelėkite Kurti **svetainę ir** pasirinkite **Ryšių svetainė**. Atlikite svetainės kūrimo vediklio veiksmus. 
     
- **Pastaba**: Jei nematote parinkties **kurti svetainę**, savitarnos svetainės kūrimas gali būti išjungtas. Kreipkitės į asmenį, administruojantį "Microsoft 365" jūsų organizacijoje, kad sukurtumėte komandos svetainę. Jei esate nuomotojo administratorius, peržiūrėkite ["SharePoint Online" svetainės kūrimo valdymas, kad įgalintumėte savo organizacijos savitarnos svetainių kūrimą.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Pastaba:** jei nematote parinkties Kurti **svetainę,** savitarnos svetainės kūrimas gali būti išjungtas. Susisiekite su asmeniu, Microsoft 365 organizacijoje, kad sukurtumėte komandos svetainę. Jei esate nuomotojo administratorius, žr. Svetainės kūrimo valdymas "SharePoint Online", kad įgalintumėte [savitarnos svetainės kūrimą organizacijoje.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Pastaba:** Jei bandote sukurti bendravimo svetainę ir URL yra pridedamas prie atsitiktinių skaičių, tikėtina, kad svetainė su tuo pačiu URL jau yra "SharePoint" aplinkoje arba panaikinta ir vis dar yra panaikintų svetainių (Šiukšlinė). Naudokite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) Norėdami įvertinti šiukšlinę ir [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) pašalinti svetainę iš Šiukšlinės. 
+ **Pastaba:** Jei bandote sukurti ryšių svetainę ir URL pridedamas atsitiktiniais skaičiais, tikėtina, kad svetainė su tuo pačiu URL jau yra "SharePoint" aplinkoje arba buvo panaikinta ir vis dar yra panaikintose svetainėse (šiukšlinėje). Naudokite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) norėdami įvertinti šiukšlinę ir pašalinti svetainę iš [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) šiukšlinės. 
   
 
