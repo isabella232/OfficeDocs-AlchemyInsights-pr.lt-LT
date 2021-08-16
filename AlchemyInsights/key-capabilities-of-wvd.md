@@ -1,5 +1,5 @@
 ---
-title: "\"Windows Virtual Desktop\" pagrindinės funkcijos"
+title: Pagrindinės virtualiojo darbalaukio Windows galimybės
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067128"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>"Windows Virtual Desktop" pagrindinės funkcijos
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Pagrindinės virtualiojo darbalaukio Windows galimybės
 
-"Windows Virtual Desktop" yra darbalaukio virtualizavimo ir taikomųjų programų virtualizavimo tarnyba, veikianti debesyje. Štai ką galima daryti, kai paleidžiate "Windows Virtual" darbalaukį "Azure":
+Windows Virtualusis darbalaukis yra darbalaukio virtualizavimo ir taikomųjų programų virtualizavimo tarnyba, kuri veikia debesyje. Štai ką galite padaryti, kai paleidžiate "Windows Desktop" "Azure":
 
-- Kelių seansų "Windows 10" įdiegties nustatymas, kuriame pateikiama išsami "Windows 10" funkcija su mastelio keitimo galimybėmis
-- "Microsoft" 365 taikomųjų programų virtualizavimas ir jos optimizavimas vykdant kelių vartotojų virtualiuosius scenarijus
-- "Windows 7" virtualių darbalaukių su nemokamais išplėstine saugos naujinimais (ESU) pateikimas
-- Esamų nuotolinio darbalaukio tarnybų (RDS) ir "Windows Server" darbalaukius ir taikomąsias programas perkelti į bet kurį kompiuterį
-- "Windows 10", "Windows Server" ir "Windows 7" stalinių kompiuterių ir taikomųjų programų valdymas naudojant vieningą valdymo patirtį
-- Kurkite visas kompiuterio virtualizavimo aplinką "Azure" prenumeratoje, nevykdydami papildomų šliuzo serverių
-- Publikuokite kaip daug pagrindinio kompiuterio telkinių, kaip jums reikia prisitaikyti prie įvairių darbo apkrovų
-- Naudodami "Azure" galeriją, atsineškite savo atvaizdus gamybos darbo krūviams ir bandymams
-- Sumažinkite išlaidas naudodami bendrus kelių seansų išteklius
-- Asmeninės (išliekančių) darbalaukius suteikti individualią nuosavybę
+- Kelių seansų diegimo Windows 10, kuris suteikia visišką Windows 10 su mastelio keitimo galimybėmis
+- Virtualizuokite "Microsoft 365" programos ir optimizuokite ją, kad ji būtų vykdoma kelių vartotojų virtualiuose scenarijuose
+- Pateikite Windows 7 virtualiuosius darbalaukius su nemokamais išplėstiniais saugos naujinimais (ESU)
+- Esamų nuotolinio darbalaukio tarnybų (RDS) ir "Windows Server" darbalaukių ir programėlių į bet kurį kompiuterį
+- "Windows 10", "Windows Server" ir "Windows 7" darbalaukių ir programų valdymas naudojant vieningą valdymo patirtį
+- Sukurkite visą darbalaukio virtualizavimo aplinką savo "Azure" prenumeratoje, nenaudodami papildomų šliuzo serverių
+- Publikuokite tiek pagrindinio kompiuterio telkinių, kiek jums reikia, kad būtų galima pritaikyti įvairius darbo krūvius
+- Iš "Azure" galerijos patraukite savo vaizdus, kad būtų galima atlikti gamybos darbo krūvius ir testus
+- Sumažinkite išlaidas naudodami kelių seansų išteklius
+- Asmeninės nuosavybės perdavimas asmeniniuose (nuolatiniuose) darbalaukiuose
 
-Jei norite sužinoti daugiau, peržiūrėkite ["Windows Virtual Desktop Essentials"](https://go.microsoft.com/fwlink/?linkid=2127033) ir [pagrindines galimybes](https://go.microsoft.com/fwlink/?linkid=2127033).
+Norėdami sužinoti daugiau, [žr. Windows "Virtual Desktop Essentials"](https://go.microsoft.com/fwlink/?linkid=2127033) [ir "Key" galimybes.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

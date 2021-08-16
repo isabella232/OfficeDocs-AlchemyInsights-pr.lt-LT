@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004331"
 - "7727"
-ms.openlocfilehash: 7349efb02f8d6ac5d73f6d6cd06eef6308ffe9be
-ms.sourcegitcommit: 117c64e1fbcb5eec04f94eadad71423b974e7b14
+ms.openlocfilehash: 03d77c17622a1aac5ecb035bb5b73efdbbfe5e6b141e6b266eef8783f612c8b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067020"
 ---
 # <a name="logs-and-reporting"></a>Žurnalai ir ataskaitos
 
-" [Azure Active Directory" ataskaitų DUK](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) atsakymų klausimai dažnai užduodami klausimai apie "Azure Active Directory" ("Azure AD") ataskaitas. Daugiau informacijos ieškokite " [Azure Active Directory" ataskaitos](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports).
+["Azure Active Directory" DUK atsako](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) į dažnai užduodamus klausimus apie "Azure Active Directory" ("Azure AD") ataskaitas. Daugiau informacijos žr. ["Azure Active Directory" ataskaitos](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports).
 
-**Audito trikčių diagnostika**
+**Audito trikčių šalinimas**
 
-1. Jei kyla problemų, susijusių su kai kuriomis audito veiklomis ir trūkstama veikla yra šiame [sąraše](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities), prašom pateikti palaikymo bilietą.
-2. Jei kyla problemų, susijusių su audito žurnalais jūsų nuomotojuje, pateikite palaikymo bilietą.
-3. Jei jūsų audito veikla nėra rodoma iš karto "Azure" portale, peržiūrėkite mūsų [gaišties informaciją](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) ir failo palaikymo bilietą, jei vėlavimas viršija dokumentuotą gaištį.
-4. ["Azure AD" veiklos žurnalų išlaikymas](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
-5. Jei nematote viso pasirinkto datų intervalo audito, galite atsisiųsti iki 250K eilučių (surūšiuotas pagal naujausius) prisijungimo iš "Azure" portalo. Daugiau informacijos ieškokite [audito veiklos atsisiuntimas](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report).
+1. Jei kyla problemų matant kai kurias audito veiklas, o trūkstama veikla yra [šiame sąraše](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities), pateikite palaikymo kvitą.
+2. Jei kyla problemų matant visus jūsų nuomotojo audito žurnalus, pateikite palaikymo kvitą.
+3. Jei jūsų audito veikla iš karto nerodoma "Azure" portale, peržiūrėkite mūsų gaišties informaciją ir pateikite palaikymo kvitą, jei delsa viršija dokumentais nustatytą gaišties trukmę. [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies)
+4. ["Azure AD" veiklos žurnalų saugojimas](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
+5. Jei nematote viso pasirinkto datų diapazono audito, galite atsisiųsti iki 250K eilučių (surūšiuotų pagal naujausias) prisijungimų iš "Azure" portalo. Daugiau informacijos žr. [Audito veiklų atsisiuntimas](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report).
 
-**Problemų su prisijungimų trikčių diagnostika**
+**Prisijungimo trikčių šalinimas**
 
-1. Galite matyti tik pastarųjų 30 dienų duomenis, jei turite "Azure AD Premium" (P1 arba P2) licenciją jūsų nuomotojui.
-2. Prisijungimo moduliai galimi tik "Azure AD Premium" nuomininkams. Jos negalima naudoti nemokamiems arba pagrindiniams licencijuotiems nuomotojams.
-3. Jei jūsų Nuomotojas turi aukščiausios formos P1 licenciją ir negalite matyti prisijungimo, peržiūrėkite mūsų [gaišties informaciją](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) ir failo palaikymo bilietą, jei vėlavimas viršija dokumentuotą gaištį.
-4. Jei nematote visų pasirinkto datų intervalo paskyrų, galite atsisiųsti iki 250K eilučių (surūšiuotas pagal naujausius) iš "Azure" portalo. Daugiau informacijos rasite [prisijungimo veiklos atsisiuntimas](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities).
+1. Paskutines 30 duomenų dienų galite matyti tik tada, jei turite "Azure AD Premium (P1 arba P2) nuomotojo licenciją.
+2. Prisijungimai galimi tik "Azure AD" Premium nuomotojams. Ji negalima nemokamai arba baziniams licencijuoties nuomotojams.
+3. Jei jūsų nuomotojas turi "Premium P1" licenciją ir nematote prisijungimo, peržiūrėkite mūsų gaišties informaciją ir pateikite palaikymo kvitą, jei delsa viršija dokumentuotą gaištis. [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies)
+4. Jei nematote visų pažymėto datų diapazono prisijungimų, atkreipkite dėmesį, kad galite atsisiųsti iki 250K eilučių (surūšiuotų pagal naujausias) prisijungimų iš "Azure" portalo. Daugiau informacijos [žr. Prisijungimo veiklos atsisiuntimas](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities).
 
-**Saugos ataskaitų trikčių šalinimas (vartotojams pažymėti rizikos, rizikingas prisijungimas)**
+**Saugos ataskaitų trikčių šalinimas (vartotojai pažymėti kaip rizikingi, rizikingas prisijungimas)**
 
-1. [Su rizikos saugos ataskaita pažymėti vartotojai](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
-2. [Rizikingas prisijungimo ataskaita "Azure Active Directory" portale](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
-3. ["Azure Active Directory" rizikos įvykiai](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)
+1. [Vartotojai, pažymėti rizikos saugos ataskaita](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
+2. [Rizikingų prisijungimų ataskaita "Azure Active Directory" portale](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
+3. ["Azure Active Directory" įvykiai](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)

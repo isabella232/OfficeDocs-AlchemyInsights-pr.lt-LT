@@ -1,5 +1,5 @@
 ---
-title: Audito žurnalų įgalinimas
+title: Audito žurnalo įgalinkite
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988411"
 ---
-# <a name="enable-the-audit-log"></a>Audito žurnalų įgalinimas
+# <a name="enable-the-audit-log"></a>Audito žurnalo įgalinkite
 
-Ryšiui palaikyti reikia audito žurnalų, kad būtų rodomi įspėjimai ir sekti taisymo veiksmus, kurių ėmėsi redaktoriai. Audito žurnalai yra visos veiklos, susietos su apibrėžta organizacijos strategija, įskaitant bet kuriuo metu komunikacijos atitikties strategijos keitimą, santrauka. Norėdami įjungti audito registravimą:
+Ryšių atitiktis reikalauja audito žurnalų, kad būtų rodomi įspėjimai ir stebimi redaktorių atlikti taisymo veiksmai. Audito žurnalai yra visų veiklų, susijusių su apibrėžta organizacijos strategija, įskaitant bet kada pasikeitus ryšių atitikties strategijai, suvestinė. Norėdami įjungti audito registravimą:
 
-1. [Saugos & atitikties centre](https://go.microsoft.com/fwlink/?linkid=2101341)eikite į **ieškos**  >  **audito žurnalų ieška**.
-2. Pasirinkite **įjungti tikrinimą**.
+1. Saugos ir [& centre eikite](https://go.microsoft.com/fwlink/?linkid=2101341)į **Ieškoti audito**  >  **žurnalo ieškos**.
+2. Pasirinkite **Įjungti auditą**.
 
-    Įjungus auditą, rodomas pranešimas, kuriame sakoma, kad rengiamas audito registras ir galite vykdyti iešką po poros valandų po parengimo. Šį veiksmą turite atlikti tik vienu metu.
+    Įjungus auditą, rodomas pranešimas, kuriame nurodoma, kad rengiamas audito žurnalas ir galite atlikti iešką po kelių valandų nuo parengimo. Šį veiksmą turite atlikti tik vieną kartą.
 
-Norėdami sužinoti daugiau, peržiūrėkite audito [žurnalų ieškos įjungimas arba išjungimas](https://go.microsoft.com/fwlink/?linkid=2129077) ir [audito žurnalų ieška](https://go.microsoft.com/fwlink/?linkid=2123729).
+Norėdami sužinoti daugiau, [žr. Audito žurnalo ieškos įjungimas arba išjungimas](https://go.microsoft.com/fwlink/?linkid=2129077) [ir Audito žurnalo ieška](https://go.microsoft.com/fwlink/?linkid=2123729).

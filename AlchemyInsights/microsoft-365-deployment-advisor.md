@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft 365\" diegimas"
+title: "\"Microsoft 365"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027391"
 ---
-# <a name="deploy-microsoft-365"></a>"Microsoft 365" diegimas
+# <a name="deploy-microsoft-365"></a>"Microsoft 365
 
-["Microsoft 365" diegimo patarėjas](https://go.microsoft.com/fwlink/?linkid=2072646) pateikia komerciniams klientams patarimus, nustatydami produktyvumo įrankius, saugos strategijas ir įrenginių valdymo galimybes. Naudodami "Microsoft 365 Business Premium" arba "Microsoft 365", skirtą "Enterprise" prenumeratai, galite naudoti šį patarėją savo organizacijos įrenginiams nustatyti ir konfigūruoti.
+Diegimo [Microsoft 365 teikia](https://go.microsoft.com/fwlink/?linkid=2072646) komerciniams klientams rekomendacijas nustatant produktyvumo įrankius, saugos strategijas ir įrenginių valdymo galimybes. Naudodami Microsoft 365 Business Premium arba Microsoft 365 prenumeratą, galite naudoti šį patarėją organizacijos įrenginiams nustatyti ir konfigūruoti.
 
-Jums bus teikiamos rekomendacijos ir prieiga prie išteklių, kad įgalintumėte jūsų debesies tarnybas, atnaujintų įrenginius į naujausią palaikomą "Windows 10" versiją ir prijungti įrenginius prie "Azure Active Directory" ("Azure AD"), viskas vienoje centrinėje vietoje.
+Gausite patarimų ir prieigos prie išteklių, kad įgalintumėte debesies tarnybas, atnaujintumėte įrenginius į naujausią palaikomą "Windows 10" versiją ir prijungsite įrenginius prie ""Azure Active Directory""( "Azure AD"), visuose vienoje centrinėje vietoje.

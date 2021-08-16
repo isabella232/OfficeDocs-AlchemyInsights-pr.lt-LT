@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996602"
 ---
 # <a name="canceling-your-subscription"></a>Atšaukiate prenumeratą?
 
 Atsiprašome, kad keliaujate, bet jei norite atšaukti prenumeratą, štai jūsų parinktys:
   
 - Jei turite mažiau nei 25 priskirtas licencijas, galite atšaukti prenumeratą internetu. Eikite **į** \> **[puslapį Atsiskaitymas](https://go.microsoft.com/fwlink/p/?linkid=842054)** už produktus ir raskite prenumeratą, kurią norite atšaukti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
-- Jei turite daugiau nei 25 vartotojams priskirtas licencijas, skambinkite [palaikymo tarnybą, kad atšauktumėte prenumeratą](https://go.microsoft.com/fwlink/p/?linkid=518322).
+- Jei turite daugiau nei 25 vartotojams priskirtas licencijas, sumažinkite iki mažiau nei 25, kad atšauktumėte arba atšauktumėte [prenumeratą.](/microsoft-365/business-video/get-help-support)
   
 **Grąžinimas: bet koks paskesnį atsiskaitymo ciklą jums bus grąžintas bet koks sąskaitęs kreditas.**
 

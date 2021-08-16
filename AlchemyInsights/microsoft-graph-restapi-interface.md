@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Graph\" likusios API sąsaja"
+title: "\"Microsoft \"Graph\" REST API\" sąsaja"
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027202"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>"Microsoft Graph" likusios API sąsaja
+# <a name="microsoft-graph-rest-api-interface"></a>"Microsoft "Graph" REST API" sąsaja
 
-Grafikų API – rinkiniai v 1.0 galinio punkto atžvilgiu yra bendrojo pasiekiamumo (GA) būsena, ir jie išgyveno griežtą peržiūros ir grįžtamojo ryšio procesą su klientais, kad patenkintų praktinius gamybos poreikius.
+""Graph" API rinkiniai, esantys v1.0 pabaigos taške, yra bendrojo pasiekiamumo (GA) būsenoje ir vyksta griežtas peržiūros ir atsiliepimų procesas su klientais, kad būtų patenkinti praktiniai gamybos poreikiai.
 
-- Norėdami gauti daugiau informacijos apie Graph API v 1.0, peržiūrėkite ["Microsoft Graph". API v 1.0 nuoroda](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Daugiau informacijos apie Graph API beta versiją rasite ["Microsoft Graph beta" galinio punkto nuoroda](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Daugiau informacijos apie "Graph" API v1.0, žr. ["Microsoft "Graph" REST API v1.0 reference.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) 
+- Daugiau informacijos apie "Graph" API beta versiją, žr. ["Microsoft "Graph" beta pabaigos taško nuoroda](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
 
-Daugiau informacijos apie "Microsoft Graph" ieškokite ["Microsoft Graph" dokumentacijoje](https://docs.microsoft.com/graph/).
+Daugiau informacijos apie "Microsoft "Graph"", žr. ["Microsoft "Graph" dokumentacijoje.](https://docs.microsoft.com/graph/)
 
 

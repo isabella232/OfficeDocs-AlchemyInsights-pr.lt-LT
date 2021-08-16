@@ -1,5 +1,5 @@
 ---
-title: "\"Azure Active Directory Premium P2\" įsigijimas"
+title: Pirkti "Azure Active Directory" Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996674"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>"Azure Active Directory Premium P2" įsigijimas
+# <a name="buy-azure-active-directory-premium-p2"></a>Pirkti "Azure Active Directory" Premium P2
 
-Norėdami išbandyti arba įsigyti "Azure Active Directory Premium P2", atlikite šiuos veiksmus:
+Norėdami išbandyti arba įsigyti ""Azure Active Directory" Premium P2", atlikite šiuos veiksmus:
 
-1. Eikite į **atsiskaitymo**  >  **pirkimo paslaugų**  >  [**Sauga ir tapatybė**](https://go.microsoft.com/fwlink/?linkid=2131946), tada spustelėkite " **Azure Active Directory Premium P2**".
-Jei pasirinkote nemokamą bandomąją versiją, baikite procesą vykdydami puslapyje pateiktas instrukcijas; kitu atveju pereikite prie 2 veiksmo.
-1. Kitame puslapyje įveskite vartotojų licencijų ir mokėjimo laikotarpio skaičių, tada spustelėkite **paimti ir atrakinti dabar**.
-1. Puslapyje **užsakymas** Peržiūrėkite kainodaros informaciją, tada spustelėkite **Pirmyn**.
-1. Kitame puslapyje įveskite savo mokėjimo ir adreso informaciją, tada perkelkite savo užsakymo informaciją.
-1. Įveskite savo telefono numerį, tada spustelėkite **tekstas man** arba **paskambinti man**.
-1. Įveskite patvirtinimo kodą, kurį išsiuntėme, tada baikite procesą vykdydami puslapyje pateiktas instrukcijas.
+1. Eikite **į**  >  **Atsiskaitymas Pirkimo** paslaugos Sauga  >  [**ir**](https://go.microsoft.com/fwlink/?linkid=2131946)tapatybė , tada spustelėkite "Azure Active Directory" Premium **P2**.
+Jei pasirinkote nemokamą bandomąją versiją, užbaikite procesą, vykdykite puslapyje pateiktas instrukcijas; kitu atveju pereikite prie 2 veiksmo.
+1. Kitame puslapyje įveskite vartotojų licencijų skaičių ir mokėjimo laikotarpį, tada spustelėkite **Tikrinti dabar**.
+1. Puslapyje **Kasa** peržiūrėkite kainodaros informaciją, tada spustelėkite **Pirmyn**.
+1. Kitame puslapyje įveskite mokėjimo ir adreso informaciją, tada įdėkite užsakymą.
+1. Įveskite savo telefono numerį, tada spustelėkite Tekstas **man arba** **Skambinti man**.
+1. Įveskite patvirtinimo kodą, kurį jums išsiuntėme, ir užbaikite procesą, vykdykite puslapyje pateiktas instrukcijas.
