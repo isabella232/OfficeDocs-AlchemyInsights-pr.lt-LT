@@ -1,5 +1,5 @@
 ---
-title: "\"1800014\" pašto nustatymas \"Outlook\" mobiliųjų įrenginių programėlėje"
+title: 1800014 El. pašto Outlook mobiliųjų įrenginių programėlėje
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -16,31 +16,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bc0d854d7033657bba8f0b72a379f82411dabc1c77d58007b8b93f8179daf5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073917"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>El. pašto nustatymas "Outlook" mobiliųjų įrenginių programėlėje
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>El. pašto Outlook mobiliųjų įrenginių programėlėje
 
-1. Pasirinkite darbo **Pradžia** , jei jis pirmą kartą nustato elektroninio pašto adresą mobiliojoje programėlėje. Priešingu atveju bakstelėkite **meniu** , tada bakstelėkite **Parametrai** \> **Įtraukti paskyrą** \> **įtraukti el. pašto paskyrą**.
+1. Pasirinkite **Darbo pradžia,** jei pirmą kartą nustatote el. paštą mobiliųjų įrenginių programėlėje. Kitu atveju bakstelėkite **Meniu,** tada bakstelėkite **Parametrai** \> **Įtraukti paskyrą Įtraukti** \> **el. pašto paskyrą.**
 
-2. Įveskite savo el. pašto adresą ir bakstelėkite **tęsti** arba **Įtraukti paskyrą**.
+2. Įveskite visą el. pašto adresą ir bakstelėkite **Tęsti arba** **Įtraukti paskyrą.**
 
-3. Įveskitesavo pašto paskyros slaptažodį ir bakstelėkite **prisijungti** arba **Pirmyn**.
+3. Įveskite savo el. pašto paskyros slaptažodį ir **bakstelėkite Prisijungti arba** **Pirmyn**.
 
-4. Jei įgalintas [kelių dalių autentifikavimas](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) , patikrinkite, ar naudojate nustatytą (6 skaitmenų kodą, telefono skambutį arba "Microsoft authenticator" taikomąją programą).
+4. Jei [kelių dalių autentifikavimas](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) įgalintas, patikrinkite naudodami nustatytą metodą (6 skaitmenų kodą, telefono skambutį arba Microsoft Authenticator programėlę).
 
-5. Jei įdiegtos papildomos IT administravimo strategijos, bakstelėkite **Aktyvinti** , kad jas įgalintumėte.
+5. Jei yra papildomų IT administravimo strategijų, bakstelėkite Aktyvinti, **kad** jas įgalintumėte.
 
-6. "Outlook" gali paprašyti teisės pasiekti jūsų kalendorių, kontaktus ir kitą informaciją. Pasirinkite **taip** arba **leisti**.
+6. Outlook prašyti leidimo pasiekti jūsų kalendorių, kontaktus ir kitą informaciją. Pasirinkite **Taip** arba **Leisti**.
 
-Susipažinkite su " [Outlook",](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) skirtos "Android" arba ["iOS",](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) čia pateiktomis išsamiomis instrukcijomis.
+Gaukite išsamias ["Android" Outlook "iOS"](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) [Outlook instrukcijas.](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)
   
  **Reikia pagalbos?**
   
-- [El. pašto sąrankos mobiliajame įrenginyje trikčių šalinimas](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [El. pašto sąrankos trikčių šalinimas mobiliajame įrenginyje](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Gaukite "Outlook", skirtos "iOS" ir "Android", taikomųjų programų žinyną](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Gaukite "iOS" ir "Android" Outlook programos žinyną](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

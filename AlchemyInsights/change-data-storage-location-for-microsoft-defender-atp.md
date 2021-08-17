@@ -1,5 +1,5 @@
 ---
-title: Duomenų saugojimo vietos keitimas "Microsoft" sargybos ATP
+title: "\"Microsoft\" sargybos ATP duomenų saugojimo vietos keitimas"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: b01e113bd8c8387009f6f7b857c3a8bf977ec4fd
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 098253c12e0d0bf03f1c50af66a7a84635f699218ca734e53965bcfd55edb930
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103596"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Duomenų saugojimo vietos keitimas "Microsoft" sargybos ATP
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>"Microsoft" sargybos ATP duomenų saugojimo vietos keitimas
 
-Norėdami pakeisti duomenų saugojimo vietą, naudojamą ""Microsoft" sargybos ATP, atidarykite palaikymo atvejį su "Microsoft".
+Norėdami pakeisti "Microsoft" sargybos ATP naudojamą duomenų saugojimo vietą, atidarykite palaikymo bylą su "Microsoft".

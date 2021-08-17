@@ -1,5 +1,5 @@
 ---
-title: Sklandžios bendrosios autentifikacijos (SSO) naršyklės problemų trikčių šalinimas
+title: Sklandžiosios bendrosios a sign-on (SSO) naršyklės trikčių šalinimas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074292"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Sklandžios bendrosios autentifikacijos (SSO) naršyklės problemų trikčių šalinimas
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Sklandžiosios bendrosios a sign-on (SSO) naršyklės trikčių šalinimas
 
-Daugelis vartotojų gali išspręsti savo sklandžią SSO naršyklės problemą atlikdami šiuos veiksmus:
+Dauguma vartotojų gali išspręsti sklandžią SSO naršyklės problemą, naudodami toliau nurodytus veiksmus:
 
-1. Įsitikinkite, kad naršyklė atnaujinta.
-2. Panaikinkite slapukus iš naršyklės, kad pašalintumėte netinkamą SSO seansą ir pabandytumėte prisijungti dar kartą.
+1. Įsitikinkite, kad jūsų naršyklė yra naujausia.
+2. Panaikinkite slapukus iš naršyklės, kad pašalintumėte neleistiną SSO seansą ir bandykite prisijungti dar kartą.
 3. Pabandykite prisijungti naudodami kitą naršyklę.
 
 **Žinomos naršyklės problemos**
 
-- Besiūliai SSO neveikia privačiame naršymo režime "Firefox".
-- Besiūliai SSO neveikia programoje "Internet Explorer", kai įjungta patobulinta apsaugotasis režimas.
-- Besiūliai SSO neveikia privačiame naršymo režime "Microsoft Edge" (Senstelėjusi).
-- Besiūliai SSO neveikia mobiliųjų įrenginių naršyklėse "iOS" ir "Android".
+- Sklandus SSO neveikia privačiu naršymo režimu "Firefox".
+- Sklandus SSO neveikia "Internet Explorer", kai įjungtas išplėstinis apsaugotasis režimas.
+- Sklandi SSO neveikia asmeninio naršymo režimu naudojant "Microsoft Edge (senstelėjusią).
+- Sklandi SSO neveikia "iOS" ir "Android" mobiliųjų įrenginių naršyklėse.
 
-Besiūliai SSO palaiko paskesnę "Microsoft Edge" versiją pagal chromą ir veikia "InPrivate" ir svečio režime pagal dizainą.
+Sklandus SSO palaiko kitą "Microsoft Edge versiją, pagrįstą "Chromium" ir veikia "InPrivate" ir "Guest" režimu pagal dizainą.
 
-**Patarimo**
+**Patariamasis**
 
-Norėdami atlikti funkcijų užklausas arba užduoti techninių klausimų apie "besiūlių SSO", ieškokite ["Microsoft" Q&](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Norėdami pateikti funkcijų užklausas arba užduoti techninių klausimų apie sklandžią SSO, žr. ["Microsoft" klausimų&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

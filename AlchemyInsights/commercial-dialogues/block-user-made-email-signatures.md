@@ -1,5 +1,5 @@
 ---
-title: Blokuoti vartotojo sukurtus el. pašto parašus
+title: Vartotojo parašų blokavimo
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103560"
 ---
-# <a name="block-user-made-email-signatures"></a>Blokuoti vartotojo sukurtus el. pašto parašus
+# <a name="block-user-made-email-signatures"></a>Vartotojo parašų blokavimo
 
-Šis sprendimas taikomas tik el. pašto parašams, sukurtiems internetinėje "Outlook". Galite blokuoti parašus tik "Outlook" programoje, jei turite vietinį "Exchange" serverį.
+Šis sprendimas taikomas tik el. pašto parašams, sukurtims internetinė "Outlook". Galite blokuoti parašus tik Outlook programoje, jei turite vietinę Exchange Server.
 
-1. Administravimo centre pasirinkite **administravimo centrų**  >  **keitimas**.
-2. Spustelėkite **teisės**  >  **"Outlook Web App" strategijos**.
-3. Pasirinkite strategiją, tada spustelėkite pieštuko piktogramą, kad jį redaguotumėte.
-4. Spustelėkite **funkcijos**  >  **daugiau parinkčių**.
-5. Dalyje **vartotojų veikimas** išvalykite žymės langelį **el. pašto parašas** , tada spustelėkite **įrašyti**.
+1. Administravimo centre pasirinkite Administravimo **centrai,**  >  **Exchange**.
+2. Spustelėkite **teisės**  >  **Outlook Web App strategijas.**
+3. Pasirinkite strategiją, tada spustelėkite pieštuko piktogramą, kad ją redaguosite.
+4. Spustelėkite **Funkcijos**  >  **Daugiau parinkčių**.
+5. Dalyje **Vartotojo patirtis** išvalykite žymės langelį **El.** pašto parašas, tada spustelėkite **Įrašyti**.
 
-**Svarbu:** Jei prieš išvalant šį žymės langelį buvo pridėtas parašas, vartotojas vis tiek galės jį naudoti. Paprašykite jų pašalinti.
+**Svarbu:** Jei prieš išvalant šį žymės langelį buvo įtrauktas parašas, vartotojas vis tiek galės jį naudoti. Paprašykite jų jį pašalinti.
