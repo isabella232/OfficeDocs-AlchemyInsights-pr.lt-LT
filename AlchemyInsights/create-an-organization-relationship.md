@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080358"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Organizacijos ryšių kūrimas, kad vartotojai galėtų bendradarbiauti su kita organizacija
 
-1. "Microsoft 365" administravimo centro ataskaitų srityje eikite į Administravimo  >  **"Exchange".**
+1. Ataskaitų "Microsoft 365" administravimo centras eikite į **Administravimo**  >  **Exchange**.
 2. Eikite į **organizacijos**  >  **bendrinimą**.
 3. Dalyje **Organizacijos bendrinimas** spustelėkite **Naujas** .
 4. Naujo **organizacijos ryšio** lauke Ryšio **pavadinimas** įveskite draugišką organizacijos ryšio pavadinimą.
-5. Lauke **Domenai, su kuriuos** norite bendrinti, įveskite išorinės "Office 365" arba "Exchange" vietinės organizacijos domeną, kurį norite leisti matyti savo kalendorius. Jei reikia įvesti daugiau nei vieną domeną, atskirkite domenų vardus kableliu. Pavyzdžiui, contoso.com service.contoso.com.
+5. Lauke **Domenai, su** kuriuos norite bendrinti, įveskite išorinės Office 365 arba Exchange organizacijos, su kurios kalendorių norite matyti, domeną. Jei reikia įvesti daugiau nei vieną domeną, atskirkite domenų vardus kableliu. Pavyzdžiui, contoso.com service.contoso.com.
 6. Pažymėkite žymės **langelį Įgalinti kalendoriaus užimtumo informacijos bendrinimą,** kad įjungtumėte kalendoriaus bendrinimą su jūsų išvardytais domenais. Nustatykite kalendoriaus užimtumo informacijos bendrinimo lygį ir nustatykite, kurie vartotojai gali bendrinti kalendoriaus užimtumo informaciją.  
 
 Norėdami nustatyti užimtumo prieigos lygį, pasirinkite vieną iš šių veiksmų:
@@ -46,6 +46,6 @@ Spustelėkite **Įrašyti,** kad sukurtumėte organizacijos ryšį.
 
 **Kad visiškai suprastumėte šią temą, perskaitykite:**
 
-- [Organizacijos ryšių kūrimas "Exchange Online"](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Organizacijos ryšio modifikavimas "Exchange Online"](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Organizacijos ryšio pašalinimas "Exchange Online"](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Organizacijos ryšių kūrimas "Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Organizacijos ryšio modifikavimas Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Organizacijos ryšių pašalinimas Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

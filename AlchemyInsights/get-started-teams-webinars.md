@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888250"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Darbo su žiniatinklio Teams pradžia
 
@@ -27,4 +27,4 @@ Nustatę žiniatinklio seminarus savo organizacijoje, vartotojai gali planuoti i
 
 **Pastaba:** internetinio seminaro funkcijos vis dar diegiamos Microsoft 365 nuomotojams. 
 
-Daugiau informacijos, kaip nustatyti ir konfigūruoti žiniatinklio Teams, žr. Internetinių seminarų [Microsoft Teams](/microsoftteams/set-up-webinars).
+Daugiau informacijos, kaip nustatyti ir konfigūruoti žiniatinklio Teams, žr. Internetinių seminarų [Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).
