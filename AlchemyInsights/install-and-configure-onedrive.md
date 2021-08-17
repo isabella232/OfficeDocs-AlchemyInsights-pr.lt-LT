@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" diegimas ir konfigūravimas"
+title: Įdiegti ir konfigūruoti "OneDrive"
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078126"
 ---
-# <a name="install-and-configure-onedrive"></a>"OneDrive" diegimas ir konfigūravimas
+# <a name="install-and-configure-onedrive"></a>Įdiegti ir konfigūruoti "OneDrive"
 
-"OneDrive" sinchronizavimo klientas iš anksto įdiegtas su "Windows 10". Norėdami įdiegti "OneDrive", skirtą "Windows 7" arba "Mac", arba gauti mobiliųjų įrenginių programėlę telefone arba planšetiniame kompiuteryje, eikite į [https://onedrive.com/download](https://onedrive.com/download) .
+Kliento "OneDrive" sinchronizavimo programa iš anksto įdiegta su "Windows 10". Norėdami įdiegti ""OneDrive"", Windows "Mac" arba "Mac", arba gauti mobiliųjų įrenginių programėlę savo telefonui arba planšetiniam kompiuteriui, eikite į [https://onedrive.com/download](https://onedrive.com/download) .
   
-Norėdami nustatyti "OneDrive" sinchronizavimo klientą sistemoje "Windows", žiūrėkite:
+Norėdami nustatyti ""OneDrive" sinchronizavimo programa" Windows, žr.:
   
-- ["OneDrive" sąrankos vadovas](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) Norėdami pradėti naudoti "OneDrive" failų saugyklą, bendrą naudojimą, bendradarbiavimą ir sinchronizavimo galimybes.
+- ["OneDrive" nustatyti vadovą,](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) kad būtų galima pradėti naudoti "OneDrive", bendrinimo, bendradarbiavimo ir sinchronizavimo galimybes.
 
-- [Kompiuterio nustatymas, kad būtų galima sinchronizuoti "OneDrive" verslui failus](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Kompiuterio, kad būtų sinchronizuojami jūsų "OneDrive" verslui failai,](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [„SharePoint“ failų sinchronizavimas naudojant naująjį „OneDrive“ sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=871666)
