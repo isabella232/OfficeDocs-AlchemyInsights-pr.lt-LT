@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116916"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Sąskaitos arba naudojimo kopijos gaukite
 
@@ -25,7 +25,7 @@ ms.locfileid: "51812410"
 
 1. Pasirinkite prenumeratą ["Azure" portalo prenumeratos](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) puslapyje kaip [vartotojas, kuris turi prieigą prie sąskaitų faktūrų,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) tada pasirinkite **Sąskaitos faktūros**
 2. Spustelėkite **Atsisiųsti sąskaitą faktūrą,** kad būtų galima peržiūrėti PDF sąskaitos faktūros kopiją. Jei jame **nurodyta Nėra**, [žr. Kodėl nematau](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice) sąskaitos faktūros už paskutinį atsiskaitymo laikotarpį?
-3. Taip pat galite peržiūrėti savo kasdienį naudojimą spustelėdami atsiskaitymo laikotarpį Norėdami gauti sąskaitos faktūros PDF ir išsamaus kasdienio naudojimo failo kopiją (. CSV): [gauti sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. Taip pat galite peržiūrėti savo kasdienį naudojimą spustelėdami atsiskaitymo laikotarpį Norėdami gauti sąskaitos faktūros PDF ir išsamios kasdienio naudojimo failo kopiją (.CSV): Gauti sąskaitos faktūros [ir naudojimo duomenis](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Gaukite sąskaitą faktūrą el. paštu (.pdf)**
 
@@ -47,14 +47,14 @@ Jei turite ["Microsoft" klientų sutartį,](https://docs.microsoft.com/azure/cos
 
 Jei turite "Microsoft" klientų sutartį, galite pasirinkti gauti sąskaitą faktūrą el. paštu. Visi atsiskaitymo profilio savininkai, bendraautoriai, skaitytojai ir sąskaitų faktūrų vadovai gaus sąskaitą faktūrą el. paštu. Skaitytojai negali atnaujinti el. pašto sąskaitos faktūros nuostatų
 
-- Ieškokite **Išlaidų valdymas + Atsiskaitymas**. Pasirinkite atsiskaitymo **profilį**. Dalyje Parametrai pasirinkite **Ypatybės**
+- Ieškokite dalies **Išlaidų valdymas + Atsiskaitymas**. Pasirinkite atsiskaitymo **profilį**. Dalyje Parametrai pasirinkite **Ypatybės**
 - Dalyje El. pašto sąskaita faktūra pasirinkite **Naujinti el. pašto sąskaitos faktūros nuostatas.** Pasirinkite Pasirinkti. Spustelėkite **Naujinti**
 
-**Įmonės sutartis (EA)**
+**Korporatyvinė sutartis (EA)**
 
 Norėdami peržiūrėti ir atsisiųsti naudojimo duomenis kaip EA klientą, turite būti įmonės administratorius, paskyros savininkas arba skyriaus administratorius, kuriam įgalinta rodinio mokesčių strategija.
 
-- Prisijunkite prie "Azure" portalo. Ieškokite **Išlaidų valdymas + Atsiskaitymas**. Atsiskaitymo profilio pasirinkimas
+- Prisijunkite prie „Azure“ portalo. Ieškokite dalies **Išlaidų valdymas + Atsiskaitymas**. Atsiskaitymo profilio pasirinkimas
 - Pasirinkite Naudojimas + mokesčiai. Mėnesio, kurį norite atsisiųsti, pasirinkite Atsisiųsti
 
 **"MOSP Azure" prenumerata**  

@@ -1,5 +1,5 @@
 ---
-title: "\"General Outlook\" papildinių informacija"
+title: Bendroji Outlook papildiniai informacija
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116952"
 ---
-# <a name="general-outlook-add-ins-information"></a>"General Outlook" papildinių informacija
+# <a name="general-outlook-add-ins-information"></a>Bendroji Outlook papildiniai informacija
 
-Apsilankykite šioje žiniatinklio svetainėje, kad galėtumėte naudoti ["Outlook" papildinių kūrimo](https://docs.microsoft.com/office/dev/add-ins/outlook/)dokumentus.
+Apsilankykite šioje svetainėje, jei reikia visų dokumentų išteklių, [Outlook papildinių kūrimo.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Papildomų išteklių, susijusių su papildinių valdymu, diegimu ir įgalinimu, ieškokite:
+Daugiau išteklių, susijusių su papildinių valdymas, diegimu ir įgalinimas, žr.:
 
-- [Nustatykite, ar centralizuotas papildinių diegimas veikia jūsų organizacijoje](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Nustatykite, ar centralizuotas papildinių diegimas veikia jūsų organizacijoje.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Papildinių diegimo valdymas „Microsoft 365“ administravimo centre](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Administratorių ir vartotojų, kurie gali įdiegti ir tvarkyti "Outlook" papildinius, nurodymas](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Nurodykite administratorius ir vartotojus, kurie gali įdiegti ir valdyti "Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

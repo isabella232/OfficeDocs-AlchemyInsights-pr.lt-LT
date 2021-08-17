@@ -11,29 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: ac4c157d6e202488659c56605768bbfd2b3af8e658d0a2f82e529fdac6763fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999680"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899340"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Įspėjimo el. laiškai iš "Phish Delivered due to tenant or user override" strategijos
 
-Numatytoji įspėjimo strategija, pavadinta "Phish Delivered due to tenant or user override" (apsimetant pristatyta dėl nuomotojo arba vartotojo perrašymo), buvo išsamūs nuomotojams su "Microsoft" sargyba, skirta "Office 365 P1" ir "P2" licencijoms. Jei gavote šį įspėjimą, toliau pateikiami veiksmai, kuriuos reikia atlikti:
+Numatytoji įspėjimo strategija, **pavadinta Apsimestinių** duomenų pristatymo dėl nuomotojo arba vartotojo perrašymo, pasiekiama organizacijose, kuriose yra "Microsoft" sargybos Office 365 P1 ir P2 licencijų. Jei gavote šį įspėjimą, toliau pateikiami veiksmai, kuriuos reikia atlikti:
 
-1. Įspėjimo pranešime spustelėkite Peržiūrėti **įspėjimą,** kad pereidami **į** saugos ir saugos & puslapį.
+1. Įspėjimo pranešime spustelėkite Peržiūrėti **įspėjimą,** kad pereidami **į** puslapį Įspėjimai "Microsoft 365" sargyba portale.
 
 2. Pasirinkite įspėjimą, kad pamatytumėte parinktį **Peržiūrėti pranešimų sąrašą arba** Peržiūrėti **pranešimus naršyklėje**. Abi šios parinktys pereis prie pranešimo išsamios informacijos, kurioje yra pranešimo ID. Atkreipkite dėmesį, kad "Threat Explorer" saitas automatiškai filtruoja pranešimus, kurie atitinka įspėjimo kriterijus. Gali tekti koreguoti datos filtrą grėsmių naršyklėje.
 
 Sukčiavimo apsimetant pranešimas buvo pristatytas dėl rankiniu būdu sukonfigūruoto perrašymo:
 
 - Vartotojo nustatytas leistinas siuntėjas arba domenas.
-
 - Leistinas siuntėjas arba domenas, administratoriaus nustatytas apsaugos nuo pašto šiukšlių politikoje.
-
 - Leidžiamas IP adresas ryšio filtro politikoje.
-
 - Pašto srauto taisyklė (dar vadinama transportavimo taisykle), sukonfigūruota leisti pranešimus.
 
-Jei manote, kad pranešimas buvo neteisingai pažymėtas kaip sukčiavimas apsimetant, naudokite Outlook [ataskaitos pranešimo papildinį, kad](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) pateiktų pranešimo pavyzdžius "Microsoft".
+Jei manote, kad pranešimas neteisingai pažymėtas kaip sukčiavimas apsimetant, naudokite [administratoriaus pateikimą,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) kad pranešimas būtų pateiktas "Microsoft".
+
+Vartotojai gali naudoti ataskaitos [pranešimo papildinį arba "Report Phishing" papildinį](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Outlook pateikti pranešimų pavyzdžius "Microsoft".

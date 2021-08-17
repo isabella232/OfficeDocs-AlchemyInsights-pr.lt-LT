@@ -1,5 +1,5 @@
 ---
-title: 1081 kalendorius – RBA CatchAll
+title: 1081 Kalendorius – RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059378"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Kambarių pašto dėžučių kūrimas ir valdymas
 
-Norėdami kurti ir modifikuoti kambarių pašto dėžutes "Exchange" administravimo centre, žr.: [kambarių pašto dėžučių kūrimas ir valdymas](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Norėdami kurti ir modifikuoti kambarių pašto dėžutes Exchange administravimo centre, [žr. Kambarių pašto dėžučių kūrimas ir valdymas](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Norėdami sužinoti daugiau apie kambarių ir įrangos pašto dėžutes (taip pat žinomas kaip išteklių pašto dėžutės), žiūrėkite [kambarių ir įrangos pašto dėžutės](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Norėdami sužinoti daugiau apie kambarių ir įrangos pašto dėžutes (dar vadinamas išteklių pašto dėžutėmis), [žr. Kambarių ir įrangos pašto dėžutės](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).

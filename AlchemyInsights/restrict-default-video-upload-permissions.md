@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: 6a5558b8aa39a5a54f1c060bf655725cf6c9555a2a2fc85c9c0b17ec4d27ed6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a3303a8e5d4b792bc3b4a16603386a41fc94f0c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922383"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310903"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Numatytųjų vaizdo įrašų nusiuntimo teisių apribojimas
 
-Kai vartotojai nusiunčia vaizdo įrašą į "Microsoft Stream" per srauto portalą už grupės ar grupės kanalo konteksto ribų, žymės langelis "Leisti visiems jūsų įmonės vartotojams peržiūrėti šį vaizdo įrašą" yra pažymėtas pagal numatytuosius nustatymus. Taip vaizdo įrašą gali peržiūrėti visi jūsų įmonės žmonės.
+Kai vartotojai nusiunčia vaizdo įrašą į "Microsoft Stream" per srauto portalą ne grupės arba grupės kanalo kontekste, žymės langelis "Leisti visiems jūsų įmonės vartotojams peržiūrėti šį vaizdo įrašą" yra pažymėtas pagal numatytuosius nustatymus. Taip vaizdo įrašą gali peržiūrėti visi jūsų įmonės žmonės.
 
-- [Numatytųjų vaizdo įrašų nusiuntimo teisių nustatymas](/stream/default-video-permissions)
+- [Numatytųjų vaizdo įrašų nusiuntimo teisių nustatymas](https://docs.microsoft.com/stream/default-video-permissions)
