@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076660"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892011"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemos, susijusios su už borto arba išjungto įrenginio pašalinimu iš įrenginio atsargų
 
@@ -32,11 +32,11 @@ Jei vis tiek nenorite matyti tam tikrų įrenginių rodinyje Įrenginių atsargo
 
 Daugiau informacijos rasite:
 
-[Offboard devices from the Microsoft Defender for Endpoint service](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Offboard devices from the Microsoft Defender for Endpoint service](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Poveikio balas grėsmių ir pažeidžiamumų valdymas](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Poveikio balas grėsmių ir pažeidžiamumų valdymas](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Nesveikų jutiklių taisymas "Microsoft Defender", skirtame "Endpoint"](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Nesveikų jutiklių taisymas "Microsoft Defender", skirtame "Endpoint"](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Kaip efektyviai naudoti žymėjimą (1 dalis)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

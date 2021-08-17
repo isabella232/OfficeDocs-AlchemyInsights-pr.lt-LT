@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083238"
 ---
-# <a name="winsock-error-10061"></a>Winsock klaida 10061
+# <a name="winsock-error-10061"></a>Winsock error 10061
 
-Šis klaidos kodas reiškia, kad "Microsoft" negalėjo sukurti TCP lizdo (ryšio) su paskirties pagrindiniu kompiuteriu. Labiausiai tikėtina šios klaidos priežastis yra jūsų užkardos konfigūravimo problema. Norėdami išspręsti problemą, patikrinkite šiuos parametrus:
+Šis klaidos kodas reiškia, kad "Microsoft" nepavyko nustatyti TCP lizdo (ryšio) su tiksliniu pagrindinio kompiuterio. Labiausiai tikėtina šios klaidos priežastis yra užkardos konfigūravimo problema. Norėdami išspręsti problemą, patikrinkite šiuos parametrus:
 
-- Patikrinkite užkardos konfigūraciją naudodami ["Microsoft 365" URL ir IP adresų diapazonų](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) informaciją
+- Patikrinkite užkardos konfigūraciją naudodami [informaciją, Microsoft 365 URL ir IP adresų diapazonuose](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Jei klaida būdinga "Exchange Online Protection" ("e"), prieš tai turite pranešti apie " [Exchange Online Protection" IP adresų](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)pakeitimą.
+- Jei klaida yra konkreti Exchange Online Protection (EOP), jums anksčiau turėjo būti pranešta apie ip [adresų Exchange Online Protection pakeitimą.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-- Patikrinkite, ar jūsų interneto paslaugų teikėjas (ISP) neužblokuoja prievado.
+- Patikrinkite, ar jūsų interneto paslaugų teikėjas (ISP) neblokuoja prievado.
 
-- Įsitikinkite, kad "Smart Host" ir paskirties serverio parametrai yra jūsų jungtyje.
+- Patikrinkite išmaniojo pagrindinio kompiuterio ir paskirties serverio parametrus jungtyse.
 
-Nepamirškite, kad "Microsoft 365" neblokuoja *įeinančių* ryšių šiuo būdu.
+Atkreipkite dėmesį Microsoft 365 kad taip *neblokuoja* gaunamų ryšių.

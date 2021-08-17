@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026230"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892055"
 ---
-# <a name="missing-emails-in-quarantine"></a>Sulaikyti trūksta el. laiškų"
+# <a name="missing-emails-in-quarantine"></a>Sulaikyti trūkstami el. laiškai
 
-Administratoriai gali [peržiūrėti, išleisti arba panaikinti šiuos pranešimus.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Administratoriai gali [peržiūrėti, išleisti arba panaikinti šiuos pranešimus](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Norėdami atidaryti saugos & centrą, eikite į [https://protection.office.com](https://protection.office.com/) . Norėdami atidaryti sulaikymo puslapį tiesiogiai, eikite į [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į **Sulaikyti** \> **peržiūra**. Arba, norėdami pereiti tiesiai į sulaikymo **puslapį,** naudokite <https://security.microsoft.com/quarantine> .  
 
-Galite ieškoti pagal šias reikšmes:  
+Daugiau informacijos apie ieškos / filtro reikšmes, kurias galite naudoti, žr. Sulaikytų laiškų ir failų valdymas [kaip administratorius EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 
-- **Pranešimo ID**: visuotinai unikalus pranešimo identifikatorius. Jei sąraše pasirinksite pranešimą, rodomame išskridimo  srityje Išsami informacija bus rodoma pranešimo **ID** reikšmė. Administratoriai gali naudoti [laiškų sekimą,](/microsoft-365/security/office-365-security/message-trace-scc) kad rastų laiškus ir jų atitinkamas pranešimo ID reikšmes.
-- **Siuntėjo el.** pašto adresas: vieno siuntėjo el. pašto adresas.
-- **Gavėjo el.** pašto adresas: vieno gavėjo el. pašto adresas.
-- **Tema**: naudokite visą laiško temą. Ieškai skiriamos ne abc nuo abc.
+"cmdlet", kurias naudojate laiškams ir failams sulaikyti peržiūrėti ir tvarkyti, yra:
 
-Įvedėte ieškos kriterijus, spustelėkite mygtuką ![ Atnaujinti, ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **kad filtruokite** rezultatus.
-
-Cmdlet, kurią naudojate laiškams ir failams sulaikyti peržiūrėti ir tvarkyti, yra:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): Atkreipkite dėmesį, kad ši "cmdlet" skirta tik laiškams, o ne kenkėjiškų programų failams iš "Microsoft" sargybos, skirtai "Office 365", skirtai "SharePoint Online", ""OneDrive" verslui" arba "Teams".
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Atkreipkite dėmesį, kad ši "cmdlet" skirta tik laiškams, o ne Seifas "SharePoint", ""OneDrive"" arba "Microsoft Teams".
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

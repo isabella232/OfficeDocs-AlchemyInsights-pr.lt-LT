@@ -1,5 +1,5 @@
 ---
-title: Bendrųjų "Microsoft Defender" problemų sprendimas "Office 365"
+title: Dažniausiai pasitaikančių "Microsoft" sargybos problemų sprendimas Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750738"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898252"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Bendrųjų "Microsoft Defender" problemų sprendimas "Office 365"
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Dažniausiai pasitaikančių "Microsoft" sargybos problemų sprendimas Office 365
 
-Čia pateikiami kai kurie įprastų "Microsoft Defender" "Office 365" problemų sprendimai:
+Toliau pateikiami keli dažniausiai pasitaikančių "Microsoft" sargybos problemų Office 365:
 
-- **Pranešimo atidėjimas:** Jei kyla problemų, kai pranešimo pateikimas vėluoja, galite naudoti **dinaminio pristatymo** parinktis savo saugių priedų strategijoje. Norėdami sužinoti daugiau, peržiūrėkite [dinaminį pristatymą saugiųjų priedų strategijose](https://go.microsoft.com/fwlink/?linkid=2094106).
-- **Pranešti apie neteisingus teigiamus arba neigiamus rezultatus:** Praneškite pranešimą "Microsoft" naudodami šį saitą: ["Microsoft Defender" atsakymų portalas](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Įgalinti saugos saito apsaugą:**
-    1. Prisijunkite prie " [Office 365" saugos & atitikties centro](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-    2. Eikite į **grėsmių valdymo**  >  **strategijos**  >  **saugos saitai.**
-    3. Dalyje **strategijos, taikomos konkretiems gavėjams**, atidarykite sukonfigūruotą strategiją.
-    4. Dalyje **Parametrai** pasirinkite **taikyti saugius saitus su pranešimais, siunčiamuose organizacijoje**.
+- **Pranešimo delsa**:
+
+  El. laiškų pristatymo delsą gali sukelti Seifas priedų nuskaitymas. Daugiau informacijos žr. [Seifas priedų strategijos parametrai](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings).
+
+- **Pranešti apie klaidingus teigiamus arba neigiamus rezultatus:**
+
+  Daugiau informacijos žr. [Pranešimas apie pranešimus ir failus "Microsoft".](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
+
+- **Įjungti Seifas saito apsaugą:**
+
+  1. ""Microsoft 365" sargyba" portale eikite į <https://security.microsoft.com/> **El. &** \> **bendradarbiavimo strategijos & Grėsmių** \>  \> **strategijos Seifas saitai** **dalyje** Strategijos.
+
+     Norėdami pereiti tiesiai į **Seifas saitų puslapį,** naudokite <https://security.microsoft.com/safelinksv2> .
+
+  2. Puslapyje **Seifas saitai** pasirinkite strategiją spustelėdami strategijos pavadinimą.
+  3. Rodomame išsamios informacijos iškeliame meniu atlikite vieną iš šių veiksmų:
+     - Norėdami įtraukti naują strategiją, pasirinkite **+ Kurti**. Bus paleidžiamas vediklis, kuris padės nustatyti strategijos parametrus.
+     - Norėdami redaguoti esamą strategiją, pasirinkite strategiją spustelėdami strategijos pavadinimą. Rodomame išsamios informacijos iškeliame lange **pasirinkite Redaguoti** **sekcijoje Apsaugos** parametrai.
+  4. Puslapyje **Apsaugos parametrai** sukonfigūruokite šiuos parametrus:
+     - Įjunkite **Pasirinkite veiksmą, jei laiškuose yra nežinomų potencialiai kenkėjiškų URL**.
+     - Pasirinkite **Taikyti saugius saitus organizacijos siunčiamims laiškams.**
+
+  Daugiau informacijos žr. [Saitų strategijų Seifas "Microsoft" sargyba, Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies).
