@@ -1,5 +1,5 @@
 ---
-title: "\"iOS\" įrenginių registracijos \"Microsoft Intune\" trikčių šalinimas"
+title: "\"iOS\" įrenginių registracijos \"\"Microsoft Intune\""
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047984"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>"iOS" įrenginių registracijos "Microsoft Intune" trikčių šalinimas
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>"iOS" įrenginių registracijos ""Microsoft Intune"
 
 Peržiūrėkite toliau nurodytus išteklius, kad išspręsite problemą dabar. 
   
@@ -27,7 +27,7 @@ Kai kurie dažnai pasitaikę klaidų pranešimai ir sprendimo veiksmai:
     
 - **Ši tarnyba nepalaikoma. Nėra registracijos strategijos: "Apple** Push" pranešimų tarnyba (APNS) turi būti sukonfigūruota arba atnaujinta. Peržiūrėkite [šį dokumentą,](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) jei reikia instrukcijų, kaip tai padaryti. 
     
-- **Vartotojo licencijos tipas netinkamas arba vartotojo vardas neatpažintas:** Vartotojui turi būti priskirta "Intune" arba EMS licencija. Peržiūrėkite šiuos dokumentus ir priskirkite licenciją per: ["Office" administravimo centras arba](https://docs.microsoft.com/intune/licenses-assign) ["Azure" portalas.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Vartotojo licencijos tipas netinkamas arba vartotojo vardas neatpažintas:** Vartotojui turi būti priskirta "Intune" arba EMS licencija. Peržiūrėkite šiuos dokumentus ir priskirkite licenciją naudodami: [Office administravimo centrą arba "Azure"](https://docs.microsoft.com/intune/licenses-assign) [portalą.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Papildomi ištekliai, kurie padės išspręsti problemą:
   

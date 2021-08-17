@@ -1,5 +1,5 @@
 ---
-title: Trikčių šalinimas naudojant "Explorer"
+title: Trikčių šalinimas naudojant "Open with Explorer"
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048164"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Su naršykle atidarytų problemų sprendimas
+# <a name="fix-problems-with-open-with-explorer"></a>Problemų, susijusių su atidarymu naudojant "Explorer", sprendimas
 
-Išspręskite įprastas problemas, susijusias su "SharePoint" arba "OneDrive" dokumentų bibliotekos atidarymu naudodami komandą **Atidaryti naudojant Explorer** : 
+Dažniausiai pasitaikančių problemų, susijusių su dokumentų bibliotekos atidarymu SharePoint arba "OneDrive" naudojant **komandą Atidaryti naudojant "Explorer":** 
   
-- Naudokite "Internet Explorer 10" arba "Internet Explorer 11". **Atidaryti naudojant "Explorer** " nesuderinama su "Microsoft Edge", "Google Chrome", "Firefox" ir kt. **Atidaryti naudojant "Explorer"** išjungta visose naršyklėse, išskyrus "Internet Explorer". 
+- Naudokite Internet Explorer 10 "Internet Explorer 11". **Atidaryti naudojant "Explorer"** nesuderinama su "Microsoft Edge", "Google Chrome", "Firefox" ir kitais. **Atidaryti naudojant "Explorer"** išjungta visose naršyklėse, išskyrus "Internet Explorer". 
     
-- **Atidaryti naudojant "Explorer"** negalima šiuolaikinėje "SharePoint" bibliotekų srityje. Vietoj to naudokite **rodinį failų naršyklėje** . Pasirinkite **Peržiūrėti parinkčių** \> **rodinį failų naršyklėje**. Rodinys failų naršyklėje nesuderinamas su "Microsoft Edge", "Google Chrome", "Firefox" ir kitais. **Peržiūrėti failų naršyklėje** galima tik naudojant "Internet Explorer". 
+- **Atidaryti naudojant "Explorer"** negalima šiuolaikinėje "SharePoint bibliotekose. Naudokite **Rodinį failų naršyklėje.** Pasirinkite **Rodinio parinktys** Rodinys failų \> **naršyklėje**. Rodinys failų naršyklėje nesuderinamas su "Microsoft Edge", "Google Chrome", "Firefox" ir kitais. **Peržiūrėkite failų naršyklėje** tik "Internet Explorer". 
     
-- Įsitikinkite, kad veikia WebClient tarnyba. "Windows" ieškos lauke įveskite vykdyti, pasirinkite paleisti kompiuterio taikomąją programą, įveskite Services. msc, tada paspauskite klavišą "įvesti". Slinkite žemyn iki "WebClient" tarnybos ir įsitikinkite, kad stulpelyje **Būsena** rodoma "veikia". Jei ne, dukart spustelėkite tarnybą, spustelėkite **pradėti**, tada spustelėkite **gerai**. (Pirmiausia gali reikėti įgalinti paslaugą, lauke **Paleisties tipas** pasirinkę **Rankinis** arba **Automatinis** .) 
+- Įsitikinkite, kad veikia "WebClient" tarnyba. Ieškos Windows įveskite vykdyti, pasirinkite vykdyti kompiuterio taikomąją programą, įveskite services.msc, tada paspauskite "Enter". Slinkite žemyn iki "WebClient" tarnybos ir įsitikinkite, **kad stulpelyje** Būsena rodoma "Veikia". Jei ne, dukart spustelėkite tarnybą, spustelėkite **Pradėti**, tada spustelėkite **Gerai**. (Pirmiausia gali tekti įgalinti tarnybą lauke Paleisties tipas pasirinkus **Neautomatinis** **arba** Automatinis.)  
     
 > [!NOTE]
-> Jei norite, kad būtų galima kopijuoti arba perkelti kelis failus ir aplankus, galite atidaryti biblioteką failų naršyklėje, bet jei norite reguliariai dirbti bibliotekoje, rekomenduojame ją sinchronizuoti. Norėdami šalinti problemas, atidaromas failų naršyklėje, žiūrėkite [Atidaryti naudojant "Explorer"](https://go.microsoft.com/fwlink/?linkid=871665). Informacijos apie sinchronizavimo nustatymą ieškokite ["SharePoint" failų sinchronizavimas naudojant naująjį "OneDrive" sinchronizavimo klientą](https://go.microsoft.com/fwlink/?linkid=871666).
+> Bibliotekos atidarymas failų naršyklėje yra patogus, jei reikia vieną kartą kopijuoti arba perkelti kelis failus ir aplankus, tačiau jei norite reguliariai dirbti bibliotekoje, rekomenduojame ją sinchronizuoti. Norėdami šalinti failų naršyklės atidarymo triktis, žr. [Atidaryti naudojant "Explorer".](https://go.microsoft.com/fwlink/?linkid=871665) Informacijos apie sinchronizavimo nustatymą žr. [Failų sinchronizavimas SharePoint su naujuoju "OneDrive" sinchronizavimo programa klientu](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Daugiau informacijos rasite straipsnyje [kaip naudoti komandą Atidaryti naudojant "Explorer", kad išspręstumėte "SharePoint Online" problemas](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
+Daugiau informacijos [žr. straipsnyje Kaip naudoti komandą "Atidaryti naudojant "Explorer",](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) kad būtų SharePoint internete. 
   
 

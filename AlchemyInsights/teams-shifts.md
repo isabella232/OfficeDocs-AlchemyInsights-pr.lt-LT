@@ -1,5 +1,5 @@
 ---
-title: Komandos pokyčiai
+title: Teams Pamainos
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106503"
 ---
-# <a name="using-teams-shifts"></a>"Teams" pamainų naudojimas
+# <a name="using-teams-shifts"></a>"Teams Shifts" naudojimas
 
-Informacijos, kaip valdyti pamainos programą, įskaitant tai, kaip nustatyti pamainas, įgalinti vartotojų pamainas ir valdyti pamainos programą, žr.:
+Informacijos apie "Shifts" programos valdymą, įskaitant tai, kaip nustatyti pamainas, įgalinti pamainas vartotojams ir valdyti "Shifts" programą, žr.:
  
-- [Valdykite savo organizacijos programą "Microsoft teams"](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Įjunkite arba išjunkite konkrečių organizacijos vartotojų pamainas](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Valdykite "Shifts" programėlę savo organizacijoje Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Įgalinkite arba išjunkite "Shift" konkretiems organizacijos vartotojams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Jei norite sužinoti daugiau apie komandų pamainas, įskaitant pamainų tvarkaraščio valdymą, peržiūrėkite " [teams" pamainas](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Norėdami sužinoti daugiau apie "Shifts for Teams", įskaitant "Shifts" tvarkaraščio valdymą, [žr. "Shift" Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
 
-**Efektyvus birželio 30 d., 2020**, "Microsoft staffhub" buvo pašalintas. Daugiau informacijos ieškokite ["Microsoft StaffHub" buvo panaikinta](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**Nuo 2020 m. birželio 30** d. "Microsoft Staffhub" buvo pašalinta. Daugiau informacijos žr. ["Microsoft StaffHub" buvo pašalinta.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

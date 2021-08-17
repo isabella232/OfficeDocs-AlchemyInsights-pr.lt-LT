@@ -1,5 +1,5 @@
 ---
-title: Kas yra paimtas ir užrakintas failas?
+title: Who failas paimtas ir užrakintas?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f22a3906f7a976ce607c0516be8b63dcfe472dd22f0b9c933e79950ba5e932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047840"
 ---
-# <a name="who-has-a-file-checked-out"></a>Kas yra paimtas ir užrakintas failas?
+# <a name="who-has-a-file-checked-out"></a>Who failas paimtas ir užrakintas?
 
-Norėdami pamatyti, kas yra "SharePoint" paimtas failas, galite atlikti vieną iš šių veiksmų:
+Norėdami pamatyti, kas yra paimtas ir užrakintas SharePoint, galite atlikti vieną iš šių veiksmų:
   
-1. Laikykite žymiklį virš **paimto** ir peržiūrėkite patarimą, nurodantį, kas yra paimtas ir užrakintas failas. 
+1. Laikykite žymiklį **virš Paimta** ir užrakinta, kad pamatytumėte patarimą, kuris nurodys, kas užregistruos failą. 
     
-2. Įtraukite **išregistruotas** pagal stulpelį į numatytąjį bibliotekos rodinį. Taip visi gali lengvai matyti, kas yra paimtas ir užrakintas dokumentas. 
+2. Įtraukite **stulpelį Paimta** ir užrakinta į numatytąjį bibliotekos rodinį. Tokiu būdu visi gali lengvai matyti, kas turi paimtą ir užrakintą dokumentą. 
     
-Norėdami sužinoti, kaip "SharePoint" įtraukti paimtą ir užrakintą stulpelį, peržiūrėkite [sąrašo arba bibliotekos stulpelio kūrimas](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Norėdami sužinoti, kaip įtraukti stulpelį Paimta ir užrakinta SharePoint, žr. Stulpelio [kūrimas sąraše arba bibliotekoje.](https://go.microsoft.com/fwlink/?linkid=2019591) 
   
-Peržiūrėkite daugiau dažnai užduodamų klausimų apie tikrinimą arba paėmimą ir peržiūrėkite [svarbiausius klausimus apie paėmimą](https://go.microsoft.com/fwlink/?linkid=2018786)ir atrakinimas.
+Daugiau dažnai užduodamų klausimų apie įregistravimas arba užregistravimas žr. Populiariausi klausimai apie [užregistr.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 
