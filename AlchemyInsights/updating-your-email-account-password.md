@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: b4ce32ceb9c79a149c784a43ef7aad9f951d2888
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b297aff26d3e194c642d9f3b42dff5a2e387feea0709bb23fcc8182360453307
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104856"
 ---
 # <a name="updating-your-email-account-password"></a>El. pašto paskyros slaptažodžio naujinimas
 
@@ -27,7 +27,7 @@ Galite pakeisti savo atitinkamų paskyrų slaptažodžius jų teikėjo vietose:
 
 - ["iCloud"](https://support.apple.com/HT201487)
 
-- ["Outlook", "Live", "Hotmail"](https://account.live.com/password/reset)
+- [Outlook, Live, Hotmail](https://account.live.com/password/reset)
 
 - [O365](https://passwordreset.microsoftonline.com) (Jei jūsų IT administratorius leido nustatyti savitarnos slaptažodį iš naujo.)
 
@@ -35,6 +35,6 @@ Galite pakeisti savo atitinkamų paskyrų slaptažodžius jų teikėjo vietose:
 
 - ["Gmail"](https://support.google.com/mail/answer/41078?co=GENIE.Platform%3DDesktop&hl=en)
 
-- "Exchange": turėsite susisiekti su IT administratoriumi.
+- Exchange: turėsite susisiekti su IT administratoriumi.
 
 - IMAP: jūsų IMAP paslaugų teikėjas gali turėti saitą savo puslapyje arba jums gali tekti kreiptis į SAVO IMAP teikėją.

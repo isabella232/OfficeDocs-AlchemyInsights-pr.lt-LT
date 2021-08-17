@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919647"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304341"
 ---
 # <a name="understand-billing-amount"></a>Atsiskaitymo sumos paaiškinimas
 
 **Klientų led (WD):**
 
-- Norėdami padėti peržiūrėti ir suprasti savo sąskaitą, žr.: [Susipažinkite: atskirų "Azure Bill" sąskaitų peržiūra](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Norėdami padėti peržiūrėti ir suprasti sąskaitą, žr.: [Susipažinkite: atskirų "Azure Bill" sąskaitų peržiūra](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Sąskaitos faktūros terminų supratimas: ["Azure" sąskaitos faktūros sąlygų paaiškinimas](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - "Azure" naudojimo mokesčių terminų supratimas: [naudojimo sąlygų paaiškinimas](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Norėdami gauti sąskaitos faktūros PDF ir išsamaus kasdienio naudojimo failo kopiją (.CSV): [Gaukite sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Norėdami gauti sąskaitos faktūros PDF ir išsamios kasdienio naudojimo failo kopiją (.CSV): [Gaukite sąskaitos faktūros ir naudojimo duomenis](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Pastaba:** jei atšauksite prenumeratą / išteklius atsiskaitymo ciklo viduryje, vis tiek matysite mokestį, kuris būtų už bet kokį ankstesnio mėnesio naudojimą. Pvz., jei atsiskaitymo ciklas buvo nuo 26-os kiekvieno mėnesio iki kito mėnesio 25-os & sustabdėte prenumeratą 23-ą dieną, kuri yra 28 dienos į atsiskaitymo ciklą birželio mėn., galite matyti mokestį už 28 naudojimo dienas. Jei matote mokestį, nepaisant prenumeratos atšaukimo, įsitikinkite, kad neturite jokių kitų palaikymo planų, kurie sukelia mokestį. Jei tai padarysite, eikite į priekį ir atšaukite planą.
+**Pastaba:** jei atšauksite prenumeratą / išteklius atsiskaitymo ciklo viduryje, vis tiek matysite mokestį, kuris būtų už bet kokį ankstesnio mėnesio naudojimą. Pvz., jei atsiskaitymo ciklas buvo nuo 26-os kiekvieno mėnesio iki kito mėnesio 25-os & sustabdėte prenumeratą 23-oje, t. y. 28 d. birželio mėn. atsiskaitymo cikle, galite matyti mokestį už 28 naudojimo dienas. Jei matote mokestį, nepaisant prenumeratos atšaukimo, įsitikinkite, kad neturite jokių kitų palaikymo planų, kurie sukelia mokestį. Jei tai padarysite, eikite į priekį ir atšaukite planą.
 
 **"Microsoft" kliento sutartis (MCA):**
 
@@ -54,7 +54,7 @@ Peržiūrėti paslaugos perpildymo sąskaitą faktūrą:
 - Prisijunkite prie įmonės **portalo**. Pasirinkite **Ataskaitos**
 - Viršutiniame dešiniajame skirtuko kampe perjunkite rodinį iš **M** į **C** ir sutapkite su sąskaitos faktūros laikotarpiu
 - Bendra **naudojimo suma** turi atitikti bendrą **išplėstą** sumą jūsų paslaugų perpildymo sąskaitoje faktūroje
-- Eikite **į Atsisiųsti naudojimo > išplėstinės** ataskaitos atsisiuntimą, kad gautumėte daugiau informacijos apie mokesčius Pastaba: šioje ataskaitoje nėra mokesčių, rezervavimo mokesčių ar rinkos mokesčių 
+- Eikite **į Atsisiųsti naudojimo > išplėstinės** ataskaitos atsisiuntimą, kad gautumėte daugiau informacijos apie mokesčius Pastaba: į šią ataskaitą neįeis mokesčiai, mokesčiai už rezervavimą arba rinkos mokesčiai 
 
 **"Azure" parduotuvė**
 
@@ -66,12 +66,14 @@ Palyginkite savo "Azure Marketplace" sumą ataskaitose > naudojimo suvestinę į
 
 - Prisijunkite prie įmonės **portalo**. Pasirinkite **Ataskaitos**
 - Viršutiniame dešiniajame skirtuko kampe perjunkite rodinį iš **M** į **C** ir sutapkite su sąskaitos faktūros laikotarpiu
-- Bendroji **"Azure Marketplace"** suma turėtų atitikti bendrą **pardavimą** jūsų parduotuvės sąskaitoje faktūroje
-- Eikite **į Atsisiųsti naudojimą,** kad gautumėte daugiau informacijos apie naudojimo mokesčius. Dalyje **Parduotuvės mokesčiai** pasirinkite **Atsisiųsti** **pastabą:** Šioje ataskaitoje nėra mokesčių arba rodomi vienkartiniai pirkimai
+- Bendroji **"Azure Marketplace"** suma turi atitikti bendrą **pardavimą jūsų** parduotuvės sąskaitoje faktūroje
+- Eikite **į Atsisiųsti naudojimą,** kad gautumėte daugiau informacijos apie naudojimo mokesčius. Dalyje **Parduotuvės mokesčiai** pasirinkite **Atsisiųsti** 
+
+**Pastaba:** šioje ataskaitoje nėra mokesčių arba rodomi vienkartiniai pirkimai
 
 **Debesies sprendimų teikėjas (CSP)**
 
-- Sužinokite daugiau, kaip atsiskaitymas veikia "Azure Debesies sprendimų teikėjas " ("Azure CSP") programoje: ["Azure CSP Billing"](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Sužinokite daugiau, kaip atsiskaitymas veikia "Azure Debesies sprendimų teikėjas ("Azure CSP") programoje: ["Azure CSP Billing"](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Sužinokite apie CSP sąskaitos skaitymą ir supratimą: ["Azure CSP" sąskaita faktūra](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Rekomenduojami dokumentai**

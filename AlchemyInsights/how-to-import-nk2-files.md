@@ -1,5 +1,5 @@
 ---
-title: kaip – importuoti – nk2 – failai
+title: how-to-import-nk2-files
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,28 +14,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 6a823f6e0c4c46de64dd7b70fb40c76255d78ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2b034926ec165b819119b5c4e060f10022d6017ec5dba8794d18ee3e96c709a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043214"
 ---
-# <a name="how-to-import-nk2-files"></a>Kaip importuoti. nk2 failus 
+# <a name="how-to-import-nk2-files"></a>Kaip importuoti .nk2 failus 
 
-Paleidus "Microsoft Outlook 2013", "Outlook 2016", "Outlook 2019" arba "Outlook", skirtą "Microsoft 365", pirmą kartą jūsų slapyvardžių talpyklos (saugomos *profilio*. nk2 faile) yra importuojamos į paslėptą pranešimą numatytojoje pranešimų saugykloje.
+Kai pirmą kartą paleidžiate "Microsoft Outlook 2013", "Outlook 2016", "Outlook 2019" arba ""Outlook", skirta "Microsoft 365"", jūsų slapyvardžių talpykla (saugoma *profilio pavadinimo*.nk2 faile) importuojama į paslėptą pranešimą numatytoje pranešimų saugykloje.
 
-Norėdami importuoti. nk2 failus į "Outlook 2013", "Outlook 2016", "Outlook 2019" arba "Outlook", skirtą "Microsoft" 365, įsitikinkite, kad. nk2 failas yra šiame aplanke:%appdata%\Microsoft\Outlook
+Norėdami importuoti .nk2 failus į "Outlook 2013", "Outlook 2016", "Outlook 2019" arba ""Outlook", skirta "Microsoft 365"", įsitikinkite, kad .nk2 failas yra šiame aplanke: %appdata%\Microsoft\Outlook
 
-**Pastaba**:. nk2 failas turi būti tokio paties pavadinimo kaip dabartinis "Outlook 2013" arba "outlook" 2016 profilis. Pagal numatytuosius nustatymą profilio pavadinimas yra "Outlook". Norėdami patikrinti profilio pavadinimą, atlikite šiuos veiksmus: 
-1. Spustelėkite **pradėti**, tada spustelėkite **valdymo skydas**.
-2. Dukart spustelėkite **paštas**.
-3. Dialogo lange pašto sąranka pasirinkite **Rodyti profilius**.
-4. Pasirinkite **pradėti**  >  **vykdyti**.
-5. Lauke **atidaryti** įveskite *outlook.exe/importnk2*, tada pasirinkite **gerai**. 
+**Pastaba:**.nk2 failas turi turėti tą patį pavadinimą, kaip jūsų dabartinis Outlook 2013 arba Outlook 2016 profilis. Pagal numatytuosius nustatymus profilio pavadinimas yra "Outlook". Norėdami patikrinti profilio pavadinimą, atlikite šiuos veiksmus: 
+1. Spustelėkite **Pradėti**, tada spustelėkite **Valdymo skydas**.
+2. Dukart spustelėkite **Paštas**.
+3. Dialogo lange Pašto sąranka pasirinkite **Rodyti profilius**.
+4. Pasirinkite **Pradėti**  >  **vykdyti**.
+5. Lauke **Atidaryti** įveskiteoutlook.exe */importnk2*, tada pasirinkite **Gerai**. 
 
-Importavę. nk2 failą, failo turinys suliejamas į esamą jūsų pašto dėžutėje saugomą slapyvardžių talpyklą.
+Kai importuojate .nk2 failą, failo turinys suliejamas į esamą slapyvardžių talpyklą, saugomą jūsų pašto dėžutėje.
 
-**Pastaba**:. nk2 failas yra pervardytas su. Old failo vardo plėtiniu, kai paleisite "outlook" 2013, "Outlook 2016", "Outlook 2019" arba "Outlook for Microsoft 365". Jei norite iš naujo importuoti. nk2 failą, pirmiausia pašalinkite failo vardo plėtinį. old.
+**Pastaba:**.nk2 failas pervardytas .old failo vardo plėtiniu kitą kartą paleidus "Outlook 2013", "Outlook 2016", "Outlook 2019" arba ""Outlook", skirta "Microsoft 365"". Jei norite iš naujo importuoti .nk2 failą, pirmiausia pašalinkite .old failo vardo plėtinį.
 
-Daugiau informacijos ieškokite [automatinio užbaigimo sąrašo importavimas arba kopijavimas į kitą kompiuterį](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Daugiau informacijos žr. [Automatinio užbaigimo sąrašo importavimas arba kopijavimas į kitą kompiuterį.](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)

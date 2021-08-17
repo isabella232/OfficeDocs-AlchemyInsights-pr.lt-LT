@@ -1,5 +1,5 @@
 ---
-title: "\"932\" \"AADConnect\" naujinimas"
+title: 932 "AADConnect" versijos naujinimas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104820"
 ---
-# <a name="upgrade-azure-ad-connect"></a>"Azure AD Connect" versijos naujinimas
+# <a name="upgrade-azure-ad-connect"></a>"Azure AD" versijos naujinimas Prisijungimas
 
-Pagal numatytuosius "Azure AD Connect" įgalintas automatinis versijos naujinimas, kuris padeda užtikrinti, kad naudojate naujausią versiją. Norėdami patikrinti automatinio versijos naujinimo parametrus, naudokite "Azure AD PowerShell" cmdlet **get-ADSyncAutoUpgrade** . Cmdlet pateiks vieną iš šių reikšmių:
+Pagal numatytuosius nustatymus automatinis "Azure AD Prisijungimas naujinimas, kuris padeda užtikrinti, kad naudojate naujausią versiją. Norėdami patikrinti automatinio versijos naujinimo parametrus, naudokite "Azure AD PowerShell" **get-ADSyncAutoUpgrade** cmdlet. "cmdlet" grąžins vieną iš šių reikšmių:
 
-- **Įgalinta**: automatinis versijos naujinimas įgalintas.
+- **Įgalinta:** įgalintas automatinis versijos naujinimas.
 
-- **Išjungta**: automatinis versijos naujinimas išjungtas.
+- **Išjungta:** automatinis versijos naujinimas išjungtas.
 
-- **Sustabdyta**: sistema nebeturi teisės gauti automatinius naujinius. Negalite sukonfigūruoti šios reikšmės; ją nustato sistema.
+- **Sustabdytas:** sistema nebeatitinka teisės gauti automatinius naujinimus. Negalite konfigūruoti šios reikšmės; ją nustato sistema.
 
-Daugiau informacijos ieškokite [Automatinis versijos naujinimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Daugiau informacijos žr. Automatinis [versijos naujinimas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Norėdami atsisiųsti naujausią "Azure AD Connect" versiją, eikite į [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Norėdami atsisiųsti naujausią "Azure AD" Prisijungimas, eikite į [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
