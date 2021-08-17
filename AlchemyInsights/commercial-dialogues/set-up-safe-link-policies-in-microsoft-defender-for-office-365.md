@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" Seifas susiejimo strategijų Office 365"
+title: "\"Microsoft\" Seifas\" susiejimo strategijų Office 365"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070368"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882575"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>"Microsoft" Seifas susiejimo strategijų Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>"Microsoft" Seifas" susiejimo strategijų Office 365
 
-Jau sukurta numatytoji Seifas "Microsoft" sargybos Office 365 strategija. Norėdami pakeisti konfigūracijas:
+1. ""Microsoft 365" sargyba" portale eikite į <https://security.microsoft.com/> **El. &** \> **bendradarbiavimo strategijos & Grėsmių** \>  \> **strategijos Seifas saitai** **dalyje** Strategijos.
 
-1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Pasirinkite **Grėsmių valdymo**  >  **strategija**. Puslapyje **Strategija pasirinkite** ["Microsoft" sargyba, kad Office 365 Seifas saitai](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Sekcijoje **Strategijos, kurios taikomos visai organizacijai,** pasirinkite **Numatytasis**, tada pasirinkite **piktogramą** Redaguoti.
-4. Sekcijoje **Blokuoti šiuos URL nurodykite** vieną ar daugiau URL, kurie neleistų jūsų organizacijos žmonėms lankytis. Norėdami sužinoti daugiau, [žr. "Šių URL blokavimo" Seifas saitų.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. Dalyje **Parametrai, kuri taikoma turiniui,** išskyrus el. paštą, pažymėkite (arba išvalykite) norimas naudoti parinktis. (Rekomenduojama pasirinkti visas parinktis.)
-6. Pasirinkite **Įrašyti**.
+   Norėdami pereiti tiesiai į **Seifas saitų puslapį,** naudokite <https://security.microsoft.com/safelinksv2> .
+
+2. Puslapyje **Seifas Saitai** atlikite vieną iš šių veiksmų:
+   - Norėdami įtraukti naują strategiją, pasirinkite **+ Kurti**. Bus paleidžiamas vediklis, kuris padės nustatyti strategijos parametrus.
+   - Norėdami redaguoti esamą strategiją, pasirinkite strategiją spustelėdami strategijos pavadinimą. Rodomame išsamios informacijos iškeliame lange pasirinkite **Redaguoti** sekcijoje, kurioje yra norimi konfigūruoti parametrai.
+   - Norėdami blokuoti URL iš Seifas saitų apsaugos arba konfigūruoti "Seifas" saitų parametrus palaikomose "Office 365" programose, spustelėkite **Visuotiniai** parametrai , konfigūruokite norimus parametrus, tada spustelėkite **Įrašyti**.
+
+3. Peržiūrę parametrus pasirinkite Pateikti **(naujas)** arba **Įrašyti** (redaguoti).
+
+Daugiau informacijos žiūrėkite šiuose straipsniuose:
+
+- ["Microsoft" sargybos Seifas saitų strategijų Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- ["Microsoft" sargybos Seifas parametrų konfigūravimas naudojant "Microsoft" Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

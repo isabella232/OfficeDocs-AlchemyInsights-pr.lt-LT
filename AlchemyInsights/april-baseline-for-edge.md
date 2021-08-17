@@ -1,5 +1,5 @@
 ---
-title: Peržiūrėkite 80 ir naujesnių versijų Microsoft Edge 2020 m. balandžio bazinę versiją
+title: 2020 m. balandžio mėn. bazinės versijos Microsoft Edge 80 ir naujesnėse versijose
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74eb78786c45614679b97b0808f8f16171c6554ea94ab22c34f2c45766123662
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885987"
 ---
-# <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Peržiūrėkite 80 ir naujesnių versijų Microsoft Edge 2020 m. balandžio bazinę versiją
+# <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>2020 m. balandžio mėn. bazinės versijos Microsoft Edge 80 ir naujesnėse versijose
 
-"Microsoft Intune" palaiko pagrindinių parametrų Microsoft Edge. Pagrindinės numatytosios reikšmės nurodo rekomenduojamą naršyklės konfigūraciją; jie gali neatitinka kitų saugos bazinių duomenų numatytųjų reikšmių.
+"Microsoft Intune" palaiko bazinius "Microsoft Edge" parametrus. Pagrindinės numatytosios reikšmės nurodo rekomenduojamą naršyklės konfigūraciją; jie gali neatitinka kitų saugos bazinių duomenų numatytųjų reikšmių.
 
 Norėdami sužinoti, kas pasikeitė 2020 m. balandžio mėn. bazinėje linijoje, naudokite funkciją Palyginti bazines linijas, kuri pasiekiama srityje Versijos.
 
-Norėdami sužinoti daugiau, [žr. Microsoft Edge 2020 m. balandžio mėn. (80 ir naujesnėse "Edge" versijose)](/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020).
+Norėdami sužinoti daugiau, [žr. Microsoft Edge 2020 m. balandžio mėn. (80 ir naujesnės "Edge" versijos).](https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)

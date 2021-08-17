@@ -1,5 +1,5 @@
 ---
-title: Siųsti kaip laišką įgalintą viešąjį aplanką EXO
+title: Send As Mail Enabled Public Folder in EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48461963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052574"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>"SendAs Mail" įgalintas viešasis aplankas
+# <a name="sendas-mail-enabled-public-folder"></a>SendAs Mail Enabled Public Folder
 
-Toliau pateiktame pavyzdyje priskiria "siųsti kaip" teises pašto viešojo aplanko NewPF1 vartotojui Jason.
+Toliau pateiktame pavyzdyje vartotojui Jason priskiria teises "Siųsti kaip", skirtas viešajam aplankui, kuriame įgalintas paštas NewPF1.
 
-Add-RecipientPermission-tapatybės "NewPF1"-patikėtinis "Jason"-AccessRights "SendAs"
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Išsamios sintaksės ir parametro informacijos ieškokite ["siųsti kaip" arba "Siųsti vardu" teisės pašto viešųjų aplankų teisės](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Išsamios sintaksės ir parametrų informacijos ieškokite ["Siųsti kaip" arba "Siųsti vardu" teisių priskyrimas](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)viešuose aplankuose su įgalinta pašto funkcija .
 

@@ -1,5 +1,5 @@
 ---
-title: Slaptumo Žymos
+title: Slaptumo žymos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 22878bdff6b987d0a1dc7f7c4aee74f8b22a58f3
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052430"
 ---
-# <a name="sensitivity-labels"></a>Slaptumo Žymos
+# <a name="sensitivity-labels"></a>Slaptumo žymos
 
-Jei nematote norimos vartotojo jautrumo Žymos, patikrinkite savo slaptumo Žymos strategijos prioritetinę tvarką. Žiūrėkite: [žymų prioritetas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+Jei nematote etiketės Slaptumas, kurią tikitės matyti vartotojui, patikrinkite slaptumo žymos strategijų prioriteto tvarką. Žr.: [Etikečių prioritetas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Papildomos informacijos apie slaptumo žymas ieškokite:
+Daugiau informacijos apie slaptumo žymas žr.:
 
-- Sužinokite apie jautrumo žymes: [Sužinokite apie jautrumo žymes – "Microsoft" 365 atitiktis | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- **Licencijavimo** informacija: ["Microsoft 365" licencijavimo rekomendacijos saugos & atitikties tarnybų aprašai | "Microsoft" dokumentai](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
-- "Office" programų jautrumo žymių naudojimas: ["Office" programose naudokite jautrumo žymes – "Microsoft 365" atitiktis | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
-- "Office" failų jautrumo žymių įgalinimas " **SharePoint" ir "OneDrive**": " [Office" failų jautrumo žymių įgalinimas "SharePoint" ir "OneDrive" – "Microsoft" 365 atitiktis | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
-- Naudokite "Microsoft **teams**" jautrumo etiketes: [naudokite "Microsoft teams", "Microsoft" 365 grupių ir "SharePoint" svetainių jautrumo žymas – "Microsoft" 365 atitiktis | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
-- **Automatinis taikymas** Slaptumo Žymos: [automatiškai taikykite jautrumo žymą "microsoft 365" turiniui – "Microsoft" 365 atitiktis | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-- Žinomos problemos su jautrumo žymėmis: [žinomos problemos su jautrumo žymėmis "Office" – "Office" palaikymas (Microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- Sužinokite apie slaptumo [žymas: Sužinokite apie slaptumo žymas – Microsoft 365 atitikties | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Licencijavimo** informacija: [Microsoft 365 licencijavimo rekomendacijos dėl saugos & – tarnybos aprašai | "Microsoft" dokumentai](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
+- Naudokite slaptumo žymas Office programose: naudokite slaptumo [žymas Office programose – Microsoft 365 atitikties | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- "SharePoint Office" ir **""OneDrive""** failų slaptumo žymų įgalinimas : "Office" failų slaptumo [žymos "SharePoint" ir ""OneDrive"" – Microsoft 365 atitikties | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
+- Naudokite slaptumo žymas su "Microsoft **Teams":** naudokite slaptumo žymas su Microsoft Teams, Microsoft 365 grupėmis [ir SharePoint svetainėmis – Microsoft 365 atitikties | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
+- **Automatinis taikykite** Slaptumo žymos: automatiškai pritaikykite slaptumo [žymą turiniui Microsoft 365 – Microsoft 365 atitikties | "Microsoft" dokumentai](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- Žinomos problemos dėl slaptumo žymų: žinomos problemos, susijusios su slaptumo žymomis Office [– Office palaikymas (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
 
-Informacijos apie "Azure" informacijos apsaugos žymas ieškokite " [Azure Information Protection" (aip) žymėjimas, klasifikavimas ir apsauga | "Microsoft" dokumentai](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Informacijos apie "Azure" informacijos apsaugos žymas žr. "Azure" informacijos apsaugos [(AIP) etikečių, klasifikavimo ir apsaugos | "Microsoft" dokumentai](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)

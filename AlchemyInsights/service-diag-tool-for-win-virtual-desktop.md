@@ -1,5 +1,5 @@
 ---
-title: "\"Windows Virtual Desktop\" tarnybos diagnostikos įrankis"
+title: Service diagnostics tool for Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052394"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>"Windows Virtual Desktop" tarnybos diagnostikos įrankis
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Service diagnostics tool for Windows Virtual Desktop
 
-"Windows Virtual Desktop" (WVD) siūlo diagnostikos įrankį, leidžiantį administratoriams nustatyti klaidas per vieną sąsają. Šiame įrankyje yra su diagnostika susijusi informacija, kai "WVD" naudoja kas nors priskyrė "WVD" vaidmenį. Kiekviename logaritme yra informacijos apie "WVD" vaidmenį, susijusį su veikla, seanso metu rodomus klaidų pranešimus ir informaciją apie nuomotoją ir vartotoją. "Azure" žurnalų analizės galima sukonfigūruoti, kad būtų užfiksuoti veiklos registras, sukurtas diagnostikos įrankiu. Toliau nurodyta, kaip tai padaryti.
+Windows Virtualusis darbalaukis (WVD) siūlo diagnostikos įrankį, kuris leidžia administratoriams identifikuoti klaidas naudojant vieną sąsają. Šis įrankis registruoja su diagnostika susijusią informaciją, kai WVD naudoja kas nors, kam priskirtas WVD vaidmuo. Kiekviename žurnale yra informacija apie WVD vaidmenį, kuris dalyvauja veikloje, klaidų pranešimus, rodomus seanso metu, ir informaciją apie nuomotoją ir vartotoją. "Azure Log Analytics" galima sukonfigūruoti taip, kad būtų užfiksuotas diagnostikos įrankio sukurtas veiklos žurnalas. Toliau nurodyta, kaip tai padaryti.
 
-1. Sukurkite žurnalų analizės darbo sritį naudodami " [Azure" portalą](https://go.microsoft.com/fwlink/?linkid=2129500) arba " [Azure PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501)".
-1. [Prijunkite "Windows" kompiuterius prie "Azure Monitor"](https://go.microsoft.com/fwlink/?linkid=2129913). Gauti darbo srities ID ir savo darbo srities pirminį raktą. Sąrankos vediklyje reikia šios informacijos, kad būtų galima tinkamai sukonfigūruoti agentą ir užtikrinti, kad jis galėtų bendrauti su "Azure Monitor".
-1. [Paspauskite diagnostikos duomenis į darbo sritį](https://go.microsoft.com/fwlink/?linkid=2128284). Galite stumti diagnostikos duomenis iš savo "WVD" nuomotojo prie savo darbo srities žurnalų analizės.
-1. [Identifikuoti ir diagnozuoti](https://go.microsoft.com/fwlink/?linkid=2128338) vidines arba išorines problemas, susijusias su wvd.
+1. Sukurkite žurnalo analizės darbo sritį naudodami ["Azure" portalą](https://go.microsoft.com/fwlink/?linkid=2129500) arba ["Azure PowerShell".](https://go.microsoft.com/fwlink/?linkid=2129501)
+1. [Prisijungimas Windows į "Azure Monitor".](https://go.microsoft.com/fwlink/?linkid=2129913) Gaukite darbo srities ID ir pirminį darbo srities raktą. Sąrankos vediklis turi šią informaciją tinkamai sukonfigūruoti agentą ir užtikrinti, kad jis galėtų bendrauti su "Azure Monitor".
+1. [Stumkite diagnostikos duomenis į savo darbo sritį.](https://go.microsoft.com/fwlink/?linkid=2128284) Galite stumti diagnostikos duomenis iš savo WVD nuomotojo į darbo srities žurnalo analizę.
+1. [Nustatykite ir diagnozuokite](https://go.microsoft.com/fwlink/?linkid=2128338) problemas, kurios yra vidinės arba išorinės WVD atžvilgiu.
 
-Jei norite sužinoti daugiau apie "WVD" paslaugų diagnostikos įrankio konfigūravimą, žiūrėkite [diagnostikos funkcijai naudokite žurnalų analizės funkciją](https://go.microsoft.com/fwlink/?linkid=2128084).
+Norėdami sužinoti daugiau apie WVD tarnybos diagnostikos įrankio konfigūravimą, [žr. Žurnalo analizės naudojimas diagnostikos funkcijai](https://go.microsoft.com/fwlink/?linkid=2128084).
