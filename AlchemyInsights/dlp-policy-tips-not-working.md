@@ -1,5 +1,5 @@
 ---
-title: DLP strategijos patarimai neveikia
+title: DLP Patarimai neveikia
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079674"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP strategijos patarimo problemos
 
@@ -30,6 +30,6 @@ Norėdami konfigūruoti DLP strategijos patarimus saugos ir & centre visiško vy
 
 - Įsitikinkite, kad jūsų turinys atitinka tai, ko reikia norint paleisti taisyklę, apibrėžtą [slaptos informacijos tipo objekto aprašuose.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Strategijos patarimai rodomi ir OWA, ir "Outlook". Tačiau naudojant "Outlook 2013" arba naujesnę versiją, strategijos patarimai rodomi tik tam tikromis sąlygomis. Konkrečių sąlygų sąrašą žr. Palaikomos ["Outlook 2013" arba naujesnės versijos sąlygos, kad būtų rodomi strategijos patarimai.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Strategijos patarimai rodomi ir OWA, ir Outlook. Tačiau naudojant "Outlook 2013" arba naujesnę versiją, strategijos patarimai rodomi tik tam tikromis sąlygomis. Konkrečių sąlygų sąrašą žr. [2013 m. arba Outlook](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)naujesnės versijos palaikomos sąlygos, kad būtų rodoma strategijos Patarimai .
 
-Informacijos apie DLP strategijos patarimus žr. [DLP strategijos patarimų nuoroda](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) ir [palaikymo matrica DLP strategijos patarimams.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+Informacijos apie DLP strategijos patarimus žr. [DLP strategijos Patarimai DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) strategijos patarimų nuorodų [ir palaikymo matrica.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

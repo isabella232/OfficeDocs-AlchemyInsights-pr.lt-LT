@@ -14,27 +14,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050234"
 ---
 # <a name="solutions-for-error-30068-39"></a>Klaidų sprendimai 30068-39
 
 Išbandykite šiuos sprendimus, kad ištaisytų [klaidą 30068-39:](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)
   
-- Paleiskite kompiuterį iš naujo ir bandykite [įdiegti "Office".](https://portal.office.com/OLS/MySoftware.aspx)
+- Paleiskite kompiuterį iš naujo ir [bandykite įdiegti Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Patikrinkite, ar **"Microsoft Click-to-Run"** [](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) tarnyba išjungta ir jei ji išjungta, pakeiskite būseną į **Neautomatinis arba** **Automatinis**.
 
 - Atsisiųskite ir įdiekite [palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kai ji bus atidaroma, **iš "Office"** produktų šalinimas pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **Pirmyn**.
+1. Kai ji bus atidaroma, **iš Office produktų** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **Pirmyn**.
 
 2. Toliau eikite per ekranus ir, kai būsite paraginti, iš naujo paleiskite kompiuterį.
 
-    Iš naujo paleidus, automatiškai atidaroma palaikymo ir atkūrimo pagalbinė priemonė, kad būtų baigtas šalinimo procesas.
+    Paleidus iš naujo, palaikymo ir atkūrimo pagalbinė priemonė automatiškai iš naujo atidaroma, kad užbaigtumėte šalinimo procesą.
 
-3. Vykdykite likusius raginimus ir iš naujo [įdiekite "Office"](https://portal.office.com/OLS/MySoftware.aspx) arba uždarykite pagalbinę priemonę.
+3. Vykdykite likusius raginimus ir iš [naujo Office arba](https://portal.office.com/OLS/MySoftware.aspx) uždarykite pagalbinę priemonę.

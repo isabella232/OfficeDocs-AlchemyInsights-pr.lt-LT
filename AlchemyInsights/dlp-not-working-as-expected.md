@@ -1,5 +1,5 @@
 ---
-title: DLP veikia ne taip, kaip tikėtasi
+title: DLP neveikia taip, kaip tikėtasi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,41 +13,41 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e1049f160a9b92040095b6725fa5771218a0956d17f99ea8a6e9cc279e7c73f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079710"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP veikia ne taip, kaip tikėtasi
+# <a name="dlp-not-working-as-expected"></a>DLP neveikia taip, kaip tikėtasi
 
 **Svarbu**: šiais precedento neturinčiais laikais imamės veiksmų, kad užtikrintumėte„SharePoint Online“ ir „OneDrive“ paslaugų pasiekiamumą. Jei reikia daugiau informacijos, apsilankykite [„SharePoint Online“ laikinas funkcijų koregavimas](https://aka.ms/ODSPAdjustments).
 
  **DLP nustatymas**
 
-Kyla problemų dėl **duomenų praradimo prevencijos (DLP)** "Office 365" neveikia? Jei taip, įsitikinkite, kad jūsų **DLP strategija** nustatyta tinkamai ir ar jūsų duomenyse yra " **DLP" strategija** , kai ji vertinama.
+Ar kyla problemų dėl duomenų **praradimo prevencijos (DLP)** Office 365 neveikia kaip tikėtasi? Jei taip, įsitikinkite, **kad jūsų DLP** strategija nustatyta tinkamai ir kad jūsų duomenys apima tai, ko **ieško DLP** strategija, kai ji vertinama.
   
-DLP strategijos leidžia nustatyti ir apsaugoti slaptą informaciją jūsų organizacijoje. Norėdami sukonfigūruoti DLP strategijas, naudokite [čia](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)esančią informaciją.
+DLP strategijos leidžia identifikuoti ir apsaugoti slaptą informaciją organizacijoje. Norėdami nustatyti DLP strategijas, naudokite čia [pateikiamą informaciją.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)
   
- **Ko ieško DLP strategijos**
+ **Kokios DLP strategijos ieško**
   
-Naudojant **įtaisytuosius delikačios informacijos tipus** saugos ir atitikties centruose, DLP strategijos ieško konkrečių modelių ir elementų aptikus šiuos jautrius tipus.
+Kai saugos **ir atitikties centruose naudojami** įtaisytieji slaptos informacijos tipai, DLP strategijos ieško konkrečių šablonų ir elementų aptinkant šiuos slaptus tipus.
   
-- **Įtaisytieji slapto pobūdžio informacijos tipai**
+- **Įtaisyti slaptos informacijos tipai**
 
-    Informacijos apie įtaisytuosius jautrius tipus ir tai, ką nustato DLP strategija, kai aptinkami slapti tipai, žiūrėkite: [kaip atrodo slaptos informacijos tipai](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Informacijos apie įtaisytus slaptus tipus ir DLP strategiją, kai aptinkamas slaptas tipas, žr.: Kokio tipo slaptos [informacijos ieškoti.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- **Pasirinktinio slapto pobūdžio informacijos tipai**
+- **Pasirinktiniai slaptos informacijos tipai**
 
-    Jei bandote sukurti pasirinktinio slapto pobūdžio informacijos tipus, informacijos apie tai, kaip sukurti pasirinktinę slaptą tipą, naudokite toliau pateiktą straipsnį: [pasirinktinio slapto informacijos tipo kūrimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Jei bandote sukurti pasirinktinius slaptos informacijos tipus, norėdami gauti informacijos, kaip sukurti pasirinktinį slaptą tipą, naudokite šį [straipsnį: Pasirinktinio slaptos informacijos tipo kūrimas.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **DLP strategijos tikrinimas**
 
-Norėdami patikrinti savo duomenis įtaisytuoju arba pasirinktiniu slaptos informacijos tipu, naudokite parinktį **tikrinimo tipas** , esančią dalyje **klasifikacijos**  >  **slaptos informacijos tipai**. Daugiau informacijos ieškokite [pasirinktinio slapto informacijos tipų tikrinimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Norėdami patikrinti duomenis naudodami įtaisytą arba pasirinktinį slaptos informacijos tipą, naudokite parinktį **Tikrinimo tipas** dalyje Slaptos   >  **klasifikacijos informacijos tipai.** Daugiau informacijos žr. [Pasirinktinių slaptos informacijos tipų tikrinimas](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
- **Ataskaitas**
+ **Ataskaitos**
   
 - Gaukite slaptų duomenų įžvalgų naudodami [DLP ataskaitas.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Konkrečios įvykio informacijos peržiūra su [incidento ataskaita](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Peržiūrėkite konkrečią įvykio informaciją su [incidento ataskaita](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
