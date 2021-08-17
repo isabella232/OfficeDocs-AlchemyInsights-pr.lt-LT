@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929205"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893411"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Ar vartotojai gavo kenkėjiškus el. laiškus?
 
-- Dabar galite pranešti „Microsoft“ apie kenkėjiškus el. laiškus naudodami [Pateikimo administravimą saugos ir atitikties centre](https://sip.protection.office.com/reportsubmission).
+Dabar galite pranešti apie kenkėjiškus el. [laiškus "Microsoft" naudodami ""Microsoft 365" sargyba portale.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-Pranešimai, kurie pateikiami naudojant [pateikimų administravimą](https://sip.protection.office.com/reportsubmission), nuskaitomi, o tada gauti rezultatai pateikiami iškylančiajame lange **duomenys**:
+Nuskaitomi pranešimai, kurie [pateikiami administratoriaus](https://security.microsoft.com/reportsubmission?viewid=admin) pateiktuose, ir toliau nurodyti rezultatai rodomi išsamios informacijos iškeliamuose meniu:
 
 - Jeigu pristatymo metu buvo triktis dėl siuntėjo el. pašto autentifikavimo.
 - Informacija apie bet kokius strategijos paspaudimus, kurie galėjo paveikti arba perrašyti pranešimo turinį.
@@ -39,9 +39,9 @@ Jei nesutiksite su galutiniu pranešimo sprendimu, URL arba failu (užblokuotu a
 Tuo tarpu galite pašalinti kenkėjiškus el. laiškus iš vartotojų aplankų Gauta vykdydami [šiame straipsnyje](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization) pateiktus nurodymus.
 
 - Klientai, naudojantys „Microsoft“ sargybą, skirtą „Office 365“", gali:
-    - naudoti [grėsmių naršyklę, kad rastų ir pašalintų įtartiną el. laišką](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [naudoti saugiuosius saitus, kad blokuotų prieigą](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) prie kenkėjiško URL
-    - sekti vartotojus, kurie spustelėjo ir pasiekė kenkėjiškus URL: [Peržiūrėti sukčiavimo apsimetant URL ir spustelėti sprendimo duomenis](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Gauti URL pėdsaką](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - rankiniu būdu [pradėti automatizuotą tyrimą](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Grėsmių [naršyklės naudojimas norint rasti ir panaikinti įtartinus el. laiškus](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Saitų Seifas naudojimas norint blokuoti prieigą prie](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) kenkėjiško URL
+  - Vartotojų, kurie spustelėjo ir pasiekė kenkėjiškus URL, sekimas: peržiūrėkite [sukčiavimo](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)apsimetant URL ir spustelėkite sprendimo duomenis  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Automatinio [tyrimo paleidimas rankiniu būdu](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Taip pat galite apsisaugoti nuo kenkėjiškų failų ir URL vykdydami nurodymus, pateiktus [Apsauga nuo kenkėjiškų URL ir failų](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).
