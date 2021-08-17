@@ -1,5 +1,5 @@
 ---
-title: 8000036 profilio pic/vardo keitimas "Outlook.com"
+title: 8000036 profilio pic / name in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8630b53c69b731f50951358c9ec2fec71f13f9d80cc45e30c5741c2a10de56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111264"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Profilio paveikslėlio arba vardo keitimas "Outlook.com"
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Profilio paveikslėlio arba pavadinimo keitimas "Outlook.com"
 
-1. Eikite į [savo "Microsoft" paskyros informaciją](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Pasirinkite **Redaguoti vardą** arba **Keisti paveikslėlį**.
+1. Eikite [į Jūsų "Microsoft" paskyros informacija](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Pasirinkite **Redaguoti pavadinimą arba** Keisti **paveikslėlį**.
 
-Norėdami pakeisti savo profilio nuotrauką arba pavadinimą, palaukite iki 24 valandų.
+Palaukite iki 24 valandų, kol įsigalios jūsų profilio nuotraukos arba vardo keitimai.

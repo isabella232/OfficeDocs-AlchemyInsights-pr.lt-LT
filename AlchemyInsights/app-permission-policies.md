@@ -13,21 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951681"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313932"
 ---
 # <a name="app-permission-policies"></a>Taikomųjų programų teisių strategijos
 
 Naudodami [taikomųjų programų teisių strategijas,](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)galite atlikti šiuos veiksmus:
 - Kaip administratorius, galite valdyti programų sąrankos strategijas [Microsoft Teams administravimo centre](https://admin.teams.microsoft.com/policies/app-permission).
-- Valdykite, kokias programėles gali naudoti Microsoft Teams organizacijos vartotojai naudodami visuotinę strategiją arba kurkite ir priskirkite pasirinktines [strategijas,](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) kad tinkindami ir valdydami vartotojų prieigą prie programėlių. 
-> [!NOTE]
-> Visos organizacijos programos parametrai perrašo visuotinę strategiją ir bet kokias pasirinktines strategijas, kurias sukuriate ir priskiriate vartotojams.
-- Galite naudoti programų [sąrankos strategijas,](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) kad Microsoft Teams, kad paryškintumėte vartotojams svarbiausias programas. 
+- Valdykite, kokias programėles gali naudoti Microsoft Teams organizacijos vartotojai naudodami visuotinę strategiją arba kurkite ir priskirkite pasirinktines [strategijas,](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) kad tinkindami ir valdydami vartotojų prieigą prie programų. 
+**Pastaba:** visos organizacijos programos parametrai perrašo visuotinę strategiją ir bet kurią pasirinktinę strategiją, kurią sukuriate ir priskiriate vartotojams.
+- Galite naudoti programų [sąrankos strategijas](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) norėdami Microsoft Teams, kad paryškintumėte vartotojams svarbiausias programas. 
 
 
 Daugiau informacijos apie savo nuomotojo taikomųjų programų strategijų sukūrimą žr.:

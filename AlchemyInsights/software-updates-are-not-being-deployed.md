@@ -1,5 +1,5 @@
 ---
-title: Programinės įrangos naujinimai nėra diegiami
+title: Programinės įrangos naujinimai neį dislokuoti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084534"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Programinės įrangos naujinimai nėra diegiami
+# <a name="software-updates-are-not-being-deployed"></a>Programinės įrangos naujinimai neį dislokuoti
 
-Jei sukonfigūravote programinės įrangos naujinimus naudodami "Windows 10" naujinimo žiedą, tačiau naujinimai nėra diegiami, bandykite atlikti šiuos veiksmus:  
+Jei sukonfigūravote programinės įrangos naujinimus Windows 10 naujinimo žiedą, bet naujinimai neį diegti, pabandykite atlikti šiuos veiksmus:  
 
-- Apsvarstykite galimybę keisti "Windows" aptarnavimą iš  **pusmečio kanalo**  leidimo tipo į griežtesnį, dažnesnio leidimo tipą.
-- Patikrinkite  **kokybės naujinimo**  ir  **funkcijų naujinimo**atidėjimo laikotarpį. Atidėjimo laikotarpiu gali užtrukti iki 180 dienų naujinimų.
+- Apsvarstykite galimybę pakeisti Windows iš **pusmeio kanalo** leidimo tipo į griežtesnio, dažnesnio leidimo tipą.
+- Pažymėkite atidėjimo laikotarpį **kokybiniam naujinimui** ir **funkcijų naujinimui**. Atidėjimo laikotarpis gali lemti naujinimų atidėjimą iki 180 dienų.

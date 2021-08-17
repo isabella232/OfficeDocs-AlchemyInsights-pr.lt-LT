@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110746"
 ---
-# <a name="rename-a-sharepoint-site"></a>"SharePoint" svetainės pervardijimas
+# <a name="rename-a-sharepoint-site"></a>Pervardykite SharePoint svetainę
 
-Svetainės URL keitimo/pervardijimo veiksmai yra dokumentuojami [svetainės adreso keitimas](https://docs.microsoft.com/sharepoint/change-site-address); pvz., Norėdami pakeisti į https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
+Svetainės URL keitimo / pervardijimo veiksmai yra dokumentuojami [svetainės adreso keitimas;](https://docs.microsoft.com/sharepoint/change-site-address) pvz., norėdami pakeisti iš https://contoso.sharepoint.com/sites/sample1 į https://contoso.sharepoint.com/sites/sample2 .
 
-Dėl žinomų klaidų Pervardijant ieškokite [klaidų, kai pervardijate "SharePoint" svetainės adresą](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Apie žinomas klaidas pervardijimo metu [žr. Klaidos, kai pervardijate SharePoint svetainės adresą](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
 
-Apie žinomus efektus po pervardijimo Peržiūrėkite [svetainės adreso keitimo efektus](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Apie žinomus efektus po pervardijimo [žr. Svetainės adreso keitimo efektai](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
 
-**Pastaba:** Negalite pakeisti domeno vardo (aukščiau pateiktame pavyzdyje, "Contoso" URL dalies) "SharePoint Online" URL. 
+**Pastaba:** Negalite pakeisti domeno vardo (aukščiau pateiktame pavyzdyje – URL "contoso" dalis) SharePoint URL. 
 
 Daugiau informacijos rasite:
 
-- ["SharePoint" domeno vardo keitimas](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Klaidos, kai pervardijate "SharePoint" svetainės adresą](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [Domeno vardo SharePoint keitimas](https://go.microsoft.com/fwlink/?Linkid=2018696)
+- [Klaidos, kai pervardijate SharePoint svetainės adresą](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889262"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314248"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktyvinti Microsoft 365 programėles
 
-**Pastaba:** jei naudojate senesnę "Windows versiją (pvz., "Windows 7"), įsitikinkite, kad TLS 1.2 įgalinta kaip numatytoji. Daugiau informacijos žr. Naujinimas, kad [įgalintumėte TLS 1.1 ir TLS 1.2 kaip numatytuosius saugos protokolus "WinHTTP" Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
+**Pastaba:** jei naudojate ankstesnę "Windows" versiją (pvz., "Windows 7" SP1, "Windows Server 2008 R2"), įjunkite TLS 1.2 kaip numatytuosius parametrus naudodami [paprastą pataisą](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Daugiau informacijos žr. Naujinimas, skirtas [įgalinti TLS 1.1 ir TLS 1.2 kaip numatytuosius saugos protokolus "WinHTTP" Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
 Norėdami suaktyvinti „Office“:
 
@@ -38,7 +38,7 @@ Jei norite pašalinti „Office“ aktyvinimo problemas, žr.:
 
 - [Ką galima išbandyti, jei nepavyksta įdiegti ar aktyvinti „Office“ skirtos „Mac“?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Patarimas** „Windows“ kompiuteriuose galime diagnozuoti ir automatiškai už jus išspręsti kelias bendrąsias „Office“ prisijungimo problemas. Atsisiųskite ir paleiskite **[„Microsoft“ palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SaRA-OfficeSignInScenario)**, kad būtų galima naudoti mūsų automatinį įrankį.
+**Patarimas:** Windows, galime diagnozuoti ir automatiškai išspręsti kelias dažnai Office prisijungimo problemas. Atsisiųskite ir paleiskite **[„Microsoft“ palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SaRA-OfficeSignInScenario)**, kad būtų galima naudoti mūsų automatinį įrankį.
 
 Jei negalite prisijungti prie "Microsoft 365", atlikite toliau nurodytus veiksmus.
 

@@ -14,16 +14,16 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d4615d335b9aeef69148cd93ff9f44bec6d7d876
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889226"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314212"
 ---
 # <a name="active-directory-not-syncing"></a>"Active Directory" nesinchronizuojama
 
-Jei gaunate sinchronizavimo klaidų, pvz., "nėra naujausio sinchronizavimo", arba pastebėjote katalogų sinchronizavimo būseną "Office" administravimo portale sako: "Paskutinį kartą sinchronizuota daugiau nei prieš 3 dienas", gali būti, kad "AADConnect" turi neteisingus parametrus arba nepakanka teisių sinchronizuoti.  
+Jei gaunate sinchronizavimo klaidų, pvz., "nėra naujausio sinchronizavimo", arba pastebėjote katalogų sinchronizavimo būseną "Office" administravimo portale sako: "Paskutinį kartą sinchronizuota daugiau nei prieš 3 dienas", gali būti, kad "AADConnect" turi neteisingus parametrus arba nepakankamas teises atlikti sinchronizavimą.  
 
 "AADConnect" diegimas iš naujo naudojant skubius parametrus gali greitai išspręsti šią problemą:
 
@@ -31,6 +31,6 @@ Jei gaunate sinchronizavimo klaidų, pvz., "nėra naujausio sinchronizavimo", ar
 
 2. [Vykdykite nurodymus, kaip atlikti skubią įdiegtį.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-„Azure AD Connect“ turi būti diegiama „Windows Server 2012“ arba naujesnėje versijoje. Šis serveris turi būti prijungtas prie domeno ir gali būti domeno valdiklis arba nario serveris. Jei reikia viso "Azure AD" Prisijungimas reikalavimų ir išankstinių sąlygų, [peržiūrėkite Būtinosios "Azure AD" Prisijungimas.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+„Azure AD Connect“ turi būti diegiama „Windows Server 2012“ arba naujesnėje versijoje. Šis serveris turi būti prijungtas prie domeno ir gali būti domeno valdiklis arba nario serveris. Norėdami peržiūrėti visą "Azure AD" Prisijungimas reikalavimus ir išankstines sąlygas, [peržiūrėkite Būtinosios "Azure AD" Prisijungimas.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
 
 Daugiau informacijos apie "AADConnect" tarnybos paskyras žr. ["Azure AD Prisijungimas: Paskyros ir teisės](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

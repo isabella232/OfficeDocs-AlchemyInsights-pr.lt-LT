@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 8935f461aaf24cb100516311203ef642f5dbed931e472df944c1cd7e72a8cf4e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 04f56dfc7ebe7de91bc64a5e6d2b480b07741c6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890274"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314356"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>401 Neleistina klaida SharePoint
 
-Jei gaunate klaidos pranešimą "(401) Neleistinas" SharePoint ji gali būti susijusi su TLS 1.0/1.1 nutraukimu. Daugiau informacijos rasite:
+Jei gavote klaidos pranešimą "(401) Neleistina" SharePoint ji gali būti susijusi su TLS 1.0/1.1 nutraukimu. Daugiau informacijos rasite:
 
 - [Pasirengimas TLS 1.2 Office 365 ir Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
@@ -30,4 +30,4 @@ Jei gaunate klaidos pranešimą "(401) Neleistinas" SharePoint ji gali būti sus
 
 - [Update to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
-Jei vartotojai yra 7 Windows, įsitikinkite, kad jie ["TLS Cipher Suites" Windows 7.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)
+Jei vartotojai yra 7 Windows, įsitikinkite, kad jie patikrina [TLS šifro paketus 7 Windows.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)

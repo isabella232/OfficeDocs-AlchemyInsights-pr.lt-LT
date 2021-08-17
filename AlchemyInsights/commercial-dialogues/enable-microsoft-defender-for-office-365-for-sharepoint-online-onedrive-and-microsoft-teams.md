@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" sargybos įgalinkite Office 365, SharePoint, \"OneDrive\" ir Microsoft Teams"
+title: "\"Seifas\", \"SharePoint Online\", \"\"OneDrive\"\" ir \"Microsoft Teams"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058874"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894471"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>"Microsoft" sargybos įgalinkite Office 365, SharePoint, "OneDrive" ir Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>"Seifas", "SharePoint Online", ""OneDrive"" ir "Microsoft Teams
 
-1. Naudodami savo visuotinio administratoriaus arba saugos administratoriaus kredencialus, prisijunkite [prie Office 365 ir atitikties centro](https://protection.office.com/).
-2. Kairiojoje **srityje** pasirinkite Grėsmių valdymas, tada pasirinkite   >  [Strategijos Seifas priedai.](https://protection.office.com/safeattachment)
-3. Pasirinkite **Įjungti "Microsoft" sargybą Office 365, SharePoint, "OneDrive"** ir Microsoft Teams , tada pasirinkite **Įrašyti**.
+1. Naudodami savo visuotinio administratoriaus arba saugos administratoriaus kredencialus, atidarykite ""Microsoft 365" sargyba" portalą , tada eikite <https://security.microsoft.com> į Strategijos & **taisyklės** \>  \> **Grėsmių strategijos Seifas Priedai** skyriuje Strategijos 
+
+   Norėdami pereiti tiesiai į **Seifas priedų puslapį,** naudokite <https://security.microsoft.com/safeattachmentv2> .
+
+2. Puslapyje **Seifas priedai spustelėkite** **Visuotiniai parametrai**.
+3. Rodomame iškeliame meniu pasirinkite Įjungti **"Microsoft" sargybą Office 365, SharePoint, "OneDrive" ir Microsoft Teams**, tada pasirinkite **Įrašyti**.
+
     > [!TIP]
     >
-    > - Kaip visuotinis administratorius arba "SharePoint Online" administratorius, vykdykite šią "PowerShell" cmdlet naudodami **parametrą DisallowInfectedFileDownload** , nustatytą *kaip true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Aptiktų failų įspėjimų rinkinys](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Atlikite šiuos veiksmus, kad padidintų "Seifas", "SharePoint", ""OneDrive"" ir "Microsoft Teams" apsaugą:
+    >
+    > - Norėdami neleisti vartotojams atsisiųsti kenkėjiškų failų, naudokite `$true` parametro *DisallowInfectedFileDownload* reikšmę "SharePoint Online PowerShell" **[set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** cmdlet. Daugiau informacijos žr. [Internetinės "PowerShell SharePoint naudojimas norint neleisti vartotojams atsisiųsti kenkėjiškų failų.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Aptiktų failų įspėjimo strategijos kūrimas](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Daugiau informacijos ieškokite ["Microsoft" sargybos Office 365, SharePoint, "OneDrive" ir Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+Daugiau informacijos [žr. Seifas priedų Office 365, SharePoint "OneDrive" ir Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

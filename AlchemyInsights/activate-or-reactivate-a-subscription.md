@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889390"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314320"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Prenumeratos aktyvinimas arba aktyvinimas iš naujo
 
@@ -27,7 +27,7 @@ ms.locfileid: "57889390"
 
 - Norėdami suteikti vartotojams prieigą prie paslaugos, priskirkite jiems licencijas. Norėdami sužinoti, kaip tai [padaryti, žr. Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Jei jau turite jums priskirtą licenciją, galite rasti programas, kurias galite atsisiųsti iš puslapio [Mano paskyra](https://portal.office.com/account/#installs). Šiame puslapyje pateikiamas programų, kurias galite atsisiųsti pagal priskirtas licencijas, sąrašas.
-- Jei jau atsisiuntėte Office programas, gali tekti prisijungti prie taikomųjų programų naudojant darbo arba mokymo įstaigos paskyrą. Tai galite padaryti bet kurioje Office programoje ("Word", "Excel" ir kt.) spustelėdami  >  **"File Office Account"** (apačioje). Dalyje **Vartotojo informacija** pasirinkite **Perjungti paskyrą**. Daugiau informacijos žr. [Programų Office diegimas.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Jei jau atsisiuntėte Office programas, gali tekti prisijungti prie taikomųjų programų naudojant darbo arba mokymo įstaigos paskyrą. Tai galite padaryti bet kurioje Office programoje ("Word", "Excel" ir kt.) spustelėdami  >  **"File Office Account"** (apačioje). Dalyje **Vartotojo informacija** pasirinkite **Perjungti paskyrą**. Daugiau informacijos žr. [Programų Office diegimas](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Prenumeratos aktyvinimas iš naujo**
 
@@ -36,8 +36,9 @@ Jei jūsų prenumeratos galiojimas baigėsi, ją išjungė "Microsoft" arba atš
 1. Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Skirtuke **Produktai** raskite prenumeratą, kurią norite aktyvinti iš naujo.
 3. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Iš naujo aktyvinti šią prenumeratą**.
-    > [!IMPORTANT]
-    > Jei nematote šios prenumeratos **aktyvinimo iš** naujo kaip galimų veiksmų, paskambinkite [palaikymo](https://go.microsoft.com/fwlink/p/?linkid=518322) tarnybą, kad iš naujo suaktyvintumėte prenumeratą.
+
+    **Svarbu:** jei nematote šios prenumeratos **aktyvinimo iš** naujo kaip galimų veiksmų, paskambinkite [palaikymo](https://go.microsoft.com/fwlink/p/?linkid=518322) tarnybą, kad iš naujo suaktyvintumėte prenumeratą.
+
 4. Srityje **Iš naujo suaktyvinti šią prenumeratą** pasirinkite esamą mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.
 5. Pasirinkite **Iš naujo aktyvinti**.
 
@@ -45,5 +46,5 @@ Norėdami gauti daugiau informacijos, žr. [Prenumeratos aktyvinimas iš naujo](
 
 **Naujos prenumeratos aktyvinimas naudojant produkto kodą**
 
-1. Norėdami aktyvinti naują Microsoft 365 su produkto kodą, [žr. Kur įvesti savo Office kodą](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. Norėdami aktyvinti naują Microsoft 365 su produkto kodą, žr. [Kur įvesti savo Office kodą](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. Įveskite savo „Microsoft 365“ produkto kodą ir vykdykite nurodymus, kad suaktyvintumėte prenumeratą. Jei kyla problemų dėl aktyvinimo, žr. šį dažniausiai pasitaikančių [produkto kodo klaidų ir sprendimų sąrašą.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

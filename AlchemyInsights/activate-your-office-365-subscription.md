@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889322"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314284"
 ---
 # <a name="activate-your-subscription"></a>Prenumeratos aktyvinimas
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889322"
 
 - Norėdami suteikti vartotojams prieigą prie paslaugos, priskirkite jiems licencijas. Norėdami sužinoti, kaip tai [padaryti, žr. Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Jei jau turite priskirtą licenciją, galite rasti programas, kurias galite atsisiųsti iš puslapio [Mano paskyra](https://portal.office.com/account/#installs). Šiame puslapyje pateikiamas jums prieinamų programų, kurias galite atsisiųsti, sąrašas, paremtas priskirtomis licencijomis.
-- Jei jau atsisiuntėte Office programas, gali tekti prisijungti prie taikomųjų programų naudojant darbo arba mokymo įstaigos paskyrą. Tai galite padaryti bet kurioje Office programoje ("Word", "Excel" ir kt.) pasirinkdami **Failas > Paskyra** (apačioje). Dalyje Vartotojo informacija pasirinkite **Perjungti paskyrą**. Norėdami gauti daugiau informacijos, skaitykite [„Office“ taikomųjų programų diegimas](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Jei jau atsisiuntėte Office programas, gali tekti prisijungti prie programų naudodami savo darbo arba mokymo įstaigos paskyrą. Tai galite padaryti bet kurioje "Office programoje ("Word", "Excel" ir kt.) pasirinkdami **Failas > paskyra** (apačioje). Dalyje Vartotojo informacija pasirinkite **Perjungti paskyrą**. Norėdami gauti daugiau informacijos, skaitykite [„Office“ taikomųjų programų diegimas](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Prenumeratos aktyvinimas iš naujo**
 

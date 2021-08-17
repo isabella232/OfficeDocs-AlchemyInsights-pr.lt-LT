@@ -13,17 +13,17 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 822407858ddbdcd8e7cae6286fce7893e3eae5cfcdef44b1c8ad332c67a3ee77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ac634375569cca71ec597929ecaedda529e47414
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882759"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313968"
 ---
 # <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender for Office 365 in SharePoint and "OneDrive"
 
 Žr. šiuos dalykus:
-- ["Microsoft" sargyba Office 365, SharePoint, "OneDrive" ir Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender for Office 365 for SharePoint, "OneDrive" and Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Threat Explorer and Realtime detections](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 

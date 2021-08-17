@@ -1,5 +1,5 @@
 ---
-title: "\"9000215\" Outlook.com prenumeratos"
+title: 9000215 Outlook.com Prenumeratos
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 584138b667f56053254b9aa5cdea764c041ecc4584aaaee683107f21b14d61e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111300"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>Prenumeratos ir prenumeratos atšaukimas
 
-Jei norite nebegauti informacinių biuletenių ar reklaminių akcijų, galite atsisakyti prenumeratos "Outlook.com":
+Jei norite nustoti gauti informacinius biuletenius ar reklamas, yra du būdai, kaip galite atsisakyti prenumeratos svetainėje Outlook.com:
 
-1. Aplanke Gauta pasirinkite informacinį biuletenį arba reklaminį laišką. Skaitymo srities viršuje pasirinkite **atsisakyti prenumeratos**.
-2. Atidarykite savo " [Outlook.com" prenumeratos parametrus](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Parametrai**  >  **Peržiūrėkite visus "Outlook" parametrus**  >  **pašto**  >  **prenumeratos**) ir pasirinkite **atsisakyti prenumeratos**.
+1. Aplanke Gauta pasirinkite informacinį biuletenį arba reklaminį el. laišką. Skaitymo srities viršuje pasirinkite **Atsisakyti prenumeratos**.
+2. Atidarykite [savo Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) prenumeratos parametrus (**Parametrai Peržiūrėti** visus Outlook parametrus El. pašto prenumeratos ) ir pasirinkite Atsisakyti  >    >    >   **prenumeratos**.
 
-Pastabų
+Pastabos:
 
-- Šiuo metu ne visi klientai gali naudotis šia funkcija.
-- Šią funkciją matysite tik tuo atveju, jei gavote laišką iš įmonės, siunčiančio prenumeruojamų laiškų.
+- Ne visi klientai šiuo metu gali pasinaudoti šia funkcija.
+- Šią funkciją matysite tik tada, jei gavote el. laišką iš įmonės, siunčiančios prenumeruojamą el. laišką.

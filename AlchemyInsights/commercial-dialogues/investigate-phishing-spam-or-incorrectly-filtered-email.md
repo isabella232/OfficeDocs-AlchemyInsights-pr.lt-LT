@@ -1,5 +1,5 @@
 ---
-title: Sukčiavimo apsimetant, pašto šiukšlių arba netinkamai filtruotų el. laiškų tirimas
+title: Sukčiavimo apsimetant, pašto šiukšlių arba netinkamai filtruotų el. laiškų tyrimo
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948963"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894403"
 ---
-# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Sukčiavimo apsimetant, pašto šiukšlių arba netinkamai filtruotų el. laiškų tirimas
+# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Sukčiavimo apsimetant, pašto šiukšlių arba netinkamai filtruotų el. laiškų tyrimo
 
-Norėdami pateikti pranešimą "Microsoft", naudokite pateikimo naršyklę. Gausite tiesioginį atsiliepimą apie pranešimų filtravimą ir problemos priežastį. Pateikiame veiksmų suvestinę:
+Norėdami pateikti pranešimą "Microsoft", naudokite pateikimo naršyklę. Gausite tiesioginį atsiliepimą apie pranešimų filtravimą ir problemos priežastį. Pateikiame veiksmų santrauką:
 
-1. Eikite [į Office 365 saugos &](https://go.microsoft.com/fwlink/p/?linkid=2077143)centrą , pasirinkite **Grėsmių valdymo**  >  **pateiktuose**, tada pasirinkite + Naujas **pateikimas**.
-2. Nurodykite išsamią informaciją **iškeliamuoju iškeliamuoju** sąskridu.
-3. Informuokite vartotojus, kad jie turėtų pranešti [](https://go.microsoft.com/fwlink/?linkid=2092385) apie įtartinus el. laiškus "Microsoft" ir kad ataskaitos pranešimo papildinių yra įrankis, kurį jie turėtų naudoti šiuo tikslu.
+1. ""Microsoft 365" sargyba" portale <https://security.microsoft.com> eikite į **El. &** \> **bendradarbiavimo pateiktis**.
+
+   Norėdami pereiti tiesiai į **puslapį Pateiktis,** naudokite <https://security.microsoft.com/reportsubmission> .
+
+2. Puslapyje **Pateiktis patikrinkite,** ar pažymėtas **skirtukas** Pateikta analizei, tada spustelėkite **+ Pateikti "Microsoft" analizei.**
+
+3. Bus rodomas išskridimas su parinktimi pateikti el. laišką, URL arba failą. Daugiau informacijos žr. Administravimo pateikimo naudojimas norint pateikti įtartiną pašto [šiukšles,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)sukčiavimo apsimetant, URL ir failus "Microsoft".
+
+4. Informuokite vartotojus, kad jie turėtų pranešti apie visus įtartinus pranešimus aplanke Gauta naudodami ataskaitos pranešimo priedą arba pranešimą apie [sukčiavimą apsimetant.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

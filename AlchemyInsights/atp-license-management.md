@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: bddf98044dd29345e0d59703713d76f02642f448bdc62cc25bb356933d524f21
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501140"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313896"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>"Microsoft" sargyba Office 365 licencijų valdymui
 
@@ -29,6 +29,6 @@ ms.locfileid: "54501140"
 - Norėdami įsigyti "Microsoft" sargybą Office 365:
     1. Eikite **į**  >  [Atsiskaitymas Pirkimo paslaugos](https://go.microsoft.com/fwlink/p/?linkid=868433).
     2. Puslapio apačioje pasirinkite Priedai **.**
-    3. Puslapyje **Paslaugų įsigijimas** pasirinkite "Microsoft" sargybos Office 365 planą, kurį norite **įsigyti,** įveskite vartotojų, kuriems reikia licencijos, skaičių, tada pasirinkite Tikrinti dabar . Daugiau informacijos [žr. Priedo įsigykite](/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Norėdami priskirti "Microsoft" sargybą Office 365 licencijoms, eikite **į**  >  **Atsiskaitymo licencijos**. Daugiau informacijos [žr. Licencijų priskyrimas vartotojams](/microsoft-365/admin/manage/assign-licenses-to-users).
-- Norėdami įtraukti arba pašalinti licencijas iš "Microsoft" sargybos Office 365, eikite **į Atsiskaitymas**  >  **už produktus**. Pasirinkite prenumeratą, kurią norite atnaujinti, tada pasirinkite **Pirkti licencijas** **arba Šalinti licencijas**. Daugiau informacijos žr. [Prenumeratos licencijų įsigykite arba pašalinkite](/microsoft-365/commerce/licenses/buy-licenses).
+    3. Puslapyje **Paslaugų įsigijimas** pasirinkite "Microsoft" sargybos Office 365 planą, kurį norite **įsigyti,** įveskite vartotojų, kuriems reikia licencijos, skaičių, tada pasirinkite Tikrinti dabar . Daugiau informacijos [žr. Priedo įsigykite](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Norėdami priskirti "Microsoft" sargybą Office 365 licencijoms, eikite **į**  >  **Atsiskaitymo licencijos**. Daugiau informacijos [žr. Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Norėdami įtraukti arba pašalinti licencijas iš "Microsoft" sargybos Office 365, eikite **į Atsiskaitymas**  >  **už produktus**. Pasirinkite prenumeratą, kurią norite atnaujinti, tada pasirinkite **Pirkti licencijas** **arba Šalinti licencijas**. Daugiau informacijos žr. [Prenumeratos licencijų įsigykite arba pašalinkite](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

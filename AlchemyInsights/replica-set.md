@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110688"
 ---
 # <a name="replica-set"></a>Replikų rinkinys
 
-"AADDS" taip pat vadinama valdomu domenu. Tai iš tikrųjų yra du domeno valdikliai, kurie vykdomi ir prižiūrimi backend. Du DC apima vieną pagrindinį DC ir vieną replikavimo DC. Atsarginės kopijos, esančios AADDS (valdomas domenas), yra automatinis procesas, kurį tvarko "Azure" platforma. Kilus problemai su valdomu domenu, "Azure" palaikymas gali padėti atkurti atsarginę kopiją.
+AADDS taip pat vadinama valdomą domenu. Iš tikrųjų tai yra du domeno valdikliai, kuriuos valdo ir tvarko vidinė sąsaja. Du DC apima vieną pagrindinę DC ir vieną replikavimo DC. AADDS (valdomo domeno) atsarginės kopijos yra automatizuotas procesas, kurį valdo "Azure" platforma. Jei kyla jūsų valdomo domeno problema, "Azure" palaikymas gali padėti atkurti iš atsarginės kopijos.
 
-Sukuriate kiekvieną replikų rinkinį virtualiame tinkle. Kiekvienas virtualusis tinklas turi būti valdomas visiems kitiems virtualiam tinklui, kuriame yra valdomo domeno replikų rinkinys. Ši konfigūracija sukuria tinklinio tinklo topologiją, kuri palaiko katalogų replikavimą. Virtualiame tinkle gali būti palaikomi keli replikų rinkiniai, jei kiekvienas replikų rinkinys yra kitame virtualiame potinklyje.
+Kiekvieną replikų rinkinį sukuriate virtualiame tinkle. Kiekvienas virtualusis tinklas turi būti lygiaverčiai mazgams prie kiekvieno kito virtualaus tinklo, kuriame yra valdomo domeno replikų rinkinys. Ši konfigūracija sukuria tinklo tinklo topologiją, palaikančią katalogų replikavimą. Virtualusis tinklas gali palaikyti kelis replikų rinkinius, jei kiekvienas replikų rinkinys yra skirtingame virtualiame potinklyje.
 
-Daugiau informacijos apie replikų rinkinį ieškokite [koncepcijų replikų rinkiniai](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Daugiau informacijos apie replikų rinkinį žr. [Sąvokų replikų rinkiniai](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
