@@ -1,5 +1,5 @@
 ---
-title: Patarimai apie žinučių priminimus
+title: Patarimai apie pranešimų atšaukimą
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081474"
 ---
-# <a name="tips-about-recalling-messages"></a>Patarimai apie žinučių priminimus
+# <a name="tips-about-recalling-messages"></a>Patarimai apie pranešimų atšaukimą
 
-Štai, kada galite ir negalite atšaukti žinučių:
+Štai kada galite ir negalite atšaukti pranešimų:
 
-* Kaip administratorius, galite atšaukti vartotojų vardu siunčiamus, naudodami "PowerShell". Negalite atšaukti laiško administravimo centre.
-* Galite atšaukti tik tuos, kurie siunčiami į jūsų organizacijos žmones. Jei laiškas buvo išsiųstas į "Gmail" adresą, pvz., jo atšaukti negalėsite.
-* **Galite atšaukti tik iš "Outlook 2016" kompiuteriui atsiųstus tekstinius** Jei vartotojas siunčia laišką naudodamas "Outlook for Mac" arba internetinę "Outlook", jo atšaukti negalėsite.
+* Kaip administratorius, galite atšaukti pranešimus vartotojų vardu naudodami "PowerShell". Negalite atšaukti pranešimų iš administravimo centro.
+* Galite atšaukti tik laiškus, siunčiamus jūsų organizacijos žmonėms. Pavyzdžiui, jei pranešimas buvo išsiųstas "Gmail" adresu, jo atšaukti negalite.
+* **Galite atšaukti tik iš kompiuterio Outlook 2016 laiškus.** Jei vartotojas siunčia pranešimą naudodamas "Outlook Mac" arba "internetinė "Outlook"", jo atšaukti negalite.

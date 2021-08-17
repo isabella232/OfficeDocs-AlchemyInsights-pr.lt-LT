@@ -1,5 +1,5 @@
 ---
-title: "\"Forms Pro\" įjungimas arba išjungimas"
+title: Formų įjungimas arba išjungimas Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d5a9d06e2fe2f34d26d4fdc5b2e1b3cc40268d9e226cba2f30aae880d941fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057218"
 ---
-# <a name="enable-or-disable-forms-pro"></a>"Forms Pro" įjungimas arba išjungimas
+# <a name="enable-or-disable-forms-pro"></a>Formų įjungimas arba išjungimas Pro
 
-"Microsoft Forms Pro" tapo "Dynamics 365 Customer Voice", suteikianti papildomų apklausos galimybių ir verslo pranašumų. Daugiau informacijos žr. ["Dynamics 365 Customer Voice" žinyno ištekliai.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
+"Microsoft Forms Pro" tapo "Dynamics 365 Customer Voice", suteikdama papildomų apklausos galimybių ir verslo pranašumų. Daugiau informacijos žr. ["Dynamics 365 Customer Voice" žinyno ištekliai.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
 
-"Microsoft Forms Pro" įtraukiama kaip "Dynamics 365 Enterprise" licencijos dalis. Arba administratorius gali įsigyti "Microsoft Forms Pro" licenciją. Taip pat galite pašalinti "Microsoft Forms Pro" licenciją iš vartotojo.  
+"Microsoft Forms Pro" yra įtraukta kaip "Dynamics 365 Enterprise" licencijos dalis. Arba administratorius gali įsigyti "Microsoft Forms" Pro licenciją. Taip pat galite pašalinti "Microsoft Forms Pro vartotojo licenciją.  
 
-Daugiau informacijos apie licencijavimą žr. ["Microsoft Forms Pro" įsigijimas](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) ir [vartotojo "Microsoft Forms Pro" išjungimas](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+Daugiau informacijos apie licencijavimą žr. ["Microsoft Forms Pro"](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) ir ["Microsoft Forms Pro" išjungimas vartotojui.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
   
-Žinyno išteklių ieškokite ["Forms Pro" trikčių šalinimas.](https://docs.microsoft.com/forms-pro/troubleshoot)
+Jei reikia pagalbos išteklių, [žr. Formų trikčių šalinimas Pro](https://docs.microsoft.com/forms-pro/troubleshoot).

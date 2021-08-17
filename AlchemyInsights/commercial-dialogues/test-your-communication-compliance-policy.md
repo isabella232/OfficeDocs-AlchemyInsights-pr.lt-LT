@@ -1,5 +1,5 @@
 ---
-title: Patikrinkite savo bendravimo atitikties strategiją
+title: Patikrinkite savo ryšio atitikties strategiją
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: fba853749d98eb556395c7133555c0b04044c88c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e03f594bde1e12fb606cdb5f51fd98ff028f1a311d901e9f10241b027231c371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081510"
 ---
-# <a name="test-your-communication-compliance-policy"></a>Patikrinkite savo bendravimo atitikties strategiją
+# <a name="test-your-communication-compliance-policy"></a>Patikrinkite savo ryšio atitikties strategiją
 
-Šis veiksmas yra pasirinktinis. Sukūrus bendravimo atitikties strategiją, patartina ją išbandyti, kad įsitikintumėte, jog jūsų apibrėžtos sąlygos tinkamai įgyvendinamos pagal strategiją.
+Šis veiksmas yra pasirinktinis. Kai sukuriate ryšių atitikties strategiją, verta ją patikrinti ir įsitikinti, kad jūsų apibrėžtos sąlygos tinkamai vykdomos strategijos.
 
-Taip pat galite [išbandyti duomenų praradimo prevencijos (DLP) strategijas](https://go.microsoft.com/fwlink/?linkid=2110890) , jei jūsų ryšių atitikties politikoje yra slaptų informacijos tipų.
+Taip pat galite patikrinti savo [duomenų praradimo prevencijos (DLP) strategijas,](https://go.microsoft.com/fwlink/?linkid=2110890) jei jūsų ryšių atitikties strategijos apima slaptos informacijos tipus.
 
-Norėdami sužinoti, kaip tai padaryti, peržiūrėkite [savo bendravimo atitikties strategijos tikrinimą](https://go.microsoft.com/fwlink/?linkid=2111304).
+Norėdami sužinoti, kaip tai padaryti, [žr. Ryšio atitikties strategijos tikrinimas](https://go.microsoft.com/fwlink/?linkid=2111304).

@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057182"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Klaida 0-1036 diegiant "Office"
 
-Išbandykite šiuos sprendimus, Norėdami pataisyti "Office" klaidą 0-1036:
+Išbandykite šiuos sprendimus, kad ištaisytų Office klaidą 0-1036:
   
-- Paleiskite kompiuterį iš naujo ir bandykite [įdiegti "Office](https://portal.office.com/OLS/MySoftware.aspx) " dar kartą.
+- Paleiskite kompiuterį iš naujo ir [bandykite įdiegti Office dar](https://portal.office.com/OLS/MySoftware.aspx) kartą.
 
 - Atsisiųskite ir įdiekite [palaikymo ir atkūrimo pagalbinę priemonę](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kai atidaroma, iš " **Office" produktų pašalinimo** pasirinkite norimą pašalinti versiją ir pasirinkite **Pirmyn**.
+1. Kai ji bus atidaroma, **iš Office produktų** pasirinkite versiją, kurią norite pašalinti, ir pasirinkite **Pirmyn**.
 
 2. Toliau eikite per ekranus ir, kai būsite paraginti, iš naujo paleiskite kompiuterį.
 
-    Paleidę iš naujo, palaikymo ir atkūrimo asistentas automatiškai atidaromas, kad baigtumėte pašalinimo procesą.
+    Paleidus iš naujo, palaikymo ir atkūrimo pagalbinė priemonė automatiškai iš naujo atidaroma, kad užbaigtumėte šalinimo procesą.
 
-3. Vykdykite likusius raginimus ir [iš naujo įdiekite "Office](https://portal.office.com/OLS/MySoftware.aspx) " arba uždarykite asistentą.
+3. Vykdykite likusius raginimus ir iš [naujo Office arba](https://portal.office.com/OLS/MySoftware.aspx) uždarykite pagalbinę priemonę.
 
-- [Naudokite "Office" diegimo neprisijungus programą](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) , kad įdiegtumėte "Office"
+- [Naudokite "Office" diegimo neprisijungus](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) programą, kad įdiegtumėte Office

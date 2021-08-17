@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9654"
-ms.openlocfilehash: 00b5821e2edad8b60ff60b1f85264d81c72277e4
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 0dee7e44a8701e1df924b9657cce6cf9d90160e58277d667f6069a4cbcf87ce5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057110"
 ---
 # <a name="find-missing-applications-on-app-registration-blade"></a>Trūkstamų taikomųjų programų radkite "App Registration" ašmenyse
 
 1. Nepavyksta rasti taikomųjų programų programų registracijos portale.
 
-    Jei programa yra kelių nuomotojų taikomoji programa ir ji buvo užregistruota kitame nuomotoje, ji nebus rodoma dalyje Taikomosios programos registracijos ašmenys. Tačiau galite jį rasti dalyje "Enterprise Applications" ašmenys, kai jis bus atvertas (sutikus) ir jūsų nuomotoje bus sukurtas pagrindinis paslaugos punktas. Daugiau informacijos žr. "Azure AD" & paslaugų teikimo [principai – "Microsoft" tapatybės platforma](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+    Jei programa yra kelių nuomotojų taikomoji programa ir ji buvo užregistruota kitame nuomotoje, ji nebus rodoma dalyje Taikomosios programos registracijos ašmenys. Tačiau galite jį rasti dalyje "Enterprise Applications" ašmenys, kai jis bus atvertas (sutikus) ir jūsų nuomotoje bus sukurtas pagrindinis paslaugos punktas. Daugiau informacijos žr. ["Azure AD" &](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)paslaugų teikimo principai – "Microsoft" tapatybės platforma.
 2. Nepavyksta peržiūrėti programėlių "App Registration" ašmenyje, net jei esate administratorius.
 
     Įsitikinkite, kad esate tinkamame "Azure" portalo kataloge.
@@ -36,15 +36,15 @@ ms.locfileid: "51404698"
 4. Negaliu rasti visų iš anksto įdiegtų įmonės taikomųjų programų sąrašo naujame "Azure" nuomotoje.
 
     Pagal numatytuosius nustatymus "Azure AD" nėra iš anksto įdiegtų įmonės taikomųjų programų. Turite įtraukti ją rankiniu būdu iš parinkties "Nauja taikomoji programa", naršydami ją iš "Azure AD" galerijos arba įtraukdami ne galerijos taikomąją programą. Norėdami sužinoti daugiau, [žr. "Quickstart": taikomosios programos įtraukimas į "Azure Active Directory" ("Azure AD") nuomotoją.](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal)
-    Jei esate visuotinis administratorius, galite lengvai pasiekti savo programas naudodami ["Microsoft 365" taikomųjų programų vykdyklę](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
+    Jei esate visuotinis administratorius, galite lengvai pasiekti savo programas naudodami Microsoft 365 [programų vykdyklę](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
 5. Nepavyksta rasti mano programėlių mano programėlių portale.
 
     Įsitikinkite, kad taikomosios programos nėra paslėptos puslapyje Mano taikomosios programos rinkinys. Norėdami sužinoti daugiau, [žr. Rinkiniai (peržiūra) mano programų portale – "Azure AD".](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-user-collections)
 6. Norėdami paleisti programėles iš portalo Mano programėlės, [žr. & programėlių radimas mano programų portale – "Azure AD".](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access)
-7. Įdiegus "Office 365 Mover" programa nerodoma "Enterprise Applications" ašmenyse.
+7. Office 365 Įdiegus "Mover" programa nerodoma "Enterprise Applications" ašmenyse.
 
-    "Office 365 Mover" programa yra daugialypis taikomoji programa, kurios nereikia įtraukti į AAD naudojant skyrių Galerijos taikomosios programos dalyje "Enterprise App Registration". Norėdami pasiekti "Office 365 Mover" programą, tiesiog prisijunkite prie taikomosios programos ir prašys vartotojo sutikimo dėl teisių. Kai vartotojas pateikia sutikimą, ši programa automatiškai bus įtraukta į nuomotoją su jūsų prisiregistravęs el. pašto ID.
+    "Office 365 Mover" programa yra daugialypis taikomoji programa, kurios nereikia įtraukti į AAD naudojant skyrių Galerijos taikomosios programos dalyje "Enterprise App Registration". Norėdami pasiekti Office 365 Mover" programą, tiesiog prisijunkite prie taikomosios programos ir prašykite vartotojo sutikimo dėl teisių. Kai vartotojas pateikia sutikimą, ši programa automatiškai bus įtraukta į nuomotoją su jūsų prisiregistravęs el. pašto ID.
 
-    Prisijungę prie taikomosios programos, galėsite rasti šios taikomosios programos įrašą AAD dalyje Įmonės taikomųjų programų ašmenys. Tos taikomosios programos reikia ieškoti įvesdami vardą ir pavardę, t. y. "Office 365 Mover" arba tiesiog ieškokite "office" ir joje turėtų būti programos sąrašas. Norėdami sužinoti daugiau, žr. ["Office 365 Mover"](https://docs.microsoft.com/answers/questions/30186/office-365-mover-says-its-already-installed-but-it.html)sako, kad jis jau įdiegtas, bet jis nėra nurodytas "Enterprise" taikomųjų programų galerijoje .
-8. "Quickstart": peržiūrėkite programų, kurios naudoja ["Azure Active Directory" ("Azure AD")](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) nuomotoją tapatybės valdymui, sąrašą, kuriame rodoma, kaip peržiūrėti taikomąsias programas, dar vadinamas programomis, kurios jau nustatytos naudoti "Azure AD" nuomotoją kaip tapatybės teikėją (IDP).
-9. [Dažnai pasitaikančių problemų įtraukiant arba šalinant taikomąją programą į "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) šalinimas padeda suprasti įprastas problemas, su kuriomis žmonės susiduria peržiūrėdami programas "Azure Active Directory".
+    Prisijungę prie taikomosios programos, galėsite rasti šios taikomosios programos įrašą AAD dalyje Įmonės taikomųjų programų ašmenys. Tos taikomosios programos reikia ieškoti įvesdami vardą ir pavardę, t. y. "Office 365 Mover" arba tiesiog ieškokite "office" ("office"), ir ji turėtų pateikti programos sąrašą. Norėdami sužinoti daugiau, žr. Office 365 Mover" sako, kad ji jau įdiegta, bet ji nėra nurodyta ["Enterprise Application" galerijoje](https://docs.microsoft.com/answers/questions/30186/office-365-mover-says-its-already-installed-but-it.html).
+8. "Quickstart": peržiūrėkite programų, kurios naudoja [jūsų ""Azure Active Directory"" ("Azure AD")](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) nuomotoją tapatybės valdymui, sąrašą, kuriame rodoma, kaip peržiūrėti taikomąsias programas, dar vadinamas programomis, kurios jau nustatytos naudoti "Azure AD" nuomotoją kaip tapatybės teikėją (IDP).
+9. [Dažnai pasitaikančių problemų įtraukiant arba šalinant](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) taikomąją programą "Azure Active Directory" padeda suprasti įprastas problemas, su kuriomis žmonės susiduria peržiūrėdami programas "Azure Active Directory".
