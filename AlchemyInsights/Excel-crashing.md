@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918475"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312767"
 ---
 # <a name="frequent-excel-crashes"></a>Dažnai Excel gedimai?
 
@@ -26,12 +26,11 @@ Dažnus gedimus Excel gali sukelti sugedęs papildinis. Galite išjungti papildi
 
 2. Lauke **Tvarkyti** pasirinkite **COM papildiniai**, tada spustelėkite **Eiti**.
 
-3. Lauke Add-Ins, išvalykite žymės langelį šalia norimo išjungti papildinių, tada spustelėkite **Gerai.**
+3. Lauke Add-Ins, išvalykite žymės langelį šalia papildinių, kuriuos norite išjungti, tada spustelėkite **Gerai.**
 
-> [!NOTE]
-> Jei Excel paleidimo metu, paleiskite jį Seifas režimu paspausdami ir laikydami "Ctrl", kol paleidžiate programą.
+**Pastaba:** Excel sugenda paleidimo metu, paleiskite ją Seifas režimu paspausdami ir laikydami "Ctrl", kol paleidžiate programą.
   
-Jei vis dar kyla problemų, žr. šiuos straipsnius:
+Jei vis tiek kyla problemų, žr. šiuos straipsnius:
   
 - [Gaunu klaidą "nustojo veikti", kai kompiuteryje Office 2016" arba "2013" programas](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Turinys nerodomas "SharePoint" ieškos rezultatuose
+title: Turinys nerodomas SharePoint rezultatuose
 ms.author: tlarsen
 author: tklarsen
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: a57711434d653f5d5667776916c9251bba2370e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca03c31def64e43935d734a17735b10373e5ca85b5f4ea0f0e886b9ea39884cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081618"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Turinys nerodomas "SharePoint" ieškos rezultatuose
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Turinys nerodomas SharePoint rezultatuose
 
-Vadovaukitės šiais trikčių diagnostikos veiksmais, kai numatomas turinys nerodomas ieškos rezultatuose:
+Atlikite šiuos trikčių šalinimo veiksmus, kai ieškos rezultatuose nerodomas numatomas turinys:
   
-1. Patikrinkite, ar **svetainė** , kurioje yra numatomas turinys, yra nustatyta leisti turiniui Rodyti ieškos rezultatuose. Atlikite veiksmus, aprašytus skyriuje [svetainės turinio rodymas ieškos rezultatuose](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Patikrinkite, ar **svetainė,** kurioje yra numatomas turinys, nustatyta leisti turinį rodyti ieškos rezultatuose. Atlikite [veiksmus, nurodytus Rodyti turinį svetainėje ieškos rezultatuose.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)
 
-2. Patikrinkite, ar **sąraše** ar **bibliotekoje** , kurioje yra numatomas turinys, nustatyta leisti turiniui Rodyti ieškos rezultatuose. Atlikite veiksmus, aprašytus skyriuje [turinio rodymas sąrašuose arba bibliotekose ieškos rezultatuose](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Patikrinkite, **ar sąraše arba** **bibliotekoje,** kurioje yra numatomas turinys, nustatyta leisti turinį rodyti ieškos rezultatuose. Atlikite veiksmus, [nurodytus Rodyti turinį iš sąrašų arba bibliotekų ieškos rezultatuose.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)
 
-3. Patikrinkite, ar puslapio, dokumento arba pasirinktinio puslapio maketas publikuojamas kaip **pagrindinė versija.** Atlikdami 3 veiksmą [ieška nepateikia visų "SharePoint Online" rezultatų](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Patikrinkite, ar puslapis, dokumentas arba pasirinktinis puslapio maketas publikuojamas kaip **pagrindinė versija.** Atlikite 3 [veiksmą ieška negrąžina visų rezultatų SharePoint internete.](https://go.microsoft.com/fwlink/?linkid=874525)
 
-4. Patikrinkite, ar vartotojas turi **teisę** peržiūrėti turinį. Atlikite veiksmus, pateiktus " [SharePoint" teisių lygių supratimas](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Patikrinkite, ar vartotojas **turi teises** peržiūrėti turinį. Atlikite veiksmus, nurodytus [straipsnyje Teisių lygių supratimas SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
     
-5. Jei ieškos schema buvo pakeista įtraukiant naują valdomą ypatybę, redaguojant valdomą ypatybę arba pašalinus valdomą ypatybę, reikia atlikti aptikimą ir perindeksuoti užklausą. Iš **naujo rodykite** turinį atlikdami veiksmus, pateiktus [rankiniu būdu, kad būtų nuskaitant ir iš naujo indeksuojamos svetainės, bibliotekos arba sąrašo](https://docs.microsoft.com/sharepoint/crawl-site-content). Tai gali šiek tiek užtrukti, palaukite 24 valandas prieš patikrindami rezultatus dar kartą.
+5. Jei ieškos schema buvo pakeista įtraukiant naują valdomą ypatybę, redaguojant valdomą ypatybę arba pašalinant valdomą ypatybę, reikės prašyti aptikimo ir indeksavimo iš naujo. **Iš naujo indeksuokite** turinį, atlikite veiksmus, nurodytus straipsnyje Svetainės, bibliotekos arba sąrašo aptikimas ir [pakartotinis indeksavimas rankiniu būdu.](https://docs.microsoft.com/sharepoint/crawl-site-content) Tai gali šiek tiek užtrukti, palaukite 24 valandas, kol vėl tikrinsite rezultatus.
 
-Daugiau informacijos ieškokite [turinio įgalinimas svetainėje, kad būtų galima ieškoti](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Daugiau informacijos [žr. Svetainės turinio įgalinmas ieškoti](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

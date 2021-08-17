@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109140"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Laiškų ieška archyvo pašto dėžutėje
+# <a name="search-for-email-in-the-archive-mailbox"></a>El. pašto ieška archyvo pašto dėžutėje
 
-Kai "Microsoft 365" įgalinta archyvo pašto dėžutė, galite naudoti " **e" aptikimo iešką ir eksportuoti** , kad surastumėte turinį, esantį pagrindinėje ir archyvo pašto dėžutėje. Informacijos, kaip naudoti " **Tdiscovery" ieškos eksportavimą** , kad jį surastumėte, [atlikite toliau nurodytus veiksmus.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
+Įgalinus archyvo pašto dėžutę Microsoft 365, galite naudoti **el.** duomenų aptikimo iešką ir eksportavimą, kad atrasite turinį ir pirminėje, ir archyvo pašto dėžutėje. Norėdami gauti informacijos apie **el. duomenų aptikimo ieškos** eksportavimą, kad rastumėte tą turinį, atlikite čia nurodytus [veiksmus.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Taip pat galite išsaugoti šį turinį įtraukdami pašto dėžutę į saugojimo strategiją. Taip bus patalpinti ir pirminė, ir archyvo pašto dėžutės turinys. Daugiau informacijos apie išsaugojimo strategijų kūrimą, kad būtų išlaikytas el. paštas, rasite [čia](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)nurodytus veiksmus.
+Taip pat galite išsaugoti tą turinį įtraukdami pašto dėžutę į saugojimo strategiją. Taip turinys bus sulaikytas ir pirminėje, ir archyvo pašto dėžutėje. Daugiau informacijos apie saugojimo strategijų sukūrimą el. paštui išsaugoti žr. čia aprašytus [veiksmus.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   

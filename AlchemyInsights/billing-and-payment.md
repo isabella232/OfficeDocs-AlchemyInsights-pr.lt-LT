@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893063"
 ---
 # <a name="billing-and-payment"></a>Atsiskaitymas ir mokėjimas
 
@@ -28,7 +28,7 @@ Jūsų sąskaitas galima rasti skirtuke  >  [Atsiskaitymų & mokėjimai.](https:
 
 **Gauti sąskaitas faktūras el. paštu**
 
-Puslapyje **Atsiskaitymo pranešimai** galite įjungti šią funkciją ir valdyti vartotojus, kurie gaus sąskaitą  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) faktūrą kaip el. laiško priedą.  Sąskaita faktūra bus išsiųsta vartotojų el. pašto adresais sąraše Pranešimų gavėjai. Sąraše yra visi atsiskaitymai ir visuotiniai administratoriai.  Galite valdyti, kas gauna sąskaitos faktūros pranešimus pakeisdami vaidmenį.  Pašalinus visuotinio arba atsiskaitymo administratoriaus vaidmenį, tas vartotojas bus iš gavėjų sąrašo, o įtraukus visuotinį arba atsiskaitymo administratoriaus vaidmenį, vartotojas bus įrašytas į gavėjų sąrašą.
+Puslapyje **Atsiskaitymo** pranešimai galite įjungti šią funkciją ir valdyti vartotojus, kurie gaus sąskaitą  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) faktūrą kaip el. laiško priedą.  Sąskaita faktūra bus išsiųsta vartotojų el. pašto adresais sąraše Pranešimų gavėjai. Sąraše yra visi atsiskaitymai ir visuotiniai administratoriai.  Galite valdyti, kas gauna sąskaitos faktūros pranešimus pakeisdami vaidmenį.  Pašalinus visuotinio arba atsiskaitymo administratoriaus vaidmenį, tas vartotojas bus iš gavėjų sąrašo, o įtraukus visuotinį arba atsiskaitymo administratoriaus vaidmenį, vartotojas bus įrašytas į gavėjų sąrašą.
 
 **Pastaba:** gausite du atskirus el. laiškus: vieną, kuris leidžia žinoti, kad sąskaita paruošta, su instrukcijomis, kaip prisijungti prie administravimo centro, kad jį būtų galima peržiūrėti, ir antrą el. laišką, kuriame kaip priedas yra atsiskaitymo ataskaita.
 
@@ -38,7 +38,7 @@ Jei mokate kredito kortele arba banko sąskaita, mokėjimo būdas, susietas su j
 
 Jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie atmetimą senoje kredito kortelėje, gali tekti susieti tą naują kortelę su prenumerata.
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymo**  >  **& mokėjimo**  >  [būdai.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Administravimo centre eikite į puslapį **Atsiskaitymo**  >  **& mokėjimo**  >  [metodai.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Pasirinkite mokėjimo būdo, kurį norite pakeisti, eilutę. Dešinioje srityje išvardyti visi atsiskaitymo profiliai ir atskiros prenumeratos, kurios naudoja pasirinktą mokėjimo būdą.
 
@@ -55,10 +55,10 @@ Jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie atmetimą se
 
 7. Naujas mokėjimo būdas jau pasirinktas išplečiamajame sąraše. Pasirinkite **Keisti**.
 
-Norėdami sužinoti daugiau, [žr. Mokėjimo metodų valdymas](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Norėdami sužinoti daugiau, [žr. Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Atsiskaitymo dažnumas**
 
-Sąskaitos generuojamos kas mėnesį arba kartą per metus, atsižvelgiant į atsiskaitymo dažnumą, pasirinktą kasos metu.  
+Sąskaitos generuojamos kas mėnesį arba kasmet, atsižvelgiant į atsiskaitymo dažnumą, pasirinktą kasos metu.  
 
-**Pastaba:** užsakymai su metiniu atsiskaitymu gali gauti sąskaitą laikotarpio viduryje, jei buvo atlikti pakeitimai, pvz., įtraukti arba pašalinti licencijas. [Pakeiskite atsiskaitymo dažnumą](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Pastaba:** užsakymai su metiniu atsiskaitymu gali gauti sąskaitą laikotarpio viduryje, jei buvo atlikti pakeitimai, pvz., įtraukti arba pašalinti licencijas. [Pakeiskite atsiskaitymo dažnumą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

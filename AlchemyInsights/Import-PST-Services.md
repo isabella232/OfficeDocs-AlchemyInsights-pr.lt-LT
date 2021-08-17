@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891763"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312731"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Importavimo tarnyba
 
@@ -31,11 +31,11 @@ Norėdami pasiekti importavimo tarnybą ir pradėti importavimo procesą:
 
 1. Puslapyje **Importuoti** pasirinkite Nauja **importavimo užduotis**. Įveskite užduoties pavadinimą ir pasirinkite **Pirmyn**.
 
-1. Pasirinkite **Upload duomenis, kad** būtų naudojama importavimo užduoties tipo **parinktis Tinklo nusiuntimas.** Išsamius veiksmus [žr. Tinklo nusiuntimo](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)naudojimas organizacijos PST failams importuoti į Microsoft 365 .
+1. Pasirinkite **Upload duomenis, kad** būtų naudojama parinktis Tinklo nusiuntimas, naudojant parinktį Importuoti **užduoties tipą.** Išsamius veiksmus [žr. Tinklo nusiuntimo naudojimas](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)organizacijos PST failams importuoti į Microsoft 365 .
 
 Norėdami pasiekti **puslapį** Importuoti, įsitikinkite, kad jums priskirtos atitinkamos teisės. Daugiau informacijos žr. [Tinklo nusiuntimo naudojimas PST failams importuoti.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Jei norite importuoti PST į pašto dėžutę, žr. [El. pašto, kontaktų](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)ir kalendoriaus importavimas iš Outlook .pst failo .
+Jei norite importuoti PST į pašto dėžutę, žr. [El. pašto,](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)kontaktų ir kalendoriaus importavimas iš Outlook .pst failo .
 
 Jei kyla problemų dėl importavimo, žr. Problemos, [kurios turi įtakos PST importavimo uždams](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 

@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" atkūrimas"
+title: Atkurti "OneDrive"
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109356"
 ---
-# <a name="restore-your-onedrive"></a>"OneDrive" atkūrimas
+# <a name="restore-your-onedrive"></a>Atkurti "OneDrive"
 
-Jei jūsų "OneDrive" failai bus panaikinti, perrašyti, sugadinti ar užkrėsti kenkėjiška programa, galite atkurti visą "OneDrive" iki ankstesnio 30 pastarųjų dienų.
+Jei daug jūsų "OneDrive" failų bus panaikinti, perrašyti, sugadinti arba užkrėsti kenkėjiškomis programomis, galite atkurti visą "OneDrive" 30 dienų.
   
-1. Eikite į savo "OneDrive" žiniatinklio naršyklėje.
+1. Eikite į "OneDrive" žiniatinklio naršyklėje.
     
-2. Spustelėkite piktogramą parametrai, esančią viršuje dešinėje, tada pasirinkite **atkurti savo "OneDrive"**.
+2. Spustelėkite Parametrai piktogramą viršutiniame dešiniajame kampe, tada pasirinkite **Atkurti "OneDrive"**.
     
-3. Sąraše pasirinkite datą arba pasirinkite **pasirinktinė data ir laikas**.
+3. Pasirinkite datą iš sąrašo arba pasirinkite **Pasirinktinė data ir laikas**.
     
-4. Spustelėkite **atkurti** , kad anuliuotumėte visas veiklas po pasirinktos datos. 
+4. Spustelėkite **Atkurti,** jei norite anuliuoti visas veiklas po pažymėtos datos. 
     
 [Daugiau pagalbos naudojant failų atkūrimą](https://go.microsoft.com/fwlink/?linkid=872874)
   
