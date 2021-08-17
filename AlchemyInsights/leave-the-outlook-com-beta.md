@@ -1,5 +1,5 @@
 ---
-title: "\"8000035\" palikite Outlook.com beta versiją"
+title: 8000035 palikite "Outlook.com" beta versiją
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042854"
 ---
-# <a name="the-new-outlookcom"></a>Naujoji Outlook.com
+# <a name="the-new-outlookcom"></a>Naujasis Outlook.com
 
-Nebeįmanoma palikti "Outlook.com" beta versijos ir grįžti prie klasikinės "Outlook.com" versijos.
+Nebegalima palikti "Outlook.com" beta versijos ir grįžti į klasikinę "Outlook.com" versiją.
   
-Jei norite pateikti atsiliepimų apie naująją "Outlook.com", eikite į " [UserVoice" forumą](https://go.microsoft.com/fwlink/p/?linkid=851599). Galite balsuoti dėl idėjų ar problemų, kurias norėtumėte matyti, ir mes tiesiogiai atsakysime į svarbiausius komentarus ir pasiūlymus.
+Jei norite pateikti atsiliepimą apie naują "Outlook.com", eikite į ["UserVoice" forumą](https://go.microsoft.com/fwlink/p/?linkid=851599). Galite balsuoti už idėjas ar problemas, kurias norėtumėte matyti, ir mes tiesiogiai atsakysime į populiariausius komentarus ir pasiūlymus.
   
-[Sužinokite daugiau apie naująją "Outlook.com".](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Sužinokite daugiau apie naująją Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

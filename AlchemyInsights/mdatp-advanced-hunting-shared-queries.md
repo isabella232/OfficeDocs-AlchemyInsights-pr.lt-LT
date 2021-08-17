@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp Išplėstinė medžioklė bendrinamų užklausų
+title: 9001220 mdatp išplėstinės medžioklės bendrinamos užklausos
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042134"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Išplėstinės medžioklės užklausų bendras sujungimas
+# <a name="sharing-advanced-hunting-queries"></a>Išplėstinių medžioklės užklausų bendrinimas
 
-Išplėstinės medžioklės užklausos gali būti bendrinamos tarp tos pačios organizacijos vartotojų. Taip pat galite surasti užklausas, kurios bendrinamos viešai "GitHub". Šios užklausos leidžia greitai vykdyti konkrečius grėsmių medžioklės scenarijus ir nereikės kurti "Scratch" užklausų.
+Išplėstinės medžioklės užklausos gali būti bendrinamos tarp vartotojų toje pačioje organizacijoje. Taip pat viešai bendrinamas užklausas galite rasti GitHub. Šios užklausos leidžia greitai vykdyti konkrečius grėsmių medžiojimo scenarijus nerašant užklausų nuo pradžių.
   
-Išsamesnės informacijos ieškokite straipsnyje [bendrinamų užklausų naudojimas išplėstinėje medžioklėje](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Daugiau informacijos žr. [Bendrinamų užklausų naudojimas išplėstinėje medžioklę](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).

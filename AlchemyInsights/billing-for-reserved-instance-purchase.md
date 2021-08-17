@@ -1,5 +1,5 @@
 ---
-title: Atsiskaitymas už rezervuotąjį egzempliorių pirkimą
+title: Atsiskaitymas už įsigytą rezervuotąjį egzempliorių
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,49 +12,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104028"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Atsiskaitymas už rezervuotąjį egzempliorių pirkimą
+# <a name="billing-for-reserved-instance-purchase"></a>Atsiskaitymas už įsigytą rezervuotąjį egzempliorių
 
-Rezervuotųjų egzempliorių įsigijimas apmokestinamas mokėjimo metodu, susietomis su prenumerata, kurią pasirenkate pirkimo metu. Prenumeratos tipas turi būti įmonės sutartis (pasiūlymo numeris: MS-AZR-0017P), "Pay-As-You-Go" (pasiūlymo numeris: MS-AZR-0003P), "Microsoft" klientų sutartis arba CSP.
+Rezervuotojo egzemplioriaus įsigijimas yra apmokestinamas pagal mokėjimo būdą, susietą su prenumerata, kurią pasirenkate įsigijimo metu. Prenumeratos tipas turi būti įmonės sutartis (pasiūlymo numeris: MS-AZR-0017P), einamasis mokėjimas („Pay-As-You-Go“) (pasiūlymo numeris: MS-AZR-0003P), „Microsoft“ kliento sutartis arba „Microsoft“ debesies sprendimų teikėjas.
 
-- Už įmonės prenumeratą mokesčiai atimami iš registracijos piniginio įsipareigojimo likučio arba apmokestinami kaip perpildai
-- Už "Pay-As-You-Go" prenumeratą mokesčiai išrašomi iš kredito kortelės arba sąskaitos faktūros mokėjimo būdo prenumeratoje
+- Įmonių prenumeratai mokesčiai yra išskaičiuojami pagal užregistruoto piniginio įsipareigojimo balansą arba apmokestinama kaip už viršijimą
+- Jei naudojate einamojo mokėjimo („Pay-As-You-Go) prenumeratą, mokestis nurašomas nuo kredito kortelei arba prenumeratos atveju mokama pagal pateikiamą sąskaitą faktūrą
 
 **Rezervavimo atšaukimas**
 
 - **Savitarnos paslauga:** Rezervuotąjį egzempliorių galite atšaukti arba pakeisti patys naudodami ["Azure" portalą.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Pasirinkite rezervavimą ir spustelėkite grąžinti arba keisti. Atkreipkite dėmesį, kad turite turėti savininko prieigą rezervavimo užsakyme, kad galėtumėte pakeisti arba grąžinti pinigus. Prieiga prie tik rezervavimo neleis jums grąžinti pinigų arba pakeisti. Paprašykite rezervavimo užsakymo savininko suteikti jums savininko prieigą prie rezervavimo užsakymo
-- **"Exchange" strategija:** Galite pakeisti kito to paties tipo rezervavimo rezervavimą – už **rezervavimo mainus nėra** jokių baudos. Bendras įsipareigojimas su nauja rezervacija turėtų būti didesnis už valiutos keitimo rezervavimo grąžinimo sumą ir būsimus mėnesinius mokėjimus (jei taikoma)
+- **Exchange strategija:** Galite pakeisti kito to paties tipo rezervavimo rezervavimą – už **rezervavimo mainus nėra** jokių baudos. Bendras įsipareigojimas su nauja rezervacija turėtų būti didesnis už valiutos keitimo rezervavimo grąžinimo sumą ir būsimus mėnesinius mokėjimus (jei taikoma)
 - **Grąžinimo strategija:** Pinigų grąžinimo ir atšauktų būsimų mokėjimų suma negali viršyti 50 000 JAV dolerių 12 mėnesių einamojo laikotarpio lange. Šiuo metu **neįeisime jokių baudos už pinigų** grąžinimą, bet galėtume ją apmokestinti už būsimas grąžinamąsias išmokas
 
-**Išimtys:** "Us Government Enterprise Agreement" klientams negalimas apsikeitimas savitarnos paslaugomis ir atšaukimo galimybės
+**Išimtys:** Savitarnos keitimo ir atšaukimo galimybės jav vyriausybės klientams Korporatyvinė sutartis galimybės
 
 - **API / PS / CLI** palaikymas negalimas atšaukimo ir pinigų grąžinimo savitarnos mainams ir [pinigų grąžinimui už "Azure Reservations"](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- "Us Government Enterprise Agreement" klientams negalimas apsikeitimas savitarnos paslaugomis ir atšaukimo galimybė. Palaikomi kiti JAV vyriausybės prenumeratos tipai, įskaitant "Pay-As-You-Go" ir CSP
+- Savitarnos keitimo ir atšaukimo galimybės jav vyriausybės klientams Korporatyvinė sutartis. Palaikomi kiti JAV vyriausybės prenumeratos tipai, įskaitant "Pay-As-You-Go" ir CSP
 
-Sužinokite daugiau : [Kaip apdorojamos grąžinimo ir keitimo](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) operacijos Sužinokite daugiau: ["Exchange" ir pinigų grąžinimo strategijos](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Kiti klausimai: apsilankykite [rezervuotųjų egzempliorių keiti](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Sužinokite daugiau : [Kaip apdorojamos grąžinimo ir](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) keitimo operacijos Sužinokite daugiau : Exchange ir pinigų grąžinimo [strategijos](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Kiti klausimai: [apsilankykite rezervuotųjų egzempliorių keiti](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange an existing reserved instance (Self-service)**
+**Exchange rezervuotąjį egzempliorių (savitarnos paslauga)**
 
-Galite pakeisti kito to paties tipo rezervavimo rezervavimą. Be to, jei jums jo nebereikia, galite grąžinti iki 50 000 JAV dolerių per metus. "Us Government Enterprise Agreement" klientams negalimas apsikeitimas savitarnos paslaugomis ir atšaukimo galimybė. Palaikomi kiti JAV vyriausybės prenumeratos tipai, įskaitant "Pay-As-You-Go" ir CSP. Turite turėti savininko prieigą rezervavimo užsakyme, kad galėtumėte pakeisti esamą rezervavimą arba jį grąžinti.
+Galite pakeisti kito to paties tipo rezervavimo rezervavimą. Be to, jei jums jo nebereikia, galite grąžinti iki 50 000 JAV dolerių per metus. Savitarnos keitimo ir atšaukimo galimybės jav vyriausybės klientams Korporatyvinė sutartis. Palaikomi kiti JAV vyriausybės prenumeratos tipai, įskaitant "Pay-As-You-Go" ir CSP. Turite turėti savininko prieigą rezervavimo užsakyme, kad galėtumėte pakeisti esamą rezervavimą arba jį grąžinti.
 
 Toliau nurodyti veiksmai padės atlikti operaciją
 
-1.Prisijunkite prie ["Azure" portalo](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pasirinkite rezervavimus, kuriuos norite grąžinti, ir spustelėkite **"Exchange** 2". Pasirinkite VM produktą, kurį norite įsigyti, ir įveskite kiekį. Įsitikinkite, kad nauja pirkimo suma yra didesnė už grąžinamą sumą [Nustatykite tinkamą dydį prieš pirkdami](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
+1.Prisijunkite prie ["Azure" portalo](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pasirinkite rezervavimus, kuriuos norite grąžinti, **ir spustelėkite Exchange** 2.Pasirinkite VM produktą, kurį norite įsigyti, ir įveskite kiekį. Įsitikinkite, kad nauja pirkimo suma yra didesnė už grąžinamą sumą [Nustatykite tinkamą dydį prieš pirkdami](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
 3.Peržiūrėkite ir užbaikite operaciją
 
 **Rezervuotųjų egzempliorių grąžinimas**
 
 Norėdami grąžinti rezervaciją, eikite į **Išsami rezervavimo informacija** ir spustelėkite **Grąžinti**
 
-**Pro-rated refund:**
+**Pro įvertinimas:**
 
-**Grąžinimo ir keitimo reikalavimo** pavyzdžiai ir minimalūs reikalavimai Išankstinio rezervavimo pavyzdys:
+**Pro ration and minimum requirement examples for refund and exchange** Išankstinio rezervavimo pavyzdys:
 
 - Sausio 1 d. įsigyjate vienų metų trukmės RI už 120 EUR
 - Balandžio 7 d. norite grąžinti pinigus arba pakeisti šį rezervavimą
@@ -111,5 +111,5 @@ Kiti klausimai: [aplankykite rezervuotųjų egzempliorių dokumentus](https://do
 - [Supraskite, kaip taikoma rezervuotųjų egzempliorių nuolaida](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - ["Pay-As-You-Go" prenumeratos rezervuotųjų egzempliorių naudojimo supratimas](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - ["Enterprise" registracijos rezervuotųjų egzempliorių naudojimo supratimas](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- ["Windows" programinės įrangos išlaidos, neįtrauktos į rezervuotųjų egzempliorių](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Rezervuotieji egzemplioriai partnerių centrinio debesies sprendimų teikėjo (CSP) programoje](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows programinės įrangos išlaidos, neįtrauktos į rezervuotųjų egzempliorių](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Rezervuotieji egzemplioriai partnerių centrinio Debesies sprendimų teikėjas (CSP) programoje](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
