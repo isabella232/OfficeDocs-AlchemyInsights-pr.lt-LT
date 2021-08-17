@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893063"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314924"
 ---
 # <a name="billing-and-payment"></a>Atsiskaitymas ir mokėjimas
 
@@ -38,7 +38,7 @@ Jei mokate kredito kortele arba banko sąskaita, mokėjimo būdas, susietas su j
 
 Jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie atmetimą senoje kredito kortelėje, gali tekti susieti tą naują kortelę su prenumerata.
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymo**  >  **& mokėjimo**  >  [metodai.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Administravimo centre eikite į puslapį **Atsiskaitymo**  >  **& mokėjimo**  >  [būdai.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Pasirinkite mokėjimo būdo, kurį norite pakeisti, eilutę. Dešinioje srityje išvardyti visi atsiskaitymo profiliai ir atskiros prenumeratos, kurios naudoja pasirinktą mokėjimo būdą.
 
@@ -46,8 +46,7 @@ Jei įtraukėte naują kortelę ir vis dar gaunate pranešimą apie atmetimą se
 
 4. Norėdami naudoti esamą mokėjimo būdą, pasirinkite vieną iš išplečiamojo sąrašo, tada pasirinkite **Keisti**.
 
-    > [!NOTE]
-    > Jei turite prenumeratų, susietų su atsiskaitymo profiliu, už jas mokėti galite tik kredito arba debeto kortele. Jei puslapyje Mokėjimo būdai yra **banko** sąskaitų, jų negalima pasirinkti išplečiamajame sąraše.
+    **Pastaba:** jei turite prenumeratų, susietų su atsiskaitymo profiliu, už jas mokėti galite tik kredito arba debeto kortele. Jei puslapyje Mokėjimo būdai yra **banko** sąskaitų, jų negalima pasirinkti išplečiamajame sąraše.
 
 5. Norėdami įtraukti naują mokėjimo būdą, pasirinkite **Įtraukti mokėjimo būdą**.
 

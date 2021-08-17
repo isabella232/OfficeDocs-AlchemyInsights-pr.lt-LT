@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930033"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896119"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Siuntėjo adreso / domenų sąrašo taisyklių taisymas
 
-Jūsų nuomotojo apsaugos nuo pašto šiukšlių strategija paveikė šį pranešimą. Laiško siuntėjas rastas sąraše Leisti arba Blokuoti. Norėdami peržiūrėti strategiją, atlikite šiuos veiksmus:
+Vienas iš jūsų apsaugos nuo pašto šiukšlių strategijų paveikė šį pranešimą. Laiško siuntėjas rastas sąraše Leisti arba Blokuoti. Norėdami peržiūrėti strategijas, atlikite šiuos veiksmus:
 
-1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143), tada eikite į **Grėsmių valdymo strategija** Apsauga  >  **nuo** pašto  >  [šiukšlių](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Jei **įjungtas** standartinis parametrų **skirtukas** Standartinis, pažymėkite sąrašus **Leisti sąrašus ir** **Blokuoti**.
-3. Skirtuke **Pasirinktinis,** jei įgalinti **pasirinktiniai** parametrai, peržiūrėkite strategijas pasirinkdami **Redaguoti** strategiją ir pažymėdami **Leisti sąrašus ir** Blokuoti **sąrašus.**
+1. ""Microsoft 365" sargyba" portale eikite į El. & bendradarbiavimo <https://security.microsoft.com/> strategijos &  \> **Taisyklės** \> **Grėsmių** \>   strategijos Apsauga nuo pašto šiukšlių skyriuje Strategijos.
 
-Daugiau informacijos apie pašto šiukšlių filtro strategijų konfigūravimą žr. [Pašto šiukšlių filtro strategijų konfigūravimas.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Norėdami pereiti tiesiai į apsaugos **nuo pašto šiukšlių strategijų** puslapį, naudokite <https://security.microsoft.com/antispam> .
+
+2. Puslapyje **Apsaugos nuo pašto** šiukšlių strategijos pasirinkite strategiją spustelėdami strategijos pavadinimą (**Tipas** yra Pasirinktinis **apsaugos nuo** pašto šiukšlių strategija arba **Pavadinimas** yra **"Anti-Spam" gavimo strategija (numatytoji)**).
+3. Rodomame išsamios informacijos iškeliamame meniu pasirinkite **Redaguoti** leidžiamų ir blokuojamų siuntėjų ir domenų dalyje Leidžiami ir **blokuojami siuntėjai ir domenai.**
+4. Sekcijoje **Leidžiama** peržiūrėkite siuntėjus ir domenus spustelėdami Tvarkyti **siuntėjus \<nn\> arba** **Leisti domenus.**
+
+Daugiau informacijos žr. [Apsaugos nuo pašto šiukšlių strategijų konfigūravimas EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

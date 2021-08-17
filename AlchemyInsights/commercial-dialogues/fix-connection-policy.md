@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314852"
 ---
 # <a name="fix-connection-policy"></a>Ryšio strategijos taisymas
 
@@ -33,7 +33,6 @@ El. laiškas buvo pažymėtas saugus ir pristatytas į vartotojo aplanką Gauta,
 
 4. Peržiūrėkite įrašus **sekcijoje Visada leisti pranešimus** iš šių IP adresų arba adresų diapazono ir sužinokite, **ar pasirinkta Įjungti saugų** sąrašą.
 
-   > [!NOTE]
-   > "Microsoft" prenumeruoja trečiųjų šalių patikimų siuntėjų šaltinius. Jei įgalintas saugus sąrašas, šie patikimi siuntėjai klaidingai nepažymimi kaip pašto šiukšlės. Rekomenduojame pasirinkti šią parinktį, nes ji sumažins gautų klaidingai teigiamų laiškų (gerų laiškų, kurie klasifikuojami kaip pašto šiukšlės) skaičių.
+   **Pastaba:**"Microsoft" prenumeruoja trečiųjų šalių patikimų siuntėjų šaltinius. Jei įgalintas saugus sąrašas, šie patikimi siuntėjai klaidingai nepažymimi kaip pašto šiukšlės. Rekomenduojame pasirinkti šią parinktį, nes ji sumažins gautų klaidingai teigiamų laiškų (gerų laiškų, kurie klasifikuojami kaip pašto šiukšlės) skaičių.
 
 Daugiau informacijos žr. [Ryšio filtravimo konfigūravimas](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).

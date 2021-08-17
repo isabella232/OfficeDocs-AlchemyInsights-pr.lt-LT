@@ -1,5 +1,5 @@
 ---
-title: Išvalyti aplanką Panaikinta "Outlook.com"
+title: Aplanko Panaikinti elementai ištuštinti Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111804"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Ištuštinti aplanką Panaikinta
+# <a name="empty-the-deleted-items-folder"></a>Aplanko Panaikinti elementai ištuštinti
 
-1. Atidarykite aplanką Panaikinta ir pasirinkite **tuščias aplankas**.
-2. Pasirinkite **Atkuriami elementai** puslapio viršuje ir dar kartą pasirinkite **ištuštinti aplanką** .
+1. Atidarykite aplanką Panaikinti elementai ir pasirinkite **Ištuštinti aplanką**.
+2. Puslapio **viršuje pasirinkite** Atkuriami elementai ir dar kartą pasirinkite **Ištuštinti** aplanką.
 
-**Nepavyksta ištuštinti aplanko panaikinta**
+**Aplanko Panaikinti elementai ištuštinti negalima**
 
-- Jei panaikinote daug laiškų, gali šiek tiek užtrukti, kol šie elementai bus perkelti į aplanką Panaikinta arba bus pašalinti iš jo. Palikite naršyklės langą atidarytą, kol vyksta naikinimas.
-- Jei vis tiek nepavyksta tinkamai panaikinti el. laiško, pasirinkite mažesnį paketą, kurį norite panaikinti.
-- Jei pašalintas laiškas grįžta, gali būti, kad neseniai panaikinote daug laiškų. Bandykite dar kartą vėliau.
+- Jei panaikinsite daug el. laiškų, gali šiek tiek užtrukti, kad šie elementai būtų perkelti į aplanką Panaikinti elementai arba bus panaikinti iš jo. Kol bus naikinamas, palikite naršyklės langą atidarytą.
+- Jei el. laiško vis tiek nepavyksta panaikinti tinkamai, pasirinkite mažesnį paketą, kurį norite panaikinti.
+- Jei panaikinti el. laiškai vėl bus grąžinti, taip gali būti todėl, kad neseniai panaikinsite daug el. laiškų. Bandykite dar kartą vėliau.

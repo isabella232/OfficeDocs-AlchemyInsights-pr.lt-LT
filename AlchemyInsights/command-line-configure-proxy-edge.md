@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: d4a8ad11054e16f0b8c7c85995d4fc6b1500ff7e0fb28f9fc495b7cff07dbb2e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea38a6d4a093c3908b8987988746c2f49f052df320ca0a327446435389a90ce9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995558"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896199"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Komandų eilutės parinkčių naudojimas tarpinio serverio parametrams konfigūruoti Microsoft Edge
 
@@ -26,7 +26,7 @@ ms.locfileid: "53995558"
 
 Daugiau informacijos žr.:
 
-- [Sistemos tinklo parametrai](/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
-- [Tarpinio serverio parametrų komandų eilutės parinktys](/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
+- [Sistemos tinklo parametrai](https://docs.microsoft.com/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
+- [Tarpinio serverio parametrų komandų eilutės parinktys](https://docs.microsoft.com/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
 - [Išplėstiniai konfigūracijos parametrai ir kitos parinktys](https://go.microsoft.com/fwlink/?linkid=2134293)
-- [Chrome SameSite cookie behavior](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Chrome SameSite cookie behavior](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)

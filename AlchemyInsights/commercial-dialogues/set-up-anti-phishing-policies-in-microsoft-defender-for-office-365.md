@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313435"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895091"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>"Microsoft" sargybos apsaugos nuo sukčiavimo apsimetant strategijų Office 365
 
-1. ""Microsoft 365" sargyba" portale <https://security.microsoft.com/> eikite į **El. &** \> **bendradarbiavimo strategijos & Taisyklės** Grėsmių strategijos apsauga nuo sukčiavimo \>  \>  apsimetant **skyriuje** Strategijos.
+1. ""Microsoft 365" sargyba" portale eikite į <https://security.microsoft.com/> **El. &** \> **bendradarbiavimo strategijos & Taisyklės** Grėsmių strategijos apsauga nuo sukčiavimo \>  \>  apsimetant **dalyje** Strategijos.
 
    Norėdami pereiti tiesiai į puslapį **Apsauga nuo sukčiavimo** apsimetant, naudokite <https://security.microsoft.com/antiphishing> .
 
@@ -31,4 +31,4 @@ ms.locfileid: "58313435"
 
 3. Peržiūrę parametrus pasirinkite Pateikti **(naujas)** arba **Įrašyti** (redaguoti).
 
-Daugiau informacijos ieškokite ["Microsoft" sargybos apsaugos](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)nuo sukčiavimo apsimetant strategijų konfigūravimas Office 365 .
+Daugiau informacijos ieškokite ["Microsoft" sargybos apsaugos nuo sukčiavimo apsimetant strategijų konfigūravimas Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)

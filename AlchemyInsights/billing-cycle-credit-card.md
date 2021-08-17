@@ -16,17 +16,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: b95eb4eb201777852bab3ff5347ace99d544307a1859c1044c150ee368bd9400
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7a8433fee737a3b666ba4701daa573a2423870fbbc5bae9d60ca7e5df226b843
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499628"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895387"
 ---
 # <a name="payment-methods-for-microsoft-for-business"></a>"Microsoft" verslui mokėjimo būdai
 
 Įsigę verslo Microsoft 365 tiesiogiai iš "Microsoft", galite mokėti kredito arba debeto kortele. Kai kuriose šalyse ar regionuose taip pat galite mokėti naudodami banko sąskaitą.
   
-Jei kaip mokėjimo būdą pasirinksite naudoti kredito kortelę, galite sužinoti, kaip valdyti ir šalinti triktis iš [Mokėjimo būdų valdymas](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Jei kaip mokėjimo būdą pasirinksite naudoti kredito kortelę, galite sužinoti, kaip valdyti ir šalinti triktis iš [Mokėjimo būdų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
   
 Šiame straipsnyje taip pat pateikiami kredito kortelės atmetimo trikčių šalinimo pasiūlymai ir informacija apie kredito kortelės informacijos keitimas, kad kortelė būtų priimta.
