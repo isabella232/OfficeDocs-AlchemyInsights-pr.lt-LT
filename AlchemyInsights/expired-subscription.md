@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895895"
 ---
 # <a name="expired-subscription"></a>Pasibaigęs prenumeratos galiojimas
 
@@ -35,7 +35,7 @@ Atrodo, kad turite vieną ar daugiau prenumeratų, kurių galiojimas baigėsi. J
 3. Srityje **Iš naujo suaktyvinti šią** prenumeratą išplečiamajame sąraše pasirinkite mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.
 4. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Naujo įsigijimo įsigijimas**
   
@@ -44,4 +44,4 @@ Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](/microsof
 3. Įveskite, kiek licencijų jums reikia, ir pasirinkite, ar mokėti kiekvieną mėnesį, ar už visus metus. Pasirinkite, ar norite automatiškai priskirti licencijas visiems, kurie šiuo metu neturi licencijos. Tada pasirinkite **Tikrinti dabar**.
 4. Atlikite likusius veiksmus, kad užbaigtų užregistrą.
 
-Norėdami sužinoti daugiau, [žr. Kitos prenumeratos įsigykite](/microsoft-365/commerce/buy-another-subscription).
+Norėdami sužinoti daugiau, [žr. Kitos prenumeratos įsigykite](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

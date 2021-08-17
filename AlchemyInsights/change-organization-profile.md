@@ -15,17 +15,17 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 08a19a57c5366a1e45a5dc24d3572dce0e9ec51694f4671bd0881218f5cd4b89
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499700"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890214"
 ---
 # <a name="change-organization-profile"></a>Organizacijos profilio keitimas
 
-Pakeiskite savo įmonės pavadinimą, adresą, techninę kontaktinę informaciją ir kt. administravimo centre, Parametrai  >  **Organizacijos Parametrai** organizacijos  >  [profilio skirtuke.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+Pakeiskite savo įmonės pavadinimą, adresą, techninę kontaktinę informaciją ir kt. administravimo centre, **Parametrai**  >  **Organizacijos Parametrai** organizacijos  >  [profilio skirtuke.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
 Būtinai užpildykite visus reikiamus laukus, pažymėtus *, kad įgalintumėte keitimų įrašymą.
 
-[Daugiau informacijos apie adreso arba atsiskaitymo adreso pakeitimus žr.](/microsoft-365/admin/manage/change-address-contact-and-more)
+[Daugiau informacijos apie adreso arba atsiskaitymo adreso pakeitimus žr.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

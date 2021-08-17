@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045140"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311407"
 ---
 # <a name="view-all-quarantined-messages"></a>Visų sulaikytų pranešimų peržiūra
 
-1. Administravimo centre eikite į saugos [ir & centrą.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Eikite į **Grėsmių valdymo**  >  **peržiūros**  >  **karantinas**.
+1. ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į El. **pašto & Bendradarbiavimo peržiūros** \>  \> **sulaikytas**.
+
+   Norėdami pereiti tiesiai į sulaikymo **puslapį,** naudokite <https://security.microsoft.com/quarantine> .
+
+2. Puslapyje **Sulaikyti** patikrinkite, ar pasirinktas **el.** pašto skirtukas.
 3. Pagal numatytuosius nustatymus pranešimai rūšiuojami nuo naujausio iki seniausio pagal pranešimo gavimo datą. Galite rikiuoti lauką spustelėdami antraštę.
 4. Masiškai operacijas galite atlikti tik su ne daugiau kaip 100 elementų, todėl filtravimas taip pat gali padėti sumažinti rezultatų rinkinį, jei turite daugiau nei 100 elementų.
+
+Daugiau informacijos žiūrėkite šiuose straipsniuose:
+
+- [Sulaikytų pranešimų radimas ir išleidimas kaip vartotojo](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Sulaikytų laiškų ir failų valdymas administratoriaus teisėmis](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

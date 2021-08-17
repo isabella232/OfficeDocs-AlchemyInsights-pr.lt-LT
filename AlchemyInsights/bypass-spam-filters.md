@@ -1,5 +1,5 @@
 ---
-title: 2637 aplinkkelio pašto šiukšlių filtravimas, leidžiantis konkrečius laiškus?
+title: 2637 Apeina pašto šiukšlių filtravimą, kad būtų galima naudoti konkrečius pranešimus?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059568"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Apeiti pašto šiukšlių filtravimą, norint leisti konkrečius laiškus?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Apeina pašto šiukšlių filtravimą, kad būtų galima naudoti konkrečius pranešimus?
 
-Rekomenduojame būti [atsargiems](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) , kai sukuriate leidžiamųjų sąrašą. Pvz., jei leisite savo domenui, kenkėjiški siuntėjai galės gauti klaidingą ir išsiųsti kaip jūsų domeną.  Vietoj to rekomenduojame atlikti šį [klaidingą pozityvų trikčių diagnostikos vadovą](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), kuris padės jums nustatyti, kodėl teisėtas pranešimas buvo pažymėtas kaip šlamštas, ir ką galite padaryti, kad galėtumėte saugiai leisti pranešimą.
+Rekomenduojame [būti atsargiems,](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) kai kuriate leidžiamų elementų sąrašą. Pvz., jei leisite savo domeną, kenkėjiški siuntėjai galės išsekimo ir siuntimo kaip domeno.  Vietoj to rekomenduojame šį [klaidingų teigiamų](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)trikčių diagnostikos vadovą , kuris padės nustatyti, kodėl teisėtas pranešimas buvo pažymėtas kaip pašto šiukšlė ir ką galite daryti, kad saugiai būtų galima pristatyti laišką.

@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310939"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895715"
 ---
 # <a name="payment-faq"></a>Mokėjimo DUK
 
 Valdykite mokėjimus **"Microsoft 365" administravimo centras**.
 
-- Eikite **į Atsiskaitymas > [produktų, kad](https://go.microsoft.com/fwlink/p/?linkid=842054)** priskirsite arba pakeistų prenumeratos mokėjimo būdus.
+- Eikite **į Atsiskaitymo > Produktų [priskyrimas](https://go.microsoft.com/fwlink/p/?linkid=842054)** arba prenumeratos mokėjimo metodų keitimas.
 - Eikite **į > [mokėjimo būdai,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** kad įtrauksite, atnaujinsite, pakeisite arba panaikinsite mokėjimo būdus.
 
 - **Mokėjimo būdai** – jei mokate kredito kortele arba pagal banko sąskaitą, mokėjimo būdas, susietas su jūsų prenumerata (-omis), bus naudojamas nuskaičiuoti mokesčiui per kelias dienas po to, kai sukuriama sąskaita. Jei mokėjimas nepavyks, atnaujinkite mokėjimo būdą. Daugiau informacijos žr. [Mokėjimo būdų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296059"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895987"
 ---
 # <a name="release-quarantined-messages"></a>Sulaikytų pranešimų leidimas
 
@@ -28,8 +28,8 @@ Galite paleisti sulaikytą laišką (arba pranešimų rinkinį) visiems gavėjam
    Norėdami pereiti tiesiai į sulaikymo **puslapį,** naudokite <https://security.microsoft.com/quarantine> .
 
 2. Puslapyje **Sulaikyti** patikrinkite, ar pasirinktas **el.** pašto skirtukas, tada atlikite vieną iš šių veiksmų:
-   - **Vienas pranešimas**: pasirinkite pranešimą. Rodomame išsamios informacijos iškeliame meniu pasirinkite **Leidimo el.** paštas , sukonfigūruokite norimas parinktis, tada **spustelėkite Paleisti pranešimą**.
-   - **Keli pranešimai:** pasirinkite iki 100 laiškų, kad pranešimas būtų rodomas visiems gavėjams (negalite nurodyti atskirų pradinių gavėjų). Rodomame **išplečiamajame** sąraše Masiniai veiksmai pasirinkite **Paleisti** pranešimus , sukonfigūruokite norimas parinktis, tada **spustelėkite Paleisti pranešimą**.
+   - **Vienas pranešimas**: pasirinkite pranešimą. Rodomame išsamios informacijos iškeliame meniu pasirinkite **Paleisti el.** laišką , sukonfigūruokite norimas parinktis, tada spustelėkite **Paleisti pranešimą**.
+   - **Keli pranešimai:** pasirinkite iki 100 laiškų, kad pranešimas būtų rodomas visiems gavėjams (negalite nurodyti atskirų pradinių gavėjų). Rodomame **išplečiamajame** sąraše Masiniai veiksmai pasirinkite **Leidimo** pranešimai , sukonfigūruokite norimas parinktis, tada **spustelėkite Paleisti pranešimą**.
 
 Daugiau informacijos žiūrėkite šiuose straipsniuose:
 

@@ -1,5 +1,5 @@
 ---
-title: 610 Sužinokite apie "Microsoft 365 Groups"
+title: 610 Sužinokite apie Microsoft 365 grupes
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d58d72ff81be8b1ea2873996043f2b08b550233ab4a817f4e2476944624a17b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087468"
 ---
-# <a name="learn-about-microsoft-365-groups"></a>Sužinokite apie "Microsoft" 365 grupes
+# <a name="learn-about-microsoft-365-groups"></a>Sužinokite apie Microsoft 365 grupes
 
-"Microsoft" 365 grupės – tai paslauga, veikianti su jau naudojamų "Office 365" įrankiais, todėl galite bendradarbiauti su komandos nariais rašydami dokumentus, kurdami skaičiuokles, dirbdami su projekto planais, planuodami susitikimus arba siųsdami el. laiškus. Daugiau informacijos ieškokite Sužinokite daugiau [apie "Microsoft" 365 grupes](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 Grupės – tai tarnyba, dirbanti su jau naudojamais "Office 365 įrankiais, todėl galite bendradarbiauti su komandos nariais rašydami dokumentus, kurdami skaičiuokles, dirbdami su projektų planais, planuodami susitikimus arba siųsdami el. laiškus. Daugiau informacijos žr. [Sužinokite apie Microsoft 365 grupės](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

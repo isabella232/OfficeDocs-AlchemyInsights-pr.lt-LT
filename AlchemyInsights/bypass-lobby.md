@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059604"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Valdykite fojė parametrus ir dalyvavimo "Teams" lygį
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Valdykite fojė parametrus ir dalyvavimo Teams
 
 Jei norite leisti visiems, įskaitant skambinimo, išorinius ir anoniminius vartotojus, **apeiti** laukiamąjį , šiai užduočiai atlikti naudokite "PowerShell". Štai jūsų organizacijos visuotinio susitikimo strategijos modifikavimo pavyzdys.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šiai "cmdlet" šiuo metu reikia naudoti "Skype" verslui "PowerShell" modulį. Norėdami nustatyti naudoti šią "cmdlet", peržiūrėkite Strategijų [valdymas naudojant "PowerShell".](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
+Šiai "cmdlet" šiuo metu reikia naudoti ""Skype" verslui"PowerShell" modulį. Norėdami nustatyti naudoti šią "cmdlet", peržiūrėkite Strategijų [valdymas naudojant "PowerShell".](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
 Nustatę strategiją, turite ją taikyti vartotojams; arba, jei modifikavote visuotinę strategiją, ji bus automatiškai taikoma vartotojams. Jei norite pakeisti strategiją, turite palaukti bent **4 valandas iki 24 valandų,** kol strategijos įsigalios. 
 
 Prieš pradėdami šiuos pakeitimus, būtinai peržiūrėkite toliau pateiktą dokumentaciją, kad tiksliai suprastumėte, ką tai leidžia.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>"Teams" susitikimo laukiame strategijos valdiklių supratimas
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Susitikimų Teams lobistų strategijos valdiklių supratimas
 
-Šie parametrai valdo, kurie susitikimo dalyviai laukiame, kol jiems bus leista dalyvauti susitikime, ir dalyvavimo susitikime lygį. "PowerShell" galite naudoti norėdami atnaujinti dar neįgyvendintas susitikimo strategijos parametrus (pavadintus "netrukus") "Teams" administravimo centre. Žr. toliau pateiktą pavyzdį "PowerShell" cmdlet, kuri leidžia visiems vartotojams apeiti laukiamąjį.
+Šie parametrai valdo, kurie susitikimo dalyviai laukiame, kol jiems bus leista dalyvauti susitikime, ir dalyvavimo susitikime lygį. "PowerShell" galite naudoti norėdami atnaujinti dar neįgyvendintas susitikimo strategijos parametrus (pažymėtus "netrukus") Teams administravimo centre. Žr. toliau pateiktą pavyzdį "PowerShell" cmdlet, kuri leidžia visiems vartotojams apeiti laukiamąjį.
 
 - [Automatiškai priimti žmones](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) yra organizatoriaus strategija, kuri kontroliuoja, ar žmonės prisijungia prie susitikimo tiesiogiai, ar laukia, kol juos priima autentifikuotas vartotojas.
 
@@ -44,4 +44,4 @@ Prieš pradėdami šiuos pakeitimus, būtinai peržiūrėkite toliau pateiktą d
 
 - [Leisti organizatoriams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) nepaisyti laukiamųjų parametrų **(** jau greitai ) yra organizatoriaus strategija, kuri kontroliuoja,  ar susitikimo organizatorius gali nepaisyti laukiamajame parametrų, kuriuos administratorius nustatė dalyje Automatiškai priimti **žmones** ir Leisti skambinimo vartotojams apeiti laukiamąjį, kai jie suplanuoja naują susitikimą.
 
-**Pastaba:** Skaitykite ["Teams" susitikimų strategijų valdymas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) ir išsami "Microsoft Teams" susitikimų strategijų apžvalga.
+**Pastaba:** Skaitykite [Susitikimų strategijų valdymas Teams,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kad būtų galima peržiūrėti Microsoft Teams susitikimų strategijas.

@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909690"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890406"
 ---
 # <a name="subscription-no-longer-active"></a>Prenumerata nebeaktyvi
 
-Jei atidarius ["Microsoft"](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) taikomąją programą rodomas prenumeratos pranešimas, tikėtina, kad jums reikės iš naujo aktyvinti prenumeratą.
+Jei atidarius ["Microsoft"](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) taikomąją programą rodomas prenumeratos pranešimas, tikėtina, kad jums reikės iš naujo suaktyvinti prenumeratą.
 
 **Prenumeratos aktyvinimas iš naujo**
 
@@ -32,4 +32,4 @@ Jei atidarius ["Microsoft"](https://support.microsoft.com/office/a-subscription-
 3. Srityje **Iš naujo suaktyvinti šią** prenumeratą išplečiamajame sąraše pasirinkite mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.
 4. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
