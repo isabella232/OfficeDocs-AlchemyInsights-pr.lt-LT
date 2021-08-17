@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083778"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>"Office" diegimo įrankio naudojimas (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>"Office" diegimo įrankio (ODT) naudojimas
 
-Naudokite "Office" diegimo įrankį (ODT), kad įdiegtumėte "Office 365" versijas "Office". "Office" diegimo įrankis (setupodt.exe) paleidžiamas iš komandų eilutės ir naudoja konfigūracijos XML failą, kad nustatytų, kokie parametrai turi būti taikomi diegiant "Office".
+Galite naudoti Office diegimo įrankį (ODT), kad įdiegtų Office 365 "Office" versijas. The Office Deployment Tool (setup.exe) is run from the command line and uses a configuration XML file to determine what settings to apply when deploying Office.
   
-1. Atsisiųskite naujausią "Office" diegimo įrankio versiją iš ["Microsoft" atsisiuntimo centro](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Atsisiųskite naujausią "Office diegimo įrankio versiją iš ["Microsoft" atsisiuntimo centro](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Naudokite " [Office" tinkinimo įrankį (OCT)](https://config.office.com) , kad pasirinktumėte diegimo nuostatas ir SUKURTUMĖTE konfigūracijos XML failą. Eksportuokite konfigūracijos failą ir padėkite jį vietiniame tame pačiame aplanke, kuriame yra setupodt.exe.
+2. Naudokite [Office tinkinimo įrankį (OCT),](https://config.office.com) kad pasirinktumėte diegimo nuostatas ir sukurtumėte konfigūracijos XML failą. Eksportuokite konfigūracijos failą ir padėkite jį vietoje tame pačiame aplanke, kuriame setup.exe vieta.
 
-    **Pastaba:** "Office" diegimo problemos paprastai kyla dėl netinkamai sukonfigūruotų arba netinkamai suformatuotų konfigūracijos failų. Norėdami išvengti tokių problemų, rekomenduojame naudoti "Office" tinkinimo įrankį kuriant konfigūracijos failą. Esamus konfigūracijos failus taip pat galite importuoti į "Office" tinkinimo įrankį.
+    **Pastaba:** Office diegimo problemos dažniausiai kyla dėl netinkamai sukonfigūruotų arba netinkamai suformatuotos konfigūracijos failų. Norėdami išvengti tokių problemų, rekomenduojame naudoti Office tinkinimo įrankį, kad sukurtumėte konfigūracijos failą. Taip pat galite importuoti esamus konfigūracijos failus į Office tinkinimo įrankį.
 
-3. Didesnių teisių komandų eilutėje įjunkite vietą, kurioje setupodt.exe gyvena, ir paleiskite "Office" diegimo įrankį atsisiuntimo režimu ir nustatykite ką tik įrašytą konfigūracijos failą. Šiame pavyzdyje konfigūracijos failas pavadintas Configuration.xml:
+3. Didesnių teisių komandinėje eilutėje pereikite į vietą, kurioje yra "setup.exe" ir paleiskite "Office" diegimo įrankį atsisiuntimo režimu ir nurodykite ką tik įrašytą konfigūracijos failą. Šiame pavyzdyje konfigūracijos failas pavadintas Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. Paleiskite "Office" diegimo įrankį konfigūravimo režimu ir nustatykite konfigūracijos failą.
+4.Paleiskite Office diegimo įrankį konfigūravimo režimu ir nurodykite konfigūracijos failą.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Pastaba:** Šį veiksmą turite atlikti iš kliento kompiuterio, kuriame norite įdiegti "Office", ir tame kompiuteryje turite turėti vietinio administratoriaus teises.
+**Pastaba:** Turite atlikti šį veiksmą iš kliento kompiuterio, kuriame norite įdiegti "Office ir turite turėti vietinio administratoriaus teises šiame kompiuteryje.
 
-Norėdami sužinoti daugiau apie "Office" diegimo įrankio naudojimą "Microsoft" 365 programoms, skirtas įmonės diegimo scenarijams, skaitykite " [Office" diegimo įrankio apžvalga](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Daugiau informacijos, kaip naudoti "Office" tinkinimo įrankį, rasite " [Office" tinkinimo įrankio apžvalga](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Norėdami sužinoti daugiau apie "Office" diegimo įrankio "Microsoft 365" programos įmonėms diegimo scenarijus, [žr. "Office" diegimo įrankio apžvalga.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Daugiau informacijos apie tai, kaip naudoti Office tinkinimo įrankį, [žr. "Office tinkinimo įrankio apžvalga.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

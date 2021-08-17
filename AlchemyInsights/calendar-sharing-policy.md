@@ -1,5 +1,5 @@
 ---
-title: 618 kalendoriaus naudojimo strategija
+title: 618 Kalendoriaus bendrinimo strategija
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091611"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a>Strategijos klaida, kai dalijamasi su kalendoriumi
+# <a name="policy-error-when-sharing-a-calendar"></a>Strategijos klaida bendrinant kalendorių
 
-1. Atsižvelgdami į situaciją atlikite vieną iš šių veiksmų:
-    - Prisijungimas prie "Exchange Online" naudojant nuotolinį "PowerShell". Daugiau informacijos ieškokite [prisijungimas prie "Exchange Online" naudojant nuotolinę "PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)".
-    - Vietiniame serveryje atidarykite "Exchange" valdymo aplinką.
-2. Nustatykite vartotojui priskirtą bendro naudojimo strategiją. Norėdami tai padaryti, vykdykite šią komandą ir užsirašykite strategiją:
+1. Atlikite vieną iš šių veiksmų, atsižvelgiant į jūsų situaciją:
+    - Prisijungimas Exchange Online naudodami nuotolinę "PowerShell". Daugiau informacijos žr. ["Prisijungimas" Exchange Online "Remote PowerShell" naudojimas.](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)
+    - Vietiniame serveryje atidarykite "Exchange aplinką.
+2. Nustatykite vartotojui priskirtą bendrinimo strategiją. Norėdami tai padaryti, vykdykite šią komandą ir atkreipkite dėmesį į grąžintas strategijas:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. Atnaujinkite vartotojo bendro naudojimo strategiją. Jei norite tai padaryti, atlikite tokius veiksmus:
-    - Atidarykite "Exchange" administravimo centrą.
-    - Spustelėkite **organizacija**, tada dukart spustelėkite strategiją, priskirtą vartotojui pagal **atskirą bendrą naudojimą**. Tai strategija, kuri buvo grąžinta atliekant 2 veiksmą.
-    - Puslapyje bendrinimo taisyklės pasirinkite kalendoriaus bendrinimo lygį, kurį norite leisti dalyje nurodykite, kurią **informaciją norite bendrinti**; spustelėkite **įrašyti**.
+3. Atnaujinkite vartotojo bendrinimo strategiją. Jei norite tai padaryti, atlikite tokius veiksmus:
+    - Atidarykite Exchange administravimo centrą.
+    - Spustelėkite **Organizacija**, tada dukart spustelėkite strategiją, kuri priskirta vartotojui dalyje Atskiras **bendrinimas.** Tai strategija, kuri buvo grąžinta 2 veiksme.
+    - Puslapyje Bendrinimo taisyklė pasirinkite kalendoriaus bendrinimo lygį, kurį norite leisti dalyje **Nurodykite, kokią informaciją norite bendrinti;** spustelėkite **Įrašyti**.
 
-Daugiau informacijos rasite: ["strategija neleidžia šiuo lygiu suteikti teises vienam ar daugiau gavėjo (-ų)" klaida, kai vartotojas bando bendrinti kalendorių](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Daugiau informacijos žr.: "Strategija neleidžia suteikti teisių šiam lygiui vienam ar keliems gavėjui [(-ams)",](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)kai vartotojas bando bendrinti kalendorių .

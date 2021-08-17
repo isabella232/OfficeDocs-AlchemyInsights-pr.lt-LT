@@ -1,5 +1,5 @@
 ---
-title: Kaip administratoriai gali ieškoti vartotojo archyvo pašto dėžutės
+title: Kaip administratoriai gali ieškoti vartotojo archyvo pašto dėžutėje
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 00710319f8d8b6ecd9d99d76751ecb256b2f867d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39296e35191b43d3bb6e6dc8364e97395e9dca65f29413265cd5e7ef8a87828e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091365"
 ---
-# <a name="how-admins-can-search-a-users-archive-mailbox"></a>Kaip administratoriai gali ieškoti vartotojo archyvo pašto dėžutės
+# <a name="how-admins-can-search-a-users-archive-mailbox"></a>Kaip administratoriai gali ieškoti vartotojo archyvo pašto dėžutėje
 
-Štai kaip jūs – administratorius, galite ieškoti vartotojo internetiniame el. pašto archyve:
+Štai kaip jūs – administratorius gali ieškoti vartotojo interneto archyvo el. paštu:
 
-* Kai yra įgalinta archyvo pašto dėžutė, galite naudoti **turinio iešką** arba el. duomenų **aptikimo iešką ir eksportuoti** , kad surastumėte ir eksportuotumėte turinį į pradinę ir archyvo pašto dėžutę. Norėdami naudoti **turinio iešką**, žiūrėkite [eksportuoti turinio ieškos rezultatus.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
-* Taip pat galite išsaugoti šį turinį įtraukdami pašto dėžutę į **saugojimo strategiją**. Taip bus patalpinti ir pirminė, ir archyvo pašto dėžutės turinys. Norėdami sužinoti daugiau apie saugojimo strategijų kūrimą, peržiūrėkite [saugojimo strategijų apžvalga.](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+* Įgalinus archyvo pašto dėžutę, galite naudoti turinio iešką arba **el.** duomenų aptikimo iešką ir eksportavimą, kad atrasite ir eksportuokite turinį tiek pirminėje, tiek archyvo pašto dėžutėje.  Norėdami naudoti **turinio iešką,** [žr. Turinio ieškos rezultatų eksportavimas.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+* Taip pat galite išsaugoti tą turinį įtraukdami pašto dėžutę į **saugojimo strategiją**. Taip turinys bus sulaikytas ir pirminėje, ir archyvo pašto dėžutėje. Norėdami sužinoti daugiau apie saugojimo strategijų sukūrimą, [žr. Saugojimo strategijų apžvalga.](https://docs.microsoft.com/office365/securitycompliance/retention-policies)

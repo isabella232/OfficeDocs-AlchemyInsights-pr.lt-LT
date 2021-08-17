@@ -1,5 +1,5 @@
 ---
-title: Blokuoti prieigą prie elektroninio pašto
+title: Prieigos prie el. pašto blokavimo
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003890"
 - "6944"
-ms.openlocfilehash: 06079800fee6ce3fb47a1e56c9f4429805d061e2
-ms.sourcegitcommit: 72536a4cf4b84235d3a16ffdd428a92f38dd5e87
+ms.openlocfilehash: 851fc0dea7adf9d5befcf29c3d0e34943e322fcdd35d32c22fd7d2c49a7eed0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060036"
 ---
-# <a name="block-access-to-email"></a>Blokuoti prieigą prie elektroninio pašto
+# <a name="block-access-to-email"></a>Prieigos prie el. pašto blokavimo
 
-Norėdami užblokuoti buvusius darbuotojus pasiekti savo pašto paskyras "Microsoft 365", atlikite šiuos veiksmus:
+Norėdami blokuoti buvusius darbuotojus pasiekti savo el. pašto paskyras Microsoft 365, atlikite šiuos veiksmus:
 
-1. Eikite į " [Exchange" administravimo centrą](https://go.microsoft.com/fwlink/?linkid=2138629).
-1. Dalyje **gavėjai** spustelėkite **pašto dėžutės**.
-1. Dukart spustelėkite vartotojo rodomą vardą, tada spustelėkite **pašto dėžutės funkcijos**.
-1. Dalyje **Mobilieji įrenginiai** pasirinkite **išjungti "Exchange ActiveSync** " ir atsakykite **taip**, tada pasirinkite **išjungti OWA įrenginiams** ir atsakykite **taip**.
-1. Dalyje **elektroninio pašto ryšys** pasirinkite **išjungti** ir atsakyti **taip**.
+1. Eikite į [Exchange centrą](https://go.microsoft.com/fwlink/?linkid=2138629).
+1. Dalyje **Gavėjai** spustelėkite **Pašto dėžutės**.
+1. Dukart spustelėkite vartotojo rodomą vardą, tada spustelėkite Pašto **dėžutės funkcijos.**
+1. Dalyje **Mobilieji įrenginiai** pasirinkite **Išjungti Exchange ActiveSync** ir **atsakykite** Taip , tada pasirinkite **Išjungti OWA įrenginiams ir** atsakykite **Taip**.
+1. Dalyje **El. pašto ryšys** pasirinkite Išjungti **ir** atsakykite **Taip**.
 1. Spustelėkite **Įrašyti**.

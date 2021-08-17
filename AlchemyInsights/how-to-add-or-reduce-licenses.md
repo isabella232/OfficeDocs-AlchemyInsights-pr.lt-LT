@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501824"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892203"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Prenumeratos licencijų įtraukimas arba pašalinimas
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501824"
 4. Norėdami įsigyti arba pašalinti  licencijas,  lauke Bendras licencijų skaičius dalyje Naujas kiekis įveskite bendrą licencijų, kurias norite naudoti šiai prenumeratai, skaičių. Pavyzdžiui, jei turite 100 licencijų ir norite įtraukti dar 25, įveskite 125. Jei norite pašalinti 25 licencijas, įveskite 75.
 5. Pasirinkite **Įrašyti**.
 
-Informacijos, kaip priskirti licencijas, [žr. Licencijų priskyrimas vartotojams](/microsoft-365/admin/manage/assign-licenses-to-users).
+Informacijos, kaip priskirti licencijas, [žr. Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Ištekliai**
   
-- [Licencijų įsigykite arba pašalinkite](/microsoft-365/commerce/licenses/buy-licenses)
-- [Atšaukti Microsoft 365 verslui](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Išbandykite arba įsigykite Microsoft 365 verslui prenumeratą](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Licencijų įsigykite arba pašalinkite](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Atšaukti Microsoft 365 verslui](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Išbandykite arba įsigykite "Microsoft 365 verslui prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

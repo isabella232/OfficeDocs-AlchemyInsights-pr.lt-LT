@@ -15,22 +15,22 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: 483eb266d2804d22f722c7972c8f220bef08267474098fa63441dbaf19c5716c
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c0066a325ebea3173fc2d4b76e6494c2fb05e2bf2af941e7e48ee78461063021
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503768"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892323"
 ---
 # <a name="visio-license-management"></a>„Visio“ licencijų valdymas
 
 „Visio“ licencijų valdymą galima atlikti **„Microsoft 365“ administravimo centre**.
 
 - [Palyginkite „Visio“ parinktis](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1), kad sužinotumėte apie „Visio“ 1 ir 2 plano skirtumus.
-- Norėdami **pakeisti planus**, žr. [Naujinimas į kitą planą](/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Norėdami **įsigyti** „Visio“, eikite į **Atsiskaitymas > [Tarnybų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Naudodamiesi ieškos lauku ieškokite „Visio“, pasirinkite planą ir vartotojų skaičių. Daugiau informacijos žr. [Kitos prenumeratos įsigijimas](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- Norėdami **priskirti** „Visio“ licencijas, eikite į **Atsiskaitymas > [Licencijos](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Daugiau informacijos žr. [Licencijų priskyrimas vartotojams](/microsoft-365/admin/manage/assign-licenses-to-users).
-- Norėdami **įsigyti arba pašalinti** „Visio“ licencijas, eikite į **Atsiskaitymas > [Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Daugiau informacijos žr. [Licencijų įsigijimas arba pašalinimas](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
-- Norėdami **atšaukti** „Visio“ prenumeratą, eikite į **Atsiskaitymas > [Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**, pasirinkite „Visio“ prenumeratą, tada dalyje **Prenumeratos ir mokėjimo parametrai** pasirinkite **Atšaukti prenumeratą**. Norėdami gauti daugiau informacijos, žr. [Prenumeratos atšaukimas](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Norėdami **pakeisti planus**, žr. [Naujinimas į kitą planą](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Norėdami **įsigyti** „Visio“, eikite į **Atsiskaitymas > [Tarnybų įsigijimas](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Naudodamiesi ieškos lauku ieškokite „Visio“, pasirinkite planą ir vartotojų skaičių. Daugiau informacijos žr. [Kitos prenumeratos įsigijimas](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Norėdami **priskirti** „Visio“ licencijas, eikite į **Atsiskaitymas > [Licencijos](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Daugiau informacijos žr. [Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Norėdami **įsigyti arba pašalinti** „Visio“ licencijas, eikite į **Atsiskaitymas > [Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Daugiau informacijos žr. [Licencijų įsigijimas arba pašalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Norėdami **atšaukti** „Visio“ prenumeratą, eikite į **Atsiskaitymas > [Jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**, pasirinkite „Visio“ prenumeratą, tada dalyje **Prenumeratos ir mokėjimo parametrai** pasirinkite **Atšaukti prenumeratą**. Norėdami gauti daugiau informacijos, žr. [Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Daugiau informacijos žr. [Licencijų įsigijimas arba pašalinimas](/microsoft-365/commerce/licenses/buy-licenses).
+Daugiau informacijos žr. [Licencijų įsigijimas arba pašalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

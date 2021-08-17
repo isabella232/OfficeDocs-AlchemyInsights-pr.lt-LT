@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037184"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892391"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Peržiūrėkite "Microsoft" programų valdymo būseną naudodami "Microsoft Edge", skirtą "iOS" arba "Android" įrenginiams
 
 Norėdami pasiekti taikomųjų programų žurnalus, kad būtų galima šalinti valdomų "iOS" arba "Android" programų triktis, atidarykite Microsoft Edge ir adreso lauke įveskite **about:intunehelp.** Microsoft Edge paleidžiama trikčių diagnostikos režimu.
 
-Programėlių žurnaluose saugomų parametrų sąrašą [žr. Kliento programos apsaugos žurnalų peržiūra](/mem/intune/apps/app-protection-policy-settings-log).
+Programėlių žurnaluose saugomų parametrų sąrašą [žr. Kliento programos apsaugos žurnalų peržiūra](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
 
-Norėdami sužinoti, kaip peržiūrėti programų žurnalus "Android" įrenginiuose, [žr. Upload ir el. pašto žurnalus.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Norėdami sužinoti, kaip peržiūrėti programų žurnalus "Android" įrenginiuose, [žr. Upload ir el. pašto žurnalus.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

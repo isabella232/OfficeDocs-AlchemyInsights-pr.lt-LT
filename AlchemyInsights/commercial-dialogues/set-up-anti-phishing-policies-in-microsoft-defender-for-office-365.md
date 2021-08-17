@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966801"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313435"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>"Microsoft" sargybos apsaugos nuo sukčiavimo apsimetant strategijų Office 365
 
-1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Pasirinkite **Grėsmių valdymo**  >  **strategija**. Puslapyje Strategija **pasirinkite** ["Microsoft" sargyba, Office 365 apsaugos nuo sukčiavimo apsimetant](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Puslapyje Apsauga **nuo sukčiavimo apsimetant** atlikite vieną iš šių veiksmų:
-    1. Norėdami įtraukti naują strategiją, pasirinkite **+ Kurti**.
-    1. Norėdami redaguoti esamą strategiją, pasirinkite strategijos pavadinimą iš sąrašo, rodomą puslapyje Apsauga **nuo sukčiavimo apsimetant.** Rodomame puslapyje šalia **parametro,** kurį norite keisti, pasirinkite Redaguoti. Bus paleidžiamas vediklis, kuris padės apibrėžti sukčiavimo apsimetant strategiją.
-4. Jei kuriate naują strategiją, nurodykite strategijos pavadinimą, aprašą ir parametrus.
-5. Peržiūrėsite parametrus, pasirinkite Kurti **šią strategiją** arba **Įrašyti**, jei reikia.
+1. ""Microsoft 365" sargyba" portale <https://security.microsoft.com/> eikite į **El. &** \> **bendradarbiavimo strategijos & Taisyklės** Grėsmių strategijos apsauga nuo sukčiavimo \>  \>  apsimetant **skyriuje** Strategijos.
+
+   Norėdami pereiti tiesiai į puslapį **Apsauga nuo sukčiavimo** apsimetant, naudokite <https://security.microsoft.com/antiphishing> .
+
+2. Puslapyje Apsauga **nuo sukčiavimo apsimetant** atlikite vieną iš šių veiksmų:
+   - Norėdami įtraukti naują strategiją, pasirinkite **+ Kurti**. Bus paleidžiamas vediklis, kuris padės nustatyti strategijos parametrus.
+   - Norėdami redaguoti esamą strategiją, pasirinkite strategiją spustelėdami strategijos pavadinimą. Rodomame išsamios informacijos iškeliame lange pasirinkite **Redaguoti** sekcijoje, kurioje yra norimi konfigūruoti parametrai.
+
+3. Peržiūrę parametrus pasirinkite Pateikti **(naujas)** arba **Įrašyti** (redaguoti).
+
+Daugiau informacijos ieškokite ["Microsoft" sargybos apsaugos](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)nuo sukčiavimo apsimetant strategijų konfigūravimas Office 365 .

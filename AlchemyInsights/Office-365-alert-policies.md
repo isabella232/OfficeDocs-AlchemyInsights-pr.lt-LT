@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891687"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312695"
 ---
 # <a name="alert-policies"></a>Įspėjimų strategijos
 
-Microsoft 365 yra numatytosios įspėjimų strategijos, kurios paleidžia įspėjimus organizacijoms, turi Microsoft 365 Enterprise arba Microsoft 365 JAV vyriausybės E1/G1, E3/G3 arba E5/G5 prenumeratą. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Todėl administratoriai gali gauti įspėjimo el. laišką, kurį Office365Alerts@microsoft.com su temos eilute, pvz., "A low-severity alert: *name of alert policy".* Įspėjimų pranešimai siunčiami, kai paleidžiami įspėjimai apie įprastas veiklas, pvz., kai vartotojai:
+Microsoft 365 [yra](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) numatytosios įspėjimų strategijos, kurios paleidžia įspėjimus organizacijoms, kurios turi "Microsoft 365 Enterprise" arba "Microsoft 365 US Government E1/G1", "E3/G3" arba "E5/G5" prenumeratą. Todėl administratoriai gali gauti įspėjimo el. laišką, kurį Office365Alerts@microsoft.com su temos eilute, pvz., "Mažo svarbos įspėjimas: *įspėjimo strategijos pavadinimas".* Įspėjimų pranešimai siunčiami, kai paleidžiami įspėjimai apie įprastas veiklas, pvz., kai vartotojai:
 
 - Kurkite aplanko Gauta taisykles, kurios peradresuos el. laiškus.
 - Priskirkite teises savo pašto dėžutei.

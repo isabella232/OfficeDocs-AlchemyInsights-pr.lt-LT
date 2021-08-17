@@ -1,5 +1,5 @@
 ---
-title: Ką daryti, jei "Azure" funkcijos netinkamai veikia "Microsoft Edge"
+title: Ką daryti, jei "Azure" funkcijos neveikia tinkamai Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004128"
 - "7206"
-ms.openlocfilehash: 463236bcd9ff480471604c992aa1ed1ed4ac2987
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: e188ecb375f3d84b45a1a7718b3c0b797c756f822ba64b3824976fe79c1e8298
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117096"
 ---
-# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Ką daryti, jei "Azure" funkcijos netinkamai veikia "Microsoft Edge"
+# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Ką daryti, jei "Azure" funkcijos neveikia tinkamai Microsoft Edge
 
-"Microsoft Edge" [žinomos problemos](https://go.microsoft.com/fwlink/?linkid=2140608) , kurios yra susijusios su saugos zonomis ir gali turėti įtakos, kaip "Azure" vartotojai prisijungs prie "Windows" administravimo centro. Jei kyla problemų naudojant "Azure" funkcijas su "Microsoft Edge", išbandykite šiuos veiksmus:
+Microsoft Edge žinomos [problemos, susijusios](https://go.microsoft.com/fwlink/?linkid=2140608) su saugos zonomis ir gali turėti įtakos "Azure" vartotojų prisijungimui prie "Windows centro. Jei kyla problemų naudojant "Azure" funkcijas su Microsoft Edge, pabandykite atlikti šiuos veiksmus:
 
-1. **Pradžios** meniu ieškokite **Interneto parinktys** ir pasirinkite ją.
-2. Dialogo lange **interneto ypatybės** eikite į skirtuką **Sauga** .
-3. Pasirinkite **patikimų svetainių** zoną ir pasirinkite mygtuką **svetainės** .
-4. Dialogo lange **patikimos svetainės** įtraukite savo šliuzo URL taip pat [https://login.microsoftonline.com](https://login.microsoftonline.com) ir [https://login.live.com](https://login.live.com) , tada pasirinkite **uždaryti**.
-5. Dialogo lange **interneto ypatybės** eikite į skirtuką **Privatumas** .
-6. Dalyje **iššokančių langų blokavimo programa** pasirinkite **Parametrai**. Atsidariusiame dialogo lange įtraukite savo šliuzo URL, taip pat [https://login.microsoftonline.com](https://login.microsoftonline.com) ir [https://login.live.com](https://login.live.com) , tada pasirinkite **uždaryti**.
+1. Pradžios **meniu** ieškokite Interneto parinktys **ir** pasirinkite ją.
+2. Dialogo **lange Interneto** ypatybės eikite į **skirtuką** Sauga.
+3. Pasirinkite **patikimų svetainių zoną,** tada pasirinkite **mygtuką** Svetainės.
+4. Dialogo **lange Patikimos** svetainės įtraukite šliuzo URL ir [https://login.microsoftonline.com](https://login.microsoftonline.com) , tada pasirinkite [https://login.live.com](https://login.live.com) **Uždaryti**.
+5. Dialogo **lange Interneto** ypatybės eikite į skirtuką **Privatumas.**
+6. Sekcijoje **Iššokančių** langų blokavimo programa **pasirinkite Parametrai**. Atidaromame dialogo lange įtraukite savo šliuzo URL ir [https://login.microsoftonline.com](https://login.microsoftonline.com) , tada pasirinkite [https://login.live.com](https://login.live.com) **Uždaryti**.
