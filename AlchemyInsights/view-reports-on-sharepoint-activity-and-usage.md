@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" veiklos ir naudojimo ataskaitų peržiūra"
+title: Veiklos ir SharePoint ataskaitų peržiūra
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7973"
-ms.openlocfilehash: 61bfdb110f3f2c561bf25d03aad968c1ef7f73db
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 2b1070fb8557a22e9f36e41e7e7f8676011c64cc092b2a52f24339b49df41453
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037292"
 ---
-# <a name="view-reports-on-sharepoint-activity-and-usage"></a>"SharePoint" veiklos ir naudojimo ataskaitų peržiūra
+# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Veiklos ir SharePoint ataskaitų peržiūra
 
-Eikite į [puslapį naudojimo ataskaitos "Microsoft 365" administravimo centre](https://admin.microsoft.com/AdminPortal/Home). Dalyje **pasirinkti ataskaitą pasirinkite "** SharePoint" veikla arba naudojimo ataskaita.
+Eikite [į puslapio Naudojimo ataskaitos "Microsoft 365" administravimo centras](https://admin.microsoft.com/AdminPortal/Home). Dalyje **Pasirinkti ataskaitą pasirinkite** SharePoint arba naudojimo ataskaitą.
 
-Daugiau informacijos ieškokite apie " [SharePoint" ataskaitas](https://go.microsoft.com/fwlink/?linkid=875240).
+Daugiau informacijos žr. [Apie SharePoint ataskaitas](https://go.microsoft.com/fwlink/?linkid=875240).

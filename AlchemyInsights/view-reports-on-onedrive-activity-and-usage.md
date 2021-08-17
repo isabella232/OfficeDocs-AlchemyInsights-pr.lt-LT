@@ -1,5 +1,5 @@
 ---
-title: "\"OneDrive\" veiklos ir naudojimo ataskaitų peržiūra"
+title: Veiklos ir "OneDrive" ataskaitų peržiūra
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037328"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>"OneDrive" veiklos ir naudojimo ataskaitų peržiūra
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Veiklos ir "OneDrive" ataskaitų peržiūra
 
-Eikite į [puslapį naudojimo ataskaitos "Microsoft 365" administravimo centre](https://admin.microsoft.com/AdminPortal/Home). Dalyje **pasirinkti ataskaitą** pasirinkite "OneDrive" veikla arba naudojimo ataskaita.
+Eikite [į puslapio Naudojimo ataskaitos "Microsoft 365" administravimo centras](https://admin.microsoft.com/AdminPortal/Home). Dalyje **Pasirinkti ataskaitą pasirinkite**"OneDrive" arba naudojimo ataskaitą.
 
-Daugiau informacijos ieškokite [apie "OneDrive" ataskaitas](https://go.microsoft.com/fwlink/?linkid=875239).
+Daugiau informacijos žr. [Apie "OneDrive" ataskaitas](https://go.microsoft.com/fwlink/?linkid=875239).

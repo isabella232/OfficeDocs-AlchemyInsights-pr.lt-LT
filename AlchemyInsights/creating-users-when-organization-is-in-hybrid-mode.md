@@ -1,5 +1,5 @@
 ---
-title: 744 vartotojų kūrimo, kai organizacija veikia hibridiniu režimu
+title: 744 Vartotojų kūrimas, kai organizacija veikia hibridiniu režimu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102948"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Vartotojų kūrimas hibridinėse įdiegtyse
+# <a name="create-users-in-hybrid-deployments"></a>Vartotojų kūrimas hibridiniuose diegimuose
 
-Kai jūsų organizacija yra hibridinis diegimas tarp vietinėje aplinkoje ir "Microsoft 365", turite sukurti visus vartotojų objektus vietiniame "Active Directory". Sukuriate vartotojo objektus atitinkamame organizacijos vienete (OU), kad jie būtų sinchronizuojami su jūsų organizacija.
+Kai jūsų organizacija yra hibridinis diegimas tarp vietinės aplinkos ir Microsoft 365, turite sukurti visus vartotojo objektus savo vietinėje "Active Directory". Vartotojo objektus sukuriate atitinkamu organizacijos vienetu (OU), kad jie būtų sinchronizuojami su jūsų organizacija.

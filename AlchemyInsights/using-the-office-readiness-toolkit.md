@@ -1,5 +1,5 @@
 ---
-title: "\"Office\" parengimo įrankių rinkinio naudojimas"
+title: "\"Office parengimo įrankių rinkinio naudojimas"
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072924"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>"Office" parengimo įrankių rinkinio naudojimas
+# <a name="using-the-office-readiness-toolkit"></a>"Office parengimo įrankių rinkinio naudojimas
 
-Informacijos, kaip naudoti "Office" parengimo įrankių rinkinį, ieškokite ["parengimo įrankių rinkinio naudojimas norint įvertinti" Microsoft 365 "taikomųjų programų suderinamumą](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Informacijos, kaip naudoti Office parengimo įrankių rinkinį, žr. Pasirengimo įrankių rinkinio naudojimas programų [suderinamumui](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)įvertinti "Microsoft 365" programos .
 
-Jei turite atsiliepimų arba klausimų apie pasirengimo priemonių rinkinį, rašykite mums adresu ReadyForOffice@microsoft.com.
+Jei turite atsiliepimų ar klausimų apie pasirengimo įrankių rinkinį, rašykite mums el. ReadyForOffice@microsoft.com.
