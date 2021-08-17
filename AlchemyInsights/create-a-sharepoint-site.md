@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint\" svetainės kūrimas"
+title: Svetainės SharePoint kūrimas
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080898"
 ---
-# <a name="create-a-sharepoint-site"></a>"SharePoint" svetainės kūrimas
+# <a name="create-a-sharepoint-site"></a>Svetainės SharePoint kūrimas
 
-Kurkite arba valdykite svetaines iš [aktyvių svetainių](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) "SharePoint" administravimo centre. Daugiau informacijos rasite [svetainės valdymas naujame "SharePoint" administravimo centre](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Kurkite arba valdykite [svetaines iš aktyvių](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) svetainių SharePoint administravimo centre. Daugiau informacijos [žr. Svetainių valdymas naujame SharePoint administravimo centre](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
-## <a name="tips"></a>Patarimai
+## <a name="tips"></a>Patarimai:
 
-- **Negalite** sukurti svetainės su tuo pačiu esamos svetainės URL. Jei panaikinote svetainę ir norite iš naujo naudoti URL, panaikinama svetainė vis dar yra dalyje [panaikintos svetainės](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Svetainė turi būti panaikinta visam laikui, kad iš naujo naudotų URL. Norėdami visiškai pašalinti svetainę naudodami "PowerShell", peržiūrėkite cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Kai kuriems vartotojams gali nepavykti sukurti svetainės. [Peržiūrėkite "SharePoint Online" svetainės kūrimo valdymas](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Gali būti, kad svetainė bus **rodoma ilgiau nei** tikėtasi. Jei praėjo daugiau nei 24 valandos po to, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo bilieto. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtumėte sprendimą.
+- Negalite **sukurti** svetainės su tuo pačiu esamos svetainės URL. Jei panaikinsite svetainę ir norite iš naujo naudoti URL, gali būti, kad panaikinta svetainė vis dar yra dalyje [Panaikintos svetainės.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Norint iš naujo naudoti URL, svetainė turės būti panaikinta visam laikui. Norėdami visiškai pašalinti svetainę naudodami "PowerShell", žr. ["cmdlet" remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) pavyzdį.
+- Kai kuriems vartotojams gali nepavykti sukurti svetainės. [Žr. Svetainės kūrimo valdymas "SharePoint Online".](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Gali būti, kad svetainė užstringa kuriant **ilgiau** nei tikėtasi. Jei praėjo daugiau nei 24 valandos nuo tada, kai pirmą kartą matėte šią problemą, prisijunkite prie palaikymo kvito. Daugeliu atvejų jau dirbame su sprendimu. Pateikite mums bent 24 valandas, kad užbaigtų sprendimą.

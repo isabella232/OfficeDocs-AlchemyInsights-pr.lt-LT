@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055562"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Kaip įgalinti nuomojamų išteklių balso paštą
 
-Norėdami įjungti balso paštą, **Hostedbalso paštas** turi būti nustatytas į $True.
+Norint įgalinti balso paštą, **"HostedVoicemail"** turi būti $true.
 
-Ypatybės **Hostedbalso paštas** , esanti vartotojui naudojant nuotolinį "PowerShell" (RPS).
+Ypatybė **HostedVoicemail** vartotojui, naudojanti nuotolinę "PowerShell" (RPS).
 
-Daugiau informacijos apie prisijungimą prie RPS rasite straipsnyje ["Microsoft teams PowerShell" apžvalga](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) , kur rasite daugiau informacijos apie prisijungimą prie RPS.
+Daugiau informacijos apie prisijungimą prie RPS [žr. Microsoft Teams "PowerShell" apžvalga,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) jei reikia daugiau informacijos apie prisijungimą prie RPS.
 
-1. Komandos administratorius turi būti prisijungęs prie "Remote PowerShell" komandoms.
-1. "PowerShell" paraginti komandų administratorius gali paleisti " **Set-CsUser" User@contoso.com-Hostedbalso pašto $True** , kur yra atitinkamo vartotojo SIP URI.
+1. "Teams administratorius turi būti prisijungęs prie nuotolinės "PowerShell", kad Teams.
+1. Iš "PowerShell" raginimo Teams administratorius gali paleisti **set-csuser user@contoso.com -HostedVoiceMail $true,** kur sip uri priklauso tam vartotojui.
 
 > [!NOTE]
-> Strategijų keitimas gali užtrukti iki 24 valandų.
+> Strategijų pakeitimai gali užtrukti iki 24 valandų, kad būtų galima pakartoti.

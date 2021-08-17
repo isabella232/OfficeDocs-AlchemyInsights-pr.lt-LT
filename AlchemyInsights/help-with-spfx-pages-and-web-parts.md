@@ -1,5 +1,5 @@
 ---
-title: Pagalba naudojant SPFx puslapius ir puslapio dalis
+title: Pagalba dėl SPFx puslapių ir puslapio dalių
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 59e0160dc3c206aa675841d391b4f45e953cda100b991992fe4668d697c9e069
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055706"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Pagalba naudojant SPFx puslapius ir puslapio dalis
+# <a name="help-with-spfx-pages-and-web-parts"></a>Pagalba dėl SPFx puslapių ir puslapio dalių
 
-SPFx palaikomas tik naudojant "Microsoft" kūrėjų palaikymą. "SharePoint" produktų komanda atsako kūrėjų bendruomenei keliais kanalais.
+SPFx palaikoma tik naudojant "Microsoft" kūrėjų palaikymą. Produkto SharePoint komanda atsako kūrėjų bendruomenei keliais kanalais.
 
-- [Programavimo klausimus](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) galima pateikti **"GitHub sp-dev-docs" arba** **"Stack Overflow".**
-- [Dokumentacijos klaidas](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) galima pateikti **"GitHub".**
-- [Taikomosios programos klaidų pavyzdys gali](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) būti pateiktas **"GitHub".**
+- [Programavimo klausimus](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) galima pateikti GitHub **sp-dev-docs arba** **Stack Overflow**.
+- [Dokumentacijos klaidas](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) galima pateikti **GitHub**.
+- [Taikomųjų programų klaidų pavyzdžius](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) galima pateikti **GitHub**.
 - [Funkcijų užklausas](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  galima pateikti "UserVoice".
 
 Daugiau kūrėjų išteklių  [žr. Palaikymo & atsiliepimai](https://docs.microsoft.com/sharepoint/dev/support-feedback)

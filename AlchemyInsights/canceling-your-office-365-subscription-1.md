@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931205"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890766"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Atšaukiate savo Microsoft 365 prenumeratą?
 
@@ -31,6 +31,6 @@ Atsiprašome, kad einate, štai veiksmai, kaip atšaukti prenumeratą:
 3. Srityje **Prenumeratos atšaukimas** pasirinkite atšaukimo priežastį. Jei norite, pateikite atsiliepimą.
 4. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau apie prenumeratos atšaukimą arba parinktis, [žr. Prenumeratos atšaukimas](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Norėdami sužinoti daugiau apie prenumeratos atšaukimą arba parinktis, [žr. Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Jei norite toliau naudoti prenumeratą bandomosios versijos laikotarpiu, galite išjungti periodinį atsiskaitymą už prenumeratą. Norėdami sužinoti, kaip tai [padaryti, žr. Microsoft 365 verslui atnaujinimas.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Jei norite toliau naudoti prenumeratą bandomosios versijos laikotarpiu, galite išjungti periodinį atsiskaitymą už prenumeratą. Norėdami sužinoti, kaip tai [padaryti, žr. Microsoft 365 verslui atnaujinimas.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
