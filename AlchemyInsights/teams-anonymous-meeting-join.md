@@ -1,5 +1,5 @@
 ---
-title: Anoniminių vartotojų prisijungimo prie "Teams" susitikimų leidimas arba išvengimas
+title: Anoniminių vartotojų prisijungimo prie "Teams" leidimas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106953"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anoniminių vartotojų prisijungimo prie "Teams" susitikimų leidimas arba išvengimas
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anoniminių vartotojų prisijungimo prie "Teams" leidimas
 
-Galite valdyti anoniminio susitikimo prisijungimo parametrus "Teams" administravimo centre.
+Anoniminių susitikimų sujungimo parametrus galite valdyti Teams administravimo centre.
 
 **Gali užtrukti iki 24 valandų, kad šis pakeitimas įsigalios.**
 
-1.  Eikite į ["Teams" administravimo centrą](https://admin.teams.microsoft.com)
+1.  Eikite į [Teams administravimo centrą](https://admin.teams.microsoft.com)
 2.  Kairiojoje naršymo srityje eikite į **Susitikimų**   >   **susitikimų parametrai**.
 3.  Dalyje  **Dalyviai** įjunkite  **Anoniminiai vartotojai gali prisijungti prie susitikimo**.

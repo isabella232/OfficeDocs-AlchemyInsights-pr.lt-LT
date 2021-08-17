@@ -1,5 +1,5 @@
 ---
-title: Klaidos 30174-4 sprendimas
+title: Klaidų sprendimai 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050162"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Klaidos kodas 30174-4 diegiant "Office"
+# <a name="error-code-30174-4-when-installing-office"></a>Klaidos kodas 30174-4 diegiant "Office
 
-Ši klaida gali būti rodoma, jei jūsų antivirusinė programinė įranga, užkarda, tarpinio serverio parametrai arba sujungimas neleidžia įdiegti "Office". Štai keletas dalykų, kuriuos galite išbandyti, kad išspręstumėte problemą.
+Ši klaida gali būti rodoma, jei jūsų antivirusinė programinė įranga, užkarda, tarpinio serverio parametrai arba ryšys neleidžia įdiegti Office. Štai keletas dalykų, kuriuos galite išbandyti norėdami išspręsti problemą.
   
 - Laidinio ryšio naudojimas
 
@@ -31,5 +31,5 @@ ms.locfileid: "47738645"
 
 - Laikinai išjunkite antivirusinę programinę įrangą
 
-[Klaidos kodas 30174-4 diegiant "Office"](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Klaidos kodas 30174-4 diegiant "Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

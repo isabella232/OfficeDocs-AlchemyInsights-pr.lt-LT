@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049982"
 ---
 # <a name="sso-url-issues"></a>SSO URL problemos
 
-1. [Vartotojas – generuoti SSO URL](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) – NUSKAITO peradresavimo URL, kuriame yra autentifikavimo atpažinimo ženklas, skirtas šiam vartotojui prisijungti prie programuotojo portalo.
-2. Nurodykite [problemas, kai spustelite hipersaitas į SSO svetainę dokumente](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) , jei būsite nukreipti į prisijungimo puslapį arba klaidos puslapį arba esate raginami naudoti autentifikavimo informaciją, kai spustelite HIPERSAITĄ į SSO žiniatinklio svetainę "Office" dokumente.
-3. [Šiame straipsnyje](https://docs.microsoft.com/azure/active-directory/develop/reply-url) rasite sąrašą peradresavimo URI (atsakymo URL) apribojimai ir apribojimai.
+1. [Vartotojas – generuoti SSO URL](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) – nuskaito peradresavimo URL, kuriame yra autentifikavimo atpažinimo ženklas, skirtas tam tikrą vartotoją pasirašyti kūrėjų portale.
+2. Žr. Problemos spustelėjus hipersaitą į [SSO](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) žiniatinklio svetainę dokumente, jei esate nukreipti į prisijungimo puslapį arba klaidos puslapį arba kai spustelėjate hipersaitą į SSO žiniatinklio svetainę", "Office" dokumente, būsite paraginti įvesti autentifikavimo informaciją.
+3. Šiame [straipsnyje rasite](https://docs.microsoft.com/azure/active-directory/develop/reply-url) peradresavimo URI (atsakymo URL) apribojimų ir apribojimų sąrašą.
