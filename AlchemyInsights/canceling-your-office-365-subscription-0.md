@@ -15,19 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: a84baac2762f894dfd36e0007624e231713c65fa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8d086ce8c6aef187b4bed96e5dcf12f17dcaa94bfd53a05bd136e0bb033f8f18
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685778"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888530"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Atšaukiate savo Microsoft 365 prenumeratą?
 
 Atsiprašome, kad išeisite!
   
-Atsižvelgdami į jūsų organizacijos duomenis manome, kad visos jūsų dabartinės prenumeratos turi mažiau nei 25 vietas. Norėdami atšaukti prenumeratą internetu, eikite į **puslapį** \> [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054) Skirtuke **Produktai** raskite prenumeratą, kurią norite atšaukti, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
+Atsižvelgdami į jūsų organizacijos duomenis, manome, kad visos jūsų dabartinės prenumeratos turi mažiau nei 25 vietas. Norėdami atšaukti prenumeratą internetu, eikite į **puslapį** \> [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054) Skirtuke **Produktai** raskite prenumeratą, kurią norite atšaukti, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.
   
 **Pinigų grąžinimas:** Per kitą atsiskaitymo ciklą jums bus grąžintas bet koks prorated credit.
 
-Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
