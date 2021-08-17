@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017140"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303585"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>IP adreso radus audito žurnale
 
-1. IP adresas, atitinkantis vartotojo arba administratoriaus atliekamą veiklą, rodomas audito žurnaluose. Kliento informacija taip pat užregistruojama. Štai kaip nustatyti IP adresą:
+IP adresas, atitinkantis vartotojo arba administratoriaus atliekamą veiklą, rodomas audito žurnaluose. Kliento informacija taip pat užregistruojama. Štai kaip nustatyti IP adresą:
 
-1. Eikite į [Office 365 saugos & centrą](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pasirinkite **Ieškoti**  >  **[audito žurnalo ieškos](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįgalinta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
-1. Jei jus domina konkreti veikla, pasirinkite ją iš **sąrašo Veikla;** kitu atveju pagal numatytuosius nustatymus visos pasirinkto vartotojo veiklos bus grąžintos. Atkreipkite dėmesį, kad tam tikros veiklos gali būti negalimos pasirinkti iš **meniu** Veikla; tačiau šie audito elementai bus grąžinti, jei **pasirinkta Rodyti visų veiklų** rezultatus (numatytasis parametras).
-1. Nurodykite datos diapazoną ir **lauke** Vartotojai pasirinkite vartotojo, kurį norite ištirti, vartotojo vardą.
-1. Pasirinkite **Ieškoti**. Veikla rodoma dalyje **Rezultatai**. Galite matyti kiekvienos veiklos IP adresą.
-1. Norėdami peržiūrėti išsamią informaciją, pasirinkite veiklą, tada pasirinkite **Daugiau informacijos**.
+1. Atlikite vieną iš šių veiksmų:
+   - Lauke "Microsoft 365" atitikties centras , <https://compliance.microsoft.com> eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
+   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> , eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://security.microsoft.com/auditlogsearch> .
 
-Norėdami sužinoti daugiau, žr. Office 365 [žurnalo trikčių šalinimas.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Pastaba:** jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįgalinta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
+
+2. Puslapyje **Tikrinimas** patikrinkite, ar pažymėtas **skirtukas** Ieška, tada sukonfigūruokite šiuos parametrus:
+   - **Datos ir laiko diapazonas:** laukuose Pradžia ir Pabaiga pasirinkite **datos** / **laiko diapazoną.**
+   - **Veikla:** jei jus domina konkreti veikla, pasirinkite ją iš sąrašo; kitu atveju bus grąžinta **numatytoji reikšmė Rodyti visų** veiklų rezultatus. Atkreipkite dėmesį, kad tam tikros veiklos gali būti negalima pasirinkti; tačiau šie audito elementai bus grąžinti, **jei pasirinkta Rodyti visų veiklų** rezultatus.
+   - **Vartotojai:** priimkite tuščią numatytąją reikšmę, kad būtų pateikti rezultatai visiems vartotojams, arba įveskite vieną ar daugiau vartotojų.
+
+3. Kai baigsite, spustelėkite **Ieškoti**. Veikla rodoma naujame audito **ieškos** puslapyje.
+
+4. Rezultatuose spustelėkite **Filtruoti rezultatus ir** veiklos filtro lauke įveskite **Set-Mailbox.**
+
+5. Pasirinkite audito įrašą rezultatuose, kad atidarytumėte meniu **Išsami** informacija.
+
+Daugiau informacijos žr. [Audito žurnalo ieška norint ištirti bendrąsias palaikymo problemas](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).

@@ -1,5 +1,5 @@
 ---
-title: Naujo domeno įsigijimas iš "Microsoft"
+title: Naujo domeno įsigykite iš "Microsoft"
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 8c32ffd60ffbc9868e845df154fee309b96fabcc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 473cce984384a79e68b2e7b4f82ccfd6fd5cf867f12875973e2d8e11425824c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103524"
 ---
-# <a name="buy-a-new-domain-from-microsoft"></a>Naujo domeno įsigijimas iš "Microsoft"
+# <a name="buy-a-new-domain-from-microsoft"></a>Naujo domeno įsigykite iš "Microsoft"
 
 Norėdami įsigyti naują domeną iš "Microsoft", atlikite šiuos veiksmus:
 
-1. Eikite į **sąrankos > domenai** ir spustelėkite **įsigyti domeną**. 
-2. Vykdykite vediklyje pateikiamus nurodymus.
+1. Eikite **į > parametrai ir** spustelėkite Pirkti **domeną.** 
+2. Vykdykite vediklio nurodymus.
