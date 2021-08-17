@@ -1,5 +1,5 @@
 ---
-title: Išorinis vartotojas negali priimti bendro kvietimo
+title: Išorinis vartotojas negali priimti bendrinimo kvietimo
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 44980fd6f0667160082e57084e810ca8ebe7ae7875a5df873f7a367629924cc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043628"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Išorinis vartotojas negali priimti bendro kvietimo
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Išorinis vartotojas negali priimti bendrinimo kvietimo
 
-Jei išorinis vartotojas negali priimti "SharePoint" arba "OneDrive" bendro naudojimo kvietimo, bandykite apsilankyti toliau pateiktose nuorodose: 
+Jei išorinis vartotojas negali priimti SharePoint arba "OneDrive" bendrinimo kvietimo, pabandykite apsilankyti toliau pateikiamuose saitų: 
 
-- ["Prieiga uždrausta", "reikia prieigos prie šios svetainės" arba "vartotojas nerastas kataloge" klaidos "SharePoint Online" ir "OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["" SharePoint Online "arba" OneDrive "verslui", kai bendrinate elementą arba svetainę, "jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais".](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- ["SharePoint Online" arba "OneDrive" bendro naudojimo parinktys yra papilkinta.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Klaidos pranešimas, kai išorinis vartotojas priima "SharePoint Online" kvietimą naudodamas kitą paskyrą](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- ["SharePoint" ir "OneDrive" bendro naudojimo klaidos](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Access Denied", "You need permission to access this site" ("Prieiga uždrausta", "Jums reikia teisės pasiekti šią svetainę") arba "User not found in the directory" ("Vartotojas nerastas kataloge") klaidos SharePoint prisijungęs ir "OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Jūsų organizacijos strategijos neleidžia bendrinti su šiais vartotojais" klaida bendrinant elementą arba svetainę "SharePoint Online" arba ""OneDrive" verslui](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Bendrinimo parinktys yra pilkos, kai bendrinate iš "SharePoint Online" arba ""OneDrive"](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Klaidos pranešimas, kai išorinis vartotojas priima kvietimą SharePoint internetu naudodamas kitą paskyrą](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- ["OSE" bendrinimo klaidos SharePoint "OneDrive"](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

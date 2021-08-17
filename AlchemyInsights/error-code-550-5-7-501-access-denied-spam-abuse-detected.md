@@ -1,5 +1,5 @@
 ---
-title: Klaidos kodas 550 5.7.501 "Access Denied", nustatytas šlamštas Abuse
+title: Klaidos kodas 550 5.7.501 Prieiga uždrausta, aptiktas pašto šiukšlių piktnaudžiavimas
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,17 +12,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 6542450ca4d03daef4a7f63783d431d2091bc5e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3eebe4e9d69e100a750e74a6d34ec67dc0566df5dd6eb59809adb07ed8a682f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044276"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>"550" 5.7.501 prieiga uždrausta, aptiktas šlamštas
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Prieiga uždrausta, aptiktas pašto šiukšlių piktnaudžiavimas
 
-Paprastai šis pranešimas rodomas, kai vartotojai siunčia el. laiškus iš IP adresų naudodami pradinį *. onmicrosoft.com* domeną, priskirtą naujiems nuomotojams "Microsoft 365". Paprasčiausias būdas išspręsti šią problemą:
+Paprastai šis pranešimas rodomas, kai vartotojai siunčia el. laiškus iš IP adresų naudodami pradinį *.onmicrosoft.com* domeną, priskirtą naujiems "Microsoft 365" nuomotojams. Paprasčiausias būdas išspręsti šią problemą yra:
 
-1. [Įtraukite domeną į savo nuomotoją](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+1. [Įtraukite domeną į nuomotoją.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
 
-2. [Pakeiskite savo vartotojo pirminį el. pašto adresą](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) į naują priskirtą domeną, kurį ką tik įtraukėte.
+2. [Pakeiskite vartotojų pagrindinį el. pašto adresą į](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) naują pasirinktinį domeną, kurį ką tik įtraukėte.

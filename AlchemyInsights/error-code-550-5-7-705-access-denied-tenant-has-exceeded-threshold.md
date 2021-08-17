@@ -1,5 +1,5 @@
 ---
-title: Klaidos kodas 550 5.7.705 prieiga uždrausta, nuomotojas viršijo ribinę reikšmę
+title: Klaidos kodas 550 5.7.705 Prieiga uždrausta, nuomotojas viršijo ribą
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044204"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 prieiga uždrausta, nuomotojas viršijo ribinę reikšmę
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Prieiga uždrausta, nuomotojas viršijo ribą
 
-Šis pranešimas rodomas, kai jūsų organizacija išsiuntė per daug pašto šiukšlių arba masinio pašto, ir mes įkuriame bloką iš siunčiamo pašto.
-Dažnai pasitaikančios priežastys yra pažeistos vietiniame serveriuose arba sukompromitavo administratoriaus paskyros, naudojamos kuriant jungtis. Bet kuri sąlyga gali leisti, kad šlamštas pereitų per jūsų organizaciją.
+Šis pranešimas rodomas, kai jūsų organizacija išsiuntė per daug pašto šiukšlių arba masinių laiškų ir blokuojame siunčiamus laiškus.
+Dažnai pasitaikančių priežasčių kyla pavojus vietiniams serveriuose arba pažeistoms administravimo paskyroms, kurios buvo naudojamos jungtims kurti. Bet kuri sąlyga gali leisti pašto šiukšles perduoti per jūsų organizaciją.
 
-Norėdami pašalinti šį bloką, turite suprasti ir paaiškinti priežastį palaikymo agentui, taip pat ištaisyti esamą problemą.
-Kai tik būsite pasirengę, spustelėkite **susisiekite su mumis** .
+Norėdami pašalinti šį bloką, turite suprasti ir paaiškinti palaikymo agento priežastį, taip pat išspręsti pagrindinę problemą.
+Kai **būsite pasirengę,** spustelėkite Susisiekti su mumis.

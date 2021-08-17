@@ -8,17 +8,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1285968f3d0a53aebf88e91aefdc0b0b6b5e2020f8959aa42e85151a800c68ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075912"
 ---
 # <a name="onedrive-site-provisioning"></a>"OneDrive" svetainės parengimas
 
-Naujai sukurtoms paskyroms vartotojai turi prisijungti prie "Microsoft" 365 administravimo centro su savo paskyra ir spustelėti "OneDrive" piktogramą, kad neautomatiškai paleistumėte "OneDrive" svetainės nuostatą.
-Vykdykite žinyno [trikčių diagnostikos vadovą](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
+Naujai sukurtų paskyrų atveju vartotojai turi prisijungti prie ""Microsoft 365" administravimo centras naudodami savo paskyrą ir spustelėti piktogramą "OneDrive", kad rankiniu būdu pradėtų teikti "OneDrive" svetainę.
+Jei reikia [pagalbos, vadovaukitės šiuo trikčių](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) diagnostikos vadovu
 
-Tačiau jei vartotojas jau spustelėjo "OneDrive" piktogramą ir jo asmeninė svetainė nėra parengta per 24 valandas, prisijunkite prie palaikymo bilieto, kad galėtumėte gauti daugiau pagalbos.
+Tačiau, jei vartotojas jau spustelėjo "OneDrive" piktogramą ir jo asmeninė svetainė nėra susaistyta per 24 valandas, užregistruokite palaikymo kvitą, kad būtų teikiama papildoma pagalba.
 
