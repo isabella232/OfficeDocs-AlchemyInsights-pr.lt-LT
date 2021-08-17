@@ -15,12 +15,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0e4c2607c5105d2811ed077dc269ae75f066efe1dd45bbb9936b2336a370a052
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd1b749a5798bcf0b42d12bfe0add2a7b3933f4dec2225bfd1d030a29f3edb0a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976549"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889838"
 ---
 # <a name="manage-subscription-renewal"></a>Prenumeratos atnaujinimo valdymas
 
@@ -28,8 +28,8 @@ Norėdami valdyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba i�
 
 1. Administravimo centre eikite į puslapį  >  **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Skirtuke **Produktai** raskite prenumeratą, kurią norite valdyti, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite Redaguoti **periodinį atsiskaitymą**.
-3. Srityje **Redaguoti periodinį atsiskaitymą** pasirinkite **Įjungtos**, **Įjungtos, Atnaujinti vieną kartą** arba **Išjungta**.
+3. Srityje **Redaguoti periodinį atsiskaitymą** pasirinkite **On**, **On , renew onces** arba **Off**.
 4. Pasirinkite **Įrašyti**.
 
-Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 

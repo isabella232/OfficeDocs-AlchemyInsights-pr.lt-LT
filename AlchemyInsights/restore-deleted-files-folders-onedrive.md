@@ -1,5 +1,5 @@
 ---
-title: Panaikintų failų ar aplankų atkūrimas "OneDrive"
+title: Panaikintų failų arba aplankų atkūrimas "OneDrive"
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109824"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Panaikintų failų ar aplankų atkūrimas "OneDrive"
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Panaikintų failų arba aplankų atkūrimas "OneDrive"
 
-Jei netyčia panaikinote failą ar aplanką "OneDrive", galbūt galėsite jį atkurti iš "OneDrive" šiukšlinės.
+Jei netyčia panaikinsite failą arba aplanką "OneDrive", vėliau galėsite jį atkurti iš "OneDrive" šiukšlinės.
 
-* [Panaikintų failų ar aplankų atkūrimas "OneDrive"](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [Panaikintų failų arba aplankų atkūrimas "OneDrive"](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-Jei jūsų "OneDrive" failai bus ištrinti, perrašyti, sugadinti ar užkrėsti kenkėjiška programa, galite atkurti visą "OneDrive" iki ankstesnio laiko.
+Jei daug jūsų failų "OneDrive", perrašomi, sugadinami arba užkrėsti kenkėjiškomis programomis, galite atkurti visą "OneDrive" anksčiau.
 
-* ["OneDrive" atkūrimas](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Atkurti "OneDrive"](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

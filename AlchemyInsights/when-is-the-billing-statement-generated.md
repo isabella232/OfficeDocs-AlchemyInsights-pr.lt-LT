@@ -16,19 +16,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 14bbb6ed3a174435a2112be2eeb794a79cd13f8677270878e0fc5036509c8e08
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 223f489e54c14fb7d72359f1c0acc72922f01b275991465219d52f592267d4ed
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899064"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Kada sugeneruojamas atsiskaitymo išrašas
 
 Jūsų išrašo data nustatyta kaip mėnesio diena po jūsų paskyros sukūrimo. Pavyzdžiui, jei savo paskyrą sukūrėte sausio 20 d., jūsų išrašo data nustatoma kaip 21-oji kiekvieno paskesnio mėnesio data.
 
-Papildomi mokesčiai, kurie atsiranda aktyvaus atsiskaitymo ciklo metu, įtraukiami į sąskaitą faktūrą už šį mėnesį. Kiekvienos sąskaitos faktūros atsiskaitymo ciklo pradžios ir pabaigos datos nurodytos **sąskaitos faktūros atsiskaitymo** suvestinėje.
+Papildomi mokesčiai, kurie atsiranda aktyvaus atsiskaitymo ciklo metu, įtraukiami į sąskaitą faktūrą už šį mėnesį. Kiekvienos sąskaitos faktūros atsiskaitymo ciklo pradžios ir pabaigos datos nurodytos **sąskaitos faktūros** atsiskaitymo suvestinėje.
 
 Kredito kortelės ir (arba) banko sąskaitos (jei taikoma) mokėjimai apmokami kitą dieną po **sąskaitos faktūros datos.**
   
-Norėdami sužinoti daugiau, [žr. Sąskaitos faktūros supratimas](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Norėdami sužinoti daugiau, [žr. Sąskaitos faktūros supratimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

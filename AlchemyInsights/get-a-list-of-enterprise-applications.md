@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116736"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Gaukite "Enterprise" taikomųjų programų sąrašą
 
@@ -52,9 +52,9 @@ ms.locfileid: "51404927"
 
 7. **Reikia eksportuoti nenaudojamų "Azure" programų** sąrašą – audito ataskaita
 
-    "Azure AD" programų žurnalus gali rodyti tik iki 30 dienų, jei turite "Azure AD Premium" licenciją.
+    "Azure AD" programų žurnalus gali rodyti tik iki 30 dienų, jei turite "Azure AD" Premium licenciją.
     Turite dvi parinktis, kaip išsaugoti duomenis ilgiau nei 30 dienų. Galite naudoti ["Azure AD" ataskaitų API](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) norėdami programiškai nuskaityti duomenis ir saugoti juos duomenų bazėje. Taip pat galite integruoti audito žurnalus į trečiosios šalies SIEM sistemą.
 
     Taip pat galite atsisiųsti visų programų ir priklausomų programų sąrašą dalyje "Azure Active directory>App Registrations">Atsisiųsti>Visos taikomosios programos / priklauso taikomosios programos.
 
-    Norėdami gauti taikomųjų programų sąrašą per MS Graph, žr. Taikomųjų programų sąrašas [– "Microsoft Graph v1.0"](https://docs.microsoft.com/graph/api/application-list) ir programos išteklių [tipas – "Microsoft Graph v1.0".](https://docs.microsoft.com/graph/api/resources/application)
+    Norėdami gauti taikomųjų programų sąrašą per MS "Graph", žr. Programų sąrašas [– "Microsoft "Graph" v1.0"](https://docs.microsoft.com/graph/api/application-list) ir programos išteklių [tipas – "Microsoft "Graph" v1.0".](https://docs.microsoft.com/graph/api/resources/application)
