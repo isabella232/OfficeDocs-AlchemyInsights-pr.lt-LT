@@ -1,5 +1,5 @@
 ---
-title: 1490 – trikčių diagnostika – "Udiscovery" – gedimai
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105576"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Turinio ieškos klaidų šalinimas
+# <a name="troubleshoot-content-search-errors"></a>Turinio ieškos klaidų trikčių šalinimas
 
-Ar susiduriate su problemomis dėl turinio ieškos arba gaunate gedimus, kai eksportuojate ieškos rezultatus?
+Ar kyla problemų dėl turinio ieškos ar nesėkmių eksportuojant ieškos rezultatus?
 
 Pavyzdžiui, ar vykdydami iešką gaunate šiuos veiksmus?
 
 - CS008 arba CS012 klaidos
 
-- Serverio užimtas/skirtojo laiko klaidos
+- Serverio užimtas / skirtasis laikas klaidos
 
 - Įvyko taikomosios programos klaida
 
-Arba, kai ieškote ar eksportuojate rezultatus iš daugybės pašto dėžučių (virš "100 000" pašto dėžučių), ar gaunate eksportavimo klaidų?
+Arba ieškodami arba eksportuodami rezultatus iš didelio pašto dėžučių skaičiaus (daugiau nei 100 000 pašto dėžučių) gaunate eksportavimo klaidų?
 
-Šio tipo klaidoms bandykite dar kartą ieškoti nepavykusių turinio vietų. Daugiau informacijos rasite  [šiame straipsnyje](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+Šių tipų klaidų atveju bandykite dar kartą ieškoti turinio vietų, kurių nepavyko. Daugiau  [informacijos žr.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) šiame straipsnyje.
 
-Jei eksportuojate daugiau nei 100 k pašto dėžučių, turite naudoti šį "PowerShell", kad atsisiųstumėte eksportavimo rezultatus:  [rezultatų eksportavimas iš daugiau nei 100 k pašto dėžučių](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Jei eksportuojate daugiau nei 100 K pašto dėžutes, norėdami atsisiųsti eksportavimo rezultatus, turėsite naudoti šią "Powershell": Rezultatų eksportavimas iš daugiau nei [100K pašto dėžučių.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

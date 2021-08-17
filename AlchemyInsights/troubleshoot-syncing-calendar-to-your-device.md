@@ -1,5 +1,5 @@
 ---
-title: "\"3800017\" kalendoriaus sinchronizavimo trikčių šalinimas įrenginyje"
+title: 3800017 kalendoriaus sinchronizavimo su įrenginiu trikčių šalinimas
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: 271c2161868b43aa7f8b18bb9bbad967b121125e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc597db13fb513930d141f8bfc7bfc8f7a52de6edfb12bf7db64a46e3cbdaa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105525"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Kalendoriaus sinchronizavimo su įrenginiu trikčių šalinimas
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Kalendoriaus sinchronizavimo su įrenginiu trikčių diagnostika
 
-Jei kyla sinchronizavimo problemų, kai pirmą kartą nustatote savo mobiliojo elektroninio pašto adresą, skaitykite [nepavyksta sinchronizuoti kalendoriaus ir kontaktų su telefonu arba planšetiniu kompiuteriu](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Jei pirmą kartą nustatydami mobilųjį el. paštą kyla sinchronizavimo problemų, žr. Nepavyksta sinchronizuoti kalendoriaus ir kontaktų [su mano telefonu arba planšetiniu kompiuteriu](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
   

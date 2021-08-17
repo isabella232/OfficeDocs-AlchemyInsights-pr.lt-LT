@@ -1,5 +1,5 @@
 ---
-title: Skambinimas telefono numeriu programoje "teams"
+title: Skambinti telefono numeriu Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046040"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Skambinimas telefono numeriu programoje "teams"
+# <a name="call-a-phone-number-in-teams"></a>Skambinti telefono numeriu Teams
 
-Eikite į  **pokalbiai**, pasirinkite  **surinkti numerį**ir naudokite numerio rinkiklį, kad įvestumėte numerį. Tada spustelėkite  **skambinti**.
+Eikite  **į** Skambučiai ,  **pasirinkite** Skambinti numeriu ir numerio rinkituku įveskite numerį. Tada spustelėkite  **Skambinti**.
 
-Jei nematote parinkties surinkti numerį, jūsų organizacija gali neįsigyti skambinimo plano. Bet vis tiek galite skambinti kitiems "teams" asmenims.  
+Jei nematote parinkties rinkti numerį, jūsų organizacijos galbūt nepirko skambinimo plano. Tačiau vis tiek galite skambinti kitiems žmonėms Teams.  
 
-Daugiau informacijos ieškokite [skambinimo telefono numeriu iš "teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)".
+Daugiau informacijos žr. [Skambinimas telefono numeriu iš Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).

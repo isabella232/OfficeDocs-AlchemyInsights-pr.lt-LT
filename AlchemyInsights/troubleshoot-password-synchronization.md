@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105763"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Slaptažodžių sinchronizavimo trikčių šalinimas
 
-Norėdami šalinti Slaptažodžių sinchronizavimo problemas, pradėkite naudodami šį AAD prijungti trikčių diagnostikos užduotį, kad nustatytumėte, kodėl slaptažodžiai nesinchronizuojami. Norėdami pradėti, eikite į [valdyti tiesioginį sinchronizavimą](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Norėdami šalinti slaptažodžių sinchronizavimo problemas, pradėkite naudodami šią AAD Prisijungimas trikčių diagnostikos užduotį, kad nustatytumėte, kodėl slaptažodžiai nesinchronizuojami. Norėdami pradėti, eikite į [Tiesioginio sinchronizavimo valdymas](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Atidarykite naują "Windows PowerShell" seansą savo "Azure AD Connect" serveryje ir pasirinkite parinktį **vykdyti kaip administratoriui** .
+1. Atidarykite naują Windows PowerShell seansą "Azure AD Prisijungimas serveryje ir pasirinkite **parinktį Vykdyti administratoriaus** teisėmis.
 
-2. Vykdyti Set-Execucionpolicy Remotepasirašė arba Set-Execucionpolicy neribojama.
+2. Paleiskite Set-ExecutionPolicy RemoteSigned" arba Set-ExecutionPolicy neribotas.
 
-3. Paleiskite "Azure AD Connect" vediklį.
+3. Paleiskite "Azure AD" Prisijungimas vediklį.
 
-4. Eikite į puslapį papildomos užduotys > **trikčių diagnostika**  >  **toliau**.
+4. Eikite į puslapį Papildomos užduotys, > **Šalinti**  >  **paskesnį trikčių diagnostiką.**
 
-5. Pasirinkite **Paleistis** , kad atidarytumėte "PowerShell" trikčių diagnostikos meniu.
+5. Pasirinkite **Paleisti,** kad atidarytumėte "PowerShell" trikčių diagnostikos meniu.
 
-6. Pasirinkite **Šalinti slaptažodžių sinchronizavimą**.
+6. Pasirinkite **Šalinti slaptažodžių sinchronizavimo triktis**.
 
-    Paprastai problema yra ta, kad slaptažodis nesinchronizuotas konkrečiam vartotojo abonementui.
+    Paprastai problema yra ta, kad konkrečios vartotojo paskyros slaptažodis nesinchronizuojamas.
 
-    **Pastabos** Slaptažodžio sinchronizavimas nutrūksta, jei prieš kurį laiką buvo sukurtas Paskutinis sėkmingas slaptažodžių sinchronizavimas.
+    **Pastabos** Slaptažodžio sinchronizavimas nepavyko, jei paskutinį kartą sėkmingai sinchronizuotas slaptažodis buvo prieš kurį laiką.
 
-Jei turite daugiau pagalbos trikčių diagnostikos slaptažodžio sinchronizavimo, žiūrėkite [slaptažodžių maišos sinchronizavimo su "AZURE AD Connect" sinchronizavimo trikčių diagnostika](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Daugiau informacijos apie slaptažodžių sinchronizavimo trikčių diagnostiką žr. [Slaptažodžių hash sinchronizavimo trikčių šalinimas naudojant "Azure AD" Prisijungimas sinchronizavimą](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
