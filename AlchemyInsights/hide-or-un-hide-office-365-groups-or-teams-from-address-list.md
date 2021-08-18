@@ -1,5 +1,5 @@
 ---
-title: "\"Office 365\" grupių arba komandų slėpimas arba slėpimas iš adresų sąrašo"
+title: Grupių arba komandų slėpimas arba Office 365 iš adresų sąrašo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: 12e221c69775f3dfeed1781b70d3061e1ca0ac3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e667e22cd81f38a1a2c1385bf42e5227cb641480f4b505110ee7349a13f13a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088404"
 ---
-# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>"Office 365" grupių arba komandų slėpimas arba slėpimas iš adresų sąrašo
+# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Grupių arba komandų slėpimas arba Office 365 iš adresų sąrašo
 
-Naudokite šią EXO "PowerShell" komandą, kad paslėptumėte arba atžymėtumėte "Office 365" grupę / komandas iš "Exchange" klientų ("Outlook", OWA) adresų sąrašų (GAL):
+Naudokite šią EXO "PowerShell" komandą, kad paslėptumėte arba atžymėtumėte Office 365 / komandas iš "Exchange" klientų (Outlook, OWA) adresų sąrašų (GAL):
 
 `
     Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:<$true> or <$false>
 `
 
-Naudokite šią EXO "PowerShell" komandą, kad paslėptumėte arba atžymėtumėte "Office365" grupę / komandas iš "Exchange" klientų ("Outlook", OWA):
+Naudokite šią EXO "PowerShell" komandą, kad paslėptumėte arba atžymėtumėte "Office365" grupę / komandas iš "Exchange" klientų (Outlook, OWA):
 
 `
     Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:<$true> or <$false>
 `
 
-- Išsamias instrukcijas [žr. "Office 365" grupių slėpimas GAL ir "Exchange" klientuose.](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal)
+- Išsamias instrukcijas [žr. Office 365 grupių slėpimas iš GAL ir Exchange klientų](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal).

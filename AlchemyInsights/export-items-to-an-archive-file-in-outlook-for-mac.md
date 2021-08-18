@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100410"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316648"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Elementų eksportavimas į archyvo failą "Outlook for Mac"
 
@@ -24,8 +24,7 @@ Norėdami sumažinti aplanko Gauta dydį, rankiniu būdu archyvuokite el. laišk
 
 1. Skirtuke  Įrankiai spustelėkite **Eksportuoti.**
 
-> [!NOTE]
-> Nematote **mygtuko Eksportuoti?** Įsitikinkite, kad turite naujausią "Outlook" versiją. Meniu Outlook **spustelėkite** Tikrinti, **ar yra naujinimų.** Jei Outlook visi naujinimai ir vis tiek nematote  mygtuko Eksportuoti,  meniu Failas Outlook **Eksportavimas.**
+    **Pastaba:** nematote mygtuko **Eksportuoti?** Įsitikinkite, kad turite naujausią "Outlook" versiją. Meniu Outlook **spustelėkite** Tikrinti, **ar yra naujinimų.** Jei Outlook visi naujinimai ir vis tiek nematote  mygtuko Eksportuoti,  meniu Failas Outlook **Eksportavimas.**
 
 2. Lauke **Eksportuoti į archyvo failą (.olm)** pažymėkite norimus eksportuoti elementus ir spustelėkite **Tęsti.**
 

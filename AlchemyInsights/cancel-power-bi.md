@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045897"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899548"
 ---
 # <a name="cancel-power-bi"></a>"Power BI" atšaukimas
 
@@ -31,9 +31,9 @@ ms.locfileid: "54045897"
 3. Srityje **Prenumeratos atšaukimas** pasirinkite atšaukimo priežastį. Jei norite, pateikite atsiliepimą.
 4. Pasirinkite **Įrašyti**.
 
-**Grąžinimas: bet koks paskesnį atsiskaitymo ciklą jums bus grąžintas bet koks sąskaitęs kreditas.**
+**Grąžinimas: bet koks paskesnį atsiskaitymo ciklą jums bus grąžintas bet koks svertinis kreditas.**
 
 > [!NOTE]
 > Jei nematote parinkties atšaukti, pasirinkite prenumeratą, kad pamatytumėte išsamios informacijos puslapį. Sekcijoje **Prenumeratos ir mokėjimo parametrai** pasirinkite Atšaukti **prenumeratą**.
 
-Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

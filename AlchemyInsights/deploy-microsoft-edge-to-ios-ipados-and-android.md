@@ -13,32 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194518"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316882"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>"Microsoft Edge" diegimas "iOS", "iPadOS" ir "Android"
 
-Toliau apibendrintas scenarijus padės jums priskirti "Microsoft Edge" "iOS", "iPadOS" ir "Android" įrenginių vartotojams.
+Toliau apibendrintas vadovaujamasis scenarijus padės jums priskirti Microsoft Edge "iOS", "iPadOS" ir "Android" įrenginių vartotojams.
 
-> [!NOTE]
-> Jei užblokuojate vartotojus iš werbowania mobiliųjų įrenginių, Šis vedlys neveiks ir vartotojams reikės įdiegti "Microsoft Edge".
+**Pastaba:** jei užblokavote vartotojus registruoti mobiliuosius įrenginius, šis valdomasis scenarijus neveiks ir vartotojams reikės įdiegti Microsoft Edge savo.
 
 Valdomasis scenarijus apima šiuos veiksmus:
 
 1. [Būtinosios sąlygos](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
 2. [Įvadas](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
 3. [Pagrindai](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
-4. [Konfigūracijos](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
-5. [Užduotis](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
+4. [Konfigūravimas](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
+5. [Užduotys](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [Peržiūra ir kūrimas](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Atlikus veiksmus, nurodytus "Microsoft Intune" "Microsoft Edge" verslui leidžia atlikti šias "Microsoft Edge" funkcijas:
+Atlikus veiksmus, nurodytus valdomą scenarijų, "Microsoft Intune" strategijos įgalins šias verslo Microsoft Edge funkcijas:
 
 - Dviguba tapatybė
 - Integravimas su "Microsoft Intune" programų apsaugos strategija
-- Integravimas su "Azure Active Directory" taikomosios programos tarpinio serverio
-- Valdomi Parankiniai ir pagrindinio puslapio spartieji klavišai
+- Integravimas su ""Azure Active Directory"" taikomosios programos tarpinį serverį
+- Valdomi parankiniai ir pagrindinio puslapio spartieji klavišai
