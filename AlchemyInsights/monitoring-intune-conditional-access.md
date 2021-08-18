@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113388"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>"Microsoft Intune" problemų šalinimas
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>""Microsoft Intune"
 
-Peržiūrėkite toliau išvardytus išteklius, kad dabar išspręstumėte problemą.
+Peržiūrėkite toliau nurodytus išteklius, kad išspręsite problemą dabar.
   
-1. Naudodami " [Intune" trikčių diagnostikos portalą](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) galite diagnozuoti ir išspręsti kai kurias įprastas triktis. Peržiūrėkite [šį dokumentą ](https://docs.microsoft.com/intune/help-desk-operators), kad sužinotumėte daugiau.
+1. Naudokite ["Intune" trikčių diagnostikos portalą,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) kad diagnozuojant ir išspręsdami kai kurias įprastas triktis. Peržiūrėkite [šį dokumentą, ](https://docs.microsoft.com/intune/help-desk-operators)jei reikia daugiau informacijos.
     
-2. Peržiūrėkite " [Intune" TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), kad rastumėte atsakymus ir sprendimus dažniausiai pasitaikančių problemų.
+2. Peržiūrėkite ["Intune TechNet", ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)kad rastumėte atsakymus ir bendrų problemų sprendimus.
     
-3. Peržiūrėkite [tarnybos sveikatą](https://portal.office.com/AdminPortal/Home#/servicehealth) , kad matytumėte tarnybos būseną. 
+3. Peržiūrėkite [Tarnybos sveikata,](https://portal.office.com/AdminPortal/Home#/servicehealth) kad pamatytumėte tarnybos būseną. 
     
-4. Peržiūrėkite " [Intune" dokumentus](https://docs.microsoft.com/intune/) , skirtus planavimui, mokomieji straipsniai, trikčių diagnostika ir kt. 
+4. Peržiūrėkite ["Intune"](https://docs.microsoft.com/intune/) dokumentaciją, kad būtų galima planuoti, kaip tai padaryti, šalinti triktis ir kt. 
     
 

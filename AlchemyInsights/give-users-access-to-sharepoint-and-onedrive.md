@@ -1,5 +1,5 @@
 ---
-title: Suteikti vartotojams prieigą prie "SharePoint" ir "OneDrive"
+title: Suteikite vartotojams prieigą prie SharePoint ir "OneDrive"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088908"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Suteikti vartotojams prieigą prie "SharePoint" ir "OneDrive"
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Suteikite vartotojams prieigą prie SharePoint ir "OneDrive"
 
 > [!NOTE]
-> Jei "OneDrive" arba "SharePoint" svetainė neprieinama keliems vartotojams, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema. [Tarnybos sveikatos ataskaitų srities tikrinimas](https://portal.office.com/adminportal/home#/servicehealth)
+> Jei "OneDrive" arba SharePoint svetainės negali keli vartotojai, kurie anksčiau turėjo prieigą, gali būti laikina tarnybos problema. [Tarnybos sveikatos ataskaitų srities tikrinimas](https://portal.office.com/adminportal/home#/servicehealth)
   
-Jei norite, kad jūsų organizacijos žmonės galėtų prisijungti ir naudoti "SharePoint" ir "OneDrive", jums reikia įtraukti paskyrų ir įsitikinti, kad jie turi licenciją, suteikianti jiems prieigą prie "SharePoint" ir "OneDrive". Paprasčiausias būdas įtraukti vartotojų yra "Microsoft" 365 administravimo centre.
+Jei norite, kad jūsų organizacijos žmonės galėtų prisijungti ir naudoti "SharePoint" ir ""OneDrive"", turite įtraukti jų paskyras ir įsitikinti, kad jie turi licenciją, kuri suteikia jiems prieigą prie "SharePoint" ir ""OneDrive"". Paprasčiausias būdas įtraukti vartotojų yra "Microsoft 365" administravimo centras.
   
-1. Eikite į ["Microsoft" 365 administravimo centro puslapį aktyvūs vartotojai](https://portal.office.com/adminportal/home#/users), tada spustelėkite **įtraukti vartotoją**.
+1. Eikite [į puslapį Aktyvūs vartotojai "Microsoft 365" administravimo centras](https://portal.office.com/adminportal/home#/users)tada **spustelėkite Įtraukti vartotoją**.
     
-2. Įveskite vartotojo informaciją ir įsitikinkite, kad dalyje **produktų licencijos**priskiriama licencija ir pažymėta " **SharePoint Online** ". 
+2. Užpildykite vartotojo informaciją ir įsitikinkite, kad dalyje **Produkto licencijos** priskiriama licencija ir **SharePoint "Online".** 
     
-Nepamirškite, kad jei jūsų organizacijoje leidžiate išorinį bendrinimą, vartotojai gali bendrinti "SharePoint" ir "OneDrive" turinį su organizacijai nepriklausančiais žmonėmis. Jums nereikia suteikti šių išorinių vartotojų licencijų. Jums taip pat nereikia įtraukti paskyrų, išskyrus atvejus, kai nustatyta "tik esami Išoriniai vartotojai". Tokiu atveju, jei žmonės nėra jūsų organizacijos kataloge, turite juos įtraukti kaip Svečių vartotojus "Azure AD" administravimo centre.
+Atkreipkite dėmesį, kad jei leisite išorinį bendrinimą organizacijoje, vartotojai galės bendrinti SharePoint ir "OneDrive" turinį su organizacijai nepriklausančiais žmonėmis. Jums nereikia suteikti šių išorinių vartotojų licencijų. Jums taip pat nereikia įtraukti paskyrų, nebent bendrinimas nustatytas kaip "Tik esami išoriniai vartotojai". Tokiu atveju, jei žmonės nėra jūsų organizacijos kataloge, turite juos įtraukti kaip svečių vartotojus "Azure AD" administravimo centre.
   
 

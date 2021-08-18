@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088872"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Darbo su „Teams“ tiesioginiais įvykiais pradžia
 
@@ -25,7 +25,7 @@ ms.locfileid: "51811968"
 
 Norint sukurti tiesioginį įvykį, jums reikės:
 
-- Pirmiausia patvirtinkite, kad "Teams Live Events" [yra jūsų šalyje ir regione;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Kai kuriose šalyse tiesioginiai įvykiai dar nepalaikomi.  Jei priskyrėte licencijas ir nustatėte strategijas, bet vis tiek negalite sukurti "Teams Live" įvykio, tikėtina, kad esate šalyje arba regione, kuriame tiesioginiai įvykiai dar nėra pasiekiami.
+- Pirmiausia patvirtinkite, kad Teams live events" [yra jūsų šalyje ir regione;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Kai kuriose šalyse tiesioginiai įvykiai dar nepalaikomi.  Jei priskyrėte licencijas ir nustatėte strategijas, bet vis tiek negalite sukurti "Teams Live Event", tikėtina, kad esate šalyje arba regione, kuriame tiesioginiai įvykiai dar nėra pasiekiami.
 
 - [„Office 365 Enterprise“ E1, E3 arba E5 licencijos arba „Office 365“ A3 arba A5 licencijos](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Pastaba**: dėl pastaruoju metu padidėjusio komandų naudojimo, kai vartotojui priskiriate komandų licenciją, gali praeiti maždaug 24 valandos, kol jos bus visiškai nustatytos. Iki tol negalėsite jiems priskirti komandų strategijų ir jiems gali nepavykti pasiekti kai kurių komandų funkcijų, pvz., skambinimo ir garso konferencijų.
 

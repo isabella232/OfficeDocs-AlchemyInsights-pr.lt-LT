@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 641a65038520a42b3a62dc2a3ff6a989238ba422649a973adb6f42cf556e5a53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113568"
 ---
 # <a name="recover-missing-notebook"></a>Atkurti trūkstamą bloknotą
 
-Jei bloknotas "OneDrive" buvo netyčia panaikintas, galite jį atkurti, atlikite veiksmus, nurodytus [Panaikintų failų arba aplankų atkūrimas "OneDrive"](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Jei bloknotas "OneDrive" buvo netyčia panaikintas, galite jį atkurti, atlikite veiksmus, nurodytus [panaikintų](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f) failų arba aplankų atkūrimas "OneDrive"
 
-Pagal numatytuosius parametrus galite atkurti bloknotą panaikintame "OneDrive" per 30 dienų, atlikite veiksmus, nurodytus [panaikintų "OneDrive" atkūrimas](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Galite atkurti bloknotą panaikintame "OneDrive" pagal numatytuosius nustatymus per 30 dienų, atlikite veiksmus, nurodytus [panaikintų](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) duomenų "OneDrive"
 
-"OneNote" gali naudoti kitą paskyrą, nei tikėjotės. Jei turite ne tik savo asmeninę "Microsoft" paskyrą, bet ir darbo arba mokymo įstaigos paskyrą, turėsite įtraukti kitą paskyrą, kad būtų galima peržiūrėti visus bloknotus (žr. instrukcijas, kaip įtraukti paskyrą programoje ["OneNote".](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
+OneNote gali naudoti kitą paskyrą, nei tikitės. Jei turite ne tik savo asmeninę "Microsoft" paskyrą, bet ir darbo arba mokymo įstaigos paskyrą, turėsite įtraukti kitą paskyrą, kad būtų galima peržiūrėti visus bloknotus (žr. instrukcijas, kaip įtraukti paskyrą programoje ["OneNote".](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)

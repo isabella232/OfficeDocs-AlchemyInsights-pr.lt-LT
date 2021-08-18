@@ -15,23 +15,23 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501320"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900117"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licencijų sustabdymas arba pristabdimas
 
 **ŽIŪRĖKITE vaizdo įrašą,** kuriame rodoma, kaip tai padaryti: [Esamų licencijų pašalinimas](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Norėdami laikinai sustabdyti arba pristabdyti licencijų naudojimą, galite pašalinti licencijas iš "Microsoft 365" administravimo centras, tada vėliau jas įtraukti.
+Norėdami laikinai sustabdyti arba pristabdyti licencijos naudojimą, galite pašalinti licencijas iš "Microsoft 365" administravimo centras, tada vėliau jas įtraukti.
 
-1. Prieš pašalindami licencijas iš prenumeratos, pirmiausia [turite panaikinti vartotojų licencijas.](/microsoft-365/admin/manage/remove-licenses-from-users)
+1. Prieš pašalindami licencijas iš prenumeratos, pirmiausia [turite panaikinti vartotojų licencijas.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Tada eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 3. Skirtuke  Produktai pasirinkite prenumeratą, kurią norite atnaujinti.
 4. Puslapyje Prenumeratos išsami informacija pasirinkite **Šalinti licencijas**.
 5. Srities **Licencijų pašalinimas** lauke  Bendras licencijų skaičius įveskite bendrą licencijų, kurias norite naudoti šiai prenumeratai, skaičių, tada pasirinkite **Įrašyti**. Pavyzdžiui, jei turite 100 licencijų ir norite sustabdyti arba pristabdyti 25, įveskite 75 kaip bendrą prenumeratos licencijų sumą.
 
-Daugiau informacijos žr. [Licencijų įsigijimas arba pašalinimas](/microsoft-365/commerce/licenses/buy-licenses).
+Daugiau informacijos žr. [Licencijų įsigijimas arba pašalinimas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028753"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899892"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Nustatyti, kada išorinis el. pašto peradresavimas sukonfigūruotas pašto dėžutėse
 
-Kai Microsoft 365 sukonfigūruoja išorinį el. pašto peradresavimą pašto dėžutėje, veikla audituojamas kaip **"cmdlet" set-Mailbox** dalis. Veiklą galite matyti naudodami audito žurnalo iešką saugos & centre.
+Kai Microsoft 365 sukonfigūruoja išorinį el. pašto peradresavimą pašto dėžutėje, veikla audituojamas kaip **"cmdlet" set-Mailbox** dalis. Galite matyti veiklą naudodami audito žurnalo iešką. Štai kaip tai padaryti.
 
-1. Prisijunkite prie ["Microsoft 365 centro.](https://protection.office.com/)
+1. Atlikite vieną iš šių veiksmų:
+   - Lauke "Microsoft 365" atitikties centras <https://compliance.microsoft.com> , eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
+   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://sip.security.microsoft.com/auditlogsearch> .
 
-2. Eikite į **ieškos**  >  **audito žurnalo ieškos** puslapį.
+2. Puslapyje **Tikrinimas** patikrinkite, ar pažymėtas **skirtukas** Ieška, tada sukonfigūruokite šiuos parametrus:
+   - Laukuose Pradžia ir Pabaiga pasirinkite **datos /** **laiko diapazoną.**
+   - Patikrinkite, **ar lauke** Veikla yra Rodyti visų **veiklų rezultatus.**
 
-3. Pasirinkite datos diapazoną **laukuose Pradžios data** ir **Pabaigos** data. Nereikia nurodyti vartotojo vardo. Patikrinkite, **ar lauke** Veikla nustatyta Rodyti visų **veiklų rezultatus.**
+3. Kai baigsite, spustelėkite **Ieškoti**. Veikla rodoma naujame audito **ieškos** puslapyje.
 
-4. Spustelėkite **Ieškoti**.
+4. Rezultatuose spustelėkite **Filtruoti rezultatus ir** veiklos filtro lauke įveskite **Set-Mailbox.**
 
-Rezultatuose spustelėkite **Filtruoti rezultatus ir** veiklos filtro lauke įveskite **Set-Mailbox.** Pasirinkite audito įrašą rezultatuose. **Iškeliame** meniu Išsami informacija spustelėkite **Daugiau informacijos**. Turite peržiūrėti kiekvieno audito įrašo informaciją, kad nustatytumėte, ar veikla susijusi su el. pašto peradresavimu.
+5. Pasirinkite audito įrašą rezultatuose. **Iškeliame** meniu Išsami informacija spustelėkite **Daugiau informacijos**. Turite peržiūrėti kiekvieno audito įrašo informaciją, kad nustatytumėte, ar veikla susijusi su el. pašto peradresavimu.
 
-- **ObjectId**: modifikuotos pašto dėžutės pseudonimo reikšmė.
+   - **ObjectId**: modifikuotos pašto dėžutės pseudonimo reikšmė.
+   - **Parametrai**: _ForwardingSmtpAddress_ nurodo tikslinį el. pašto adresą.
+   - **UserId**: vartotojas, kuris sukonfigūravo el. pašto peradresavimą lauke **ObjectId.**
 
-- **Parametrai**: _ForwardingSmtpAddress_ nurodo tikslinį el. pašto adresą.
-
-- **UserId**: vartotojas, kuris sukonfigūravo el. pašto peradresavimą lauke **ObjectId.**
-
-Daugiau informacijos žr. [Pašto dėžutės el. pašto peradresavimo nustatymas](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Daugiau informacijos žr. [Pašto dėžutės el. pašto peradresavimo nustatymas](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
