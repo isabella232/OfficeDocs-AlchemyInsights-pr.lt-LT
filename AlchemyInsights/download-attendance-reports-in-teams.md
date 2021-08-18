@@ -12,17 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 99bbdff705fa0314c59d8750ecbd421e58dda739b11a0ac6298e15aa03fd8e47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7792f50c4949a21a2b31fb29b2af709be1febe1f
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004367"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339076"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Lankomumo ataskaitų programoje „Teams“ atsisiuntimas
 
-Susitikimų organizatoriai gali atsisiųsti lankomumo ataskaitas susitikimų metu. Būdami administratoriumi ir nustatydami „Teams“ susitikimo strategiją, galite valdyti, ar susitikimo organizatoriai galės atsisiųsti susitikimo lankomumo ataskaitas. Pagal numatytuosius parametrus, galimybė atsisiųsti ataskaitą yra išjungta. Norėdami gauti veiksmus, kurie padės įgalinti šią funkciją, žr. [Susitikimo strategijos nustatymas – susitikimo lankomumo ataskaita](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Susitikimų organizatoriai gali atsisiųsti lankomumo ataskaitas susitikimų metu. Būdami administratoriumi ir nustatydami „Teams“ susitikimo strategiją, galite valdyti, ar susitikimo organizatoriai galės atsisiųsti susitikimo lankomumo ataskaitas. 
 
-Įgalinus šią funkciją, susitikimo metu susitikimo organizatoriai gali pasirinkti **Rodyti dalyvius** ir tuomet pasirinkti **Atsisiųsti dalyvių sąrašą**. Daugiau informacijos, žr. [Lankomumo ataskaitų atsisiuntimas programoje „Teams“](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) ir [„Microsoft Teams“ susitikimų lankomumo ataskaita](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
+Pagal numatytuosius parametrus, galimybė atsisiųsti ataskaitą yra išjungta. 
 
-**Svarbu**: lankomumo ataskaitą galėsite atsisiųsti tik vykstant susitikimui ir dalyviams vis dar esant susitikime. 
+Norėdami įgalinti lankomumo ataskaitas: 
+1.  Eikite į [Teams administravimo centrą](https://admin.teams.microsoft.com/policies/meetings).
+1.  Pasirinkite **visuotinę (organizacijos numatytoji) arba** kitą konkrečią strategiją.
+1.  Dalyje **Bendra** eikite į **parametrą Leisti įtraukimo** ataskaitą, tada pasirinkite **Įgalinti**.
+
+Daugiau informacijos apie lankomumo ataskaitas žr.:
+
+- [Susitikimo strategijos parametrai – susitikimo lankomumo ataskaita](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
+- [Lankomumo ataskaitų programoje „Teams“ atsisiuntimas](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) 
+- [Microsoft Teams susitikimo lankomumo ataskaita](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
