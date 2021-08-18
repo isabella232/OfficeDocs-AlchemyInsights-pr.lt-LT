@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985645"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331901"
 ---
 # <a name="more-info-about-retention-policies"></a>Daugiau informacijos apie saugojimo strategijas
 
@@ -30,7 +30,7 @@ Daugumai organizacijų jų duomenų apimtis ir sudėtingumas didėja kasdien –
 - Eikite į Saugos ir atitikties > duomenų valdymo > saugojimas
   - Žr. [šį](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) straipsnį
 
-- Eikite į El. duomenų > ir atitikties> Advanced eDiscovery 
+- Eikite į "eDiscovery" > ir atitikties> Advanced eDiscovery 
   - Žr. [šį](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) straipsnį
 
 - Eikite į Saugos ir atitikties > saugojimo >
@@ -52,5 +52,4 @@ Daugumai organizacijų jų duomenų apimtis ir sudėtingumas didėja kasdien –
   - [IRM sąraše / bibliotekoje](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [IRM apžvalga](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Primygtinai rekomenduojame pereiti į saugos ir atitikties strategijas, jei vis dar naudojate senstelėjusios el. duomenų aptikimo arba IRM arba svetainės uždarymo ir naikinimo strategijas.
+**Pastaba:** primygtinai rekomenduojame pereiti į saugos ir atitikties strategijas, jei vis dar naudojate senstelėjusios el. duomenų aptikimo arba IRM arba svetainės uždarymo ir naikinimo strategijas.

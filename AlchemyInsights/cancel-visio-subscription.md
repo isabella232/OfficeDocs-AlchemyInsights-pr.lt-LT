@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895635"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331467"
 ---
 # <a name="cancel-visio-subscription"></a>Prenumeratos Visio atšaukimas
 
-Administratoriai gali atšaukti Visio organizacijos prenumeratos "Microsoft 365" administravimo centras.
+Administratoriai gali atšaukti Visio organizacijos prenumeratą "Microsoft 365" administravimo centras.
 
 1. Eikite į **puslapį** \> [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Skirtuke **Produktai** raskite Visio prenumeratą, kurią norite atšaukti. Pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite **Atšaukti prenumeratą**.

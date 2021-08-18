@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922247"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331049"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Duomenų šalinimas ir įrenginių duomenų ištrynimas iš „Intune“
 
@@ -32,8 +32,7 @@ Norint pašalinti įmonės duomenis, valdomus „Intune“, arba atkurti gamykli
 4. Patvirtinkite pasirinkdami **Taip**. Iki tol, kol ištrynimo veiksmas bus baigtas, įrenginio veiksmo būsena bus rodoma kaip *Laukiama, kol bus nustota naudoti*.
     Atlikus veiksmą, mobiliojo įrenginio nebematysite valdomųjų įrenginių sąraše.
 
-> [!NOTE]
-> Įmonės duomenų negalima pašalinti iš įrenginių, PRIJUNGTŲ prie „Microsoft Azure AD“. 
+**Pastaba:** įmonės duomenų negalima pašalinti iš įrenginių, PRIJUNGTŲ prie "Azure AD". 
 
 Visą išsamią informaciją apie veiksmų Nustoti naudoti ir Duomenų ištrynimas poveikį, įskaitant tai, kas paliekama ir kas panaikinama, žr. šiuose dokumentuose:
 

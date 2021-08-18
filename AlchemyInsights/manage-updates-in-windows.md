@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3583"
-ms.openlocfilehash: de1aa1537c9f5728533000949f869182633ae7277d5e2910b6e572a10195571d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f18c97ba9c374e44b2561e87e57bbd2d2a025e48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077838"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332789"
 ---
 # <a name="manage-updates-in-windows-10"></a>„Windows 10“ naujinimų valdymas
 
@@ -25,7 +25,8 @@ ms.locfileid: "54077838"
 
 - Spustelėkite **[Pradžia > Parametrai > Naujinimas ir sauga > „Windows Update“](ms-settings:windowsupdate)**.
 
-- Spustelėkite **Pristabdyti naujinimus 7 dienoms** arba **Išplėstinės parinktys**. Tada dalyje **Pristabdyti naujinimus** spustelėkite išplečiamąjį meniu ir nurodykite datą, kada naujinimai vėl turėtų būti teikiami. **Pastaba**: pasiekę pristabdymo limitą, turėsite įdiegti naujausius naujinimus, kad galėtumėte dar kartą pristabdyti naujinimus.
+- Spustelėkite **Pristabdyti naujinimus 7 dienoms** arba **Išplėstinės parinktys**. Tada dalyje **Pristabdyti naujinimus** spustelėkite išplečiamąjį meniu ir nurodykite datą, kada naujinimai vėl turėtų būti teikiami. 
+    **Pastaba**: pasiekę pristabdymo limitą, turėsite įdiegti naujausius naujinimus, kad galėtumėte dar kartą pristabdyti naujinimus.
 
 Jūsų įrenginys turės būti paleistas iš naujo, kad būtų baigti diegti naujinimai. Jei būsite prašomi iš naujo paleisti įrenginį, kai juo naudojatės, galėsite suplanuoti paleidimą iš naujo patogesniu laiku:
 

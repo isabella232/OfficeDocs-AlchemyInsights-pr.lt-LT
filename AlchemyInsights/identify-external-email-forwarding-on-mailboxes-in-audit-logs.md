@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899892"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331167"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Nustatyti, kada išorinis el. pašto peradresavimas sukonfigūruotas pašto dėžutėse
 
 Kai Microsoft 365 sukonfigūruoja išorinį el. pašto peradresavimą pašto dėžutėje, veikla audituojamas kaip **"cmdlet" set-Mailbox** dalis. Galite matyti veiklą naudodami audito žurnalo iešką. Štai kaip tai padaryti.
 
 1. Atlikite vieną iš šių veiksmų:
-   - Lauke "Microsoft 365" atitikties centras <https://compliance.microsoft.com> , eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
-   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://sip.security.microsoft.com/auditlogsearch> .
+   - Lauke "Microsoft 365" atitikties centras , <https://compliance.microsoft.com> eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
+   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> , eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Puslapyje **Tikrinimas** patikrinkite, ar pažymėtas **skirtukas** Ieška, tada sukonfigūruokite šiuos parametrus:
    - Laukuose Pradžia ir Pabaiga pasirinkite **datos /** **laiko diapazoną.**

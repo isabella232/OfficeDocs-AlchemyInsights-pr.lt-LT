@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>"Microsoft Open Source" elgesio kodas
-Šis projektas patvirtino ["Microsoft Open Source" elgesio kodą](https://opensource.microsoft.com/codeofconduct/).
-Daugiau informacijos žr. Duk [apie elgesio kodeksą arba](https://opensource.microsoft.com/codeofconduct/faq/) susisiekite su [opencode@microsoft.com](mailto:opencode@microsoft.com) su papildomais klausimais ar komentarais.
+Šis projektas patvirtino ["Microsoft Open Source" elgesio kodeksą.](https://opensource.microsoft.com/codeofconduct/)
+Daugiau informacijos žr. DUK [apie elgesio kodeksą arba](https://opensource.microsoft.com/codeofconduct/faq/) susisiekite su [opencode@microsoft.com](mailto:opencode@microsoft.com) su papildomais klausimais ar komentarais.

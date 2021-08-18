@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963795"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339040"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Kaip įtraukti ir valdyti administratorius – rekomenduojami veiksmai
 
@@ -29,7 +29,7 @@ Atsižvelgdami į problemos aprašą, radome jums sprendimą. Dauguma klientų g
 - Paskyros administratorius gali redaguoti abu vaidmenis, o prenumeratos administratorius gali keisti tik "Azure" portalo [bendradarbiavimo administratorius.](https://ms.portal.azure.com/#home)
 - ["Azure" prenumeratos administratorių įtraukimas arba keitimas](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Atnaujinkite prenumeratos administratorių arba Co-Administrator (AIRS) prenumeratas**
+**Prenumeratos administratoriaus arba "Co-Administrator (AIRS) prenumeratų naujinimas**
 
 Tarnybos administratorius arba bendras administratorius gali savarankiškai atlikti šį veiksmą, atlikite šiuos veiksmus:
 
@@ -37,7 +37,7 @@ Tarnybos administratorius arba bendras administratorius gali savarankiškai atli
 2. Spustelėkite eilutės elementą su prenumerata. Atidaroma jūsų prenumeratos apžvalga.
 3. Prenumeratos **ašmenyse** spustelėkite **Ypatybės**. 
 4. Spustelėkite tarnybos **administravimo** mygtuką.
-5. Įveskite vartotojo, kurį norite nustatyti kaip tarnybos administratorių, el. paštą ir spustelėkite **Gerai**.
+5. Įveskite vartotojo, kurį norite nustatyti kaip tarnybos administratorių, el. paštą ir spustelėkite **Gerai.**
 
 **Add/Change/Remove Co-administrator**
 
@@ -75,7 +75,7 @@ Galite įtraukti naujų vartotojų arba panaikinti esamus vartotojus iš savo ""
 - [Vadovėlis: prieigos suteikimas vartotojui naudojant RBAC ir "Azure" portalą](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - ["Azure" RBAC trikčių šalinimas](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Išteklių tvarkymas naudojant "Azure" valdymo grupes](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Kaip prašyti "Azure" sąskaitos faktūros kopijos el. paštu](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Kaip prašyti "Azure" sąskaitos faktūros kopijos el. paštu](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Kaip įtraukti, atnaujinti arba pašalinti kredito arba debeto kortelę iš "Azure"](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Manage (Reactivate/Cancel/Switch) subscription](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

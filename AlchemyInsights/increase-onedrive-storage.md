@@ -1,26 +1,29 @@
 ---
-title: Padidinkite "OneDrive" saugyklą
+title: Padidinti "OneDrive" saugyklą
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000354"
 - "6214"
-ms.openlocfilehash: 6c22e94cf98c4dad6e6d68a7c4a8c2eeecb1a0bb
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: b3249629c0c2ed7799c16a6ac37d3bd26a5e2700
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46871952"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338932"
 ---
-# <a name="increase-onedrive-storage"></a>Padidinkite "OneDrive" saugyklą
+# <a name="increase-onedrive-storage"></a>Padidinti "OneDrive" saugyklą
 
-Kaip visuotinis arba "SharePoint" administratorius programoje "Microsoft 365" galite nustatyti konkretaus vartotojo "OneDrive" saugyklos vietą tiesiogiai iš "Microsoft" administravimo centro.  
+Kaip visuotinis arba SharePoint "Microsoft 365" administratorius, galite nustatyti "OneDrive" konkretaus vartotojo saugyklos vietą tiesiai iš "Microsoft" administravimo centro.  
 
-Daugiau informacijos ieškokite [konkretaus vartotojo "OneDrive" saugyklos vietos keitimas](https://docs.microsoft.com/onedrive/change-user-storage).
+Daugiau informacijos [žr. Konkretaus vartotojo "OneDrive" vietos keitimas.](https://docs.microsoft.com/onedrive/change-user-storage)
+
+**Pastaba:** norėdami patvirtinti saugyklą, prieinamą jūsų organizacijos vartotojams, žr. [visą prenumeratos palyginimo lentelę](https://go.microsoft.com/fwlink/?linkid=2139145). 
