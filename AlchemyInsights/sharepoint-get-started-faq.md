@@ -1,5 +1,5 @@
 ---
-title: "\"SharePoint Online\" Dažniausios problemos ir sprendimai"
+title: SharePoint Internetinės bendrosios problemos ir sprendimai
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085812"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>"SharePoint Online" Dažniausios problemos ir sprendimai
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Internetinės bendrosios problemos ir sprendimai
 
-Štai keletas dažnai Užklaustos "SharePoint Online" problemų temos:
+Toliau pateikiame keletą dažnai užklaustų temų, SharePoint problemų:
 
-- **Darbo pradžia**: " [SharePoint" išvaizdos knygos](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) naudojimas norint sukurti gražų, galingą intranetą, kuris sujungia darbo vietą. Peržiūrėkite [pavyzdžius](https://lookbook.microsoft.com/) ir gaukite [dizaino gaires](https://spdesign.azurewebsites.net/). Žiūrėkite Įvadas [į "SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) " bendram Supažindinimas su "SharePoint Online".
+- **Darbo pradžia**: naudokite ["SharePoint" knygą, kad](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) kurtumėte gražų, galingą intranetą, kuris prijungs darbo vietą. Peržiūrėkite [pavyzdžius](https://lookbook.microsoft.com/) ir [gaukite dizaino rekomendacijų.](https://spdesign.azurewebsites.net/) Žr. [Įvadas į SharePoint Online",](https://docs.microsoft.com/sharepoint/introduction) jei norite gauti bendrą "SharePoint Online".
 
-- **Teisės**: [sukurkite teisių strategiją](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ir [Supraskite teisių lygius](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Teisės:** [sukurkite teisių strategiją ir](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) [supraskite teisių rinkinius.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Bendrinimas**: [bendrinimas su kitais](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) organizacijos viduje arba [su kitais asmenimis, nepriklausančiais jūsų organizacijai](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Bendrinimas**: [bendrinimas su kitais](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) organizacijos nariais arba [su kitais organizacijai nepriklausančiais asmenimis.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- **Darbas su dokumentų failais**: Sužinokite daugiau apie failų [nusiuntimą](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), failų [atsisiuntimą](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), failų [redagavimą](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)ir dabartinius [failų apribojimus](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **Darbas su dokumentų** [failais:](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)Sužinokite daugiau apie failų [nusiuntimą,](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb) [failo atsisiuntimą,](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)failų redagavimą ir [dabartinius failų apribojimus](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Saugykla**: Sužinokite, kaip valdyti vartotojų "OneDrive" saugyklą </a> , pvz., valdyti [svetainės saugyklą](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) jūsų prenumeratai ir [suprasti visus limitus](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Saugykla**: sužinokite, kaip valdyti vartotojus "OneDrive" </a> saugyklą , pvz., valdyti svetainės [saugyklą](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) prenumeratoje ir [suprasti visus apribojimus.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-- **Nuomotojo pervardijimas**: daugiau informacijos ieškokite ["SharePoint" domeno vardo keitimas](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) .
+- **Nuomotojo pervardijimas:** [daugiau informacijos SharePoint domeno](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) vardo keitimas.
 
-- **Modernizuoti "SharePoint**": Peržiūrėkite [modernios "SharePoint" funkcijos vadovą](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ir [Modernizuokite klasikines "SharePoint" svetaines](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , kad pradėtumėte perkėlimą.
+- **Modernizuokite SharePoint:** peržiūrėkite modernaus naudojimo ["SharePoint"](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) vadovą ir modernizuokite [klasikines SharePoint svetaines,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) kad pradėtumėte judėti.
 
-**Pastaba:** Norėdami gauti konkretesnį atsakymą apie "SharePoint" problemą, trumpai Perfrazuokite savo klausimą ir įtraukite visas rodomas klaidas arba funkcijas, kurias naudojate.
+**Pastaba:** Norėdami gauti išsamesnį atsakymą apie SharePoint problemą, trumpai perfrazuokite klausimą ir įtraukite visas matotemas klaidas ar naudojamas funkcijas.

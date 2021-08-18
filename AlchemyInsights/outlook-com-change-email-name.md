@@ -1,5 +1,5 @@
 ---
-title: Pakeiskite savo el. pašto vardą "Outlook.com"
+title: El. pašto vardo keitimas "Outlook.com"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112524"
 ---
-# <a name="change-your-email-name"></a>Pakeiskite savo el. pašto vardą
+# <a name="change-your-email-name"></a>El. pašto vardo keitimas
 
-Jei turite vieną Outlook.com elektroninio pašto adresą ir norite pakeisti vardų gavėjus, matysite savo pranešimuose:
+Jei turite vieną Outlook.com el. pašto adresą ir norite pakeisti vardų gavėjus, jie bus mūsi jūsų laiškuose:
   
-1. Pasirinkite savo paskyros paveikslėlį puslapio viršutiniame dešiniajame kampe.
+1. Pasirinkite paskyros paveikslėlį viršutiniame dešiniajame puslapio kampe.
 2. Pasirinkite **Mano profilis**.
-3. Pasirinkite **Redaguoti vardą** , kad būtų atlikti pokyčiai ir pasirinkite **įrašyti**.
+3. Pasirinkite **Redaguoti pavadinimą,** kad galėtumėte atlikti keitimus, tada **pasirinkite Įrašyti**.
 
-Norėdami pereiti prie savo profilio pavadinimo, palaukite iki 24 valandų.
+Palaukite iki 24 valandų, kad įsigaliotų jūsų profilio pavadinimo pakeitimai.
   
-Jei turite daugiau nei vieną el. pašto pseudonimą arba adresą, prijungtą prie savo "Outlook.com" paskyros, galite pasirinkti siųsti laiškus iš bet kurio savo adreso.
+Jei turite daugiau nei vieną el. pašto pseudonimą arba adresą, prijungtą prie "Outlook.com" paskyros, galite pasirinkti siųsti el. laiškus iš bet kurio iš savo adresų.
   
-1. Kurdami pranešimą pasirinkite "..." kūrimo lango apačioje.
-1. Pasirinkite **Rodyti** , kad pamatytumėte eilutę nuo.
-1. Virš eilutės Kam pasirinkite **iš** ir pasirinkite, kurį elektroninio pašto adresą norite naudoti.
+1. Kurdami pranešimą, pasirinkite "..." kūrimo lango apačioje.
+1. Pasirinkite **Rodyti nuo,** kad pamatytumėte eilutę Nuo.
+1. Virš eilutės Į pasirinkite Nuo ir **pasirinkite,** kurį el. pašto adresą norite naudoti.
 
-Daugiau informacijos ieškokite el. [laiško siuntimas iš kito adreso programoje "Outlook.com"](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Daugiau informacijos žr. [El. laiškų siuntimas iš kito adreso Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

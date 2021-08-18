@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
-ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
+ms.openlocfilehash: f19ab35837085b4a99212ab445d815a899c2c9df
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53195528"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315448"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ar pašto dėžutėje gaunate per daug sukčiavimo apsimetant arba pašto šiukšlių?
 
@@ -26,7 +26,7 @@ Kaip Microsoft 365 administratorius, geriausias būdas nustatyti, kodėl buvo pr
 
 Norėdami palengvinti, galite leisti vartotojams tiesiogiai pranešti "Microsoft" naudodami ataskaitos [pranešimo papildinę](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Ar žinote?**: dabar galite [](https://security.microsoft.com/messagetrace) pateikti pavyzdžius tiesiai iš pranešimų sekimo ir E5 / "Microsoft" sargybos Office 365 2 plano klientai gali pateikti pavyzdžius iš ["Threat Explorer".](/microsoft-365/security/office-365-security/threat-explorer)
+**Ar žinote?**: Dabar galite [](https://security.microsoft.com/messagetrace) pateikti pavyzdžius tiesiai iš pranešimų sekimo ir "E5" / "Microsoft" sargybos Office 365 2 plano klientai gali pateikti pavyzdžius iš ["Threat Explorer".](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
 Norėdami sužinoti daugiau apie pranešimų pateikimą analizei "Microsoft 365" sargyba portale, žr. vaizdo įrašą [Pavyzdžių pateikimas analizei](https://go.microsoft.com/fwlink/?linkid=2166435).
 

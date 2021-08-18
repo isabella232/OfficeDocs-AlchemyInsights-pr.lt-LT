@@ -1,5 +1,5 @@
 ---
-title: Pasirinktinio pranešimų siuntimas naudojant "Intune"
+title: Pasirinktinių pranešimų siuntimas naudojant "Intune"
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086172"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kaip nusiųsti pritaikytus pranešimus valdomoms "iOS" ir "Android" įrenginiams vartotojams
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kaip siųsti pasirinktinius pranešimus valdomų "iOS" ir "Android" įrenginių vartotojams
 
-Pasirinktinio naudojimo pranešimus, skirtus "Intune", tvarko įmonės portalo programėlė vartotojo įrenginyje. Tada programa sukuria "Push" pranešimą tame įrenginyje.
+Pasirinktinius "Intune" Company Portal vartotojo įrenginyje. Tada programa sukuria "push" pranešimą šiame įrenginyje.
 
-Toliau nurodyti įrenginio Būtinosios sąlygos, skirtos palaikyti pasirinktiniams pranešimams gavimą, o tada programėlei sukurti "Push" pranešimą:
+Toliau nurodytos įrenginio būtinosios sąlygos, kad būtų galima palaikyti pasirinktinių pranešimų gavimą, o programa – tada sukurti "push" pranešimą:
 
-- Įrenginyje turi būti įdiegta įmonės portalo taikomoji programa.  
+- Įrenginyje turi būti įdiegta Company Portal programa.  
 
-- Įrenginys turi leisti įmonės portalo taikomajai programai išsiųsti "Push" pranešimus. Kai taikomoji programa įdiegiama arba atnaujinama, ji paragins vartotoją leisti pranešimus.
+- Įrenginys turi leisti Company Portal programėlei siųsti "push" pranešimus. Įdiegus arba atnaujinus programą, ji paragins vartotoją leisti pranešimus.
 
 - "Android" įrenginiuose turi būti įdiegtos "Google Play" paslaugos.
 
-- Įrenginys turi būti užregistruotas su Intune.
+- Įrenginys turi būti įregistruotas naudojant "Intune".
 
-Daugiau informacijos, įskaitant pranešimo siuntimą, rasite [funkcijų dokumentacijoje](https://docs.microsoft.com/intune/custom-notifications).
+Daugiau informacijos, įskaitant pranešimą, žr. funkcijų [dokumentacijoje](https://docs.microsoft.com/intune/custom-notifications).

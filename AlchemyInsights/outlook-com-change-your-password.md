@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112200"
 ---
 # <a name="change-your-password"></a>Slaptažodžio keitimas
 
-Jūsų Outlook.com slaptažodis yra toks pat kaip ir jūsų "Microsoft" paskyros slaptažodis.
+Jūsų Outlook.com slaptažodis yra toks pat kaip jūsų "Microsoft" paskyros slaptažodis.
   
-Norėdami pakeisti slaptažodį, eikite į ["Microsoft" paskyros sauga](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) ir pasirinkite **slaptažodžio sauga**.
+Norėdami pakeisti slaptažodį, eikite į ["Microsoft" paskyros sauga](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) ir pasirinkite **Slaptažodžio sauga**.
   
-Jei pamiršote savo slaptažodį, eikite į puslapį [atkurti savo paskyrą](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Jei pamiršote slaptažodį, eikite [į puslapį Paskyros atkūrimas.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-Jei norite sužinoti daugiau, skaitykite ["Outlook.com" slaptažodžio keitimas](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami sužinoti daugiau, [žr. Slaptažodžio keitimas Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).

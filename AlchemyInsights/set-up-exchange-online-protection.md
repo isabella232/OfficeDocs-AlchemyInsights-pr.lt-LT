@@ -1,5 +1,5 @@
 ---
-title: "\"Exchange Online\" apsaugos nustatymas"
+title: Nustatyti Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085884"
 ---
-# <a name="set-up-exchange-online-protection"></a>"Exchange Online" apsaugos nustatymas
+# <a name="set-up-exchange-online-protection"></a>Nustatyti Exchange Online Protection
 
-"Microsoft Exchange Online Protection" ("e") yra debesies pagrindu veikianti elektroninio pašto filtravimo tarnyba, apsauganti nuo pašto šiukšlių ir kenkėjiškų programų su funkcijomis, kad apsaugotų jūsų organizaciją nuo pranešimų politikos pažeidimų.
+Microsoft Exchange Online Apsauga (EOP) yra debesimi pagrįsta el. pašto filtravimo tarnyba, apsauga nuo pašto šiukšlių ir kenkėjiškų programų, turinti funkcijų, kurios apsaugo jūsų organizaciją nuo pranešimų strategijos pažeidimų.
 
-Naudokite " [Exchange Online Protection" sąrankos vadovą](https://go.microsoft.com/fwlink/?linkid=2071067) , jei norite nustatyti "NOP" pažymėdami trijų diegimo scenarijų – vietines pašto dėžutes, hibridines (vietinių ir debesies) pašto dėžučių arba visų debesies pašto dėžučių, kurios atitinka jūsų organizaciją, derinį. Vadove pateikiama informacijos ir išteklių, kaip nustatyti "Office" ir peržiūrėti savo vartotojo licencijavimą, priskirti teises "Microsoft" 365 administravimo centre ir sukonfigūruoti organizacijos apsaugos nuo kenkėjiškų programų ir pašto šiukšlių strategijas saugos & atitikties centre.
+Naudokite ["Exchange Online Protection"](https://go.microsoft.com/fwlink/?linkid=2071067) sąrankos vadovą, kad nustatytų EOP, pasirinkdami iš trijų diegimo scenarijų– vietinės pašto dėžutės, hibridinės (vietinės ir debesies) pašto dėžutės arba visos debesies pašto dėžutės, kurios tinka jūsų organizacijai. Vadove pateikiama informacija ir ištekliai, skirti nustatyti EOP ir peržiūrėti vartotojo licencijavimą, priskirti teises ""Microsoft 365" administravimo centras" ir konfigūruoti organizacijos apsaugos nuo kenkėjiškų programų ir pašto šiukšlių strategijas saugos & atitikties centre.

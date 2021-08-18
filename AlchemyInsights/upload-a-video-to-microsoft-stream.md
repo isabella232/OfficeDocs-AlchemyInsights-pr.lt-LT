@@ -1,5 +1,5 @@
 ---
-title: Upload vaizdo įrašo į "Microsoft Stream"
+title: Upload vaizdo įrašą į "Microsoft Stream"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 75f0ac3e6830bd85bfe23eb30f29e03e1ae47652afc185705e50341151cad4ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e21dfa025271726b00cb60f50634cd92f50b531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899168"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315412"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a>Upload vaizdo įrašo į "Microsoft Stream"
+# <a name="upload-a-video-to-microsoft-stream"></a>Upload vaizdo įrašą į "Microsoft Stream"
 
 Nusiųsti vaizdo įrašus naudojant "Microsoft Stream" yra paprasta ir bet kas gali tai padaryti.
 

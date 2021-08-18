@@ -14,16 +14,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 8b1d182f350165ae025d198f74ed69b0cd734877
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2df6749cac63e1f2dfbc0caacd5872abf31eadedb7819efaa2d4a05be56f8e4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111984"
 ---
 # <a name="create-a-folder-in-outlookcom"></a>Aplanko kūrimas "Outlook.com"
 
-1. Aplankų srities apačioje pasirinkite **Naujas aplankas**. Gali tekti slinkti žemyn aplankų srityje, kad pamatytumėte mygtuką **Naujas aplankas** .
-2. Teksto lauke įveskite aplanko pavadinimą, tada paspauskite klavišą "įveskite".
+1. Aplankų srities apačioje pasirinkite Naujas **aplankas**. Gali tekti slinkti žemyn aplankų srityje, kad pamatytumėte **mygtuką Naujas** aplankas.
+2. Teksto lauke įveskite aplanko pavadinimą ir paspauskite "Enter".
 
-Norėdami sužinoti daugiau, skaitykite ["Outlook.com" aplanko kūrimas](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Norėdami sužinoti daugiau, [žr. Aplanko kūrimas Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).

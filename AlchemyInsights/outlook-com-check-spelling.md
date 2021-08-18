@@ -1,5 +1,5 @@
 ---
-title: Rašybos tikrinimas "Outlook.com"
+title: Rašybos tikrinimas Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,13 +14,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 375e6836a6d13fd0489babba1778020dcdfc66e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2296ed37442e9c438dd5fcaad3d0aeccf2a56333c6576e20f97889be0478858
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112164"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Rašybos tikrinimas naudojant naršyklę
 
-Nors "Outlook.com" neturi rašybos tikrinimo funkcijos, daugelis žiniatinklio naršyklių automatiškai tikrina rašybą, įskaitant "Microsoft Edge", "Internet Explorer 10" ir vėlesnes versijas bei dabartines "Firefox", "Chrome" ir "Safari" versijas. Patikrinkite žiniatinklio naršyklės parinktis, kad sužinotumėte daugiau apie tai, kaip tikrinti rašybą.
+Nors "Outlook.com" neturi rašybos tikrinimo funkcijos, daugelis žiniatinklio naršyklių automatiškai patikrina jūsų rašybą, įskaitant "Microsoft Edge", "Internet Explorer 10" ir naujesnes versijas bei dabartines "Firefox", "Chrome" ir "Safari" versijas. Peržiūrėkite žiniatinklio naršyklės parinktis, kad sužinotumėte daugiau apie rašybos tikrintuvą.
