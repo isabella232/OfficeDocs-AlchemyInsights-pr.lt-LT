@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890442"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321761"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP autentifikavimo ir trikčių diagnostikos įgalinimas
 
@@ -26,14 +26,14 @@ Jei norite įgalinti pašto dėžutės SMTP autentifikavimą arba gaunate klaid�
 1. Išjunkite ["Azure" saugos numatytąsias](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) reikšmes, įjungdami **Įjungti saugos numatytąsias reikšmes į** **Ne**.
 
     a. Prisijunkite prie "Azure" portalo kaip saugos administratorius, sąlyginės prieigos administratorius arba visuotinis administratorius.<BR/>
-    b. Raskite "Azure Active Directory" > **Ypatybės**.<BR/>
+    b. Eikite į "Azure Active Directory" > **Ypatybės**.<BR/>
     c. Pasirinkite **Valdyti saugos numatytąsias reikšmes**.<BR/>
     d. Nustatykite **Įjungti saugos numatytąsias reikšmes kaip** **Ne**.<BR/>
     e. Pasirinkite **Įrašyti**.
 
 2. [Įgalinkite kliento SMTP pateikimą](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) licencijuotose pašto dėžutėse.
 
-    a. Iš "Microsoft 365" administravimo centras eikite į **Aktyvūs vartotojai** ir pasirinkite vartotoją.<BR/>
+    a. Iš "Microsoft 365" administravimo centras eikite į **Aktyvūs** vartotojai ir pasirinkite vartotoją.<BR/>
     b. Eikite į skirtuką Paštas ir dalyje **El. pašto programos** pasirinkite **Valdyti el. pašto programas**.<BR/>
     d. **Įsitikinkite, kad pažymėta autentifikuota SMTP** (įjungta).<BR/>
     e. Pasirinkite **Įrašyti keitimus**.<BR/>

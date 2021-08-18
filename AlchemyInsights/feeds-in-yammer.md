@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9666"
-ms.openlocfilehash: d933c2b7fa73d6ab1fd91a452ed5736d084cdd18
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 855921cb5a1e84355a436a5a1f67a2518240fb804c14286f86e7f2fca306bb30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117456"
 ---
 # <a name="feeds-in-yammer"></a>Informacijos santraukos "Yammer"
 
-**Kanalai**
+**Informacijos santraukos**
 
-Nauja "Yammer" pristato [naują namų informacijos santrauką](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254). Galite paskaityti daugiau apie [tai, kas naujo su šiuo informacijos santrauka](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) , skirta paviršiniam turiniui iš jūsų bendruomenių ir padėti atrasti naują turinį. Laikant pelės žymiklį virš parinkties pagrindinis informacijos santrauka galima naudoti meniu su visais pokalbių rodiniu. Būsimi naujinimai su informacijos santrauka gali pateikti turinio iš papildomų šaltinių "Microsoft" 365 pakete.
+Nauja "Yammer" pristato naują ["Home Feed".](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254) Galite skaityti daugiau apie [tai, kas](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) nauja naudojant šią informacijos santrauką, skirtą bendruomenių turiniui paviršinį ir padėti rasti naują turinį. Užvesdami pelės žymiklį virš parinkties Pagrindinis informacijos santrauka, įgalinsite meniu su prieiga prie rodinio Visi pokalbiai. Būsimi informacijos santraukos naujinimai gali pateikti turinį iš papildomų šaltinių Microsoft 365 paketą.
 
-Klasikinis "Yammer" yra " [Discovery feed](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) ", kuri nėra pažengusi, kaip ji identifikuoja turinį. Parinktys, kurias norite perjungti į visus ir paskesnėse informacijos santraukose, pasiekiamos pagrindinio puslapio viršuje.
+Klasikinis "Yammer" turi [aptikimo](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) informacijos santrauką, kuri nėra pažengusi pagal tai, kaip ji identifikuoja turinį už jus. Parinktis perjungti į informacijos santraukas Visi ir Po galima pagrindinio puslapio viršuje.
 
-"Yammer" informacijos santraukas taip pat galite įtraukti į "SharePoint" svetaines naudodami " [Yammer" pokalbius ir paryškinkite puslapio dalis](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).
+"Yammer" informacijos santraukas taip pat galima įtraukti į SharePoint [svetaines naudojant "Yammer" pokalbių ir paryškina puslapio dalis.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
 
-**Publikavimo problemos**
+**Registravimo problemos**
 
-Turėtų būti galima skelbti "Yammer" įvairiais būdais. Toliau pateikiami keli Dažniausi klausimai, su kuriais gali susidurti vartotojai:
+Turėtų būti įmanoma skelbti "Yammer" įvairiais būdais. Toliau nurodytos kelios dažniausios problemos, su kurių gali susidurti vartotojai:
 
-- Administratorius [apribojo naujų pokalbių skelbimą](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) visose įmonėse. Tai yra apribojimas, kurį turi pašalinti administratorius, kad būtų galima paskelbti reguliarius vartotojus.
-- Bendruomenės narystė nebuvo tinkamai sinchronizuota. Pvz., vartotojas yra "Yammer" bendruomenės narys, bet ne "Microsoft" 365 grupė, prijungta prie "SharePoint Online". Laukiama narystės sinchronizavimo užbaigti didelėms grupėms gali užtrukti iki 24 valandų.
-- Nepavyko tinkamai įkelti CDN kodo atnaujinimo. Išvalius naršyklės talpyklą ir slapukus, tai išspręsime.
+- Administratorius [apribojo naujų pokalbių skelbimą](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) "All Company". Tai apribojimas, kurį administratorius turės pašalinti, kad įjungtumėte įprastus vartotojus skelbti.
+- Bendruomenės narystė netinkamai sinchronizuota. Pvz., vartotojas yra ""Yammer"" bendruomenės narys, bet Microsoft 365 prie "SharePoint Online". Laukiama, kol bus baigtas labai didelių grupių narystės sinchronizavimas, gali užtrukti iki 24 valandų.
+- Nepavyko tinkamai įkelti kodų naujinimo iš CDN. Išvalius naršyklės talpyklą ir slapukus, tai dažnai bus išspręsta.
