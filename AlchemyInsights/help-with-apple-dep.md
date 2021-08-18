@@ -1,5 +1,5 @@
 ---
-title: "\"Apple\" DEP žinynas"
+title: Pagalba naudojant "Apple DEP"
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116340"
 ---
-# <a name="help-with-apple-dep"></a>"Apple" DEP žinynas
+# <a name="help-with-apple-dep"></a>Pagalba naudojant "Apple DEP"
 
-Jei DEP įrenginys negali Registruotis ir MFA (kelių dalių autentifikavimas), išjunkite MFA. MFA šiuo metu nepalaiko DEP įtraukimo.
+Jei DEP įrenginys negali registruotis ir įgalintas MFA (kelių dalių autentifikavimas), išjunkite MFA. MFA šiuo metu nepalaikoma DEP registracijai.
 
-[Darbo su "Intune" ir "Apple" įrenginio registracijos programa (DEP) Pradžia](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Darbo su "Intune" ir "Apple" įrenginio registracijos programa (DEP) pradžia](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Bendrosios "iOS" registracijos klaidos ir sprendimai](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Dažnos "iOS" registracijos klaidos ir sprendimai](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Atsarginių kopijų kūrimo ir atkūrimo scenarijai, skirti "iOS"/"iPadOS" įrenginiams](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Užregistruotų "iOS" / "iPadOS" įrenginių atsarginių kopijų kūrimo ir atkūrimo scenarijai](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Bendrasis registracijos trikčių šalinimas](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Bendroji registracijos trikčių diagnostika](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-["Intune" trikčių diagnostikos portalo naudojimas diagnozuojant ir sprendžiant įprastas registracijos triktis](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Naudokite "Intune" trikčių diagnostikos portalą, kad diagnozuojant ir išspręsdami bendrąsias registracijos triktis](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

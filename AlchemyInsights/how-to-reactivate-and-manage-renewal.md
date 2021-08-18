@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5d5a82afa849b7de7750ec997da007cd89763696
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116010"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Kaip iš naujo aktyvinti prenumeratą ir valdyti periodinį atsiskaitymą
 
@@ -32,7 +32,7 @@ Atrodo, kad turite prenumeratą, kurios galiojimas baigėsi. Jei norite ją suak
 3. Srityje **Iš naujo suaktyvinti šią** prenumeratą išplečiamajame sąraše pasirinkite mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.
 4. Pasirinkite **Įrašyti**.
 
-Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Norėdami sužinoti daugiau, žr. [Prenumeratos aktyvinimas iš naujo](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Norėdami valdyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba išjungti **periodinius atsiskaitymus**.
   
@@ -42,4 +42,4 @@ Norėdami valdyti mėnesinį arba metinį atsiskaitymą, galite įjungti arba i�
 4. Srityje **Redaguoti periodinio atsiskaitymo parametrus** pasirinkite **Įjungti**, **Įjungti, bet atnaujinti vieną kartą** arba **Išjungti**.
 5. Pasirinkite **Įrašyti**.
 
-Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Norėdami gauti daugiau informacijos, žr. [Pasikartojančio atsiskaitymo išjungimas arba įjungimas](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

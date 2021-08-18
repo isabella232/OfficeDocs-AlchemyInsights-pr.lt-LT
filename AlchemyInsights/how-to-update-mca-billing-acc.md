@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001516"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320038"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Su jūsų MCA susieto pirkėjo ir sąskaitos adreso naujinimas – rekomenduojami veiksmai
 
 Galite atnaujinti su jūsų "Microsoft" klientų sutartimi (MCA) susietą pirkėjo ir sąskaitos adresą. 
 
-> [!NOTE]
-> Tik vartotojo administratorius gali keisti "Azure Active Directory" profilio informaciją. Jei jums nepriskirtas vartotojo administratoriaus vaidmuo, kreipkitės į vartotojo administratorių. Daugiau informacijos apie vartotojo profilio keitimą žr. Vartotojo profilio informacijos įtraukimas arba [atnaujinimas naudojant "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Pastaba:** tik vartotojo administratorius gali keisti "Azure Active Directory" profilio informaciją. Jei jums nepriskirtas vartotojo administratoriaus vaidmuo, kreipkitės į vartotojo administratorių. Daugiau informacijos apie vartotojo profilio keitimą žr. Vartotojo profilio informacijos įtraukimas arba [atnaujinimas naudojant "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Parduodamas adresas** – parduodamas adresas yra organizacijos arba asmens, kuris yra atsakingas už atsiskaitymo paskyrą, adresas ir kontaktinė informacija. Jis rodomas visose sąskaitose faktūrose, sugeneruotose atsiskaitymo paskyroje.
 

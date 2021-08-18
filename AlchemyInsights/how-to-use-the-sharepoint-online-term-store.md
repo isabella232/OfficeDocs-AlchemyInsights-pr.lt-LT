@@ -1,5 +1,5 @@
 ---
-title: Kaip naudoti "SharePoint Online" terminų saugyklą
+title: Kaip naudoti "SharePoint Terminų saugyklą
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115993"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Kaip naudoti "SharePoint Online" terminų saugyklą
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Kaip naudoti "SharePoint Terminų saugyklą
 
-Terminų saugykla pasiekiama visuotiniam administratoriui, "SharePoint" administravimo ir terminų saugyklos administratoriams bei galima rasti naujame "SharePoint Online" administravimo centre.
+Terminų saugyklą gali naudoti visuotinis administratorius, SharePoint administratorius ir terminų saugyklos administratoriai ir ją galima rasti naujame SharePoint administravimo centre.
   
-Daugiau informacijos apie tai, kaip naudoti "SharePoint Online" terminų saugyklą ir taksonomiją "SharePoint Online", ieškokite [Valdomų metaduomenų Įvadas](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Daugiau informacijos, kaip naudoti "SharePoint" terminų saugyklą ir taksonomiją "SharePoint Online", [žr. Valdomų metaduomenų įvadas](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Jei kyla problemų, susijusių su nepateikiamu arba su pertraukomis, rekomenduojame palaukti 24 valandas, o tada registruoti palaikymo užklausą, jei problema išlieka. Nors 24 valandas gali būti ilgas laikas, gali būti, kad talpykloje yra problemų, arba mes jau galime dirbti su šios problemos sprendimu.
+Jei kyla problemų dėl terminų, kurie nerodomi arba rodomi protarpiais, rekomenduojame palaukti 24 valandas, o jei problema kartojasi, tada registruoti palaikymo užklausą. Nors 24 valandos gali būti ilgos, gali kilti kaupimo talpykloje problema arba jau galime išspręsti šią problemą.
   
