@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003577"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325471"
 ---
 # <a name="enable-cost-management"></a>Įgalinti išlaidų valdymą
 
@@ -34,8 +34,7 @@ Prisijungę prie "Azure" portalo, jie gali naudoti atsiskaitymo API, kad program
 2. Pasirinkite **Sąskaitos faktūros,** tada **– "Access" prie sąskaitų faktūrų**.
 3. Įjunkite prieigą, tada įrašydami pakeitimus, kad prenumeratos aprėpties vaidmenų vartotojai galėtų atsisiųsti sąskaitas faktūras.
 
-> [!NOTE]
-> Paskyros administratorius taip pat gali sukonfigūruoti, kad sąskaitos faktūros būtų siunčiamos el. paštu. Norėdami sužinoti daugiau, [žr. Sąskaitos faktūros siuntimas el. paštu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Pastaba:** paskyros administratorius taip pat gali sukonfigūruoti, kad sąskaitos faktūros būtų siunčiamos el. paštu. Norėdami sužinoti daugiau, [žr. Sąskaitos faktūros siuntimas el. paštu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Kaip įtraukti vartotojų į atsiskaitymo skaitytuvo vaidmenį**
 

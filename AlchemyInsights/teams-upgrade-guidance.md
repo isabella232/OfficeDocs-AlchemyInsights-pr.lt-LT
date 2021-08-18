@@ -11,18 +11,18 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901188"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324324"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams versijos naujinimas
 
 Nesvarbu, ar tik pradėjote naudoti "Teams", jau naudojate "Teams" kartu su ""Skype" verslui", ar esate pasirengę atnaujinti versiją, norime užtikrinti, kad turėtumėte viską, ko reikia norint sėkmingai pereiti į Teams. Norėdami gauti daugiau informacijos, apsilankykite toliau pateikiamuose saitų.
 
-[Darbo su "Microsoft Teams" versijos naujinimas pradžia](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Darbo su jūsų "Microsoft Teams versijos naujinimas pradžia](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Versijos naujinimo planas](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
@@ -32,4 +32,4 @@ Nesvarbu, ar tik pradėjote naudoti "Teams", jau naudojate "Teams" kartu su ""Sk
 
 [Versijos naujinimas iš "Skype" verslui vietinės versijos į Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Patikrinkite "Online" "Skype" verslui versijos naujinimo Teams "PowerShell"](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Patikrinkite ""Skype" verslui Online" būseną, kad Teams "PowerShell"](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

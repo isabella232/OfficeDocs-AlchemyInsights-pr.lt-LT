@@ -1,5 +1,5 @@
 ---
-title: Kalendoriaus piktograma nerodoma "Microsoft teams" kliente
+title: Kalendoriaus piktograma nerodoma Microsoft Teams kliente
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120012"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Kalendoriaus piktograma nerodoma "Microsoft teams" kliente
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Kalendoriaus piktograma nerodoma Microsoft Teams kliente
 
-"Teams" skirtukas **Kalendorius** reikalauja prieigos prie "Exchange" pašto dėžutės naudojant "Exchange Web Services". "Exchange" pašto dėžutė gali būti internetinė arba vietinė. Interneto vartotojams, kurie nemato skirtuko **Kalendorius** , įsitikinkite, kad jie [turi licenciją "Exchange Online" pašto dėžutei, o pašto dėžutė įgalinta](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Jei jūsų vartotojai yra dirba vietoje, turite patvirtinti, kad hibridinė konfigūracija yra sveika. Triktims šalinti naudokite [hibridinės konfigūracijos vediklį](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent). Atkreipkite dėmesį, kad [„Teams“ būtina „Exchange 2016“ CU3 ar naujesnė versija](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+Programos **skirtukas** Kalendorius Teams prieigą prie Exchange pašto dėžutės per Exchange žiniatinklio tarnybas. Pašto Exchange gali būti internetinė arba vietinė. Internetiniams vartotojams, kurie nematote **kalendoriaus** skirtuko, įsitikinkite, kad jie licencijuoti [naudoti Exchange Online pašto dėžutę, o pašto dėžutė yra įgalinta](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Jei jūsų vartotojai yra namų vietoje, turite patvirtinti, kad jūsų hibridinė konfigūracija yra sveika. Triktims šalinti naudokite [hibridinės konfigūracijos vediklį](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent). Atkreipkite dėmesį, kad [„Teams“ būtina „Exchange 2016“ CU3 ar naujesnė versija](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Daugiau informacijos ir trikčių šalinimo veiksmų ieškokite ["Microsoft teams" ir "Exchange Server" sąveikos problemų sprendimas](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Daugiau informacijos ir trikčių šalinimo veiksmų [žr. Trikčių Microsoft Teams ir Exchange Server trikčių šalinimas.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

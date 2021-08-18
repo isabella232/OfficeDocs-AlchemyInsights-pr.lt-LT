@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119832"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Domeno vardo keitimas "SharePoint Online"
 
-Deja, negalima pakeisti organizacijos "SharePoint Online" domeno vardo. Pavyzdžiui, jei jūsų organizacijos pavadinimas pasikeičia iš "Contoso" į "ketvirtą kavą", negalite keisti contoso.sharepoint.com į fourthcoffee.sharepoint.com.
+Deja, negalima keisti jūsų organizacijos SharePoint domeno vardo. Pvz., jei jūsų organizacijos pavadinimas pasikeičia iš "Contoso" į "Fourth Coffee", negalite pakeisti contoso.sharepoint.com į fourthcoffee.sharepoint.com.
   
-Norėdami naudoti domeno vardo fourthcoffee.sharepoint.com, turite įsigyti naują prenumeratą ir perkelti visus laiškus, failus ir visus kitus duomenis, kuriuos norite išsaugoti naujoje prenumeratoje.
+Norėdami naudoti domeno vardą fourthcoffee.sharepoint.com, turite įsigyti naują prenumeratą ir perkelti visus el. laiškus, failus ir kitus duomenis, kuriuos norite išsaugoti naujoje prenumeratoje.
   
- **Pastaba**: pvz., Norėdami pakeisti svetainės pavadinimą https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 , vadovaukitės [šiame straipsnyje](https://docs.microsoft.com/sharepoint/change-site-address)pateiktomis instrukcijomis. 
+ **Pastaba:** pvz., norėdami pakeisti svetainės pavadinimą iš https://contoso.sharepoint.com/sites/sample1 į https://contoso.sharepoint.com/sites/sample2 , vykdykite šiame straipsnyje pateiktas [instrukcijas.](https://docs.microsoft.com/sharepoint/change-site-address) 
   
-Informacijos apie elementų perkėlimą dokumentų bibliotekose ieškokite [elementų perkėlimas arba kopijavimas iš "SharePoint" dokumentų bibliotekos](https://go.microsoft.com/fwlink/?linkid=2025831).
+Informacijos apie elementų perkėlimas dokumentų bibliotekose žr. Elementų perkėlimas [arba kopijavimas iš SharePoint bibliotekos](https://go.microsoft.com/fwlink/?linkid=2025831).
   

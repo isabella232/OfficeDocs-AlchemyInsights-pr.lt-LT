@@ -1,5 +1,5 @@
 ---
-title: 616 kalendoriaus bendras naudojimasis
+title: 616 Kalendoriaus bendrinimas
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119930"
 ---
-# <a name="troubleshooting-issues-with-calendar-sharing"></a>Problemų, susijusių su kalendoriaus keitimusi, trikčių šalinimas
+# <a name="troubleshooting-issues-with-calendar-sharing"></a>Kalendoriaus bendrinimo trikčių šalinimas
 
-- Norėdami nustatyti teisių problemas, naudokite " [Exchange" nuotolinio ryšio analizatoriaus nemokamą užsiėmimą](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), kuris suteikia labai konkrečius klaidų pranešimai.
-- Taip pat galite naudoti "Microsoft" [palaikymo ir atkūrimo pagalbinę priemonę, skirtą "microsoft 365](https://diagnostics.office.com/) ", kad galėtumėte diagnozuoti įvairias kitas kalendoriaus problemas. 
-- Jei vartotojas turi kompiuterio "Outlook", ["Outlook" kalendoriaus tikrinimo įrankis](https://www.microsoft.com/download/details.aspx?id=28786) gali išspręsti galimas problemas.
+- Norėdami diagnozuoti teisių problemas, naudokite [Exchange ryšio](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)analizatoriaus užimtumo klaidą, kuri pateikia labai konkrečius klaidų pranešimus.
+- Taip pat galite naudoti ["Microsoft palaikymo ir atkūrimo pagalbinė priemonė for Microsoft 365,](https://diagnostics.office.com/) kad diagnozuojant kitą kalendoriaus problemą. 
+- Jei vartotojas turi darbalaukio Outlook, kalendoriaus [tikrinimo įrankis, skirtas Outlook gali](https://www.microsoft.com/download/details.aspx?id=28786) išspręsti galimas problemas.
 
-Papildomi mokomųjų išteklių:
+Papildomi "how-to" ištekliai:
 
 - [„Outlook“ kalendoriaus bendrinimas su kitais žmonėmis](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Kalendoriaus bendrinimas internetinėje "Outlook" verslui](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Kalendoriaus bendrinimas internetinė "Outlook" verslui](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

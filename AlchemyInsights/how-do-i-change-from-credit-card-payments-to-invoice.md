@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868686"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323794"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kaip pakeisti mokėjimą kredito kortele į sąskaitą faktūrą?
 
-> [!NOTE]
-> Galite pakeisti mokėjimą pagal sąskaitą faktūrą tik jei jūsų prenumeratos kaina viršija tam tikrą sumą. Pirmiausia turite sumokėti nesumokėtą likutį kredito arba debeto kortelėje arba banko sąskaitoje, kad būtų galima pakeisti į mokėjimą pagal sąskaitą faktūrą.
+**Pastaba:** galite pakeisti mokėjimą pagal sąskaitą faktūrą tik jei prenumeratos kaina viršija tam tikrą sumą. Pirmiausia turite sumokėti nesumokėtą likutį kredito arba debeto kortelėje arba banko sąskaitoje, kad būtų galima pakeisti į mokėjimą pagal sąskaitą faktūrą.
 
 1. Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Skirtuke **Produktai** raskite prenumeratą, už kurią norite mokėti naudodami alternatyvų mokėjimo būdą.

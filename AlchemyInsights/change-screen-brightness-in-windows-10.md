@@ -1,5 +1,5 @@
 ---
-title: Ekrano ryškumo keitimas sistemoje "Windows 10"
+title: Ekrano ryškumo keitimas Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119775"
 ---
-# <a name="change-screen-brightness-in-windows-10"></a>Ekrano ryškumo keitimas sistemoje "Windows 10"
+# <a name="change-screen-brightness-in-windows-10"></a>Ekrano ryškumo keitimas Windows 10
 
-Jei jūsų "Windows 10" yra naujesnė nei 1903 versija, veiksmų centre yra **slankiklis** Ryškumas. Norėdami atidaryti veiksmų centrą, spustelėkite **dešinėje** užduočių juostos pusėje esantį mygtuką Pranešimas arba klaviatūroje paspauskite **"Windows Home" + A.**
+Jei jūsų Windows 10 naujesnė nei 1903 versija, veiksmų centre yra **slankiklis** Ryškumas. Norėdami atidaryti veiksmų centrą,  spustelėkite mygtuką Pranešimas, esantį dešinėje užduočių juostos pusėje, arba **klaviatūroje paspauskite Windows pagrindinis + A.**
 
 ![Ryškumo slankiklis](media/brightness-slider.png)
 
-Jei jūsų "Windows 10" yra ankstesnė versija, ryškumo slankiklį galite rasti nueidami į **[Parametrai > Sistemos > ekranas](ms-settings:display?activationSource=GetHelp)**.
+Jei jūsų Windows 10 yra ankstesnė versija, ryškumo slankiklį galite rasti nueidami **[į "Parametrai > System > Display](ms-settings:display?activationSource=GetHelp)**" .
 
 **Pastabos:**
 
