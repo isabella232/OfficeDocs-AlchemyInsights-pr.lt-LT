@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038813"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900660"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>"Microsoft" sargybos trikčių šalinimas Office 365
 
-- **Ar pastebėjote pranešimų pristatymo delsą?** Naudokite parinktį [Dinaminis pristatymas](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) "Microsoft" sargyboje, kad Office 365 Seifas priedų strategiją. Tai padės išvengti pranešimų delsos apsaugant gavėjus nuo kenkėjiškų failų.
+- **Ar pastebėjote pranešimų pristatymo delsą?** Naudokite parinktį [Dinaminis pristatymas](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) "Microsoft" sargyboje, kad Office 365 Seifas priedų strategiją. Tai padės išvengti pranešimų delsos apsaugant gavėjus nuo kenkėjiškų failų.
 
 - **Ar norite pranešti "Microsoft" apie klaidingus teigiamus ar klaidingus neigiamus rezultatus?** Naudokite ["Submissions Explorer".](https://protection.office.com/reportsubmission)
 

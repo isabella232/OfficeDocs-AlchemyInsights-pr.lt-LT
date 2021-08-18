@@ -1,5 +1,5 @@
 ---
-title: 127 gaunate TenantAccessBlockedException klaidą, kai jungiatės prie elektroninio pašto?
+title: 127 Kaip gauti TenantAccessBlockedException klaidą bandant pasiekti el. paštą?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089448"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Gaunate TenantAccessBlockedException klaidą, kai jungiatės prie elektroninio pašto?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Gaunate klaidą TenantAccessBlockedException, kai gaunate prieigą prie el. pašto?
 
-Yra kelios skirtingos priežastys, kodėl gali būti parodytas šis klaidos pranešimas. Pavyzdžiui:
+Yra kelios skirtingos priežastys, kodėl galite gauti šią klaidą. Toliau pateikiami pavyzdžiai.
 
-- Įsitikinkite, kad jūsų produktų prenumerata galioja **Billing** " \> Microsoft 365" administravimo centro puslapyje **[produktų](https://portal.office.com/adminportal/home#/subscriptions)** atsiskaitymas.
+- Patikrinkite, ar jūsų prenumerata galioja puslapyje  \> **[Atsiskaitymas](https://portal.office.com/adminportal/home#/subscriptions)** už produktus, "Microsoft 365" administravimo centras.
 
-- " **Billing** \> Microsoft 365" administravimo centro puslapyje Atsiskaitymo **[sąskaitos & mokėjimai](https://portal.office.com/adminportal/home#/billoverview)** patikrinkite, ar nėra praėję pranešimai.
+- Patikrinkite, ar nėra ankstesnių  pranešimų atsiskaitymo sąskaitų \> **[& mokėjimo](https://portal.office.com/adminportal/home#/billoverview)** puslapyje, "Microsoft 365" administravimo centras.
 
-- Jei jūsų paskyros Atsiskaitymas ir prenumeratos neseniai atnaujinti, gali praeiti laiko, kad išplatintas keitimas. Bandykite dar kartą po kelių minučių, o jei problema išlieka, susisiekite su mumis.
+- Jei jūsų paskyros atsiskaitymas ir prenumeratos buvo neseniai atnaujintos, gali užtrukti, kad pakeitimai būtų platinami. Bandykite dar kartą po kelių minučių ir, jei problema išlieka, susisiekite su mumis.

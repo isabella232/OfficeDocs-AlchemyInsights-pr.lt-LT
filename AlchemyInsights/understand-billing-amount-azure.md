@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020092"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317148"
 ---
 # <a name="understand-billing-amount"></a>Atsiskaitymo sumos paaiškinimas
 
@@ -70,7 +70,9 @@ Ne. Klientai gauna fiksuotą nemokamų pakopų paslaugų kiekį ir 200 EUR kredi
 
 **Kaip patikrinti, ar nemokamos paslaugos yra aktyvios arba kada jos nustos galioti?**
 
-„Ibiza“ portale > „Prenumerata“ > „Peržiūros puslapis“ > slinkite žemyn iki „Nemokamos paslaugos, teikiamos 12 mėnesių“ ir spustelėkite informacijos piktogramą. Bus rodoma data, kada nemokamos paslaugos baigia galioti **Pastaba**: V1 paslaugos nėra „Azure“ teikiamų nemokamų paslaugų dalis. Norėdami sužinoti naujausią nemokamų paslaugų sąrašą, žr. skyrių [Produktai, kurie yra nemokami 12 mėnesių](http://www.microsoftazuresponsorships.com/)
+„Ibiza“ portale > „Prenumerata“ > „Peržiūros puslapis“ > slinkite žemyn iki „Nemokamos paslaugos, teikiamos 12 mėnesių“ ir spustelėkite informacijos piktogramą. Bus rodoma data, kai baigsis nemokamų paslaugų galiojimas
+
+**Pastaba:**"Azure Free Included Services" nėra V1 tarnybų dalis. Norėdami sužinoti naujausią nemokamų paslaugų sąrašą, žr. skyrių [Produktai, kurie yra nemokami 12 mėnesių](http://www.microsoftazuresponsorships.com/)
 
 Papildomi DUK: [Nemokamos paskyros DUK](https://azure.microsoft.com/free/free-account-faq/)
 

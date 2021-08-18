@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900480"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Atšaukiate savo Microsoft 365 prenumeratą?
 
@@ -30,6 +30,7 @@ Atsiprašome, kad keliaujate, bet jei norite atšaukti prenumeratą, štai jūs�
 
 **Grąžinimas: bet koks paskesnį atsiskaitymo ciklą jums bus grąžintas bet koks svertinis kreditas.**
 
-**Pastaba:** jei nematote parinkties atšaukti, pasirinkite prenumeratą, kad pamatytumėte išsamios informacijos puslapį. Sekcijoje **Prenumeratos ir mokėjimo parametrai** pasirinkite Atšaukti **prenumeratą**.
+> [!NOTE]
+> Jei nematote parinkties atšaukti, pasirinkite prenumeratą, kad pamatytumėte išsamios informacijos puslapį. Sekcijoje **Prenumeratos ir mokėjimo parametrai** pasirinkite Atšaukti **prenumeratą**.
 
 Norėdami sužinoti daugiau, [žr. Prenumeratos atšaukimas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

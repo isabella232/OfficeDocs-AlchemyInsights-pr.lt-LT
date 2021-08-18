@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft\" grėsmių ekspertai – ekspertų pagal poreikį"
+title: "\"Microsoft\" grėsmių ekspertai – specialistai pagal poreikį"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113928"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>"Microsoft" grėsmių ekspertai – ekspertų pagal poreikį
+# <a name="microsoft-threat-experts---experts-on-demand"></a>"Microsoft" grėsmių ekspertai – specialistai pagal poreikį
 
-Ekspertai pagal poreikį yra antroji "Microsoft" grėsmių ekspertų galimybė. Čia galite susisiekti su mumis, kai reikia konsultuotis dėl susijusių klausimų, susijusių su pastebimu ir priešu.
+Specialistai pagal poreikį yra antra "Microsoft" grėsmių ekspertai galimybė. Tai vieta, kurioje galite susisiekti su mumis, kai reikia konsultuotis dėl aktualių klausimų, susijusių su aptikimu ir priešininku.
 
-Jei jau esate galinio punkto kliento sargyba, galite susisiekti su "Microsoft" atstovu ir Prenumeruoti "Microsoft" grėsmių ekspertus – ekspertus pagal poreikį.
+Jei jau esate galinio punkto kliento sargyba, galite kreiptis į savo "Microsoft" atstovą, kad užsiprenumeruoti "Microsoft" grėsmių ekspertai – specialistai pagal poreikį.
 
-Galimybė konsultuotis su **grėsmių ekspertu** galima šiame portalo meniu, kuriame galite bendradarbiauti su ekspertais atliekant tyrimą:
+Parinktis **Pasitarti su grėsmių** specialistu pasiekiama toliau pateiktame portalo meniu, kuriame galite bendrauti su ekspertais tyrimo kontekste:
 
-- Meniu Žinynas ir palaikymas
-- Meniu įrenginio puslapis veiksmai
-- Meniu įspėjimų puslapio veiksmai
-- Failų puslapio veiksmų meniu
+- Žinyno ir palaikymo meniu
+- Įrenginio puslapio veiksmų meniu
+- Įspėjimų puslapio veiksmų meniu
+- Meniu Failų puslapio veiksmai
 
-Daugiau informacijos ieškokite ["Microsoft" grėsmės ekspertų funkcijų konfigūravimas ir valdymas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Daugiau informacijos žr. [""Microsoft" grėsmių ekspertai galimybių konfigūravimas ir valdymas.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

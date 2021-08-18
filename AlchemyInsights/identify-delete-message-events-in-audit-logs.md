@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868426"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317602"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Panaikintų el. laiškų audito žurnalai
 
@@ -32,7 +32,7 @@ Nuo 2019 m. sausio "Microsoft" įjungia pašto dėžutės audito registravimą p
 
 4. Spustelėkite **Ieškoti**.
 
-Rezultatuose pasirinkite audito įrašą. Išsamios informacijos iškeliame meniu spustelėkite **Daugiau informacijos**. Lauke **AffectedItems** rodoma papildoma informacija apie panaikintą elementą (pvz., temos eilutė ir elemento vieta, kai jis buvo panaikintas). Ypatybė **ClientInfoString** rodys, ar naikinimas įvyko Outlook, internetinė "Outlook" (anksčiau vadinosi Outlook Web App) ar bet kuriuo kitu įrenginiu.
+Rezultatuose pasirinkite audito įrašą. Išsamios informacijos iškeliame meniu spustelėkite **Daugiau informacijos**. Lauke **AffectedItems** rodoma papildoma informacija apie panaikintą elementą (pvz., temos eilutė ir elemento vieta, kai jis buvo panaikintas). Ypatybė **ClientInfoString** rodys, ar naikinimas įvyko Outlook, internetinė "Outlook" (anksčiau vadinosi "Outlook Web App") ar bet kuriuo kitu įrenginiu.
 
 Daugiau informacijos žr. [Pašto dėžutės el. pašto peradresavimo nustatymas](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 

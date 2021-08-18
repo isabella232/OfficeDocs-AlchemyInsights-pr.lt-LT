@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502976"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900964"
 ---
 # <a name="purchase-power-bi"></a>"Power BI" įsigijimas
 
@@ -33,6 +33,6 @@ ms.locfileid: "54502976"
 5. Peržiūrėkite kainodaros informaciją ir pasirinkite **Pirmyn**.
 6. Pateikite mokėjimo informaciją, tada pasirinkite Pateikti **užsakymą Eiti** į administravimo  >  **pagrindinį .**
 
-Norėdami priskirti licencijas vartotojams, [žr. Licencijų priskyrimas vartotojams](/microsoft-365/admin/manage/assign-licenses-to-users).
+Norėdami priskirti licencijas vartotojams, [žr. Licencijų priskyrimas vartotojams](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Norėdami įsigyti daugiau licencijų arba jas pašalinti, žr. Verslo [prenumeratos licencijų įsigykite arba pašalinkite](/microsoft-365/commerce/licenses/buy-licenses).
+Norėdami įsigyti daugiau licencijų arba jas pašalinti, žr. Verslo [prenumeratos licencijų įsigykite arba pašalinkite](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

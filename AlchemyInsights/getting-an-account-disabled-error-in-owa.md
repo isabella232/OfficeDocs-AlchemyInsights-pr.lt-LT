@@ -1,5 +1,5 @@
 ---
-title: "\"123\" nepavyksta gauti paskyros išjungtos klaidos?"
+title: 123 Kaip išjungtos paskyros klaida OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089340"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Ar "Outlook" žiniatinklyje gaunate paskyros išjungtą klaidą?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Gaunate paskyros išjungtos klaidos internetinė "Outlook"?
 
-Jei **gaunate klaidos pranešimą**  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` , kai bandote atidaryti "Outlook" žiniatinklyje (anksčiau vadinta "Outlook Web App"), jūsų organizacijos administratorius galėjo išjungti jūsų prieigą prie internetinės "Outlook". Jūsų administratorius gali ištaisyti šią klaidą, atlikdami veiksmus, nurodytus temoje ["Outlook Web App", skirtos pašto dėžutei, įgalinimas arba išjungimas](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Jei gaunate klaidos pranešimą **Jūsų** paskyra buvo išjungta bandant atidaryti "internetinė "Outlook"" (anksčiau vadinosi "Outlook Web App"), jūsų organizacijos administratorius galėjo išjungti prieigą prie `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` internetinė "Outlook". Administratorius gali ištaisyti šią klaidą, atlikite veiksmus, nurodytus temoje Pašto [dėžutės Outlook Web App išjungimas.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)
