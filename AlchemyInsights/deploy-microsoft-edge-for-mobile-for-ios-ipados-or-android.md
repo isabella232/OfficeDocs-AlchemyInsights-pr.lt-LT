@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005458"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315628"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>"Microsoft Edge", skirta "iOS" / "iPadOS" arba "Android", diegimas
 
@@ -28,8 +28,7 @@ Toliau apibendrintas valdomasis scenarijus padės jums priskirti Microsoft Edge 
 - Integravimas su ""Azure Active Directory"" taikomosios programos tarpinį serverį
 - Valdomi parankiniai ir pagrindinio puslapio spartieji klavišai
 
-> [!NOTE]
-> Jei užblokavote vartotojus registruoti mobiliuosius įrenginius, šis valdomasis scenarijus neveiks ir vartotojams reikės įdiegti Microsoft Edge savo.
+**Pastaba:** jei užblokavote vartotojus registruoti mobiliuosius įrenginius, šis valdomasis scenarijus neveiks ir vartotojams reikės įdiegti Microsoft Edge savo.
 
 Norėdami įdiegti "Microsoft Edge Mobile", skirtą "iOS" / "iPadOS" arba "Android", žr.:
 

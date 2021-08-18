@@ -1,5 +1,5 @@
 ---
-title: 726 El. pašto peradresavimo blokavimas
+title: Išorinio automatinio el. pašto peradresavimo blokavimas arba atblokavimas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059640"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897476"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>El. pašto peradresavimo blokavimas arba atblokavimas
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blokuoti arba atblokuoti amžinąjį automatinį el. pašto peradresavimą
 
 Norėdami įjungti arba išjungti konkrečios pašto dėžutės el. pašto peradresavimą, žr. [El. pašto peradresavimo konfigūravimas](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Nuomotojo lygiu išorinio peradresavimo valdymas atliekamas naudojant siunčiamų pašto šiukšlių strategiją. Siunčiamų pašto šiukšlių filtro strategiją galite patikrinti [](https://protection.office.com/antispam) čia arba naudodami [komandą Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Administratoriai gali valdyti išorinį organizacijos peradresavimą naudodami [siunčiamų pašto šiukšlių strategijas.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Siunčiamų pašto šiukšlių strategijas galite valdyti ""Microsoft 365" sargyba" portale <https://security.microsoft.com/antispam> "PowerShell" naudodami ["cmdlet Get-HostedOutboundSpamFilterPolicy"](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) "Exchange Online".
 
-Jei gaunate šią klaidą: **"550 5.7.520 Prieiga uždrausta,** Jūsų organizacija neleidžia išorinio peradresavimo", įsitikinkite, kad strategija sukonfigūruota taip, kad įgalintumėte išorinį automatinį persiuntimą.
+Jei gaunate šį klaidos **pranešimą: "550 5.7.520 Prieiga uždrausta,** Jūsų organizacija neleidžia išorinio peradresavimo" , įsitikinkite, kad strategija sukonfigūruota taip, kad įgalintumėte išorinius automatiškai peradresuojamus laiškus.
 
-**Pastaba:** Rekomenduojama išjungti išorinį automatinį paleidimą numatytoje siunčiamų pašto šiukšlių filtro politikoje ir įgalinti ją tik vartotojams, kuriems reikia išorinio peradresavimo, sukuriant pasirinktinę strategiją tiems vartotojams. Daugiau informacijos galite perskaityti [lauke Išorinio el. pašto peradresavimo konfigūravimas Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Pastaba:** mes rekomendavome numatytąją **reikšmę**  Automatinis – sistema, valdoma pagal automatinio peradresavimo taisyklių parametrą numatytojoje siunčiamų pašto šiukšlių filtro politikoje (automatinis išorinis peradresavimas užblokuotas; vidinis automatinis peradresavimas vis tiek veikia). Turėtumėte sukurti pasirinktines siunčiamų pašto šiukšlių filtro strategijas ir naudoti reikšmę **Įjungta –** peradresavimas įgalintas tik vartotojams, kuriems reikia išorinio automatinio el. pašto peradresavimo. Daugiau informacijos žr. [Išorinio el. pašto peradresavimo konfigūravimas Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

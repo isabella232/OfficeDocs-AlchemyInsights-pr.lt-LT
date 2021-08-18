@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5c5bf712846f62afd1435db9fa0a1490c199501d0b011e867103516770fcbfd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897648"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Trūksta programinės įrangos atsargų arba jos nėra netikslios
 
-Programinės įrangos atsargos "Microsoft" sargybos ATP paslaugoje pateikia produkto pavadinimą arba tiekėją, naujausios versijos numerį ir aptiktus trūkumus bei pažeidžiamumus. Daugiau informacijos žr. Programinės [įrangos atsargos – grėsmių ir pažeidžiamumų valdymas](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Programinės įrangos atsargos "Microsoft" sargybos ATP paslaugoje pateikia produkto pavadinimą arba tiekėją, naujausios versijos numerį ir aptiko trūkumų bei pažeidžiamumų. Daugiau informacijos žr. [Programinės įrangos atsargos – grėsmių ir pažeidžiamumų valdymas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
 Galite pranešti apie miglotą arba neišsamią informaciją, netikslius versijų numerius arba iš naujo iš naujo išsklaidintos programinės įrangos atsargų informaciją, atlikite šiuos veiksmus.  
 
@@ -30,4 +30,4 @@ Galite pranešti apie miglotą arba neišsamią informaciją, netikslius versij�
 2. Pasirinkite **Ataskaitos netikslumas** ir išskridimo srityje išplečiamajame meniu pasirinkite kategoriją.
 3. Įveskite savo el. pašto adresą ir netikslumo informaciją.
 4. Pasirinkite **Pateikti**.</br>
-    Jūsų atsiliepimai iš karto siunčiami grėsmės & pažeidžiamumo valdymo ekspertams.
+    Jūsų atsiliepimai iš karto siunčiami "Threat &" pažeidžiamumo valdymo ekspertams.

@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940827"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316148"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klasikinės šakninės svetainės sukeitimas naudojant modernią svetainę
 
@@ -28,8 +28,8 @@ Jei jūsų aplinka buvo nustatyta iki 2019 m. balandžio mėn., galite pakeisti 
     - Naudokite [Invoke-SPOSiteSwap,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) kad sukeisti svetainės vietą su kita svetaine archyvavimo metu pradinėje svetainėje. Galima naudoti tiek komandos svetainėje (neprijungtoje prie grupės), tiek ryšių svetainėje. 
 
 - Netrukus bus įvestos papildomos galimybės, kurios leis toliau naudoti svetainės turinį, bet konvertuoti esamą svetainę į ryšių svetainę. 
->[!Important]
->Šios galimybės bus išsiųstos palaipsniui. Toliau patikrinkite, ar pranešimų centre yra naujinimų. 
+
+**Svarbu:** šios galimybės bus išsiųstos palaipsniui. Toliau patikrinkite, ar pranešimų centre yra naujinimų. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Žinomos svetainių apsikeitimo problemos
 
@@ -37,4 +37,4 @@ Jei jūsų aplinka buvo nustatyta iki 2019 m. balandžio mėn., galite pakeisti 
 - Norint atnaujinti ieškos indeksą, turi būti atirašytas turinys. Nereikia atlikti rankinio veiksmo – tai bus atliekama automatiškai.
 - Viską, kas priklauso nuo "statinių" saitų (pvz., Failų sinchronizavimas ir OneNote failų), reikės pataisyti rankiniu būdu.
 - Jei šaltinio svetainė buvo organizacijos naujienų svetainė, atnaujinkite URL. Gaukite visų organizacijos naujienų svetainių sąrašą.
-- Project Gali tekti patikrinti serverio svetaines, kad jos būtų tinkamai susietos.
+- Project Serverio svetaines gali tekti patikrinti, kad jos būtų tinkamai susietos.
