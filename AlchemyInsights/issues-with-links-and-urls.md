@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054806"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321915"
 ---
 # <a name="issues-with-links-and-urls"></a>Saitų ir URL problemos
 
@@ -42,15 +42,13 @@ Norėdami įtraukti atsakymo URL, eikite į skirtuką **Autentifikavimas**, esan
     - platformos („iOS“ / „Android“ / „UWP“)
     - informacijos, kuri buvo naudojama kuriant jūsų programą, pvz., „iOS“ grupavimo ID bei „Android“ paketo pavadinimo ir parašo maišos. „Azure“ portalo registracijos programa jums padės. Daugiau informacijos žr. [platformos konfigūravimas ir peradresavimo URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Žiniatinklio API ir kai kurie iš automatinių atpažinimo ženklų gavimo būdų (IWA ir vartotojo vardas / slaptažodis) nereikalauja peradresavimo URI.
+**Pastaba:** žiniatinklio API ir kai kurie tylūs atpažinimo ženklų įsigijimo būdai (IWA ir vartotojo vardas / slaptažodis) nereikalauja peradresavimo URI.
 
 **Įdiegiau savo žiniatinklio programą, o kai bandau ją patikrinti, gaunu atsakymo URL neatitikimo pranešimą**
 
 Įtraukite peradresavimo URI visose vietose, kuriose diegiate žiniatinklio programą. Daugiau informacijos žr. [Registruokite žiniatinklio programos programą naudodami „Azure“ portalą](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Įtraukite peradresavimo URI į vietą iškart po to, kai įdiegsite programą toje vietoje.
+**Pastaba:** įtraukite peradresavimo URI į vietą iš karto, kai esate įdiegę taikomąją programą į tą vietą.
 
 **Negaliu užregistruoti pakankamai atsakymo URL**
 

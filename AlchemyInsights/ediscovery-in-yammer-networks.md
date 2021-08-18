@@ -1,5 +1,5 @@
 ---
-title: El. duomenų aptikimas "Yammer" tinkluose
+title: El. duomenų aptikimas ""Yammer"" tinkluose
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118393"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>El. duomenų aptikimas "Yammer" tinkluose
+# <a name="ediscovery-in-yammer-networks"></a>El. duomenų aptikimas ""Yammer"" tinkluose
 
-Dabar galite atlikti el. duomenų aptikimo iešką "Yammer" turinyje.  El. duomenų aptikimo ieškai arba eksportavimui "Yammer" turinyje atlikti reikia:
+Dabar galite atlikti el. duomenų aptikimo "Yammer" turinį.  Atliekant el. duomenų aptikimo iešką arba eksportuojant "Yammer" turinį, reikia:
 
-1. Pirmiausia turite perkelti "Yammer Enterprise" tinklą į vietinį režimą, kad "Yammer" pranešimai ir failai būtų aptinkami. **Pastaba: jei nuo 2020 m. sausio 9 d.** esate naujas klientas, o jūsų "Yammer" tinklas jau veikia vietiniu režimu, jūsų duomenys dabar aptinkami naudojant el. duomenų aptikimą.
+1. Pirmiausia turite perkelti savo ""Yammer"" tinklą į vietinį režimą, kad "Yammer" pranešimus ir failus. Pastaba: jei esate naujas klientas nuo **2020 m. sausio 9 d., o jūsų ""Yammer""** tinklas jau veikia vietiniu režimu, jūsų duomenys dabar aptinkami naudojant el. duomenų aptikimą .
 
-2. Išeidami iš klientų, "Yammer" el. duomenų aptikimas bus pasiekiamas, kai bus išleistas vietinių režimų lygiavimo įrankis ir nuomotojo "Yammer" bus baigtas vietinis režimo perkėlimas.
+2. Išeinant iš klientų, ""Yammer"" el. duomenų aptikimas bus pasiekiamas, kai bus išleistas "Native Mode Alignment" įrankis ir bus baigtas ""Yammer"" perkėlimas į nuomotoją.
 
 Daugiau informacijos apie:
 
-- Vietinis režimas "Yammer", žr.: [Pirminio režimo apžvalga](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- El. duomenų aptikimas "Yammer" tinkluose žr.: El. duomenų aptikimo ["Yammer" tinkluose apžvalga.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
-- El. duomenų aptikimas "Microsoft 365", žr. [el. duomenų aptikimas programoje "Microsoft 365".](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- Native Mode in "Yammer", see: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- El. duomenų aptikimas ""Yammer"" tinkluose, žr.: El. duomenų [aptikimo "Yammer" tinklų apžvalga.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- El. duomenų aptikimas "Microsoft 365", žr. [el. duomenų aptikimas Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

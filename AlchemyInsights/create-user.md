@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896723"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323294"
 ---
 # <a name="create-user"></a>Kurti vartotoją
 
@@ -30,7 +30,7 @@ ms.locfileid: "57896723"
 **Negaliu sukurti naujo vartotojo savo "Azure AD" kataloge**
 
 1. Įsitikinkite, kad turite teisę sukurti naują standartinį vartotoją. Tik visuotinis administratorius arba vartotojo administratoriaus vaidmuo "Azure Active Directory" (AD) gali sukurti naują standartinį vartotoją. Jei neturite vieno iš šių vaidmenų, paprašykite administratoriaus įtraukti jus į vieną iš šių vaidmenų arba sukurti naują vartotojo paskyrą už jus.
-1. Įsitikinkite, kad vartotojo vardas yra domene, kuris patvirtintas jūsų "Azure AD". Jei savo "Azure AD" neturite patikrintų pasirinktinių domenų vardų, galite naudoti "Azure AD" pradinį domeną, kuris baigiasi *.onmicrosoft.com.
+1. Įsitikinkite, kad vartotojo vardas yra domene, kuris patvirtintas jūsų "Azure AD". Jei "Azure AD" neturite patikrintų pasirinktinių domenų vardų, galite naudoti "Azure AD" pradinį domeną, kuris baigiasi *.onmicrosoft.com.
 1. Įsitikinkite, kad vartotojo vardas yra domene, kuris nėra susietas su "Azure AD" iš jūsų vietinio AD. Vartotojų negalima įtraukti į debesį su domenų vardais, kurie yra išoriniai iš vietinės.
 1. Įsitikinkite, kad joks kitas vartotojas ar kontaktas dar neturi vartotojo vardo, kurį norite priskirti naujam vartotojui. Vartotojų vardai turi būti unikalūs visoje "Azure AD".
 1. Žr. ["Azure AD" vaidmenys ir "Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) AD" administratoriai.

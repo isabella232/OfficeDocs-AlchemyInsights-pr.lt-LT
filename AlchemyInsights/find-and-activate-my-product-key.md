@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498872"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322073"
 ---
 # <a name="microsoft-open-license-program"></a>"Microsoft Open License Program"
 
@@ -28,9 +28,7 @@ Jei įsigijote Microsoft 365 verslui naudodami ["Microsoft Open License Program"
 
 1. Įsigę raktą iš Microsoft 365 partnerio, patikrinkite, ar aplanke Gauta nėra el. laiško iš "Microsoft", kuriame yra aktyvinimo saitas.
 
-    > [!NOTE]
-    > El. laiškas siunčiamas asmeniui, kuris bendrojo licencijavimo sutartyje nurodytas kaip interneto administratorius. Jei nežinote, kas paskirtas interneto administratoriumi, kreipkitės į savo Microsoft 365 partnerį.
+    **Pastaba:** el. laiškas siunčiamas asmeniui, kuris bendrojo licencijavimo sutartyje nurodytas kaip interneto administratorius. Jei nežinote, kas paskirtas interneto administratoriumi, kreipkitės į savo Microsoft 365 partnerį.
 1. Vykdykite el. laiške pateiktą saitą, kad prisijungtumėte naudodami savo darbo arba mokymo įstaigos paskyrą, sutikite su licencijos sutarties atidarymu ir atnaujinkite prenumeratą. Norėdami peržiūrėti nuoseklius žingsnis po žingsnio, atsisiųskite PDF vadovą, [Aktyvinti internetines tarnybas: Microsoft 365 prenumeratą](https://go.microsoft.com/fwlink/p/?LinkId=618100).
 
-    > [!NOTE]
-    > Bendrojo licencijavimo klientai taip pat gali pasirinkti aktyvinti prenumeratas bendrojo [licencijavimo paslaugų centre.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Norėdami sužinoti, kaip tai padaryti, atsisiųskite PDF vadovą ["Active Online Services" bendrojo licencijavimo paslaugų centre](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+    **Pastaba:** bendrojo licencijavimo klientai taip pat gali pasirinkti aktyvinti prenumeratas bendrojo [licencijavimo paslaugų centre](https://go.microsoft.com/fwlink/p/?LinkID=282016). Norėdami sužinoti, kaip tai padaryti, atsisiųskite PDF vadovą ["Active Online Services" bendrojo licencijavimo paslaugų centre](https://go.microsoft.com/fwlink/p/?LinkId=618096).

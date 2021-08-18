@@ -15,16 +15,16 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3ce60388adbbee51cb008a1dc691f298e13d39e1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892391"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322537"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Peržiūrėkite "Microsoft" programų valdymo būseną naudodami "Microsoft Edge", skirtą "iOS" arba "Android" įrenginiams
 
-Norėdami pasiekti taikomųjų programų žurnalus, kad būtų galima šalinti valdomų "iOS" arba "Android" programų triktis, atidarykite Microsoft Edge ir adreso lauke įveskite **about:intunehelp.** Microsoft Edge paleidžiama trikčių diagnostikos režimu.
+Norėdami pasiekti taikomųjų programų žurnalus, kurie naudojami šalinant valdomų "iOS" arba "Android" programų trikčių diagnostiką, atidarykite Microsoft Edge ir adreso lauke įveskite **about:intunehelp.** Microsoft Edge paleidžiama trikčių diagnostikos režimu.
 
 Programėlių žurnaluose saugomų parametrų sąrašą [žr. Kliento programos apsaugos žurnalų peržiūra](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119616"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Kelvedžio Wi-Fi slaptažodžio keitimas
 
 Norėdami pakeisti Wi-Fi kelvedžio slaptažodį, atlikite šiuos veiksmus:
 
-1. Pasirinkite **Pradžia**  >  **Parametrai**  >  **Tinklas & Tinklo** ir bendrinimo  >  **centras**.
+1. Pasirinkite **Pradėti**  >  **Parametrai**  >  **Tinklo & tinklo** ir bendrinimo  >  **centras**.
 
 2. Dalyje **Peržiūrėti aktyvius tinklus** ieškokite tinklo, prie kurį esate prisijungę. Pasirinkite mėlyną saitą šalia **Ryšiai**.<br>
 
