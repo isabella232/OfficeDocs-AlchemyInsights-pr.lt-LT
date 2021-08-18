@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012136"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901476"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>"Microsoft" grėsmių ekspertai – tikslinės atakos pranešimas
 
-Tikslinis pranešimas apie ataka yra viena iš "Microsoft" grėsmių ekspertai galimybių. Tai aktyvi grėsmių medžioklės tarnyba, kuri teikia specialių įžvalgų ir analizės, padedančios užtikrinti, kad būtų nustatytos svarbiausios grėsmės ir į jas būtų reaguojama greitai ir tiksliai.
+Tikslinis pranešimas apie ataka yra viena iš "Microsoft" grėsmių ekspertai galimybių. Tai aktyvi grėsmių medžioklės tarnyba, kuri teikia specialias įžvalgas ir analizę, padedančias užtikrinti, kad būtų nustatytos svarbiausios grėsmės ir į jas būtų reaguojama greitai ir tiksliai.
 
-Jei esate "Microsoft" sargybos galinio punkto klientas, turite kreiptis dėl ""Microsoft" grėsmių ekspertai" – tikslinių atakos pranešimų, kad gautumėte specialių įžvalgų ir analizės, padedančias nustatyti svarbiausias grėsmes, kad galėtumėte greitai į jas atsakyti.
+Jei esate "Microsoft Defender for Endpoint" klientas, turite kreiptis dėl ""Microsoft" grėsmių ekspertai" – tikslinių atakos pranešimų, kad gautumėte specialių įžvalgų ir analizės, kurios padėtų nustatyti svarbiausias grėsmes, kad galėtumėte greitai į jas atsakyti.
 
-Norėdami registruotis į "Microsoft" grėsmių ekspertai – tikslinių atakos pranešimų pranašumus, eikite **į Parametrai** Bendrosios išplėstinės  >    >    >  **funkcijos "Microsoft" grėsmių ekspertai – tiksliniai atakos** pranešimai, kad būtų taikomi. Kai bus priimta, gausite tikslinių atakos pranešimų pranašumus.
+Norėdami registruotis į "Microsoft" grėsmių ekspertai – tikslinių atakos pranešimų pranašumus, eikite **į Parametrai**  >  **Bendrosios**  >    >  **išplėstinės funkcijos "Microsoft" grėsmių ekspertai – tiksliniai atakos** pranešimai. Kai bus priimta, gausite tikslinių atakos pranešimų pranašumus.
 
-Tikslinės atakos pranešimą galite gauti iš "Microsoft" grėsmių ekspertai per šią laikmeną:
+Tikslinės atakos pranešimą galite gauti "Microsoft" grėsmių ekspertai per šią laikmeną:
 
 - Galinio punkto portalo įvykių sargybos puslapis
 - Galinio punkto portalo įspėjimų ataskaitų sritis Sargyba
@@ -38,4 +38,4 @@ Tikslinės atakos pranešimą galite gauti iš "Microsoft" grėsmių ekspertai p
 
 Norėdami gauti tikslinius atakos pranešimus el. paštu, sukurkite el. laiško pranešimo taisyklę. 
 
-Daugiau [informacijos žr. "Microsoft" grėsmių ekspertai galimybių konfigūravimas](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) ir valdymas.
+Daugiau [informacijos žr. "Microsoft" grėsmių ekspertai galimybių konfigūravimas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) ir valdymas.

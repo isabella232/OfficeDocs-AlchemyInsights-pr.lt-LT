@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895187"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317816"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Sužinokite, kas nustato peradresavimą pašto dėžutėje ir kaip tai padaryti
 
 Jei išorinis peradresavimas buvo nustatytas pašto dėžutėje, veikla audituota kaip **set-Mailbox** cmdlet dalis. Štai kaip rasti veiklą audito žurnale:
 
 1. Atlikite vieną iš šių veiksmų:
-   - Lauke "Microsoft 365" atitikties centras <https://compliance.microsoft.com> , eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
-   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://security.microsoft.com/auditlogsearch> .
+   - Lauke "Microsoft 365" atitikties centras , <https://compliance.microsoft.com> eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
+   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> , eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://security.microsoft.com/auditlogsearch> .
 
-   > [!NOTE]
-   > Jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįjungta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
+   **Pastaba:** jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįjungta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
 
 2. Puslapyje **Tikrinimas** patikrinkite, ar pažymėtas **skirtukas** Ieška, tada sukonfigūruokite šiuos parametrus:
    - Laukuose Pradžia ir Pabaiga pasirinkite **datos /** **laiko diapazoną.**

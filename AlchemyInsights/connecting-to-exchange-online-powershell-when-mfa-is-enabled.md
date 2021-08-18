@@ -1,5 +1,5 @@
 ---
-title: 761 jungiantis prie "Exchange Online PowerShell", kai įgalinta MFA
+title: 761 Prisijungimas prie "Exchange Online PowerShell" įgalinus MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090276"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Prisijungimas prie "Exchange Online PowerShell", kai įgalinta MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Prisijungimas "PowerShell Exchange Online įgalinus MFA
 
-Jei jūsų abonementas turi kelių dalių autentifikavimą (MFA), turite vadovautis šiomis instrukcijomis, kad prisijungtumėte prie "Exchange Online" PowerShell: [naudokite "Exchange Online" "PowerShell" su šiuolaikišku autentifikavimu, naudodami V2 modulį](https://aka.ms/exops-docs). Šiame puslapyje ieškokite MFA/kelių dalių autentifikavimo instrukcijų.
+Jei jūsų paskyroje įgalintas kelių dalių autentifikavimas (MFA), turite vadovautis šiomis instrukcijomis, kad prisijungtumėte prie "Exchange Online PowerShell": naudokite "Exchange Online PowerShell" su moderniuoju [autentifikavimu naudodami V2 modulį.](https://aka.ms/exops-docs) Šiame puslapyje ieškokite MFA / kelių dalių autentifikavimo instrukcijų.
