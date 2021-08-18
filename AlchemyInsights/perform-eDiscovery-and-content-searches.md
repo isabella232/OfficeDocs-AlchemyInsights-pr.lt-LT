@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317484"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902052"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kaip atlikti turinio ieškas ir el. duomenų aptikimo ieškas
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317484"
 4. Įveskite reikiamas ieškos sąlygas, įskaitant raktažodžius ir turinio vietas.
 5. Pasirinkite **Įrašyti & vykdyti,** kad pavadintumėte iešką, paleiskite ją, tada peržiūrėkite rezultatus.
 
-**Pastaba:** **Microsoft 365 centre**  >  **sprendimai** **išplėskite el. duomenų aptikimą** ir pasirinkite norimą el. duomenų aptikimo įrankį.
+> [!NOTE]
+> "Microsoft 365 **Center**  >  **Solutions"** **išplėskite el. duomenų aptikimą** ir pasirinkite norimą el. duomenų aptikimo įrankį.
 
 Išsamias instrukcijas apie turinio ieškas, rezultatų eksportavimą ir el. [](https://docs.microsoft.com/microsoft-365/compliance/content-search) duomenų aptikimo atvejų sukūrimą duomenims laikyti žr. Turinio ieška ir [el. duomenų aptikimo atvejai](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 

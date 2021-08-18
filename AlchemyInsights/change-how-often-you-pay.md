@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891575"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318912"
 ---
 # <a name="change-how-often-you-pay"></a>Mokėjimo laiko keitimas
 
@@ -33,7 +33,6 @@ Norėdami pakeisti, kaip dažnai išrašote sąskaitą ir mokate už prenumerat�
 3. Puslapio Prenumeratos išsami informacija sekcijoje **Prenumeratos ir mokėjimo parametrai** pasirinkite Redaguoti atsiskaitymo **dažnumą**.
 4. Srityje **Atsiskaitymo dažnumo** redagavimas pasirinkite parinktį, kaip dažnai norite išrašyti sąskaitą, tada pasirinkite **Keisti**.
 
-> [!NOTE]
-> Mėnesinis arba metinis atsiskaitymas yra vienintelės parinktys.
+**Pastaba:** mėnesinis arba metinis atsiskaitymas yra vienintelės parinktys.
 
 Daugiau informacijos žr. [Atsiskaitymo dažnumo keitimas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

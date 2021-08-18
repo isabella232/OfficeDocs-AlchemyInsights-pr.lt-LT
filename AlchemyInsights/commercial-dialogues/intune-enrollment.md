@@ -1,5 +1,5 @@
 ---
-title: "\"Intune\" registracija"
+title: Registracija į "Intune"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090888"
 ---
-# <a name="intune-enrollment"></a>"Intune" registracija
+# <a name="intune-enrollment"></a>Registracija į "Intune"
 
-Norėdami pašalinti įrenginio registracijos problemas, žiūrėkite:
+Norėdami pašalinti įrenginių registracijos problemas, žr.:
 
-- ["Microsoft Intune" įrenginio registracijos trikčių šalinimas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- ["IOS/iPadOS" įrenginio registracijos trikčių diagnostika](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- ["Windows 10" automatinio įtraukimo trikčių diagnostika](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Įrenginio registracijos trikčių šalinimas "Microsoft Intune"](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- ["iOS" / "iPadOS" įrenginio registracijos trikčių šalinimas](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Automatinio Windows 10 trikčių diagnostika](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 - ["Android Enterprise" įrenginio trikčių šalinimas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- ["Windows" įrenginio registracijos trikčių šalinimas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Įrenginių Windows trikčių šalinimas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
 [Skaitykite daugiau apie "Intune" registraciją...](https://docs.microsoft.com/mem/intune/enrollment/)

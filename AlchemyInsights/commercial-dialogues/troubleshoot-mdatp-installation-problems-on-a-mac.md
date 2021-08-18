@@ -1,5 +1,5 @@
 ---
-title: MDATP diegimo problemų šalinimas "Mac" kompiuteryje
+title: MDATP diegimo trikčių šalinimas "Mac" kompiuteryje
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091056"
 ---
-# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>MDATP diegimo problemų šalinimas "Mac" kompiuteryje
+# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>MDATP diegimo trikčių šalinimas "Mac" kompiuteryje
 
-Nepavykus įdiegti neautomatiškai, diegimo vediklio **suvestinės** puslapyje rodomas šis klaidos pranešimas:
+Jei nepavyksta įdiegti rankiniu būdu, **diegimo** vediklio puslapyje Suvestinė rodoma ši klaida:
 
-"Diegiant įvyko klaida. Diegimo programa aptiko klaidą, dėl kurios nepavyko įdiegti. Kreipkitės pagalbos į programinės įrangos gamintoją. "
+"Diegimo metu įvyko klaida. Diegimo programa aptiko klaidą, dėl kurios nepavyko įdiegti. Pagalbos kreipkitės į programinės įrangos gamintoją."
 
-Naudojant MDM įdiegtį, puslapyje rodomas bendrasis diegimo gedimas.
+Naudojant MDM diegimus, puslapyje taip pat rodoma bendroji diegimo klaida.
 
-Nors mes negalime Rodyti tikslių klaidų galutiniams vartotojams, mes saugome žurnalo failą su diegimo eiga, aplanke **/Library/Logs/Microsoft/mdatp/install.log**. Kiekvienas diegimo seansas prideda prie šio žurnalų failo. Norėdami išvesti tik paskutinį diegimo seansą, naudokite `sed` .
+Nors galutiniams vartotojams nerodome tikslių klaidų, mes laikome žurnalo failą su diegimo eiga, **naudojant /Library/Logs/Microsoft/mdatp/install.log**. Kiekvienas diegimo seansas pridedamas prie šio žurnalo failo. Norėdami išvesti tik paskutinį diegimo seansą, naudokite `sed` .
 
-Jei norite sužinoti daugiau, peržiūrėkite ["Microsoft Defender ATP for Mac" diegimo problemų diagnostiką](https://go.microsoft.com/fwlink/?linkid=2144615).
+Norėdami sužinoti daugiau, žr. ["Microsoft" sargybos ATP, skirta "Mac", diegimo trikčių šalinimas.](https://go.microsoft.com/fwlink/?linkid=2144615)

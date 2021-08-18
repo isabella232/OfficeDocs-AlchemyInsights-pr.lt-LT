@@ -1,5 +1,5 @@
 ---
-title: "\"Windows 10\" įrenginio į \"Microsoft Defender\" išplėstinės grėsmės apsauga (MDATP)"
+title: "\"Microsoft\" sargybos Windows 10 apsaugos nuo grėsmių (MDATP) įrenginio parengimas"
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51e6e2c1504002af5408d678399fdd1d691ae096
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 133ff4256c007600857d16d60bf494ea314c8d874c02d3afcbc3ff1a29b9c802
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091092"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>"Windows 10" įrenginio į "Microsoft Defender" išplėstinės grėsmės apsauga (MDATP)
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>"Microsoft" sargybos Windows 10 apsaugos nuo grėsmių (MDATP) įrenginio parengimas
 
-MDATP palaiko šiuos diegimo įrankius ir metodus, skirtus "Windows 10":
+MDATP palaiko šiuos diegimo įrankius ir Windows 10:
 
 - Grupės strategija
 - „Microsoft Endpoint Configuration Manager“
 - Mobiliųjų įrenginių valdymas, įskaitant "Microsoft Intune"
 - Vietiniai scenarijai
 
-Norėdami sužinoti daugiau, peržiūrėkite ["Windows 10" įrenginių parengimo įrankius ir metodus](https://go.microsoft.com/fwlink/?linkid=2143460).
+Norėdami sužinoti daugiau, [žr. "Windows 10"](https://go.microsoft.com/fwlink/?linkid=2143460)įrenginių parengimo įrankiai ir metodai.

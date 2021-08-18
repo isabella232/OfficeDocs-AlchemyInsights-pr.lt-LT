@@ -13,25 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303585"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902268"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>IP adreso radus audito žurnale
 
 IP adresas, atitinkantis vartotojo arba administratoriaus atliekamą veiklą, rodomas audito žurnaluose. Kliento informacija taip pat užregistruojama. Štai kaip nustatyti IP adresą:
 
 1. Atlikite vieną iš šių veiksmų:
-   - Lauke "Microsoft 365" atitikties centras , <https://compliance.microsoft.com> eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
-   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> , eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://security.microsoft.com/auditlogsearch> .
+   - Lauke "Microsoft 365" atitikties centras <https://compliance.microsoft.com> , eikite į **Sprendimų** \> **auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://compliance.microsoft.com/auditlogsearch> .
+   - ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į **Auditas**. Arba, norėdami pereiti tiesiai į **audito puslapį,** naudokite <https://security.microsoft.com/auditlogsearch> .
 
-    **Pastaba:** jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįgalinta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
+    > [!NOTE]
+    > Jei matote pranešimą, kad reikia įjungti auditą, eikite į priekį ir įjunkite jį dabar. Jei ši funkcija neįgalinta, ieškos rezultatai negalės gauti duomenų iš ankstesnių datų.
 
 2. Puslapyje **Tikrinimas** patikrinkite, ar pažymėtas **skirtukas** Ieška, tada sukonfigūruokite šiuos parametrus:
-   - **Datos ir laiko diapazonas:** laukuose Pradžia ir Pabaiga pasirinkite **datos** / **laiko diapazoną.**
+   - **Datos ir laiko diapazonas:** laukuose Pradžia ir Pabaiga pasirinkite **datos** **/ laiko diapazoną.**
    - **Veikla:** jei jus domina konkreti veikla, pasirinkite ją iš sąrašo; kitu atveju bus grąžinta **numatytoji reikšmė Rodyti visų** veiklų rezultatus. Atkreipkite dėmesį, kad tam tikros veiklos gali būti negalima pasirinkti; tačiau šie audito elementai bus grąžinti, **jei pasirinkta Rodyti visų veiklų** rezultatus.
    - **Vartotojai:** priimkite tuščią numatytąją reikšmę, kad būtų pateikti rezultatai visiems vartotojams, arba įveskite vieną ar daugiau vartotojų.
 

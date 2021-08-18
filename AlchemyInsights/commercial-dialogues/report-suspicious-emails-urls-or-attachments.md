@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895127"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318800"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Pranešimas apie įtartinus el. laiškus, URL arba priedus
 
-Suprantu, kad jums reikia pagalbos tiriant įtartinus el. laiškus arba netinkamai filtruotus el. laiškus. Galiu padėti pateikti analizės problemą naudojant portalą **Pateiktis,** kuris suteiks jums greitą atsiliepimą. Pateikiame veiksmų suvestinę:
+Suprantu, kad jums reikia pagalbos tiriant įtartinus el. laiškus arba netinkamai filtruotus el. laiškus. Galiu padėti pateikti analizės problemą naudojant portalą **Pateiktis,** kuris suteiks jums greitą atsiliepimą. Pateikiame veiksmų santrauką:
 
-1. ""Microsoft 365" sargyba" portale <https://security.microsoft.com> eikite į **El. &** \> **bendradarbiavimo pateiktis**.
+1. ""Microsoft 365" sargyba portale <https://security.microsoft.com> eikite į **El. &** \> **bendradarbiavimo pateiktuose**.
 
    Norėdami pereiti tiesiai į **puslapį Pateiktis,** naudokite <https://security.microsoft.com/reportsubmission> .
 
@@ -31,7 +31,6 @@ Suprantu, kad jums reikia pagalbos tiriant įtartinus el. laiškus arba netinkam
 
 3. Bus rodomas išskridimas su parinktimi pateikti el. laišką, URL arba failą.
 
-Daugiau informacijos žr. Administravimo pateikimo naudojimas norint pateikti įtartiną pašto [šiukšles,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)sukčiavimo apsimetant, URL ir failus "Microsoft".
+Daugiau informacijos žr. Administravimo pateikimo naudojimas norint pateikti [įtartiną pašto šiukšles,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)sukčiavimo apsimetant, URL ir failus "Microsoft".
 
-> [!NOTE]
-> Informuokite vartotojus, kad jie turėtų pranešti apie visus įtartinus pranešimus aplanke Gauta naudodami ataskaitos pranešimo priedą arba pranešimą apie [sukčiavimą apsimetant.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+**Pastaba:** informuokite vartotojus, kad jie turėtų pranešti apie visus įtartinus laiškus aplanke Gauta naudodami ataskaitos pranešimo papildinį arba pranešimą apie [sukčiavimą apsimetant](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

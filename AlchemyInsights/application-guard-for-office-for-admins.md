@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0e67fd327eeb6c802180be2cc5baa422ff69ebd5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319070"
 ---
 # <a name="application-guard-for-office-for-admins"></a>"Application Guard" Office administratoriams
 
-"Application Guard for Office" pasiekiama organizacijoms, kurios turi Microsoft 365 E5 arba Microsoft 365 E5 mobilumo + saugos licencijas. Šių organizacijų vartotojai turi naudoti "Microsoft 365 programas, skirtas įmonei dabartiniame kanale arba mėnesinio įmonės kanalo.
+"Application Guard for Office" pasiekiama organizacijoms, kurios turi Microsoft 365 E5 arba Microsoft 365 E5 mobilumo + saugos licencijas. Šių organizacijų vartotojai turi naudoti Microsoft 365 programas, skirtas įmonėms dabartiniame kanale arba mėnesinio įmonės kanalo.
 
-> [!NOTE]
-> "Application Guard for Office" reikalauja, "Microsoft" sargybos "Application Guard" kad pirmiausia įrenginyje būtų įgalintas "" (MDAG) režimas. Jei norite įdiegti MDAG keliuose įrenginiuose, [žr. Pasirengimas diegti "Microsoft" sargybos "Application Guard"](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
+**Pastaba:**"Application Guard for Office" reikalauja, kad "Microsoft" sargybos "Application Guard" (MDAG) pirmiausia būtų įgalintas įrenginyje. Jei norite įdiegti MDAG keliuose įrenginiuose, [žr. Pasirengimas diegti "Microsoft" sargybos "Application Guard"](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
 
 Išsamios informacijos apie išankstines rekvizitas, sąranką, apribojimus ir trikčių diagnostiką "Application Guard" Office žr.:
 
