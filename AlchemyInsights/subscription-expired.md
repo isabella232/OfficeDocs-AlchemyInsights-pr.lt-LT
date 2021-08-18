@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328344"
 ---
 # <a name="subscription-expired"></a>Baigėsi prenumeratos galiojimo laikas
 
@@ -29,9 +29,8 @@ Jei jūsų prenumeratos galiojimas baigėsi, ją išjungė „Microsoft“ arba 
 **Prenumeratos aktyvinimas iš naujo**
 
 1. Administravimo centre eikite į puslapį  >  [Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Skirtuke **Produktai** raskite prenumeratą, kurią norite aktyvinti iš naujo, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite Iš **naujo aktyvinti šią prenumeratą**.
-    > [!NOTE]
-    > Jei nematote šios prenumeratos **aktyvinimo iš naujo**, kreipkitės į palaikymo tarnybą.
+2. Skirtuke **Produktai** raskite prenumeratą, kurią norite suaktyvinti iš naujo, pasirinkite tris taškus (daugiau veiksmų), tada pasirinkite Iš **naujo suaktyvinti šią prenumeratą**.\
+    **Pastaba:** jei nematote šios prenumeratos **aktyvinimo iš naujo**, kreipkitės į palaikymo tarnybą.
 3. Srityje **Iš naujo suaktyvinti šią** prenumeratą išplečiamajame sąraše pasirinkite mokėjimo būdą arba pasirinkite **Įtraukti mokėjimo būdą**.
 4. Pasirinkite **Įrašyti**.
 

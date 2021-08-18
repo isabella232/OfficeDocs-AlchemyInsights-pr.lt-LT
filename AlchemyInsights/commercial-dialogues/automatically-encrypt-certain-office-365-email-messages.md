@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949575"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327982"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Automatiškai šifruoti tam tikrus Office 365 el. laiškus
 
@@ -35,8 +35,7 @@ Galite automatiškai šifruoti laiškus, kuriuos vartotojai siunčia tam tikriem
 9. Pasirinkite bet kurį pasirinktinį pasirinkimą (iš pasirinktinių pasirinkimų sąrašo, kurį galite atlikti šiuo metu, daugelis iš jų gali būti palikti su numatytuoju paprastumo parametru).
 10. Spustelėkite **Įrašyti**.
 
-> [!IMPORTANT]
-> Visada galėsite grįžti ir redaguoti šią taisyklę vėliau.
+**Svarbu:** visada galite grįžti ir redaguoti šią taisyklę vėliau.
 
-Daugiau informacijos apie šifravimo taisyklių sukūrimą žr. Pašto srauto taisyklių apibrėžimas el. [laiškams šifruoti Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
+Daugiau informacijos apie šifravimo taisyklių sukūrimą žr. Pašto srauto taisyklių apibrėžimas el. [laiškams šifruoti programoje "Office 365".](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

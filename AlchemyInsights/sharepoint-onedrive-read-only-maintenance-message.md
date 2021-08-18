@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910554"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329456"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only priežiūros pranešimą, kai bandote naudoti SharePoint arba "OneDrive"
 
 Vartotojai gali gauti **tik skaitymo priežiūros** pranešimą, kai bandote naudoti SharePoint arba "OneDrive" vieną iš toliau nurodytų scenarijų. 
 
 -   Suplanuota arba aktyvi priežiūros veikla.  Patikrinkite juos pereidami į [pranešimų centrą](https://portal.office.com/adminportal/home#/messagecenter).
--   Didelio prioriteto, aktyvus tarnybos incidentas, kuris gali nutikti. Patikrinkite, ar nėra patarimų / incidentų pereidami į [Tarnybos sveikata](https://portal.office.com/adminportal/home#/servicehealth).
+-   Didelio prioriteto aktyvus tarnybos incidentas, kuris gali sėsti. Patikrinkite, ar nėra patarimų / incidentų pereidami į [Tarnybos sveikata](https://portal.office.com/adminportal/home#/servicehealth).
 -   Nedidelis automatinio atkūrimo scenarijus, kuris gali įvykti dėl netikėtų įvykių serveriuose, kurie gali trukti mažiau nei 30 min. 
     
     Nėra pranešimų centro arba tarnybos sveikatos pranešimų apie šias nepilnametis atkūrimas, bet jums reikia grįžti prie normalaus labai greitai.
@@ -38,8 +38,6 @@ Prieš naršydami svetainėje, pabandykite išvalyti naršyklės talpyklą.
 2. Dalyje **Valyti naršymą** pasirinkite **Pasirinkti, ką išvalyti**.
 3. Pasirinkite **Slapukai ir įrašyti žiniatinklio svetainės duomenys**, tada pasirinkite **Valyti**.
 
->[!Note] 
-> Šie veiksmai gali skirtis naudojant kitas naršykles, pvz., "Mozilla Firefox" arba "Google Chrome".
+**Pastaba:** šie veiksmai gali skirtis naudojant kitas naršykles, pvz., "Mozilla Firefox" arba "Google Chrome".
 
->[!Note] 
-> Kita parinktis būtų atidaryti savo SharePoint arba "OneDrive" naujame "InPrivate" lange.
+**Pastaba:** kita parinktis būtų atidaryti jūsų SharePoint arba "OneDrive" naujame "InPrivate" lange.

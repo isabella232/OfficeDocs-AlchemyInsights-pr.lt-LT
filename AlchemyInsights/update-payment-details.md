@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892435"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330676"
 ---
 # <a name="update-credit-card-information"></a>Kredito kortelės informacijos atnaujinimas
 
 1. „Microsoft 365“ administravimo centre eikite į puslapį **Atsiskaitymas** \> [Mokėjimo būdai](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Jei patekote į ciklą, kai esate grąžinami į administratoriaus pagrindinį puslapį iki atnaujinimai užbaigiami, pabandykite „Inprivate“ arba inkognito režimą.
+    **Pastaba:** jei kyla ciklas, kuris siunčia jus atgal į administravimo pagrindinį puslapį prieš užbaigiant naujinimus, išbandykite "Inprivate" arba "Incognito" režimą.
   
 2. Pasirinkite kredito kortelę, kurią norite atnaujinti.
 
-    > [!NOTE]
-    > Jei mokėjimo metodą pridėjo kitas administratorius, kredito kortelės arba banko sąskaitos informacijos atnaujinti negalėsite. Jeigu greitai baigsis kredito kortelės galiojimas, o kitas administratorius negali jos atnaujinti, sklandų paslaugos teikimą galite užtikrinti įtraukdami į prenumeratą kitą kredito kortelę arba naują banko sąskaitą pasirinkę **Pridėti mokėjimo metodą**.
+    **Pastaba:** jei kitas administratorius įtraukė mokėjimo būdą, negalėsite atnaujinti kredito kortelės arba banko sąskaitos informacijos. Jeigu greitai baigsis kredito kortelės galiojimas, o kitas administratorius negali jos atnaujinti, sklandų paslaugos teikimą galite užtikrinti įtraukdami į prenumeratą kitą kredito kortelę arba naują banko sąskaitą pasirinkę **Pridėti mokėjimo metodą**.
   
 3. Srityje **Mokėjimo būdo informacija** pasirinkite **Redaguoti**.
 

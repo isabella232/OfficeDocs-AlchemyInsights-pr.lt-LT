@@ -12,19 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: a3f07573832fbaed622cd76686a59df06127023563cc3d2c3a7e710cbf45accd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 188063432bec2e1bdec07c11cbaf6731ab6046d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028948"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328956"
 ---
 # <a name="how-to-install-office"></a>Kaip įdiegti „Office“
 
 Jei norite įdiegti „Office“ kliento programas, įsitikinkite, kad turite verslui skirtą prenumeratą, pvz., „Microsoft 365 Business Standard“, „Microsoft 365“ programos verslui ar „Office 365 Education“.
   
-> [!NOTE]
-> [„Office Home and Business“](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) yra [„Office“ namams](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) produktas, o ne verslo prenumeratos dalis. Norėdami gauti konkrečias instrukcijas, skirtas „Visio“ arba „Project“, žr. [„Visio“ diegimas](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) arba [„Project“ diegimas](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
+**Pastaba:** [Office ir verslas](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) yra [Office produktas,](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) o ne verslo prenumeratos dalis. Norėdami gauti konkrečias instrukcijas, skirtas „Visio“ arba „Project“, žr. [„Visio“ diegimas](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) arba [„Project“ diegimas](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Sukurkite vartotojų paskyras ir įtraukite savo domeną. Įsitikinkite, kad vartotojas turi [priskirtą licenciją](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 

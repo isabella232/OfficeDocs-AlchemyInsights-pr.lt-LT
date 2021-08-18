@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898252"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330068"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Dažniausiai pasitaikančių "Microsoft" sargybos problemų sprendimas Office 365
 
@@ -33,11 +33,11 @@ Toliau pateikiami keli dažniausiai pasitaikančių "Microsoft" sargybos problem
 
 - **Įjungti Seifas saito apsaugą:**
 
-  1. ""Microsoft 365" sargyba" portale eikite į <https://security.microsoft.com/> **El. &** \> **bendradarbiavimo strategijos & Grėsmių** \>  \> **strategijos Seifas saitai** **dalyje** Strategijos.
+  1. ""Microsoft 365" sargyba" portale eikite į El. & bendradarbiavimo <https://security.microsoft.com/> strategijos &  \> **Grėsmių** strategijos Seifas \>  \> **saitai** **dalyje** Strategijos.
 
      Norėdami pereiti tiesiai į **Seifas saitų puslapį,** naudokite <https://security.microsoft.com/safelinksv2> .
 
-  2. Puslapyje **Seifas saitai** pasirinkite strategiją spustelėdami strategijos pavadinimą.
+  2. Puslapyje **Seifas** saitai pasirinkite strategiją spustelėdami strategijos pavadinimą.
   3. Rodomame išsamios informacijos iškeliame meniu atlikite vieną iš šių veiksmų:
      - Norėdami įtraukti naują strategiją, pasirinkite **+ Kurti**. Bus paleidžiamas vediklis, kuris padės nustatyti strategijos parametrus.
      - Norėdami redaguoti esamą strategiją, pasirinkite strategiją spustelėdami strategijos pavadinimą. Rodomame išsamios informacijos iškeliame lange **pasirinkite Redaguoti** **sekcijoje Apsaugos** parametrai.

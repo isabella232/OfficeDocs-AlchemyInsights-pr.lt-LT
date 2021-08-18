@@ -15,19 +15,19 @@ ms.custom:
 - commerce_licensing
 - "491"
 - "1500032"
-ms.openlocfilehash: f7b3ed021960ec2bc4dd2b0cc6d89e0f70e5c9961a3ae48ef59a3f43994d8d04
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4a2e35fd8fea0204c4902842f309b5236df160eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498944"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328630"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Klausimai apie jūsų Microsoft 365 licenciją
 
 Atlikite šiuos veiksmus, kad sužinotumėte, kiek licencijų įsigijote arba kiek licencijų priskirta iš prenumeratos.
   
 1. Administravimo centre eikite į  puslapį \> **[Atsiskaitymas už produktus.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Skirtuke **Produktai** raskite prenumeratą, apie kurią norite sužinoti daugiau. Galite matyti, kiek licencijų mokate ir kiek šiuo metu yra priskirta.
+2. Skirtuke **Produktai** raskite prenumeratą, apie kurią norite sužinoti daugiau. Galite matyti, kiek licencijų mokate ir kiek šiuo metu priskirta.
 
 Jei norite įtraukti daugiau licencijų arba jei turite per daug, pasirinkite prenumeratą. Prenumeratos duomenų puslapyje pasirinkite **Pirkti licencijas** arba **Šalinti licencijas,** kad koreguotumėte bendrą prenumeratos licencijų skaičių.
 
