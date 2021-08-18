@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500996"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327259"
 ---
 # <a name="trying-to-find-a-trial"></a>Bandote rasti bandomąją versiją?
 
@@ -31,9 +31,8 @@ Jei norite išbandyti naują tarnybą, galite rasti bandomosios versijos prenume
 
 2. Pasirinkite prenumeratą, atitinkančią jūsų poreikius, tada pasirinkite Gauti  **nemokamą bandomąją versiją**.
 
-    > [!NOTE]
-    > Ne visos prenumeratos galimos kaip bandomoji versija. Jei nematote mygtuko Gauti nemokamą **bandomąją** versiją, kai užvesite pelės žymiklį ant prenumeratos, tai reiškia, kad bandomoji versija negalima.
+    **Pastaba:** ne visos prenumeratos galimos kaip bandomoji versija. Jei nematote mygtuko Gauti nemokamą **bandomąją** versiją, kai užvesite pelės žymiklį ant prenumeratos, tai reiškia, kad bandomoji versija negalima.
   
-3. Jūsų gali paprašyti įvesti kredito kortelę arba kitą mokėjimo būdą, kad būtų galima pateikti papildomą patvirtinimą kaip saugos priemonę. Jums nebus taikomas mokestis už šią nemokamą bandomąją versiją. Mes saugosime jūsų mokėjimo informaciją faile ir jos nenaudosime jokiam pirkimui be jūsų patvirtinimo.
+3. Jūsų gali paprašyti įvesti kredito kortelę arba kitą mokėjimo būdą, kad kaip saugumo priemonę būtų galima pateikti papildomą patvirtinimą. Jums nebus taikomas mokestis už šią nemokamą bandomąją versiją. Mes saugosime jūsų mokėjimo informaciją faile ir jos nenaudosime jokiam pirkimui be jūsų patvirtinimo.
 
 4. Pasirinkite **Išbandyti dabar**.

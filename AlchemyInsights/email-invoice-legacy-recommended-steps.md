@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003631"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326513"
 ---
 # <a name="e-mail-invoice---legacy"></a>El. pašto sąskaita faktūra – senstelėjusi
 
@@ -36,7 +36,7 @@ Atlikite šiuos veiksmus, kad gautumėte prenumeratos sąskaitas faktūras el. p
 
 **Papildomų gavėjų įtraukimas norint gauti sąskaitas faktūras**
 
-Norėdami bendrinti savo prenumeratos ir palaikymo plano sąskaitas kas mėnesį su apskaitos komanda arba siųsti jas vienu iš kitų el. pašto adresų:
+Norėdami bendrinti savo prenumeratos ir palaikymo plano sąskaitas kas mėnesį su savo apskaitos komanda arba siųsti jas vienu iš kitų el. pašto adresų:
 
 1. Atlikite anksčiau nurodytus veiksmus, kad pirmiausia įgalintumėte sąskaitą faktūrą el. paštu, tada **pasirinkite Konfigūruoti gavėjus.**
 2. Įveskite el. pašto adresą, o tuomet pasirinkite **Įtraukti gavėją**. Galite įtraukti kelis el. pašto adresus.
@@ -52,5 +52,4 @@ Norėdami leisti vartotojams / grupėms, kurie turi prenumeratos lygio prieigą,
 4. Pasirinkite savo "Azure" prenumeratą, tada **spustelėkite Leisti kitiems atsisiųsti sąskaitą faktūrą.**
 5. **Pasirinkite** On **(į), tada** – Įrašyti puslapio viršuje.
 
-> [!NOTE]
-Jei esate ne paskyros administratorius, susisiekite su savo paskyros administratoriumi, kad jis vadovaudamiesi anksčiau pateiktomis instrukcijomis galėtų pasirinkti, įtraukti gavėjų arba leisti kitiems vartotojams atsisiųsti sąskaitą faktūrą.
+**Pastaba:** jei esate ne paskyros administratorius, susisiekite su savo paskyros administratoriumi, kad vadovaudamiesi anksčiau pateiktomis instrukcijomis turėtumėte pasirinkti, įtraukti gavėjų arba leisti kitiems vartotojams atsisiųsti sąskaitą faktūrą.
