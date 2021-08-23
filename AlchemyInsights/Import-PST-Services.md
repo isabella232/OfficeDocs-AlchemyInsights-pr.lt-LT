@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Tarnybos importavimas Office 365 saugos & centre
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312731"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418157"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Importavimo tarnyba
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Tarnybos importavimas Office 365 saugos & centre
 
-Norėdami pasiekti importavimo tarnybą ir pradėti importavimo procesą:
+Office 365 Importavimo tarnyba leidžia importuoti kelis PST failus į vartotojų pašto Exchange Online pašto dėžutes. Naudokite importavimo tarnybą norėdami masiškai importuoti PST failus į organizaciją naudodami parinktį **Tinklo nusiuntimas** **arba Disko siuntimas.**
 
-1. Eikite [į M365 atitikties](https://compliance.microsoft.com/)centrą ir prisijunkite naudodami organizacijos administratoriaus paskyros kredencialus.
+Norėdami pasiekti importavimo tarnybą ir įrankius, kad importuojate kelis PST failus:
 
-1. Kairiojoje M365 atitikties centro srityje dalyje **Sprendimai pasirinkite Informacijos** **valdymas**  >  **Importuoti**.
+1. Eikite [Office 365 saugos & ir](https://protection.office.com)prisijunkite naudodami savo "Office 365 paskyrą.
+1. Pasirinkite **Duomenų valdymas**, pasirinkite **Importuoti** ir atlikite vediklio veiksmus. 
 
-1. Puslapyje **Importuoti** pasirinkite Nauja **importavimo užduotis**. Įveskite užduoties pavadinimą ir pasirinkite **Pirmyn**.
+Papildomos informacijos ir nuoseklių kelių PST failų importavimo instrukcijų žr. Organizacijos PST failų [importavimo apžvalga.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Pasirinkite **Upload duomenis, kad** būtų naudojama parinktis Tinklo nusiuntimas, naudojant parinktį Importuoti **užduoties tipą.** Išsamius veiksmus [žr. Tinklo nusiuntimo naudojimas](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)organizacijos PST failams importuoti į Microsoft 365 .
-
-Norėdami pasiekti **puslapį** Importuoti, įsitikinkite, kad jums priskirtos atitinkamos teisės. Daugiau informacijos žr. [Tinklo nusiuntimo naudojimas PST failams importuoti.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
-
-Jei norite importuoti PST į pašto dėžutę, žr. [El. pašto,](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)kontaktų ir kalendoriaus importavimas iš Outlook .pst failo .
-
-Jei kyla problemų dėl importavimo, žr. Problemos, [kurios turi įtakos PST importavimo uždams](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+Norėdami importuoti vieną PST failą, žr. [El. Outlook, kontaktų ir kalendoriaus importavimas ir eksportavimas.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
