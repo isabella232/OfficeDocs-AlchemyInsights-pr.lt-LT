@@ -3,8 +3,7 @@ title: Mažmeninės prekybos iš anksto apmokėta kortelė
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,16 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320997"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451930"
 ---
 # <a name="retail-prepaid-card"></a>Mažmeninės prekybos iš anksto apmokėta kortelė
 
-Jei įsigijote "Microsoft 365 Business Standard mažmeninės prekybos parduotuvėje, atlikite toliau nurodytus veiksmus, kad išplėstumėte galiojimo pabaigos datą arba įtrauksite licenciją į esamą prenumeratą.
+Jei įsigijote Microsoft 365 Business Standard mažmeninės prekybos parduotuvėje, atlikite toliau nurodytus veiksmus, kad išplėstumėte galiojimo pabaigos datą arba įtrauksite licenciją į esamą prenumeratą.
 
 **Pastaba:** norint pratęsti galiojimo datą arba įtraukti licenciją į esamą "Microsoft 365 Business Standard" prenumeratą, reikia naujo ir nenaudojamo tos pačios prenumeratos Microsoft 365 kodo. Įvedus pradinį Microsoft 365 produkto kodas neveiks, nes kodo, kuris jau buvo panaudotas, vėl naudoti negalima.
 
