@@ -1,6 +1,6 @@
 ---
-title: "\"Azure\" informacijos apsaugos (AIP) žymos"
-ms.author: pebuam
+title: „Azure“ informacijos apsaugos (AIP) žymos
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52125238"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451750"
 ---
-# <a name="azure-information-protection-aip-labels"></a>"Azure" informacijos apsaugos (AIP) žymos
+# <a name="azure-information-protection-aip-labels"></a>„Azure“ informacijos apsaugos (AIP) žymos
 
-"Azure" informacijos apsaugos (AIP) etikečių valdymas "Azure" portale ir AIP kliente yra nebenaudojamas nuo 2021 m. kovo 31 d. Daugiau informacijos žr. ["Azure" informacijos apsaugos (AIP) ženklinimas, klasifikavimas ir apsauga.](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Nuo 2021 m. kovo 31 d. „Azure“ informacijos apsaugos (AIP) žymų valdymas „Azure“ portale ir AIP kliente nebenaudojamas. Daugiau informacijos žr. [„Azure“ informacijos apsaugos (AIP) žymėjimas, klasifikavimas ir apsauga.](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
 
-Norėdami kurti ir valdyti etiketes, naudokite vieningas etikečių kūrimo galimybes Microsoft 365 vietoje. 
+Vietoj to, norėdami kurti ir valdyti žymas, naudokite vieningas žymų kūrimo galimybes platformoje „Microsoft 365“. 
 
 Daugiau informacijos žr.:
 
-[Slaptumo etikečių valdymas Office programose](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Slaptumo žymų valdymas „Office“ programose](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
 [Sužinokite apie slaptumo žymas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Žinomų AIP funkcijų problemų sąrašą žr. Žinomos [problemos – "Azure" informacijos apsauga](https://docs.microsoft.com/azure/information-protection/known-issues).
+Žinomų AIP funkcijų problemų sąrašą žr. dalyje [Žinomos problemos – „Azure“ informacijos apsauga](https://docs.microsoft.com/azure/information-protection/known-issues).
