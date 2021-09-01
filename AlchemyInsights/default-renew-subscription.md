@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: a198a0547b319bffa35e91f03456449dad9e634b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031846"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841549"
 ---
 # <a name="renewing-your-subscription"></a>Prenumeratos atnaujinimas
 
-Jei mokate kredito kortele arba banko sąskaita, periodinis atsiskaitymas yra įjungtas pagal numatytuosius nustatymus. Kai yra periodinis atsiskaitymas, prenumerata ir toliau bus išrašoma kiekvienais metais jūsų prenumeravimo dieną. Galite jį išjungti arba vėl įjungti administravimo centre, jei jūsų prenumerata aktyvi.
+Jei mokate kredito kortele arba banko sąskaita, periodinis atsiskaitymas yra įjungtas pagal numatytuosius nustatymus. Kai yra periodinis atsiskaitymas, prenumerata ir toliau bus išrašoma kiekvienais metais prenumeratos dieną. Galite jį išjungti arba vėl įjungti administravimo centre, jei jūsų prenumerata aktyvi.
 
 Jei iš anksto apmokėta prenumerata naudojant produkto kodą, prenumeratos galiojimo laikas baigsis prenumeratos termino pabaigoje. Galite įjungti periodinį atsiskaitymą ir pateikti kredito kortelės arba banko sąskaitos informaciją, kad prenumerata ir toliau būtų išrašoma kiekvienais metais prenumeratos dieną.
 

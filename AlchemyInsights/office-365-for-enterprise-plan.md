@@ -14,14 +14,15 @@ ms.custom:
 - commerce_subscriptions
 - "474"
 - "1500026"
+ms.date: 07/30/2021
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 9d438b7d570c15753193477379d856459c76381ed0104a6f919d5b46e06dcadf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 98f0e4caf4bdb8d4e6fcec17d6d22c4d9858d81b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53974425"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842233"
 ---
-# <a name="office-365-for-enterprise-plan"></a>Office 365 įmonės plano
+# <a name="office-365-for-enterprise-plan"></a>Office 365" planas
 
-Yra keli skirtingi planai, kuriuos galima naudoti su "Office 365 for Enterprise". [Palyginkite Office 365 planus ir kainas](https://products.office.com/business/compare-more-office-365-for-business-plans).  
+Yra keli skirtingi "Enterprise" Office 365 planai. [Palyginkite Office 365 planus ir kainas](https://products.office.com/business/compare-more-office-365-for-business-plans).  

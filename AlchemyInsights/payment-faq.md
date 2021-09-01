@@ -3,7 +3,6 @@ title: Mokėjimo DUK
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +13,20 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895715"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841909"
 ---
 # <a name="payment-faq"></a>Mokėjimo DUK
 
 Valdykite mokėjimus **"Microsoft 365" administravimo centras**.
 
 - Eikite **į Atsiskaitymo > Produktų [priskyrimas](https://go.microsoft.com/fwlink/p/?linkid=842054)** arba prenumeratos mokėjimo metodų keitimas.
-- Eikite **į > [mokėjimo būdai,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** kad įtrauksite, atnaujinsite, pakeisite arba panaikinsite mokėjimo būdus.
+- Eikite **į > mokėjimo [būdai,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** kad įtrauksite, atnaujinsite, pakeisite arba panaikinsite mokėjimo būdus.
 
 - **Mokėjimo būdai** – jei mokate kredito kortele arba pagal banko sąskaitą, mokėjimo būdas, susietas su jūsų prenumerata (-omis), bus naudojamas nuskaičiuoti mokesčiui per kelias dienas po to, kai sukuriama sąskaita. Jei mokėjimas nepavyks, atnaujinkite mokėjimo būdą. Daugiau informacijos žr. [Mokėjimo būdų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
