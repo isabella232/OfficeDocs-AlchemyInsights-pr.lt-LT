@@ -3,7 +3,6 @@ title: Bendrojo licencijavimo įmonės sutartis suaktyvinta netinkamoje paskyroj
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_licensing
 - "463"
 - "1500021"
-ms.openlocfilehash: e1885ffba9d1df1fba0fcca2f2b792bc218f7ab2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 64073e8133d0a88a56a74cc6934025451e312205
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323492"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843962"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Bendrojo licencijavimo įmonės sutartis suaktyvinta netinkamoje paskyroje arba licencijų perkėlimas iš vienos paskyros į kitą
 
-Jei randate prenumeratas, įsigytas naudojant bendrojo licencijavimo **Korporatyvinė sutartis** buvo suaktyvintos netinkamame nuomotoje **arba** norite perkelti **licencijas** iš vieno nuomotojo į kitą, kreipkitės [į palaikymo tarnybą](https://go.microsoft.com/fwlink/p/?linkid=518322).
+Jei pastebėsite, kad jūsų prenumeratos, įsigytos naudojant bendrojo licencijavimo **Korporatyvinė sutartis** buvo suaktyvintos netinkamame nuomotoje **arba** norite perduoti **licencijas** iš vieno nuomotojo kitam, kreipkitės [į palaikymo tarnybą](https://go.microsoft.com/fwlink/p/?linkid=518322).
