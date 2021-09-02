@@ -1,8 +1,9 @@
 ---
-title: Neautomatiškai sumokėti neapmokėtą likutį
+title: Neapmokėto likučio apmokėjimas rankiniu būdu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001506"
 - "9147"
 - "1500012"
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: c2b9f6142772f4afa9146b79fb9797acba611cff
-ms.sourcegitcommit: 1e00da0b3665f54e377cbe28809b2d1e1db4bd4b
-ms.translationtype: MT
+ms.date: 08/10/2021
+ms.openlocfilehash: 65621eae4c201a07983853f589caa5169a85660f
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492294"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836689"
 ---
-# <a name="manually-pay-an-outstanding-balance"></a>Neautomatiškai sumokėti neapmokėtą likutį
+# <a name="manually-pay-an-outstanding-balance"></a>Neapmokėto likučio apmokėjimas rankiniu būdu
 
-Dėl naujausių automatinių periodinių operacijų banko taisyklių pakeitimų jūsų mokėjimas gali būti atmestas jūsų banko. Atlikite toliau nurodytus veiksmus, kad neautomatiškai sumokėsite likutį.
+Dėl naujausių banko taisyklių, taikomų automatinėms pasikartojančioms operacijoms, pakeitimų, jūsų mokėjimą bankas gali atmesti. Atlikite toliau nurodytus veiksmus, kad rankiniu būdu sumokėtumėte likutį.
 
-1. Administravimo centre eikite į puslapį **Atsiskaitymo**  >  [& mokėjimai,](https://go.microsoft.com/fwlink/p/?linkid=2018806) tada pasirinkite **skirtuką Mokėjimo** metodai.
-2. Įspėjimo pranešime nurodoma, kuris mokėjimo būdas atmestas. Pasirinkite saitą **Sudengti likutį.**
-3. Dešinioje srityje pasirinkite dabartinį mokėjimo būdą, pasirinkite kitą mokėjimo būdą arba įtraukite naują mokėjimo būdą, tada pasirinkite **Sudengti likutį**.
-4. Jei jūsų bankas to reikalauja, būsite paraginti pateikti papildomą saugos ir autentifikavimo informaciją.
+1. Administravimo centre eikite į puslapį **Atsiskaitymas** > [Atsiskaitymas ir mokėjimai](https://go.microsoft.com/fwlink/p/?linkid=2018806), tada pasirinkite kortelę **Mokėjimo būdai**.
+2. Įspėjimo pranešime nurodoma, kuris mokėjimo būdas atmestas. Pasirinkite saitą **Suderinti likutį.**
+3. Dešinioje srityje pasirinkite dabartinį mokėjimo būdą, pasirinkite kitą mokėjimo būdą arba įtraukite naują mokėjimo būdą, tada pasirinkite **Suderinti likutį**.
+4. Jei jūsų bankas to reikalauja, būsite paraginti pateikti papildomą išsamią saugos ir autentifikavimo informaciją.
 
-Norėdami sužinoti daugiau, [žr. Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) [ir Mokėjimas už prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Norėdami sužinoti daugiau, žr. [Mokėjimo metodų valdymas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) ir [Mokėjimas už prenumeratą](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

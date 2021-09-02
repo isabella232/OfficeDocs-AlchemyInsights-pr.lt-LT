@@ -1,26 +1,29 @@
 ---
-title: Licencijos nėra arba ji dingsta iš administravimo centro
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Licencijos nėra arba ji pradingo iš administravimo centro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707845"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844538"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>Licencijos nėra arba ji dingsta iš administravimo centro
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>Licencijos nėra arba ji pradingo iš administravimo centro
 
+Jei jūsų licencija pradingo, patikrinkite, ar nesibaigia jūsų prenumerata. Norėdami patikrini galiojimo pabaigos datą, eikite į **Apmokėjimas** > [Mano produktai](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-Jei licencijos dingo, patikrinkite, ar jūsų prenumeratos galiojimo laikas dar nesibaigė. Norėdami patikrinti galiojimo datą, eikite į **Atsiskaitymas**   >   **[jūsų produktai](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-Atsižvelgiant į rodinį, galiojimo data bus rodoma dešiniajame stulpelyje **Data** arba prenumeratos informacijos **skiltyje Atsiskaitymas** šalia **Baigiasi**.
+Galiojimo pabaigos data rodoma stulpelyje **Prenumeratos būsena**.
