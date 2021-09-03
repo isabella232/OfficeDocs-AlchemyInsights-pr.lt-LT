@@ -11,13 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: 57a7973d8d7a8daede01b86f8bf2261a5aa33328fa3fa4ac3b2e0a8967ee964b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+- "5762"
+ms.openlocfilehash: f2a393b5fb820cfdbd04191cdd1fcda00e7c2b96
+ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116268"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58884025"
 ---
 # <a name="help-with-intune-enrollment"></a>Pagalba dėl "Intune" registracijos
 
@@ -34,4 +36,4 @@ ms.locfileid: "54116268"
 
 1. Naudokite "Intune" trikčių diagnostikos portalą, kad diagnozuojant ir išspręsdami bendrąsias registracijos triktis. Peržiūrėkite [šį](https://docs.microsoft.com/intune/help-desk-operators) dokumentą, jei reikia daugiau informacijos.
 
-2. Peržiūrėkite šiuos dokumentus, kad būtų pateikiamas sąrašas dažnai pasitaikančių klaidų, kurios neleidžia registruotis ir išspręsti kiekvieno iš jų: Trikčių diagnostikos [vadovas](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) [ir Trikčių diagnostikos dokumentas.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
+2. Peržiūrėkite šiuos dokumentus, kad būtų pateikiamas sąrašas dažnai pasitaikančių klaidų, kurios neleidžia registruotis ir išspręsti kiekvieno iš jų: [Trikčių](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) diagnostikos vadovas [ir Trikčių diagnostikos dokumentas.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
