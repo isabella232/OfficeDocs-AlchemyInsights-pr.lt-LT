@@ -1,5 +1,5 @@
 ---
-title: "\"Microsoft Viva\" ryšiai Pasiekiamumas"
+title: "\"Viva Connections\" kompiuterio taikomosios programos nustatymas"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000472"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923706"
 ---
-# <a name="microsoft-viva-connections-availability"></a>"Microsoft Viva" ryšiai Pasiekiamumas
+# <a name="set-up-the-viva-connections-desktop-app"></a>"Viva Connections" kompiuterio taikomosios programos nustatymas
 
-"Microsoft Viva" ryšiai bus galima naudoti staliniams kompiuteriams 2021 m. pirmąjį pusmetį, o mobiliesiems – 2021 m. vasarą. Per 2022 m. bus išsiųsite papildomų funkcijų.
+Yra du pagrindiniai "Viva Connections" Teams reikalavimai. 
 
-Daugiau informacijos žr., [kaip "Microsoft Viva" ryšiai padeda visiems sėsti ir informuoti.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Norint SharePoint "Viva Connections" pranašumus, būtina įdiegti ir įgalinti nuomotojo programėlių juostą. Primygtinai rekomenduojama naudoti namų svetainę kaip nusileidimo patirtį Teams. 
+- Pirmąją "Viva Connections" versiją galima parengti per "Microsoft" atsisiuntimo centrą naudojant "PowerShell" (naudokite naujausią ["SharePoint PowerShell" versiją).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Tada "Viva Connections" nusiunčiama kaip taikomoji programa Teams administravimo centre. "PowerShell" scenarijus pasiekiamas nuo 2021 m. kovo 31 d. Atsisiųskite "Viva Connections Desktop" iš oficialaus ["Microsoft" atsisiuntimo centro](https://www.microsoft.com/download/confirmation.aspx?id=102888). 
+
+Daugiau informacijos žr. ["Viva Connections" įtraukimas į "Microsoft Teams",](https://docs.microsoft.com/SharePoint/viva-connections) [Microsoft Teams "PowerShell" apžvalga](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).

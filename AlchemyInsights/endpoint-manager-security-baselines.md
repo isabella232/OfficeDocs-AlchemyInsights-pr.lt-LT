@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978169"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923562"
 ---
 # <a name="endpoint-manager---security-baselines"></a>„EndPoint Manager“ - saugos bazinės konfigūracijos
 
@@ -37,6 +37,8 @@ Kiekviena bazinė konfigūracija yra periodiškai atnaujinama ir išleidžiama p
 Dėl nurodymų, kaip efektyviausiai keisti diegiamą bazinės konfigūracijos versiją, žr. [ „Microsoft Intune“ saugos bazinės konfigūracijos tvarkymas](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Pritaikę saugos bazinę konfigūraciją, galite stebėti diegimo būseną ir peržiūrėti parametrus kiekviename įrenginyje.
+
+Kadangi saugos bazinėse linijose yra daug parametrų, svarbu peržiūrėti konfigūracijos pakeitimus ir atlikti testavimą, kad visi parametrai būtų tinkami jūsų įrenginiams ir verslo poreikiams.
 
 **Pastaba:** bazinių konfigūracijų ataskaitų duomenys gali užtrukti iki 24 valandų, kol bus rodomos po pradinio diegimo įrenginyje, o iki tolesnių naujinimų - iki 6 valandų. 
 
